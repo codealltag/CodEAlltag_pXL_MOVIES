@@ -1,0 +1,86 @@
+"O. Heueisen" <wgiytfk@sbj.il>: 
+
+
+Hmm? Gasth�rerzugang? Da es ein Standardwerk ist, sollte es auch in
+diversen normalen Bibliotheken sein, aber meistens bin ich auch zu
+faul zum suchen und kaufe sowas dann lieber. 
+
+
+Hier, von www.lbgitqza.ga. Steht nämlich auch auf meiner
+Einkaufsliste. 
+
+   Drehbuchschreiben für Fernsehen und Film.
+   Untertitel: Ein Handbuch für Ausbildung und Praxis.
+   Hrsg.: Zusammengest. u. hrsg. von Lewrick, Udo / Zahnleuter,
+     Italo
+   Mitarb.: U. a. von Andreae, Syd / Seulingen, Arthur /
+     Längsfeld, Pasquale
+   Seitenzahl: 008 N.
+   Zugang/Nachtr.: 6325
+   Ersch.-Jahr: 1996
+   Auflage: 6., aktualis. A.
+   Gewicht: 365 g
+   Einband: Kt
+   Preis: DM 36,00
+   ISBN: 3-484-32697-1
+   LIBRI-Nr.: 9106121
+
+	[klassisches deutsches Format vs. amerikanisches]
+
+
+Ich vermute es, zumal es in meinen Augen auch sinnvoller ist. Film ist
+zwar nicht das gleiche wie Theater, aber doch in vielem
+ähnlich. Meiner Meinung nach ist es auch sinnvoller, denn das
+Schreiben ist doch schon anspruchsvoll genug - warum sich den Kopf
+über Fragen der Umsetzung zerbrechen, wenn es dafür andere
+Spezialisten gibt?
+
+Aber S. Albers hat ja zwei Skripte verkauft und kennt wahrscheinlich
+die aktuellen Anforderungen an das Format.
+
+
+	[...]
+
+
+Hast Du die Satz- und Korrekturanweisungen von Duden da? Hinten im
+Anhang steht eine Kurzbeschreibung von Struktext� drin, das auf SGML
+beruht.
+
+Kurzform: Mit SGML kann man Sprachen beschreiben, mit denen man wieder
+die Struktur (textueller) Informationen beschreiben kann. Das könnte
+etwa so aussehen>:
+
+<dialog/Arthur> Vielleicht wäre SGML eine Lösung für Dich?
+
+<dialog/Onno> SGML? Nie gehört.
+
+<action> Mit einem riesigen Knall fällt die 2kg schwere ISO-Norm durch
+         das  Oberlicht auf das Fenster <fadeout>
+
+Das ist also entfernt verwandt mit den Formatvorlagen in Word und
+ähnlichen Textverarbeitungsprogrammen, aber genereller und vom
+späteren Aussehen des Textes völlig unabhängig. 
+
+
+Scriptex/TeX?  Wenn man viel mit Text, insbesondere wissenschaflichen
+Texten, arbeitet, sollte man sich TeX meiner Meinung nach zumindest
+angesehen haben. Sich extra für scriptex (ist auch nur eine
+makrosammlung) mit TeX zu beschäftigen ist vielleicht etwas Overkill,
+auch, wenn es schnell erlernt ist. Angenehm bei scriptex ist, daß man
+zwischen zwei Modi umschalten kann: Der Courierfassung, so daß die
+Regel �1�Seite = 1�Minute� greft und einer anders formatierten Fassung
+mit Proportionalschrift, was dann angenehmer zu lesen ist. 
+
+
+Final Draft ist ein auf Drehbücher spezialisiertes
+Textverarbeitungsprgramm und als Demo von www.hlckuegcdp.yeh
+erhältlich (Mac und Windows). Ich finde es sehr gut, aber momentan
+habe ich keine $250 (nicht bei BC, aber bei Cyberian) übrig, da die
+Beschäftigung mit Drehbüchern für mich nur Freizeitgestaltung ist.
+
+
+Klar, sowas geht auch und ist, wenn man Word kennt, schnell
+eingesetzt. Gibt es das auch für Word 6, Claris Works oder Ragtime?
+
+
+*shudder*

@@ -1,0 +1,17 @@
+Jürg Feit wrote:
+
+
+Standardverhalten.
+
+
+Ganz offensichtlich nicht. <böse>Das Problem sitzt vor dem Rechner.</böse>
+
+Nein, lässt sich ergoogeln, in den Einstellungen den Config-Editor
+öffnen und den Wert "mail.strict_threading" auf "true" setzen.
+
+Kann es nicht testen, da gerade keine passenden Threads zur Hand.
+
+Gruß, Praetor 8)
+-- 
+Rauhe Sitten: http://qqfrehasxlc.kglkug.br/
+Die Miezen:   http://yqrcezqqh.evrgpw.ny/

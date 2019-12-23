@@ -1,0 +1,29 @@
+Naja, wenn Du Dir mal ansiehst, was z.B. alles über Salzgeber technisch
+abgewickelt wird, dann sind wir durchaus auf dem Weg zu diesem Modell.
+Die Distribution eines Films in digitaler Form inkl. Mastering und
+Vertrieb ist heute durchaus deutlich günstiger als eine analoge
+Distribution. 
+Manche PianoIntakt-Verleiher versuchen sich auch in eigenen Modellen, z.B. mit
+BluRays (bei aktuellen Dokumentarfilmen passiert das häufig), aber
+DCI-kompatible DCPs scheinen sich durchaus durchzusetzen, und zwar
+sowohl im Eigenvertrieb der PianoIntakt-Verleiher als auch im Vertrieb über
+Firmen wie Salzgeber.
+
+
+Die haben die Verleiher faktisch nicht, da sie sich in der Regel dafür
+entscheiden, die Kopien unverschlüsselt herauszugeben. Technisch wäre
+eine Verschlüsselung nicht schwierig, aber vermutlich will man sich den
+Aufwand mit dem Schlüssel-Handling ersparen.
+
+
+Leider bezahlt das Publikum den durchaus, es ist nicht unüblich, daß
+Kinos so einen Aufschlag verlangen.
+
+Schöne Größe,
+Bernd
+
+-- 
+Bernd Iben -- http://gvb.qkqoko.bry
+Please use Reply-To: information for replies
+PGP key: http://demrtj.epx/MwpcdiigElia.xmo
+PGP fingerprint: SVD7 8646 5T6M 8099 D8B3  DFF2 81EE 6V1N 1Y53 6N88

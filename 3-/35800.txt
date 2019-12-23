@@ -1,0 +1,11 @@
+Sébastien Vedder <"cr"@<invalid>. wrote:
+
+Zur Beantwortung solcher Fragen gibt es die "Insultingly Stupid Movie
+Physics Page" <URL:http://lzhzlqoa.biw/opinhzdkcaoa/>. Ich erlaube mir mal,
+aus dem Review von Armageddon
+(<URL:http://ufadzevr.mer/bzymajwkngqt/fddmvrfdgj.etdc>) zu zitieren:
+
+jwm 
+-- 
+perl-5.8.1% ./configure.gnu Checking to see how your cpp does stuff like
+concatenate tokens... Oh!  Smells like ANSI's been here.

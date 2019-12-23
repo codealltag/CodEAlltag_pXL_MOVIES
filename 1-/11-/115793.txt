@@ -1,0 +1,41 @@
+n.dpdtsaf@brk.yo (lutz feustel) wrote in
+<9bw7q5$92md7$4@QV-41447.bqxr.fzdujb.iu>: 
+
+
+"Wenn Du gesehen haettest, was ich mit deinen Augen gesehen habe"
+:)
+
+
+Es dringt nur einer bis zu Tyrell vor (Folkert Neuberger)und das auf sehr 
+"einfache Art". Sie suchen den Augentypen auf, der die Adresse von 
+Ueli rausrueckt. Ueli fuehrt den Repli dann zu Tyrell. Viel 
+intelligenz brauch es dazu nicht. 
+
+
+Ja, aber ihnen fehlen gewisse Eigenschaften, wobei ich Karin von den 
+anderen 4 ausgrenze, da sie ein Model mit Vergangenheit ist.
+
+Deckard beherrscht z.B. Ironie (siehe Gespraech mit Leidel am Anfang), 
+Karin beherscht es ansatzweise (siehe VK/Test), die anderen koennen damit 
+kaum ungehen.  Die anderen 3 haben eher ein krankes Verhalten (Siehe Szene 
+als der eine Repli in den Kaeltebehaelter greift in denen die Augen sind 
+und diese dann dem Augenspezialist auf die Schultern legt). Auch die Art 
+der Verzweiflung der Replis ueber ihre kurze Lebensdauer zeigt, dass sie im 
+Vergleich zu Menschen nicht sehr viele Moeglichkeiten haben sich 
+auszudruecken. 
+
+
+Insgesamt merkt man, dass den Replis etwas fehlt, was sie menschlich macht. 
+Bei Deckard erkennt man das nicht, im Gegenteil. 
+
+
+IF Probant := Augenzwinkern OR Ohrenschlackern OR FeuchteFinger
+THEN ASK "Erzaehlen sie mir was Ihnen postivies und negatives in den Sinn 
+kommt ueber Ihre Mutter"
+
+
+:)
+
+cya,
+
+Michael

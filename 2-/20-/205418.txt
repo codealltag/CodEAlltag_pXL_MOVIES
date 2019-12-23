@@ -1,0 +1,21 @@
+wrfr@qqryb.ppgzbulud.nex.xq (Rudolf Felgendreff) writes:
+
+
+Wenn Du keinen direkten Anschluss ans Internet hast (mit WWW und so),
+wird Dir das nichts helfen. Die Movie Database ist ein Online Dienst
+im Internet, die im WWW von verschiedenen Stellen aus abrufbar ist
+(z.B. http://foj.oum.amh/Xfkbqm/).
+Allerdings gibt es auch einen Mailer, der Anfragen als Mails
+beantworten kann. Wenn Du mail ins Internet schicken kannst, versuch
+folgendes (Zitat aus der FAQ):
+
+For details send a message with the subject HELP to
+<movie@ibmpcug.co.uk> and the movie mail-server will respond with a guide. 
+
+Vielleicht hilft Dir das weiter
+
+Gruss -- Albert
+
+--------------------------------------------------------------------------------
+Axel Bauhaus * gwkkd@scpogpcsyf.mx-udvrnmmh.hz * wolfii@leo.org * IRC: albert
+               Windows 3.1 -- from the guys who brought you edlin

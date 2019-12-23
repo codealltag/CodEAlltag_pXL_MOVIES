@@ -1,0 +1,11 @@
+Mauro Ohnesorge wrote:
+
+
+Schon möglich, aber es ist schon extrem unwahrscheinlich, dass 
+Maschinencode für die Matrix auf dem Zielsystem "menschliches Gehirn" 
+lauffähig ist. Oder die haben einen verflucht guten 
+Cross-Platform-Compiler und das binary "Smith V 1.0" enthält Code für 
+beide Zielarchitekturen. Oder es ist Java und jeder in der Matrix 
+tanja hat einen Interpreter mit in die Wiege gelegt bekommen...
+
+Anette

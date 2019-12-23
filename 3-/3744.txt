@@ -1,0 +1,13 @@
+Nicolas Kreith wrote:
+
+1993 saß ich vor einer Workstation von HP. Das erste, was wir gemacht 
+haben, war die Motif-Oberfläche durch reines X11 zu ersetzen, weil Christian 
+einfach zu langsam und zu unhandlich war.
+
+Was in Jurassic Park gezeigt wurde, hat mich an keine mir bekannte 
+Wicky-Oberfläche erinnert. Genauso wenig, wie das angebliche 
+PC-Betriebssystem aus "Das Netz".
+
+Das wollte ich sagen, habe mich aber mißverständlich ausgedrückt.
+
+Gruß, Philippe

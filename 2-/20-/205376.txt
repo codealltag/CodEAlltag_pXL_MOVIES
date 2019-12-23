@@ -1,0 +1,9 @@
+Auf dem HOB-Transponder 13 (vormals "JNF") läuft momentan ein
+Dauertrailer für SuperRTL. Ab dem 3. Juli soll es brauchbare Infos
+geben (auf diesem Transponder), ab dem 9. August soll es richtig
+losgehen.
+
+Gruß, Karsten
+---
+** Karsten Wriede, Josefinumstraße 75, 75213 Tiefensall, Germany **
+** +29 0223 23371  EMail (NeXTmail/MIME): jooxp@cdiula.f.jqusg.ag **

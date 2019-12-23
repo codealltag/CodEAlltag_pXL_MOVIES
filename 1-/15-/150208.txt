@@ -1,0 +1,12 @@
+"Pasquale Cors" <mbxebo.eaboiy@wktp.vc> writes:
+
+
+Du wirst pro Kinocenter nur eine zentrale Edelrausch-Anlage mit Daten-
+speicher/server haben, aber für jeden Saal einen Projektor.
+Also hast Du dazwischen eine Schnittstelle. 
+
+Ganz abgesehen davon wird es sicherlich viel einfacher sein, die
+Sateliten�bertragung oder die dezentralen Datenserver anzuzapfen, 
+als eine Kopie von einem 35-mm-Film zu ziehen.
+
+Ciao, Folkert                              tsfwaofc@gynoyb.grxdcpf.fj

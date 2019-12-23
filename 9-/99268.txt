@@ -1,0 +1,10 @@
+vielleicht
+
+Hi, checke mal das Programm dvdprofiler. Damit kannst Du eigentlich Deine
+DVD-Sammlung on- und offline verwalten, aber der dvdprofiler legt ein
+komplettes DVD-Verzeichnis offline ab.
+Wenn Du das datenbankprogrammtechnisch abfragen/anzapfen kannst (SQL), dann
+hast Du eine aktuelle Auflistung aller internationasl erhältlichen DVDs
+(allerdings mit Dupletten).
+
+Danke

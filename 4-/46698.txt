@@ -1,0 +1,5 @@
+Hmm...Zwischen den beiden Verfahren
+"Auslesen - Entschlüsseln - Neuencoden - Schreiben" und
+"Auslesen - Schreiben"
+scheint mir letzteres mit weniger Kniffen verbunden. CSS verhindert
+aber nur ersteres.

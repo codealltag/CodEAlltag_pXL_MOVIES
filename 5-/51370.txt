@@ -1,0 +1,7 @@
+Luc Oettinger wrote:
+
+
+Scheint Differenz in Tagen zwischen Datum1 und Datum2 zu sein.
+
+Gruß,
+Fred

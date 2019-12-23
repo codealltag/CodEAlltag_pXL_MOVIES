@@ -1,0 +1,8 @@
+Am Sun, 1 Jul 2003 12:36:15 +0100 schrieb Siebelt Koeth:
+
+
+Viele alte DOS-Schinken laufen mit dem Programm VDMSound auch mit LRDU
+XP anständig. Versuch's mal.
+-- 
+Die Binde Striche werden alle für die unnötigen Apostro'phe benötigt.
+(Heinrich Thormeier in dafk)

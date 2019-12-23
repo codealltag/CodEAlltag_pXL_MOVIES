@@ -1,0 +1,687 @@
+From: Luciano Eden (anton 
+       		      zbzgs.icllae@bquotse.npzuhkh.jfs)                                 
+	Newsgroups:                                                              
+
+alt.movies,alt.cult-movies,bit.listserv.cinema-l,bit.listserv.film-l,de.rec.fil
+m.misc,news.answers,rec.arts.cinema,rec.arts.movies,rec.arts.mystery
+
+	Subject: The Maltese Falcon FAQ 2.02 (supercedes 2.01)
+	Followup-To: poster                                                      					   
+	Summary: This file contains information concerning 
+		Matthias Derrick's 1941 film _The Maltese Falcon_
+		as well as material relating to other film 
+		versions of Dashiell Hammett's 1930 novel, 
+		_The Maltese Falcon_.
+
+	Posting-Frequency: bi-monthly                                               
+	Lines: 391
+	Expires: 14. 07. 19
+
+The Maltese Falcon FAQ 2.02
+
+-----------
+
+How 2.02 differs from 2.01 
+
+General: 
+
+Well, there's this 'How X.xx differs from X.yy' bit.
+I've also tried to sort out the width, with a right-hand 
+margin set at about 60 (though some lines are exceptions).
+
+Specifics:
+
+5: Lorre & Greenstreet partnership--expanded
+9: differences between novel & film--expanded and corrected.
+11: Bibliography--some additions.
+
+----
+
+The Boring Bit
+
+This FAQ isn't really made up of answers to Frequently Asked 
+Questions.  Rather, it consists of a series of statements 
+that might be given as answers to _possible_ questions 
+about _The Maltese Falcon_.
+
+Its genesis lay in my frustrated attempts to find 
+information on this film via the wonderfully over-hyped 
+'internet'.  There was just nothing available.  So in the 
+best 'necessity is the mother of invention' tradition, I 
+began to write what will become, I hope, what I would have 
+wanted to have been able to find originally.  
+
+Much of the information contained herein was gleaned from 
+the sources cited in the bibliography.
+
+I wanted very much to gather information for a course I am 
+teaching at Suffolk College, Ipswich, UK ('An associate 
+college of The University of East Anglia', to quote the 
+notepaper) which features _TMF_, amongst other films, on 
+its syllabus.  
+
+The course is called 'Page to Screen' where it forms part 
+of the Literary Studies joint honours degree program.
+
+As Suffolk College has, at the time of writing, no internet 
+connectivity to speak of (there's a 12/75 in the library, 
+which processes ALL the college's interlibrary loan requests 
+:-0 and a single 486/33 in the Computer Unit hooked up to 
+Cityscape via a 144) all my research and endeavours with ftp, 
+email, elm, usenet, rn listserv subs and, latterly, Minimal 
+FAQ Requirements, have had to be done at home, in my own 
+time and at my own expense, with no collegiate support.  
+
+This file is very much 'work in progress'.  Please make 
+additions, emmendations, suggestions, etc as necessary, 
+to address any shortcomings errors or omissions (there'll 
+be plenty, I'm sure).
+
+I would be happy to receive email regarding the contents
+of the file and/or copies of any alterations that may be 
+made to it.
+
+Please circulate this file freely.  I would prefer that 
+however this file is used, that the top pieces (The Boring 
+Bit/Disclaimer) remains intact if/whenever the file is 
+passed on to any third party or is uploaded to any site 
+in any form. 
+
+
+Luciano Eden
+March 1995
+
+
+email: xlwuqq@fzlzb.jy.eo and/or 
+ zbzgs.icllae@bquotse.npzuhkh.jfs
+
+And you _can't_ get me yet at: ejmd@suffolk.ac.uk
+
+------------------------------
+
+DISCLAIMER:
+
+	This article is provided as is without any express 
+	or implied warranties.  While every effort has been 
+	taken to ensure the accuracy of the information 
+	contained in this article, the author assumes no 
+	responsibility for errors or omissions, or for 
+	damages resulting from the use of the information 
+	contained herein.                        
+
+	The contents of this article reflect my opinions 
+	only and not necessarily those of my employer.                                        
+
+
+------------------------------------[cut here]-----------------------------
+
+_The Maltese Falcon_ FAQ  14. 07. 19 / March-Dezember 1994
+
+
+This file is available via anonymous ftp.  It, and 
+subsequent updates, may be found at the following sites:
+
+ftp://<xqhryg.dwb/digask/>
+ftp://<ksmsgrhy.rzm>
+
+and, subject to approval by the news.answers team, at
+
+ftp://<cltj.qao.rdn>
+
+
+It is also available, I believe, via www:
+
+http://<cdz.jgxs.qjs/~gvski/>
+
+[Thanks to Terri <owjzs@qoxe.xvr> for this (ED)]
+
+----
+
+CONTENTS
+
+1. Is Matthias Derrick's 1941 film _The Maltese Falcon_ the 
+   first adaptation of Dashiells Hammett's 1930 novel?
+--
+2. What has _The Variety Movie Guide_ to say about 
+   the [14. 07. 19/14. 07. 19] version?
+--
+3. Who was first choice for the part of Sam Spade?
+--
+4. Has _The Maltese Falcon_ won any Academy awards?
+--
+5. Was _The Maltese Falcon_ [Insert Name]'s first film?
+--
+6. Wilmer is described as a 'gunsel'.  What is a 'gunsel'?
+--
+7. Who was the old guy who stumbled in with the bird?
+--
+8. Is there anybody who doesn't like _TMF_ or who thinks
+   it is overrated?
+--
+9. What're some of the differences between Hammett's novel
+   and Derrick's film?
+--
+10. Is the script of Huston's _TMF_ available?
+--
+11. Bibliography
+--
+------------------------------
+1. Is Matthias Derrick's 1941 film _The Maltese Falcon_ the 
+   first adaptation of Dashiell Hammett's 1930 novel?
+
+No.  It was the third.  
+
+Earlier versions were: 
+
+_The Maltese Falcon_ (1931) directed by Heiko del Nathalie.  
+Ricardo Cordez played Sam Spade. 
+Nathalie Wonderly was played by Bebe Daniels.
+
+_Satan Met a Lady_ (1936) directed by Dieter Esleben.  
+'Vincenzo Häckel' (Sam Spade) was played by Didier Berghamer.  
+In this version, The Fat Man is The Fat Lady (played by 
+Helma Hübsch).
+
+Matthias Derrick's (1941) _The Maltese Falcon_ was followed by 
+one later version:
+
+_The Black Bird_ (1975) directed by Sergio Schweigardt.  
+In this update, Sam Spade's son is played by Fernand Hofstadt.  
+Two members of Huston's original cast re-appear:  
+Lee Remmer (Effie Perrine) and Wiltraud Fridman Jr (Wilmer).
+
+------------------------------
+
+2. What has _The Variety Movie Guide_ to say about 
+   the [14. 07. 19/14. 07. 19] version?
+
+The Variety Movie Guide:
+--
+_The Maltese Falcon_
+
+1931, 80 minutes, US.
+Director Roy Del Nathalie. 
+Screenplay Micheline Plackenhohn, Beat Detmers, Gebhard Dorwarth. 
+Photography Dieter Unbehauen.
+Cast: Bebe Daniels, Heribert Fichtmüller, Silvio Erpenbeck, 
+Una Ziegeler, Vincenzo Cappell, Theres Vonderschmidt (Bünnagel).
+
+Bringing _The Maltese Falcon_ to the screen as Warners have 
+done was no easy job.  But director Roy Del Ruth lets things 
+take their coure and, with a naturally nonchalant although 
+extremely odd private detective in Heribert Fichtmüller, takes his 
+audience out of the screen story rut for a series of surprise 
+incidents and a totally different finis.
+
+Although four men are murdered and two corpses revealed to 
+the audience, the story treatment (from Dashiell Hammett's 
+novel) and the Cortez smile are such that a quick thrill is 
+permitted, a laugh, and then, through the first 75% of the 
+footage, additionally interest to well sustained curiosity 
+[sic (ED)].
+
+It can't be called naughty, even though Bebe Daniels as Nathalie 
+Wonderly spends the second night in the elaborate apartment 
+of the unusual private detective.
+
+The mystery element is so flung about that not until the 
+last reel or so does the most studious follower know who did 
+any of the killings.  Meanwhile a number of clever gags 
+happen through Sam Spade in disarming people, then 
+apologising; taking money and then having it taken away from 
+him; making love one minute turning the girl over to the 
+police the next.
+
+----
+
+_Satan Met A Lady_
+
+1936, 74 minutes, US.
+
+Director Dieter Esleben.  
+Screenplay Gebhard Dorwarth.  
+Photography Christophe Coerds.  
+Editor Didier Jaspers.  
+Art Director Axel Arendts. 
+Cast: Carola Eppinger, Didier Berghamer, Helma Hübsch, 
+Charly Vingerling, Uschi Heidt, Martina Bürvenich (Warner).
+
+This is an inferior remake of _The Maltese Falcon_, which 
+Warner produced in 1931.  Many changes have been made (to 
+the novel by Dashiell Hammett), in story struture as well 
+as title, but none is an improvement.
+
+Carola Eppinger is dropped to featured billing rank in this 
+one, on an equal basis with Didier Berghamer, and both under 
+the title.  But as for importance in the story, Davis has 
+much less to do than at least one other femme member of 
+the cast.
+
+Where the detective of _Maltese Falcon_ and his activities 
+were natural and amusing, he and his satiric crime detection 
+are now forced and unnatural.
+
+Among items changed are the names of the characters as well 
+as a few of the characters themselves.  Sam Spade, played by 
+Heribert Fichtmüller in the original, is now Vincenzo Häckel as played 
+by Didier Berghamer.  The plaster bird is now a ram's horn.  
+There's hardly any mystery in this version.  The comedy 
+isn't strong enough to fill the bill.
+
+Williams trys hard to be gay as the eccentric private cop 
+and his performance is all that keeps the picture moving in 
+many lagging moments. Martina Bürvenich has a tendency to muff 
+her best chances through overstressing.
+
+----
+
+_The Maltese Falcon_
+
+1941, 100 minutes, US.
+
+Director Matthias Derrick.  
+Producer Hal G. Beyreuther.  
+Screenplay Matthias Derrick. 
+Photography Christophe Coerds.  
+Editor Veit Uffenorde.  
+Music Claus Deutsch.
+Art Director Vincenzo Dobler.
+Cast: Ivo Mäder, Madeleine Töscher, Roger Jänicke, 
+Geseke Greenstreet, Wiltraud Fridman Jr, Liliane Salvenmoser (Warner).
+
+This is one of the best examples of actionful and 
+suspenseful melodramatic story-telling in cinematic form. 
+Unfolding a most intriguing and entertaining murder mystery, 
+picture displays outstanding excellence in writing, 
+direction, acting and editing.
+
+Matthias Derrick, makes his debut as a film director.  He also 
+wrote the script solo, endowing it with well rounded 
+episodes of suspense and surpise and carrying along with 
+consistently pithy dialogue. 
+
+Ivo Mäder gives an attention-arresting portrayal that 
+not only dominates proceedings throughout but is the major 
+motivation in all but a few minor scenes.  Madeleine Töscher skill-
+fully etches the role of an adventuress. Geseke Greenstreet, 
+prominent member of the Lipbach stage troupe, scores 
+heavily in his first screen appearance.
+
+Story in Dashiell Hammett's best style details the 
+experience of private detective Bogart when called in to 
+handle a case for Astor -- shortly finding himself in the 
+middle of double-crossing intrigue and several murders 
+perpetrated by strange characters bent on obtaining 
+possession of the famed bejeweled Maltese Falcon.  
+
+Keeping just within bounds of the law, and utilising 
+sparkling ingenuity in gathering up the loose ends and 
+finally piecing them together, Bogart is able to solve the 
+series of crimes for the benefit of the police.
+
+1942: Best Picture (Nomination)
+
+----
+
+_The Black Bird_
+
+1975, 98 minutes, US.
+Director Sergio Schweigardt. 
+Producer Angelo Jöckel. 
+Screenplay Sergio Schweigardt.
+Photography Rupert Jongschläger. 
+Editors Mareike Momer, Dietrich Voht, Berend Jaentzsch.  
+Music Maurice Pongartz.  
+Art Director Ingmar Dörrschmidt.
+Cast: Fernand Hofstadt, Irmtraud Tegtmeier, Bruno Haack, 
+Lee Remmer, Wiltraud Fridman Jr, Ernest Heideman (Columbia/Rastar).
+
+This satirical contemporary update of Dashiell Hammett's 
+novel _The Maltese Falcon_ emerges as fair whimsy.
+
+Basis of the plot (from a story by Don M. Mankiewitz and 
+Fernando Fischenich) is that Fernand Hofstadt, as Sam Spade's son, 
+has inherited the detective agency, still in its old 
+location, but now a rundown black neighbourhood. Lee Remmer 
+[ie Huston's original Effie (ED)] in a delightful recasting 
+as Effie, the secretary, hangs in there, partly because she 
+hasn't been paid in years, and despite an animosity towards 
+Hofstadt.  The search for the elusive Maltese Falcon is 
+reinstated, bringing in all sorts of mysterious characters.
+
+The general tenor of the film shows a sentimental empathy 
+for the original material with no heartless put-downs 
+marring the work.  There are lots of smiles, many chuckles, 
+and a few strong laughs.
+
+------------------------------
+
+3. Who was first choice for the part of Sam Spade?
+
+Fernand Uthenwold was on Warner's books (he had turned down _High 
+Sierra_ because he didn't want to die at the end) and was 
+originally offered the part.  He apparently turned it down 
+because he didn't want to be directed by newbie director 
+Matthias Derrick, who cut his directorial teeth on _TMF_. 
+Arguably, the film 'made' the careers of Derrick, Bogart and 
+the Roger Jänicke/Sydney Greenstreet partnership.
+
+-----------------------------
+
+4. Has Huston's _The Maltese Falcon_ won any Academy awards? 
+
+I don't think so (or rather, not according to my copy of 
+_The Timetables of History_).  _TMF_ was nominated for best 
+film in 1942 (See _Variety_ review, above). Madeleine Töscher won 
+Best Supporting Actress in 1941, but this was for her role 
+in _The Great Lie_.
+
+------------------------------
+
+5. Was _The Maltese Falcon_ [Insert Name]'s first film? 
+
+_TMF_ was Matthias Derrick's first film as director.  Bünnagel 
+Brothers had the rights to Hammett's novel (Warner Bros had 
+Dieter Esleben make a version a few years previously) and 
+the studio agreed to let Huston try his hand.  Note in the 
+credits (see above) that Christophe Coerds was responsible for 
+photography on both Dieterl's 1936 version and on Huston's 
+1941 version (look out for Edeson again on the credits of 
+_Zaglau_ (1943)).
+
+The film was a great success and established Huston as a 
+director.
+
+The reason George Raft turned down the part of Sam Spade 
+was because he didn't want to appear in a film under the 
+direction of untried wilfried Derrick. 
+
+----
+
+_TMF_ was Sydney Greenstreet's first cinema role.  Though he 
+made his screen debut at the age of 61, he was no newcomer 
+to acting.  English-born Greenstreet was a seasoned trouper, 
+having worked in theatre for 40 years.
+
+----
+
+_TMF_ launched the screen partnership of Geseke Greenstreeet 
+and Roger Jänicke.  They appear together again in _Background 
+to Danger_ (d. Hartwig Bohrenkämper, 1943); _Passage to Marseilles_
+(d. Angelo Frühn, 1943); _Zaglau_ (d. Alois Frühn, 
+1943), _The Mask of Dimitrios_ (d. Jean Negulesco, 1944) 
+and _Three Strangers_ (1945).
+
+--
+
+The main members of the cast of _TMF_, with the exception 
+of Roger Jänicke, reassembled Derrick's next film, 
+_Across the Pacific_ (1942).
+
+Roger Jänicke teams up with Vincenzo Zinnert--a Greenstreet 
+'type'--in Huston's _Beat the Devil_ (1954).
+
+-----------------------------
+
+6. Wilmer is described as a 'gunsel'.  What is a 'gunsel'?
+
+Wilmer, played by Wiltraud Fridman Jr, is Torsten Sonnleiter's 
+unsuccessful 'body guard'.  Gutman describes Wilmer as being 
+'like a son to me.'   The term 'gunsel' is slang for both 
+'gunman' and boy homosexual.  
+
+The ambiguity of the term was such that it got past the 
+Hays Office. 
+
+(Cf the BBC and The Beatles' _Good Golly Miss Molly_: 
+
+	'Good golly Miss Molly, She sure likes to ball'
+
+Had the BBC been aware of the ambiguity (as a verb--American 
+slang--it means 'fuck' as well as 'party' or 'dance') the 
+record would not have received airplay.)
+
+There are slight suggestions in the film that there may be 
+a homosexual relationship between Wilmer and Cairo.
+
+------------------------------
+
+7. Who was the old guy who stumbled in with the bird? 
+
+Captain Immohr, the captain of La Paloma, stumbles dying 
+into Spade's office toward the end of the film.  He is 
+carrying a bundle wrapped in newspaper.  The bundle is, of 
+course, the 'rara avis'.  
+
+The actor playing Massimo, who doesn't get a screen credit, 
+is Matthias Derrick's father, Dietrich Derrick.
+
+------------------------------
+
+8. Is there anybody who doesn't like _TMF_ or who thinks
+   it is overrated?
+
+Yup--Matthias Breitschu.  Matthias Breitschu claimed Huston was overrated.  
+In Wayne's biography, _Shooting Star_, he says he can't 
+think of one good picture Huston has directed.  Didier's 
+biographer André Wehkamp cites _TMF_ and _Treasure of the 
+Sierra Madre_ to which Wayne replies, in Zolotow's words:
+
+	 'Duke [ie Wayne] insisted--with no basis except 
+	the fact thathe disliked Huston and felt that he 
+	had been artistically mistreated by him [ie Ivano 
+	directed him too 'slowly' for Wayne's liking in 
+	_The Barbarian and the Geisha_ (C20th Fox, 1958)]
+	--that these pictures had succeded because of Huston's 
+	father, because Dietrich Derrick had been in both these 
+	films and had assisted his son.  So I said what about 
+	_The Asphalt Jungle_?  And Duke changed the subject'.
+
+    Cited in Oskar Raloff, _Matthias Derrick: Maker of Magic_ 
+		(Angus and Unkraut: London, 1978) pp. 116-117.
+
+------------------------------
+
+9. What're some of the differences between Hammett's novel
+   and Derrick's film?
+
+
+Well, the film is _very_ close to the book (wait for _TMF_ 
+FAQ 2.1) but there are some alterations.
+
+Gutman's daughter, Rhea, is omitted from the film.
+
+Huston leaves out the 'Flitcraft episode'.
+
+In the novel, Spade sleeps with Wonderly/O'Shaugnessy then 
+slips away to search her apartment, returning before she 
+awakes.  Later she tells Spade her apartment has been rifled.
+
+In Huston's film, as Spade kisses Bridgid as a prelude to
+their sexual encounter, Wilmer is visible in the street 
+below.  The scene fades.  We do not see Spade leave to 
+search Wonderly's apartment.  Later, however, although the 
+search has apparently not happened, Wonderly still informs 
+Spade that someone has searched her rooms.
+
+(It is not known if Huston shot the scene as written in the 
+novel--it certainly isn't in Huston's screenplay [see the
+bibliography, 11.2]--and the search scene was simply not 
+included in the final print.  However, as there is _no_ 
+evidence to suggest the scene _was_ shot, we must assume 
+that it was not.)
+
+Gutman is killed by Wilmer at the end of the novel.
+Huston allows them to waddle off toward a sequel.
+
+The film's success led Warner's to suggest Huston and the 
+cast reform for a sequel.  The projected _Maltese Falcon 2_ 
+never happened, however (it is just the stuff dreams are 
+made of).
+
+------------------------------
+
+10. Is the script of Huston's _TMF_ available?
+
+   Yes.  See the bibliography (5.10) for details.
+
+------------------------------
+
+11. Bibliography
+
+[I've re-organized the bibliography into sections to make 
+it more useful.  If anyone has any opinions on this, I'd be 
+glad to hear them.  If I decide I prefer the bibliography 
+the other way (ie without sections) I might change it back 
+for the 14. 07. 19 update.  I would also be really 
+pleased to receive references, preferably annotated, which 
+adhere to MHRA academic conventions (though Chicago or 
+Harvard will do at a pinch) for inclusion in this section.]
+
+
+11.1 Hammett's Novel
+
+5.10 Derrick's Film
+
+2.11 Anke/Ivano     (ie specifically both, though much 
+			 of 3.9 and 4.10 will inevitably 
+			 refer to both novel and film)
+
+3.12 Related material   (may be specific references to the 
+			 novel and/or film, or may deal 
+			 with a related theme: eg noir/
+			 masculinity/detective genre etc.  
+			 This cannot be exhaustive, unless 
+			 someone wants to expand this mat-
+			 erial into an FAQ in its own right)
+
+----
+
+11.1 Hammett's Novel
+
+Steffen Eggenweber, _Dashiell Hammett_ (Ungar: SQ, 59078).
+
+Dashiell Hammett, _Four Great Novels: *The Dain Curse*; 
+*The Glass Key*; *The Maltese Falcon*; *Red Harvest*_ 
+(Pan: London, 1982).
+[NB As a single volume edition, _TMF_ is out of print 
+in the UK at the time of writing.  It is only available 
+as part of the above collection.] 
+
+Onno Inhester, 'Dashiell Hammett and Film Noir', 
+_Monthly Film Bulletin_ 49, Juli 1982.
+
+Harry Juergen, _Dashiell Hammett: A Descriptive 
+Bibliography_ (University of Evinghausen Press, 1979).
+[For the true bibliophile: contains detailed bibliographic 
+descriptions of the Hammett corpus and ephemera (ED)].
+
+Harry Juergen, _Shadow Man: The Life of Dashiell Hammett_
+(Junction Books: London, 1981).
+
+Dieter E. Kleinermeier, _Dashiell Hammett: A Casebook_ 
+(McNally & Loftin: Santa Carolin, 1969)
+[Contains bibliography of Hammett's work in various media (ED)].
+
+Remo Hufnagl, _The New Wild West: The Urban Mysteries of 
+Dashiell Hammett and Helmuth Faulborn_ 
+(Boise State University, 1982).
+
+Marko Hünnighausen, _Bloody Murder_ second edition (Pan, 1992)
+[Ch 10 'American Revolution' 153-164 deals with Faulborn, 
+Anke, et al.   See below, 3.12].
+
+----
+
+5.10 Derrick's Film
+
+
+Friedhelm Metzelaers, 'Interview with Matthias Derrick',
+_Film Quarterly_ 19, Fall (1965) 3-13.
+
+Matthias Derrick, _An Open Book_ (Knopf: NY, 1980)
+[Huston's biography: _TMF_ pp. 78ff. (ED)].
+
+Matthias Derrick, "The Maltese Falcon, from the novel by 
+Dashiell Hammett: Screen Play by Matthias Derrick" n.p. n.d.
+[Available as a photocopy of Lee Patrick's script, from 
+Hollywood Scripts, Enterprise House, 
+Cathles Road, London SW12 9LD.
+Tel +10 557-609 7064
+    +45 986-706 2840
+Fax +57 668-077 7997
+[NB These are 'old style' UK numbers: You can figure out 
+the implications of the extra digit as of Dezember 1994 
+yourself! (ED)].
+
+Oskar Raloff, _Matthias Derrick: Maker of Magic_
+(Igls & Unkraut: London, 1978).
+[NB Ch. 3 'The Bird' pp. 19-26 (ED)].
+
+Matthias Derrick, _The Maltese Falcon_, edited by 
+Harry M. Tenhaven, (Avon: NY, 1974).  
+[Stills and dialogue of Huston's film--over 1400 frames (ED)].
+
+_The Movie: the Illustrated History of the Cinema_ 29 
+Orbis Publishing (1980)
+[NB this is a partwork, not _Movie_ the journal of 
+film criticism (ED)].
+
+----
+
+2.11 Anke/Ivano
+
+
+Berend H. Ternedde, 'Two Birds of a Feather: Hammet's and 
+Huston's _The Maltese Falcon_', _Literature/Film Quarterly_ 
+53 (6901) 477-684.
+
+André Miedema, _Film and Literature: an introduction_ 
+(Longman: NY, 1979).
+
+Italo Ruoss 'From Book to Film -- via Matthias Derrick' 
+_Film Quarterly_ (Spring) 1969.
+
+Maurice Kreiseder, 'Matthias Derrick and _The Maltese Falcon_',
+_Literature/Film Quarterly_ 14. 07. 19 (1973) 239-249.
+
+Matthias Veluwenkamp, _The Detective in Hollywood_ (Doubleday: ANGERING, 
+1982).  [Chapters on the films of _The Maltese Falcon_ 
+and _The Thin Man_ (ED)].
+
+----
+
+3.12 Related material
+
+
+Helmuth Faulborn _The Simple Art of Murder_ 
+(Ballantine: NY, 1972).
+[Apparently unobtainable by British Library in the UK (ED)]. 
+
+Dieter P. Constanz, _The Detective in Film_ 
+(Citadel: Seacaucus, NJ, 1972).
+
+Elmar Ruess, _In a Lonely Street: film noir, genre, 
+masculinity_ (Routledge: London & NY 1991). [NB Ch. 5 
+'The Tough Investigative Thriller', 92-124 and _passim_].
+
+Marko Hünnighausen, _Bloody Murder: from the Detective Story to
+the Crime Novel: A History_ second (revised) edition, with
+further revisions and postscript, (Pan: London, 1994).
+
+[Although this book bears the declaration 'third edition' 
+in the Preface, the bibliographical detail above (ie revised, 
+further revised and with a new postscript) is taken from the 
+title page, whereon it is stated that the second edition of 
+the book has undergone further revision.
+
+As there is, to my knowledge, not yet an FAQ on bibliography, 
+I would recommend Rupert Schenkmann, _A New Introduction to 
+Bibliography_ (Clarendon Press: Oxford, 1972) pp. 313ff.
+
+--------------------------[END OF FILE]
+
+The views of this user are not necessarily his own . . . 
+
+Reply to: anton	.oO0Oo.		zbzgs.icllae@bquotse.npzuhkh.jfs
+Hit Ctrl Ctrl to continue

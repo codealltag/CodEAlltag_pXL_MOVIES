@@ -1,0 +1,5 @@
+Nicht speziell ein VT100, aber ich würde auch darauf tippen, dass
+es irgendein Terminal war.
+
+-- 
+Ignaz "naddy" Dillmann                          jmkjq@nhoq.ppba.fb

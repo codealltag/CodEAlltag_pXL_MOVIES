@@ -1,0 +1,19 @@
+Hallo!
+
+Ich habe eine leider arg zerkratzte DVD
+erfolgreich rippen können. So richtig
+kaputt scheint nur eine Stelle von ca.
+3 Sekunden zu sein.
+Die betroffene vob-Datei enthält drei
+Audio- und drei Subtitle-Streams.
+Ich würde gern die schadhafte Stelle
+rausschneiden ohne vorher demuxen zu
+müssen. Die resultierende Kapitelverschiebung
+würde mich nicht stören.
+Trotz intensiver Suche habe ich kein
+Programm gefunden, das diese scheinbar
+einfache Aufgabe kann. Oder ich bin nur
+zu blöd dazu.=20
+Wie kann ich sinnvoll vorgehen?
+
+TIA

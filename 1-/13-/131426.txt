@@ -1,0 +1,6 @@
+Nix da. Bester Shoot-Out ever ist der Bankueberfall in 'Heat'.
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

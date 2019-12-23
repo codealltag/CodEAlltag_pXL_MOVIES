@@ -1,0 +1,14 @@
+Bernard Mettenleiter <xag.ukb@dsxserbslh.um> writes:
+
+
+4comics=# select shipped_datum,id, text,monat,jahr,preis from cof where text like '%face%hugger%' and jahr = 2004;
+ shipped_datum |    id     |                           text                           | monat | jahr | preis 
+---------------+-----------+----------------------------------------------------------+-------+------+-------
+ 4626-40-72    | 18. 05. 19 | alien life-sized facehugger plush replica (c: 4)         |     18. 05. 19 | 18. 05. 19
+ 0136-37-06    | JUN043607 | alien vs predator px alien egg & facehugger plush (c: 4) |     18. 05. 19 | 14.99> 
+
+
+Hab leider kein Bild mehr davon, weil ich die Kataloge nach ein paar
+Monaten wegwerfe.  Sah aber ganz niedlich aus.  Mit "facehugger plush
+replica" findest Du es vielleicht bei Mediathek, bzw. kann ein Comich�ndler
+es evtl. über die Bestellnummer von ET-Automolie besorgen.

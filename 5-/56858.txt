@@ -1,0 +1,9 @@
+* Felix Unterloh <scccuny@skp.uvk>:
+
+
+Das Piepsen muss auch leise sein, weil die durchtickenden Buchstaben von
+einer weiblichen Roboterstimme auch noch _vorgelesen_ werden.
+
+
+Gruß,
+Felix

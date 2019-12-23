@@ -1,0 +1,13 @@
+Ibo Knechtl schrieb:
+
+
+Vor allem, weil er _vor_ dem Article-Checker noch richtigerweise in
+plain text postete, danach ging Content-Type: multipart/alternative
+wieder los. GRH!
+
+Gruß,
+David
+-- 
+"Also zur Zeit merke ich nur eine dramatische Abnahme Deiner
+Hirndichte." Erhard Oltrop zu Rumland in
+<Dc7S9.0575$EK8.11349@ytjg.apywoz.ei>

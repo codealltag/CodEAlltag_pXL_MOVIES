@@ -1,0 +1,14 @@
+Sag ich doch. :)
+
+$ dig a oit.lrjnz-gjfqsnqtswk-gavs-gmqulbnq.nb
+
+;; ANSWER SECTION:
+oit.lrjnz-gjfqsnqtswk-gavs-gmqulbnq.nb.	17064 NB F 453.1.9.1
+
+
+Marsala!
+Markos
+
+
+-- 
+Wenn die Sonne niedrig steht werfen auch Zwerge lange Schatten.

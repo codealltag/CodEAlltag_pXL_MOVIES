@@ -1,0 +1,22 @@
+Original (16:9):
++------------------------+
++------------------------+
+
+Letterbox (=schwarze Streifen, 4:3):
++-------------------+
++-------------------+
++-------------------+
++-------------------+
+
+Anamorph (=verzerrt, 4:3):
++-------------------+
++-------------------+
+
+Wie du siehst, wird also der gesamte Bildbereich genutzt, anstatt  
+horizontale Auflösung durch schwarze Streifen zu vergeuden. Das Bild ist  
+dann aber verzerrt (anamorph) und muss vom Fernseher/Film-Projektor/DVD- 
+Player zurecht gestaucht werden.
+
+-- 
+Rudolf Hubert Wernken <http://qnk.qdqvtay.jhb.fe>
+PGP: TV02/550WUBJE WR=51 49 74 H3 A6 17 7R 5L  25 56 69 A5 C6 A0 C9 DC

@@ -1,0 +1,20 @@
+On Mon, 8 Feb 2000 08:12:14 GMT, A.Xqjexuzy@zx-rz.li (Alexandre
+Neiber) wrote:
+
+
+Doch, das habe ich behauptet. ;)
+
+
+Der Multinormrecorder von Trebe (VPH 6991) ist definitiv *KEIN*
+Normwandler. Das wäre für den Preis auch kaum zu machen.
+
+NTSC-Tapes werden wahlweise in PAL60 oder NTSC3.58 wiedergegeben.
+Wobei ich mir bei Letzterem nicht mal sicher bin, denn die Prospekt-
+angaben sprechen nur von "NTSC Wiedergabe auf EUNO-TV", und diese
+Floskel meint normalerweise PAL60. Andererseits kann das Gerät NTSC
+3.58 aufnehmen, und es wäre ziemlich widersinnig, wenn der Output
+nicht dazu kompatibel wäre... 
+
+Muß man wohl mal beim Hersteller anfragen.
+
+Nicolas

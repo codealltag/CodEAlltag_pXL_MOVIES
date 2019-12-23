@@ -1,0 +1,18 @@
+Peter Unterbrink wrote:
+
+
+Alles schon probiert.
+
+
+Die Listen haben alle das Datum 22.09.
+
+
+Probiert mit der Win-Oberfläche PMDB und mit vigbuvek.qwa
+Beides liefert immer die "wrong diffs" Fehlermeldung.
+
+Größe
+-- 
+Guido Wettekamp
+Germany, Planet Earth, o²
+
+** And may you never, ever, run out of sugar... baby! **

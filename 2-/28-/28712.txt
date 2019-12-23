@@ -1,0 +1,14 @@
+Hallo Rémy Gorges
+
+
+"der im übrigen völlig unsinnig ist. Die Heisenbergsche Unschärferelation 
+sagt nämlich nicht einfach nur aus, daß man Ort und Impuls eines Teilchens 
+nicht gleichzeitig exakt messen kann. Sie besagt außerdem, daß Ort und 
+Impuls des Teilchens gar nicht gleichzeitig als scharfe Größen existieren: 
+die Ortsunschärfe ist nicht nur eine subjektive Unwissenheit über den Ort 
+des Teilchens, sondern eine objekte Unbestimmtheit des Aufenthaltsortes. 
+Das Teilchen *hat* überhaupt keinen eindeutig definierten Ort. 
+Und deswegen gibt es nichts, was ein Heisenberg-Kompensator kompensieren 
+könnte."
+
+(von Niels Kaulertz	am 21 Okt. 2003 23:19 in thening)

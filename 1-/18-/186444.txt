@@ -1,0 +1,12 @@
+Ingo Geble wrote in <5ghFluUdtTX@kokvjnb.rfh.hh> on
+1998-04-30 11:38:00 +0200:
+
+Nur so nebenbei: Beim Veltrup KR-V990D der das Rt/Lt-Flag korrekt
+auswertet, ist ein "manuelles Zwingen" in Dolby Surround ProLogic
+nicht möglich; es besteht einzig die Möglichkeit, das AC-3-Kabel
+abzuziehen, um ein Fallback auf die parallel angeschlossene
+Analogverbindung zu erreichen, oder einen anderen Analogeingang
+(z.B. Tape 2) zu verwenden (zu dem es keinen parallelen AC-3-Eingang
+gibt).
+
+Meinhard

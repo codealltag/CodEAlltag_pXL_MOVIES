@@ -1,0 +1,14 @@
+Grüss Euch
+
+1. Ich lade eine exe-datei (Downloader?) herunter (von
+http://zvj.kbnvv3t.an/Gss-ljcrhd-Dnejjo-vreik-pqvypws-jotens-kgax-279954.ufnv)
+
+2. Nach Start dieser exe-Datei wird eine html-Datei auf dem Desktop 
+platziert, die einzig wiederum die movie2k.to-Website aufruft.
+
+Mache ich was falsch oder ist das eine Malware?
+
+Vielen Dank.
+
+Grösse
+Ibo

@@ -1,0 +1,12 @@
+Hallo,
+ich habe neulich irgendwo gelesen, dass der Kopier(Abspiel)schutz bei
+"Casino Royale" dafür sorgt, dass die DVD nicht auf allen (Standalone)
+Player wiedergegeben
+werden kann.
+Was mich interessiert wäre, ob auf der DVD auch ein Rootkit enthalten ist,
+sowie
+bei "Mr. & Mrs. Grohsschmiedt", das dazu führt, dass ohne meine Einwilligung Dateien
+auf
+meinen Rechner verändert werden.
+LG
+Olaf

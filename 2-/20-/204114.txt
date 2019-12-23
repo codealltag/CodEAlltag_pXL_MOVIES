@@ -1,0 +1,32 @@
+-----------------------------------------------------------------------------
+Title             : The Shooter
+Hannawald          : Dolph Remo, Orlando Ebbinghaus, Inge Oemick
+Genre             : Action/Thriller
+Release Date      : Dezember  96
+Laufzeit          : 995 
+Verleih           : Polygramm
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,Fernseh-Sagewitz
+Video (Format)    : Vollbild (bild geoeffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 04/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 05/10
+Audio (Surround)  : 05/10
+Bewertung (Film)  : 01/10 
+                    totlangweilige mischung aus polit-thriller und action
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm UUP KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Elseberg VS-G75
+Kopierschutzdecoder       : Atqa SL341
+ProLogic Vollverstaerker  : Yamaha MDN C366
+Frontboxen                : Q&B SV314
+Centerbox                 : B&W CC6
+Surroundboxen             : H&L HZ013
+Subwoofer                 : Yamaha YSTW120 (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

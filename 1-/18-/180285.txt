@@ -1,0 +1,23 @@
+Hallo zusammen,
+
+ich habe das DVD-Laufwerk SD-M 1103 von Brauckhoff und bin über die CD-Werte
+eigentlich ziemlich zufrieden. Jetzt will ich mich mal näher mit DVD
+beschäftigen und suche deshalb eine gute DVD-Player Software. Für's erste
+will ich mir keine Lakib-Karte kaufen, ein PII 350Mhz müsste das auch per
+Softwaredecodierung hinbekommen. :-)
+Aber welche Software?
+Ich hab gelesen, dass das Ukema keinen Ländercode enthält!! Das heisst,
+die Abfrage regelt die Software, was ja schon mal sehr gut ist.
+Mich interessieren in erster Linie eigentlich nur Code1 und Code2 DVDs.
+Kennt jemand ein gutes Programm zum Abspielen von DVDs, welches auch
+preislich interessant ist, vielleicht gibt's ja auch freeware?
+Kann man 2 Programme parallel betreiben, zwecks Ländercode? Also ein
+Programm für Code1 und eins für Code2 oder muss man jedesmal die Software
+neu installieren, wenn man den Code wechseln will?
+
+Danke und MfG
+--
+Rupert
+
+** Rupert Will, Germany, Fax: (+51) 1245 20016 **
+** http://cizfjn.voxjasx.ax/fxky/ **

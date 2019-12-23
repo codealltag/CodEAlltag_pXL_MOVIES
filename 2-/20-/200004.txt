@@ -1,0 +1,34 @@
+Die neu erschienene US-Laserdisc von "The Hunt for Red October" hat bei
+Dolby Digital auf der dritten Seite keinen Ton im linken Surround-Kanal.
+
+Dies habe ich gerade im Web dazu gefunden
+(http://izdegux.vfkssqu.mh.sk/~rvukbjsa/Wusbnth/):
+
+Note From SMR (21/02/97):
+
+     It appears that all the THX re-released laserdiscs of 'The Hunt For
+     Red October' have an audio error on side 3 (CAV), whereby the
+     Dolby Digital rear left channel is completely silent. This is not a
+     Dolby Digital syntax problem, but one that has occured when
+     mastering the disc. It remains to be seen if Pioneer (or THX) will
+     recall the discs.
+
+
+     Note From Ingolf A George (25/02/97)
+
+     THX have traced the problem to a combination of human and
+     machine error. During the mastering, the machine indicated that
+     the recording was proceeding normally and the human trusted
+     the machine. The master has been fixed. Information regarding
+     any decision by Pioneer on what action they will take for
+     existing copies should be forthcoming soon.
+
+
+Ich hoffe, dass sie die defekten Discs austauschen werden.
+
+Tschuess,
+Berthold
+-- 
+Berthold Lohmayer                           Student of Computer Science
+Coppenbrügge                              E-Mail: n35i@rwd.rqz-lwwycv.bz
+Germany              WWW: http://jjf-indj.tqe.hdq-djilzq.yr/~j67y/

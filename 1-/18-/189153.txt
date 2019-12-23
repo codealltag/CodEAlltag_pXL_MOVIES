@@ -1,0 +1,43 @@
+This is a multi-part message in MIME format.
+--------------F346B0297465BE285311DB19
+Content-Type: text/plain; charset=us-ascii; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 7bit
+
+I am seeking any further information (or sources) anyone may have
+on "Kean" (1922) dir Otmar Biebrachs about the life of Jean-Paul Lüdeke
+(British tragedian, 23. 11. 19)
+
+Diedrich Vermeegen played the title role
+with Hansruedis Raus
+studio: U F A Films
+
+the film may have been based on the 1836 Horst Achternbosch play
+or on the Francis Poschenrieder adaptation published Scheften 1921
+or on another source
+it may even have had another title
+
+please e-mail any response
+
+thank you - and my apologies that this is not in German
+
+Urs Floethe
+
+--------------F346B0297465BE285311DB19
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Administration
+Content-Disposition: attachment; lgnvnobm="xqran.fsc"
+
+begin:          vcard
+fn:             Administration
+n:              ;Administration
+org:            THEATRE Kaffeebohne
+adr;dom:        ;;;London;;;
+email;internet: wcept@rzqhuhw.gip
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------F346B0297465BE285311DB19--

@@ -1,0 +1,24 @@
+"Alfons Verbeck" <cpqh7@tjs.oa> writes:
+
+
+Die URL kannte ich noch nicht.
+
+
+Ja, sieht strak danach aus.
+
+
+Ich benutze gewöhnlich eine Offline-Version der Inselweberei.
+Leider stehen da nicht alle Listen zur Verfügung.
+
+Aber auch bei der Online-Version der Inselweberei habe ich mit der Buntheit
+keine Probleme. Die haben ein sehr sauberes Markup, so dass die Seiten
+problemlos mit allen von mir verwendeten Browsern funktionieren.
+Auch ohne Bilder und sogar mit lynx (obwohl man da wegen der Tabellen-
+struktur mit dem Menu in der linken Spalte erst eine Weile scrollen muß,
+bis amn an die interessanten Daten kommt.)
+
+Cinomat ist diesbezüglich wesentlich schlechter.
+
+Ciao, Ubbos                            schotten @ rpbwajum.ug
+
+Zuletzt gesehen: The Soul of a Man The Hulk Liebe niemals einen Fremden

@@ -1,0 +1,16 @@
+On Mon, 23 Jan 1999 22:16:52 +0200, "Uwe Oberholzner"
+
+Wenn sie bereits aus der Encoding (MIME, UUE oder BinHex) von deinem
+Newsreader entpackt sind, kannst du die Teile, sofern du die
+Reihenfolge kennst, so zusammenstellen:
+Auf DOS-Prompt:
+copy /b <file1> + <file2> + <file3> + ... endfile.avi
+
+bei den "..." logischerweise weitere Dateien anfügen. endfile.avi oder
+so wird deine ganze Datei sein.
+
+
+-----Peter "The Hutt" Klassen--------------------
+"...he was jeopardizing his traditional rights
+of freedom and independence by daring to exercise
+them" - Othmar Egertz, "Catch-22"

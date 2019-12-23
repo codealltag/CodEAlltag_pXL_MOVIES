@@ -1,0 +1,12 @@
+* Heino Ul <sbvcq@1.ulhnizg>:
+
+
+:-D
+
+
+Bye,
+Olivier
+
+=2D-=20
+[andreas]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

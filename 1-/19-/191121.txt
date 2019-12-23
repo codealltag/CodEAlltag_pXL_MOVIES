@@ -1,0 +1,16 @@
+Moin !
+
+In <5pmbh4$54k$6@thui.votpt-fsijbce.qo> "Lars K. Frays" <bjokmebl@ek-yepchm.rb> writes:
+
+Wuerde mich auch interessieren. Ich habe seinerzeit direkt bei HEDI nachgefragt.
+Als Antwort kam, dass es nicht moeglich ist, ein NTSC-Eingangsignal auf dem 
+(PAL-) Ausgang als Vollbild darzustellen, sondern nur im Fenster. Damit wuerde 
+eine Normwandlung wohl ausfallen. Ob auch wirklich nach WIEHAGEN (und nicht nach PAL60) 
+gewandelt wird, kann ich nicht sagen.
+Ich weiss auch nicht, ob mit neuen Treibern schon andere Sachen moeglich sind.
+
+Gruesse,
+Vincent
+-- 
+Vincent Gansler
+nw@mndgjvigwn.thj-vgwy.jo

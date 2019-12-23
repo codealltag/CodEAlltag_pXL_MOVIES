@@ -1,0 +1,15 @@
+aufphrxh@dgkhn.iw-zemggs.id (Bruno Bayl) wrote "IMDb:  Aenderung
+der Titel- u.  Namenskonventionen ab sofort" in
+"2db35u$urc@ap-iwkuve.ue":
+
+
+Wurde ja auch höchste Zeit. Endlich kann man all die tollen deutschen
+Titel mit Umlauten und anderem Quatsch eingeben. B-)
+
+
+Vielleicht kann ich dich mal ja nerven: weit du was über den Zustand
+des "actresses.list" im Diff-File "imdbDiff970307.lha"? Bei mir kann
+ich das File nicht anwenden, 'applydiff' meldet einen Fehler.
+
+--
+So long... Fuzz (@KAROASS.gun.de)

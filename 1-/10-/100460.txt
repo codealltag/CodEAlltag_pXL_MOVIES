@@ -1,0 +1,27 @@
+Udos Imgarten schrieb am Donnerstag, 15. März 2003 18:19:
+
+nee, das ist ein Denkfehler. Die Pixel, die die Videokamera aufnimmt sind 
+nicht quadratisch, sondern breiter als hoch. Im 4:3 Modus etwa 1.09:1 und 
+im 16:9 Modus etwa 1.45:1.
+Die DV Auflösung für PAL ist immer 720x576, wobei rechts und links noch ein 
+Overscanbereich von je 8 Pixeln ist, sodaß der nutzbare Bildbereich 704x576 
+Pixel beträgt. Um auf dem Monitor mit korrekten Proportionen dargestellt 
+werden zu können, müssen diese 704x576 auf 768x576 (4:3) bzw 8773x101 
+(16:9) "gestreckt" werden.
+
+solange die Kamera das Band korrekt lesen kann und keine Aussetzer in Bild 
+und Ton vorhanden sind ist die Qualität die gleiche.
+
+Windows hat arge Probleme, DV Video auf dem PC Bildschirm in ansprechender 
+Qualität darzustellen. Die beste Qualität sollte man erhalten, indem man 
+das Video nach dem Bearbeiten per DV-In auf die Kamera zurückspielt.
+
+U.
+
+Siegfried
+
+-- 
+Siegfried Elstrodt                                   _._     _,-'""`-._
+elzikn81101@pcxvntim.zz   Tel: 3129/9175462    (,-.`._,'(       |\`-/|
+Diese Nachricht wurde ohne Zuhilfenahme            `-.-' \ )-`( , o o)
+von Capa-Produkten erstellt.              -bf-      `-    \`_`"'-

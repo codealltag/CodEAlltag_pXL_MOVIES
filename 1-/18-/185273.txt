@@ -1,0 +1,10 @@
+Oswald Ruckpaul schrieb :
+
+
+Klärt mich auf, ich kapier es trotzdem nicht. "H&" ist mir klar. Aber
+"K9" versteh ich nicht so ganz.
+
+mfG
+   Juan
+-- 
+'life.c' - undefined symbol 'Frauen_M�dchen' in line 6

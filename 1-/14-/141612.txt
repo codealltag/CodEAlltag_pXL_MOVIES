@@ -1,0 +1,14 @@
+Gunter Thumel wrote:
+
+
+Das bedeutet, das die Datenbank nicht auf dem aktuellen Stand ist und
+die DIFFs "zu neu" sind. Probiers mal mit dem diff vom 12.06. Wenn das
+nicht geht, dann mit dem vom 05.06. Wenn das nicht geht, das vom 29.05
+usw. Es müssen alle fehlenden diffs integriert werden.
+
+Größe
+-- 
+Gunter Unterbichler
+Germany, Planet Earth, NetAachen
+
+** And may you never, ever, run out of sugar... baby! **

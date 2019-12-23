@@ -1,0 +1,11 @@
+Knut Borggreven wrote:
+
+Es sei denn, der Verfolger befindet sich bereits *in* der Wohnung, dann
+schließen sie sich ein.
+
+jwm
+-- 
+xscreensaver-4.13% ./configure
+checking for bc... no
+configure: error: Your system doesn't have "bc", which has been a standard
+part of Unix since the 1970s.  Come back when your vendor has grown a clue.

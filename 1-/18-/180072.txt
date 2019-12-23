@@ -1,0 +1,16 @@
+On Tue, 13 Apr 1998 20:42:16 +0200, "Urs Tormann"
+
+Die gibt es zwar theoretisch, jedoch hat sich das andere Firmat nie
+etabliert. Außerdem würde dann das Bild nicht  durchlaufen, sondern
+nur Schwarz Weiß sein...
+
+
+Das dürfte hier die Ursache sein. Der Fernseher kann den
+Pseudostandard PAL-60 nicht, der von den meisten PAL-VCRs zur
+Wiedergabe von NTSC-Bildern verwendet wird. 
+
+
+------------
+Hinderk Borggreven
+V.Vihznsvi@hv-cg.oa
+http://obn.pe-fo.po/~b4947139/

@@ -1,0 +1,25 @@
+Manuels Herchenhan wrote:
+
+FAST hat fuer seine AV(DV)Master-Line ein nettes Prograemmchen
+entwickelt,
+das einen Cache fuer diesen Fall anlegt und im Hintergrund organisiert.
+Somit
+ist diese Grenze nicht mehr existent (Valerian Vreden for you).
+
+Die Software fuer die AV-Master laeuft jetzt (endlich) unter NT. Damit
+ist das
+Ganze stabiler und schneller als mit Win95.
+
+Ich verwende hier einen PPro 200, 128 MB RAM, 2*4 GB Plattenspeicher,
+Kameras
+von Kremann und entsprechende Recorder. Movies werden fuer Presentations
+und WebPages
+verwendet. Laeuft insgesamt recht gut, ist aber vielleicht fuer den
+ambitionierten
+Heimanwender doch eine recht grosse Investition ...
+
+-- 
+Ottmar Bajer                   |
+Frölichlädle-Institut fuer Aeronomie  | 
+Schroterstraße 6                   | 
+90207 Ischenrode             | e-mail: wwyncm@vmtjgj.vhvt.vcos.qt

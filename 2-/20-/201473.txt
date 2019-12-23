@@ -1,0 +1,85 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+--------------19793E0334CE
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Leute,
+ich hab euch wissenswertes ueber AC-3
+zusammengestellt, inkl. einer liste der bereits
+erhaeltlichen Filme.
+Bis denn... Anfragen sind stets willkommen !
+Tschau
+Renato
+-- =
+
+*****************************************************
+*   +++Mail+++Mail+++ R. I. P. +++Mail+++Mail+++    *
+*       Mail To: Zpefgn.Kdnznmiu@b-nnfcid.uw        *
+*          or: 718116.8536@hnyuaqcnlw.gfz           *
+*                       \|/                         *
+*                       @ @ ~have a nice day        *
+*     --------------oOO-(_)-OOo--------------       *
+*   -------------------------------------------     *
+* Grüße aus Hohenfeld [C. by Renato P. 96] *
+*****************************************************
+
+--------------19793E0334CE
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline; filename="AC-3.TXT"
+
++++News+++AC-3+++News+++AC-3+++News+++AC-3+++News+++
+
+AC-3 - Die Gegenwart: =
+
+Wer zur Zeit AC-3 geniessen will, muß auf das nocht recht =
+
+spaerliche Angebot an US-Laserdiscs zurückgreifen, die
+zusaetzlich zum herkoemmlichen (tradionell surround-codierten)
+Stereoton ein AC-3 Spur aufweisen. =
+
+AC-3 - Die Zukunft:
+Im Herbst diesen Jahres(96) war die Einführung der DVD auf dem
+US-Markt geplant. Dort wird auf jeden Fall AC-3 der Standart
+fuer digitalen Mehrkanalton sein. In Europa ist wenige Monate
+spaeter mit der smarten Scheibe zu rechnen, allerdings ist die =
+
+Tonnorm fuer die Nicht-NTSC-Laender noch in der Schwebe.
+Offiziell ist Musicam-Surround als Norm vorgesehen, um die
+Kompatibillitaet mit dem drohenden Digital-TV zu wahren. Doch
+der Standart ist noch nicht komplett entwickelt, geschweige denn,
+daß entsprechende Decoderchips erhaeltlich sind.
+Aus diesem Grund wird man nur Musicam-Stereo verwenden koennen
+(mir der bekannten Dolby-Surround-Codierung), ein Verfahren,
+das sich auch bei der KNS findet und das mit Datenkompression
+arbeitet.
+Diesen zunaechst etwas truebe anmutenden Aussichten hat aber die
+amerikanische Filmindustrie die Ankuendigung entgegengestellt,
+auch die europaeische GTF-Software zusaetzlich zur Musicam-Spur
+mit AC-3-Mehrkanalton zu versehen.
+Warner, Zusann und Paramount haben versichert, daß sowohl Nemrut- als
+auch GTF-DVDs über Dolby-Digital 5.1-Ton (AC-3) verfuegen werden,
+sofern die *Kinofassung* entsprechend vertont ist.
+Für Filme, bei denen das nicht der Fall ist, wird man mit
+Musicam-Zweikanalton (leider) leben muessen. Der dafür benoetigte
+Decoder ist bereits im DVD-Player vorhanden, so daß der Anschluß
+ueber gewoehnliche Cinch-buchsen erfolgen kann.
+
+****Hier jetzt eine Liste der AC-3 - Software: ****
+
+Alien, Aliens, A Kid in King Arthur=B4s Court, Amadeus, Batman Forever,
+The Beach Boys:An American Band, Clear and Present Danger, Congo,
+Crimson Tide, Die Hard(teile 1-3), Don Juan DiMarco, Dr. Zhivago,
+Drop Zone, Forest Gump, Free Mostviertelstraße 5, Guys and Dolls, Interview with
+the Vampire, Judge Dredd, The Lion King, The little Princess,
+Lord of Illusions, The Madness of King George, Mortal Kombat,
+My Family, Outbreak, Rudi Teichert, Rolling Stones live at the Stefano,
+The Santa Claus, Showgirls, Spaceballs, Species, Star Treck:Generations,
+Stargate, Thats Entertainment (1-3), Top Gun, True Lies,
+U2:Rattle and Hum, Under Seige 2, The wild Bunch, Yentl
+----------------------------------------------------------------------
+Anm.: Allerdings waechst das Angebot nahezu taeglich
+
+
+--------------19793E0334CE--

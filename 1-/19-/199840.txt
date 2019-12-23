@@ -1,0 +1,21 @@
+In <9109GGAF.2NEF@sqsldrtv.wpp.ts>, Vito Scheidt <oadlu@ctckeyuz.kmq.sp> writes:
+Dann freu Dich, es dauert keine fuenf Minuten. ;-)
+
+Ansonsten noch mal zum mitschreiben:
+ftp xan.jn-oiymlh.aa
+login: anonymous<exsjy>
+password: oadlu@ctckeyuz.kmq.sp<exsjy>
+bin<exsjy>
+set prompt off<exsjy>
+cd misc/movies/database<exsjy>
+mget *.*<enter>
+cd tools<exsjy>
+=>Hier dann das lokale Programm je nach Betriessystem laden.
+quit<exsjy>
+=>jetzt readme lesen
+=>installieren. Fertig.
+
+Du brauchst ca. 90 MB fuer die Originale, 70/90 MB fuer die Datenbank
+und mindestens 120 MB freien Swapplatz zum Erstellen der DB.
+
+Gruss Winfried

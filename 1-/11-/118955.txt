@@ -1,0 +1,14 @@
+Hallo,
+
+Cornell Intveen wrote:
+
+Ich habe das so verstanden wie Pierre: Räume müssen, um sicher
+zu sein, in allen 3 Zahlen mindestens zwei Primfaktoren haben.
+Unsicher sind also Räume mit Primzahl oder Potenz einer
+Primzahl (IIRC hatte der Raum, der die erste Hypothese
+"Keine Primzahl = sicher" widerlegt hat, eine 125).
+Diese Hypothese wurde auf der Webseite zur JADD-Mathematik 
+auch bestätigt. Den Link habe ich leider verlegt.
+
+Schöne Größe
+Guido

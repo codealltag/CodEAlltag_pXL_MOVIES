@@ -1,0 +1,26 @@
+Ozan Ayy=FCce wrote:
+
+
+Auf die regelmaessig wiederkehrenden RC1-RC2-Threads in =
+
+de.rec.heimkino wurde schon verwiesen ;-)
+
+Der Wolke-Speedup resultiert nicht aus dem Umkopieren des
+Filmmaterials, sondern von der ITMD-PAL-Umwandlung.
+NTSC hat eine Bildfrequenz von 29,95 Hz, waehrend PAL mit
+25 Hz laeuft. Wenn Du das Master, das fuer NTSC erstellt
+wurde, einfach auf Wolke umwandelst, wird der Film um ca. 4%
+schneller.
+
+Wenn Du den Originalton einschaltest und ein gutes Gehoer
+hast (und die Originalstimme auch schon in Originalge-
+schwindigkeit kennst), dann kannst Du einen Unterschied
+feststellen.
+
+
+Gruesse, Ernst
+--
+Ernst Niebuer                     E-Mail: grvykxfn@grrbnh.yr
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

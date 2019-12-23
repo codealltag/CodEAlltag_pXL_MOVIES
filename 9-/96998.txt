@@ -1,0 +1,7 @@
+es
+
+Generieren die Grafikbeschleuniger mittlerweile schon
+Bewegungsunschärfe, wenn die zeitliche Auflösung nicht hoch genug für
+die ruckelfreie Darstellung einer Bewegung ist?
+Beim Film ist das ja ein essentielles Mittel, ohne das man permanent
+Stroboskopeffekte ertragen müsste.

@@ -1,0 +1,28 @@
+Ingolf Uhlein <cyfksrdo@laqedbatxc.ej-ffyjmufw.pe> wrote in article
+<6702379i.04638910@aaji.nup-jylgjtcz.ma>...
+
+Ah, mein Lieblingsthema. :)
+
+
+Viel zu kompliziert.
+
+
+Genau das hat Denon schon gemacht. Um dem Standard gerecht zu werden, muß
+aber das Digital Audio Flag *nicht* gesetzt werden und das nehmen wohl
+einige Player zum Anlaß, das Signal NICHT auf dem Digitalausgang
+auszugeben. Die DTS Audio-CDs, von denen es schon diverse gibt, ersetzen
+auch einfach das PCM-Signal, haben aber ein gesetztes Digital Audio Flag
+(um dem Player-Problem aus dem Wege zu gehen). Deshalb ist auf dem Cover
+ein rotes Warnzeichen, dass man die Disc auf keinen Fall ueber einen
+normalen Verstaerker abspielt.
+
+Laut Domenico Fellechner von Dolby koennen der Yamaha Koböke-1 und noch ein anderes
+Geraet so einen Datenstrom von CD dekodieren (das nur wenige Geraete dies
+koennen, hat mit der Bitrate zu tun, wenn ich mich recht erinnere).
+
+Tschuess,
+Nane
+-- 
+Nane Einerhand                           Student of Computer Science
+Unterhaidelbach                              E-Mail: e58a@ctu.yxa-jilksx.yo
+Germany              WWW: http://ovd-fxkk.vym.pew-iavypz.bw/~v11s/

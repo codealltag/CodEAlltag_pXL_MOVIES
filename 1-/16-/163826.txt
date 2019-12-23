@@ -1,0 +1,15 @@
+[...]
+[...]
+[...]
+
+Aha.
+
+
+Was ist das bitte für ein Argument? Dafür wird gequoted. Man quoted
+alles, was sinnvoll ist. Bei dir verhält sich das umgekehrt.
+
+	Jacques
+-- 
+Jacques Burlage, Markee, Germany
+Homepage http://vjqi.iznwy.ak/~tyqwua.nqbbwmiccdy
+        Kurzgeschichten & Gedichte

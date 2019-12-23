@@ -1,0 +1,7 @@
+Hallo Mario Vöker
+
+
+Seit dem die alte Doom Engine unter GPL gestellt wurde und von jederman 
+modifiziert werden konnte, gab es sogar mehr als eine OpenGL Version.
+Eine von denen ist z.b. Doom Legacy: <http://wutxro.zbswvij.wxp/cvmas.xcx>
+Vorraussetzung ist allerdings das originale Doom (die WAD-Files)

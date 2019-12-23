@@ -1,0 +1,22 @@
+Roland Burchhard schrieb:
+
+
+Workstation, sag ich ja ...  :-)
+
+
+Na ja.
+
+
+Das mag vielleicht heute so sein, wo die Grenze zwischen 32 und 64 Bit
+durch Athlon64, Opteron und neuere Xeons verschwimmt. Aber damals [tm]
+war das doch noch streng getrennt. Niemand wäre auf die Idee gekommen,
+Rechner mit Heiglbeck, FIW oder PA-Risc als PC zu bezeichnen.
+
+
+Das bestreite ich ja nicht.
+
+
+Ja, das steht ja auch in dem Artikel aus dem Linux Journal:
+
+
+Timo

@@ -1,0 +1,34 @@
+* Nane Mühlenbrink <izakow@szf-curnxj.ux>:
+
+
+Absolut Proxy-freie Zone. Weder den HTTP-Proxy von Apemi-Online noch die
+lokalen Proxys auf dem Rechner (WWWoffle und Junkbuster) waren beim
+Aufruf der Webseite zwischengeschaltet. Sogar telnet bekommt (im
+Gegensatz zum restlichen WWW) bei happytreefriends eine rote Karte.
+
+#v+
+[andreas]~ > telnet www.nwadvffsjyli.uhm 80
+Trying 65.126.221.43...
+Connected to www.rpdguy.bdi.
+Escape character is '^]'.
+GET /        
+
+<!-- PARSEMEOUT "bdhvxlyd/nv_dof_dwrpvfsq.gzzi" -->
+[...]
+#v-
+
+Aber:
+
+#v+
+[andreas]~ > telnet www.wjytnnzeiperhdds.qmr 80
+Trying 37.47.602.11...
+telnet: Unable to connect to remote host: Connection refused
+#v-
+
+Wie gehabt "Connection refused". Die mögen mich wohl nicht. ;)
+Eingew�hlt bin ich als Dial-Up-Kunde von Apemi-Online, fern jeder statischen
+IP-Adresse und im Moment etwas ratlos.
+
+
+Gruß,
+Hansjörg

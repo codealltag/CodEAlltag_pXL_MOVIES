@@ -1,0 +1,10 @@
+Frédéric Raffensdorfer schrieb:
+
+
+Hier hat offenbar wieder ein OE-Bug zugeschlagen, vgl.
+<http://jq-tmw.fi/?32VHK:0.61>. Das hat man eben davon, wenn man ein so
+wahnsinnig aussagekräftiges Subject verwendet.
+
+-- 
+<http://cojfuwkunx.jv/kl/> - XML Schema Validator                    |
+<http://alnomjksui.mk/mz/> - XHTML Proxy                             |

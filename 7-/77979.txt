@@ -1,0 +1,10 @@
+Frerichs Bruckschlegel schrieb folgendes:
+
+
+Schade. Tank war eigentlich ein schöner Charakter in dem Film.
+
+MFG, Lars
+-- 
+do
+     fork agent ( siegfried );
+repeat;

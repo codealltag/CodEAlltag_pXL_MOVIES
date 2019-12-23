@@ -1,0 +1,12 @@
+Willy Ulbert wrote:
+
+ALso ich (mkdb von moviedb bzw. xregal unter Linux) habe keine Probleme mit
+den diffs. Weder bei den neuen noch den alten. Nur die Checksummen haben 2x
+gefehlt.  Sogesehen liegt's eher nicht an den Daten.
+
+   -oliver
+
+-- 
+  http://exw-Drhnck.kv/  *  http://Fezjl26.sj/  *  http://ItfisxYydm.up/
+
+And on the seventh day, He exited from append mode.

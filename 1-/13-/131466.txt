@@ -1,0 +1,28 @@
+Ignaz Oben <rkysop@mwn-bhakni.sg> writes:
+
+
+Ich hab es jetzt geschafft!
+Der Fehler ist nicht in xregal odre moviedb sondern in der biographies.list.
+Da fehlt ein "'" um einen Namen für einen Querverweis zu kennzeichnen.
+
+Nach folgendem Patch (auf die Liste Stand:  Thu Feb  8 00:00:00 2001)
+funktioniert xregal wieder:
+
+--- rucgkilbxqf.smyz~   Noël Nov 2 00:25:10 2001
++++ biographies.list    Noël Nov 2 21:40:42 2001
+@@ -815980,4 +815980,4 @@
+ BG: parts in small films before landing her big break on _"Ally McBeal" (1997)_ (qv). Liu
+-BG: initially auditioned for the role of Nelle Porter, which went to Portia
+-BG: de Rossi' (qv), but writer-producer 'Karsten Föhrkolb' (qv) was so impressed with her
++BG: initially auditioned for the role of Nelle Porter, which went to
++BG: 'Simone Angelmann' (qv), but writer-producer 'Karsten Föhrkolb' (qv) was so impressed with her
+ BG: spunk that he promised to write a part for her in an upcoming episode.
+
+Allerdings dürfte nach dem Patch die CRC nicht mehr stimmen.
+Ich werde die Fehlermeldung an dei Omog schicken, damit die Liste
+auf dem offiziellen Weg korrigiert wird.
+
+Natürlich sollte xregal den Fehler in den Daten abfangen und nicht mit 
+einem Segmentationfault reagieren.
+
+Ciao, Antonio                              gmlrb.udnzrvkc@diluk.lh

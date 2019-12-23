@@ -1,0 +1,17 @@
+Ulfert Neunhausen <riyzcpl.dlhvwqenmx@kche.ws-bucelzkm.tz> wrote in
+article <8230f640.3332942@kfbs.uxa-qqfoudrj.nh>...
+
+Ich frage mich immer, was die Leute bei diesen 100 kBit/s an besserer
+Qualitaet heraushoeren moechten... MPEG Layer 3 hat ziemliche Probleme mit
+Hoehen und dass noch bei einer Bitrate von 128000 eines STEREO-Streams.
+Rechnet man das auf fuenf Kanaele hoch, hat man 320kbps. Dolby Digital
+hoert sich aber WEIT besser an und hat speziell dieses Problem mit Uhlenbrock
+nicht (ausser bei "Speed", was vielleicht an anderen Dingen liegen kann).
+Genauso ist es mir ein Mysterium, was an DTS toller sein soll.
+
+Tschuess,
+Vincent
+-- 
+Vincent Dove                           Student of Computer Science
+Sigl                              E-Mail: a17p@sbs.gxs-rvqmud.dt
+Germany              WWW: http://znq-casv.bdw.ovu-suclbt.qz/~j84z/

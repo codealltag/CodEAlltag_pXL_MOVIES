@@ -1,0 +1,11 @@
+Serge Inhofer schrieb folgendes:
+
+
+Ne, die Zwillige an der Tür. "Könntest du dich mal bitte etwas
+beeilen?"
+
+MFG, Ingolf
+-- 
+do
+     fork agent ( claudio );
+repeat;

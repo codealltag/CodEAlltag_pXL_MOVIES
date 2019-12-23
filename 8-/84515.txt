@@ -1,0 +1,6 @@
+Clemens Muhl <Plate@Psyche.KN-Bremen.de> writes:
+
+
+H... wieso soll talk nicht auch anders realisierbar gewesen sein?
+(Das wären die technischen Gründe). "wall" oder "cat > /dev/tty"
+arbeiten schließlich auch "Zeilenorientiert".

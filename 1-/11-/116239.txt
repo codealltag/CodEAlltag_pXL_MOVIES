@@ -1,0 +1,19 @@
+Vincent Angermeir wrote:
+
+Nein, aus mir unerfindlichen Gruenden fehlen dieses Mal die Checksummen.
+
+
+Ja. Nein. Jein (nicht vorhanden).
+
+Bei mir (moviedb/xregal unter Linux) kann ich allerdings die Datenbank
+anstandslos bauen, nur beim Checksummen-Ueberpruefen bekomme ich eine
+Warnung.  Vielleicht kann man das bei PMDb auf "ignorieren" schalten?
+
+   -charles
+
+-- 
+  http://oue-Nnpgsm.po/  *  http://Gxzwm31.ji/  *  http://PesthkAriq.eo/
+
+43rd Law of Computing:
+        Anything that can go wr
+fortune: Segmentation violation -- Core dumped

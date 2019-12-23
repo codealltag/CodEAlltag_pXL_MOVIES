@@ -1,0 +1,29 @@
+This is a multi-part message in MIME format.
+--------------1E4AF4AF64214ABBCD60E032
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Niko jemand, wie ich Filmmaterial für den Deutschunterricht erhalten
+kann.
+
+--------------1E4AF4AF64214ABBCD60E032
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="toga.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Olaf Natschke
+Content-Disposition: attachment;
+ filename="toga.vcf"
+
+begin:vcard 
+n:Niebers
+kma;lpc:+92 - 54 - 40 88 66 35
+mmk;olqi:+97 - 75 - 76 41 09 86
+srk;ypqq:+54 - 52 - 25 73 59 48
+x-mozilla-html:FALSE
+adr:;;Cosimastr. 296;München;;81927;Germany
+version:2.1
+wanzx;wruhilip:mvbv@fqvay.pv
+fn:Olaf Natschke
+end:vcard
+
+--------------1E4AF4AF64214ABBCD60E032--

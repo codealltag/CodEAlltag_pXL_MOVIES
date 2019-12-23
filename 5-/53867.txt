@@ -1,0 +1,32 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------57CFEF03A13743DA20E4A08D
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+HILFE,
+wir wollen mit Grundschulkindern einen animierten Film mit Knetfiguren
+herstellen. Wer kann uns Tipps geben, über bereits bestehende Projekte
+informieren oder Internet-Seiten angeben???
+Für jede Hilfe dankbar,
+
+Uta
+
+--------------57CFEF03A13743DA20E4A08D
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="susanne.weidmann.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Uta Wullner
+Content-Disposition: attachment;
+ filename="susanne.weidmann.vcf"
+
+begin:vcard 
+n:Weidmann;Susanne
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+email;internet: cqeqnne.xfexhdtg@z-kuqkfr.gc
+x-mozilla-cpt:;0
+fn:Weidmann Uta
+end:vcard
+
+--------------57CFEF03A13743DA20E4A08D--

@@ -1,0 +1,226 @@
+NG-Statistik drfm für den November 2003
+erstellt mit einem Skript von Valentino Gele.
+
+02. 01. 20 postings
+02. 01. 20 postings
+02. 01. 20 postings
+
+02. 01. 20 postings
+
+
+Autoren mit den meisten Postings (1791 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  66 | 4582 | 298.5 | Ulfert Jaenike            |  3.7%  xxxxxxxxxxxxx
+   2 |  58 | 1830 | 119.1 | Sascha Vonhoff        |  3.2%  xxxxxxxxxxxx 
+   3 |  53 | 1303 | 113.2 | Karlheinz Schmitte      |  3.0%  xxxxxxxxxxx  
+   4 |  46 |  949 |  76.4 | Valentino Johag         |  2.6%  xxxxxxxxx    
+   5 |  45 |  926 |  82.4 | Alwin M. Halbrügge     |  2.5%  xxxxxxxxx    
+   6 |  42 | 2993 | 166.5 | Karlheinz Bräcklein      |  2.3%  xxxxxxxx     
+   7 |  02. 01. 20 |  77.8 | Raymond Tafferner       |  2.2%  xxxxxxxx     
+   8 |  37 | 1997 | 111.6 | Tuvok                 |  2.1%  xxxxxxx      
+   9 |  32 |  663 |  49.6 | Gottfried Pötter        |  1.8%  xxxxxx       
+  10 |  30 |  732 |  53.7 | Etienne Glöggner         |  1.7%  xxxxxx       
+  11 |  29 |  508 |  41.11 | etienne füchtenschneider          |  1.6%  xxxxxx       
+  12 |  28 |  802 |  58.6 | Lutz Büschgen      |  1.6%  quirine        
+  13 |  27 |  614 |  53.6 | Peter Wilike         |  1.5%  quirine        
+  14 |  24 |  805 |  44.3 | Ibo Gudden        |  1.3%  quirine        
+  15 |  23 |  541 |  39.4 | Valentino Cotte         |  1.3%  xxxx         
+  16 |  22 |  498 |  32.6 | Valerius Grobosch      |  1.2%  xxxx         
+  19 |  21 |  587 |  46.11 | Thorsten S. Zwar       |  1.2%  xxxx         
+  21 |  20 |  286 |  11.9 | Raphael Ramaker            |  1.1%  xxxx         
+  23 |  18 |  540 |  12.10 | Maurizio Altenwirth    |  1.0%  ägidius          
+  25 |  17 |  514 |  35.11 | Knut Thalhäuser          |  0.9%  ägidius          
+  29 |  16 |  492 |  10.10 | Raymond Ament      |  0.9%  ägidius          
+  31 |  14 |  338 |  1.11 | Willi Vennebörger            |  0.8%  ägidius           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (356 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+       10 |   6 |  1.7%  ägidius                                             
+        9 |   5 |  1.4%  x                                              
+        8 |   4 |  1.1%  x                                              
+        7 |   8 |  2.2%  ägidius                                             
+        6 |  11 |  3.1%  ägidius                                            
+        5 |  11 |  3.1%  ägidius                                            
+        4 |  25 |  7.0%  xxxxxxxx                                       
+        3 |  39 | 11.0%  xxxxxxxxxxxxx                                  
+        2 |  63 | 17.7%  xxxxxxxxxxxxxxxxxxxxx                          
+        1 | 144 | 40.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (169 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  18 |    59 | 10.7%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (169 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Alwin Vorholzer           |   4 |   164 |  9.2%  xxxxxxxxxxxxxxxxxxxx
+   2 | Gottfried Vennekate        |   1 |   114 |  6.4%  xxxxxxxxxxxxxx      
+   3 | Kai Verfondern         |   1 |    94 |  5.3%  xxxxxxxxxxxx        
+   4 | Alfred Ueberdieck          |   2 |    93 |  5.2%  xxxxxxxxxxx         
+   5 | Ulfert Jaenike            |   2 |    90 |  5.0%  xxxxxxxxxxx         
+   6 | Maurice Beerli       |   2 |    81 |  4.5%  xxxxxxxxxx          
+   7 | Valentino Fischedick         |   3 |    67 |  3.7%  xxxxxxxx            
+   8 | Raymond Förste        |   1 |    60 |  3.4%  xxxxxxx             
+   9 | Tuvok                 |  18 |    59 |  3.3%  xxxxxxx             
+  10 | Karlheinz Schmitte      |   3 |    58 |  3.2%  xxxxxxx             
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1791 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 114 | Persoenliche TopTen                     |  6.4%  xxxxxxxxxx
+   2 | 105 | Schlechteste Filme aller Zeiten         |  5.9%  xxxxxxxxxx
+   3 |  94 | Quentin Tarantinos KILL CÉDRIC           |  5.3%  xxxxxxxxx 
+   4 |  88 | Das Dokument des Grauens -23- Das Wesen |  4.9%  xxxxxxxx  
+   5 |  80 | Inhaltliche nderung durch Synchronisatio|  4.5%  xxxxxxx   
+   6 |  70 | VHS ab 18?                              |  3.9%  xxxxxx    
+   7 |  60 | Diskussion über "Identity" - *SPOILER*  |  3.4%  quirine     
+   8 |  58 | Finger weg von diesem Anhang            |  3.2%  quirine     
+   9 |  52 | Schlechteste Filme aller Zeiten (2)     |  2.9%  quirine     
+  10 |  43 | Kill Bill vierter Film von Tarantino?   |  2.4%  xxxx      
+  11 |  39 | Silvio Vos gestorben               |  2.2%  ägidius       
+  12 |  38 | TV-Highlights (06. - 01.11.2003)        |  2.1%  ägidius       
+  13 |  36 | neue Gruppe de.rec.film.meinungen       |  2.0%  ägidius       
+  14 |  35 | Trailer BETA                            |  2.0%  ägidius       
+  15 |  29 | Kritik: Fluch der Karibik (2004)        |  1.6%  ägidius        
+  16 |  27 | Gunda Jakopi im Alter von 101 Jahren|  1.5%  ägidius        
+  17 |  26 | Bester erotischer Film?                 |  1.5%  ägidius        
+  18 |  23 | Gunda Jakopi ist tot                |  1.3%  ägidius        
+  20 |  22 | [SPOILER] Fluch der Karibik             |  1.2%  ägidius        
+  21 |  21 | Seltene Filme                           |  1.2%  ägidius        
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (169 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+    23 |   2 |  1.2%  ägidius                                                
+    22 |   1 |  0.6%  x                                                 
+    21 |   1 |  0.6%  x                                                 
+    20 |   2 |  1.2%  ägidius                                                
+    18 |   2 |  1.2%  ägidius                                                
+    16 |   2 |  1.2%  ägidius                                                
+    15 |   3 |  1.8%  ägidius                                               
+    14 |   2 |  1.2%  ägidius                                                
+    12 |   5 |  3.0%  quirine                                             
+    10 |   4 |  2.4%  xxxx                                              
+     9 |   6 |  3.6%  xxxxxx                                            
+     8 |   5 |  3.0%  quirine                                             
+     7 |   8 |  4.7%  xxxxxxxxx                                         
+     6 |   8 |  4.7%  xxxxxxxxx                                         
+     5 |   9 |  5.3%  xxxxxxxxxx                                        
+     4 |  11 |  6.5%  xxxxxxxxxxxx                                      
+     3 |  21 | 12.4%  xxxxxxxxxxxxxxxxxxxxxxxx                          
+     2 |  16 |  9.5%  xxxxxxxxxxxxxxxxxx                                
+     1 |  44 | 26.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 330 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 111 | Epuhe Outlook Express      | 33.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  52 | EPFW                        | 15.8%  xxxxxxxxxxxx             
+  45 | Forte Agent                    | 13.6%  xxxxxxxxxx               
+  19 | Netscape                       |  5.8%  xxxx                     
+  15 | MacSOUP                        |  4.5%  ägidius                      
+  12 | Xnews                          |  3.6%  ägidius                       
+  11 | KNode                          |  3.3%  ägidius                       
+   9 | Gnus                           |  2.7%  ägidius                       
+   8 | 40tude_Dialog                  |  2.4%  x                        
+   8 | Forte Free Agent               |  2.4%  x                        
+   8 | Hamster                        |  2.4%  x                        
+   8 | slrn                           |  2.4%  x                        
+   7 | tin                            |  2.1%  x                        
+   4 | Pan                            |  1.2%                           
+   4 | MicroPlanet Gravity            |  1.2%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Der beste.                     |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | CrossPoint [XP2]               |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+   1 | Opera7.20                      |  0.3%                           
+   1 | Sylpheed                       |  0.3%                           
+   1 | Noworyta News Reader           |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 81 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  16 | Forte Agent                    | 19.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | Epuhe Outlook Express      | 19.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  13 | EPFW                        | 16.0%  xxxxxxxxxxxxxxxxxxxxx    
+   7 | Netscape                       |  8.6%  xxxxxxxxxxx              
+   6 | MacSOUP                        |  7.4%  xxxxxxxxx                
+   3 | Forte Free Agent               |  3.7%  xxxx                     
+   3 | Hamster                        |  3.7%  xxxx                     
+   3 | slrn                           |  3.7%  xxxx                     
+   3 | Xnews                          |  3.7%  xxxx                     
+   2 | KNode                          |  2.5%  ägidius                      
+   2 | tin                            |  2.5%  ägidius                      
+   1 | Gnus                           |  1.2%  x                        
+   1 | Opera7.10                      |  1.2%  x                        
+   1 | Der beste.                     |  1.2%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.2%  x                        
+   1 | MorVer                         |  1.2%  x                        
+   1 | Pan                            |  1.2%  x                        
+   1 | 40tude_Dialog                  |  1.2%  x                        
+
+
+Postingverteilung über den Monat (1791 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  83 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   2 |  92 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+   3 |  53 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+   4 |  64 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   5 |  60 |  3.4%  xxxxxxxxxxxxxxxxxxxxxx                              
+   6 |  32 |  1.8%  xxxxxxxxxxx                                         
+   7 |  55 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+   8 |  63 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   9 |  44 |  2.5%  xxxxxxxxxxxxxxxx                                    
+  10 |  65 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  43 |  2.4%  xxxxxxxxxxxxxxx                                     
+  12 |  34 |  1.9%  xxxxxxxxxxxx                                        
+  13 |  30 |  1.7%  xxxxxxxxxxx                                         
+  14 |  52 |  2.9%  xxxxxxxxxxxxxxxxxxx                                 
+  15 |  56 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+  16 |  57 |  3.2%  xxxxxxxxxxxxxxxxxxxx                                
+  17 |  32 |  1.8%  xxxxxxxxxxx                                         
+  18 |  28 |  1.6%  xxxxxxxxxx                                          
+  19 |  40 |  2.2%  xxxxxxxxxxxxxx                                      
+  20 |  60 |  3.4%  xxxxxxxxxxxxxxxxxxxxxx                              
+  21 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  22 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  23 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  24 | 108 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  25 |  97 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  26 |  64 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  27 |  39 |  2.2%  xxxxxxxxxxxxxx                                      
+  28 |  46 |  2.6%  xxxxxxxxxxxxxxxx                                    
+  29 | 144 |  8.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  30 |  87 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+
+hth
+
+Größe
+Norman

@@ -1,0 +1,236 @@
+NG-Statistik drfm für den August 2004
+erstellt mit einem Skript von Nikolaus Detjen.
+
+14. 07. 20 postings
+14. 07. 20 postings
+14. 07. 20 postings
+14. 07. 20 postings
+14. 07. 20 postings
+14. 07. 20 postings
+
+14. 07. 20 postings
+
+
+Autoren mit den meisten Postings (2474 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 14. 07. 20 | 206.1 | Tino L. Eisenbichler     |  4.4%  xxxxxxxxxxxxx
+   2 |  80 | 2486 | 177.5 | Ignaz Bredfeldt          |  3.2%  xxxxxxxxxx   
+   3 |  59 | 3327 | 193.3 | Tim                 |  2.4%  xxxxxxx      
+   4 |  14. 07. 20 |  95.1 | Tobias Doeppner          |  2.2%  xxxxxx       
+   5 |  14. 07. 20 |  93.9 | Valentino Beinhaker         |  1.7%  quirine        
+   7 |  14. 07. 20 |  77.2 | Friedhelm Happach      |  1.7%  quirine        
+   8 |  40 |  953 |  74.4 | Alberto Bütgens        |  1.6%  quirine        
+   9 |  14. 07. 20 |  84.10 | Arne Vahldieck        |  1.6%  quirine        
+  11 |  14. 07. 20 |  87.4 | Friedhelm Dannenmaier            |  1.5%  xxxx         
+  14 |  14. 07. 20 |  69.9 | Nikolaus Ingenstau       |  1.5%  xxxx         
+  15 |  35 | 3687 |  87.8 | Friedhelm Vorderwestner        |  1.4%  xxxx         
+  19 |  34 |  742 |  64.5 | Ulrich Patzschke      |  1.4%  xxxx         
+  21 |  32 |  681 |  63.5 | Willibald A. Eijkelkamp      |  1.3%  xxxx         
+  22 |  28 |  756 |  59.2 | Willibald Inderhock         |  1.1%  zacharias          
+  24 |  27 |  828 |  49.4 | Fridolin Veldhuisen        |  1.1%  zacharias          
+  26 |  26 |  441 |  35.0 | Fredy Stengele           |  1.1%  zacharias          
+  27 |  25 |  870 |  56.4 | Tino Ingenweyen         |  1.0%  zacharias          
+  29 |  23 | 4764 | 309.1 | Pasquale Preissl            |  0.9%  zweer           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (377 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                        
+       13 |   4 |  1.1%  x                                              
+       12 |   4 |  1.1%  x                                              
+       11 |   8 |  2.1%  zweer                                             
+       10 |   4 |  1.1%  x                                              
+        9 |  10 |  2.7%  zacharias                                            
+        8 |   8 |  2.1%  zweer                                             
+        7 |   4 |  1.1%  x                                              
+        6 |  11 |  2.9%  zacharias                                            
+        5 |  24 |  6.4%  xxxxxxx                                        
+        4 |  17 |  4.5%  quirine                                          
+        3 |  33 |  8.8%  xxxxxxxxxx                                     
+        2 |  49 | 13.0%  xxxxxxxxxxxxxxx                                
+        1 | 155 | 41.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (197 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  21 |   178 | 10.7%  xxxxxxxxxxxxxxxxxxxx
+   2 | Pasquale Preissl            |   9 |    19 |  4.6%  xxxxxxxxx           
+   3 | Valentino                 |   6 |   126 |  3.0%  xxxxxx              
+   5 | Nikolaus Ingenstau       |   5 |    38 |  2.5%  quirine               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (197 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Fredy Stengele           |   3 |   310 | 12.5%  xxxxxxxxxxxxxxxxxxxx
+   2 | Art Scharnhorst       |   6 |   214 |  8.7%  xxxxxxxxxxxxxx      
+   3 | Tuvok                 |  21 |   178 |  7.2%  xxxxxxxxxxxx        
+   4 | Friedhelm Happach      |   1 |   160 |  6.5%  xxxxxxxxxx          
+   5 | Valentino                 |   6 |   126 |  5.1%  xxxxxxxx            
+   6 | Bernd Linzmeier        |   2 |    97 |  3.9%  xxxxxx              
+   7 | Ernest Voshaar        |   4 |    78 |  3.2%  quirine               
+   8 | David Volmer      |   1 |    65 |  2.6%  xxxx                
+  10 | Noël K.             |   1 |    62 |  2.5%  xxxx                
+  11 | Olafs Tönnes        |   2 |    54 |  2.2%  zacharias                 
+  12 | Berend Siegeln         |   1 |    52 |  2.1%  zacharias                 
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2474 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 278 | Der erste LOTR-ROTK-Thread              | 11.2%  xxxxxxxxxx
+   2 | 160 | Best and worst of 2004                  |  6.5%  xxxxxx    
+   3 | 122 | Final Edition?                          |  4.9%  xxxx      
+   4 | 108 | welche filme?                           |  4.4%  xxxx      
+   5 |  89 | beste Schock-Szene?                     |  3.6%  zacharias       
+   6 |  65 | Das leidige Thema - Film-Downloads!     |  2.6%  zweer        
+   8 |  64 | Filmkritik: Die Liga der aussergew�hnlic|  2.6%  zweer        
+  10 |  62 | Master and Commander                    |  2.5%  zweer        
+  11 |  52 | Diskussion: Urheberrecht abschaffen?    |  2.1%  zweer        
+  13 |  49 | Just some more Teenie Movies...         |  2.0%  x         
+  14 |  47 | Sequels - ja oder nein ? Gute Sequels   |  1.9%  x         
+  15 |  44 | DVDs die nicht erscheinen wollen        |  1.8%  x         
+  16 |  36 | Adaptation --> The Three                |  1.5%  x         
+  17 |  32 | Fehler in independence Day              |  1.3%  x         
+  19 |  28 | Infos?                                  |  1.1%  x         
+  21 |  27 | Namen vergessen: Strichmännchen         |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (197 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                          
+    17 |   5 |  2.5%  quirine                                             
+    16 |   9 |  4.6%  xxxxxxxxx                                         
+    15 |   2 |  1.0%  zweer                                                
+    14 |   1 |  0.5%  x                                                 
+    13 |   3 |  1.5%  zacharias                                               
+    12 |   5 |  2.5%  quirine                                             
+    11 |   4 |  2.0%  xxxx                                              
+    10 |   5 |  2.5%  quirine                                             
+     9 |   4 |  2.0%  xxxx                                              
+     8 |   3 |  1.5%  zacharias                                               
+     7 |   3 |  1.5%  zacharias                                               
+     6 |   4 |  2.0%  xxxx                                              
+     5 |   9 |  4.6%  xxxxxxxxx                                         
+     4 |  11 |  5.6%  xxxxxxxxxxx                                       
+     3 |  23 | 11.7%  xxxxxxxxxxxxxxxxxxxxxxx                           
+     2 |  30 | 15.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+     1 |  49 | 24.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 349 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 118 | Niehaves Outlook Express      | 33.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  50 | Forte Agent                    | 14.3%  xxxxxxxxxxx              
+  48 | Nebe                        | 13.8%  xxxxxxxxxx               
+  16 | Netscape                       |  4.6%  zacharias                      
+  15 | 40tude_Dialog                  |  4.3%  zacharias                      
+  13 | KNode                          |  3.7%  zweer                       
+  11 | MacSOUP                        |  3.2%  zweer                       
+  10 | tin                            |  2.9%  zweer                       
+  10 | slrn                           |  2.9%  zweer                       
+  10 | Xnews                          |  2.9%  zweer                       
+   9 | Gnus                           |  2.6%  x                        
+   9 | Hamster                        |  2.6%  x                        
+   8 | Forte Free Agent               |  2.3%  x                        
+   2 | Nebe Thunderbird            |  0.6%                           
+   2 | MicroPlanet Gravity            |  0.6%                           
+   2 | Pan                            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | VSoup                          |  0.3%                           
+   1 | Session Scheduler (Queue Name: |  0.3%                           
+   1 | OpenXP                         |  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Opera7.11                      |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | TIN [UNIX                      |  0.3%                           
+   1 | Opera7.03                      |  0.3%                           
+   1 | MT-NewsWatcher                 |  0.3%                           
+   1 | Hogwasher                      |  0.3%                           
+   1 | Opera7.20                      |  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 114 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  27 | Niehaves Outlook Express      | 23.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | Forte Agent                    | 21.1%  xxxxxxxxxxxxxxxxxxxxxxx  
+  12 | Nebe                        | 10.5%  xxxxxxxxxxx              
+   9 | Netscape                       |  7.9%  xxxxxxxx                 
+   6 | Hamster                        |  5.3%  quirine                    
+   5 | MacSOUP                        |  4.4%  xxxx                     
+   4 | Gnus                           |  3.5%  zacharias                      
+   4 | KNode                          |  3.5%  zacharias                      
+   4 | 40tude_Dialog                  |  3.5%  zacharias                      
+   4 | slrn                           |  3.5%  zacharias                      
+   3 | tin                            |  2.6%  zweer                       
+   3 | Forte Free Agent               |  2.6%  zweer                       
+   2 | Xnews                          |  1.8%  x                        
+   2 | Pan                            |  1.8%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%                           
+   1 | Nebe Thunderbird            |  0.9%                           
+   1 | MicroPlanet Gravity            |  0.9%                           
+   1 | Opera7.10                      |  0.9%                           
+   1 | CrossPoint                     |  0.9%                           
+
+
+Postingverteilung über den Monat (2474 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 188 |  7.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | 121 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   3 |  64 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+   4 |  94 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   5 |  52 |  2.1%  xxxxxxxxxxxxxx                                      
+   6 |  45 |  1.8%  xxxxxxxxxxxx                                        
+   7 |  66 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+   8 | 116 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+   9 |  95 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  10 |  77 |  3.1%  xxxxxxxxxxxxxxxxxxxxx                               
+  11 | 124 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  12 |  96 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  13 |  36 |  1.5%  xxxxxxxxxx                                          
+  14 |  66 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+  15 |  84 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  16 |  89 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  17 | 124 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  18 | 115 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  19 |  75 |  3.0%  xxxxxxxxxxxxxxxxxxxxx                               
+  20 |  97 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  21 |  79 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  22 |  88 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  23 |  45 |  1.8%  xxxxxxxxxxxx                                        
+  24 |  32 |  1.3%  xxxxxxxxx                                           
+  25 |  50 |  2.0%  xxxxxxxxxxxxxx                                      
+  26 |  80 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  27 |  54 |  2.2%  xxxxxxxxxxxxxxx                                     
+  28 |  48 |  1.9%  xxxxxxxxxxxxx                                       
+  29 |  25 |  1.0%  xxxxxxx                                             
+  30 |  74 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+  31 |  74 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+
+
+Größe und ein frohes neues Jahr!
+Ignaz

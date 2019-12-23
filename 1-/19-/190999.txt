@@ -1,0 +1,10 @@
+Dass mit dem eingebauten DTS-Decoder halte ich fuer ein Geruecht. Bisher
+gibt es noch keinen Player, der DTS (also den als "DTS" markierten Bitstrom)
+ausgeben kann.
+
+Tschau,
+Winfried
+--
+Winfried Jurk                           Student of Computer Science
+Zepkow                              E-Mail: c30h@ksp.zxt-nrwkav.hi
+Germany              WWW: http://tss-epre.ber.lqj-aanczd.op/~l82h/

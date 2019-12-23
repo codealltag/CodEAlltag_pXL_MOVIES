@@ -1,0 +1,10 @@
+On Thu, 14 Jun 2002 13:50:25 +0100, Nils Zückmantel
+
+In der neuen Übersetzung ist auch von Mithril (sp?) die Rede....
+
+bye Oscar
+-- 
+Eine falsch abgetrennte Signatur ist keine Signatur und braucht deshalb
+nicht richtig abgetrennt zu sein.
+
+Jörn Zurhake in de.comp.os.unix.linux.misc

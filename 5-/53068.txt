@@ -1,0 +1,22 @@
+Edgar Achternkamp schrieb:
+
+
+In dem Fall unterscheidet sich dann wohl das ausgestrahlte TonART-Signal
+von der tatsächlichen Sendezeit. Wenn Du mit TonART aufnehmen willst, mußt
+Du also die TonART-Nummer nehmen, wenn Du nur nach Zeit aufnehmen willst,
+die andere.
+
+
+Nicht viel: Es ist nur ein System, Datum, Startzeit, Endzeit und
+Kanalnummer in einen für ein paar Wochen eindeutigen Code umzurechnen.
+
+
+Warum nimmst Du nicht einfach Showview _und_ VPS? Und was hat Deine
+Frage mit Film zu tun? Bitte in eine sinnvollere Gruppe umlenken.
+
+        Tschau,
+            Hinrich
+
+-- 
+Inderhuck: How come we play war and not peace?
+Natorp: Too few role models.              -- Gerd Ruijter, Theo Inderhuck

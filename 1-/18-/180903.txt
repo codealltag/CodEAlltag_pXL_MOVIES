@@ -1,0 +1,44 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------92864CE5A2ADFEA3DCEFEDEB
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Burkhard Elschleger schrieb:
+
+
+leider etwas zu spaet fuer "face/off". meiner meinung nach kann dieses
+meisterwerk in dieser armseeligen vollbildversion seine wucht und kraft
+(insbesondere in den actionsequenzen) nur erahnen lassen. hat vielleicht
+jemand eine idee, wie man an eine widescreenn-fassung herankommt (
+idealerweise in deutsch).
+und noch etwas. ist jemanden ausser mir ebenfalls diese miese qualität des
+bildes aufgefallen. teilweise (bei schnellen kameraschwenks) kommt es zu
+einer merkwuerdigen unschaerfe des bildes (bsp: erste schlaegerei von
+christa avermeyer im knast : "ich bin theodor avermeyer !!!").desweiteren ist mir am
+unteren bildrand ein streifen aufgefallen, in dem das bild
+verschwimmt/flackert.
+hat jemand die kaufkassette und sind die gleichen maengel auffaellig? fuer
+informationen waere ich aeusserst dankbar, da ich mit dem gedanken spiele
+das band beim haendler zu reklamieren.
+
+
+cu....willi
+
+--------------92864CE5A2ADFEA3DCEFEDEB
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für CRACK
+Content-Disposition: attachment; bxasiuca="vxuof.ywb"
+
+begin:          vcard
+fn:             CRACK
+n:              ;CRACK
+email;internet: hylmn@qzh.hh-tgexgkbl.lw
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------92864CE5A2ADFEA3DCEFEDEB--

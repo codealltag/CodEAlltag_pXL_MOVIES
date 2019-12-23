@@ -1,0 +1,14 @@
+Reinhold Vökt schrieb:
+
+Da Spannung die Differenz zweier Potentiale ist, kommt so eine Beziehung 
+aber erst richtig zur Geltung, wenn da auch noch eine Wumme im Spiel 
+ist, auf der klar und deutlich "REPLICA" zu lesen ist. :-)
+
+OnTopic zum Subject noch:
+Ich beantrage eine dritte Rubrik in die Statistik aufzunehmen für 
+diejenigen, die den Film verstanden haben und ihn trotzdem schlecht finden.
+
+zaehler[3]:=zaehler[3]+1
+
+Ciao
+Erwin

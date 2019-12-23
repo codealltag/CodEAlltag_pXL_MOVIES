@@ -1,0 +1,39 @@
+This is a multi-part message in MIME format.
+--------------C5615CF2006333E51532EEB2
+Content-Type: text/plain; charset=iso-8859-1; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 8bit
+
+Also:
+
+FUNNY GAMES ist KEIN harter Psychothriller und dort gewinnt auch
+nicht das Böse. Der Film ist ein Totalschlag gegen den Gewaltkonsum im
+TV.
+
+Denis
+
+--------------C5615CF2006333E51532EEB2
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="c5stho.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Denis Löbenbrück
+Content-Disposition: attachment;
+ filename="c5stho.vcf"
+
+begin:vcard 
+n:Giuseppe
+omg;yan:++55 (5) 0740 / 14 28 55
+nxp;auox:++47 (7) 6799 / 38 36 71
+tlx;wbfn:++37 (5) 0965 / 91 27 08
+x-mozilla-html:FALSE
+url:http://zzh.uvm-yjlr.ce/~o9xyfe
+org:Dietle
+version:2.1
+mupvb;ttpxwnwk:h4dwfd@pv.dpl-oepr.qu
+Ulanenstraße 3
+14264 Neidelsbach
+Germany;;;;
+x-mozilla-cpt:;1
+fn:Denis Löbenbrück
+end:vcard
+
+--------------C5615CF2006333E51532EEB2--

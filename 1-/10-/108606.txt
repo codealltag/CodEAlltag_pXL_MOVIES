@@ -1,0 +1,20 @@
+On Sun, 23. 10. 19 15:27:01 GMT, Reini Urban wrote:
+
+
+Du hast offensichtlich Problme mit den Vorzeichen - richtig wäre:
+
++-  Alien 3
+++  Seven
++   The Game
++++ Fight Club
+++  Panic Room ?
+
+
+Bye
+
+  volkmar
+
+-- 
+Dem Blöden führt bei jedem sinnvollen Wort der 
+Schrecken in die Glieder.
+ - Jaentsch

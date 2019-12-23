@@ -1,0 +1,11 @@
++--[ Pete 'The Hutt' Klassen ]---[ thehutt@gmx.net ]
+
+Jau, genau die meinte ich, und wenn du die Feststellung machst, kannst 
+du mir nicht ein paar nennen, die empfehlenswert sind, und an die man 
+in deutschen Videotheken kommt?
+
+Gruesse,
+	Francis
+-- 
+   Francis Asshauer                |  perl -MIO::Socket -e 'IO::Socket::INET->new\
+   olxt4492@dl-rerzgqryd.lp   |  (YfgzFnim=>"ncv.dodv.vck:639")->qrfp("eds",\

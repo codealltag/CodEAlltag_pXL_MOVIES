@@ -1,0 +1,42 @@
+This is a multi-part message in MIME format.
+--------------FB9FF7C929864F09655BDF69
+Content-Type: text/plain; charset=iso-8859-1; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 8bit
+
+Hi,
+
+kann mir jemand verraten, wie die Musikstücke / Bands heißen, die zu
+folgenden Werbeclips gespielt werden:
+
+1. Elegance-Clip (ist irgendsowas im Spiegelsaal-Stil)
+2. Aufwiedersehen DM, Willkommen Euro (von der HypoVereinsbank) (klingt
+nach "2-Raumwohnung).
+
+Werweiß es?
+
+Francis
+
+
+--------------FB9FF7C929864F09655BDF69
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="stefan.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Francis Lahayn
+Content-Disposition: attachment;
+ filename="stefan.vcf"
+
+begin:vcard 
+n:Kay
+vug;cybvjh-fprcprcuz;zzhj:=F9542/0475608
+lgr;ote:4593/1113458
+oiw;ckze:5591/4209594
+x-mozilla-html:FALSE
+url:http://nhd.zaigif-sdqiogmo.mk/
+Ablanzergasse 42;Byzs;EUA;65207;Zauttpjfpto
+version:2.1
+email;internet:stefan@hoeltgen.org
+x-mozilla-cpt:;1
+fn:Francis Lahayn
+end:vcard
+
+--------------FB9FF7C929864F09655BDF69--

@@ -1,0 +1,24 @@
+Theodor Leimkühler wrote:
+
+
+Als angemeldeter Nutzer kann man im Forum suchen. Siehe 
+http://dtahg.cmtaahzku.bx/smwrrdiotn.owt?u3293 oder auch 
+<http://niv.jxtuabx.my/op/rmmbibqoyk.yum?ubcpuobdX799&qpaouul=11&nydvoklqly=8>
+
+
+Ganz einfach: Ich habe ihn offline um 00:41 geschrieben, bin dann ins 
+Bett gegengen und habe um 19:13 geschriebenes hoch- und ungelesenes 
+runtergeladen. Daher war er um 18:42 noch nicht abzurufen. Es gibt noch 
+Leute ohne Flatrate und für das Usenet braucht man die auch nicht 
+unbedingt.
+
+Gemi liefert zu Injection-Date u.a. 
+<http://sci.nmf.iym/xxij-skhgah/ljfp-yoiggvz/nru90114.glsi>
+
+Zitat:
+The Injection-Date header field contains the date and time that the 
+article was injected into the network.  Its purpose is to prevent the 
+reinjection into the news stream of "stale" articles which have already 
+expired by the time they arrive at some news server.
+
+Gruß, Heiko

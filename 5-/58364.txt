@@ -1,0 +1,28 @@
+^^^^
+  ^^^^^^^^^^^^^^^^^^^^
+
+Und wie gedenkst Du Dein neues neues Zahlensystem zu nennen?
+
+Falls du auf eine eventuell vorhandene Hash-Funktion anspielst, die für
+einen Filmtitel eine URI generiert, so vermute ich eher, dass über einen
+fortlaufenden Index (auto-increment) oder per guess-while-collision
+(unwahrscheinlich) eine eindeutige URI generiert wird, die dann in der DB
+abgelegt wird.
+
+
+Hm, vielleicht meinst du, ob es möglich sei, direkt per Kanureich eine Query auf
+das Bild abzusetzen, so im Stil von
+[www.obxg.nay/xffufbukew?eqfof=vlytu%02iuyfhl]?
+Denke nicht, dass die solche queries eingebaut haben, wäre denkbar aber eher
+unwahrscheinlich.
+
+Btw, der Infix 'm' in http://np.lwmp.qke/bwnxa/daiq/80/C/14/59/55p.zdq steht
+für 'medium size', lässt sich auch mit 's' für 'small' verwenden (mit 'l'
+leider ned).
+
+So long & HTH,
+- Onno
+
+--
+[ ftfmqpp@nbq4k.wz | www.cig6v.pl ]
+"Never mind," said Ford, "Rome wasn't burnt in a day."

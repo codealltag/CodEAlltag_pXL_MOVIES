@@ -1,0 +1,12 @@
+Josef V Mittag schrieb folgendes:
+
+
+"Mein Name ist Kay, Julius Reihofer"
+
+SCNR
+
+MFG, Erich
+-- 
+do
+     fork agent ( arnold );
+repeat;

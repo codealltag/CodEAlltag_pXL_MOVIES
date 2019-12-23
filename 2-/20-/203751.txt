@@ -1,0 +1,18 @@
+Könnte es sein, daß Dein C-Compiler kaputt ist?
+
+strcmp ("Paramount","Universal") liefert bei mir KEINE Gleichheit.
+
+Alles von Dir genannten Filme sind von Paramount. Ich sprach von
+Universal (siehe oben).
+
+
+Ich sprach vom Heimbereich, von Laserdiscs und VHS-Videos (siehe
+ebenfalls oben). Und auf denen findet man nur die von mir beschriebenen
+Hinweise und NICHT das Wort "Dolby". (Das gilt zumind. für US-Laserdiscs
+und -VHS; ich weiß natürlich nicht, was der dt. Vertrieb aufdruckt,
+schließlich wissen die sowieso nicht, von was sie reden.)
+
+Beat
+---
+** Beat Pschorn,  Riegel�ckerstra�e 27,  41741 Fronrot,  Germany **
+** +76 8980 90169  E-Mail (NeXTmail/MIME): afify@sbwgpz.n.aiceg.yy **

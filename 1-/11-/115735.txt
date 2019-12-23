@@ -1,0 +1,10 @@
+Die FTP Spiegel Server werden in diesen Minuten upgedatet.
+Die diffs tools befinden sich im Tools Unterverzeichnis.
+Man braucht ApplyDiffs Version 2.5 um die Diffs erfolgreich zu erzeugen.
+
+Mit freundlichen Gruessen
+Reto Dubert
+
+-- 
+Internet: pqio@ahssi.ba
+WWW: http://hxdg.ajhky.lp/bavp

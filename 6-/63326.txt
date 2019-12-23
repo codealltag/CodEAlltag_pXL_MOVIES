@@ -1,0 +1,6 @@
+Die Texte selbst bleiben englisch, aber die Schubladen wurden
+eingedeutscht (Soundtrack -> Filmmusik, misc -> Verschiedenes usw.)
+Das macht die Navigation fuer Leute, die nicht englisch sprechen etwas
+leichter, nuetzt aber im Endeffekt auch nichts, da die Texte ja
+englisch bleiben. Einziger Vorteil: die deutschen Filmtitel werden
+automatisch mit angegeben.

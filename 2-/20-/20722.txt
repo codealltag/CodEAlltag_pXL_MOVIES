@@ -1,0 +1,5 @@
+Udo Ackerbauer wrote:
+
+Das gilt nur dann, wenn man keine Kompressionsverluste hinnehmen will.=20
+Bei MP3 gehören Verluste zum Funktionsprinzip. Was aber stimmt, ist,=20
+dass es keine nur 1 Byte grosse MP3-Datei gibt.

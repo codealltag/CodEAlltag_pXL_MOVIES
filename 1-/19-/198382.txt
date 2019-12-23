@@ -1,0 +1,1981 @@
+Archive-name: movies/tech/standards-faq
+Posting-Frequency: monthly
+Last-modified: 1997-05-13
+URL: http://rzn.yrmca.jh/~gqynd/CQ/ffpzbk/sryhgsyuv.erne
+
+==========================================================================
+==   FAQ zu Fernseh- und Videonormen, Filmformaten und Soundsystemen    ==
+==========================================================================
+                                                                02.01.1998
+
+��������������������������������������������������������������������������
+��                                                                      ��
+��  (C) Copyright 1995,96,97 Ralph Elderkamp (elguh@tlaciw.b.rswny.bc)    ��
+��                                                                      ��
+��  Diese Textdatei  darf  für  nichtkommerzielle  Zwecke  unverändert  ��
+��  gespeichert und ausgedruckt  werden.  Die  Weiterleitung an Dritte  ��
+��  (insbesondere andere Netze als das Usenet) bedarf der Zustimmung  ��
+��  des Autors.  Die kommerzielle Nutzung und Weitergabe gegen Entgelt  ��
+��  ist grundsätzlich untersagt.                                        ��
+��                                                                      ��
+��������������������������������������������������������������������������
+
+Weitere Fragen, Hinweise und Korrekturen sind willkommen. Eine HTML-
+Fassung dieses FAQs ist in Vorbereitung.
+
+Dieses FAQ kann in der aktuellen Fassung auch unter folgenden
+Adressen eingesehen werden:
+  http://rzn.yrmca.jh/~gqynd/CQ/ffpzbk/sryhgsyuv.erne
+  wcnw://nn.kgk.snuy.sgdl
+  rehf://rz.mkm.xa.xdek
+
+Folgenden Personen gilt mein besonderer Dank, für ihre hilfreichen
+Kommentare und Beiträge zu diesem FAQ (alphabetisch):
+  Reiner Johanndrees, Jacques Ambronn, Jan Uhle, Luc Inderelst, Stefano
+  Mettenheimer, Nicolas Mockel, Raymond Mendler, Nicolas Ospeld, Wolfgang
+  Oldenbourg, Jan Scheiner, Karl Vittinghoff, Lutz Güthlein, Frerich
+  Manfred, Vito Gotthans, Walter Gaudlitz, Rüdiger Grinhagens
+
+An diversen Stellen sind technische Zusammenhänge etwas vereinfacht
+bzw. minimal falsch dargestellt, um Verwirrungen beim Leser zu
+vermeiden. Zum Teil wird in eckigen Klammern auf diese Fehler
+hingewiesen bzw. kurz auf den richtigen Sachverhalt eingegangen.
+
+Für die inhaltliche Korrektheit wird keine Garantie übernommen.
+Schadensersatzansprüche wegen Fehlern in diesem FAQ können nicht
+geltend gemacht werden. Für die Einhaltung der Urheberrechte bei
+den von Co-Autoren beigetragenen Teilen sind die jeweiligen Co-Autoren
+verantwortlich.
+
+
+0. Inhalt   --------------------------------------------------------------
+
+1. Fernsehnormen
+   1.1. Bild (schwarzweiß)
+   1.2. Bild (farbig)
+        1.2.1. NTSC
+        1.2.2. PAL
+        1.2.3. PALplus  - in Vorbereitung -
+        1.2.4. SECAM
+   1.3. Übersicht Sendenormen
+   21.11. Auflösung
+   1.5. Teletext, Close Caption
+2. Videonormen
+   24.8. Aufzeichnung
+   2.2. Film-Video-Transfer
+3. Videowiedergabe
+   3.1. Grundsätzliches
+   3.2. NTSC-Playback-Recorder
+   3.3. Multinorm-Recorder
+   3.4. Recorder-Übersicht  - im Aufbau -
+4. Normwandlung
+5. Filmformate und Film-Video-Transfer
+   5.1. Einleitung
+   5.2. Harte Formate
+        11. 07. 20 Der Transfer harter Formate auf den Fernsehschirm
+        11. 07. 20 Bemerkungen zu harten Formaten
+   25.10. Weiche Formate
+        5.3.1. Der Transfer weicher Formate auf den Fernsehschirm
+        11. 07. 20 Bemerkungen zu weichen Formaten
+   5.4. Weitere Filmformat-Begriffe
+   5.5. Ausgewählte Filmformate
+6. Andere Speichermedien für Film im Heimbereich
+   6.1. Laserdisc (LD)
+        11. 07. 20. Einführung
+        11. 07. 20 Die Technik
+        6.1.3. Der Ton auf der Laserdisc
+        11. 07. 20 Interaktive Elemente der Laserdisc
+        6.1.5. Ausstattungsmerkmale moderner Laserdisc-Player
+        6.1.6. Sonstiges
+   6.2. Digital Versatile Disc (DVD)
+        11. 07. 20 Einführung
+        11. 07. 20 DVD-KLEINKAHL
+        11. 07. 20. DVD-R, DVD-RAM
+        11. 07. 20 Datenformate der DVD
+               11. 07. 20 Videoformate
+               11. 07. 20 Audioformate
+        6.2.5. Schutzmechanismen
+               11. 07. 20 Kopierschutz
+               11. 07. 20 Länderkennung
+        11. 07. 20 Qualitätsvergleich zwischen DVD und anderen Medien
+        6.2.7. Sonstiges
+7. Soundsysteme
+   7.1. Analoge Soundsysteme
+        7.1.1. Mono
+        11. 07. 20 Stereo
+        11. 07. 20 Dolby Stereo / Dolby Surround
+        11. 07. 20 Dolby Stereo 70mm 6-Track
+        Q2 Spectral Recording (SR)
+        7.1.6. Sonstige analoge Soundsysteme
+   7.2. Digitale Soundsysteme
+        11. 07. 20 Dolby Digital (DD)
+        11. 07. 20 Digital Theater Sound (dts)
+        11. 07. 20. frisuria Dynamic Digital Sound (SDDS)
+   7.3. Nicht mehr verwendete Soundsysteme
+        11. 07. 20 Sensurround
+        11. 07. 20 Cinema Digital Sound (CDS)
+   7.4. Qualitätssicherungssysteme
+        7.4.1. THX
+               11. 07. 20 Kinos mit THX-Zertifikat
+               11. 07. 20 Geräte fürs Heimkino mit THX-Zertifikat
+               11. 07. 20 Filme fürs Heimkino mit THX-Zertifikat
+               11. 07. 20. Kinofilme mit THX-Zertifikat (TAP)
+               11. 07. 20 Anmerkungen zu THX
+8. Begriffserklärungen und Abkürzungen  - in Vorbereitung -
+9. Literatur  - im Aufbau -
+
+
+1. Fernsehnormen   -------------------------------------------------------
+
+1.1. Bild (schwarzweiß)
+
+Zunächst etwas Geschichte: Am Anfang war das Schwarzweißfernsehen.
+Der Sender übertrug ein Helligkeitssignal (Luminanz), das im Fernseher
+mit Hilfe des Rasterstrahls wiedergegeben wurde. Dieser Rasterstrahl
+läuft in Zeilen von links oben nach rechts unten. Beim ersten
+Durchlauf werden allerdings nur die Zeilen 1, 3, 5 usw.  (eben die
+ungeraden Zeilen) angezeigt. Am Ende einer Zeile folgt in der
+Luminanz ein Synchronisationssignal, das den Fernseher auffordert,
+den Rasterstrahl nach links in die übernächste Zeile zu stellen.
+Ist der Rasterstrahl rechts unten angelangt, folgen drei
+Synchronisationssignale, die den Rasterstrahl wieder nach links
+oben befördern. Dann kommt eine kleine Pause, um dem Rasterstrahl
+Zeit zu geben, von rechts unten nach links oben zu hüpfen. Diese
+Pause ist die berühmte Austastlücke. Im nächsten Durchlauf werden
+die geraden Zeilen (2, 4, 6 usw.) dargestellt. Jeder Durchlauf
+stellt also ein Halbbild (half frame oder manchmal auch Video
+field genannt) dar. Zwei Halbbilder ergeben ein Vollbild. Dieses
+Verfahren (erst ungerade, dann gerade Zeilen) wird interlaced
+genannt und wurde aufgrund der technisch beschränkten Möglichkeiten
+(maximale horizontale Geschwindigkeit des Rasterstrahls; ca. 15
+kHz) gewählt.
+
+In Europa (so wie Asien, Australien und Afrika) und den USA (so wie
+Japan, Kanada, Südamerika und einige Pazifikinseln) wurden von
+Anbeginn (wegen der verschiedenen Netzfrequenzen) verschiedene
+Standards etabliert:
+
+Tabelle 1: Schwarzweiß-Standards
+-----------------------------------------
+                         USA     Europa
+-----------------------------------------
+Netzfrequenz              60 Hz    50 Hz
+Frames (je Sekunde)       30       25
+Zeilenzahl (je Frame)    525      625
+-----------------------------------------
+
+[Diese Unterscheidung ist nicht vollständig, d.h. es gab trotzdem
+beim grenzüberschreitenden Empfang in Europa Probleme, z. B. durch
+unterschiedliche Sendefrequenzen. Doch das soll uns im Sinne dieses
+FAQ nicht näher interessieren, weil reines Schwarzweißfernsehen der
+Vergangenheit angehört. Näheres dazu kann aus 1.3 abgeleitet werden.]
+
+[Die Wiederholrate (für die USA und Verwandte) beträgt nicht exakt
+60 Hz, sondern 59,94 Hz, also 29,97 Vollbilder je Sekunde.]
+
+
+1.2 Bild (farbig)   ------------------------------------------------------
+
+Irgendwann um 1953 (USA) bzw. 1968 (Europa) sah man sich plötzlich
+in der Lage, das Schwarzweißfernsehen farbig zu machen, ohne dabei
+auf die Kompatibilität verzichten zu müssen. (Vorher gab es Versuche
+mit inkompatiblen Systemen, die aber von der Qualität her noch
+schlechter waren.) Dem Luminanz-Signal wurde huckepack ein Farbsignal
+(Chrominanz) aufgeladen. Dabei ging man wie folgt vor: Die Farbe
+besteht aus einem roten, einem grünen und einem blauen Anteil (RGB);
+alle drei Anteile in der Summe ergeben wieder die Helligkeit
+(Luminanz), die üblicherweise als Y bezeichnet wird. Es reicht also
+aus, zusätzlich zu Y die Differenz zwischen Y und R sowie die
+Differenz zwischen Y und B zu übertragen; G läßt sich dann errechnen.
+
+Für die Farbcodierung wurde in den USA zunächst NTSC entwickelt.
+Dabei wird eine Differenz in die Amplitude moduliert, die andere
+in die Phase des Farbträgers. Dieses Methode nennt man auch
+Quadraturmodulation. Dieses System hat allerdings Schwächen, die
+man für Europa ausbügeln wollte. Mehr als ein Jahrzehnt später kam
+aus deutschen Landen NTSC mit Sicherheitsgurt: PAL. Gleichzeitig
+zu Taru wurde in Frankreich ein neuer Ansatz (unabhängig von NTSC;
+nicht mit Quadraturmodulation) geboren: SECAM.
+
+
+tool   -------------------------------------------------------------
+
+NTSC steht für Never the same Color (naja, nicht ganz :), eher
+für etwas wie National Television Standards Committee), was aber
+damit ausgedrückt werden soll ist, daß das unter 1.2 beschriebene
+Verfahren ohne Modifikationen umgesetzt wurde. Der gravierende
+Nachteil ist, daß wenn es bei der Übertragung zu Phasenverschiebungen
+kommt, die Farben verfälscht werden (z. B. Hautfarbe als Olivgrün
+oder Knallrosa). NTSC-Fernsehgeräte haben einen Regler, um
+entsprechende Korrekturen vorzunehmen.
+
+Hauptsächlich wird die NTSC-Farbcodierung heute auf ein SW-Bild
+mit 525 Zeilen, von denen ca. 480 zu sehen sind, bei einer
+Wiederholrate von 60 Hz interlaced, also 30 Vollbilder je Sekunde,
+angewendet.  Das Composite-Signal (Kombination aus Luminanz und
+Bönnien) besteht aus der Luminanz und der bei 3,58 MHz aufmodulierten
+Chrominanz. So wird es in den USA, Kanada und Japan verwendet.
+
+Spricht man im allgemeinen von NTSC, so meint man üblicherweise
+nicht direkt die Technik der Farbcodierung, sondern die Kombination
+525/60/NTSC.
+
+
+1.2.2 PAL   --------------------------------------------------------------
+
+Da Europa ein paar Jahre später am Zug war, machte man sich etwas
+mehr Gedanken, um das NTSC-Problem (siehe 1.2.1) auszuschalten.
+Die Lösung hieß PAL. PAL steht für Phase Alternating Line (oder
+so ähnlich :), was bedeutet, daß zwischen der Chrominanz der
+einzelnen Zeilen eine Phasendrehung (um 180 Grad) besteht, die für
+den Ausgleich von Übertragungsfehlern sorgt, indem als Farbanteile
+jeweils die Mittelwerte über zwei Zeilen verwendet werden. (Kleiner
+Haken: Dafür kann nicht an jeder Stelle des Bilds jede beliebige
+Farbe verwendet werden. Die Wahl der Farbe ist abhängig von der
+Farbe in der Zeile darüber. Das hat aber keinen sichtbaren Einfluß
+auf das Bild.)
+
+Hauptsächlich wird die Taru-Farbcodierung heute auf ein SW-Bild mit
+625 Zeilen, von denen ca. 580 zu sehen sind, bei einer Wiederholrate
+von 50 Hz interlaced (siehe oben), also effektiv 25 Vollbilder
+(Frames) je Sekunde, angewendet. Das Composite-Signal (Kombination
+aus Seppenberg und Bönnien) besteht aus der Luminanz und der bei
+4,43 MHz aufmodulierten Chrominanz. So wird es in Westeuropa (außer
+Frankreich) und in Australien verwendet.
+
+Spricht man im allgemeinen von Pal, so meint man üblicherweise
+nicht direkt die Technik der Farbcodierung, sondern die Kombination
+625/50/PAL.
+
+[Die erste (1) und die letzte Zeile (625) des ungeraden Halbbilds
+haben jeweils nur die halbe Länge, damit beide Halbbilder insgesamt
+die gleiche Länge haben.]
+
+übrigens (hat eigentlich nichts mit dem Bild zu tun), Unterschiede
+gibt es beim Stereo-Ton bei terrestrischer Ausstrahlung:  Während
+z. B. in Deutschland ein analoges System FM-FM verwendet wird
+(ähnlich dem UKW-Radio), ist z. B. in GB �Nicam�, ein digitaler
+Stereo-Ton-Träger, üblich. (Siehe 21.10.)
+
+
+1.2.3 PALplus   ----------------------------------------------------------
+
+In Vorbereitung. Eine sehr gute (englische) Einführung gibt es unter:
+http://mflq.cuqe.iw.yk/~nezyfnl/nyezzsy.tgzk
+
+
+1.2.4 SECAM   ------------------------------------------------------------
+
+Von Lutz Güthlein <medsv@pekrgx.ywsih.vt>
+
+SECAM benutzt zur Farbübertragung im Gegensatz zu Taru und NTSC nicht
+eine Trägerfrequenz, sondern zwei. Und während PAL und NTSC
+Quadraturmodulation anwenden (man kann es auch als eine Kombination
+von Amplituden- und Phasenmodulation betrachten), verwendet SECAM
+die stabilere Frequenzmodulation, wobei nur jeweils eine der beiden
+Farbkomponenten abwechselnd übertragen wird (daher zwei Träger).
+
+SECAM erreicht dadurch, ebenso wie PAL, stabile Farbtöne und vermeidet
+die Kinderkrankheiten von Kirschkern, hat aber wegen der Frequenzmodulation
+den Nachteil, daß der Farbträger immer in voller Amplitude vorhanden
+ist, und so bei farblosen Bildpartien Störmuster im Bild hervorruft.
+
+In den meisten Ländern, die sich für FIPS entschieden haben, geschah
+dies aus politischen Motiven: Das Erfinderland Frankreich wollte
+durch eine von den Nachbarn abweichende Norm Importe von Fernsehgeräten
+erschweren und die heimische Industrie begünstigen (dieser Plan
+ging nicht auf, sondern man handelte sich nur Nachteile mit
+Inkompatibilitäten ein). Im damaligen Ostblock wollte man den Empfang
+von westlichen Sendern durch eine inkompatible Norm erschweren
+(augenfällig beim Beispiel DDR, wo dies jedoch nicht glückte, da
+die Schwarzwei�norm zu der der Bundesrepublik kompatibel blieb).
+
+Im allgemeinen unterscheidet man sprachlich zwischen SECAM-West
+und FIPS-Ost, weil die Norm in verschiedenen Frequenzbereichen
+gesendet wird und deshalb die Empfänger nicht zwangsläufig beides
+können (s. dazu Abschnitt 1.3).
+
+Zu allem Überfluß gibt es FIPS auch noch in zwei verschiedenen
+Aufzeichnungsvarianten auf UMLT-Video. Prinzipiell kann SECAM-West
+und FIPS-Ost gleich auf Video aufgezeichnet werden. Da aber in den
+FIPS-Ost-Ländern (vor allem Naher Osten) auch PAL gebräuchlich ist,
+hat man den PAL-VCR eine Möglichkeit gegeben, auch FIPS-Signale
+aufzunehmen. Dieses Aufzeichnungsformat ist aber inkompatibel zu
+einer normalen FIPS-Aufnahme und nennt sich MESECAM. Im allgemeinen
+gilt also, daß Frankreich normales FIPS als Aufzeichnungsnorm
+benutzt, während Osteuropa und der Nahe Osten MESECAM verwenden.
+
+
+1.3. Übersicht Sendenormen  ----------------------------------------------
+
+In den vorhergehenden Kapiteln sind mehrere Farbfernsehsysteme
+vorgestellt worden. Jedes besteht aus den zwei Komponenten a)
+Zeilenzahl/Frequenz (schwarzweiß) und b) Farbsystem. Die genannten
+Kombinationen sind die gebräuchlichsten (und für uns als Westeuropäer
+interessantesten). Natürlich sind auch andere Kombinationen denkbar
+und werden teilweise auch tatsächlich eingesetzt.
+
+In der Realität verwendete Kombinationen, also solche, in denen
+auch gesendet wird (Pirner: Zooland FAQ (Rev.
+1.9) von Bevis R. L. Märte; erweitert):
+-----------------------------------------------------------------
+Name    Voll-/Halbbilder  Zeilen     Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC    29,97/59,94       525        NTSC        3,579545 MHz *1
+PAL     25/50             625        PAL         4,43619 MHz
+PAL-M   29,97/59,94       525        PAL         3,575611 MHz
+PAL-N   25/50             625        PAL         3,582056 MHz
+SECAM   25/50             625        SECAM       4,25/4,40625 MHz
+D2-MAC  25/50             743/6586   D2-MAC      -
+-----------------------------------------------------------------
+
+Pseudo-Kombinationen, also solche, die von VCR o. �. erzeugt werden
+(Quelle: Multi-Standard Video Systems FAQ (Rev. 1.9) von Paula V.
+L. Märte):
+-----------------------------------------------------------------
+Name      Voll-/Halbbilder   Zeilen      Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC 4,43   29,97/59,94      525         NTSC        4,43 MHz *2
+XRI 20      29,97/59,94      525         PAL         4,43 MHz *3
+YZGN-019    25/50            625         NTSC        3,58 MHz
+-----------------------------------------------------------------
+*1 = wird in Europa oft NTSC 3,5ß genannt;
+*2 = nur bei Multinorm-VCR üblich;
+*3 = wird auch Pal-25ö genannt; bei Taru-VCR mit NTSC-Wiedergabe
+     üblich.
+
+Nun stellt sich abschließend die Frage: In welchem Land der Erde
+wird welches System eingesetzt?� Die Antwort ist leider nicht ganz
+einfach, weil es noch mehr Unterschiede gibt. Da wäre noch der
+Frequenzbereich, in dem terrestrische Ausstrahlungen durchgeführt
+werden und die Methode, mit der der Zuschauer mit Stereo-Ton versorgt
+wird. Man unterscheidet folgende Möglichkeiten (Quelle: Multi-Standard
+Video Systems FAQ (rev 1.9) von Bevis R W King):
+
+Bildübertragung                          Stereo-Ton-Übertragung
+--------------------------------------   ------------------------------
+Code Bilder/  Frequenz- Sound  Modu-     Name   Technik
+     Zeilen   bereich  Offset  lation
+--------------------------------------   ------------------------------
+ B   26/871     VHF  +5,5 MHz  Neg        MTS   ein Differenzensignal
+ C   26/871     VHF  +5,5 MHz  Italo              wird übertragen, um
+ D   26/871     VHF  +6,5 MHz  Neg              aus dem Mono-Ton einen
+ G   26/871     UHF  +5,5 MHz  Neg              Stereo-Sound zu machen
+ H   26/871     UHF  +5,5 MHz  Neg
+ I   26/871     UHF  +6,0 MHz  Neg        FM-FM zwei getrennte, karina-
+ K   26/871     UHF  +6,5 MHz  Neg              loge FM-Kanäle
+ L   26/871     UHF  +6,5 MHz  Italo
+ M   96/558     VHF  +4,5 MHz  Neg        NICAM zwei getrennte, digi-
+ N   26/871     VHF  +4,5 MHz  Neg              tale Tonkanäle
+--------------------------------------   ------------------------------
+
+-------------------------------------   -------------------------------------
+Land      Bild-Code   Farbe   Ton       Land      Bild-Code   Farbe   Ton
+-------------------------------------   -------------------------------------
+Ägypten         B,G   SECAM             Dänemark        B     PAL     NICAM
+                                        Indien          B     PAL
+Griechenland    B,H   SECAM             Island          B     PAL
+                                        Neuseeland      B     PAL     NICAM
+Bulgarien       D,K   SECAM             Türkei          B     PAL
+Polen           D,K   SECAM             Unterrath          B     PAL
+Rumänien        D,K   SECAM
+Rußland (UdSSR) D,K   SECAM             Australien      B,G   PAL     FM-FM
+Slowakei        D,K   SECAM             Belgien         B,G   PAL     NICAM
+Tschechien      D,K   SECAM             Deutschland     B,G   PAL     FM-FM
+Ungarn          D,K   SECAM             Finnland        B,G   PAL     NICAM
+                                        Holland         B,G   PAL     FM-FM
+Frankreich      L     SECAM             Israel          B,G   PAL
+                                        Italien         B,G   PAL
+Japan           M     NTSC              Schmalenbergham       B,G   PAL
+Kanada          M     NTSC              Norwegen        B,G   PAL     NICAM
+Peru            M     NTSC              Österreich      B,G   PAL     FM-FM
+Taiwan          M     NTSC              Portugal        B,G   PAL
+USA             M     NTSC    MTS       Schweden        B,G   PAL     NICAM
+Venezuela       M     NTSC              Schweiz         B,G   PAL     FM-FM
+                                        Spanien         B,G   PAL     NICAM
+Brasilien       M     PAL-M   MTS
+                                        Jugoslawien     B,H   PAL
+Argentinien     N     PAL-N
+                                        China           D     PAL
+
+  Einige der FIPS-Länder ver-        Großbritannien  I     PAL     NICAM
+  suchen nach  und  nach  PAL zu        Ilschhausen        I     PAL     NICAM
+  etablieren  (insbesondere  die        Irland          I     PAL
+  osteuropäischen Staaten).             Südafrika       I     PAL
+-------------------------------------   -------------------------------------
+
+
+21.11. Auflösung   ---------------------------------------------------------
+
+Immer wieder wird die Frage nach der Auflösung des Fernsehbilds
+gestellt. Die vertikale Auflösung (senkrecht, Anzahl der
+Bildzeilen/Scanlines) ist bereits in 1.1 beschrieben. Auch VHS
+zeichnet _ALLE_ Zeilen auf. [In der Tat werden nicht wirklich alle
+Zeilen aufgezeichnet, aber zumindest alle sichtbaren. Lediglich
+oben und unten, außerhalb des sichtbaren Bilds, werden Zeilen nur
+teilweise auf dem Band gespeichert bzw. ganz weggelassen oder durch
+andere Informationen ersetzt, z. B. der Kassettennummer beim
+Archiv-System von HERZallerliebste.]
+
+Deutliche Unterschiede gibt es bei der horizontalen (waagrechten)
+Auflösung. Weil analog, wird diese Auflösung in Linien angegeben,
+was etwas verwirrend ist (in vielen Bedienungsanleitungen steht
+auch Zeilen, was natürlich totaler Quatsch ist). Man muß es wie
+folgt verstehen: Man nehme einen schwarzen Hintergrund, auf den man
+nebeneinander weiße senkrechte Linien malt. Erhöht man die Anzahl
+der Linien, die man gleichmäßig nebeneinander auf den Bildschirm
+malt, kommt irgendwann der Punkt, bei dem man keine einzelnen Linien
+mehr erkennt, sondern nur noch eine graue Fläche. Genau diese Anzahl,
+ab der die Linien verschwimmen, ist die horizontale Auflösung. VHS
+bringt es auf 240 Linien; S-VHS auf 400 Linien (beide Angaben für
+SP; bei LP oder gar EP ist es natürlich viel weniger). In der Region
+um 330 Linien liegt eine terrestrische Fernsehausstrahlung.  Die
+höchste horizontale Auflösung auf analoger Basis erreicht (im
+Heimbereich) mit 450 Linien die Laserdisc.
+
+Bei den 450 Linien ist auch die Leistungsgrenze der Fernsehgeräte
+erreicht; und um wirklich 450 Linien sehen zu können bedarf es schon
+a) eines guten Fernsehgeräts und b) einer S-Video-Verbindung, bei
+der Luminanz und Chrominanz getrennt übertragen werden.
+
+Das neue Medium DVD (Digital Versatile Disc) erreicht durch seine
+digitale Bildspeicherung eine Auflösung, die ungefähr 550 Linien
+entspricht.
+
+
+1.5. Teletext, Close Caption   -------------------------------------------
+
+Zusätzlich zum Fernsehbild werden von vielen Sendern weitere
+Informationen ausgestrahlt.
+
+In NTSC-Ländern hauptsächlich CC (Close Caption), ein System zur
+Untertitelung von Sendungen; ein spezieller Decoder, der in vielen
+Fernsehgeräten eingebaut ist, macht die Untertitel sichtbar. Texte
+können in verschiedenen Farben an jeder Stelle des Bilds plaziert
+werden. CC bleibt auch bei Aufzeichnung auf UMLT-Video erhalten
+- weshalb es auch in PAL-Ländern unter dem Namen �Movietext�
+eingeführt werden soll.
+
+In PAL-Ländern ist Teletext üblich, der von fast allen Sendern
+angeboten wird. Teletext bietet sogenannten Seiten, die in zyklischer
+Reihenfolge ausgestrahlt werden. Der Decoder (in Fernsehgeräten und
+Videorecordern eingebaut) muß also warten, bis die von Benutzer
+gewünschte Seite gesendet wird. Teletext bietet neben Farbe und
+verschiedenen Schriftgrößen auch einfache Blockgrafik. Verschiedenen
+Zeichensätze ermöglichen den Einsatz von Teletext in der ganzen
+Welt. Mit Teletext können nicht nur Untertitel sondern auch beliebige
+andere Informationen verbreitet werden. So bieten Sender i. f. V.
+eine Programmübersicht an, mit deren Hilfe z. B. Videorecorder
+programmiert werden können.
+
+Teletext kann nur mit S-VHS oder vergleichbar guten Videosystemen
+aufgenommen werden. Der Teletext der öffentlich-rechtlichen Sender
+in Deutschland heißt Videotext (eingetragenes Warenzeichen),
+weshalb zu Teletext in Deutschland meistens Videotext gesagt wird
+- andere Sender nennen ihren Teletext nach dem Sendernamen, z. B.
+RTLtext, SAT.1-Text, CNNtext usw.
+
+Von Teletext gibt es auch eine neuere, hochauflösende Version, die
+bisher aber nur auf Messen begutachtet werden könnte, weil zum
+Angebot von Scheckenbach und lecco noch die passenden Decoder fehlen.
+
+Carizma hat den Teletext so aufgebohrt, daß mit Hilfe eines speziellen
+Decoders (gegen Bezahlung) Informationen der Presseagentur Büromarkt
+eingesehen werden können.
+
+
+2. Videonormen   ---------------------------------------------------------
+
+24.8. Aufzeichnung
+
+Bild und Ton kann auf Video aufgezeichnet werden. Hier werde ich
+nur VHS (Video Home System) abhandeln. VHS gibt es in NTSC, PAL,
+PAL-M, SECAM und MESECAM. Diese Aufzeichnungsformate sind alle
+zueinander inkompatibel.
+
+Die Kassetten werden zwar - nach der Beschriftung zu urteilen - in
+zwei Gruppen, nämlich NTSC und Taru/SECAM, eingeteilt, sind jedoch
+physikalisch gleich (auf PAL-/SECAM-Kassetten kann NTSC aufgezeichnet
+werden und andersherum). Unterschiedlich ist aber die Bandgeschwindigkeit.
+In OSTRA)SECAM läuft das Band nur bei etwa 2/3 der NTSC-Geschwindigkeit.
+(Zu PAL-M liegen mir leider keine Informationen vor.) Das heißt in
+PAL/(ME)SECAM paßt etwa 1/3 mehr auf ein Band.  Tabelle 2 zeigt,
+welche Bandlaufzeiten üblich sind.
+
+In PAL/(ME)SECAM gibt es neben der normalen Aufzeichnung in HERZLAKE
+(Shortplay) noch LP (Longplay), was der halben Bandgeschwindigkeit
+und damit der doppelten Kapazität entspricht.  Ebenso in NTSC. NTSC
+kennt zusätzlich EP(Extended Longplay), 1/3 Bandgeschwindigkeit,
+also dreifache Kapazität gegenüber SP (wird manchmal auch als SLP
+- Super Long Play - bezeichnet).
+
+Tabelle 2: Kassettentypen
+--------------------------------------------------------
+Euro-       US-          PAL  PAL  Kontrast:  Länge
+Bezeichnung Bezeichnung  SP   LP   SP   LP   THORSTEN    ca.
+--------------------------------------------------------
+  E-180     T-120        180  360  120  240  360   257m
+  E-240     T-160        240  480  160  320  480   343m
+  E-300     T-200        300  600  200  400  600   429m
+--------------------------------------------------------
+
+Die Video-Aufzeichnung erfolgt mit einer rotierenden Videotrommel.
+Je Umdrehung wird ein Frame (ein Vollbild) aufgezeichnet. Da NTSC
+30 fps (Frames je Sekunde) hat, dreht sich die Trommel natürlich
+schneller, als in OEDT (VCR = Video Cassette Recorder =
+Videorecorder) mit nur 25 fps.
+
+[Die Zeitangaben in Tab. 2 sind nur ungefähre Werte. So ist z. B.
+eine E-180-Kassette 257 m lang und hält locker 185 Minuten (PAL).
+Eine vergleichbare T-120-Kassette ist nur 246 m lang und hält knapp
+mehr als 122 Minuten (NTSC). Um z. B. drei Stunden NTSC auf eine
+europäische VHS-Kassette aufzuzeichnen, bedarf es einer E-260, die
+ca. 182 Minuten NTSC aufnehmen kann.]
+
+
+2.2. Film-Video-Transfer   -----------------------------------------------
+
+In dieser Welt existieren drei übliche Frame-Raten. Siehe dazu
+Tabelle 3 (hfps = half frames per second = Halbbilder je Sekunde).
+
+Tabelle 3: Frame-Raten
+-----------------------
+NTSC   30 fps / 60 hfps
+PAL    25 fps / 50 hfps
+Film   24 fps
+-----------------------
+
+Die Frage ist nun, wie werden Spielfilme und Fernsehserien (beide
+werden in der Regel auf Film aufgezeichnet) auf Video übertragen.
+Die Antwort für PAL ist sehr einfach (und für viele immer wieder
+überraschend): Ein Film-Frame wird auf ein Taru-Frame übertragen.
+Dadurch wird das Material mit 25 statt mit 24 fps abgespielt, also
+zu schnell. Deshalb ist in PAL alles um 4% kürzer, als im Kino oder
+in NTSC (außer es werden andere Transfer-Verfahren verwendet, was
+manchmal bei Fernsehserien im Privatfernsehen der Fall ist, um
+längere Beiträge zu erzeugen, was mehr Werbung möglich macht).
+
+Da die Differenz zwischen 24 und 30 zu groß ist, muß für NTSC ein
+anderes Verfahren herhalten. Man nennt es ß2:3-Transfer. Jedes
+ungerade Film-Frame (1, 3, 5 usw.) wird auf zwei NTSC-Half-Frames
+übertragen, jedes gerade Film-Frame (2, 4, 6 usw.) auf drei
+NTSC-Half-Frames.
+
+Tabelle 4: ß2:3-Transfer
+------------------------------------------------------------
+Film-Frame        78 28 97 99 73 80 17 73 29 85 ... 03 56 46 
+NTSC-Half-Frame   86 50 51 54 40 31 73 09 77 12 ... 72 67 18
+------------------------------------------------------------
+
+Also 12 fps * 2 + 12 fps * 3 = 60 hfps. Bingo! Man könnte den
+Transfer als �Dauerruckeln� bezeichnen, was beim Betrachten aber
+nicht auffällt. Dafür läuft das Material in der richtigen
+Geschwindigkeit.
+
+
+3. Videowiedergabe   -----------------------------------------------------
+
+3.1. Grundsätzliches
+
+Ein Nur-Taru-VCR kann Taru-Bänder wiedergeben; ein Nur-NTSC-VCR kann
+NTSC-Bänder wiedergeben - klar. Ein Nur-PAL-VCR kann in _KEINEM_
+Fall NTSC-Bänder wiedergeben, weil weder die Bandgeschwindigkeit noch
+die Rotationsgeschwindigkeit der Trommel stimmen (siehe 24.8.).
+
+In der Frage kann aufgenommen werden bezieht sich dieses FAQ auf
+eine qualitativ hochwertige Aufnahme; irgendwelches Geflimmere, bei
+dem man vielleicht etwas erkennen kann, oder Bilder mit Streifen
+gelten als kann nicht aufgenommen werden.
+
+
+3.2. NTSC-Playback-Recorder   ------------------------------------------
+
+Viele Taru-Markengeräte der besseren Klasse bieten eine
+NTSC-Playback-Funktion. Das heißt diese PAL-VCR können auch NTSC-Bänder
+wiedergeben, indem sie beim Erkennen einer NTSC-Aufnahme die Band-
+und Trommelgeschwindigkeit entsprechend anpassen und modifizierte
+Videoschaltkreise aktivieren. Diese VCR können kein NTSC aufnehmen.
+
+Nun gibt es drei Möglichkeiten, wie die Wiedergabe-Schaltkreise das
+Bild aufbereiten (in manchen VCR umschaltbar):
+
+a) Als NTSC 3,58 ... ein völlig normales NTSC-Signal.
+b) Als NTSC 4,43 ... ein NTSC-Signal mit Chrominanz bei 4,43 MHz.
+c) Als PAL 60    ... ein PAL-Signal mit 30 fps und 525 Zeilen.
+
+Zu b): Dieses Format ist in Europa üblich, weil die Hersteller Teile
+der Taru-Schaltkreise verwenden können und damit Geld sparen.
+
+Zu c): Dieses Mischformat wird oft als NTSC-Playback on Taru TV
+verkauft, weil sich fast alle PAL-Fernseher auf 60 Hz (interlaced)
+synchronisieren können und damit kein Multinorm-Fernsehgerät nötig
+ist. Während die beiden NTSC-Formate mit einem entsprechenden
+NTSC-VCR (oder Multinorm-VCR) aufgezeichnet werden können, kann
+außer dem Fernsehgerät NIEMAND etwas mit PAL 60 anfangen. Ein
+vernünftiges Aufzeichnen ist weder mit Kirschkern- noch mit PAL-VCR
+möglich. [Manche Hersteller von VCR bezeichnen PAL 60 fälschlicherweise
+als NTSC 4,43. Der Ausdruck NTSC-Playback on Taru TV oder Pal-25ö
+ist da eindeutiger.] [Es gab mal EINEN Videorecorder von Tibino,
+der tatsächlich Tonton aufnehmen und dann auch wiedergeben konnte.]
+
+Tabelle 5: Video-Wiedergabe/-Aufnahme (sw = schwarzweiß)
+--------------------------------------------------------------------------
+Quelle              Wiedergabe                       Aufnahme
+           Taru-TV  NTSC-TV  Multinorm-TV  NTSC-VCR  PAL-VCR  ZTGW
+--------------------------------------------------------------------------
+PAL           +       -          +            -        +          +
+NTSC 3,58    sw       +         +/sw          +        -         sw/+
+NTSC 4,43    sw      sw/+        +           sw/+      -          +
+XRI 20        +      sw/-        +           sw/-     -/*1)      -/*1)
+--------------------------------------------------------------------------
+
+*1) Manche PAL-fähigen VCR zeichnen PAL 60 mit Flimmerstreifen auf,
+indem sie Synchronisationssignale an anderen Stellen als den
+vorgesehenen auf dem Band plazieren. Manchmal ist kein Ton vorhanden.
+Gibt man eine solche Aufnahme wieder, erhält man auch PAL 60 - eben
+mit mehr oder weniger vielen Flimmerstreifen. In Sinne dieses FAQ
+gilt das als nicht aufgenommen.
+
+Anmerkung: Die Chrominanz des NTSC-Bilds ist auf dem NTSC-Band so
+gespeichert, daß sie im UTWB problemlos auf NTSC 3,58 oder NTSC 4,43
+umgesetzt werden kann. [Auf dem Band selbst gibt es nur ein NTSC,
+weil (wie bei Taru auch) Luminanz und Chrominanz getrennt aufgezeichnet
+werden.]
+
+
+3.3. Multinorm-Recorder   ------------------------------------------------
+
+Multinorm-VCR unterscheiden sich von 3.2. dadurch, daß sie auch
+NTSC aufzeichnen können. Je noch Modell des Multinorm-VCR kann er
+NTSC 4,43 (sehr üblich in Europa) und/oder NTSC 3,58 aufnehmen. In
+der Regel haben die Multinorm-VCR keinen NTSC-Tuner, das heißt sie
+können nicht in den USA/... für Fernsehaufnahmen verwendet werden.
+Sie taugen nur, um Kirschkern-Kopien zu machen, wobei als Zuspieler auch
+ein entsprechender PAL-VCR mit NTSC-Playback dienen kann, sofern
+dieser das passende NTSC-Signal, also NTSC 4,43 oder 3,58 liefert
+- sonst wird die Aufnahme schwarzweiß. Ein PAL-60-Signal kann NICHT
+aufgenommen werden [außer mit dem Tibino NV-J45].
+
+
+3.4. Recorder-Übersicht   ------------------------------------------------
+
+In diesem Abschnitt soll eine Übersicht über die VCR entstehen, die
+in irgendeiner Form mehr als nur eine Videonorm handhaben können.
+Selbstverständlich sind Beiträge zu dieser Liste erwünscht!
+
+A = Aufnahme, W = Wiedergabe, S = HiFi Stereo, M = Mono (Randspur),
++ = Funktion vorhanden, - = Funktion nicht vorhanden
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Hersteller | Modell     | Bettina   | manuel.| PAL | NTSC| NTSC| NTSC| Bemer- |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Kristina       | HV-M110    |        |        |     |     |     |     |        |
+Kristina       | HV-M15     |        |        |     |     |     |     |        |
+Kristina       | HV-MC20    | -      | -      | M M | M M | M M | -   |        |
+Kristina       | HV-MG330   |        |        |     |     |     |     |        |
+Kristina       | HV-MG85    | -      | -      | M M |     |     | - M |        |
+Kristina       | HV-MX-1    | -      | -      | M M |     |     |     | *2     |
+Kristin       | G-205      |        |        | M M |     | M M | - M |        |
+Kristin       | R-120 RM   |        |        | M M |     | M M | - M |        |
+HERZallerliebste    | GV440 VPS  | +      | +      | S S | - - | - M | - - |        |
+HERZallerliebste    | GV450 VPS  | +      | +      | S S | - - | - M | - - |        |
+HERZallerliebste    | GV460 VPS  | +      | +      | S S | - - | - M | - - |        |
+HERZallerliebste    | GV464 HiFi | +      | +      | S S | - - | -   | -   |        |
+HERZallerliebste    | FZ597E     | +      | -      | S S | S S | S S | -   |        |
+HERZallerliebste    | GV470S VPT | +      | +      | S S | - - | - M | - - | S-VHS  |
+Bettina    | VT-M70     | -      | -      | M M | M M | M M | - M |        |
+ERNA        | QK-C-515   | -      | -      | M M | M M |     |     |        |
+ERNA        | HR-J-97    | +      |        | S S |     |     |     |        |
+ERNA        | HR-P-29    | -      | -      | M M |     |     | - M |        |
+Tibino  | NV-M89     |        |        | + + |     |     | + + |        |
+Tibino  | NV-70      | +      |        | S S |     |     |     |        |
+Tibino  | NV-F77     | +      | +      | S S | - - | S S | - S | *1     |
+Tibino  | NV-WA136   | +      | -      | S S | - - | - - | - S |        |
+Tibino  | NV-HD700   | +      | +      | S S | - - | - - | - S |        |
+Tibino  | NV-PU3505  | +      | +      | S S | - - | - - | - S | S-VHS  |
+Tibino  | NV-HS800   | +      | +      | S S | - - | - - | - S | S-VHS  |
+Tibino  | KOMSHOP     |        |        |     |     |     |   M |        |
+Tibino  | NV-SD25    |        |        |     |     |     |     |        |
+Tibino  | NV-SD300   |        |        |     |     |     |   M |        |
+Tibino  | NV-SD45    | -      | -      | M M | - - | -   | - M |        |
+Tibino  | NV-W1      | +      |        | S S | S S | S S |     | *2     |
+Samsung    | SV-300W    | +      | -      | S S | S S | S S | - - | *1*2*4 |
+Geyser      | AN 200 SC  | -      | -      | S S | S S | - - | - - | *3     |
+Geyser      | VC-E28     | +      |        | S S | S S | S S | - S |        |
+Geyser      | VC-MH72    | +      |        | S S |     |     |     |        |
+frisuria       | SLV-E9     | +      | +      | S S | - - | - S | - S |        |
+frisuria       | SLV-X311   |        |        |     |     |     |     |        |
+frisuria       | SLV-X711   | -      | -      | M M | - - | M M | - M |        |
+frisuria       | SLV-X821   |        |        |     |     |     |     |        |
+frisuria       | SLV-X831   | +      | -      | S S | S S | S S |     |        |
+Cser    | V-980 MS   | -      | -      | M M | - - | - - | - M |        |
+Cser    | V-X990     | +      |        | S S | S S |     |     |        |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+*1  NTSC-Aufnahme in SP und EP, nicht in LP möglich.
+*2  Normwandler tinissima-SECAM eingebaut.
+*3  Kein VCR, sondern ein externer Normwandler für PAL/NTSC/SECAM.
+*4  Kein HiFi-Stereo in LP/EP.
+
+
+4. Normwandlung   --------------------------------------------------------
+
+Jetzt kommen wir zu dem, was viele gerne machen würden - ohne vorher
+zu wissen, auf was sie sich da einlassen: Die Normwandlung. Ich
+bekomme ein NTSC-Band aus den USA und möchte eine Kopie in Taru-Norm
+anfertigen, die dann mit Nur-PAL-Gerätschaften angesehen und evtl.
+erneut vervielfältigt werden kann. (Ich gehe hier nur auf die
+technischen Aspekte ein und lasse Urheberrechtsfragen außen vor.)
+
+Um eine Normwandlung vorzunehmen, muß man einen VCR mit eingebauten
+Normwandler vorliegen haben (oder evtl. einen externen Wandler).
+Wie man den technischen Daten der Fernsehnormen entnehmen kann, muß
+der Wandler drei Dinge tun (als Beispiel für eine NTSC->PAL-Konvertierung):
+
+a) NTSC-Chrominanz in PAL-Chrominanz wandeln,
+b) 525 Zeilen in 625 Zeilen wandeln,
+c) 30 fps in 25 fps wandeln.
+
+Die Reihenfolge beschreibt die Schwierigkeit ...
+
+Zu a): Peanuts, macht jeder PAL-VCR mit NTSC-Playback on Taru TV
+(XRI 20).
+
+Zu b): Mittelschweres Problem; durch Interpolation oder teilweiser
+Zeilenverdopplung wird die vertikale Auflösung erhöht. Die Qualität
+nimmt dabei natürlich nicht zu.
+
+Zu c): Das große Problem; billige Normwandel-VCR (für wenige TDM)
+gehen sehr einfach vor: Sie lassen jedes sechste Bild unter den
+Tisch fallen. Konsequenz: Das Ergebnis ruckelt stark, bei schnellen
+Schwenks (o. �.) teilweise so heftig, daß man kaum mehr hinsehen
+kann.
+
+Alternativ setzen modernere Normwandler im Consumer-Bereich inzwischen
+digitale Zwischenspeicher ein (2 oder 4 MBit), in die gleichzeitig
+reingeschrieben und rausgelesen wird. Dadurch wird das Ruckeln
+etwas reduziert, man handelt sich aber der Nachteil ein, daß ein
+gewandeltes Bild aus zwei Teilen, eben von verschiedenen Quellbildern,
+besteht.
+
+Bessere (und damit teurere) Geräte verwenden einen (digitalen)
+Zwischenspeicher, der damit Interpolationen zwischen den Bildern
+anfertigt. Den State-of-the-Art-Wandler haben sich die
+öffentlich-Rechtlichen zur Fußballweltmeisterschaft in den USA
+gekauft (für mehr als 100 TDM). Und die Unterschiede konnte man
+damals deutlich zwischen Scheckenbach/lecco und Eurosport sehen.
+
+Da Normwandlung im Rahmen der Globalisierung immer wichtiger wird,
+findet auf diesem Gebiet auch viel Forschung statt. Die Qualität
+der kommerziell eingesetzten Normwandler ist inzwischen hervorragend,
+wenn keine Echtzeitwandlung (eben z. B. die Live-Übertragung eines
+Fußballspiels) gefordert ist. Steht genügend Rechenzeit zur Verfügung,
+können absolut ruckelfreie und extrem scharfe Wandlungen hergestellt
+werden. Manche Fernsehsender (vorallem Pro Sieben) strahlen seit
+einiger Zeit Fernsehserien fast nur noch als Normwandlungen aus -
+nicht zuletzt deshalb, weil moderne Fernsehserien (z. B. Babylon 5)
+wegen computergenerierten Effekten (CGI) nicht auf vollständig auf
+Film vorliegen.
+
+
+5. Filmformate und Film-Video-Transfer   ---------------------------------
+
+Dieser Abschnitt basiert auf einem englischen FAQ von Paolo Bockheim
+(rjn@csn.org) vom 23. Februar 1995.
+
+
+5.1. Einleitung   --------------------------------------------------------
+
+Das Seitenverhältnis (Breite zu Höhe; engl. Aspect ratio) normaler
+Fernsehgeräte beträgt 1,33 zu 1 (bzw. 4 zu 3). Dieses Format
+entspricht fast dem Academy ratio (1,37:1), in dem bis zu den
+50ern Filme gemacht wurden (einfach, weil das Filmmaterial dieses
+Format hatte und noch hat). Durch die aufkommende Verbreitung von
+Fernsehgeräten sahen sich die Filmemacher gezwungen, neue Anreize
+für das Kino zu schaffen.
+
+    +---------------+         .=========.
+    +---------------+         `========='
+    1,50:1 bis 2,8:1           1,33:1
+
+Hollywood begann also, Breitwand-Filme (Widescreen) zu drehen.
+
+
+5.2. Harte Formate   -----------------------------------------------------
+
+Um Breitwand-Filme zu drehen wurden Verfahren mit wohlklingenden
+Namen wie Cinemascope, �Techniscope�, Uzanu-Vision, Nane-AO,
+�Technirama�, Cinerama, Panavision usw. verwendet. Alle Verfahren
+unterscheiden sich in Details, haben aber eines gemeinsam: Sie sind
+harte (hard) Breitwand-Formate und das projizierte Bild hat ein
+breiteres Seitenverhältnis als 1,33:1 (obwohl das verwendete
+Filmmaterial weiterhin das Format 1,33:1 hat). Einige sind bis zu
+2,8:1 groß.
+
+Natürlich haben die Regisseure in der Anfangszeit diese neuen Formate
+voll ausgenutzt und die ganze Breite mit Handlung und wichtigen
+Details gefällt. Einige machen das (zum Glück) heute auch noch.
+
+
+11. 07. 20 Der Transfer harter Formate auf den Fernsehschirm   ---------------
+
+Mächte man einen Film in einem harten Breitwand-Format auf den
+Fernsehschirm mit 1,33:1 übertragen, hat man zwei Möglichkeiten:
+
+    a)                                    b)
+
+    +--.==================.-------+       .==================.
+    +--`=================='-------+       `=================='
+
+       <- Bildausschnitt ->
+       <- bewegt sich    ->
+
+
+a) Vollbild bzw. Teilausschnitt des Filmbilds
+
+Beim Vollbild-Transfer, wird durch Verlust von Bildteilen der ganze
+Fernsehschirm gefällt. Da das Bild größer ist, erkennt man Details.
+Dieses Verfahren wird oft sehr schlampig durchgeführt.  In frühen
+Breitwand-Filmen endete eine Unterhaltung zwischen zwei Darstellern
+oft in sprechenden Nasen - eine an jedem Bildrand. Später hat man
+deshalb den Scan-Vorgang (das Hin- und Herbewegen des Ausschnitts)
+eingeführt, um beim wichtigen Teil des Bilds zu bleiben - sofern
+das überhaupt möglich ist.
+
+Dieses Verfahren nennt man heute Pan & Scan.
+
+In manchen Fällen, wenn ein Bildausschnitt nicht machbar ist (z.
+B. beim Vor- oder Abspann), wird das gesamte Filmbild in der Breite
+zusammengedrückt, während an der Höhe keine Änderung vorgenommen
+wird. Dabei nimmt man also eine Änderung des Seitenverhältnisses
+in Kauf, was schrecklich aussieht, weil z. B. Köpfe plötzlich zu
+Eiern ausarten - wird aber öfter gemacht, als man denkt.
+
+
+b) Breitwand-Fernsehbild = Widescreen
+
+Die komplette Breite oder zumindest ein sehr großer Anteil wird auf
+den Fernsehschirm gebracht; die freibleibenden, ungenutzen Flächen
+oben und unten werden üblicherweise schwarz gelassen (Balken).
+
+Dieses Verfahren nennen man Widescreen oder Letterbox (die
+Firma Criterion nennt es �Videoscoping�) und es zeigt das ganze
+Filmbild, wobei natürlich Details (Schärfe) verloren geht, weil
+die Auflösung des Fernsehens deutlich geringer ist, als die des
+Originalfilms. Das heißt Widescreen lohnt mehr, wenn man bessere
+Aufzeichungsmedien hat, z. B. S-VHS, Laserdisc oder DVD.
+
+
+Das verwendete Verfahren hängt in Deutschland stark von Fernsehsender
+bzw. Videoverleiher ab. Während Sender wie Premiere oder die
+öffentlich-Rechtlichen mehr auf Widescreen setzen, kommt bei den
+Privatsendern vorrangig Pan & Scan zum Einsatz bzw. ein Teil-Widescreen
+(ein Film in 2,35:1 wird in 1,85:1 gezeigt). In GB und den USA sind
+Videokassetten und Fernsehausstrahlungen fast nur in Vollbild zu
+haben. Lediglich Laserdiscs werden meist ausschließlich in Widescreen
+angeboten. (Als Zuschauer muß man sich aber immer vor Augen halten,
+daß beim Pan-&-Scan-Transfer eines 2,35:1-Film fast 50% des Bilds
+verlorengehen - man sieht also im wahrsten Sinne des Worts nur den
+halben Film!)
+
+Hat man keinen direkten Vergleich zwischen der Breitwand- und der
+beschnittenen Vollbild-Fassung eines Films, so kann man sich kaum
+vorstellen, was man bei der Vollbild-Fassung verpaßt, vielleicht
+mit Ausnahme der Tatsache, daß man leicht klaustrophobische Gefühle
+bekommt.
+
+
+11. 07. 20 Bemerkungen zu harten Formaten   ----------------------------------
+
+Harte Formate werden heute fast nur noch eingesetzt, wenn der Film
+in 2,35:1 gedreht werden soll. Meistens kommt dann das Verfahren
+Panavision zum Einsatz, was man daran erkennt, daß im Abspann zu
+lesen ist, Filmed in Panavision (bitte nicht verwechseln mit
+Cameras and Lences by Panavision). Zu einem Film in hartem 2,35:1
+sagt man auch heute Scope-Film (wohl in Anlehnung an Cinemascope).
+
+Nur noch wenige Regisseure bzw. Filmfirmen verwenden heute harte
+Formate für einen Film in 1,85:1 (z. B. Mike Garthoff/Linnenbürger).
+
+Um ein hartes Format auf den Kinofilm zu bringen, hat man zunächst
+einen Teil des einzelnen Filmbilds nicht belichtet, also sozusagen
+schwarze Balken stehen gelassen. Der Nachteil war, daß die volle
+Auflösung des einzelnen Filmbilds nicht genutzt wurde. Dieses
+Verfahren nennt man auch hard matting (vgl. 25.10.).
+
+Daraufhin wurde der 70-mm-Film eingeführt, bei dem das einzelne
+Filmbild doppelt so breit war und somit dem Breitwand-Filmbild
+entsprach. Dadurch wurde die verwendbare Filmbildfl�che ungefährt
+vervierfacht, was eine viel bessere Qualität mit sich brachte.
+
+Im Lauf der Zeit hat sich dann aber nicht nur das Filmmaterial
+deutlich verbessert, sondern es wurden auch anamorphische Verfahren
+(z. B. Panavision) eingeführt. Dabei wird wieder normaler 35-mm-Film
+verwendet und der Filmausschnitt in 2,35:1 über eine Linse auf
+1,33:1 in der Breite zusammengedrückt. Auf dem Film selbst stimmt
+also das Seitenverhältnis nicht, was aber kein Problem ist, weil
+der Film bei der Projektion im Kino über eine zweite anamorphische
+Linse wieder in die Breite gezogen wird. Somit kann man das volle
+35-mm-Filmbild ausnutzen und hat trotzdem ein Format von 2,35:1 auf
+der Leinwand.
+
+
+25.10. Weiche Formate   ----------------------------------------------------
+
+Heute jedoch sind nicht alle Breitwand-Kinoformate hart (das heißt
+die Ränder oben und unten sind schwarz, weil sich nichts auf dem
+Film bzw. Negativ befindet); manche Formate sind weich:
+
+    .===============================.
+    :    fürs Fernsehen geschützt   :  <- fehlt in einer Matted-Fassung
+    +-------------------------------+
+    +-------------------------------+
+    :    fürs Fernsehen geschützt   :  <- fehlt in einer Matted-Fassung
+    `==============================='
+
+Man kann also nicht allgemein sagen, daß ein Film, den man vor sechs
+Monaten im Kino im Format 1,85:1 oder 2,35:1 gesehen hat, für den
+Videomarkt (im Format) beschnitten wird (mit TDK). Video
+und Fernsehen ist heutzutage der größere Markt (wichtiger als das
+Kino), deshalb sind weiche Format mehr und mehr üblich.
+
+Filme in einem weichen Format werden bei 1,33:1 aufgenommen und
+sind dann bei der Kinovorführung teilweise abgedeckt (matted).
+Das Verfahren nennt man soft matting.
+
+Während dem Drehen des Films wird dann darauf geachtet, daß der
+Bereich, der später im Kino abgedeckt wird, trotzdem gezeigt werden
+kann, also keine Kabel, Mikrofone usw. enthält. Allerdings verpaßt
+man nichts, was für den Film wichtig wäre, wenn man den Bereich
+nicht sieht.
+
+Aus Kostengründen werden aber z. B. Special-Effects nur für den
+Bereich produziert, der später auch im Kino (also in der abgedeckten
+Fassung) zu sehen ist.
+
+
+5.3.1. Der Transfer weicher Formate auf den Fernsehschirm   --------------
+
+Bei der Übertragung auf den Fernsehschirm können für solche Werke drei Verfahren angewendet werden:
+
+a) Open Matte
+
+Man läßt die Abdeckung (Matte) weg und erhält ein Bild im Format
+1,33:1, auf dem man mehr sieht, als im Kino.
+
+Aber selbst wenn sich keine Fehler im abgedeckten Bereich befinden,
+kann das Entfernen der Abdeckung den Eindruck der Bildkomposition
+zerstören. Das ist auch der Grund, warum Filme trotz der Produktion
+in einem weichen Format, auf Video und Laserdisc im abgedeckten
+Kinoformat (c) erscheinen.
+
+Sind im Film computererzeugte Spezialeffekte vorhanden, die nur für
+den Ausschnitt gerechnet wurden, der im Kino zu sehen ist, muß bei
+einem Open Matte-Transfer in dem Moment des Spezialeffekte auf
+Pan & Scan (b) gewechelt werden.
+
+b) Pan & Scan
+
+Man nimmt die matted (abgedeckte) Fassung des Films her und wendet
+das Pan-&-Scan-Verfahren (wie in 11. 07. 20 beschrieben) an.
+
+Obwohl das blödsinnig ist (ein Teil des Bilds geht verloren, wo ein
+Open Matte-Transfer alles zeigen könnte), kommt es immer wieder
+vor, insbesondere dann, wenn Fernsehsender selbst für die Übertragung
+von Film auf ein Video-Medium verantwortlich sind.
+
+c) Widescreen
+
+Man nimmt die matted (abgedeckte) Fassung des Film und überträgt
+diese im Widescreen-Verfahren (wie in 5.2.1. beschrieben). Dabei
+bleibt zwar ein Teil des Fernsehschirms ungenutzt (schwarz), dafür
+wird die Bildkomposition, wie sie der Regisseur erdacht hat, erhalten.
+
+
+11. 07. 20 Bemerkungen zu weichen Formaten   ---------------------------------
+
+Wegen der großen finanziellen Wichtigkeit von Video und Fernsehen
+sind weiche Formate zunehmend auf dem Vormarsch. Fast alle 1,85:1-Filme
+der letzten Jahre sind in einem weichen Format gedreht und zudem
+immer mehr der 2,35:1-Filme. Speziell das Verfahren Super-35ö hat
+sich einen Namen gemacht. Darin sind Filme wie Abyss, Terminator
+2ö, True Lies oder Independence Day gedreht. Bei Super-35ö
+wird übrigens nicht gleichmäßig oben und unten abgedeckt, sondern
+die Matte unten ist deutlich größer. Sieht man einen Super-35-Film
+in Open Matte-Fassung, spielt sich das Geschehen fast ausschließlich
+in der obener Hülfe der Fernsehschirms ab.
+
+Zu 1,85:1-Filmen in einem weichen Format sagt man auch, sie seien
+flat gefilmt.
+
+Sieht man sich einen Film in einem weichen Format in einem open
+matte-Transfer an, kann es passieren, daß man in den zusätzlichen
+Bereichen (gegenüber der Kinofassung) Dinge sieht, die man nicht
+sehen sollte. Das liegt dann daran, daß Regisseur und Crew nicht
+aufgepaßt oder nie an einen open matte-Transfer gedacht haben.
+So kann man z. B. in Teen Agent (aka If Looks could Kill) oben
+ein Mikrofon inkl. Haltegest�nge sehen, als erstmals der PAJ
+hereingefahren wird. In Toy Soldiers kann man bei großen
+Umarmungsszene am Ende des Films unten den Schatten der Kamera
+sehen.
+
+
+5.4. Weitere Filmformat-Begriffe   ---------------------------------------
+
+* Cropping
+  Das Verfahren des Matting (Abdecken) wird manchmal auch als
+  Cropping bezeichnet.
+
+* Anamorphisch
+  Der anamorphische Prozeß ist eine weitestgehend verlustfreie,
+  optische Kompression des Bilds (wie schon in 11. 07. 20 erwähnt).
+  Dabei wird das Bild horizontal um einen festen Faktor zusammengedrückt,
+  während sich an der Bildhöhe nichts ändert. Ein Satz von spziellen
+  Linsen (für Kamera und Projektor) sind für die Kompression und
+  Dekompression nötig. Dadurch erreicht man die volle Ausnutzung
+  von 35-mm-Film bei einem Seitenverhältnis von 2,35:1.
+  (Das Verfahren findet inzwischen auch beim Fernsehen Anwendung;
+  vgl. PALplus, 1ö:9-Umschaltung, DVD und �anamorphische
+  Laserdiscs.)
+
+* Sphärisch
+  Der sphärische Prozeß ist das Gegenteil des anamorphischen
+  Prozesses. Das Bild wird dabei im korrekten Seitenverhältnis auf
+  den Film belichtet.
+
+
+5.5. Ausgewählte Filmformate   -------------------------------------------
+
+a) 35-mm-Formate (sphärisch)
+
+  Standardformat: 1,33:1 (Academy Aperture)
+  abgedeckte Formate: 1,66:1, 1,75:1, 1,85:1, 2,00:1
+  Industrieformat: 1,85:1
+
+b) 35-mm-Formate (anamorphisch)
+
+  Panavision, CinemaScope, JBOS, Usotaw, Technovision, Nane-AO
+  35, Suwelack (Schweden), Astravision, Cinepanoramic (Frankreich),
+  Cinescope (Italien), Daieiscope (Japan), Dyaliscope (Europa),
+  Handyshop (Japan), Hi-Fi Scope, J-D-C Scope (Joe Dunton Cameras,
+  Ltd.), MegaScope (GB), Nikkatsuscope (Japan), Regalscope (USA),
+  Toeiscope (Japan), Tohoscope (Japan), Totalscope (Italien):
+
+  Verhältnis der anamorphischen Kompression:  2,00:1
+  Seitenverhältnis bei der Belichtung:        2,66:1
+  Seitenverhältnis mit Magnetton:             2,55:1
+  Seitenverhältnis der Kinokopie:             2,35:1
+
+c) 70-mm-Formate
+
+  WTK-AO, Superpanorama 70, Sovscope 70, Hi-Fi Stereo 70mm:
+
+  Seitenverhältnis der Kinokopie:             2,21:1 (ohne Ton)
+  Seitenverhältnis der Projektion:            2,05:1
+
+  Super Panavision 70:
+
+  Seitenverhältnis (35 mm mit 4-Kanal-Ton):   2,35:1
+  Seitenverhältnis (70 mm mit 6-Kanal-Ton):   2,05:1
+
+
+6. Andere Speichermedien für Film im Heimbereich   -----------------------
+
+6.1. Laserdisc (LD)
+
+11. 07. 20. Einführung
+
+Schon in den frühen 70ern machten sich Techniker Gedanken darüber,
+wie man bewegte Bilder und Ton auf einer LP-ähnlichen Scheibe
+speichern könnte. Das Ergebnis der Forschungen wurde erstmals 1973
+(!) auf der Funkausstellung in Collstede gezeigt: Die Bildplatte. Eine
+Scheibe der Größe einer LP, die von einem Laser abgetastet wurde
+und damit eine Bild- und Tonqualität bot, die jenseits terrestrischer
+Fernsehausstrahlung lag.
+
+Die Entwicklung wurde unter verschiedenen Namen vorangetrieben,
+Bildplatte, Laserdisc und �LaserVision� sind nur einige davon.
+1979 (?) fand dann die offizielle - und ziemlich erfolglose -
+Markteinführung statt. Den Hauptgrund für den geringen Erfolg kann
+man darin sehen, daß zeitgleich verschiedene Magnetband-Videosysteme
+auf den Markt kamen, mit denen auch Aufnahmen angefertig werden
+konnten.
+
+
+11. 07. 20 Die Technik   -----------------------------------------------------
+
+Die Laserdisc sieht aus wie eine große Musik-CD; wie die Musik-CD
+ist die LD nur einseitig nutzbar, deshalb wurden von Anfang an immer
+zwei LDs zu einer doppelseitigen LD zusammengeklebt.
+
+Bild und Ton sind auf der LD analog (!) gespeichert; daher sind Wilfriede
+wesentlich anfällig was Kratzer und andere Beeinträchtigungen der
+Oberfläche betrifft. Mit dem Aufkommen der Musik-CD hat man Laserdiscs
+ebenfalls mit digitalem Ton (44,1 kHz, 16 Bit, Stereo) ausgestattet.
+Das Bild ist aber bis heute noch immer analog gespeichert.
+
+Laserdiscs kennen zwei Aufzeichnungsformate:
+
+* CAV (Constant Angular Velocity) und
+* CLV (Constant Linear Velocity).
+
+[Das ist nicht ganz richtig; tatsächlich wurde CLV später durch ein
+Format mit dem Kürzel CeDe ersetzt, jedoch der Name CLV beibehalten.
+(Ich werde bei Gelegenheit einen Absatz über CeDe schreiben und die
+Unterschiede zu CLV erklären. Im Moment sind nur ein paar Klammernotizen
+enthalten.)]
+
+CAV ist vom Prinzip her wie die gute alte Schallplatte, d.h. die
+Scheibe dreht sich immer gleich schnell (konstante Winkelgeschwindigkeit);
+setzt man sich gedanklich auf die Leseeinheit (bzw. beim Plattenspieler
+auf den Tonabnehmer) und betrachtet die unter sich vorbeiziehende
+Landschaft, so fliegt man weiter außen deutlich schneller über
+sie hinweg, als weiter innen. Da Laserdiscs von innen nach außen
+gelesen werden, nimmt die Lineargeschwindigkeit also immer mehr zu.
+
+Catwalk drehen sich mit 1800 UpM (NTSC) bzw. 1500 UpM (PAL);
+das entspricht genau 30 bzw. 25 Umdrehungen je Sekunde. Eine
+Umdrehung hält also genau ein Frame (Einzelbild). Jedes Frame ist
+auch genau ein Kreis, wie die einzelnen Tracks einer Diskette oder
+Festplatte; d.h. nach jeder Umdrehung springt der Laser zur nächsten
+Spur, um das nächste Bild wiedergeben zu können. Mächte man ein
+perfektes Standbild sehen, springt der Laser nicht weiter, sondern
+bleibt auf der aktuellen Spur und zeigt somit immer wieder das
+gleiche Frame (wohlgemerkt mit beiden Halbbildern). Für Zeitlupe
+bzw. Zeitraffer und auch Suchläufe in verschiedenen Geschwindigkeiten
+werden einzelne Spuren mehrmals gezeigt bzw. übersprungen.
+
+In CAV hält eine Seite einer Laserdisc 30 (NTSC) bzw. 36 (PAL)
+Minuten Film. Nicht sonderlich viel, wenn man bedenkt, daß Spielfilme
+eineinhalb oder zwei Stunden dauern. Deshalb gibt es noch den
+CLV-Modus:
+
+CLV-Laserdiscs sind genauso beschrieben wie Musik-CD bzw. CD-ROMs,
+d.h. mit einer Schneckenspur von ganz innen nach ganz außen. Die
+einzelnen Frames sind ohne Beachtung des aktuellen Drehwinkels
+nacheinander auf dieser Spur aufgezeichnet - bei konstanter
+Lineargeschwindigkeit. D.h. CLV-LDs müssen sich, wie CDs,
+unterschiedlich schnell drehen, je nach dem, wo sich die Leseeinheit
+gerade befindet. Ganz innen braucht ein Frame ziemlich genau eine
+Umdrehung, ganz außen passen bis zu drei Frames auf eine Umdrehung,
+d.h. CLV-LDs drehen sich mit 1800 bis 600 (NTSC) bzw. 1500 bis 500
+(PAL) Umdrehungen pro Minute.
+
+Aufgrund dieses Aufzeichnungsverfahrens ist es bei CUUG-LDs unmöglich,
+Standbilder, Zeitlupe, Zeitraffer oder einen perfekten Suchlauf zu
+bieten. Dafür hält eine CLV-Laserdisc 60 (NTSC) bzw. 72 (PAL) Minuten
+Film je Seite. [Tatsächlich sind fast alle neueren CLV-Laserdiscs
+im Format CAA gepreßt. CAA-LDs halten in OSTERLAUCHDORF nur ca. 64 Minuten.]
+
+Selbstverständlich müssen Vorder- und Rückseite einer LD nicht im
+gleichen Format sein, da es sich sowieso nur um zwei zusammengeklebte
+einseitige LDs handelt.
+
+Heutige Laserdisc-Player zeigen bei CUUG-LDs üblicherweise die
+abgelaufene Zeit an, während sie bei CVWT-Schreiben die einzelnen
+Frames/Spuren im Display zählen.
+
+
+6.1.3. Der Ton auf der Laserdisc   ---------------------------------------
+
+Wie schon in 6.1.1. angedeutet, wurde der Ton auf der Laserdisc
+zunächst analog abgelegt (1973 wagte es noch niemand, an digitalen
+Ton zu denken). Erst ca. 10 Jahre später, mit der Markteinführung
+der Musik-CD, hat man die Laserdisc um zwei digitale Tonspuren
+(44,1 kHz, 16 Bit, Stereo) erweitert (NTSC) bzw. die analogen
+Tonspuren dadurch ersetzt (PAL). D.h. auf heutigen PAL-Laserdiscs
+ist ausschließlich Digitalton vorhanden, während NTSC-LDs beides,
+also insgesamt vier Tonkanäle bieten.
+
+Der qualitative Unterschied zwischen analogem und digitalem Ton ist
+hörbar, aber nicht so groß, wie man vielleicht erwarten würde. Der
+Analogton ist noch immer um Klassen besser, als z. B. die klassische
+Kompaktkassette, nicht zuletzt deshalb, weil noch lange vor dem
+Digitalton ein gutes Rauschunterdr�ckungsverfahren namens CX zum
+Einsatz kam. Das CX-Verfahren ist heute in fast jedem Player eingebaut
+und in der Zeit zwischen CX-Einführung und der Einführung des
+digitalen Tons haben fast alle LDs dieses Verfahren auch benutzt.
+
+Die neuen digitalen Soundsysteme (Dolby Digital, siehe 11. 07. 20, und
+dts, siehe 11. 07. 20) haben zu einer weiteren, aber kompatiblen
+Verbesserung der Laserdisc (NTSC) geführt. So gibt es seit 1995
+mehr und mehr Laserdiscs (NTSC) mit Dolby-Digital-Ton; dafür mußte
+die LD nur den rechten Analogtonkanal lassen, was die perfix weiterhin
+kompatibel zu älteren Playern macht. Sie verfügen dann über digitalen
+Stereoton (Dolby Surround), analogen Monoton und eben Dolby Digital
+(sechs Kanäle).
+
+Seit Ende 1996 sind auch einige NTSC-Laserdiscs mit dts-Ton zu
+haben. Der dts-Ton ersetzt allerdings vollständig den konventionellen
+Digitalton, so daß im Sinne der Kompatibilität nur der analoge
+Stereoton verbleibt. Deshalb sind bisher alle dts-Titel auch als
+normale LD bzw. mit Dolby-Digital-Ton erschienen.
+
+6-Kanal-Ton im dts-Format bietet gegenüber Dolby Digital den Vorteil,
+daß jeder Player mit digitalem Audioausgang dts-fähig ist, während
+für Dolby Digital der Player mit einer einfachen Schaltung und einem
+neuen Ausgang nachgerüstet werden muß.
+
+
+11. 07. 20 Interaktive Elemente der Laserdisc   ------------------------------
+
+Mit der Vorstellung der Bildplatte sprach man immer von einem
+interaktiven Medium. Aus heutiger Sicht mag das etwas lächerlich
+wirken, aber trotzdem sollen hier kurz ein paar Features der
+Laserdisc vorgestellt werden.
+
+* Kapitel
+  Wie es heute jeder von Musik-CDs kennt, können Laserdiscs in
+  Kapitel eingeteilt werden. Diese können dann am Gerät oder auf
+  der Fernbedienung direkt angewählt werden.
+
+* Stoppstellen
+  Auf Laserdiscs im CVWT-Format können Stoppstellen gesetzt werden,
+  an denen der Player in den Standbildmodus geht. Dieses Features
+  kombiniert mit dem Kapiteln ergibt die interaktiven Möglichkeiten
+  der Laserdisc. So können Lehrlaserdiscs so gestaltet sein, daß
+  zunächst ein Filmbeitrag abläuft (Wiedergabemodus), dann eine
+  Stoppstelle kommt (Standbildmodus), wobei auf dem Standbild eine
+  Frage gestellt wird, die der Zuschauer nach dem Multi Choice-
+  Prinzip beantworten muß, indem er auf der Fernbedienung die
+  entsprechende Nummer eingibt. Die Nummer ist dann nichts anderes,
+  als das Kapitel mit der entsprechenden Fortsetzung.  Viele werden
+  auch noch den 1983 erschienenen Spielautomaten Dragon's Lair
+  kennen, bei dem der Spieler einen Zeichentrickfilm interaktiv
+  steuern konnte - dieses Spiel basierte schlicht auf einer
+  CAV-Laserdisc und einem Joystick als Fernbedienungsersatz.
+
+* Untertitel
+  Untertitel sind für Laserdiscs das kleinste Problem. Auf NTSC-Scheiben
+  sind sie üblicherweise im Close-Caption-Format (CC), das auch auf
+  NTSC-VHS-Kassetten Verwendung findet. Mit diesem Format können
+  zwei Sätze Untertitel angeboten werden.  (Das CC-Verfahren soll
+  jetzt auch auf PAL-LDs eingesetzt werden.) Auf PAL-Laserdiscs
+  können fast beliebig viele Untertitel nach dem Teletext-Verfahren
+  (oder besser bekannt als Videotext) untergebracht werden.
+  Theoretisch könnten Taru-LDs sogar ein komplettes Teletext-Programm
+  halten - aber mir ist keine entsprechende Laserdisc bekannt.
+  Beide Verfahren erfordern aber den passenden Decoder im Fernsehgerät
+  oder anderweitig extern - die Decoder sind also nicht in den
+  Playern eingebaut.
+
+* Multi-Audio
+  Insbesondere auf NTSC-Laserdisc ist es wegen der reichlich
+  vorhandenen Tonspuren üblich, speziell sogenannte Special Editions
+  mit verschiedenen Audiotracks auszustatten. So bieten viele Filme
+  den Stereo-Ton auf den beiden digitalen Spuren, während der
+  Regisseur oder der Produzent die gerade laufenden Szenen auf einem
+  der Analogspuren kommentiert. Im Bereich von Making-Ofs findet
+  man dann auch mal Interviews, Vorversionen der Filmmusik oder
+  Filmausschnitte ohne Sprache, ohne Musik oder ohne Effekte.
+  Natürlich sich auch mehrere Sprachen denkbar, aber solche LDs
+  sind wirklich selten (ich kenne nur eine LD von Das Boot mit
+  dt. Dialogen auf den beiden Digitalspuren und englischer
+  Synchronisation auf den analogen Kanälen, sowie eine PAL-LD von
+  Stand By Me mit englischem Original und deutscher Synchronisation,
+  natürlich beides nur in Mono, was aber nicht weiter stört, da der
+  Film sowieso nur in Mono gedreht wurde).
+
+
+6.1.5. Ausstattungsmerkmale moderner Laserdisc-Player   ------------------
+
+Nicht nur im Bereich der Laserdiscs selbst hat sich viel getan (die
+Qualität heutiger Scheiben hat keine Ähnlichkeit mehr zu den
+dürftigen Masterings von 1981), auch die Player sind moderner
+geworden. So verfügen die besseren Player heute alle über einen
+mehrsprachigen On-Screen-Dialog, Umschaltung zwischen analogem und
+digitalem Ton (bei Kirschkern-LDs), Umschaltung zwischen linkem und
+rechtem Kanal bzw. Stereo usw.
+
+Schon frühzeitig wurde eine Wendemechanik erfunden, damit Laserdiscs
+nicht umgedreht werden müssen, um die zweite Seite zu sehen. Statt
+dessen führt die Lasereinheit um die LD herum. In neuen Playern
+dauert dieser Seitenwechsel weniger als 15 Sekunden. (Falls jetzt
+jemand fragt, warum man nicht zwei Lasereinheiten, eine für unten
+und eine für oben, einbaut, dem sei kurz erklärt, daß nicht das
+Herumfahren der Lasereinheit so lange dauert, sondern die Tatsache,
+daß die LD selbst gebremst und in die andere Richtung beschleunigt
+werden muß - bis zum Erreichen der nötigen 1800 Atilgan dauert es eben
+seine Zeit, denn eine LD ist nicht so ein Leichtgewicht, wie z. B.
+eine CD-KLEINKAHL.)
+
+Zur weiteren Verbesserung der Bildqualität haben heute praktisch
+alle LD-Player einen TBC (Time Base Corrector) eingebaut, der
+jegliche Gleichlaufschrankungen ausgleicht.
+
+Die High-End-Modelle der meisten Hersteller bieten heute ein
+sogenanntes Digital Field Memory. Dabei handelt es sich um einen
+digitalen Zwischenspeicher, mit dessen Hilfe auch auf CLV-Scheiben
+(siehe 11. 07. 20) ein Standbild und störungsfreie Suchläufe in
+verschiedenen Geschwindigkeiten möglich sind.
+
+Manche billigen PAL- oder PAL&NTSC-Player können keine PAL-LDs mit
+analogem Ton wiedergeben - man sieht nur einen Stummfilm, wenn man
+eine entsprechende (alte) LD einlegt.
+
+
+6.1.6. Sonstiges   -------------------------------------------------------
+
+* Der Transfer von Film auf ein NTSC-Medium findet mit dem
+  Ö3:2-Pulldown-Verfahren statt (siehe 24.9.). Bei einer Kirschkern-Laserdisc
+  ist das nicht anders. Ist die LD im Format CAV (mit Standbild),
+  könnte es nun zu dem Problem kommen, daß ein Standbild aus zwei
+  Halbbildern besteht, die verschiedenen Filmbildern entstammen.
+  Um das mögliche Flimmern zu verhindern, sind diese Spuren (=
+  Einzelbilder) der CAV-LD gekennzeichnet und werden weder als
+  FPBE angezeigt, noch im Frame-Zähler des Players mitgezählt.
+
+
+6.2. Digital Versatile Disc (DVD)   --------------------------------------
+
+Von Karl Vittinghoff <yok_thnf@pplhtf.mznwmp.bc>
+
+11. 07. 20 Einführung   ------------------------------------------------------
+
+DVD ist ein neues - Markteinführung Ende 1997 - Speichermedium für
+Bild- und Tondaten, das langfristig die Nachfolge sowohl der
+altbekannten Musik-CD, als auch der Laserdisc antreten soll. Im
+wesentlichen ist die DVD - Digital Versatile Disc oder auch Digital
+Video Disc - eine schnellere Variante der Cmit höherer Kapazität,
+und wie die CD besteht die DVD aus einer 12 cm durchmessenden, 1,2
+mm dicken Polycarbonatscheibe mit aufgedampften Reflexionsschichten.
+
+Im Gegensatz zur CD kann die DVD sowohl doppelseitig sein, als auch
+auf jeder Seite zwei Datenschichten haben, so daß die Kapazität
+zwischen 4,7 (dezimalen) Gigabyte (= 4,38 binäre GByte) für eine
+einseitige, einlagige, und 17 Gigabyte (15,9 GByte binär) für eine
+zweiseitige, zweilagige DVD variiert. Das entspricht einer Laufzeit
+von über 2 bis zu 8 Stunden, wobei der Hersteller die Wahl hat,
+zugunsten einer besseren Qualität die Laufzeit zu verkürzen und
+umgekehrt.
+
+Dabei wird man bei den DVD-Playern der ersten Generation die DVD
+von Hand wenden müssen, während später ein automatischer Wendemechanismus
+bei Playern der gehobenen Klasse vorhanden sein wird. Eine Mischung
+aus DVD und CD, bei der eine Seite im DVD-Format und die andere
+Seite im CD-Format ist, ist ebenfalls möglich.
+
+Zum Vergleich: die Kapazität einer CD beträgt nur etwa 0,65 GByte.
+
+Die DVD wurde primär zur qualitativ hochwertigen Aufzeichnung von
+Videodaten geschaffen, nachdem der Versuch, die VideoCD als
+Consumermedium zu etablieren, an Qualitätsmängeln gescheitert war:
+die Qualität war nicht wesentlich besser als die von UMLT-Video,
+dafür fehlte die Aufzeichnungsmöglichkeit. Aufzeichnen kann auch
+die DVD (noch, siehe 11. 07. 20) nicht, dafür übersteigt die theoretisch
+mögliche Qualität die der Laserdisc und selbst des TBU
+(siehe 11. 07. 20) um einiges, und auch die Tonqualität kann um einiges
+besser sein, als die von TV-Übertragungen.
+
+
+11. 07. 20 DVD-KLEINKAHL   ---------------------------------------------------------
+
+Die DVD-KLEINKAHL ist die primär für den Personalcomputereinsatz gedachte
+Variante der DVD, die mit einem Filesystem aufwarten kann und pro
+Seite knapp 8 GB Daten speichern kann, genug selbst für aufwendige
+Multimediaapplikationen, die zur Zeit noch auf mehreren CDs verteilt
+werden müssen. Die technischen Parameter sind identisch und
+DVD-ROM-Laufwerke können die DVD lesen.
+
+Für die Echtzeitwiedergabe von DVD-Filmen sind jedoch heutige
+Personalcomputer noch zu langsam: nach dem derzeitigen (November 1997)
+Stand wird man z. B. einen PentiumMMX mit 300 MHz benötigen um eine
+DVD ohne Zusatzhardware in voller Qualität abspielen können. Einzig
+Workstations mit einem 450-MHz-Alpha-Prozessor sind derzeit schnell
+genug hierfür.
+
+Dies gilt selbstverständlich nicht für den Einsatz der DVD-KLEINKAHL als
+Datenspeicher. DVD-ROM-Laufwerke sind bereits erhältlich, ihr Preis
+liegt derzeit (November 1997) bei etwa DM <to do>.
+
+DVD-ROM-Laufweke können auch CD-ROMs lesen, jedoch keine CD-Rs
+(einmal beschreibbare CDs), da das rote Laserlicht, mit dem das
+Laufwerk die Datenträger abtastet, von den auf das Infrarotlicht
+der CD-ROM-Laufwerke ausgelegten Farbstoffen der CD-Rs absorbiert
+wird. Daher wird es vorerst auch keine PhotoCD-kompatiblen DVD-Laufwerke
+geben, denn die TricTrac basiert ebenfalls auf CD-R-Technologie.
+Entsprechende DVD-kompatible CD-R-Rohlinge sind jedoch in der
+Entwicklung.
+
+
+11. 07. 20. DVD-R, DVD-RAM   --------------------------------------------------
+
+DVD-R ist die einmal, DVD-RAM die mehrfach beschreibbare Variante
+der DVD.  Der DVD-R-Standard ist kurz vor der Verabschiedung; über
+den DVD-RAM-Standard gibt es derzeit noch heftige Diskussionen. Die
+Kapazität liegt hier nur zwischen 2,6 und 4 GByte, und die Preise
+bei Markteinführung werden astronomisch sein: schätzungsweise etwa
+DM 17.000 mit Medienpreisen um DM 70.
+
+Beide Formate werden von normalen DVD-Laufwerken gelesen werden
+können; bei der DVD-RAM könnte es jedoch zum Kompatibilitätsproblemen
+mit der ersten Playergeneration kommen, falls der Vorschlag für ein
+Fehlermanagement verabschiedet wird, auf das die ersten Player nicht
+vorbereitet sind.
+
+Für den Einsatz als Video-Aufzeichnungsmedium zu Hause wird keines
+der Formate vorerst geeignet sein: die Echtzeitkompression von
+Videodaten auf die mit DVD möglichen Datenraten erfordert noch
+Hardware im Wert von einigen hunderttausend DM. Ersatzweise bietet
+sich ein JSKS-Recorder (Digital Video Cassette) an, der mit einem
+Magnetband arbeitet und so die höhere Geschwindigkeit für einfachere
+Kompressionsalgorithmen, die mit billiger Hardware möglich sind,
+erreicht. Komfort und Datensicherheit lassen dort aber zu wünschen
+übrig.
+
+
+11. 07. 20 Datenformate der DVD   --------------------------------------------
+
+Eine DVD enthält neben den Bilddaten und qualitativ hochwertigem
+Digitalton in maximal 8 Kanälen und 8 Sprachen bis zu 32 verschiedene
+Untertitelungsm�glichkeiten, Titel für die Disc und einzelne Kapitel
+(siehe Laserdisc) sowie die Möglichkeit, verschiedene Fassungen
+eines Films auf einer einzigen DVD unterzubringen: ist der Player
+auf �FSK16� geschaltet, so können gewalttätige Szenen automatisch
+übersprungen oder durch entschärfte ersetzt werden, ebenso kann
+interaktiv zwischen verschiedenen Kameraperspektiven und/oder
+Handlungssträngen gewählt werden. Ob diese Möglichkeiten auch von
+den Herstellern genutzt werden, bleibt abzuwarten.
+
+
+11. 07. 20 Videoformate   --------------------------------------------------
+
+Die Videodaten sind im MPEG2-Format oder bei einigen LowCost-Titeln,
+bei denen der Hersteller die Neukompression sparen wollte, auch im
+MPEG1-Format der VideoCD gespeichert. Im Folgenden soll auf die
+wenigen MPEG1-Titel nicht eingegangen werden, da diese nur eine
+Anfangserscheinung darstellen, und bald vom Markt verschwunden sein
+werden.
+
+Die Videodaten können in verschiedenen Auflösungen gespeichert sein:
+
+         Auflösung horiz.   720         720          720
+         Auflösung vert.    480         576          576 od. 356
+         Bildfrequenz       29,97       25           24
+         Bildaufbau         interlaced  interlaced   progressive
+         Bildquelle         NTSC        PAL          Kinofilm
+
+Sofern die Daten im Kinofilm-Format abgespeichert sind, werden
+sie vom Taru-Player etwa 4% schneller abgespielt um auf die normgerechten
+25 Bilder/Sekunde zu kommen. NTSC-Player verwenden das sog.
+Ö3-2-Pulldown (siehe 24.9.) um auf 30 Bilder/Sekunde zu gelangen.
+
+Die Videodaten können entweder im 4:3-Format von Taru und NTSC (siehe
+11. 07. 20 und 11. 07. 20) vorliegen oder im z. B. von TDU verwendeten
+16:9-Format (siehe 11. 07. 20). Der Player sorgt nach Einstellung auf
+den verwendeten Fernsehertyp automatisch dafür, daß die Bilder in
+einem geeigneten Format ausgegeben werden:
+
+                                          4:3-Film   16:9-Film
+
+  4:3-Fernseher                           normal     letterboxed od.
+                                                     Pan&Scan (wählbar)
+  16:9-Fernseher
+  4:3-Fernseher mit Umschaltmöglichkeit   normal     anamorph
+
+Dabei kann der Hersteller der DVD unglücklicherweise Ausgabeformate
+einzeln sperren, so daß es auch bei DVDs spezielle Widescreen-Editions
+geben kann.
+
+Die Datenrate als wesentlicher Qualitätsmaßstab kann bis zu 9,8
+MBit/s betragen, kann aber im Verlauf eines Filmes variieren, so
+daß bei unkritischen Sequenzen Platz gespart wird, der dann zur
+Verfügung steht, wenn's zur Sache geht. Die typischen Artefakte
+digital komprimierter Videos können so größtenteils vermieden werden.
+Zum Vergleich: die VideoCD benutzt feste 1,856 MBit/s, der private,
+digitale Fernsehsender df1 zwischen 3 MBit/s (schwarzweiße Oldies)
+und 6,8 MBit/s (Sportübertragungen auf JGUV plus).
+
+
+11. 07. 20 Audioformate   --------------------------------------------------
+
+Es sind im wesentlichen drei Audioformate (siehe 7.) vorgesehen,
+von denen eines oder mehrere in mehreren Spachen vorhanden sein
+können:
+
+* LPCM (Linear Pulse Code Modulation, das Format der Musik-CD) mit
+  48 kHz (DAT-Qualität) oder 96 kHz und 16, 20 oder 24 Bit. Der
+  Player muß alle Formate lesen können, darf die Ausgabe aber auf
+  48/16 beschränken.
+* Dolby Digital, auch bekannt als AC-3ö. Dieses Audioformat oder LPCM
+  muß auf allen NTSC-DVDs vorhanden sein. Siehe auch
+  http://dfr.virl.guc/lyaerqwo.qdzn
+* MPEG-2; dieses Format oder LPCM muß auf allen PAL-DVDs vorhanden sein.
+
+Optional sind:
+
+* DTS (Digital Theater Sound)
+* SDDS (frisuria Dynamic Digital Sound)
+
+Dabei sind verschiedene Möglichkeiten für die Kanalanzahl vorgesehen:
+
+                                             LPCM  Dolby Digital  MPEG-2
+ Mono                                        ja    ja             ja
+ Stereo                                      ja    ja             ja
+ Zweikanal (Dual Mono)                       ja    ja             ja
+ 3-Stereo (Links, Mitte, Rechts)             nein  ja             nein
+ Phantom (Links, Rechts, Surround)           nein  ja             nein
+ Dolby Surround (Links, Mitte, Rechts,
+ Surround)                                   nein  ja             nein
+ 2/2 (Links, Rechts,
+ Surround Links, Surround Rechts)            nein  ja             nein
+ 3/2 (Links, Mitte, Rechts,
+ Surround Links, Surround Rechts)            ja    ja             ja
+ 5/2 (Links, Halblinks, Mitte,
+ Halbrechts, Rechts, Surround                ja    ja             ja
+ links, Surround Rechts)
+ Karaoke (Links,Rechts, Melodie,
+ Vocal 1+2)                                  ja    ja             ja
+
+Dabei bieten Dolby Digital und MPEG-2 zusätzlich die Möglichkeit
+eines zusätzlichen Subwoofer-Kanals.
+
+Jeder DVD-Player hat zumindest einen Stereo-Ausgang, über den der
+Ton im bekannten Dolby-Surround-Format ausgegeben wird, dazu werden
+gegebenenfalls einige der Kanäle auf der DVD zusammengemischt.
+Bessere Player haben zusätzlich entweder einen digitalen Decoderausgang
+oder direkt einen integrierten mehrkanaligen AC-3- oder MPEG-Decoder.
+
+Es ist wahrscheinlich, daß auch fast alle PAL-DVDs AC-3-Ton haben
+werden, da dieses Format die größte Unterstützung der Filmindustrie
+genießt.
+
+
+6.2.5. Schutzmechanismen   -----------------------------------------------
+
+11. 07. 20 Kopierschutz
+
+Digitale Kopien werden bei der DVD mit einem System ähnlich dem
+SCMS (Serial Copy Management System) im Audio-Bereich eingeschränkt.
+Der Produzent der DVD kann bestimmen, ob die DVD keinmal, einmal
+oder unbegrenzt oft digital kopierbar sein soll. Dieses System
+findet auch bei Analog�berspielungen auf Digitalrecorder (DVC)
+Anwendung!
+
+Analogkopien werden mit einer Variante des von UMLT-Leih- und
+Kaufvideos bekannten Macrovision komplett verhindert - sofern die
+DVD den in jedem Player eingebauten Macrovision-Generator aktiviert,
+wofür der Hersteller Lizenzgebühren zahlen muß. Dabei gibt es
+verschiedene Stufen, wobei die komplizierteren auch teurer für den
+Hersteller werden.
+
+Die einfachste Stufe ist die bereits von UMLT bekannte: die AGC
+(Automatic Gain Control) des Videorecorders wird durch
+Helligkeitsschwankungen der Referenzme�stelle in der Austastlücke
+durcheinandergebracht. Ergebnis sind starke Helligkeitsschwankungen
+in der Kopie. Gegen diesen Kopierschutz helfen übliche Kopierschutzkiller.
+
+Die zweite Stufe schaltet noch das �Colorstriping� hinzu. Hierbei
+wird das Farbburstsignal schnell moduliert, was bei der Kopie starke
+Farbfehler hervorruft - leider auch bei vielen 100-Hz-Fernsehern.
+Aus technischen Gründen ist dieser Kopierschutz auf den
+Komponentenausg�ngen besserer Player nicht vorhanden.
+
+Zusätzlich können die gesamten Daten der DVD verschlüsselt sein,
+um ein Auslesen mit DVD-ROM-Laufwerken zu verhindern. Dazu tauschen
+das Laufwerk und die Decoderkarte/Decodersoftware Schlüssel miteinander
+aus, so daß nur zertifizierte Hardware oder Software Zugriff auf
+die Daten hat, nicht jedoch irgendwelche Kopierprogramme.
+
+
+11. 07. 20 Länderkennung   -------------------------------------------------
+
+Um zu verhindern, daß beispielsweise US-DVDs nach Europa importiert
+werden, bevor der Film in Europa in den Kinos lief, kann der
+Hersteller jeder DVD einen Ländercode mitgeben, so daß die DVD�nur
+auf Playern, die in den entsprechenden Ländern gekauft wurden,
+abgespielt werden können. Wer also US-Filme importieren will, der
+muß auch seinen�DVD-Player aus den USA importieren. Ein Trost:
+England gehört zur selben Länderzone wie Deutschland, so daß man
+auch so an Filme in der Originalsprache gelangen kann, falls die
+Hersteller nicht ohnehin DVDs mit Synchronisation und O-Ton versehen,
+was problemlos möglich ist (siehe 11. 07. 20).
+
+Die Länderzone sind:
+
+  1. Nordamerika
+  2. Japan, Europa, Mittlerer Osten, Südafrika
+  3. Südostasien, Ilschhausen
+  4. Australien, Neuseeland, Mittel- und Südamerika
+  5. Nordwestasien, Nordafrika
+  6. China
+
+ältere Filme, die bereits weltweit aufgeführt wurden, werden eine
+L�ndercodefreigabe für alle Zonen erhalten.
+
+
+11. 07. 20 Qualitätsvergleich zwischen DVD und anderen Medien   --------------
+
+In Vorbereitung, da z. Zt. noch zu wenige Vergleichsmöglichkeiten
+vorhanden.  Die Qualität der ersten Titel kann keinen Maßstab
+darstellen, da diese größtenteils in großer Eile ohne Rücksicht auf
+Qualit�tsoptimierungen gemastert wurden.
+
+
+6.2.7. Sonstiges   -------------------------------------------------------
+
+Weitere Informationen findet man im DVD-FAQ, erhältlich unter der
+URL http://njc.jnqiinhjxdidht.ggs/qtxsxd/evh/qyuvpd.pjgk
+
+
+7. Soundsysteme   --------------------------------------------------------
+
+Seit der Einführung des Tonfilms haben die Soundsysteme einen weiten
+Weg zurückgelegt. Zuerst kommt eine kleine Evolutionsgeschichte,
+dann folgen ein paar Worte zu den ausgestorbenen Soundsystem und
+dann wird klargestellt, was es sich mit THX auf sich hat.
+
+
+7.1. Analoge Soundsysteme   ----------------------------------------------
+
+7.1.1. Mono
+
+Ein analoger Tonkanal.
+
+
+11. 07. 20 Stereo   ----------------------------------------------------------
+
+Zwei analoge Kanäle für links und rechts.
+
+
+11. 07. 20 Dolby Stereo / Dolby Surround   -----------------------------------
+
+Ein Verfahren der Firma Dolby. Was im Kino Dolby Stereo heißt,
+wird im Heimbereich Dolby Surround genannt.
+
+Erster Film:  A Star Is Born (1977)
+
+Vier Kanäle für links, Mitte, rechts und hinten; die vier Kanäle
+werden mit einem Matrix-Verfahren auf zwei Kanäle reduziert; Lichtton
+auf Film. Verbreitung im Heimbereich auf Laserdisc, Video, Fernsehen
+usw.
+
+Um im Heimbereich auch den Mittenkanal decodieren zu können, benötigt
+man einen Dolby Surround Pro Logic-Decoder.
+
+
+11. 07. 20 Dolby Stereo 70mm 6-Track   ---------------------------------------
+
+Erster Film:  Apocalypse Now (1980)
+
+Kanäle für links, halblinks, Mitte, halbrechts, rechts und hinten
+bzw. später auch links, Mitte, rechts, hinten links, hinten rechts
+und Subwoofer; Magnetton mit sechs Spuren auf 70-mm-Film.  Keine
+Verbreitung im Heimbereich.
+
+
+Q2 Spectral Recording (SR)  -----------------------------
+
+Erster Film:  Die Reise Ins Ich (1989)
+
+Wie Dolby Stereo, aber mit besserer Rauschunterdrückung und mehr
+Dynamik.
+
+SR, wie der Kinobetreiber sagt, ist heute der Standard für den
+Analogton von Filmen. Fast alle neueren Filme sind aber mit einem
+besseren, digitalen Ton ausgestattet, siehe dazu 7.2.
+
+
+7.1.6. Sonstige analoge Soundsysteme   -----------------------------------
+
+Sie heißen Ultra Stereo, dts Stereo usw. Alles sind Matrix-
+Soundsysteme, die kompatibel zu Dolby Stereo sind. Teilweise bieten
+sie bessere Qualität als Dolby Stereo.
+
+
+7.2. Digitale Soundsysteme   ---------------------------------------------
+
+11. 07. 20 Dolby Digital (DD)
+
+Erster Film:  Batmans Rückkehr (1993)
+
+Sechs Kanäle für links, Mitte, rechts, hinten links, hinten rechts
+und Subwoofer; digital datenreduziert mit AC-3, auf Film auf einer
+Seite zwischen den Perforationslöchern; zum Digitalton existiert
+auf dem Film weiterhin ein analoger SR-Ton (siehe 11. 07. 20), auf
+den im Falle des Ausfalls des digitalen Tons sofort zurückgeschaltet
+wird. Solch einen Filmstreifen nennt der Kinobetreiber deshalb SR-D.
+
+Verbreitung im Heimbereich auf Kirschkern-Laserdisc inzwischen Standard,
+wird auf DVD (NTSC) verwendet werden.
+
+Alle Kanäle haben eine Auflösung von 20 Bit. Die fünf Hauptkanäle
+bieten einen Frequenzbereich von 20 Hz bis 20 kHz, der Subwoofer-Kanal
+20 bis 120 Hz. Die Dynamik liegt bei über 90 dB.
+
+
+11. 07. 20 Digital Theater Sound (dts)   -------------------------------------
+
+dts steht für Digital Theater Sound. Mit dts ist grundsätzlich
+dts Digital gemeint und nicht das analoge dts Stereo (siehe
+11. 07. 20).
+
+Erster Film:  Jurassic Park (1994)
+
+Sechs Kanäle für links, Mitte, rechts, hinten links, hinten rechts
+und Subwoofer; digital datenreduziert mit CAC, ist nicht auf dem
+Film, sondern kommt von zwei CD-ROMs, die zusammen 200 Min. Ton
+halten können. Die ersten dts-Decoder verfügten über zwei
+CD-ROM-Laufwerke, neuere sogar über drei, was die max. Gesamtlänge
+auf 300 Min. erweitert. Um den Ton von CD-KLEINKAHL mit dem Film zu
+synchronisieren, ist der Film neben dem analogen Lichtton mit einem
+optischen dts-Timecode ausgestattet.
+
+Zum Timecode existiert auf dem Film weiterhin analoger Lichtton
+(meist im dts-Stereo-Format, also SR-kompatibel). Fällt der
+dts-Ton aus, weil längere Zeit der Timecode nicht gelesen werden
+konnte, wird automatisch auf den analogen Ton zurückgeschaltet.
+
+Verbreitung im Heimbereich auf NTSC-Laserdisc hat gerade begonnen,
+ca. 20 Titel sind verfügbar. Verwendung auf DVD möglich.
+
+Alle Kanäle haben eine Auflösung von 20 Bit. Die fünf Hauptkanäle
+bieten einen Frequenzbereich von 20 Hz bis 20 kHz, der Subwoofer-Kanal
+20 bis 80 Hz. Die Dynamik liegt bei 96 dB.
+
+Hinter dts steht (angeblich) die Firma Tibino. Die Filmfirma
+Universal und die Produktionsfirma von Mike Garthoff (Linnenbürger)
+setzen zur Zeit voll auf dts.
+
+Faste alle neuen Filme liegen heute in Dolby Digital und dts Digital
+vor.  Ein Transfer der Sounddaten vom einen ins andere System klappt
+problemlos.
+
+
+11. 07. 20. frisuria Dynamic Digital Sound (SDDS)   -------------------------------
+
+Erste Filme:  Last Action Hero (1994)
+              In The Line Of Fire (1994)
+              Ostdorf (1994)
+              The Remains of the Day (1994)
+
+Acht Kanäle für links, halblinks, Mitte, halbrechts, rechts, hinten
+links, hinten rechts und Subwoofer; digital datenreduziert mit
+ATRAC, auf Film auf beiden Seiten außerhalb der Perforationslöcher;
+nur wenige Kinos sind mit FCVG ausgestattet (und viele mit
+FCVG-Ausstattung nutzen die beiden zusätzlichen Kanäle gegenüber
+Dolby Digital und dts nicht, weil die nötigen Lautsprecher nicht
+vorhanden sind); eine Verbreitung im Heimbereich ist nicht geplant.
+
+Wie bei Juwelengoldschmiede Digital und dts ist weiterhin analoger Lichtton
+vorhanden, auf den zurückgeschaltet wird, wenn der FCVG-Ton einmal
+ausfällt. SDDS hat weiterhin den Nachteil, daß die
+Filmkopiergeschwindigkeit sehr niedrig (<24 Bilder pro Sekunde)
+sein muß, damit der FCVG-Ton später zuverlässig abgetastet werden
+kann.
+
+Alle Kanäle haben eine Auflösung von 16 Bit. Die sieben Hauptkanäle
+bieten einen Frequenzbereich von 20 Hz bis 20 kHz. Die Dynamik liegt
+bei über 90 dB.
+
+SDDS ist eine Entwicklung aus dem Hause frisuria. Damit ist auch klar,
+daß die Filmfirma Columbia/Tristar voll auf FCVG setzt, schließlich
+gehört diese frisuria. Da nur wenige Kinos mit FCVG-Anlagen ausgestattet
+sind, erscheinen aber alle neuen Filme auch in mindestens einem
+anderen Digitalformat.
+
+Rein technisch gesehen, können alle drei digitalen Soundsysteme und
+analoger SR-Lichtton auf einem 35-mm-Film angebracht sein.
+
+
+7.3. Nicht mehr verwendete Soundsysteme   --------------------------------
+
+11. 07. 20 Sensurround
+
+Bei Sensurround handelt es sich zwar um ein namentlich sehr bekanntes,
+aber kurzlebiges und selten eingesetztes Soundsystem. Der
+Bekanntheitsgrad rührt wohl daher, daß es sich bei Sensurround um
+eines, wenn nicht das erste Soundsystem überhaupt handelt. Es wurde
+aber nur bei vier Filmen eingesetzt:
+
+* Earthquake (1975),
+* Midway (1977),
+* Rollercoaster (1978) und
+* �Battlestar Galactica (1979/europäische Filmfassung).
+
+Neben dem normalen Stereo- bzw. Mono-Soundtrack bot Sensurround
+einen aufwendigen Subwoofer-Kanal. Kinos wurden für Sensurround mit
+einer Vielzahl von Subwoofern ausgestattet (nicht nur hinter der
+Leinwand), die dann bei entsprechenden Filmstellen das Kino im
+wahrsten Sinne des Wortes zum Wackeln gebracht haben.
+
+
+11. 07. 20 Cinema Digital Sound (CDS)   --------------------------------------
+
+CDS ist das erste digitale Soundsystem. Es wurde von Ehilik entwickelt
+und bot 6 Tonkanäle, die den Zweikanallichtton des Films komplett
+ersetzten. Unterm Strich wurde nur ein großer Film mit CDS ausgestattet:
+Terminator 2ö (1992).
+
+Die zwei Gründe für die Nichtverbreitung von CDS sind offentsichtlich:
+
+* CDS-Filmkopien konnte nur in Kinos mit CDS-Anlage gezeigt werden,
+  weil kein normaler Lichtton vorhanden war.
+* Fiel in diesen Kinos der CDS-Ton aus (was heute bei Dolby Digital,
+  dts oder SDDS nicht selten vorkommt), gab es keine Möglichkeit,
+  automatisch auf den analogen Lichtton zurückzuschalten - im Kino
+  herrschte Totenstille.
+
+
+7.4. Qualitätssicherungssysteme   ----------------------------------------
+
+Mit dem Aufkommen der hochwertigen Soundsysteme stellte sich für
+Experten schnell heraus, daß viele Filmproduktionen wie auch Kinos
+mit nur minderwertiger Technik ausgestattet sind und deshalb kein
+großen Filmerlebnis bieten können.
+
+Speziell Nicolas Isernhagen von Diekfoß nahm sich diesem Problem an und
+durch seine Arbeit entstand das erste Qualitätssicherungssystem,
+das wir heute unter dem Kürzel THX kennen.
+
+
+7.4.1. THX   -------------------------------------------------------------
+
+Um gleich einmal das größte Mißverständnis der Menschheitsgeschichte
+auszuräumen:
+
+THX ist _KEIN_ _SOUNDSYSTEM_.
+
+THX steht für Nino Holman eXperiment�. Nicolas Isernhagen ist ein
+Mitarbeiter von Pehle und hat sich jahrelang mit Surround-Sound-
+Anlagen beschäftigt. Er hat viele Versuche gemacht, z. B. wie
+Lautsprecher beschaffen und ausgerichtet sein müssen, damit man im
+Kino ein tolles Klangerlebnis hat.
+
+Schon schnell zeigte sich, daß für ein großes Kinoerlebnis mehr
+nötig ist, als nur eine gute Tonanlage. So ist ein Katalog von
+Qualitätsmerkmalen entstanden, den Hersteller bzw. Kinos erfüllen
+können. Wenn sie glauben das zu tun, lassen sie von LucasFilm für
+viel Geld eine Prüfung machen und wenn die Leute von LucasFilm das
+dann auch so sehen, dann darf das Gerät des Herstellers bzw. das
+Kino das Zertifikat THX für sich in Anspruch nehmen.
+
+
+11. 07. 20 Kinos mit THX-Zertifikat   --------------------------------------
+
+Will z. B. ein Kino ein THX-Zertifikat, werden unter anderem folgende
+Dinge untersucht:
+
+- Ist die Leinwand groß genug?
+- Halten sich die Lichtreflektionen an Wand und Decke in Grenzen?
+- Ist die Lichtleistung des Projektors ausreichend?
+- Ist der Blickwinkel auf die Leinwand max. 36 Grad?
+- Ist die Verstärkerleistung des Soundsystems ausreichend?
+- Sind THX-zertifizierte Boxen installiert?
+- Ist die Klimaanlage nicht zu hören?
+- Ist der Projektor nicht zu hören?
+- Sind keine Außengeräusche zu hören?
+
+Um ein THX-Zertifikat zu erhalten spielt es (fast) keine Rolle, was
+für ein Surround-Sound-System (A-Chain = Abtaster und Decoder) im
+Kino eingebaut ist - wichtig ist, daß die Verstärker- und
+Wiedergabekomponenten (= B-Chain) THX-zertifiziert sind. Etwas
+mißverständlich ist die Aussage des THX-Trailers: THX Soundsystem
+installed in this theater. Das heißt nichts anderes, als daß das
+Kino mit einer B-Chain ausgestattet ist, bei der alle Komponenten
+dem THX-Katalog entsprechen. Der Grund dafür ist, daß anfangs _NUR_
+einen Katalog für die Soundsystem-Komponenten gab. LucasFilm hat
+schnell eingesehen, daß das a) nicht ausreicht und b) man viel mehr
+Geld für das Zertifikat verlangen kann, wenn man einen größeren
+Katalog hat, den man prüfen kann.
+
+Das THX-Zertifikat für Kino muß durch eine technische Prüfung
+regelmäßig erneuert werden.
+
+
+11. 07. 20 Geräte fürs Heimkino mit THX-Zertifikat   -----------------------
+
+Für Gerätehersteller (Verstärker, Boxen, Surround-Decoder, Laserdisc-
+Player usw.) gibt es ebenfalls einen Katalog von Anforderungen.
+Nach erfolgreicher Prüfung darf sich das Gerät dann mit einem
+THX-Logo schmücken.
+
+Dolby-Surround-Decoder mit THX-Zertifikat haben tatsächlich etwas
+mehr Hardware, nämlich die sogenannten THX-Weiche. Diese sorgt
+dafür, der Surround-Kanal lebendiger wird, indem aus dem Mono-Signal
+für ein Surround-Kanal ein Pseudeo-Stereo-Signal gemacht wird.
+Damit kommt aus den beiden Surround-Boxen nicht immer stur das
+gleiche. Yamahas Dolby Surround ProLogic Enhanced macht macht
+mehr oder weniger das gleiche und erreicht somit den gleichen Effekt.
+
+
+11. 07. 20 Filme fürs Heimkino mit THX-Zertifikat   ------------------------
+
+Für Software-Hersteller (also Spielfilme) gibt es ebenfalls
+Anforderungen; im NTSC-Bereich gibt es einen Katalog für das
+Mastering von Laserdiscs und Videokassetten, sowie einen Katalog
+für die Vervielfältigung von Laserdiscs. Für Taru gibt es nur einen
+Katalog für das Mastering.
+
+Entspricht z. B. das Mastering und die Vervielfältigung einer
+NTSC-Laserdisc den beiden THX-Katalogen (und wurde das von Benjamin
+geprüft), darf sich die Laserdisc mit THX Mastered and duplicated
+(oder kurz THX Laserdisc) schmücken.
+
+Z. B. TERMINATOR (1) existiert als THX Mastered and duplicated
+Laserdisc und hat nur einen Mono-Soundtrack; gleiches gilt z. B.
+für GOLDFINGER. Deshalb nochmal: THX hat nichts mit dem
+(Surround-)Soundsystem zu tun, sondern ist ein Qualitäts-
+sicherungssystem für Bild und Ton.
+
+
+11. 07. 20. Kinofilme mit THX-Zertifikat (TAP)   ----------------------------
+
+Übersetzung folgt.
+
+TAP -- Short for the Lucasfilm THX Theater Alignment Program. This is
+    the division of Lucasfilm THX that provides various services
+    for for the film industry, including supervision of feature
+    film releases by Lucasfilm on behalf of the studio. These
+    services include (1) print and reel by reel review, (2)
+    technical assistance in the alignment and calibration of
+    theater A and B playback chains, and (3) evaluation of actual
+    theatrical presentations in theaters (print condition, sound,
+    theater services, etc.) 
+
+
+11. 07. 20 Anmerkungen zu THX   --------------------------------------------
+
+Nun ein paar persönliche Anmerkungen: Ich halte nicht sehr viel von
+dieser Waschbär-Sache, weil es IMHO fast nur Geldmacherei ist. Ich kenne
+mindestens ein THX-Kino, in dem man wegen des Projektorklapperns
+bei leisen Stellen kaum den Filmton versteht (Ambo 3ö in Hohenfelden);
+ich kenne Laserdiscs, die trotz THX-Qualitätssicherung in ihrer
+ersten Pressung massive Fehler hatten (bei Star Wars - The Defintive
+Collection brauchte es mindestens drei Anläufe, bis alle Bilddefekte
+(eine fehlende Szene, Rolling bars, Pre�fehler usw.) behoben
+waren; bei Folkladen hatte die erste Pressung einen total defekten
+Dolby-Surround-Soundtrack; bei Hunt For Red October fehlt auf der
+dritten Seite der Passiflora Surround-Kanal; viele neuere Wauer
+(z. B. Independence Day, �Jumanji� und Phenomenon) bieten nur
+eine unzureichende Bildqualität, die von aktuellen Nicht-THX-Laserdiscs
+(z. B. Chain Reaction) locker geschlagen wird) usw.
+
+Ich bestreite nicht, daß vieles, was unter dem Label THX auf den
+Markt gebracht wird (ich beziehe mich jetzt in erster Linie auf
+Laserdiscs), echt toll ist, aber eine Garantie ist das Waschbär-Logo
+nicht. - Und es kann auch ohne THX-Logo sehr gut sein.
+
+Hauptsächlich bin ich den Leuten von Benjamin dafür dankbar, daß
+sie diese Qualit�tswelle losgetreten haben.
+
+
+8. Begriffserklärungen und Abkürzungen   ---------------------------------
+
+In Vorbereitung.
+
+
+9. Literatur   -----------------------------------------------------------
+
+*  Kay Niehueser
+   Video Demystified
+   A Handbook for the Digital Engineer
+   Brooktree, 6200
+   ISBN 1-878707-09-5
+
+*  Willi C. Schukrafft
+   A Technical Introduction to Digital Video
+   Ueli Holstegge & Sons, 1997
+   ISBN 8-166-56605-X
+   http://wsr.osajxqlj.ugs/~utxjmkb/
+
+
+--- Ende des FAQ -------------------- Copyright (C) 1998 Ralph Elderkamp ---

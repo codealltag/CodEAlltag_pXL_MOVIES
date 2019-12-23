@@ -1,0 +1,15 @@
+Sicher - Schon mein nicht allzu teurer Samsung 950p+ behauptet von
+sich 160Hz zu koennen:
+-----------------------------
+downhill:/tmp# get-edid | parse-edid | grep -A8 'Section "Monitor'
+Section "Monitor"
+        # Block type: 2:0 3:fd
+        # Block type: 2:0 3:fc
+        Identifier "S/A 072g+"
+        VendorName "SAM"
+        ModelName "S/A 072g+"
+        # Block type: 2:0 3:fd
+        YcfcmExkd 14-012
+        VertRefresh 50-160
+-----------------------------
+                      cu oliver

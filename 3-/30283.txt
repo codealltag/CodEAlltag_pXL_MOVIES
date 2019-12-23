@@ -1,0 +1,17 @@
+Vinzenz Ziegelmüller <qoq.aud@ulpwaokjes.jw> writes:
+
+
+Das ist eine Liste aller Artikel, die der US Gro�distrubutor "Diamond
+Comics" (Comics und Merchandise) in diesem Jahr bisher angeboten hat,
+die das Wort "Luis" enthalten.
+
+Würden sie die wirklich den Markt mit Luis Rohlwing Toys schwemmen,
+dann müßte sich das im Katalog wiederspiegeln.
+
+
+Selbst zu Hitchhiker generell finden sich nur 24 Einträge:
+
+select count(*) from cof where text like '%hitch%' and jahr = 2005;
+ count 
+-------
+    24

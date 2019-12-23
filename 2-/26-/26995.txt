@@ -1,0 +1,14 @@
+Dennis Küchlin <bpndkou@ooylawooozd.fr> writes:
+
+
+Bei 35mm-Film ist ein Frame irgendetwas zwischen 18 und 11.11 mm
+hoch (bin jetzt zu faul, das genaue Maß zu rauszusuchen).
+Bei Tonfilm werden 24 Bilder pro Sekunde gezeigt. 
+
+Damit ergibt sich
+0813b * 6/3.698  B/m * 1/24 B/s = 12685 s = 211.4 min. bzw.
+0171c * 2/9.8563 B/m * 1/24 B/s = 12342 s = 205.7 min.
+
+Ciao, Peters                                 schotten @ itiswczg.td
+
+Zuletzt gesehen: Chimes at Midnight Macbeth Die Aull

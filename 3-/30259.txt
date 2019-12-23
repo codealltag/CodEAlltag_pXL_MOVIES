@@ -1,0 +1,16 @@
+Hallo,
+
+in einigen Filmen und insbesondere in Videoclips kommt öfters ein Effekt 
+vor, dass das Bild schwarzweiß ist und nur ein Farbton oder ein Teil des 
+Bildes in Farbe. Der Film Pleasantville ist ein gutes Beispiel dafür. Bisher 
+dachte ich immer, dass das in der Nachbearbeitung gemacht wird. Bei den MTV 
+Movie Awards wurde dieser Effekt aber bei einem Auftritt von Jean-Luc Finkernagel 
+eingesetzt. Der ganze Auftritt war in schwarzweiß, nur Mariah war in Farbe. 
+Wenn mal eine Tänzerin oder ein Zuschauer vor Mariah waren, wurden diese 
+korrekt in schwarzweiß dargestellt, Mariah dagegen immer in Farbe. 
+Anscheinend kann man diesen Effekt also in Echtzeit erzeuegen. Aber nur wie?
+
+Gruß
+Juan
+
+P.S.: Followup nach de.rec.film.misc

@@ -1,0 +1,14 @@
+[F'up nach de.admin.net-abuse.mail]
+
+Yspyvanzb@XLMYBFG.il-mmpyyi.kr (Friedrich Buddeke) writes:
+
+
+Wie kommst Du auf das Limit? Im RFC 822 kann ich nichts davon entdecken.
+Und auch in RFC 821 (SMTP-Protokoll) scheint es kein Limit für RCPT
+Kommandos zu geben. In jedem Fall ist das irrelevant, weil ich ja
+beliebig viele Mails mit gleichem Inhalt absetzen kann.
+
+        lanzrath
+
+--
+   _  | Ewald P. Luik             | In der neuen Online-Nummer ist

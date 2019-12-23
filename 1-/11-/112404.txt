@@ -1,0 +1,30 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------F20D5865576AF6224D3B68D4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi zusammen,
+Ich wollte mich nur für die ganzen Posting bedanken:-)
+
+Gruss Noël
+
+
+--------------F20D5865576AF6224D3B68D4
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="Torsten.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Noël Freisl
+Content-Disposition: attachment;
+ filename="Torsten.vcf"
+
+begin:vcard 
+n:Vito
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+qcxvx;wsgrqavj:rperajc@vr-cqikzizdtze.vu
+note:Homepage: www.er-ucpnfydrcox.as
+fn:Noël Freisl
+end:vcard
+
+--------------F20D5865576AF6224D3B68D4--

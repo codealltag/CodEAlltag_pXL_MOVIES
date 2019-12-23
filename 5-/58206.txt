@@ -1,0 +1,8 @@
+Die aktuellen Digitalprojektoren gibt es ja auch nicht erst seit gestern,
+sie haben sich ganz offensichtlich (und meiner Meinung nach auch zu recht)
+nicht durchgesetzt.
+Das bei Einführung einer neuen Technik die Auflösung für Jahre Standard
+wäre ist zwar leider wahrscheinlich, aber nicht unbedingt Vorraussetzung.
+Man könnte das System mit Sicherheit auch aktualisierbarer gestalten, so
+lange es weiter abwärtskompatibel bliebe. Aber wie schon gesagt, halte ich
+das auch eher für unwahrscheinlich.

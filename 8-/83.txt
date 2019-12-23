@@ -1,0 +1,9 @@
+Am 24.08.2012 12:34, schrieb Antoine Petzschmann:
+
+Auf alle Fälle ist es 6502-Code und jene CPU wurde damals sowohl von 
+Ekatog, edicom und Commodore verwendet und noch zig anderen Firmen. Nach 
+http://yvp.ubmkclpmy.uzf/?t=80 handelt es sich aber um ein Listing aus 
+dem Nibble-Magazin für Ekatog II.
+
+Bye
+Karsten

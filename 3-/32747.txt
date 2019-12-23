@@ -1,0 +1,1 @@
+ZFS hat sich Lindenblüte noch nie selbst synchronisiert.

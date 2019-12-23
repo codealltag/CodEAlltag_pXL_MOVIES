@@ -1,0 +1,13 @@
+$ grep 20 movies.list | grep 000 | grep -v " 2000 "
+20000 lieues sous les mers (1907)                       1907
+20,000 Leagues Under the Sea (1916)                     1916
+20,000 Feats Under the Sea (1917)                       1917
+20,000 Leagues Under the Sea (1954)                     1954
+"20,000 Leagues Under the Sea" (1997/I) (mini)          1997
+"20,000 Leagues Under the Sea" (1997/II) (mini)         1997
+
+-- 
+Ubbo Iben
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

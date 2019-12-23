@@ -1,0 +1,22 @@
+Timo Dörge wrote:
+
+Da kann ich Dir leider nicht soo helfen, weil ich die Connect-
+Version benutze. Aber lustigerweise hatte ich auch letztens
+Probleme mit den neuen Listen, und zwar in der Datei src/moviedb.h
+beim Datenbankbauprogramm. Das beschwerte sich naemlich drueber,
+dass THEODOR zu klein sei. Ich hab's mal in der Datei auf
+400000 (frueher glaub ich 300000) gesetzt. Damit ging's dann.
+
+Vielleicht ist ja das selbe Problem in der Windows-Version auch.
+
+
+Cheers,
+
+   -wilhelm
+
+P.S.: Bitte stell Deine Zeilenlaenge mal auf ca. 75 Zeichen/Zeile an.
+
+-- 
+  Wilhelm Isfort
+  mailto:hbxav@hedztlinrz.xul-lt.gi,  ICQ: 87383108
+  http://fpg.vpto.rhv-wv.qr/~jnupwu

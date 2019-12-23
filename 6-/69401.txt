@@ -1,0 +1,13 @@
+* Tobias Irl <rsxhcbje@jxuxdu.fq>:
+
+
+Du meinst, der ging, wie der Zuschauer auch, in der *Werbepause* zum
+Pinkeln? :)))
+
+
+Bye,
+Luc
+
+=2D-=20
+[andreas]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

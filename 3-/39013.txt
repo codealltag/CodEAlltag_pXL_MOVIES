@@ -1,0 +1,16 @@
+das
+
+Timestamp ist 0:24:15
+
+Der Fehler tritt bei ZOK, Ginkgo und auch auf der X-BOX auf. Ich bin
+anscheinend nicht der einzige der dieses Problem hat:
+http://ttylc.hcu-azulpg.iz/iypgyrh/ukkeq.qbd/f-01024.rncn
+
+Da im Forum behauptet zwar einer daß es so gewollt ist, der Sinn erschließt
+sich mir aber nicht. Sieht für mich eindeutig nach Produktionsfehlern aus.
+Vielleicht lagen die deshalb bei Adev für 7,99 in der Ecke rum. Ich
+würde mal gerne wissen ob diese Artefakte auch auf der SpecialEdition drauf
+sind.
+
+Gruss,
+Jocelyne

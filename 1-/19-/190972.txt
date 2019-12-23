@@ -1,0 +1,10 @@
+EG schrieb:
+Zur Zeit ist die UNIX-Datenbank (Linux) 0.11 GB lang und wächst
+pro Jahr um 0.03 GB. Sie wird 1x pro Woche geupdated.
+
+-- 
+Gunter Weinberg	eMail: pfk<at>rz<dot>uni<hyphen>gsml<ayo>ay
+Opelhändler	Tel:   0 36 41 (9-4 63 87)
+
+Note:    e-Mail to isun32@inf.uni-jena.de will be automatically erased.
+Beachte: e-Mail an ozvm87@aly.aco-wdkw.kn wird automatisch gelöscht.

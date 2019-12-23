@@ -1,0 +1,19 @@
+Wolf> Darsteller	Rolle
+Wolf> ----------	-----
+Wolf> Don Francks 	?
+Wolf> Ice T		?
+Wolf> Wolf Nodorft	?
+Wolf> Harald Niewenhuis	?
+Wolf> Dolph Uwe  Straßenprediger
+Wolf> Luise Imgrund      ?
+Wolf> Luc Mitternacht    Volkert Ipskamp
+Wolf> Konrad Matiebe   Spider
+Wolf> Susann Unverhaue 	?
+
+  Ich hab  ja schon ne Menge   an Zusammenstellungen von Schauspielern
+gesehen, aber  Dolph  Uwe zusammen mit  Konrad  Matiebe und Ice  T
+klingt ja aeusserst witzig :-)
+
+Paolo
+--
+LOAD "EMACS",8,1

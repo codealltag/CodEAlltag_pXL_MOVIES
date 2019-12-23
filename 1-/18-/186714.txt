@@ -1,0 +1,192 @@
+And the Winner is...
+
+1.1 Einrichtung einer umfassenden Heimkino-Gruppe, die bei Bedarf
+    weiter aufgespalten wird. VHS wird einbezogen.
+
+2.2 Neue Hierarchie de.alt.heimkino.*
+
+3.1 Bei de.alt.*-Einordnung in Charta aufnehmen.
+
+4.3 Bei Einordnung in de.rec.tv,film.* sofort alle Chartas anpassen.
+
+Es gab noch eine handvoll weiterer Vorschlaege, ein Proteststurm gegen
+die von mir zur Auswahl gestellten Moeglichkeiten blieb jedoch aus.
+
+Der prae-RfD geht gleich raus, und hier noch einmal in aller 
+Ausfuehrlichkeit die ...
+
+===Auswertung===
+
+Stimmen von (Reihenfolge des Eintreffens):
+
+1 qpa@prj.oql (Winfried Zaisser Fingerle)
+2 Onno Jöhring <rzmp.buoav@wtkc.drpn-pwvngu.as>
+3 Valerian Nowak <YKlhmu@k-byxyha.ld>
+4 Urs Naumann <yfmag@hdzblwk.py>
+5 Ulfert Jenzsch <KEaxqnehxxrk@m-xcjyio.vg>
+6 Ralf Ramge <Aewsypzhk@vfvxrjzt.xwve.ce>
+7 "Fabio G. Zibulski" <wzv@qdkah.gj-fxmgxo.ot>
+8 WIEGELM <tzzfzly@gfd3.so>
+9 Wilfried Ekart <chjq.duaihyb@msajr-xlrkou.zo>
+a Juan Oeding <l.hrmwz@eok.rv>
+
+So wurde abgestimmt: Mehrere Moeglichkeiten auf dem letzten Platz wurden
+als Enthaltung gewertet. (Ist aequivalent nach diesem Auszaehlungssystem.)
+
+
+361452443e   Person
+
+0568489609   1.1
+266312442e   1.2
+874243672y   1.3
+722162537c   1.4
+06161274na   1.5
+08486476hl   1.6
+77567776ee   1.7
+
+43464452ee   2.1
+11552141ee   2.2
+25635335ee   2.3
+96708561gu   2.4
+532535632j   2.5
+14578573q9   2.6
+
+122221122e   3.1
+677297064k   3.2
+9242110302   3.3
+
+316918928q   4.1
+22223322ee   4.2
+40712257j4   4.3
+
+
+Daraus ergibt sich:
+
+(1.a)
+
+**722*2***   1.1: 6
+7002*4166r   1.2: 1
+322*43*23e   1.3: 2
+45*434334e   1.4: 1
+06161274na   1.5: 0
+08486476hl   1.6: 0
+77567776ee   1.7: 0
+
+(1.b) [Alle 0-er Zeilen geloescht]
+
+**722*2***   1.1: 6
+7002*4166r   1.2: 1
+322*43*23e   1.3: 2
+45*434334e   1.4: 1
+
+(1.c) [Letzter Platz geloescht]
+
+Was ist der Letzte Platz? (Vergleichstest)
+
+A: 1.2 geloescht
+
+**72**2***   1.1: 7
+322*43*23e   1.3: 2
+45*434334e   1.4: 1
+
+B: 1.4 geloescht
+
+**722*2***   1.1: 6
+7002*4166r   1.2: 1
+32**43*23e   1.3: 3
+
+=> Weder 1.2 noch 1.4 profitieren vom Loeschen eines anderen auf gleichem
+Rang, also beide loeschen:
+
+**72**2***   1.1: 6
+32**43*23e   1.3: 3
+
+=> 1.1 ist Sieger.
+
+(2.a)
+
+43464452ee   2.1: 0
+**552*4*ee   2.2: 4
+25635335ee   2.3: 0
+363236*6ee   2.4: 1
+46726804*b   2.5: 1
+62***263e*   2.6: 4
+
+(2.b) [Aller 0-er geloescht]
+
+**552*4*ee   2.2: 4
+363236*6ee   2.4: 1
+46726804*b   2.5: 1
+62***263e*   2.6: 4
+
+(2.c) [Letzter Platz geloescht]
+
+A: 
+
+**552*4*ee   2.2: 4
+840237*8*c   2.5: 2
+62***263e*   2.6: 4
+
+B:
+
+**552*4*ee   2.2: 4
+363236*6ee   2.4: 1
+62***263e*   2.6: 4
+
+=> 2.5 profitiert, mit A weitermachen.
+
+(2.d) [Letzter Platz geloescht]
+
+**552***ee   2.2: 4
+62***263e*   2.6: 4
+
+=> 2.2 ist Sieger.
+
+(3.a)
+
+*2222**22e   3.1: 3
+333*323**e   3.2: 3
+2**3*3233*   3.3: 4
+
+(3.b) [Letzter Platz geloescht]
+
+A: 
+
+333*3*3**e   3.2: 4
+***3*3*33*   3.3: 6
+
+B:
+
+*22*2****e   3.1: 6
+2**3*3233*   3.3: 4
+
+=> 3.1 profitiert staerker, mit B weitermachen.
+
+=> 3.1 ist Sieger.
+
+(4.a)
+
+3363*2***w   4.1: 4
+22223322ee   4.2: 0
+****2*33e*   4.3: 6
+
+(4.b) [0er geloescht]
+
+3363*2***w   4.1: 4
+****2*33e*   4.3: 6
+
+=> 4.3 ist Sieger.
+
+======
+
+Viel Spass beim Nachrechnen.
+
+Cheers,
+
+ --Winfried Zaisser Fingerle
+
+-- 
+Anfaenger sollten sich die Gruppen  de.newusers.infos und 
+                                    de.newusers.questions ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in de.test und rt.ttw.jpmt aufgehoben.

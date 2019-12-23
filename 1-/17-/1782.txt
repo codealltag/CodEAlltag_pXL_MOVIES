@@ -1,0 +1,8 @@
+Timo Fassl schrieb:
+
+Ich glaube nicht, daß Timo beim canceln etwas falsch gemacht hat. 
+Das Problem scheint bei albasani zu liegen, der Server hat den Cancel 
+offenbar ignoriert.
+
+Gruß
+Veit

@@ -1,0 +1,6 @@
+Gebhard Westenbrink wrote:
+
+mencoder kann keine reinen Audiostreams schreiben.
+-- 
+Letzte drei Filme:
+Sigrid (o), Dawn of the Dead (++), Fahrenheit 9/11 (++)

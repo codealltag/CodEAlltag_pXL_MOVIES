@@ -1,0 +1,313 @@
+2. Aufruf zur Wahl (2. CfV)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+zur Einrichtung der Newsgruppe
+
+   de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+sowie die dadurch notwendigen Chartaänderungen von de.rec.tv.misc
+und de.rec.film.misc.
+
+Status:
+~~~~~~~
+   Die Gruppe ist unmoderiert.
+
+Charta de.rec.tv.technik:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+Alte Charta von de.rec.tv.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          de.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen
+          (wie TV über Elchbox/Kabel; Programmstruktur einzelner Sender;
+          Diskussion über Serien, Shows und Dokumentationen; Videotext;
+          Empfehlungen und Diskussion von/über Sendungen, Shows und
+          Serien; Pay-TV und Iheha, TV-Technik; Videotechnik;
+          Elchbox-Technik; Decoder, Radio über Kabel/Elchbox; TV FAQs; Episode
+          Guides; (Medien-) Recht; Sender anderer Länder (via Elchbox); Video
+          on demand, MPEG (2) Transmission; TV/Video Boards für PCs und
+          andere TV/Video Hardware; ...).
+
+Neue Charta von de.rec.tv.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          de.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+          für die keine speziellere Gruppe existiert.
+          (Programmstruktur einzelner Sender; Diskussion über Serien,
+          Shows und Dokumentationen; Empfehlungen und Diskussion
+          von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+          Medienrecht; Sender anderer Länder (via Elchbox))
+
+Alte Charta von de.rec.film.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          de.rec.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte ist die
+          "Schwestergruppe" de.rec.tv.misc da.
+
+Neue Charta von de.rec.film.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          de.rec.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte von Heim-
+          kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+
+Begründung:
+~~~~~~~~~~~
+Nach grober Abschätzung machen Threads über technische Aspekte des
+Fernsehkonsums etwa 30% der Threads in de.rec.tv.misc aus. Angesichts
+des für de.*-Verhältnisse relativ hohen Traffics in d.r.t.m erscheint
+mir eine eigene Newsgruppe zu diesem Thema für angebracht, zumal die
+Abspaltung des Technikaspektes vom inhaltlichen Aspekt des Fernsehens
+einen geeigneten Ansatzpunkt für eine traffickanalisierende Aufteilung
+vom e.h.r.a bietet.
+
+
+Änderungen gegenüber dem 2.RfD:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- - In Charta für de.rec.tv.misc ein Semikolon eingefügt
+
+
+Proponent:
+~~~~~~~~~~
+Sandro Schwaidler	<yob_jxvi@amshek.bitcpu.dd>
+
+
+Modalitäten:
+~~~~~~~~~~~~
+
+  Die Stimmen müssen bis zum 1998-02-28 23:59 (CET) eingehen. Entscheidend ist
+  hierbei das *Eintreffen* der Stimme, nicht das Absendedatum! Bitte benutze
+  den Wahlschein, der am Ende dieses CfV angebracht ist. Wahlberechtigt ist
+  jede natürliche Person, die in der Lage ist, E-Mail an die
+  Abstimmungsadresse zu schicken.
+
+  Es gelten die derzeitigen Wahlregeln, die in de.newusers.infos,
+  de.newusers.questions, de.admin.news.groups und de.alt.admin
+  veröffentlicht sind.
+
+Wie gewählt wird:
+~~~~~~~~~~~~~~~~~
+
+  Trage in die Felder des Wahlscheins unten Deine Stimme (JA, NEIN oder
+  ENTHALTUNG) ein und schicke den Wahlschein dann an den Flohmarkteck-Account
+  tfln-dq@zljhhto.jwnptf.lq (Reply-To:-Header ist gesetzt.)
+  Es werden nur Stimmen berücksichtigt, die per Mail an diesen Account
+  gerichtet sind. öffentliche Stimmabgaben (Postings) sind ungültige
+  Stimmen und werden nicht berücksichtigt.
+
+  Deine Entscheidung bedeutet dabei:
+JA         - Ich bin für die Einrichtung von de.rec.tv.technik.
+NEIN       - Ich bin gegen die Einrichtung von de.rec.tv.technik.
+ENTHALTUNG - Ich enthalte mich oder ich ziehe meine Stimme zurück.
+
+  Enthaltungen gelten nicht im Sinne einer gültig abgegebenen Stimme; sie
+  dienen vornehmlich dazu, eine zuvor abgegebene Stimme zurückzuziehen.
+
+  Der Wahlleiter wird auf Deine Stimme mit einer persönlichen
+  Bestätigung via E-Mail reagieren. Wenn Du innerhalb von ein paar
+  Tagen nichts hörst, versuche es noch einmal.
+
+  Solltest Du Deine Meinung ändern, so wähle einfach neu. Willst Du dabei
+  Deine Stimme annulieren, so entscheide ENTHALTUNG. Gehen mehrere Stimmen
+  ein, gilt die jeweils zuletzt abgeschickte (Date:-Eintrag der Mail).
+
+  Bitte beachte, daß die Stimme Deinen echten Namen enthalten muß, kein
+  Pseudonym. Sollte Dein Newsreader den Namen nicht automatisch im
+  From:-Header eintragen, trage ihn bitte nochmal im Wahlzettel ein.
+  Andernfalls ist Deine Stimme ungültig.
+
+  Die Ergebnisse der gesamten Wahl werden nach Ablauf der Wahlfrist
+  öffentlich gepostet, wobei jede einzelne Stimme, zur Kontrolle für alle,
+  aufgelistet wird. Solltest Du begründete Bedenken gegen die
+  Veröffentlichung Deines Namens haben, melde Dich bitte beim Wahlleiter
+  Berend Immohr <ris@fikjpwa.tzljmz.lm>.
+
+ -=-=-=-=-= ZWISCHEN DIESEN ZEILEN BITTE NICHTS LOESCHEN =-=-=-=-=-
+
+ Wahlschein fuer die Neueinrichtung von de.rec.tv.technik sowie
+ die notwendigen Chartaanpassungen
+
+
+ Dein Realname, falls nicht im FROM-Header:
+
+ Wenn Du keinen Real-Namen angibst, kann Deine Stimme fuer
+ ungültig erklaert werden.
+
+ [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+ ----------------------------------------------------------------------
+ [            ]  de.rec.tv.technik sowie Chartaanpassungen
+
+ -=-=-=-=-= ZWISCHEN DIESEN ZEILEN BITTE NICHTS LOESCHEN =-=-=-=-=-
+
+
+ Folgende Personen haben sich bisher an der Abstimmung beteiligt:
+------------------------------------------------------------------------
+965.589202@eihwomhvws.jg                                    Paolo Zweifel
+a2700042@smail3.rrz.Uni-Koeln.DE                           Berend Jongmanns
+q@hditph.nhi                                             Willy Caspart
+cs@eqxxjzf.hckz.zs                                         Valerian Zschoppe
+mumjcimm@tre.wnlxidusuhbo.zv-lhftcdnrb.xp                 Antoine Vito
+Noiijseac.Tbxae@wci1.dssacv.jm                           VOLKMAR LINDECKER
+cxnfa.prwvdqqf@opflg.xg                                   Vittorio Vauth
+brpbxr@oup.nip                                                Norbert Jahrsdörfer
+vzof@vvbuhw-umna.tw                                          Veit Jongeling
+shcilu@zcgqj.waccjez.as                                    Ullrich Scholle
+gkqolu@lpi-dedfstnrerj.ty                                 Nikolaus Zeitlmeier
+eciha@dsbeeo.fjtjkr.zqt                                      Ullrich Irger
+zdnhsqt@yjlt.oe.xff.vx                    =?iso-8859-1?Q?Bj=F6rn_Heide?=
+lpo@kugxtstooh.ufp-sdga.yl                                Benno Höringer
+duv@grmmb.ril                                            Berend Neuheiser
+jygpg+txwf@hsmgrpq.lbb.kv        =?ISO-8859-1?Q?Claus_Andr=E9_F=E4rber?=
+qqbltf@nnb.guxjidflvp.kol-ghdjxjgl.jl                     Berend Aschenbroich
+cornell.binder@TU-Cottbus.De                              Benno Zintel
+Djlxmj.Zequlx@urggiu.kzk-sir.on                            Jochen Schneller
+Beaehkzub@kzllagje.khjz.ft                                    Patrick Schmausser
+Qenkxc.Bkptmza@d-fcmnna.ht                                 Jörg Jentzsch
+sknkz@ekfffa.tl.tsi-ex.ud                                   Matthias Ulbert
+Jérôme@Xterminator.NKUCFF.UqoBh-Jjfunryq.yj               Jérôme Schäferbarthold
+bqf@zldbiesr.mafclu.oyn.ins                                 Jacques Oberste-Berghaus
+wonh@dvbtlg.hqwn.nd                                           Jacques Rolfs
+jnzrc@fjnhtdjo.veq                                         Valerian Himmighofen
+efraim@desire.argh.org                                    Volkmar Jensch
+Wujrmceh.Dztdu@qsd.un                                     Oliver Meir
+zyhf@qks.zuu                                               Otto S. Zacharias-Langhans
+pxgtu@uho.ptw                                          Meinrad Patok
+Zqtki@hqzne.znapqgbz.tur                             Othmar-Christophe Kerstingkötter
+Ajm.Kxcbvjv@u-hfnvzn.qi                   =?ISO-8859-1?Q?Lars_Tr=E4ger?=
+fou@ON-Luebeck.DE                                         Axel Mattheiß
+eaxjuaod@wuwm.mq.sogzo.lk                                 Dietrich Pezoldt
+Qeupt-Fiescw@q-qpdvai.lg                                    Albert Immohr
+gksct@pqnrvhuj.db.ewn.alx                                  Albert Bomert
+aahebxf@xiugbi.skfcoc.lb                                   Nuno Heimsohn
+oqgz@fgqhk.ra                                      Oldenbüttel Uta
+bbunyt.mrs@j-cnbmia.jc                                        Willi Weiner
+nqsmcyk@lmd.lzne.ijy-hkspvmjto.ab                          Waldemar Oberste-Berghaus
+goiampl@fzixiznuay.xv-ibrnubmj.rt                     Ivan N. Vrijs
+nqwqlbvrdrx@nma.vjm                                 Kay Pickenhayn
+pcajp@gac.zl-iskcji.um                                 Marco Isenmann
+kwqfim@vlu.ew-ggevte.gx                                      Julia Peschek
+yfzmoojk@jufyxw.scwxmbi.bt                                    Gerald Parlov
+gngq@yei.sb                                                Wolf Eschstruth
+tgmnyz@qdnxxz.cku.vc                                        Christophe Utdenwiede
+Zzhvfefrllp@tcinv.mg                                   Marco Puschli
+xfhct@gkewr.dgset.ay                                           Diedrich Buchfeld
+lb506@fjlfw.iprety.di                                  Mirko Itzenga
+dxukgf@blgrhp.imquh.tv                                     Meinrad Imort
+MWsxff@p-xgjmky.yz                                          Menno Ickenroth
+h02j@tae.pdy-qpguel.nn                                      Karlheinz Oberweg
+hifi@jvh.pqe                                                 Hinderk Beenhakker
+fvl@fwr.pde                                                     Henry Plogstieß
+lrg@zee.rty                                          Henry Gunter Würtemberger
+zbaifjff@lvpghxsq.yswftkd.xl                                  Henry Gratopp
+qe@wu.tn-aedtrx.xg                                           Hartwig Geertsen
+wooxjpfvtxb@xghfod.xzraoau.qw                            Henry Boshoven
+ojw@cihmgdniax.srzprrla.ehc                                 Sandro Feldbusch
+yob_jxvi@amshek.bitcpu.dd                                       Sandro Schwaidler
+lo@mjoqq.prfq.xbu                                               Sandro Fett
+htxbqn_88@anufbtk.zul                                   Edwin Pecher
+tkfkbfguks@hu-qphfvfk.i871.qn                          Matthias Juenger
+ozpr@bdntwhzjo.zv                                     Sven Jarck
+xxnvqg@bvdvbj-ztgx.dr                                    diethelm kroehl
+nnau-vpmbl@ewagk.hx.fivry.ue                            Niels Idrees"oder
+mqpzfucr@jerm.jle-wp.bf                               Claudio Lüers
+bapq@hhn-xlrh.si                                        Tobias Uthleb
+X.P.N.85@xpsdsndzvr.kh                                       Nicolas Pohrt
+S.Dtmuftcniy@umspak.phao.cy                           Nicolas Reiterer
+I.Dvbals@lxq.wv                                           Nicolas Greiner-Pachter
+hv.om@lzp.ez                                               Norbert Grotewahl
+yzd@fyt.vehopk.dl                                        Nicolas V. Zschaage
+Mwjy.Eabcr-mjvnzk@tud.ch                                      Nuno Petermeier
+sdscd.dbdlnj@awi.xfy                                        Niko Oberwinkler
+Wjkfy_Cirocyz@x-axxsmk.oo                                  Niko Priefer
+maritza@ag-trek.allgaeu.org                               Valerian Jungermayr
+Llgjnd.Aqcarq@kqzq.tzr-mqkxsyjb.dy                         Nuno Wegge
+nxrzax.rriho@rhd.zwa                                        Nuno Tenholter
+Ursarq.Bfugqxdzn@mpz-hl.msmuif.mq                       Niels Isenhagen
+ogesewc@bxo.vou                                          Achim Gutfreund
+og@ziubg.hqvdtlbdf.es                                    Nuno Pischetsrieder
+ckdpovx@hmije.sqon.wx-blojvkdg.ni                      Nicolas Jungkunst
+gcisc@rfwk.zhjvr-gazguf.yr                          Berend Blenckner
+ghzdodb@iuzzqvn.ue                                          Philippe Jarchov
+i02@kc.fti.pqk-kkwrxadqhb.np                                Nicolas Eyckers
+KzygAvlvh@cunj.gf                                             Ingolf Häusel
+ttpziy@jwvlcepg.ywr-mdm.jo                                   Ivo Jüngerhans
+ukqagg@yrqo.iwqwnstsmx.ykv-xnve.mo                        Valerian Geir
+mbrixwt@uvx.ieq                                        Nuno Westerholt
+oqwa.sgrs@ysb.jqe                                              Patrik Petsch
+jjgpd@sntrwicc.vl                                           Andree, Philippe
+os-ot@wrat.yp                                              Pascal Plumer
+fqvyj@tkb-qsgpyylpspt.ic                                      Nuno Schimmich
+jknffq@arqyzdvqn.flvur.kr                               Patrick Streidl
+cn42783@ndawyl-ymep.sy                                     Noël Oprach
+wvhl@pjeo.kff                                            Nuno Inderwiedenstraße
+Volkmar.Nqxdx@PJOWWAT.ws                                     Volkmar Luettge
+unguaveb@om.psh-ramcrzglehc.ys                      Philippe Irlweg
+vr@nwetayn.bmvth.bn                                   Elmar Paulisch
+jletmft@ymw-umjotmela.tu                                    Jacques Immoor
+ugffnm.auuyb@pzsevwiu.bgodbkf.iy                            Emil Türner
+Rcynkz@U-Vwcboo.if                                    Euchler
+SJ@rqppixm.cj                                            Edwin Steinbrügger
+vwwpjv.iosomhhy@dswjukx.qvu                              Edwin Priesser
+dfuvep@jsdfycaj.wzasxc.so                              Edwin Tyll
+qkeoxlf@wvf-uqewlcf.mp                                 Eric Vaigt
+okveca@soj.pacw.at                                         Edwin Issle
+immfmbf@kyf.dhv                                       Edwin Ißleb
+steven@bonbit.org                                        Erich Poeschl
+mmct@cbri.asy.xu                                             Emil Ibo
+J.KRFJ@sdrpb.mcv.fes                                         Karlheinz Leßenich
+asytju@mli.gkt                                              Karlheinz Cauffman
+oanuvbcx@kbzohxnzq.cc                                 Kay V. Schmitte
+ddo@ahad.jiaby.jb                                      Karlheinz W. Landshöft
+Cf.Fhchbbjh@uo-ikfykjy.bf                                Karlheinz Isenbügel
+Mslmcytff.Nltuj@zav-wt.qgdcdr.iq                         Klaas Interwies
+Kyydtge@cwm-ft.mlmvbp.hd                                  Jérôme Kalsperger
+cdqmbnd@ddariu.mrfnun.elg                          Karlheinz Oehlerich
+Karlheinz.Yfoz@HSL.dgt                                          Karlheinz Hofsümmer
+bpspg@fakewflb.pje.jhc                                   Kay Untersten-Westen
+nmeydiup@kedcbju.ae.0235.iwr                                Karsten Zimon
+js7s@ia.fei-hdiwjauqj.ug                         Niels Int-Veen Oßenbrüggen
+TKqbskvxnakz@r-ktxtgw.id                             Nicolas Oelenschläger
+eopplb@vwqucgv.yzm-co.re                                    Fridolin Oberreich
+fdmtxc@jntccqi.wyi.mdq                                   Fridolin Ohlhöft
+txjegrk.saaizc@rimev.cuqlkrq.do                           Francis Weckler
+kdmc@zdxwx.oohg.sv                                       Valerian Zwiebler
+cnyiwj@cfdzimy.iln                                          Fridolin Schulte-Rebbelmund
+wawfuu@bjx.dfe-uyqjsu.gd                                    Albert Brückers
+blyuxrsk@wbf-ywl.ae-wudhhkja.yn     =?iso-8859-1?Q?Alexander_W=F6rndle?=
+udyvgy@jtvqtmf.cuvdwu.da                                Berend Immohr
+sas@gp.cuw-rdcm.sf                                          Albert Niehues
+csjte@phzt.ojp-gw.yb                                    Özkan Echterhagen
+qfpqedd@tjkulnp.yks                                         Diedrich Tänzel
+
+
+Ungueltige Stimmen:
+------------------------------------------------------------------------
+nkfirmy.ovyqxui@ebuerpj.sbv-hujxbjitz.yx                 Albert Nieländer
+   ! Mehrere Stimmen
+kamnjma.erpug@r-hiwxmo.pq                                  Hansjörg Albert
+   ! Keine Stimmabgabe in Message
+
+-- 
+Berend Immohr (GVV)      IRC: Ehmanns       udyvgy@jtvqtmf.cuvdwu.da
+GVV-bezogene Mails an:                           ris@fikjpwa.tzljmz.lm

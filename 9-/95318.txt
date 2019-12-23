@@ -1,0 +1,10 @@
+Am 8 Jun 2003 schrieb Italo Kollerbaur:
+
+
+Nichts. Das hängt mit dem sogenannten PAL-Speedup zusammen. PAL hat
+eine Frequenz von 25 Bildern/Sek, läuft also 4% schneller.
+
+Tschüss,
+        Jann
+-- 
+You never get a second chance to make the first impression.

@@ -1,0 +1,15 @@
+Fredi Will wrote:
+
+Vielen Dank fuer den Hinweis!
+
+
+Ich habe 24 kleine Shellscripte erzeugt, die die einzelnen Episoden mit
+dem mplayer herunterladen, in PCM schreiben und mit oggenc in Ogg Vorbis
+wandeln: 
+
+http://noo.tkelsqviwr.dan-jacyae.hn/~uyw/jmbdqs-rc-erg-ohfg.lhl.lm
+
+Die letzte Episode ist noch nicht online.
+-- 
+Letzte drei Filme:
+Coffee and Cigarettes (++), Troy (+), In the Cut (-)

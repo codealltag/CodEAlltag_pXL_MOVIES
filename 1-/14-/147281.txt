@@ -1,0 +1,13 @@
+Sebastian Maehler <iheapyr@mswp.ezh.th> writes:
+Wobei 'Bielefeld' keinen unterschied machen duerfte. Man haette auch
+'Krefelder', 'Pfaffenhofener' oder was auch immer nehmen koennen. Es
+gibt zu wenige, die wissen, warum gerade Untermöllenbronn so sensibel ist!
+SIE passen da gut auf...
+
+Sébastien
+-- 
+Dipl.-Inf. F. Weisnich  LFT, FAU Erlangen  fg@gea.lvq-zuykuetu.fi
+"Encoding the type of a function into the name (so-called Hungarian notation)
+ is brain damaged - the compiler knows the types anyway and can check those,
+ and it only confuses the programmer.  No wonder MicroSoft makes buggy
+ programs." -- Linux Kernel Coding Style Guide

@@ -1,0 +1,14 @@
+Vinzenz C. Wermelinghoff schrieb/wrote/crivait:
+
+Irgendeine Voyager-Episode, war aber MONSATOR mit einem Frosch.
+
+Davon mal abgesehen: Von wem stammt eigentlich der Song "The Crying
+Game", den Dil singt? Ist er irgendwo, abgesehen von Soundtrack, erhältlich?
+
+
+  Wolf
+-- 
+"Der Filesystem Standard wuerde die Scripte seit neuestem gerne
+ in /etc/init.d sehen, der Logik nach gehoeren sie nach
+ /sbin/init.d."
+  -- aus: "Wie starte ich einen Endlosthread ?", Teil 83

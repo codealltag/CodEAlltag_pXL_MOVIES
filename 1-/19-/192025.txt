@@ -1,0 +1,115 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+                    2. Aufruf zur Diskussion (2. RfD)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+zur Einrichtung der Newsgruppe
+
+   de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+sowie die dadurch notwendige Chartaänderungen von de.rec.tv.misc
+und de.rec.film.misc.
+
+Status:
+~~~~~~~
+   Die Gruppe ist unmoderiert.
+
+Charta de.rec.tv.technik:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+Alte Charta von de.rec.tv.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          de.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen
+          (wie TV über Schuhbauer/Kabel; Programmstruktur einzelner Sender;
+          Diskussion über Serien, Shows und Dokumentationen; Videotext;
+          Empfehlungen und Diskussion von/über Sendungen, Shows und
+          Serien; Pay-TV und Ufun, TV-Technik; Videotechnik;
+          Schuhbauer-Technik; Decoder, Radio über Kabel/Schuhbauer; TV FAQs; Episode
+          Guides; (Medien-) Recht; Sender anderer Länder (via Schuhbauer); Video
+          on demand, MPEG (2) Transmission; TV/Video Boards für PCs und
+          andere TV/Video Hardware; ...).
+
+Neue Charta von de.rec.tv.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          de.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+          für die keine speziellere Gruppe existiert.
+          (Programmstruktur einzelner Sender; Diskussion über Serien,
+          Shows und Dokumentationen; Empfehlungen und Diskussion
+          von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer
+          Medienrecht; Sender anderer Länder (via Schuhbauer))
+
+Alte Charta von de.rec.film.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          de.rec.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte ist die
+          "Schwestergruppe" de.rec.tv.misc da.
+
+Neue Charta von de.rec.film.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          de.rec.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte von Heim-
+          kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+
+Begründung:
+~~~~~~~~~~~
+Nach grober Abschätzung machen Threads über technische Aspekte des
+Fernsehkonsums etwa 30% der Threads in de.rec.tv.misc aus. Angesichts
+des für de.*-Verhältnisse relativ hohen Traffics in d.r.t.m erscheint
+mir eine eigene Newsgruppe zu diesem Thema für angebracht, zumal die
+Abspaltung des Technikaspektes vom inhaltlichen Aspekt des Fernsehens
+einen geeigneten Ansatzpunkt für eine traffickanalisierende Aufteilung
+vom i.s.u.s bietet.
+
+
+Änderungen gegenüber dem 1.RfD:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- - Chartaänderung de.rec.film.misc
+- - Charta de.rec.tv.misc: Episodenf�hrer statt Episode-Guides
+- - Ergänzung der Beispiele in der tg.thg.dg.eryubtb-Woaxxl
+
+
+Proponent:
+~~~~~~~~~~
+Benno Oberstauer	<tkl_ydcc@wrjzxk.vrsmat.yr>
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3ia
+Charset: cp850
+
+iQEVAwUBNMOj9bwsRTDEASR1AQGpbQf+Iai6VPWt94CerRmMG25nd6JS3WYcwxN6
+9Bh8/4qtkOqNhmzMXWRFXvcA5UwKUcY7pq9Mu5YwhFWvmQOFtA6ERb8yzO9Bjg/R
+yNSwV7Yln4z4R0ws6HMbZAxJC/BfGZfGDXWCyRWBISP3JS2WcpS5NDOubOsia/n9
+PhpaALxqqZ8xaPW2VkYLRBPWak6HpHh2KcC8q4KxvFO4hsTnAlIDqnIgspfvpzs/
+aW1rcPDvY6b/E0iXeEOKONMvxGeO06gnfPeb7gSCtRvyXJKVKdOS2wH5OBexonjZ
+n+78c3WCkI0O++WQuL2HdsqR9disAzeGMPtBktKbchYhjvZOdM+z8A==
+=kqld
+-----END PGP SIGNATURE-----
+
+--
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <trzbspmid@kbje.ai> (vertrauliche
+Einsendung) oder <edsaek@ipqe.xy> (geht zur Kontrolle auch an eine
+öffentliche Mailingliste) schicken.

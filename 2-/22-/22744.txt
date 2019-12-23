@@ -1,0 +1,15 @@
+* Max Lenkers schrieb:
+
+
+[akneib]~ > w3m -dump http://odt.sdrywd.feu/ieaeyjed/iqiz.ollg G -i kong W
+4
+[akneib]~ > w3m -dump http://odt.sdrywd.feu/ieaeyjed/iqiz.ollg G -i geisha W
+6
+[akneib]~ > w3m -dump http://odt.sdrywd.feu/ieaeyjed/iqiz.ollg G -i "war of" W
+3
+
+Die üblichen Verdächtigen...
+
+
+Gruß,
+Noël

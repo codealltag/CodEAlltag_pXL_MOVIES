@@ -1,0 +1,25 @@
+Macrovision setzt hauptsächlich an zwei Punkten an:
+
+1. Ein Referenzsignal in der Bildaustastl�cke, welches Videorecorder
+   für ihre Aussteuerungsautomatik benötigen, wird mit starken Störun-
+   gen überlagert. Fernseher werten das Signal nicht aus, Recorder
+   werden dagegen bewußt so dressiert, daß sie auf die Manipulationen
+   allergisch reagieren (dies ist Teil des Vermon-Standards!).
+   Folge: ein zu dunkles, in der Helligkeit schwankendes Bild.
+
+2. Die Horizontalsynchronimpulse in der Bildaustastl�cke werden mit
+   Störungen teilweise unbrauchbar gemacht. Die Regelschleife in
+   Fernsehern reagiert recht schnell, dadurch ist die Synchronisation
+   bereits wieder hergestellt, wenn das sichtbare Bild beginnt (manch-
+   mal sieht man trotzdem leichte Störungen am oberen Bildrand). Die
+   Regelschleife von Videorecordern ist langsamer (schließlich hängt
+   da Mechanik dran...), dadurch reichen die Störungen weit in das
+   sichtbare Bild hinein.
+
+Eine schärfere Macrovision-Variante nimmt außerdem Manipulationen am
+Farbreferenzsignal vor; m.W. ist das aber nur bei DVD gebräuchlich.
+
+
+Besonders ältere Recorder sind manchmal etwas toleranter. 
+
+Christof

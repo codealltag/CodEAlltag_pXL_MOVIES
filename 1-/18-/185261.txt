@@ -1,0 +1,12 @@
+Ist die mittlerweile komplett?
+
+pfk@schnecke:/home/pfk/imdb/list > ls -la ger* movies*
+-rw-r--r--   1 pfk      users      13. 03. 20 23 01:46 german-aka-titles.list
+-rw-r--r--   1 pfk      users     0991882 Feb 23 01:47 movies.list
+pfk@schnecke:/home/pfk/imdb/list > _
+
+-- 
+Ingo Hackfort
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

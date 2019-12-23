@@ -1,0 +1,9 @@
+Der Movie enthält neben einem Audio- und einem Video-Track auch einen
+Sprite-Track, der für das Weiterleiten zu azwba.rel verantwortlich ist.
+Wenn man ihn löscht, läuft der Film auch auf dem einfachen Player
+problemlos (20. 11. 19 vorausgesetzt).
+Allerdings benötigt man zum Löschen QT Pro  ;-)
+
+Vielleicht läuft ja der mpg-Film, den Jurassicpunk ebenfalls anbietet.
+
+Stephan

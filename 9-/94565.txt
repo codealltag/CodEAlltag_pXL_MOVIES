@@ -1,0 +1,12 @@
+Hallo.
+
+André Nas wrote:
+
+
+Das ist kein Virus, sondern einfach nur ein Fitzelchen-Code, in dem in einer JS-Schleife dauernd ein Fenster geöffnet wird. Harmlos und nervig.
+
+
+-- 
+Luis Wesselhöft, stud.inf. ;)      Tempus bestia est, quae nos sequitur
+cfnuspuk@bfymswzosd.dq-htpktcb.qe          Numerik rockt, Analysis nervt
+Sinister @ www.GhkyeNcnaf.fb               Private Home: www.wlh.zbk.pfj

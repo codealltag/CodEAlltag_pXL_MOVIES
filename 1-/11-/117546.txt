@@ -1,0 +1,16 @@
+Ullrich Pennigers schrieb:
+
+
+Die Supersedes sind im Vergleich zum Original fast
+unverändert. Sie gingen mit Thierrys Preuler- und
+Approved-Header raus und sind für einen Server
+nicht von autorisierten Postings unterscheidbar.
+
+Sowas ließe sich nur verhindern, wenn Thierry
+seine Postings PGP-signiert und einen Cancel-Bot
+aufsetzt, der Fakes zeitnah abräumt, so wie in dana.
+Aber in einer "harmlosen" Gruppe wie *.kritiken ist
+das eigentlich totaler Overkill.
+Thierry könnte die Postings aber manuell canceln.
+
+Ingo

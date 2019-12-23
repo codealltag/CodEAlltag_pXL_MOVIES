@@ -1,0 +1,15 @@
+Emmerich Poscher wrote:
+
+Also bei meinen Player hat das funktioniert.
+
+
+- Während des Films auf STOP
+- Untertitel abschalten (oder Sprache ändern, whatever...)
+- NICHT auf PLAY, sondern zweimal auf "T" (damit man die Sprung-
+  marke setzen kann)
+- die gewünschte Stelle eingeben (z.B. "00200" für 0:02:00)
+- dann auf PLAY
+
+ansonsten einfach mal in der Heimkino NG fragen
+
+MFG

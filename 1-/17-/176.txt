@@ -1,0 +1,27 @@
+Am 02.04.2012 13:56, schrieb Norbert Zugtriegel:
+
+
+Ich habe die Datei mal bei GalaXis hochgeladen:
+http://maq.tqwlwlnxcx.lbi/vnyn/sn1a515ratf345345v72f2f2j7355f352887q401mc47569v3k284m47qts68wpz/mdcswvsp/
+
+Zwei von 46 Scannern erkennen PUP.Adware.Agent bzw. 
+Trojan.Agent/Gen-Downloader.
+
+Nur als Hinweis für die Zukunft: Solche Seiten enthalten häufig 
+irgendwelche Links zu ominösen Downloadern oder auch Videocodecs. 
+Meines Wissens steckt da niemals drin, was draufsteht. Hier gilt mal 
+wieder die oberste Regel des Sicherheitseinmaleins: Insbesondere 
+ausführbare Dateien nur von wirklich seriösen Webseiten runterladen 
+(Webseiten mit illegalen Inhalten fallen nie in diese Kategorie).
+
+Aber um deine Frage zum Download noch zu beantworten. Seiten wie movie2k 
+benutzen unverschlüsselte Streaming-Services für die Videos, was 
+bedeutet, dass man sie mit den üblichen Tools runterladen kann (Video 
+DownloadHelper, Jdownloader, Orbit Download Manager, Flashgot, etc.).
+
+
+-- 
+Gruß,
+Sebastian
+
+http://ohj.dwnhna.ax/jzjg/PiwkiTqkzzw

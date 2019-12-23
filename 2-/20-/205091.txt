@@ -1,0 +1,27 @@
+In article <96088y$sdw@ogsq.ugi.zum-jobbvl.nw> i03a@alf.zfn.uni-bremen.de (Ullrich Würschmidt) writes:
+
+   : Es ist auch ein Interface fuer OS/2 in der Mache (hallo Niklaus, liest  
+   : Du hier mit??). Niklaus Jänigen (xzvikhe@mrfvzrv.cp) hat ein sehr  
+   : simples, aber auch sehr schnelles Interface fuer die OS/2-Kommandozeile  
+   : und ein optisch etwas ansprechenderes fuer den PM geschrieben.
+
+   Niklaus hat mir das Programm schon angeboten, aber als ich neulich
+   eine Mail beantworten wollte, kam sie wieder zurueck, da die Adresse
+   wohl nicht stimmte. Ich werde es ueber das LGPS-Netz versuchen.
+
+Doch, die Adresse stimmt, es war nur ein Problem mit der Fafe :)
+Uebrigens funktioniert die Alternative Movie Database nicht nur
+unter OS/2, sondern (dank des EMX Dos-Extender) auch unter Dos. 
+
+Falls jemand also Betatester spielen moechte (besonders unter Dos koennte
+ich da noch Leute gebrauchen), einfach per email melden!
+
+Ciao,
+  Niklaus
+(xzvikhe@mrfvzrv.cp, sedahfp@dw.jf-bahrmq.uq)
+--
+Niklaus Jänigen
+sedahfp@dw.jf-bahrmq.uq
+-- 
+Niklaus Jänigen
+sedahfp@dw.jf-bahrmq.uq

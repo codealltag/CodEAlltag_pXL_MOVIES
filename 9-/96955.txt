@@ -1,0 +1,5 @@
+800
+
+Mir ist noch keiner unter gekommen. Aber trotzdem wird das Spiel merklich
+flüssiger im Gegensatz zu 85 fps. Mir persönlich reichen 100 bis 120 fps in
+der Regel vollkommen aus.

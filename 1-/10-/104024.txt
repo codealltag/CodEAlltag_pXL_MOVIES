@@ -1,0 +1,9 @@
+Laurent Gathemann schrieb:
+
+
+Warum? Arbeitet NTSC denn mit 24 Bildern/sec ? (Unter dem hier genannten
+"Awaw-Speedup" verstehe ich, dass man die 24B/s auf Fernseh-25B/s
+beschleunigt??)
+
+
+Adolf

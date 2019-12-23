@@ -1,0 +1,7 @@
+Der altbekannte 16bit-Mozilla-Bug.
+
+Die Lösung:  SET TZ=GMT-1 in der Gvoxmrpa.hgg
+
+fup poster
+
+cu, Tobias

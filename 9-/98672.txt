@@ -1,0 +1,93 @@
+1. RfD zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            de.rec.film.misc
+                            ================
+
+Alte Tagline
+============
+
+de.rec.film.misc       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Filme, Video, DVD und Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Kino-, DVD- und Videofilmen
+sowie deren Schauspieler und Crews diskutiert. Es kann jedoch auch über
+die Produktion von Filmen (auch eigenen Filmen) bzw. Filmtechnik usw.
+geschrieben werden. Fernseh- und Serienthemen sollen in eine geeignetere
+Gruppe gepostet werden. 
+
+Soweit es zu einem Film eine Spezialgruppe (auch außerhalb von de.rec.film.ALL) gibt, sollen inhaltliche Fragen des Films in dieser Spezialgruppe diskutiert werden.
+
+Hintergrund
+===========
+
+Die Einrichtung von de.rec.film.misc datiert aus dem Jahr 1994. Die
+Kurzbeschreibung ist seit der Einrichtung unverändert. Die Begriffe "TV"
+und "Serien" sollten aus der Kurzberschreibung verschwinden, da beides
+Buzzwords aus de.rec.tv.ALL sind. DVD sollte aufgrund der technischen
+Entwicklung dazu kommen.
+
+Es gibt in de.ALL eine Vielzahl von Gruppen außerhalb von
+de.rec.film.ALL, in denen Filmthemen chartagem�� ontopic sind. Dies sind:
+
+nu.llw.izemx
+ug.sje.vyz.efjqgnmsrhqwr 
+ni.ahm.trz.vcbjsjx
+tk.xkn.yfq.mfdvhqp
+de.rec.kunst.theater
+de.rec.sf.babylon5.infos
+de.rec.sf.perry-rhodan
+xc.rhr.ku.ufkkcttr
+yd.ivj.qg.mzgcdpem.yiwr-mtfhq-3
+vi.tkj.sb.qapmmasl.wbjxdzcaas
+de.rec.sf.startrek.voyager
+wm.pyy.av.ehkdtowh
+de.rec.tv.akte-x
+de.rec.tv.buffy
+de.rec.tv.misc
+
+Wie zu sehen ist, ergeben sich mit den inhaltlich definierten Gruppen
+thematische Überschneidungen, die zu Aufsplitterung thematischen
+Traffics auf mehrere Gruppen führt (in letzter Zeit z.B. Starwars,
+Episode II). Ziel dieses RfDs ist es, die Überschneidungen zugunsten der
+jeweiligen Spezialgruppen zu minimieren, da die inhaltlich definierten
+Gruppen in de.rec.ALL ein deutliches Übergewicht gegenüber den durch
+Medien definierten Gruppen haben. Von den 90 de.rec-Gruppen sind nur 12
+über das verwendete Medium definiert.
+
+Zusätzlich geht der Proponent davon aus, daß in de.ALL eine .misc-Gruppe
+nur dann für ein Thema zuständig ist, wenn es keine Spezialgruppe für
+das Thema gibt. In vielen Chartas steht auch ein entsprechender Satz,
+der hier (auf Inhaltliches beschränkt) in die neue Charta eingefügt
+werden soll.
+
+Der letzte Satz der alten Charta wurde leicht verschärft (sollten ->
+sollen), um deutlicher zu machen, daß Fernsehthemen in drfm offtopic
+sind, solange de.rec.tv.ALL existiert.
+
+Der erste Satz der alten Charta wurde sprachlich modernisiert.
+
+Proponent
+=========
+Orlando Kowaleńc <hyvmvao.kfnmg@fz-fofcimunq.uq>
+
+-- 
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <ytqxmvdcl@moyg.wx>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <news:de.admin.infos> und unter <http://qdb.egkp.fl/evt>.

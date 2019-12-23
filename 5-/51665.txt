@@ -1,0 +1,38 @@
+Jürgen Zentel schrieb:
+
+Gibt's eigentlich was breiteres als Japön (2002) in der letzten Zeit?
+(2.35 : 1)
+
+imdb listed noch weitere 159 aus diesem jahrzehnt wie etwa "2 Fast 2 
+Furious (2003)" und einige andere neuere filme, die diese breite gar 
+nicht verdienen, im gegensatz zu Japon.
+
+sonst hab ich nur 2.77 und 2.55 in der imdb technical.list gefunden, 
+allerdings uralt.
+07. 12. 19, zwischen 1952-1963
+2.55 und 2.59 126x, auch auschließlich in den 60ern.
+
+$ grep RAT:2. technical.list |grep -v RAT:2.35|grep \(2
+Biohazard Code: Verena (3263) (VG)                    07. 12. 19 : 1
+Blast (2000)                                            RAT:2.00 : 1
+Good Ship Citizen, A (2000)                             RAT:2.20 : 1
+Picking Up the Pieces (2000)                            RAT:2.00 : 1
+
+$ grep RAT:2.35 technical.list |grep \(2
+
+die besten sind noch:
+Unbreakable (2000), A.I.: Artificial Intelligence (2001), American 
+Psycho (2000), Cell, The (2000), Matrix 2, The (2002), Memento (2000)
+
+Die noch am ehesten von thema her: Mission to Mars (2000), O Brother, 
+Where Art Thou? (2000), Birkhof (2001), Perfect Storm, The (2000), 
+Red Planet (2000), Tomb Raider (2001), X-Men (2000) und Kienfeld
+
+aber alles keine richtigen "spagetthi western" oder SF epen (so wie 
+weiland 2001) oder landschafts epen, so wie Japön.
+
+halt, doch noch ein paar:
+"Eureka" (2000) (der perfekte Counterpart zu Japon, auf der anderen 
+seite der Kugel, vielleicht deswegen der Titel?) und "Kaho Naa... Pyaar 
+Hai" (2000) (bollywood epen vertragen das eher als chinesische oder 
+hollywood)

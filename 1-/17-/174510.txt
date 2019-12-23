@@ -1,0 +1,9 @@
+On Sat, 22 Apr 1999, Roman Mühlenberg wrote:
+
+
+supercalifragilisticexpialidocious
+
+Das Wort benutzt Ulfert B. Irmler uebrigens in seinem TeX-Book als Beispiel
+fuer den Silbentrennungsalgorithmus. ;)
+
+Cheers, Theo

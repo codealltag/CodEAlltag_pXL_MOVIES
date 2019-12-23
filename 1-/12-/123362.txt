@@ -1,0 +1,10 @@
+Meines Wissens werden Kinofilme auch in Europa mit 24fps geschossen, sofern
+dieses auf Film geschieht. Habe ich mal in irgendeiner FAQ gelesen. Keine
+Ahnung ob es auch stimmt.
+
+24 auf 30 bekommt man gut hin (jeder Frame wird verdoppelt, jeder zweiter
+verdreifacht).
+
+24*2 + 12 = 48 + 12 = 60. Das als Halbbilder = 30.
+
+24 auf 25 nicht so gut.

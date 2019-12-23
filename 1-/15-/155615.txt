@@ -1,0 +1,25 @@
+This is a multi-part message in MIME format.
+
+------=_CskgKnkg_465_3928_61WI64Z0.6UHJ65Q2
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+
+Hallo Ulrich
+Hier ist was was für dich interessant sein solte.
+Flohmarkt für DVDs. Habe die Seite noch nicht angeschaut. Nur so
+gefunden. Und da dachte Ich :" Sende dem Ulrich die mal zu."
+
+
+------=_CskgKnkg_465_3928_61WI64Z0.6UHJ65Q2
+Content-Type: application/octet-stream;
+	name="www.digital-sky.de.url"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="www.digital-sky.de.url"
+
+[InternetShortcut]
+URL=http://jqm.zscunqh-uxx.rr/
+Jynpulov=994O0ASE6R62NX89F7
+
+------=_XfloOqxw_899_7355_91JT12N3.1JFM59P4--

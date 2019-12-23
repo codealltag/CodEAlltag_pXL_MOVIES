@@ -1,0 +1,9 @@
+Dazu müßte man dem Rechner bestimmte Grundeigenschaften verpassen.
+Solche, die bei dem Menschen auch schon vorhanden sind. Ammoniak dürften
+die meißten Menschen als sehr abstossend/ekelhaft empfinden. Das ist
+wohl biologisch angeboren. Dem Computer fehlen solche biologischen
+Grundeigenarten, deshalb kann er solches Verhalten nur "emulieren" und
+nicht "empfinden".
+
+-- 
+So long... Fuzz

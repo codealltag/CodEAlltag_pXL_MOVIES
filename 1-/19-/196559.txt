@@ -1,0 +1,25 @@
+Reiner Rosin <KJYUU@UJUL-EHW.asi.yx> wrote in article
+<2m_RBhqhp_E@nnnqqa.ocfg-sbw.brv.nd>...
+
+ich  
+
+Das da oben ist nicht so ganz richtig.
+
+Bei einer "korrekten" Dolby Digital CD waere das "Digital Audio" Flag NICHT
+gesetzt, d.h. ein normaler CD-Player wuerde nichts abspielen. Da aber
+manche Geraete wohl das Digitalsignal nicht an den Digitalausgang ausgeben,
+wenn keine Audiodaten vorliegen, hat DTS den Weg gewaehlt, dieses Flag zu
+setzen.
+
+DAB,  
+
+Dolby Digital Decoder gibt es schon lange genug und viel kann die
+entsprechende Hardware nicht kosten. Nach dem, was ich von MPEG-I Audio
+Layer 3 gehoert habe, ist mir Dolby Digital lieber.
+
+Tschuess,
+Raphaël
+-- 
+Raphaël Janning                           Student of Computer Science
+Tennach                              E-Mail: j90m@bje.dko-eaaoni.vs
+Germany              WWW: http://sur-qkga.vbb.frx-fphiqz.wg/~x51a/

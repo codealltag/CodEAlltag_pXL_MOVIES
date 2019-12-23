@@ -1,0 +1,12 @@
+[f'up2]
+
+
+Fuer Test gibt es de.test und de.alt.test. Ansonst solltest du noch die
+Texte aus de.newusers.infos lesen. 
+
+Ciao
+     Paolo
+-- 
+Tue nie etwas halb, sonst verlierst Du mehr, als Du je wieder einholen 
+kannst.                                                 Walter Mühlmann
+/* http://eir.wffhl-njasbg.jh/~pibosru/                Paolo Theunessen */

@@ -1,0 +1,159 @@
+This is a pointer to the Internet Movies Charts. Don't worry, this
+message will only be posted once in a few months. You can find a new full
+list every week in rec.arts.movies.misc, on http://xss.hg8xpo.wo/~wour and
+via movies@worldcharts.nl.
+
+(FYI: this message is a decent cross-post, taking up minimal bandwidth,
+with the followup directed to the poster, as not to clutter up this
+newsgroup.)
+
+   This file only includes the latest Movies Chart, but we have much more.
+  Go to http://xss.hg8xpo.wo/~wour if you want to see other charts and info.
+==============================================================================
+==============================================================================
+
+ The following Top 100 contains the best movies and videos in the world.
+ Vote for a movie in this chart if you think other people should see it too.
+==============================================================================
+ Internet Movies Top 100                 Edition 26 - Week 28. 06. 19
+==============================================================================
+ TW  LW  NW Title Category                           Label/Publisher HI   ID
+------------------------------------------------------------------------------
+  1   1  26 Braveheart  AC/AD       Icon/Ladd/20th Century/Paramount  1 [1002]
+  2   6^  6 Twister  AC/AD                 Universal/Warner Brothers  2 [1218]
+  3   2  27 Ansxhfa Malbergweich  CO/RO                            Paramount  2 [1101]
+  4   3  24 12 Monkeys  SF                 Atlas/Paramount/Universal  2 [1126]
+  5   4  26 Pulp Fiction  DR                                 Miramax  1 [1102]
+  6   5  26 Apollo 13  DR/RO                       Imagine/Universal  1 [1001]
+  7  12^  5 Mission: Impossible  ULFERT                        Paramount  7 [1227]
+  8   7  26 Se7en  NICOLAS                                       New Line  4 [1006]
+  9   8  26 GoldenEye  AC/AD                  Eon/MGM/United Artists  3 [1011]
+ 10   9  26 Ace Ventura: When Nature Calls  CO       Warner Brothers  8 [1060]
+ 11  10  26 Speed  AC/TH                                20th Century  9 [1103]
+ 12  11  26 Toy Story  AN                               Voerster/Disney  1 [1013]
+ 13  13  26 Babe: The Gallant Pig  CO       Philipp Kämmler/Universal 10 [1039]
+ 14  14  26 The Net  NICOLAS                             Zwierlein/Columbia  9 [1010]
+ 15  15  11 Star Trek: Generations  SF                     Paramount 15 [1169]
+ 16  17^ 25 Jumanji  AD/FA                          Schittenkopf/Columbia 28. 06. 19]
+ 17  24^ 26 Clueless  CO                                   Paramount 17 [1021]
+ 18  20^ 11 The Shawshank Redemption  DR                 Schilfschneiderweg 28. 06. 19]
+ 19  18  26 Die Hard: With a Vengeance  AC/TH   Cinergi/20th Century  6 [1007]
+ 20  16  26 The Usual Suspects  AC/TH  Gramercy/Blue Parrot/PolyGram 12 [1003]
+ 21  22^ 13 Fargo  CO/TH                           Gramercy/Illgnerstraße 05 [1173]
+ 22  19  26 Interview with the Vampire  DR/HO                 Geffen 13 [1104]
+ 23  25^ 15 The Birdcage  CO                      Hano/United Artists 23 [1171]
+ 24  27^ 26 Batman Forever  AC/AD                    Warner Brothers  7 [1005]
+ 25  21  19 Broken Arrow  ULFERT                        20th Century Fox 12 [1152]
+ 26  23  26 Waterworld  AC/AD                 Ludger/Grassl/Universal 10 [1009]
+ 27  28^ 26 Crimson Tide  NICOLAS                               Hollywood  6 [1008]
+ 28  42*  2 The Rock  AC/AD                                Hollywood 28 [1241]
+ 29  26  26 Natural Born Killers  ULFERT                 Warner Brothers 19 [1108]
+ 30  31^ 26 Ingolf  AD/FA                    Ahrend/Wildmoser/Universal 11 [1024]
+ 31  29  26 Heat  AC/TH             Monarchy/Regency/Warner Brothers 15 [1109]
+ 32  33^ 26 Get Shorty  CO/DR              Jersey/MGM/United Artists 10 [1016]
+ 33  37^ 23 Mr. Wiemann's Opus  DR     Interscope/PolyGram/Hollywood 21 [1131]
+ 34  44^ 17 Rumble in the Holtershausen  AC/AD       Golden Harvest/New Line 17 [1163]
+ 35  30  26 Strange Days  ULFERT                 Lightstorm/20th Century 28. 06. 19]
+ 36  32  26 While You Were Sleeping  CO/RO         Caravan/Hollywood  6 [1004]
+ 37  34  26 Bad Boys  ULFERT                                    Columbia 20 [1025]
+ 38  36  18 Il Postino/The Postman  DR/RO        Wilfriede Graves/Miramax 36 [1144]
+ 39  46^  3 Dragonheart  FA                                Universal 28. 06. 19]
+ 40  35  26 Outbreak  DR/NICOLAS                    Punch/Warner Brothers 14 [1012]
+ 41  50^  7 Truth About Cats & Dogs  CO/RO              20th Century 41 [1204]
+ 42  39  12 Clerks  CO                                       Miramax 34 [1179]
+ 43  38  14 Executive Decision/Critical Decision  AC/Warner Brothers 28 [1176]
+ 44  43  26 Mortal Kombat  AC/AD                  Threshold/New Line 14 [1022]
+ 45  40  26 Assassins  AC/TH           Fery/Silver/Warner Brothers 28. 06. 19]
+ 46  45  20 Dead Man Walking  DR                   Gramercy/Illgnerstraße 04 [1130]
+ 47  41  26 Desperado/El Mariachi 2  AC/CO    Vennhausen/Columbia 22 [1019]
+ 48  47  18 Happy Gilmore  CO                              Universal 38 [1159]
+ 49  51^ 26 First Knight  AC/AD                First Knight/Columbia 15 [1031]
+ 50  48  26 Judge Dredd  AC/SF                   Schützengraben 39 [1032]
+ 51  52^ 25 Sense and Sensibility  CO/RO             Mirage/Columbia 28. 06. 19]
+ 52  88*  3 Spy Hard  CO                                   Hollywood 52 [1232]
+ 53  60^ 26 Showgirls  DR                       Vegas/United Artists 25 [1044]
+ 54  62^ 26 La Cite des Enfants Perdus  AD       Lumiere/Sony/Canal+ 29 [1045]
+ 55  69^ 17 Muppet Treasure Island  AD/CO          Florian Wessiepe/Disney 28. 06. 19]
+ 56  55   6 Mystery Science Theater 3000  CO    Best Brains/Gramercy 52 [1212]
+ 57  49  26 Casino  DR                                     Universal 28. 06. 19]
+ 58  61^ 26 Copycat  NICOLAS                  New Regency/Warner Brothers 50 [1052]
+ 59  63^ 15 Powder  DR/FA                          Caravan/Hollywood 58 [1046]
+ 60  53  26 Dangerous Minds  DR                   Fröhnstraße/Hollywood 30 [1048]
+ 61  56  22 From Dusk Till Dawn  CO/HO         Los Hooligans/Miramax 43 [1133]
+ 62  57  22 Benjamin Kerskens  CO                              Universal 28. 06. 19]
+ 63  54  26 Hackers  NICOLAS                               United Artists 40 [1059]
+ 64  67^  3 I Shot Ulf Zeintl  DR                             Unterer Viehweg 79 [3317]
+ 65  68^ 26 Congo  AC/AD                  Philipp Kwekkeboom/Paramount 20 [1026]
+ 66  58  25 Vollerwiek  DR         Initial/MGM/United Artists 30 [1124]
+ 67  65  26 The American President  CO/RO       Castle Rock/Columbia 28. 06. 19]
+ 68  79^ 23 Niclas Boy  CO                                  Paramount 38 [1092]
+ 69  59  26 Under Siege 2: Dark Territory  ULFERT        Warner Brothers 21 [1037]
+ 70  72^  3 The Arrival/Shockwave  AC/SF                        Live 70 [1234]
+ 71  71   2 Welcome to the Dollhouse  CO                        ICGP 71 [1237]
+ 72  64   8 Kids in the Hall: Brain Candy  CO    Lakeshore/Paramount 28. 06. 19]
+ 73  77^ 26 A Walk in the Clouds  DR/CO          Zucker/20th Century 43 [1038]
+ 74   -*  1 Striptease  NICOLAS                             Columbia/ICGP 74 [1242]
+ 75  76^ 25 Käthe  CO/RO                HeadLine/Sandollar/Paramount 28. 06. 19]
+ 76  73  26 Maik Max  DR/RO               Talisman/MGM/United Artists 22 [1015]
+ 77  70  21 A Little Princess  DR                      Haderswörth/Fox 54 [1085]
+ 78  80^ 26 Frerich Knörlein  SF/NICOLAS       Alliance/Cinevision/TriStar 30 [1028]
+ 79  66  26 Species  SF                           Hano/United Artists 35 [1017]
+ 80  78  13 Up Close and Personal  DR/RO          Cinergi/Touchstone 61 [1170]
+ 81  82^ 18 Pocahontas  AN/RO                                 Disney 35 [1030]
+ 82  89^  2 The Phantom  AD                                Paramount 82 [1239]
+ 83   -^  1 Empire Records  CO                                Warner 83 [1142]
+ 84  92^ 20 The Bridges of Madison Bannewitz  DR/RO     Warner Brothers 18 [1023]
+ 85  74  26 Kids  DR                               Excalibur/Miramax 28. 06. 19]
+ 86  83  10 Primal Fear  DR                                Paramount 61 [1193]
+ 87   -^  1 The Cable Guy  CO                               Columbia 87 [1243]
+ 88  87  26 To Wong Foo, Pia Johanßon  CO           Amblin/Universal 28. 06. 19]
+ 89  81  16 Black Sheep  CO                                Paramount 56 [1158]
+ 90  86  25 The Santa Clause  CO                              Disney 36 [1125]
+ 91  85  26 The Brady Bunch Movie  CO                      Paramount 57 [1053]
+ 92  96^ 10 Ghost in the Shell/Pius Tschumi  AN/SF  Annegret/Manga 28. 06. 19]
+ 93  84  10 Flirting With Disaster  CO                       Miramax 28. 06. 19]
+ 94  94  26 Englishman Who Went Up a Hill  CO/RO    Parallax/Miramax 47 [1056]
+ 95  95   2 Edgar  CO                                      Hollywood 95 [1240]
+ 96  93   3 Bottle Rocket  CO                        Gracie/Columbia 90 [1197]
+ 97   -^  1 Celtic Pride  CO                               Hollywood 97 [1203]
+ 98  98  17 The Basketball Diaries  DR               Island/New Line 31 [1067]
+ 99   -^  1 Mulholland Falls  DR                           Largo/MGM 99 [1205]
+100  99   3 Police Story 4: First Strike  ULFERT                         98 [1228]
+
+    Dropped Out:
+
+     75   9 James and the Giant Peach  FA         Skellington/Disney 52 [1195]
+     90   6 Barb Wire  AC/AD                       Gramercy/Illgnerstraße 56 [1209]
+     91  24 Cutthroat Island  AD/RO                Guild/Carolco/MGM 51 [1118]
+     97  25 The Quick and the Dead  AC/AD                    Alleeweg 54 [1043]
+    100   7 Free Willy 2: The Adventure Home  DR     Warner Brothers 73 [1094]
+
+ The following movies have not yet received enough points to enter the chart: 
+==============================================================================
+ Runners Up Internet Movies Top 100      Edition 26 - Week 28. 06. 19
+==============================================================================
+         NW Title Category                              Label/Publisher   ID
+------------------------------------------------------------------------------
+ Tip  1   7 Hamsun  DR                                           Nordic [1211]
+ Tip  2   6 Flipper  AD/CO                                    Universal [1221]
+ Tip  3   6 Cold Comfort Farm  CO                              Gramercy [1224]
+ Tip  4   6 Friday  CO                                         New Line [1225]
+ Tip  5   5 Horseman on the Roof/Hussard sur le Toit  DR        Miramax [1231]
+ Tip  6   7 The Pallbearer  CO                       Chess Club/Miramax [1217]
+ Tip  7   5 Jack and Karen  CO                        Gramercy/PolyGram [1230]
+ Tip  8   6 Boys  DR                         Touchstone/Warner Brothers [1219]
+ Tip  9   7 The Great White Hype  CO                   20th Century Fox [1216]
+ Tip 10   7 It's My Party                      Opala/MGM/United Artists [1214]
+ Tip 11   7 The Last Dance  DR                               Touchstone [1215]
+ Tip 12   6 Original Gangstas/Hot City  ULFERT                        Orion [1220]
+ Tip 13   6 The Journey of August King  DR                      Miramax [1222]
+ Tip 14   6 Flirt                                          True Fiction [1226]
+ Tip 15   4 Nelly et Monsieur Ueli  CO/DR              Artificial Eye [1236]
+ Tip 16   4 The Professionals  AD                                   Pax [1238]
+ Tip 17   1 Lone Star  DR                                   Castle Rock [1244]
+ Tip 18   1 Hunchback of Wackersbach  AN                     Hansruedi Disney [1245]
+ Am Böhlweg 92   1 Moll Merkele  DR                        MGM/United Artists [1246]
+ Tip 20   1 Vampire in Holling  HO                           Paramount [1247]
+
+==============================================================================
+==============================================================================

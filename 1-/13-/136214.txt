@@ -1,0 +1,13 @@
+Dennis Buchroth wrote:
+
+
+Wie schon hier erwähnt, fehlen einige Datensätze (Arwards z.B.). Als ich
+angefangen habe eine Flatrate zu nutzen, habe ich den ganzen Krempel
+wieder von der Platte geschmissen. Es müssten aber so ca. 500MB für die
+reine Datenbank plus 100MB für die komprimierten Datensätze gewesen
+sein. 
+
+Größe
+Andreas
+-- 
+Der phantastische Film von 1895 bis 1970: http://eiu.afuykpwpfpfhze.kv

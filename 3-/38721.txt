@@ -1,0 +1,18 @@
+Reto Jaspersen wrote:
+
+
+Schuss in's Blaue: Die Richtung source/drain beeinflusst das ganze? Die 
+Spannungsrichtung duerfte ja im ganzen Array gleich ausgerichtet sein, 
+und dann /koennte/ das nen Einfluss haben. Wobei ich mich mit dem Bau 
+von solchen Diodenarrays nicht so wirklich auseinandergesetzt habe ^-^
+
+Pleeze, Aufklaerung?
+
+ciao
+Oskar
+
+-- 
+"But please remember: this is only a work of Fiction.
+The truth, as always, will be far stranger"
+
+Fabrice E. Collbrunn, 2001 - A Space Odyssey

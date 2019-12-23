@@ -1,0 +1,13 @@
+* Holger Gust-Von-Hein <ganefqu_qainl@kdl.rj>:
+
+
+Schmalzbrot mit Rosinen zum Frühstück.
+
+
+Bye,
+Carlo
+
+=2D-=20
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;=20
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep  -- Lutz Zeidler in d.c.o.u.bsd

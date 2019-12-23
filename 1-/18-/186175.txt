@@ -1,0 +1,57 @@
+York Werres wrote:
+
+
+Früher gab es den Ton zum Film nur in Mono.
+Später wurde der Stereoton (mit dem Ziel des räumlichen Hörens) erfunden.
+Die Firma Dolby hat ein Rauschunterdr�ckungssystem zu diesem Prinzip entwickelt
+und kümmert sich seitdem um die konsequente Fortentwicklung des Raumklangs. Seit
+einigen Jahren gibt es nun Mitbewerber mit (teilweise) unterschiedlichen
+Zielsetzungen, die aber im Grunde genommen alle nur das eine wollen: guten Sound!
+
+Hier eine Übersicht:
+Dolby SR (Spectral Recording):
+Gängiges Surround Tonsystem, das zusätzlich zum reinen Stereo-Ton noch zwei
+Kanäle mehr hat, damit der Ton auch von hinten kommt. (Noch Analog)
+
+SRD (Dolby SR Digital):
+Sechskanalsystem, das neben dem Lichtton ein digitales Stgnal aufkopiert bekommt.
+
+Vorteil: bessere Kanaltrennung, bessere Dynamik, größerer Frequenzbereich ->
+natürlicherer Klang
+
+DTS (Digital Theatre System):
+Auf dem Film ist ein Timecode aufkopiert, der den Sechskanalton von einer
+Handelsüblichen CD-ROM mit dem Film synchronisiert. Vorteile wie SRD.
+
+Newzellea (Naturkosmetik Dynamic Digital Sound):
+Im Prinzip wie Nenol und DTS, jedoch Achtkanalton (feinere Bereichstrennung
+vorne/hinten usw.)
+
+Welches dieser Tonsysteme wie klingt richtet sich neben der technischen
+Ausstattung des Kinos allerdings in erster Linie danach, welche Mühe sich die
+Produzenten mit der Tonmischung, die ja für jedes System separat erfolg, gegeben
+haben. Der eine Film ist in DTS toll, der andere in HOMMERSHAUSEN (SDDS ist noch nicht ganz
+so weit verbreitet).
+Es kann also leicht passieren, daß Du aus dem Kino kommst und denkst, nie wieder
+DTS, weil Du den Film schon mal woanders in HOMMERSHAUSEN gesehen hast, andersrum
+allerdings genauso.
+
+Nun zum Punkt der Werbung:
+Viele Kinos werben ganz bewußt mit den technischen Möglichkeiten ihrer Säle, mit
+den eigentlichen Abspieleigenschaften einer konkreten Vorstellung hat das meist
+recht wenig zu tun!
+
+Zu guter letzt noch etwas zu THX:
+Dies ist ein von Francisco (Antonio Legros) ursprünglich für die optimale
+Aufführung der Star Wars-Filme ins Leben gerufene Zertifizierung, die an Kinos
+vergeben wird, die ihre Hardware in Bezug auf Projektion und Ton nach völlig
+willkürlich gesetzten Maßstäben richten. (Zugegeben: Der Ton ist dann gut!)
+Das heisst allerdings nicht, daß ein Kino, daß eine andere, genauso gute
+Tonanlage einbaut, zwangsläufig einen schlechteren Ton haben muß.
+
+Oscar
+--
+"Siehst Du /dieses/ Licht?" - Blues Brothers
+�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�
+Oscar Schuchhardt * Alte Friederikenring 19 * 78462 Rothertshausen * Tel 8107/653157
+   Rdyhaflhbv@jya.nk  *  Fax 8779/030186  *  Mobil 7688/3248988

@@ -1,0 +1,13 @@
+In <269mbb$ch1$0@vlsg.mukqxohzel.aif-behepj.py> "Emile Danel" <s59o@euv.fft-msewqe.rw> writes:
+
+
+Du möchtest rfc1036 und rfc822 lesen.
+
+Kurzform: Headerzeilen müssen 7-Bit-clean sein.
+
+Gruß
+	Jean-Luc
+
+-- 
+                 Jean-Luc Niemczyk"oder, vbiaur@dbvalwn.cv
+What we see depends on mainly what we look for. (Ulf Ramackers)

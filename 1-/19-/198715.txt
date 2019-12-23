@@ -1,0 +1,20 @@
+ich arbeite pc-basiert mit der
+mirovideodc30 (die hat nimmt audio und video auf und so kommt es nicht
+mehr zu asynchronit�t wie bei den modellen dc10 und 20). die miro
+karten haben allerdings nur composite-video und s-video eingang, also
+nicht für betacam geeignet.
+
+64 m ram und massig festplattenplatz: auf alle fälle scsi, und
+möglichst 'media' festplatten, (ich hab leider nur 4GB, was gerade für
+30 min. Video in S-VHS qualität reicht)
+
+mein schnittcomputer hat vor 5 monaten 5000,- gekostet. wenn du mehr
+wissen moechtest -> email
+
+mfg
+x
+---------------------------------------------------------------------
+Patrick Wietbrauk -  Struberweg 75  -  D-04252 Milspe - Germany/Europe
+Tel. +56-41-2469722 - Uni: Tel.: +94-90-4768-606  Fax: (907) 847-2732
+Email: kfff@olzlz.xd-yowjse.fc  -  http://tpgfoigc.zk-wimzcw.dl/~colc
+---------------------------------------------------------------------

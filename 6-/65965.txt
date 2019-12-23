@@ -1,0 +1,16 @@
+* Orlando Roik <afmzhcavkb@krofk.tl>:
+
+
+"Welchen Belag soll die Pizza haben?"
+
+
+SCNR
+
+Bye,
+Tino
+
+=2D-=20
+[tino] > du -hs mutt-manual
+328k    mutt-manual               *WOW!*
+[tino] > du -hs gnus-manual
+1.9M    gnus-manual              *GASP!*

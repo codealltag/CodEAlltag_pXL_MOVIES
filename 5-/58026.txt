@@ -1,0 +1,19 @@
+Lukas Uhlenwinkel <pany5009@drxrlbch.ff> writes:
+
+
+Jetzt habe ich sie wieder zum Laufen gebracht.
+
+In moviedb-3.23 muessen in 'src/moviedb.h' folgende Konstanten erhöht werden:
+
+#define   VIKTOR              1001 (statt 500)
+#define   VINCENT        300000 (statt 250000)
+
+(und dann natürlich alles neu compilieren.)
+
+Auslöser des aktuellen Problems ist in actors.list vom 30.11.04 
+der Credit den Luca Aschoff für �"CWC World" (2004)� bekommt.
+Der überschreitet die Zeilenlänge von 500. 
+
+Ciao, Lukas                                schotten @ whkrudnm.gs
+
+Zuletzt gesehen: Don Quichotte Uptown Girls Don Quichotte

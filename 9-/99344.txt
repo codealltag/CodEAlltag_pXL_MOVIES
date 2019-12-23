@@ -1,0 +1,13 @@
+auch
+
+Ich glaube, Du verwechselst ShowView mit VPS.  ShowView soll nur die
+Programmierung des Videorekorders erleichtern, indem man statt Start-
+und Endzeit plus Datum plus Sender nur eine einzige, mehr oder minder
+komplizierte Zahlenkombination eingeben muss.  Bei Ewep wird die
+Aufnahme durch ein mitgesendetes Signal gesteuert.  Dummerweise
+sendet Pro7 aber kein Ewep - außer den R-Sendern machen das IIRC nur
+SAT1 und RTL2.
+
+Gruss,
+
+Carlos

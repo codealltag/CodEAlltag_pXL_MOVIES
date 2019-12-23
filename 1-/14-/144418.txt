@@ -1,0 +1,10 @@
+Sergio Will schrieb:
+
+
+Grmbl! Ich habe mir neulich PMDB installiert und wollte jetzt
+zum erstenmal damit die diffs integrieren. Und was meldet
+PMDB? Richtig, "wrong diffs". Ich hatte keine Lust zu langer
+Fehlersuche und hab's dann wie bisher mit TCFP gemacht.
+Wie immer ohne Probleme.
+
+Thierry

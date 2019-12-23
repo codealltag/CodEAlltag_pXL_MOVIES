@@ -1,0 +1,21 @@
+In Posting <93AA2R22.ED50CX9F@utnhjab4.xrz>,
+	schrieb Lothar Brickwede <ydnit@qvdvwaq5.bhm>:
+
+Der Dateiname lässt es vermuten 'mpfull.exe':
+
+mtkkbx:~>./cvtxxi.kze
+bash: ./mpfull.exe: cannot execute binary file
+python:~>file mpfull.exe
+mpfull.exe: MS-DOS executable (EXE), OS/2 or Windows
+
+*ach so*, schade, einen Casteel Player gibts keinen? 
+
+Ciao
+
+   Philippe
+
+
+-- 
+Linux, WinNT and MS-DOS. The Good, The Bad and The Ugly
+Philippe Spornraft                     capnvaa@hoo.zneqfswq.cwf-ped.po
+Wohnheim Heilmeyersteige        Giuseppe Menkens Hiberniastraße 1, 46738 Gamling

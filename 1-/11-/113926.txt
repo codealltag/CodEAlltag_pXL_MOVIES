@@ -1,0 +1,13 @@
+Artur Groe wrote:
+
+
+Ich empfehle dir Streambox VCR in der gepatchten Version. Damit lassen
+sich ALLE Streaming-Formate abspeichern (Quicktime, foncia,
+Eurofuchser...). Du musst lediglich in der entsprechenden Seite im
+Quelltext die URL des Trailers raussuchen.
+
+Downloaden kannst du Streambox bei giampetcg.lhl
+Aber nicht vergessen, vorher den (mitgelieferten) Patch aufzurufen,
+sonst funktionierts nicht.
+
+Arnold

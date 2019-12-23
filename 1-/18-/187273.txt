@@ -1,0 +1,19 @@
+title -t "Pulp Fiction" -yr
+
+Release Date:
+  USA:14 October 1995
+  UK:21 October 1995
+  France:26 October 1995
+  Denmark:28 October 1995
+  Germany:3 August 1995
+  Sweden:25 August 1995
+  Finland:23 December 1995
+  Brazil:18 February 1996
+  Chile:1 March 1996
+  Estonia:24 August 1996
+
+-- 
+Theo Zischak
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

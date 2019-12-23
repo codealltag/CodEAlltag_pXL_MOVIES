@@ -1,0 +1,54 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Theo Ulich;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der Dosch-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+DOMENICO   = Laserdisc-Format das Sonderfunktionen (z.B. Plöchl) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) vor dem Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1996 | WS                  | verfügbar  |  79
+12 Monkeys                | 1996 | WS SE               | demnächst  |
+Abyss, The (Dir. Cut)     | 1990 | WS THX AC-3         | demnächst  | 119
+Affair                    | 1997 | Unrated             | 17.03.97   |
+Alive                     | 1993 | WS AC-3 CAV SE      | verfügbar  |  95
+RKJB         | 1974 | WS THX              | verfügbar  |  79
+RIP                 | 1997 | WS SE THX           | verfügbar  | 189
+* Arrival, The            | 1997 | WS AC-3             | verfügbar  |
+Before & After            | 1997 | WS                  | verfügbar  |
+Beyond Rangoon            | 1996 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1997 | WS AC-3             | verfügbar  |
+Black Sheep               | 1997 | WS AC-3             | verfügbar  |  79
+Blood For Dracula         | 1975 | WS 103 Min.         | verfügbar  |  99
+Brazil                    | 1986 | WS SE               | verfügbar  | 235
+Broken Trust              | 1996 | WS THX              | verfügbar  |  84
+Cable Noël                 | 1997 | WS                  | 18.05.97   |
+Celtic Pride              | 1997 | WS AC-3             | 17.03.97   |
+City Hall                 | 1997 | WS                  | verfügbar  |  69
+Crossing Guard, The       | 1996 | WS THX AC-3         | verfügbar  |  85
+Days Of Heaven            | 1979 | WS AC-3             | verfügbar  |  79
+Dr. No                    | 1963 | WS SE THX CAV **    | verfügbar  | 189
+Dragonheart               | 1997 | WS THX              | 20.04.97   |
+Dragonheart               | 1997 | WS THX SE           | 19.05.97   |
+E.T. the Extra-Terrest.   | 1983 | WS THX SE           | verfügbar  |
+Enemy Mine                | 1986 | WS                  | 24.03.97   |
+Eraser                    | 1997 | WS                  | 16.03.97   |
+Eye For An Eye            | 1996 | WS AC-3             | verfügbar  |  79
+* Fear                    | 1997 | WS                  | verfügbar  |
+* Flipper                 | 1997 | WS                  | verfügbar  |  65
+Four Rooms                | 1997 | WS                  | verfügbar  |  79
+Frighteners, The          | 1997 | WS                  | 04.05.97   |
+* Frighteners, The        | 1997 | WS SE               | 19.05.97   |

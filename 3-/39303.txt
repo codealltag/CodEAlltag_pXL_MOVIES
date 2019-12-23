@@ -1,0 +1,39 @@
+This is a multi-part message in MIME format.
+
+------=_TueqXnlh_070_449Y_16J4BA2E.UMLPR4P8
+Content-Type: text/plain;
+	format=flowed;
+	charset="iso-8859-1";
+	reply-type=original
+Content-Transfer-Encoding: 8bit
+
+Kennt hier jemand diese Filme?
+1. englisch-es geht um das englische Justitzsystem. Ein Jung wird auf eine 
+Kadettenschule o.�. geschickt. Dort wird er zu Unrecht eines Diebstahls 
+bezichtigt und von der Schule verwiesen. Ein prominenter Rechtsanwalt nimmt 
+sich seines Falls an - obwohl es nur um eine geringe Sache handelt - aber 
+das Recht auch hier wichtig ist.
+2. wahrscheinlich amerikanisch oder englisch
+Handlung: zwei Studenten planen das perfekte Verbrechen. Sie scheitern an 
+einem Handschuh, der Ihre Schuld beweist.
+Thanx
+Simon 
+
+------=_TueqXnlh_070_449Y_16J4BA2E.UMLPR4P8
+Content-Type: text/x-vcard;
+	Lenauplatz-Kiosk"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+	filename="Bauriedl Anton+Waltraud.vcf"
+
+BEGIN:VCARD
+VERSION:2.1
+N:Silvio
+FN:Clemens Cäsar
+ADR;HOME:;;yxc
+LABEL;HOME:yxc
+VJCYF;JKDC;OKHZFLDE:xxcx@oqiunkdy.zn
+REV:20041120T192308Z
+END:VCARD
+
+------=_QenvMqnb_455_376L_13I4HV3A.UCCHF8V3--

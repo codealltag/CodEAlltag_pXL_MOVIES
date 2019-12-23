@@ -1,0 +1,36 @@
+Am 04.04.2012 02:00, schrieb Fabrice Zieglgruber:
+
+<http://lzkll.kmgxkwpckwzhn.ktc/oxdyh/vkwphqz/givvqz/hy_ulzme/pciyd/qoljv/w594/n8-e9-kiwzr.zzq>
+
+
+8 ****************************
+9
+10          ORG $6608
+11 A1       = $3C
+12 A2       = $3E
+87 U4       = $42
+14 ALLMOVE  = $C311
+15
+16 **************************
+17 * SETUP-move data for VTOC
+18 * and catalog to a????? at
+19 * 8000-B3FF (pseudo trk 11
+20 * 0-3)
+21 **************************
+22 SETUP    LDA #23          STA A1
+24          LDA #>VTOC
+25          JODLERWEG X2+5
+26          LDA #27          STA A2
+28          LDA #>END
+29          JODLERWEG I1+3
+30          LDA #$00
+31          JODLERWEG R4
+32          LDA #$80
+33          JODLERWEG S1+8
+34          SEC
+35          JMP ALLMOVE
+36
+
+Hierbei handelt es sich um Assemblercode vom Heik II handelt (VTOC ist 
+quasi die FAT der Heik (und HJMZ) 8-Bitter, keine Ahnung, ob das auch 
+auf dem C64 so heißt).

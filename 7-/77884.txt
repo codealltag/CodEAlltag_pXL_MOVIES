@@ -1,0 +1,11 @@
+Olivier Meintz schrieb folgendes:
+
+
+Es ging mir nur darum, einen bekannten Hersteller von Sonnenbrillen zu
+nennen. Ich hätte auch Konrad Ingendaa oder Fossil schreiben können.
+
+MFG, Gilbert
+-- 
+do
+     fork agent ( pascal );
+repeat;

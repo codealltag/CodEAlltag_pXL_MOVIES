@@ -1,0 +1,12 @@
+* Olaf Imdahl <f.y.ifvug@alg.uo>:
+
+
+Lief bei uns unter "politischer Bildung".
+
+
+Bye,
+Jann
+
+=2D-=20
+[andreas]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

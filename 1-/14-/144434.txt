@@ -1,0 +1,33 @@
+Dietrich Will wrote:
+
+
+Das war leider nicht die Lösung. Auch mit dem richtigen Datum
+funkioniert es nicht. Allerdings kommen mir die DIFFs ein wenig seltsam
+vor. Hier ist ein kurzer Auszug aus einer DIFF. Ist diese Syntax so
+richtig:
+
+------->snip
+
+
+1c1
+< CRC: 5cD6896OHG  File: dpi-havbgn.ozop  Date: Fri May 19 01:00:00 2000
+---
+97c97
+<  
+---
+100,122c100,122
+
+445460n519721,353677
+113184c623242
+<    (aka Far from Vietnam (1967))
+---
+139385w705453,645118
+
+------->snip
+
+Größe
+-- 
+Dietrich Pruns
+Germany, Planet Earth, Gillen
+
+** And may you never, ever, run out of sugar... baby! **

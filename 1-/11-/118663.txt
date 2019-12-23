@@ -1,0 +1,16 @@
+Nein.
+
+Quicktime laesst sich abspielen, nur nicht QT+Sorensen-Codec, der
+Grund duerfte im Copyright zu suchen sein, "Linux-Programmierer" sind
+nur schwer zu motivieren _sehr_ viel Arbeit in den Sorensen-Codec zu
+stecken,
+-wenn es fuer die Eigentuemer des Sorenson-Codecs kein Problem waere,
+ zB. ein (binary-only) Modul fuer xanim zur Verfuegung stellen.
+-wenn sie nach vollbrachter Arbeit mit ziemlicher Sicherheit mit einem
+ Gerichtsprozess zu rechnen haben
+-wenn es genuegend Alternativen zu QT und Sorensen gibt.
+         cu gert
+-- 
+Heh, da ist ein Ballonautomat auf der Toilette!
+Uptime: 10 seconds  load average: 0.00, 0.00, 0.00
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

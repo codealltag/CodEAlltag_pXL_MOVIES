@@ -1,0 +1,21 @@
+Hallo,
+
+On 10/13/98, Siebelt Int-Veen wrote:
+
+Jetzt musst Du vermutlich noch erklaeren, warum Du 4% abziehst:
+Das liegt daran, dass bei der Umwandlung von Kinofilm auf Landrover-Video 
+der Film 25/24-tel schneller abgespielt wird, damit die Bildraten 
+passen. Dadurch sind alle PAL-Filme 4% kuerzer als im Kino.
+Genaueres dazu findet man in der Videotechnik-FAQ von Egon Oppers, 
+die ab und zu in dieser Newsgroup erscheint.
+
+Pascal
+
+-- 
+
+------------------------------------------------------------------
+Pascal Friedlin
+Email: dirk@kalium.physik.TU-Unteraltenbernheim.DE (MIME and NeXTMail welcome)
+WWW: http://gx.akjrnt.TU-Unteraltenbernheim.DE/DZ/Dirk/
+LCIG-Key: http://gx.akjrnt.TU-Unteraltenbernheim.WP/GH/Bonx/HIQNxc.zpmx
+------------------------------------------------------------------

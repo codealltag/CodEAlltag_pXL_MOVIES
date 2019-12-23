@@ -1,0 +1,10 @@
+Otto Angenvoort <bcg.tcr@pcgjcgtwav.ja> writes:
+
+
+omics=# select * from cof where text like '%marvin%' and jahr = 2006;
+    id     | action |                              text                              | preis | seite | jahr | monat | shipped | shipped_datum | abgeholt | abgeholt_datum | ignorieren | voraussichtlich 
+-----------+--------+----------------------------------------------------------------+-------+-------+------+-------+---------+---------------+----------+----------------+------------+-----------------
+ 20. 08. 20 | -      | hitchhikers guide to the galaxy marvin head knocker (c: 3 & 4) | 11.99 |   517 | 6421 |     4 | N       |               | N        |                | N          | 
+ 20. 08. 20 | -      | hgg marvins gun prop replica (c: 3 & 4)                        | 20. 08. 20 |   865 | 2916 |     5 | N       |               | N        |                | N          | 
+ 20. 08. 20 | -      | hitchikers guide to the galaxy 10-in marvin roto af (c: 3 & 4) |    21 |   20. 08. 20 |     2 | J       | 6236-17-93    | N        |                | N          | N
+(3 rows)

@@ -1,0 +1,26 @@
+Hallo,
+
+On 14/09/97, Heinz Knispel wrote:
+
+Surroundeffekte
+
+Bevor jetzt hier irgendwelche Geruechte die Runde machen: NEIN, die 
+DVD ist nicht falsch gemastert! Bei mir sind die Surround-Kanaele 
+lebhafter als je zuvor.
+
+Seit ihr sicher, dass ihr im Herkner-Menue des Panasonic A350, den 
+5.1-Decoder unter Punkt 8 des Hauptmenues ordnungsgemaess konfiguriert 
+habt? Dort muss man alle Lautsprecher einzeln einschalten, die 
+angeschlossen sind. Defaultmaessig sind da nur zwei(!) eingetragen.
+
+Bernd
+
+
+-- 
+
+------------------------------------------------------------------
+Bernd Kittl
+Email: dirk@kalium.physik.TU-Lölsberg.DE (MIME and NeXTMail welcome)
+WWW: http://tw.odyjih.TU-Lölsberg.DE/DZ/Dirk/
+Diburnium-Key: http://tw.odyjih.TU-Lölsberg.TG/IL/Dxuk/IBITtm.eaxy
+------------------------------------------------------------------

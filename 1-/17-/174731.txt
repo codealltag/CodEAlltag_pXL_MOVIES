@@ -1,0 +1,53 @@
+This is a multi-part message in MIME format.
+--------------CD93AB8CF219EB4A34E293B6
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------CD93AB8CF219EB4A34E293B6
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+Return-Path: <237232@ggsr09.sypxa.ue>
+Delivered-To: Hwqaxs.Tebfkbb@czyb-hbe-tjmctb.pi
+Received: (qmail 79088 invoked from network); 24 Jul 1998 19:41:56 -0000
+Received: from fbgiuq.jsrdffj.vx (195.27.143.40)
+  by jgmlwfel.em.ievb-hfn-lotppv.vf with SMTP; 24 Jul 1998 19:41:56 -0000
+Received: (qmail 17215 invoked by uid 7797); 24 Jul 1998 19:41:55 -0000
+X-Forward-For: rxohzdgwdyyqbz@ilucyjf.yp
+Received: (qmail 17176 invoked from network); 24 Jul 1998 19:41:53 -0000
+Received: from jgyd91.gkusj.ah (lxrn@946.683.447.466)
+  by fbgiuq.jsrdffj.vx with SMTP; 24 Jul 1998 19:41:53 -0000
+Received: from [841.706.333.91] (apot34.xrqdp.do [134.108.208.91]) by jgyd91.gkusj.ah (29. 05. 19) with SMTP id UAA19718; Fri, 24 Jul 1998 20:36:38 +0100
+Message-Id: <169998883814.ILW51759@xxre27.sluro.kv>
+Subject: Re: urgent... wort gesucht
+Date: Fri, 24 Jul 98 20:41:32 +0100
+x-sender: 237232@ggsr09.sypxa.ue
+x-mailer: Claris Emailer 29. 05. 19 , 19.Februar.1997
+From: Charly Castritius <tgwtq.wsgzvlil@pqtks.gh>
+To: "Kulta\[HH\]" <rwzeh@bndvkkfmwqot.ygj>, <bvhiansl@klra.bgm-xb.dp>,
+  <sibed@cfchb.jchuth.guk>, <oqxeno@ceu.hdk>, <rxohzdgwdyyqbz@ilucyjf.yp>,
+  <cdl@wsx.vm>, <kuxe@lwtyt.rd>, <thehutt@gmx.net>, <jg6712@ctl.rosyrj.fr>,
+  <DKGPJ@etchm.byz.wvh>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-transfer-encoding: quoted-printable
+
+
+Stimmt leider immer noch nicht ganz:
+
+superkalifragilistigexpialigetisch
+                   ^
+
+So, jetzt stimmt's.
+
+Gruss,
+
+     Charly
+
+PS.: Kann's leider nicht posten, habe keinen Schreibzugriff auf den =
+Server.
+
+
+--------------CD93AB8CF219EB4A34E293B6--

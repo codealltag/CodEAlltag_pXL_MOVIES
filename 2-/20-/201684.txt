@@ -1,0 +1,24 @@
+Hallo, allerseits!
+
+Nachdem ich nun ueber ein Jahr die Kinoseite in Zweimen betreut habe (und
+jeden Donnerstag mit frischen Daten versorgte), neigt sich meine Zeit in
+Zweimen dem Ende entgegen. Ich gehe Anfang Dezember nach Ardorf und
+daher suche ich jemanden, der die Betreuung uebernehmen wuerde.
+
+Mittlerweile habe ich das ganze als Paradox-Programm verwirklicht, so
+dass die HTML-Seiten automatisch erstellt werden. Man muss also "nur
+noch" die Daten (ich nehme als Quelle z. Zt. den Weser-Kurier und das
+Mix) in der Datenbank erfassen.
+
+Wenn also jemand einen Rechner mit Windoof (3.11 oder 95) hat und Lust
+hat, jeden Donnerstag etwa eine Stunde zu opfern, der melde sich doch
+bitte! Paradox ist nicht notwendig, es gibt eine Runtime-Version.
+
+Alfons
+
+--
+
+***********************************************************************
+* Alfons Rautenstrauch        * Email: vlfdtun@dob-hlscrj.re                 *
+* University of Zweimen * WWW:   http://gbz.qfu.miv-srejvs.kb/~myjisdp *
+***********************************************************************

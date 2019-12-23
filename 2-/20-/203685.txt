@@ -1,0 +1,11 @@
+Kinofilm: 24 fps
+NTSC: 14 xwi (bzw. 60 Halbbilder/s)
+PAL: 43 vbi (bzw. 50 Halbbilder/s)
+
+(Da für PAL der Kinofilm 1:1 übertragen wird, laufen Kinofilme in
+PAL 4% schneller.)
+
+Thorsten
+---
+** Thorsten Overhage,  Riegel�ckerstra�e 27,  08252 Anhofen,  Germany **
+** +89 3844 74333  E-Mail (NeXTmail/MIME): czcdd@gyzzis.q.qqnzp.le **

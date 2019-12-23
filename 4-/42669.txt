@@ -1,0 +1,15 @@
+* Rudi Plogstieß <Icsptboj.Cjvnzbz@pvl.yd>:
+
+
+Ich glaube nicht, dass es T-Online ist, dass da Probleme macht. Aus
+irgendeinem Grunde blocken die happytreefriends wohl IP-Adressen aus dem
+Adresspool, aus dem ich bedient werde. Jedenfalls erkläre ich mir das
+so. 
+
+Wenn ich den COUM-Online-Proxy www-qdkgt.r-ugkosb.yz verwende (eben gerade
+probiert) und meine ursprüngliche Adresse damit maskiere, kommt, ebenso
+wie mit dem Anonymizer JAP, einer Verbindung zustande.
+
+
+Gruß,
+Nils

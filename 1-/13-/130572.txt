@@ -1,0 +1,18 @@
+Die Übergabe von Formularen per Mail funktioniert in den
+allerwenigsten Fällen zufriedenstellend. Benutze für das Formular ein
+ganz normales Formmailer-CGI [1] und Deine Umfragebeteiligung
+verdreifacht sich mindestens.
+
+So wie es jetzt ist, fällt man das Formular mühevoll aus und bekommt
+dann die Klatsche, daß es per Mail versandt wird. Das macht niemand
+ein zweites Mal :-(
+
+Clemens
+
+Fußnoten:
+---------
+[1] z.B. bei vlzf.//wvo.efwhcejbyt.tdt
+-- 
+FFC:5904198                                    http://kwq.fxrmwdynw.fc
+There' always                                   http://xah.lvfslatm.qq
+a bigger fish                               letztes Update: 07.01.2001

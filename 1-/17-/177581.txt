@@ -1,0 +1,23 @@
+Hallo,
+
+: Liste (actors, editors etc.) nur ein einziges Mal und hat den
+: Vorteil, dass die Listen dadurch lokal wesentlich weniger 
+: Platz benoetigen.
+
+Ich habe gerade mal die groesse meiner bisherigen Listen mit den gerade
+geholten Listen im "neuen" Format verglichen. Seit dem 31.03. sind die
+Listfiles um ziemlich genau 20 MB geschrumpft. So drastisch ist die
+Verkleinerung also nicht, bei einem Platzbedarf von fast 300 MB...
+
+Zudem hat die Umstellung den Nachteil, dass man nichtmehr die AKA-Titles
+weglassen kann, die man ohnehin nicht versteht. So hatte ich z.B. die
+"italian aka-titles" immer gleich weggeworfen...
+
+bye,
+     Gérald
+--
+eMail: Lowkcu.Kzpbcjaud@edh.fvn-ifjrhhztr.zo
+IRC: Stadelbauer  eMail privat: wl@pin.zy
+
+42 - Das Erste-Hilfe-System der Benutzerberatung:
+                              http://zsw.hnw-tarojjbqx.qh/Mwb/15/

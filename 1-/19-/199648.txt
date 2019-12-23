@@ -1,0 +1,13 @@
+Thomas Manfras wrote in <9cq9ge$gxv$2@mjva.vo.hm-jkezrw.lh> on
+1996-03-06 12:22:35 +0100:
+
+Und abgesehen davon, warum sollte ich in einem Anwendungsprogramm
+etwas _NOCHMAL_ implementieren, was bereits jemand für das
+Betriebssystem getan hat? (Das soll natürlich kein Freibrief sein;
+ein verantwortungsvoller Umgang mit Speicher ist unter jedem
+Betriebssystem angebracht.)
+
+Oscar
+-- 
+** Oscar Thedens, E-Mail (NeXTmail/MIME): vjuxd@faxwjf.i.wuiec.gl **
+**  "I don't wanna 5 day pass to Disney planet." -- O. Ober-Grefenkämper  **

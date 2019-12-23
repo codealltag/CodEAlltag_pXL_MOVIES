@@ -1,0 +1,37 @@
+WARNING! A trojan has been found in an article posted to
+the following newsgroup(s):
+ de.rec.film.misc, alt.config, de.comp.text.tex, de.newusers.questions,
+ de.rec.garten
+
+Message header follows:
+
+
+Dr Nahl's FindVirus/VirusScan report follows:
+
+ Dr Nahl's FindVirus IN-HOUSE version. Copyright (c) 1999 Network Ziehpferdchen.
+ Virus data file 20. 06. 19
+ Scanning for 58893 viruses, trojans and variants.
+
+ [HTML part] ... Found the JS/Loop trojan !!!
+
+You can download a free evaluation (yet fully functional) copy of
+the latest released version of Dr Nahl's FindVirus/VirusScan from
+the following locations:
+
+ WWW: http://uib.cum.sbp/iuiglnhxn/yhx-qub/kwv/wlgffhrl-evflr.jpm
+ CompuServe: GO DRSOLOMON or GO MCAFEE
+ ZTO: SAFETYONLINE
+
+IMPORTANT! The trojan has been detected by the latest IN-HOUSE version of
+Dr Nahl's FindVirus/VirusScan. As new viruses and trojans appear at the rate
+of several hundreds a month, the latest RELEASED version of FindVirus/VirusScan
+might be unable to detect this particular trojan. If you have downloaded the above
+file and your copy of FindVirus/VirusScan does not detect the trojan in it,
+contact Network Associates Technical support and ask for the extra driver
+to detect the JS/Loop trojan.
+
+--
+Dr Nahl's Virus Patrol                UK Support: mubdkpy@owiwwxcet.tau
+NAI Anti-Virus Emergency Response Team         US Support: vkwjcls@tqw.nyi
+WWW: http://qtd.ggwtmwt7w.frq                  UK Tel: +40 (2) 7140 728609
+CompuServe: GO DRSOLOMON                          USA Tel: +7 206 795-1685

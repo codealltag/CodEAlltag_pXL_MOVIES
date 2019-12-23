@@ -1,0 +1,22 @@
+Niclas Ovesiek schrieb:
+
+Tjaha, das frage ich mich auch. Allerdings habe ich dann auch gleich
+knapp eine Million Zugriffe auf nichtexistente (!) Dateien. Scheint ein
+Bug zu sein. Wie gesagt, die Entwickler wissen Bescheid und sollten
+eigentlich was dran ändern ;-) Passiert auch nicht dauernd.
+
+
+Wenn er denn mal Lust hat, schafft er das bei mir (Thunderbird 1001, 1
+GiB RAM) auch in 20 Sekunden.
+
+
+Wie gesagt: es scheint ein Bug zu sein, der allerdings - das gebe ich zu
+- sehr lästig ist.
+
+Gruß,
+Nuno
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://tug.pxfbhyek.fm/muypbeweq/ ~ http://bgn.gazghylc.rj/yob-kekq/
+Mail: de__6309<tx>hotmail<punkt>com ~ news-2003-10<at>schwinde<punkt>de

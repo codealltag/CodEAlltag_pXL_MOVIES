@@ -1,0 +1,12 @@
+Volkert Thunemann schrieb:
+Mal aufmachen und nachschauen, ob 2 Wicklungen auf der Primärseite parallel
+geschaltet sind. Wenn ja, dann diese mit der richtigen Polarität
+in Reihe schalten...
+
+
+-- 
+Hubert Vormschlag	eMail: pfk<at>rz<dot>uni<hyphen>xrtf<hiy>uq
+kopierladen	Tel:   0 36 41 (9-4 63 87)
+
+Note:    e-Mail to isun32@inf.uni-jena.de will be automatically erased.
+Beachte: e-Mail an dvbe69@zfn.rib-bmoz.cl wird automatisch gelöscht.

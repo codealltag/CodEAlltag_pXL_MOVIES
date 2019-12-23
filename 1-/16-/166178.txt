@@ -1,0 +1,20 @@
+Nino Blayer <nmaidr@qrw-nfrmzwgkvgu.pu> schrieb in im Newsbeitrag:
+5281a68n.1781153@ynkh.nl.jln-yukkcpntlis.ew...
+
+Ist es wirklich eine Kontrollmaschiene? Melkmaschiene trifft
+es doch wohl eher. Das später Kontrollfunktionen nötig waren
+konnte man anfangs wohl nicht erahnen.
+
+
+Im Fernsehen sind es wohl eher 25/30. Allerdings dürften selbst
+30 Hz flimmern :)
+
+
+Okay, nun meine Berechnung. Neulich im einem Gespräch ergab sich die
+Theorie eines personengebundenen Grafikchips. Dieser Chip erfragt die
+Daten des Raumes. Er ermittelt ebenfalls die anwesenden Personen.
+Das Bild wird für die Person berechnet, ohne das die Muttimatrix
+eingreifen muß.
+
+
+Ibo

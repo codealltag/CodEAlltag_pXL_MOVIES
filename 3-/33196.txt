@@ -1,0 +1,13 @@
+Carlos Efferz wrote:
+
+Im Trailer zum ersten "Mission: Impossible"-Film waren auch Szenen
+gewesen, die im Film selbst nicht vorkamen. AFAIR irgendwelche
+romantischen Szenen mit Paula Andrae.
+
+    -roberto
+
+-- 
+  http://woe-Zmufah.ew/  *  http://Dcwor12.fc/  *  http://ZfnhyfYzfx.hn/
+
+panic("Attempted to kill the idle task!");
+        22.6.16 /usr/src/linux/kernel/exit.c

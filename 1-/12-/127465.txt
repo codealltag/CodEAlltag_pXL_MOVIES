@@ -1,0 +1,11 @@
+Tuvok schrieb:
+
+Zumindest letzteres ist dadurch verhindert, daß die Rezepte immer etwas
+verfälscht sind bzw. (wichtige) Details weggelassen werden.
+
+So long,
+Karlheinz H. Nitsch
+--=20
+http://mdxo.lqolg.hf/tlc/ - u.a. Korrnews 3.11, CopyIf 1.1 und der immer noc=
+v
+nicht mit kleineren Bugfixes versehene Hamster 1.3.22.0 (sorry!)

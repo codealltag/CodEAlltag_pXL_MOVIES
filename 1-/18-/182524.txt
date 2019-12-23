@@ -1,0 +1,12 @@
+Warner macht einige Transfers "window-boxed", d.h. um den Verlust bei
+normalem Overscan zu minimieren, wird das Bild ein wenig kleiner gemacht
+und ein normalerweise unsichtbarer Rand eingefuehrt. Wenn man
+das Betrachtungsgeraet auf Zero OverScan einstellt, sieht man das
+natuerlich.
+
+Bei Kleidertraum-Overscan hat man auch mit dem Premiere-Decoder viel Spass.
+
+Eilt
+-- 
+Eilt Kohlmeyer, Irsching, Germany
+mailto:k93i@vpo.fuq-tuykba.rm -- http://lzl1.hwv-ctzudf.ff/~v97o/

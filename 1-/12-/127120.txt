@@ -1,0 +1,18 @@
+Luca E. Riedmair schrieb:
+
+
+Weil diese Zeichen zu den "Specials" gehören (siehe RFC
+822), die in Headern nur mit Einschränkung erlaubt sind.
+Am deutlichsten steht das in son-of-RFC1036:
+
+            NOTE: Also, the characters "." and ",", not infre-
+            quently found in names (e.g., "Albert  S.  Eckhard,
+            Jr."), are NOT, repeat NOT, allowed in an unquoted
+            word.  A From header like the following  MUST  not
+            be written without the quotation marks:
+
+                 From: "Albert S. Altmüller, Jr." <qejidf@upsixf.lya>
+
+Ziemlich OT, deshalb f'up2 poster.
+
+Veit

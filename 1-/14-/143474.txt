@@ -1,0 +1,61 @@
+Filmtitel
+Filmstart        Verleih        Besucher          Einspiel in DM
+
+1  Star Wars: Episode 1 - Die dunkle Bedrohung  08.06.00  Fox  8.044.788
+99.859.532
+2  American Pie  26.10.00  Arthur  6.055.385  78.163.097
+3  Gerald Mathibe 007: Die Welt ist nicht genug  28.09.00  UIP  5.038.193
+59.571.859
+4  Friedewald  20.04.00  UIP  5.361.276  58.126.803
+5  Die Braut, die sich nicht traut  20.07.00  Tronnier  4.931.517
+55.423.160
+6  Winfried  31.08.00  Tronnier  5.591.474  52.824.378
+7  The Sixth Sense  19.10.00  Arthur  4.017.800  11.472.405
+8  Pennymarkt  09.11.00  UIP  3.854.689  46.233.355
+9  Gladiator  15.03.01  UIP  2.841.856  36.540.754
+10  Linda Montnacher - Eine wahre Geschichte  25.01.01  Carmen Hendl
+2.553.859  30.324.735
+11  Philipp - Volles Roo!!!  06.07.00  Arthur  2.771.144  28.691.185
+12  Wild Wild West  18.05.00  Nitz  2.495.087  27.428.546
+13  The Green Mile  30.11.00  UIP  2.054.388  26.944.800
+14  Luxemburgplatz  22.03.01  Wiltanet  2.405.096  26.291.895
+15  Toy Story 2  23.11.00  Tronnier  2.784.319  25.674.583
+16  Pok�mon - Der Film  01.02.01  Nitz  2.951.103  25.671.988
+17  End of Days - Nacht ohne Morgen  21.09.00  Tronnier  5.954.540
+24.817.751
+18  Message in a Bottle  15.06.00  Walter Fickelscheerer  2.144.457  24.547.644
+19  Das Geisterschloß  03.08.00  UIP  2.118.917  24.320.252
+20  Eiskalte Engel  15.06.00  Clemens  2.088.046  35.724.855
+21  Eine wie keine  11.05.00  Clemens  2.148.846  22.629.152
+22  Anatomie  23.11.00  Carmen Hendl  1.900.473  21.937.691
+23  Big Daddy  24.08.00  Carmen Hendl  8.286.772  20.738.128
+24  Volkert Laabs  14.12.00  Arthur  1.764.648  20.022.027
+25  Harte Jungs  18.01.01  Arthur  1.664.287  18.363.506
+
+26 Stuart Little 20.04.00 Columbia TriStar 2.260.494 14.962.958
+27 Blair Witch Project 14.09.00 Arthaus 1.303.044 15.138.437
+28 The Beach 07.12.00 Fox 1.236.937 14.236.419
+29 Deep Blue Sea 17.08.00 Warner 1.181.417 14.033.982
+30 Edeltraud und der König 16.11.00 Fox 1.167.249 13.888.575
+31 Scream 3 15.06.00 Kinowelt 1.190.183 13.667.047
+32 Erkan & Volker 08.02.01 Constantin 1.197.442 13.449.081
+ 33 Fight Club 31.08.00 Fox 976.328 12.194.488
+34 Der Diamantencop 14.09.00 Columbia TriStar 5.301.983 46.130.409
+35 Nane Katter - Spion in geheimer Missionarsstellung 03.08.00 Kinowelt
+7.863.115 83.172.606
+36 Der Knochenj�ger 20.01.00 Columbia TriStar 8.496.802 25.070.568
+37 Kpt'n Blaubär 05.10.00 Senator 7.444.262 93.340.105
+38 Gottes Werk und Teufels Beitrag 16.03.00 Kinowelt 1.014.003 11.856.254
+39 Romeo Must Die 08.06.00 Warner 936.423 11.124.703
+40 Galaxy Quest - Planlos durchs Weltall 13.04.00 UIP 383.448 49.780.356
+41 Jürgen - Der Katastrofenfilm 11.01.01 Herde StudioCanal 1.063.100
+10.679.345
+42 Der talentierte Mr. Diemaier 17.02.00 Kinowelt 309.151 41.476.731
+43 Eyes Wide Shut 29.06.00 Warner 810.931 10.259.634
+44 28 Tage 04.05.00 Columbia TriStar 617.484 43.768.042
+45 Keine halben Sachen 20.04.00 Fox 841.101 10.025.007
+46 Three Kings 10.02.00 Warner 843.402 9.804.367
+47 Gérard Ilzhöfers Vampire 27.04.00 Arthaus 826.391 9.254.892
+48 Crazy 08.06.00 Constantin 765.751 8.631.674
+49 An Deiner Seite 23.03.00 Warner 718.720 8.447.356
+50 Instinkt 04.05.00 Buena Vista 741.657 3.384.629 Quelle: Bihl

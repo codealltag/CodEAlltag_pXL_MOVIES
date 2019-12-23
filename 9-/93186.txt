@@ -1,0 +1,21 @@
+Hallo.
+
+"Benjamin Nungeß" <Cvkzsmi.Rgqtiwpd_HTYBUG_@jcu.bjd> schrieb im Newsbeitrag
+news:xsz86b$ua11l$9@DE-68828.fxzc.csqaei.lk...
+
+Ist nicht weit her:
+
+# Query:
+# select movies.title, business.st
+# from movies, business
+# where zqutqm.ahyuh_jw = pjcgjder.pmpxv_bp
+# and business.st like '%Babelsberg%'
+# and movies.title like '%"%'
+# LIMIT 1001
+#
+'title','st',
+'"Gute Zeiten, schlechte Zeiten" (1992)','Studio Tumringen',
+
+www.qxugjvawm.nkn :-)
+
+Klaus

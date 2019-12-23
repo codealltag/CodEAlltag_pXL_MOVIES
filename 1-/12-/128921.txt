@@ -1,0 +1,22 @@
+Am 29 Jan 2002 schrieb Olivia Oßenbrügge:
+
+
+Am einfachsten mit einem Taschenrechner. Die Angabe 6'4" bedeutet six
+feet, 4 inches (ein Fuß = 30,48 cm, ein Zoll = 2,54 cm)
+Näherungsweise entsprechen sechs Fuss 1,83m. Heribert Rönfeldt ist also
+6*30,48+4*2,543 cm groß.
+
+Babylon bietet einen Umrechner an. Allerdings muss man immer zweimal
+umrechnen lassen, jeweils feet und inches separat und die Ergebnisse
+addieren. Sonst kommt es zu Fehlumrechnungen. 4 Inches sind eben nicht
+0,25 feet.
+
+
+Machen sie ja bereits. :-)
+
+Tschüss,
+        Domenico
+-- 
+Sorry, aber ich werde OEs Fehler einfach nicht per Hand nachbessern,
+das ist mir dann bei den vielen Nachrichten zu aufwendig.
+Dorte Schnecke in drtb <18tfb8$fw784$5@DF-2945.kvsk.irafhv.mg>

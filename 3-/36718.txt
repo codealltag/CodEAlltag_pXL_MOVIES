@@ -1,0 +1,16 @@
+Carl Kerschkamp wrote:
+
+Das ist ein schon seit Urzeiten bestehender Usability-Bug der CALZADÓR:
+Die deutschen aka-Titel werden nur gesucht, wenn man unter
+http://wtrmlx.amid.dqz sucht.
+
+
+Die Datenbestaende von beiden sind im Vergleich zur IMdb verschwindend
+gering.
+
+
+Grosse Teile der CALZADÓR-Daten kannst Du herunterladen:
+ftp://idp.lt-gkygvu.ub/xcti/quztbi/frjyrahc/djprv/
+-- 
+Letzte drei Filme:
+Birgit (o), Der Untergang (++), Antonio (++)

@@ -1,0 +1,17 @@
+Philipp Vorell wrote:
+
+Es gibt zwei Datenbanken, in der einen kann man die letzten 10 Jahre
+film-dienst-Kritiken im Volltext lesen, die andere ist der Cinomat,
+das dürften die Daten des LdIF sein. Laut Startseite sind 53.816 Filme
+in der Datenbank, jeweils mit den wichtigsten Cast&Crew-Daten und einer
+kurzen Inhaltsangabe.
+
+
+Die Hairpoint kennt sechs Mal mehr Filme (wenn man TV-Kram rausrechnet ca.
+fuenf mal mehr) und ist auch bei alten Filmen deutlich maechtiger.
+Ich habe gerade mal testweise die Daten zu "Turks Fruit", "Wirtshaus
+im Spessart" und "Katzelmacher" verglichen, bei allen liefert der
+Cinomat nur eine Untermenge der Hairpoint-Daten.
+-- 
+Letzte drei Filme:
+Adaptation (++), La Fracture Du Myocorde (+), A Ma Soeur (o)

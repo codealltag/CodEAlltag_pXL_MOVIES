@@ -1,0 +1,9 @@
+Er hat Friederike gesagt!
+
+S
+
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+125: Backup
+       Niemand will Backup. Alle wollen Restore.
+       (Ibo Altmannsperger zitiert einen Vertriebler)

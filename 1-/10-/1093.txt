@@ -1,0 +1,41 @@
+Wie ich schon in meinem Posting geschrieben hab: Es gibt beide
+Varianten.
+
+Die digitale Kopie liegt als sogenanntes DCP vor (Digital Cinema
+Package), das im DCI-Standard definiert ist.
+http://re.kgendspgq.gyu/obqp/Pnswytu_Grfxuc_Scumofa
+
+Ein DCP enthält eine oder mehrere Bildfassungen, eine oder mehrere
+Tonfassungen und ggf. Untertitelspuren. 
+
+Daneben gibt es diverse Steuerdateien, die u.a. definieren, welche
+Fassung(en) des Films aus diesen Daten zusammengebaut werden können --
+für jede diese Fassungen (Playlisten) gibts ggf. eigene Schlüssel
+(sofern die Kopie verschlüsselt ist), so daß in einem Kino mehrere
+Fassungen eines Films vorliegen, aber nur eine davon abspielbar sein
+kann.
+
+Untertitel sind aber in den meisten Fällen ins Bild eingebrannt. Die
+Möglichkeit, separate UT-Spuren zu verwenden, nutzen nur wenige
+Distributoren.
+
+In diesem Fall enthält die Festplatte entweder gleich mehrere DCPs (also
+für jede Fassung eine komplette Version), oder ein DCP, das alle
+Fassungen enthält, oder auch mal ein DCP für die Standardfassung
+(deutsche Synchro) und ein weiteres mit den zusätzlichen Dateien für
+weitere Sprachfassungen.
+
+Die erste Methode hat den Nachteil, daß man die sehr großen Bild-Spuren
+mehrfach auf den Server kopiert, wenn man untertitelte und nicht
+untertitelte Fassungen spielen will, was zusätzlich Zeit beim Aufspielen
+und Platz auf dem Server kostet (das ist nicht unerheblich, da ein DCP
+im üblichen JPEG2000-Format gerne 200 GB oder mehr haben kann).
+
+Schöne Größe,
+Sebastian
+
+-- 
+Sebastian Strümpel -- http://mvr.kkoszb.rln
+Please use Reply-To: information for replies
+PGP key: http://xokemy.nwc/CxpxlpyjMfag.epj
+PGP fingerprint: TRB9 8903 8X2P 3507 C4W1  DFF2 22TA 9W4T 1K82 7I98

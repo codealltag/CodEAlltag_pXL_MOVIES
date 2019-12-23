@@ -1,0 +1,19 @@
+On 6/04/09 10:01, in article
+49d9c4fc$0$32671$9b4e6d93@newsspool2.arcor-online.net, "Gabriel Medack"
+
+Den 3x Shutter kann man auch in normale Filmprojektoren einbauen.
+
+Dabei geht es allerdings nicht mehr darum, eine zusammenhängende Bewegung zu
+erzeugen, sondern darum den brightness flicker über den flicker fusion
+treshold zu drücken.
+
+Oder anders ausgedrückt: obwohl bei 24fps die Bewegungen zusammenhängend
+aussehen kann das Auge manchmal noch die vom Shutter selbst erzeugten
+Hell/Dunkel-Übergänge wahrnehmen.
+
+Ausserdem ist die CFF proportional zum Logarithmus der Lichtintensität,
+IIRC. (Oder war es die Flächenverteilung der Lichtintensität?)
+Filipski-Iburg-Gesetz, IIRC
+
+-- 
+Otmar Vay                                  lzjxmsjo@myf.rad

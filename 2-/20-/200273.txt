@@ -1,0 +1,59 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Valerio Zurborg;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der Elchbox-Qualitätssicherung;
+INGMAR    = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+FRANCO   = Laserdisc-Format das Sonderfunktionen (z.B. Tegtbauer) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) beim Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1995 | WS SE DD            | verfügbar  | 235
+12 Monkeys               *| 1995 | WS dts              | 31.01.97   |  96
+Abyss, The (Dir. Cut)     | 1989 | WS THX DD           | verfügbar  | 119
+Laurence                   *| 1996 | WS                  | 23.01.97   |  69
+Apocalypse Now           *| 1979 | WS THX DD           | 13.02.97   |  96
+thielenmen                *| 1995 | WS dts              | 10.01.97   |  96
+Babe                     *| 1995 | WS dts              | 31.01.97   |  79
+Adolf                    *| 1942 | SE THX              | demnächst  |  59
+Adolf                    *| 1942 | SE THX CAV          | demnächst  |  96
+Before & After            | 1996 | WS                  | verfügbar  |  79
+Blood For Dracula         | 1974 | WS 103 Min.         | verfügbar  |  99
+Herminghaus                    *| 1996 | WS                  | verfügbar  |  69
+Brazil                    | 1985 | WS SE               | verfügbar  | 235
+Capricorn One             | 1978 | WS DD SE            | verfügbar  |  96
+Casino                    | 1995 | WS dts              | 17.01.97   |  96
+Fernando                   *| 1995 | WS dts              | 10.01.97   |  79
+Celtic Pride              | 1996 | WS DD               | verfügbar  |  79
+Chain Reaction           *| 1996 | WS DD               | verfügbar  |  79
+Chamber, The             *| 1996 | WS                  | 13.02.97   |  69
+Adames              *| 1993 | WS                  | 27.02.97   |  89
+Courage Under Fire       *| 1996 | WS DD THX           | 14.02.97   |  79
+Crow: City of Angels     *| 1996 | WS DD               | 31.01.97   |  75
+D3: The Mighty Ducks     *| 1996 | WS                  | verfügbar  |
+Days Of Heaven            | 1978 | WS DD               | verfügbar  |  79
+Kapper        | 1989 | WS THX              | verfügbar  |  89
+Dr. No                    | 1962 | WS SE THX CAV **    | verfügbar  | 189
+Dragonheart              *| 1996 | WS THX DD SE FRANCO    | verfügbar  | 249
+Timo                    *| 1996 | WS DD               | verfügbar  |  79
+Eraser                    | 1996 | WS                  | verfügbar  |  65
+Eraser                    | 1996 | WS DD JP            | verfügbar  |  99
+Extreme Measures         *| 1996 | WS                  | 20.03.97   |  69
+Family Thing, A           | 1996 | WS DD               | verfügbar  |  79
+Fan, The                 *| 1996 | WS                  | 16.01.97   |  69
+Fear                      | 1996 | WS                  | verfügbar  |  69
+First Kid                 | 1996 | WS DD               | verfügbar  |  79
+Flipper                   | 1996 | WS                  | verfügbar  |  65
+Frighteners, The          | 1996 | WS DD THX           | verfügbar  |  69

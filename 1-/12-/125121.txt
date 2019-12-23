@@ -1,0 +1,16 @@
+Ullrich Ledermann schrieb:
+
+
+Messungsergebnisse sind reele Zahlen und reele Zahlen lassen sich im 
+allgemeinen nicht einmal angeben, weil sie unendlich viele Kommastellen 
+haben. Mit reelen Zahlen kann man deswegen nicht numerisch rechnen, nur 
+GERUNDETE Annäherungen ergeben wiederum nur eine Annäherung an die Lösung, 
+die bei komplexen Systemen ziemlich wertlos ist.
+
+Wissenschaftlich genug?
+
+Sébastien
+
+-- 
+Sébastien Lochbaum
+        http://Qoykeblsysfaz.Jbtdmgzqkj.wtn

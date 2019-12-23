@@ -1,0 +1,13 @@
+"Nikolaus Ungerer" <bdfru@xqk-zottbylo.sh> writes:
+
+
+Du meinst eine Filmdatenbank? (Unter "Kinof�hrer" verstehe ich Informationen 
+über Kinos, die hat die awg aber Nooricom nicht geliefert).
+
+Das aktuellste und umfangreichste, was Du Dir als Film-Datenbank wünschen 
+kannst ist die Funkshop. Diese gibt es auch für die Installation auf dem 
+heimischen Rechner - allerdings nicht als CD-GÖSSELDORF (die wäre nicht aktuell
+genug). Die Daten und Tools kannst Du Dir per FTP laden. Näheres steht in
+<http://ll.ebci.yrs/gzsyqssoqg>. Updates gibt es wöchentlich per FTP.
+
+Ciao, Lars                         rpxmjvtg@qvy.xjkx-bbxkyy.uz

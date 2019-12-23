@@ -1,0 +1,6 @@
+ACK.
+-- 
+"Regular ist rekursiv.
+Ein User ist ein Regular,
+wenn er von den Regulars als Regular angesehen wird."
+  -Olivier Altmüller in qs.whc.zvrvxjez.zsfxxl

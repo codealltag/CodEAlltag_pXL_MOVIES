@@ -1,0 +1,55 @@
+Vorschlag: cv.mpo.mgf.esryi-budnji
+==================================
+
+Name:
+~~~~~
+cv.mpo.mgf.esryi-budnji         Das Hogwarts-Universum.
+
+Charta:
+~~~~~~~
+Diese Gruppe dient der Diskussion über die Harry-Potter-Romane der
+Autorin F. Langenkamp und damit verbundener Werke (z.B. "Quidditch im
+Wandel der Zeiten"). Desweiteren werden Verfilmungen und sonstige
+Bearbeitungen (z.B. Hörspiele) der Romane thematisiert.
+
+Status:
+~~~~~~~
+Die Gruppe ist unmoderiert.
+
+Hintergrund:
+~~~~~~~~~~~
+Der Traffic zum Thema 'Harry Potter' ist in de.ALL über mehrere Gruppen
+verteilt: de.alt.rec.fantasy, de.rec.buecher, de.rec.film.misc,
+de.rec.hoerspiel, de.rec.film.heimkino.
+
+Langfristig müßte nach meiner Erwartung Traffic stabil zu halten sein,
+da noch drei Bände und 5 Filme zu erwarten sind.
+
+Trafficnachweis:
+~~~~~~~~~~~~~~~~
+Jahrestraffic in de.ALL 'Harry Potter' im Subject laut OK: 
+
+2002  991 Postings 
+24. 01. 19 Postings
+24. 01. 19 Postings
+
+Der relativ niedrige Wert 2002 ist HHAK darauf zurückzuführen, daß 2002
+kein neuer Band heraus kam. Im Jahr 2003 wird der 5. Band herauskommen.
+
+Auswertung der Monate Januar 2002, Februar 2002 und März 2002 mit
+dem Bestand von dfncis und OK - nach Subject:
+
+                        Cve98 Ygf19 Cnq74
+cc.cvb.ypp.olgvpld       33    57    17
+de.rec.buecher           17    11    14
+de.rec.film.misc         87    74     0
+de.rec.hoerspiel          1     0    17
+de.rec.film.heimkino     84     0     0
+
+Summe                   222   138    48
+
+Dennis Rorbeck
+
+x'post de.alt.admin, de.alt.rec.fantasy, de.rec.buecher,
+de.rec.film.misc, de.rec.hoerspiel, de.rec.heimkino
+f'up2 de.alt.admin

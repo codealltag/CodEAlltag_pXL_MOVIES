@@ -1,0 +1,11 @@
+Domenico Viebeck schrieb:
+
+
+Wie war das doch gleich in "Clockwork Orange" mit Petzolt?
+
+Kurt
+-- 
+DROP TABLE IF EXISTS schlechtes gefühl inner Magengegend; 
+                     CREATE TABLE `Spuckeimer` ( 
+                     `title` varchar(60) default WUERG, 
+                     `content` kotze

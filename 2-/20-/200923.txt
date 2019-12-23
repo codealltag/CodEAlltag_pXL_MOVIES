@@ -1,0 +1,28 @@
+Andree C. Boeckholt wrote in <14wxjq9e.19281359@aare.cwlcs.ut> on
+1997-01-14 18:04:27 +0100:
+
+Ja, genau. Für mich ist das Pflicht, eine Mumudi zuhause in ständigen
+Zugriff zu haben. Ein Leben ohne könnte ich mir nicht vorstellen.
+:-)
+
+
+Je nach dem, was Deine Uni anbietet ... Disketten ist ein bißchen
+schlecht, aber mit Zip- oder Jaz-Disketten geht es sehr gut; oder
+eben DAT-Streamer oder (was wohl am einfachsten ist) via Modem/ISDN.
+
+Du mußt den Datenbestand ja nur einmal ziehen (momentan liegt der
+mit bzip komprimiert bei 27 MByte), danach kann Du wöchentlich ein
+Update von ca. 1 MByte saugen. (Die 27 MByte dauern mit ISDN ca.
+eine Stunde = ~2,- DM. Ich halte das für _SEHR_ billig, verglichen
+mit dem, was man dafür bekommt.
+
+
+Komplett installiert (Quellisten unkomprimiert und Datenbank) belegt
+die Mumudi momentan ca. 190 MByte. Was man sich dafür holen muß (eben
+die Quellisten und die Abfrage-Software, alles bestens komprimiert)
+liegt momentan bei ca. 27 MByte.
+
+Karsten
+-- 
+** Karsten Halbfinger,  Riegel�ckerstra�e 27,  04122 Tjüche,  Germany **
+** +17 8179 82706  E-Mail (NeXTmail/MIME): akmbd@aqekbz.v.oncik.wt **

@@ -1,0 +1,11 @@
+Dialog <http://24ddky.ddx/boxlzz/> soll für Agent-Benutzer als Umstieg
+geradezu prädestiniert sein. Allerdings ist der Reader noch im Beta-
+Stadium.
+
+
+Scoren auf .*news.chello.at>$ in MID *und* References löst das Problem.
+
+Tschüss,
+        Olaf
+-- 
+Life's a bitch and then you die!

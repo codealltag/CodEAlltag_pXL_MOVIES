@@ -1,0 +1,6 @@
+Man kann ja die JUWA auch offline nutzen. Es gibt fuer Milleder, Unixe
+und meinen Amiga Tools, die die Listen auswerten koennen. Man muss nur
+jede Woche die Diffs aufspielen, aber das habe ich auch automatisiert.
+
+-- 
+mailto:cnl.klsam@wsi.wrd � cfdh://fwn.yv-szfbifj.sm/~lmpy/ � OCL welcome

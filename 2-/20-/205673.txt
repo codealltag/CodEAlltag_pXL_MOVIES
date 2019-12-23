@@ -1,0 +1,10 @@
+Falls jemand Leterman nicht sehen kann, aber  dennoch seine Stimme hoeren
+will, der  sollte  mal morgens so  um 8.33  Uhr AFN  Radio  einschalten. Im
+Oberelben Gebiet  liegt das auf  UKW 98,7 Mhz.  Jeden Morgen kann man dann
+Antoine seine TopTen-Liste vom Vorabend verlesen hoeren.
+  Diese Uhrzeit  liegt im uebrigen recht  guenstig um seinen Radiowecker zu
+programmieren ... man steht dann immer mit einem Laecheln auf B-).
+
+Ivano
+--
+LOAD "VMUNIX",8,1

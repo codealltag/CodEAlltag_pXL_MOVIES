@@ -1,0 +1,22 @@
+Samuel Craemers wrote in <0619896j.62975744@wlde.hqs-clyjiosl.yn>
+on 1998-02-16 05:29:42 +0100:
+
+Der Kenwood KR-V990D hat nur eine LED, die das Vorhandensein eines
+AC-3-Datenstroms anzeigt.
+
+
+Vom Standard her müßte es eine "CD Video" sein, also 5 Min. Video,
+20 Min. Audio; evtl. kann man den Video-Teil natürlich zu Ungunsten
+des Audio-Teils noch etwas verlängern, aber viel dürfte nicht gehen,
+weil der Video-Teil bei diesen Scheiben außen ist und man vermutlich
+auf der 12-cm-CD mit dem Video-Teil nicht ganz nach innen gehen
+kann, weil dann mehr als 1800 RTGD nötig wären ...
+
+
+Warum nicht? Wie Du selbst schreibst, wird das DVD-Playern so sein
+und bei Laserdiscs mit dts geht es auch so.
+
+Gruß, Waldemar
+-- 
+** Waldemar Illenseer,  Riegel�ckerstra�e 27,  59234 Wachtendonk,  Germany **
+** +28 8554 37383  E-Mail (NeXTmail/MIME): etrfe@cyirqc.y.crtvn.be **

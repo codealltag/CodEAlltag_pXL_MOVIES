@@ -1,0 +1,8 @@
+Patrick Friedlein <xzm.fci@dsr.oug>:
+
+
+Eher nicht. Ist in Deinem Agent "Options -> General Preferences ->
+Message List -> Enable Threading by subject" aktiviert?
+
+
+Konrad

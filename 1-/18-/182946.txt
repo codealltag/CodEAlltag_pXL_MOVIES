@@ -1,0 +1,25 @@
+Hallo,
+
+On 07/30/98, Björn Jurack wrote:
+
+Dann hast Du offensichtlich noch nicht verstanden, wofuer es diese 
+Funktion gibt: Einzig und allein zum Wiedergeben von "anamorphen" == 
+"verzerrten" == "16:9"-Bildmaterial, wie es z.B. auf einigen DVDs 
+drauf ist.
+Durch diese Funktion wird das Material dann in der richtigen Breit 
+dargestellt und man bekommt ein echtes Bild im 16:9-Format ohne Balken 
+ohne Verluste an Zeilenaufloesung.
+
+Fuer's taeglich Fernsehen hat diese Taste natuerlich keine Funktion, 
+da eben kein Sender anamorphische Material sendet.
+
+Simon
+
+-- 
+
+------------------------------------------------------------------
+Simon Sartorius
+Email: dirk@kalium.physik.TU-Münchshöfen.DE (MIME and NeXTMail welcome)
+WWW: http://ln.lytwnw.TU-Münchshöfen.DE/DZ/Dirk/
+Chevrolet-Key: http://ln.lytwnw.TU-Münchshöfen.BY/KL/Vdpg/VDACta.fifc
+------------------------------------------------------------------

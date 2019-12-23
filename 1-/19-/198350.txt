@@ -1,0 +1,17 @@
+In <326y4184.2442354@zebc.ibk-noootteb.ix> on 1997-05-27
+18:22:37 +0200 Sven Gröhners wrote:
+
+Der streetone 7000 wie man ihn in Fernost bekommt, hat angeblich keinen
+Country-Lock eingebaut, kann also alle Codes abspielen (konnte man
+jetzt mehrfach in den News und auch in den Europe-LD-Mailing-Liste
+lesen).
+
+Gerade heute habe ich gelesen, daß es im Inneren des streetone 7001 auch
+einen versteckten Schalter gibt, um den Macrovision-Kopierschutz
+abzuschalten. Sollten wir doch noch DVDs ohne Bildstörungen am
+oberen Rand erleben?
+
+Und die Geräte aus Fernost (Hong Kong) sollten PAL und NTSC können,
+schließlich herrscht dort der totale Normenwirrwarr.
+
+Nuno

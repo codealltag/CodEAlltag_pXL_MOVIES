@@ -1,0 +1,15 @@
+Oskar Ziepel wrote:
+
+Warum ist das unter Win so langsam? Ich habe einen P133, 64MB RAM
+und eine aehnliche Platte, und da dauert unter Linux das ASCII->
+Binaerdaten "nur" rund eine Stunde.
+
+
+??? Was soll das denn? Programmfehler?
+
+    -ingo
+
+-- 
+  Ingo Uhlik
+  mailto:lkwjf@yyunzfdkox.jzn-jw.yq,  ICQ: 97888953
+  http://qsv.ethi.ebz-st.ly/~udkeug

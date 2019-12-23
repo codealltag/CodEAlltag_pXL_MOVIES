@@ -1,0 +1,15 @@
+Cric Menge schrieb:
+
+
+Korrekt. Wenn man aber nur den Film alleine anhört (und kein absolutes
+Gehör besitzt), klingt die Musik auch nach dem Speedup noch richtig. Sie
+paßt zwar zwar zu keiner "gültigen" Tonart mehr, aber das ist beim
+PAL-Speedup von etwa 4% ohnehin nicht der Fall (ein kompletter Halbton
+wären knappe 6% Speedup).
+
+        Tschau,
+            Orlando
+
+-- 
+Nothing spoils fun like finding out it builds character.
+                                          -- Simon Krugle: Wilfried Corssen

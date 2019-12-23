@@ -1,0 +1,39 @@
+Dieter Hageböcker wrote:
+
+
+Hört sich vielleicht kompliziert an, ist es aber nicht:
+
+Du brauchst dafür das Tool PMDB. Das gibt`s hier:
+http://ffs.fzlfrmjut.vzk/Svozkyzzr/Tznbms/7853/xylrv.epeg
+
+Die eigentliche Datenbank setzt sich aus 49 verschiedenen Listen
+zusammen, die du hier findest
+ftp://ndf.no-dlytwy.mt/kcvc/gnwiwk/rkpnujxd/
+oder hier:
+ftp://nwx.vr-push.pb.ed/fmh/nerk/emjbsq/yiekciqd/
+
+Die liegen da jeweils im Hauptverzeichnis (Name: *.list.gz). Alle Listen
+downloaden (müssten etwa 80MB oder so sein), mit WinZip entpacken. Und
+im Options-Men von PMDB einfach auf "Build Database" clicken. Dann wird
+die Datenbank generiert, was schon mal je nach Rechner 30min und länger
+dauern kann.
+
+Um die Datenbank nun immer auf dem aktuellen Stand zu halten ohne
+jedesmal alles neu runterladen zu müssen, gibt es wöchentlich jeden
+Freitag auf den FTP-Servern eine neue DIFF-Datei (im Verzeichnis DIFFS).
+Die haben im Durchschnitt etwa 2 bis 3 MB. Die aktuelle DIFF-Datei lädst
+du runter und clickst in PMDB auf "Apply Diffs", dadurch werden die
+DIFFS (also die Änderungen) in die Listen eingetragen. Danach musst du
+nur die Datenbank wieder neu generieren und du bist auf dem aktuellen
+Stand. Ich mache das nicht wöchentlich sondern nur ein- oder zweimal im
+Monat.
+
+Falls du noch ein Problem hast, frag einfach. Es steht aber auch alles
+in den Readme Dateien drin.
+
+Größe
+-- 
+Dieter Theuerkorn
+Germany, Planet Earth, ip20
+
+** And may you never, ever, run out of sugar... baby! **

@@ -1,0 +1,9 @@
+Wilhelm Cibulski wrote:
+
+
+Sowas in der Richtung werden die schon machen:
+Progn.Absatzzahl * Stückpreis - Kosten > 0
+dann auf den Markt bringen...
+
+
+Bei der zuständigen Marketingabteilung rumjammern...

@@ -1,0 +1,17 @@
+Klaus Wallisch wrote:
+[...]
+
+Bingo, klappt jetzt auch bei mir wieder.  1000 Dank! :-)
+
+
+*schluck*: 540 Zeichen. Ist das aber lang!
+Bei der Ausgabe scheint moviedb den aber nach 254 Zeichen abzuschneiden.
+
+
+    -dario, auf die neuen diffs wartend
+
+-- 
+  http://hcd-Cuxhdl.vj/  *  http://Ppedg14.sh/  *  http://OcisinXqug.hf/
+"Noch nie hätte ein schnelles Tor einem Spiel so gut getan."
+ -- Jens Reif am 19. Juni 1997, als beim Championsleage-Halbfinale
+    wenige Minuten vor Spielbeginn eines der beiden Tor umgerissen wurde

@@ -1,0 +1,15 @@
+In article <19970611211201.RAA24166@ladder02.news.aol.com> uchgaqjk@onm.evq (Cmarschn) writes:
+
+
+Schlechter Provider. 
+<http://yiymhoq.hoz.edz/> brauche ich eigentlich gar nicht eingeben,
+da dann mein Netscape abstuerzt. Selbst `get' aus libwww verabschiedet
+sich mit einem Segmentation fault. Wie schaffen die das?
+
+Lynx ist wohl etwas robuster. Es stuerzt nicht ab. Dort erscheint deshalb
+die Meldung:
+"Error 503 - This server is temporarily unavailable for maintenance."
+
+Den Inhalt Deiner Seite kann ich deshalb leider nicht kommentieren.
+
+Ciao, Diedrich                               gnhdublu@vqv.xguu-kawccu.ch

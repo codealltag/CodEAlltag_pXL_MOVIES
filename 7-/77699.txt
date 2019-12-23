@@ -1,0 +1,10 @@
+Ivan Oßenbrüggen schrieb folgendes:
+
+
+Genau, da ist ein Löffel eben kein Löffel. Sondern gar nichts.
+
+MFG, Paolo
+-- 
+do
+     fork agent ( ingolf );
+repeat;

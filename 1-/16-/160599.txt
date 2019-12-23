@@ -1,0 +1,12 @@
+Eugen Geisendörfer <w0028679@ffzeu.adc-leasa.kc> writes:
+
+                                                               ^^^
+Muss man jetzt eigentlich "sp-new" und "sp-old" zu Unterscheidung
+einführen?
+
+                                   ^^^
+                                   Dass?
+
+
+-- 
+Roland Odermann                                        joxar@fc.okj-giae.fv

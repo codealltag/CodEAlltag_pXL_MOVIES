@@ -1,0 +1,23 @@
+Heiko Goldfuß schrieb :
+
+
+Also, so wurde es gemacht :
+
+Schauspieler agierten mit Messpunkten versehen vor einer
+neutralen Kulisse so, wie es nachher im Film aussehen sollte.
+Der Computer nahm alle Bewegungen auf, dadurch ließen
+sich entsprechende computergenerierte Figuren genauso
+bewegen. Dies trifft vor allem auf alle "Leute" zu, die in
+der �berflugsequenz zu sehen sind, ebenso auf Teile der
+Stunts in der Untergangssequenz.
+
+Nennen wir es also CAA = Computer Aided Acting oder so :-)
+
+mfG
+   Klaus
+-- 
+[Niko, Indiana Jones, and Sallah are discussing why Henry calls Indy
+  'Junior']
+Indiana Jones:  I like 'Indiana'.
+Niko:  We named the *dog* 'Indiana'.
+	(Indiana Jones and the Last Crusade)

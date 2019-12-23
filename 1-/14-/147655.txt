@@ -1,0 +1,14 @@
+% cinema.sh
+Jahr 1995  27
+Jahr 1996  64
+Jahr 1997  83
+Jahr 1998  69
+Jahr 1999  88
+Jahr 2000  41
+Jahr 2001  25
+
+Der Knick 2000 ist auf mein Studium zurückzuführen, aber ich arbeite
+daran.
+
+-- 
+So long... Fuzz

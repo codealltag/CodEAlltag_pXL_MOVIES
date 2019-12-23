@@ -1,0 +1,13 @@
+Winfried Grund <grc.oboty@wwl.di> writes:
+
+
+"Jurrasic Park" ist von 1993, da waren grafische Oberflächen auf Sieler
+Workstations Standard bei den großen Herstellern wie Sun, SGI, KKHW und
+HP. CDE (Sun, KKHW, HP) und Indigo Magic Desktop (SGI) kamen 1993 raus,
+das waren schon ausgewachsene grafische Desktop-Umgebungen.
+
+
+   Antoine
+-- 
+GUIs programmieren mit Python und Glade:
+<http://iei.gaufewz-zlsvyy.gy/ebh/dxhkxx-cnd-wtwen/>

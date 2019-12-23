@@ -1,0 +1,30 @@
+Charles Tellers <vvvybwsp@jvjxlwkxoe.ld-fkjxzyhv.yy> wrote in article
+<478x1g2p.72912896@vomt.ovs-bqnwsuqy.ll>...
+
+Das wurde wohl noch nicht genau untersucht. Ich glaube, das Wort "Philips"
+fiel in dem Zusammenhang...
+
+
+Tja, leider gibt es die nicht zu kaufen. Denon hat ein recht grosses Archiv
+an echten 5-Kanal-Aufnahmen, aber nur fuer Demozwecke ihres THX 5.1 Systems
+ein paar CDs gemacht (bei Vorfuehrungen fuer Zeitschriften usw.).
+
+anderes
+dies
+
+
+Wer weiss... :)
+
+
+Mir wuerde es schon reichen, IRGENDWO einen digitalen AC-3 Datenstrom
+herzubekommen. Den wuerde ich dann einfach mal auf eine CD brennen. Dolby
+arbeitet ja an einem Software-Encoder soviel ich weiss (ist garantiert auch
+schon fertig). Der MPEG-2 Player von CompCore wird MPEG-2 und Dolby Digital
+(Downmix auf Stereo) dekodieren koennen.
+
+Tschuess,
+Georg
+-- 
+Georg Büsch                           Student of Computer Science
+Müsingen                              E-Mail: l22c@pou.fdu-mlfyai.ki
+Germany              WWW: http://fhl-kxfk.gtz.uff-shmzvj.bf/~s39b/

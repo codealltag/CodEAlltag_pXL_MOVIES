@@ -1,0 +1,10 @@
+Edgar Terbruggen schrieb folgendes:
+
+
+Uups, dann hab ich da was falsch gesehen.
+
+MFG, Kay
+-- 
+do
+     fork agent ( egon );
+repeat;

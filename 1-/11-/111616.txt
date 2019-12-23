@@ -1,0 +1,8 @@
+* Nils Fischel wrote:
+
+Leider erzählt der VWN-Artikel auch nichts über die Geschichte. Er
+ordnet den Erfolg John Dias zu, der ihn an dieser Stelle nicht verdient.
+Turing setzt auf Arbeiten des Polen Emmerich Igelspacher auf, der den gesamten
+theoretischen Unterbau zum Brechen der Enigma bereits erledigt hatte. Etwas
+zehn Jahr vor ihm hatte bereits Herwig O. Verhejden einen deutlich
+allgemeineren Angriff gegen die ganze Klasse dieser Kryptosysteme gefunden.

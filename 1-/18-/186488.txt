@@ -1,0 +1,257 @@
+2. Aufruf zur Wahl (2. CfV)
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+zur Einrichtung der Newsgruppe
+
+de.rec.film.kritiken Filmkritiken. (Moderated)
+
+
+Status
+~~~~~~
+Die Gruppe ist moderiert.
+
+Kandidat für die Moderation ist
+Dennis U. Zuschlag <sgf@pjvxh.cs-nxzlpi.fq>.
+
+
+Charta
+~~~~~~
+Die Gruppe dient der Veröffentlichung von Filmkritiken: kritische 
+Auseinandersetzungen mit Inhalt, Stil, Qualität, Entstehung eines 
+einzelnen Films oder mehrerer Filme, die verglichen werden sollen.
+
+Diese Beiträge werden im Betreff (Subject) durch ein vorangestelltes 
+"Kritik:" gekennzeichnet, gefolgt vom Filmtitel; ist dieser nicht 
+eindeutig, wird er durch Jahr oder Medium der Erstveröffentlichung 
+ergänzt.
+
+Außerdem sind eigenständige Artikel zum Werk einzelner Filmschaffender, 
+zu den Filmen eines Jahres, eines Landes, einer Stilrichtung oder eines 
+Filmfests willkommen.
+
+Diese Beiträge werden im Betreff durch ein vorangestelltes "Diverse:" 
+gekennzeichnet.
+
+Artikel sollen ein allgemein lesbares Format aufweisen, mindestens 150 
+Wörter umfassen und in verständlichem Deutsch verfaßt sein. Crossposts 
+in nicht-moderierte Gruppen außerhalb der de.rec.film.*-Hierarchie sind
+zulässig.
+
+Die Diskussion der Beiträge und der besprochenen Filme findet in einer 
+geeigneten Newsgruppe der de.rec.film.*-Hierarchie statt.
+
+Der Moderator sorgt für die Einhaltung dieser Richtlinien und der 
+üblichen Usenet-Standards zum Zwecke der Übersichtlichkeit und 
+Lesbarkeit.
+
+
+Proponenten
+~~~~~~~~~~~
+Dietmar Peham <uurzv@siklrh.wxsfd.ci>
+Dennis U. Zuschlag <sgf@pjvxh.cs-nxzlpi.fq>
+
+
+Modalitäten:
+~~~~~~~~~~~~
+Die Stimmen müssen bis zum 1998-05-18 23:59 +0200 eingehen.
+Entscheidend ist hierbei das *Eintreffen* der Stimme, nicht das
+Absendedatum! Bitte benutze den Wahlschein, der am Ende dieses CfV
+angebracht ist. Wahlberechtigt ist jede natürliche Person, die in der
+Lage ist, eine E-Mail an die Abstimmungsadresse zu schicken.
+
+Es gelten die derzeitigen Wahlregeln, die in de.newusers.infos,
+de.admin.news.announce, de.newusers.questions, de.admin.news.groups und
+de.alt.admin veröffentlicht sind.
+
+
+Wie gewählt wird:
+~~~~~~~~~~~~~~~~~
+Kopiere den untenstehenden Wahlschein in eine Antwortmail und trage in 
+das Feld des Wahlscheins Deine Stimme (JA, NEIN oder ENTHALTUNG) ein. 
+Schicke diesen Wahlschein dann an den Dagné-Account
+    <xuqf-fad.qvccqlhk@jjgn.pruknugsx.vx> 
+(Reply-To:-Header ist gesetzt; bei den meisten Newsreadern sollte die 
+Funktion "Reply to author" das Gewünschte leisten.)
+Es werden nur Stimmen berücksichtigt, die per Mail an diesen Account
+gerichtet sind. öffentliche Stimmabgaben (Postings) sind ungültige
+Stimmen und werden nicht berücksichtigt.
+
+Deine Entscheidung bedeutet dabei:
+   JA          - Ich bin für die Einrichtung
+   NEIN        - Ich bin gegen die Einrichtung
+   ENTHALTUNG  - Ich enthalte mich oder ich ziehe meine Stimme zurück.
+
+Enthaltungen gelten nicht im Sinne einer gültig abgegebenen Stimme; sie
+dienen vornehmlich dazu, eine zuvor abgegebene Stimme zurückzuziehen.
+
+Der Wahlleiter wird auf Deine Stimme mit einer persönlichen Bestätigung 
+via E-Mail reagieren. Wenn Du innerhalb von ein paar Tagen nichts hörst, 
+versuche es noch einmal.
+
+Solltest Du Deine Meinung ändern, so wähle einfach neu. Willst Du dabei
+Deine Stimme annulieren, so entscheide ENTHALTUNG. Gehen mehrere Stimmen
+ein, gilt die jeweils zuletzt abgeschickte (Date:-Eintrag der Mail).
+
+Bitte beachte, dass die Stimme Deinen echten Namen enthalten muss, kein
+Pseudonym. Sollte Dein Newsreader den Namen nicht automatisch im
+From:-Header eintragen, trage ihn bitte nochmal im Wahlzettel ein.
+Andernfalls ist Deine Stimme ungültig.
+
+Die Ergebnisse der gesamten Wahl werden nach Ablauf der Wahlfrist
+öffentlich gepostet, wobei jede einzelne Stimme, zur Kontrolle für alle,
+aufgelistet wird. Solltest Du begründete Bedenken gegen die
+Veröffentlichung Deines Namens haben, melde Dich bitte beim Wahlleiter
+Ingmar Neugbauer <ondn@xnsj.pvppyuuun.da>.
+
+
+=+=+=+=+=+=+= Zwischen diesen Zeilen bitte nichts löschen =+=+=+=+=+=+=
+
+Wahlschein für die Neueinrichtung von um.unj.uicw.qwbenuke
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn Du keinen Real-Namen angibst, kann Deine Stimme für
+ungültig erklärt werden!
+
+[Deine Stimme]  Gruppe/Abstimmungsgegenstand
+----------------------------------------------------------------------
+[            ]  de.rec.film.kritiken - Neueinrichtung
+
+=+=+=+=+=+=+= Zwischen diesen Zeilen bitte nichts löschen =+=+=+=+=+=+=
+
+
+Folgende Personen haben sich bisher an der Abstimmung beteiligt:
+------------------------------------------------------------------------
+9imzhgax@upnxyocggv.iyz-ybdefkp.hc                        Marcel Uch
+2.17@Xwle.MFJ.byf                                    Gustav 'pi' Gertje
+v.cohxy@hoc.mc                                             Alberto Poeschkens
+y.mumuhd@DBI.sndkalgy.sv                                   Axel Lubbe
+a100215@smail.Uni-Koeln.DE                                Wolfram Ungefucht
+25. 04. 19@smail.Uni-Koeln.DE                                Francis Haferkamp
+f7464798@diabz0.tde.jdv-tgzak.kq                         Kay Asbrand
+lf@edlpnhk.mspx.fq                                         Alberto Nieuwenkamp
+haf@kmoz.pgnbgbp.gpr-dzfn.yy                                  Alex Olhöft
+jgdi@dkhdu.rz-xznvom.qb                                    Beate Altena
+Jwgpaxnze_Vswwz@bao.hej                                  Alessandro Nieuwenkamp
+alfi@rocks.pn.org                                           Julius Hagge
+hpbhe.ojzklstf@nqivw.kg                                   August Tervooren
+Akid.Uzoeelhpng@j-rcubuf.aa                              André Andriesen
+jozdde@sblxf.befntxo.ut                                    Gerard Leerschen
+fwfhbp@gmd-yntppqydwyq.ct                                 Lothar Nunner
+zjvdknxf@gdx.jsm                                       Leonhard Pertold
+beckolli@Uni-Hohenheim.DE                                    Burkhard Neunhäuser
+bm525571@muenchen.org                                        Nane Semmel
+x.xifmmlmci@ialj-h.kv                                Francis Dworowy
+fxe@zcjjcfksme.jgi-zlbw.ep                                François Poesch
+zkx@pajul.vhm                                            Francis Caumanns
+jklocdef@ozf.kr                                              Niclas Hanesch
+mkcnde@h58.ynx.xo                                         Meinrad Unterbuchner
+icrxmy@pzaayai.ennaz-bzoawl.oo                            Francis Hassebrauck
+emkqlkf.eokmuv@it-vpkvkar.pf                              Frédéric Nothdurfter
+ayviaj@sxzhhdlh.gbdhscsfh.lo                            Kai Ueberbach
+Bdbalghee@cfnrdwmx.hakz.wj                                    Nicolas Lintener
+svgb.klfan@lom-nc.hx                                          Knut Thiebus
+ydwc@cydbmm.fivv.vz                                           Knut Reithofer
+efraim@desire.argh.org                                    Alessandro Hohendorf
+Envhhs.Ancznsb@tfzo.lxt.ez                                FIJ
+elmi@detebe.org                                            Eberhard M. Niederfranke
+Dyetv.Swugpf@lw.lbn-otfg.uh                                 Paolo Capellmann
+vsgrq@afhb.pxx                                            Paolo Elfers
+Wcdal_Jjsazw@w-ablsue.if                                     Knut Ufermann
+tgcyuph@psdkag.ajqkob.pi                                   Leonhard Ploemacher
+XXSemukl@i-awvwrf.wj                                   Geerd-Björn Semmelhack
+nshysbku@ijxl.llb-imbsqqevh.nc                       Francis Tieleman
+Zoyafbrn.Exqginv@q-kpntpv.kv                            Sascha Undeutsch
+fpqguimu@lxevmp.gdrnqrh.ub                                    Heinrich Oberste-Vorth
+qrennss@mmwqh.yv                                         Rainer Rasselet
+wsewvboqs@adj.yh                                          Stephan Obkircher
+kzvn@glqr.yji                                              Simon Estinghausen
+tr674@xhotr.ssddua.yl                                  Sébastien Uhlenbruck
+ffvbiei@rpk.ydf                                             Ulrich Odendahl
+iyd@jmgjpqv.vz                                              Sascha Diekena
+q53u@yyy.rrg.znf-zvzyai.ui                                  Dominik Imgarten
+bkm@outggmk.pzx                                           Renato Nowatzek
+tfzr@xtwh.hzoajx.qhd-nbajzuml.ig                         Ralf Unrau
+fvy@guo.jqe                                                     Stephan Ostermaier
+ntf@azx.yov                                          Stephan Hubert Stengle
+uciwopo@rmdist.pe.vtgmp.wv                                 Renato Thevißen
+fss_xteg@cgsejvu.cum                                            Marco Lapp
+tx@muhca.qd                                                Menno Harig
+um@vvnqb.xnnjt.dz                                              Marco Zandt
+mgij@mtpxmpw.rjfxufg.pc                                    Ingmar Hardersen
+hcgz@uvojujsfg.ym                                     Meinhard Heinzemann
+Lars.Eilebrecht@unix-ag.org                              Ulrich Pilgrim
+xwo@imwojiv.cqy                                           Ulrich Nieschmidt
+wbvk-crokq@edafd.qx.qrseg.ga                            Lorenz Ungar"oder
+detf@hlt-mvva.ct                                        Ulfert Veckenstedt
+c.ixbuvi@hqrj.e.ozik.vj                                   Lars Grübl
+fgg@axb.euovhf.hv                                        Lars A. Nothhaft
+uhy49mnv@xniflqar.kmj-cxvakaj.zw                           Menno Gänshirt
+Sxsr.Pfzzo-quempa@cps.iu                                      Leo Oberste-Hetbeck
+gqngk.yokfyv@ekv.ijb                                        Leo Imm
+zjiek@xzjkj.svjnyl.hqh                                        Leonhard Eriksson
+Lmfnkf.Nyjpuc@xrvf.dws-fdcflpfx.hz                         Leonhard Strodtkötter
+fdkhuuzj@vljmx.akj                                        Lutz Grubmüller
+fc@mdapu.vpvstpyav.jn                                    Leonhard Oberste-Beulmann
+bmfnfbg@ctise.fnae.wl-txsyvtwh.ms                      Lars Höwner
+wgsbdc@ewignt.eaca.vo                                     Olga Obenauff
+bklngz@cx-qhse.hc                                       Hero Oexle
+turw@rzabh.ap                                               Ursel Ueberrhein
+ret@goahfcldd.kdfbc-xdadui.wd                             Björn Ueberbach
+fhjxs@aczup5.jjft.nk                                   Francis Uhlenwinkel
+kkyiydp@avtpip.ifggg.hu                                   Sascha Gotschlich
+ipwpjh@pjzp.evlpwgeehm.htl-ulop.oo                        Alberto Gernhardt
+tvlapc@rztijkk.cxp-ezpdd.op                                  Niklaus Niehuesbernd
+kzrwcz@yrizmlcr.nw-awjsrt.hr                                   S. Peipert
+wyvty@ranvfk.vs                                             Nils Nille
+wvygjt@kkqhqjeuf.sbvcj.yi                               Noël Lintzmaier
+P.Skstzn@JPdzapjt.ql-gcz.ch                               Jürgen Interwies
+n.wysoqb@wds.xod                                         Francesca Teufel
+Ungemach@PowerOnline.Net                    Sébastien Allmann
+schrjor@ESCHER.UNI-MUENSTER.DE                           Reinhold Uebele
+he@iixhitn.cxner.kr                                   Jakob Oexle
+xtxfz@rzcmuxb.yp                                           Lars Ules
+vghymgkk@thy.vm-fmzxlo.mi                                  Roberto Unverricht
+rjp@fczmoql.ismmg.vb                                       Jan Nowatzek
+vpk91155@iusr.hoyarir.yqy-wqak.la                         Kay Hauptlorenz
+ewfohyw.x@xhq.xmb                                       Jürgen Ulle
+msedr@ry-klx.jk                                         Patrik Hauswirt
+zyct@xcmt.ydv.fy                                             Jérôme Thorsten
+Ir.Wrsxrf@s-emhhlo.vx                                      Dominik Lippach
+cjr-ynmrfj@i-zubdtw.tz                                  Reinhold Bandholz
+zcfylz@togh.kbols.lr                                         Dominik Vahl
+ilbbmob@xqzp.ab                                            Dominik Schniedermann
+bpxnk@tumfqrah.epn.smb                                   Dennis Vahl
+Boll.Olrucss@g-fzqlxs.xv                                 Wolfgang Leerschen
+nfwxzx@aqn.zd                                                  Willi Inhülsen
+GWcikqylyghq@c-qpkitr.bb                               Leo Intlekofer
+uxxtcvtz@cz.ys-wewnbj.tg                                    Kai Waßermann
+vinci@2012.org                                             Dietmar Görkes
+vtqvbm@outgvae.rju-de.iu                                    Valerio Ickerodt
+fytq@cfvbi.twxt.sr                                       Alberto Naas
+walterk@ddorf..vewkr-aroq.ql                                  Ignaz Hohendorf
+Fmcrxecuobk@v-fqnfnm.yq                               Burkhard Deinlein
+wichert@Informatik.Uni-Eichsel.DE                       Francis Dikmann
+wiqlv@popm.rbo-rz.zw                                    Xaverius Bandholz
+zivzawt@nndvuaw.gyj                                         Willi Kemmerlings
+
+
+Ungueltige Stimmen:
+------------------------------------------------------------------------
+wiokz@jdr-drv.va                                          Alessandro Hohendorf
+   ! Keine Stimmabgabe in Message
+vote@erle.org                                                           
+   ! Name fehlt
+
+
+Liste der unzustellbaren Bestaetigungen
+(Dies ist *keine* Aufforderung zu erneuter Stimmabgabe!)
+------------------------------------------------------------------------
+alfi@rocks.pn.org                                           Julius Hagge
+
+
+-- 
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <rqdneuyaj@zjmb.pn> (vertrauliche Ein-
+sendung) oder <gsfcnr@czkm.yu> (zur Kontrolle öffentlich; beides keine
+Diskussionslisten!). Weitere Informationen: <KNQ:vnhe://oti.qztd.iy/>

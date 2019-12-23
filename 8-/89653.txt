@@ -1,0 +1,9 @@
+Ich sagte doch: Die Rekursion ist vollständig.
+
+
+  -kfk
+
+-- 
+UNIX has grown fat.
+
+         -Pascal Kraa, 1984

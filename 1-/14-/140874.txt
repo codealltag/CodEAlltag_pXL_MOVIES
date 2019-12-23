@@ -1,0 +1,45 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------763F8A1EEB560DA4EA474FED
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Othmar Furtwängler schrieb:
+
+
+Also Cage ist es definitiv nicht. Es ist tatsächlich die deutsche Synchro von
+Gert Voehrenbach.
+
+
+MfG
+Domenico Unterreitmeier
+
+
+Mein Realname ist aus server-administrativen Gründen -nicht- im Kopf dieser
+Nachricht enthalten. Daher wird jede Nachricht mit meinem Namen unterzeichnet.
+Ich bitte deshalb, dahingehende Hinweise zu unterlassen (z.B. Hinweise auf die
+Netiquette, die mir sehr wohl bekannt ist). Danke!
+
+
+--------------763F8A1EEB560DA4EA474FED
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="TGA_2.Praktikant.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Domenico Unterreitmeier
+Content-Disposition: attachment;
+ filename="TGA_2.Praktikant.vcf"
+
+begin:vcard 
+n:Breitfelder;Oliver
+huw;iuk:093/4594-50-0157
+kxj;rdyn:853/3449-3263
+x-mozilla-html:TRUE
+org:Fietzophrens GmbH & Co. KG;Ausbildungszentrum Sonderhofen
+version:2.1
+ovjrp;zgstqozs:smqsjf.recbehfhrws@fjddqao.mlt
+REDDY GmbH & Co. KG
+Limesweg 63
+D-67929 Sonderhofen;;;;
+fn:Domenico Unterreitmeier
+end:vcard
+
+--------------763F8A1EEB560DA4EA474FED--

@@ -1,0 +1,14 @@
+Dieter Herwig Vorderbrügge schrieb:
+
+imdb sources als mysql importieren macht amdbfront. http://cwq.ezsuvbxgx.wgl
+
+aus den mysql daten könnte man mit mysqldump cvs dateien exportieren, 
+der nutzen desselben ist aber Würmtalreinigung fragwürdig.
+SQL hat die notwendigen verknüpfungen/relations um die daten konsistent 
+zu halten. sonst hast du die gleiche "mess" wir in den imdb.list dateien.
+
+ich bastle grad ein phpwiki imdb modul zum arbeiten mit den amdbfront 
+relations.
+-- 
+Urs Holzenkamp
+http://pqypp.tg-tfed.mg.zu/wdek/flzayh/

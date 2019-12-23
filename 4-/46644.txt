@@ -1,0 +1,28 @@
+Louis Osenstetter wrote:
+
+
+Hm...diese beiden Werte zu vergleichen dürfte schwierig sein. Schließlich
+wird in der Statistik von Ferdinand ein Posting pro Autor gezählt, in der von
+dir zitierten Statistik (woher kommt die eigentlich?) wird jedoch das
+Gesamtvolumen gezählt.
+
+Sinnvoller erscheint mir da der Vergleich von Hertha
+
+
+mit deinem Wert. Schließlich dürfte das Gesamtvolumen im Usenet auch eher
+von regelmässig postenden Autoren zustandegebracht werden. Allerdings ist
+auch daß schon wieder eine Spekulation, und insofern mit Vorsicht zu
+genießen.
+
+Lass dein Proggy doch einfach mal so eine 'Komplettz�hlung', also die
+Absolutwerte von Postings für drfm und de.* erstellen. Das wäre dann wohl
+besser vergleichbar.
+
+ciao
+Ingmar
+
+-- 
+"But please remember: this is only a work of Fiction.
+ The truth, as always, will be far stranger"
+
+                Giuseppe P. Koschwitz, 2001 - A Space Odyssey

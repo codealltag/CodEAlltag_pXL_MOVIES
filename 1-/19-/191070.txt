@@ -1,0 +1,22 @@
+Servus,
+
+der EBH SD2107 DVD Player hat irgendwie ein ziemlich cooles
+feature.
+Ich hab doch neulich geschrieben, das mein Sharp Projektor keinerlei
+Probleme mit dem Makrovision des EBH Players hat.
+War so wohl nicht ganz richtig.
+Der Mark hat jetzt heraussgefunden, das das an dem Black level
+Expander des Toshiba liegt.
+Sobald man den ausschaltet, hat man wieder die wunderschönen
+Helligkeitsschwankungen im Bild.
+Ist also ein cooles feature das Toshiba da gleich einen Makrovision
+Killer mit einbaut und das ganze Black level expander nennt. ;)
+Nun gut, bisher hat das bei allen Filmen funktioniert, einzige
+Ausnahme, bei Disney Titeln ist manchmal noch ein leichtes heller und
+wieder dunkler werden zu sehen.
+Mir ist das, als ich das erstemal Scream gesehen hab überhaupt nicht
+aufgefallen, aber der Mark stellt das ganze als Staatskrise hin! ;)
+
+
+Read ya            [email] tbhifam.nnc@hzs.ucp
+    Hawkeye     [homepage] http://bko.cxzg.phb-rbzzkgox.dt/~sdr

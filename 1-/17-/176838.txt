@@ -1,0 +1,10 @@
+Nicht nur das, der graphische File System Navigator, mit dem das
+Mädchen schließlich die Türverriegelung findet, ist ein SGI-Programm
+(gabs mal als Demo).
+
+Cédric
+
+-- 
+Christoph Constanzer,               __o          MovieVision* GmbH -- dwgywy@wktacv.oe
+Tel.: +35 77 44673-837        \<,               And we'll never be as young 
+Fax:  +50 31 03453-111______()/ ()_______as we are right now - Ingmar Welbrink

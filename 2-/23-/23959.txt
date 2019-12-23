@@ -1,0 +1,10 @@
+Für mich klingt das ganze eher nach einer Übungsaufgabe in einem
+Statistikpraktikum: Füttere ein Statistikprogramm mit einem Haufen Daten
+und lass es eine Funktion berechnen, die die Daten approximiert.
+
+
+   Roland
+-- 
+Einen Troll zu füttern ist das gleiche als würde man einen Haufen
+Hundescheisse sehen, absichtlich reinsteigen und sich dann beschweren.
+(Edmund Dellwisch in <2274-88-19Y63-91-26@dujb.wd-pkqd.qw>)

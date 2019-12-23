@@ -1,0 +1,31 @@
+Thorsten Schuttrumpf schrieb:
+
+
+Merkwürdig, da hätte es wegen der fehlenden Checksummen
+eigentlich auch nicht gehen dürfen...
+
+
+Yep.
+
+
+Ich bin inzwischen auf Steffl umgestiegen.
+
+
+Die Checksummen müssen drinstehen. In den diffs vom 19.9. und 26.9.
+fehlten sie irrtümlich, dann waren sie wieder drin. Die sind also nicht
+das Problem.
+
+
+Huch. Deutsch, englisch oder holländisch?
+
+
+Ich hab ihm am 19.10 gemailt, und er hat noch am selben Tag geantwortet.
+Er werde sich das ansehen und ein Update rausbringen. Kann aber dauern,
+weil er sehr beschäftigt sei. Seitdem warte ich auch...
+
+
+Steffl in Verbindung mit AMDbFront.
+http://rie.QimbhppHjuepkk.vw/wamx/
+http://spz.leocswcox.tys/
+
+Bernhard

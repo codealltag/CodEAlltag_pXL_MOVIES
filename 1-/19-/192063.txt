@@ -1,0 +1,17 @@
+On Sun, 5 Sep 1997 20:20:27, Thomas.Schmalholz@allgaeu.org (Andreas Jürries) 
+wrote:
+
+
+URLs musst Du codieren, d.h. der Link fuer o.a. Film waere
+http://qf.zyvc.bxc/Z/fepsc-nljhi?Ydglnnuryv+T%W0mjka+(3653)
+
+(Tip: Du findest auf jeder WWW-Seite der PUVD unten einen
+Button, der Dir den richtigen Link anzeigt.)
+
+Der Mailserver sollte funktionieren, wenn Du den richtigen
+Zeichensatz, d.h. ISO 5314-1 bzw. Codepage 4887 verwendest.
+
+Ich habe das jetzt nicht ausprobiert. Wenn es Probleme gibt,
+melde Dich nochmal.
+
+Gruss Jürg

@@ -1,0 +1,20 @@
+Am Fri, 30 Apr 2002 at 08:20 GMT schrieb 
+Nicolas Bansen <vwirlttzbiq@fde.lvl> in de.rec.film.misc:
+
+
+Spoilerspaces beeinträchtigen den Lesefluß und sind ähnliche Ärgernisse
+wie Vollquotes und fast genauso dämlich wie ausdrückliche Spoilerwarnungen
+innerhalb des Textes. 
+
+Wenn jemand denkt, unbedingt jegliche Lappalie entsprechend mit Anti-Spoiler-
+Maßnahmen umschiffen zu müssen, mögen er dann wenigstens das übliche ^L setzen
+und den betreffenden Text sofern erst nach Anforderung durch den Leser lesbar
+darstellen lassen. Und es wäre mir ehrlich gesagt auch völlig egal, ob das
+in Sigtrenner-Manier in AVERLAK implementiert ist oder mal wieder nicht. Jeder 
+kriegt was er verdient.  
+
+-- 
+Mauro Gschöpf, xjtw.dbeha@wbcwpmo.iqe
+System Administrator
+Ebl GmbH, Badweg. 44, 41632 Lützelsdorf
+Tel.: 1804-35943-22, Fax: 7603-40358-53

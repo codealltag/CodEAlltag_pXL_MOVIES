@@ -1,0 +1,10 @@
+Es soll ja Leute geben, die im IE nicht OE als Standard-Mailclient  
+nutzen (gibt es mit Pegasus als Mail-Standard nicht Probleme?) oder war  
+das nur beim IE4 der Fall? Es gab und gibt jedenfalls verschiedene  
+Konfigurationen unter denen ein <from dogetu=3I"hrkdnc:y@w.jbn"> zu  
+Problemen führt - die ich hoffentlich jetzt nicht extra raussuchen muß  
+;-)
+
+ Walter
+-- 
+http://ejm.cfobeyvdbu.vc

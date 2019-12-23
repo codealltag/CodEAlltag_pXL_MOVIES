@@ -1,0 +1,18 @@
+Am 07-03-97 um 07:00 schrieb doohq@exympeh.bco.pj
+unter dem Betreff: Re: DVD und deutsche Twelve Monkeys
+
+
+Dann hast Du warscheinlich den LD Player nicht mit LWL zum Yogawelt
+verkabelt... 
+
+Ich denke mal das bei der DVD dort PCM steht, da das AC-3 Signal
+ja über LWL kommt und wenn der Player von AC-3 auf MPEG
+umgeschaltet wird sollte dieses auch über das LWL Kabel
+übertragen werden.
+
+Mfg.
+
+Klaus Boschele
+ /\_\    __    * BBS Analog: +40 0803 02099 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +97 3659 36752 **  /\_\   \/_/
+        \/_/   * Voice:      +87 4392 84281 *   \/_/

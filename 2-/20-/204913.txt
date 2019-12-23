@@ -1,0 +1,14 @@
+: Welche Unterschiede, bis auf die neuen Filmbesprechungen, gibt es auf der neuen
+: Rakelmann? Sind neue Film-,Musik-oder Dialogszenen hinzugekommen? Gibt es sonst
+: irgendetwas neues auf dieser Version? Vor allem: Ist sie noch lauffaehig auf
+: der alten Windows-Version?
+
+Laeuft nur unter Windows 95 oder Windows NT. Besser Windows 95. Ich kann
+leider nicht mit der alten Cinemania vergleichen...
+
+Tschuess,
+Reto
+--
+Reto Hertle
+  Student of Computer Science @ University of Jargelin, Germany
+  E-Mail: w14p@gsq.qdu-vqtaij.ah     WWW: http://rci.mgy-bkdgbm.or/~y72q

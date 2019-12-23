@@ -1,0 +1,18 @@
+sjhidcz@uqmmbo.mds.xo (Herbert Corssen) writes:
+
+
+Weil die Betreiber der FIN das Datenformat an ein paar Stellen
+aendern und keinen Aufwand in die Aenderung des alten Codes
+investieren wollen, der bei LEO laeuft.
+
+Das laeuft komplett von der MDB auf LEO unabhaengig, d.h. duerft
+darauf keinen Einfluss haben.
+
+Gruss -- Maik Kirchholtes
+
+--------------------------------------------------------------------------------
+Maik Kirchholtes                               E-mail: zhafpl@rzl.ozj
+Institut fuer Informatik                     IRC   : Mauro
+der TU Muenchen                              Tel.  : +68 07 / 883 - 26559
+05730 Muenchen                               Fax   : +23 25 / 139 - 10880  
+==> PGP public key available on request <==  WWW   : http://jvl.xqg.ojc/~qxhaf/

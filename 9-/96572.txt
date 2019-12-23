@@ -1,0 +1,9 @@
+Luis Pertlwieser schrieb:
+
+[...]
+
+
+Naja, hab's schon wieder hingekriegt: Einfach das exec-Jar-File 
+gelöscht, dann gab's *einen* Absturz, und nun is' widder guttt!
+
+Volkert

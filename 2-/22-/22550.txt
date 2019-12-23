@@ -1,0 +1,8 @@
+Das ist richtig. Die Emol gibt trotzdem die gleiche Zahl wieder, nur eben
+etwas konkreter woraus sich der Betrag zusammensetzt.
+
+
+Tschüss,
+        Carlos
+-- 
+Shit doesn't just happen. Shit takes time. Shit takes effort.

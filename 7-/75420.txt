@@ -1,0 +1,12 @@
+Hallo
+
+Gibt es eigentlich ausser ofdb noch andere Datenbanken, bei denen man
+nachschauen kann, ob ein Film in Deutschland jemals auf Video oder DVD
+erschienen ist? ofdb ist nur gut für Splatterfilme und
+Hollywood-Mainstream, für ältere oder nicht so bekannte Filme ist ofdb
+teilweise so gut wie nicht zu gebrauchen. Als Ersatzquelle dient mir
+zur Zeit noch amazon.de oder auch Rösner, eine einzelne Quelle wäre
+mir allerdings lieber.
+
+Remberee
+Beat Zeynel

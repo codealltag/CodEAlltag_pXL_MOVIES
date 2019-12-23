@@ -1,0 +1,55 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+
+Oswald Lossen wrote:
+
+  Ich bin seit längerem auf der Suche nach guten (und möglichst
+billigen)
+  Programmen zur Bearbeitung von Filmen. Dabei vor allem ein
+  Programm für
+  Blue-Box Effekte.
+
+
+Hi, Oswald
+
+ich habe gerade in JTDK Studio Pro 5.0 VE (war bei der
+Rainbow-Runner von Matrox mit dabei) reingerochen, da gibt es so viele
+
+Effekte und Filter (u.a. auch Bluescreen), dass man gar nicht weiss,
+wo
+man anfangen soll.
+Um damit non-linear zu schneiden braucht man viel Plattenplatz.
+
+Orlando
+
+PS: vergiss die Nachricht von Nino Inderfurth mit der Gruppe
+de.alt.filmen, das hat ein uebereifriger Newbie der sich nicht an die
+Regeln
+gehalten hat und eine Meute Sysadmins die sich uebergangen fuehlten
+verhindert. Wenn Du in Zukunft "Macher:" in dein Subject mit aufnimmst
+
+und weiterhin in diese Gruppe postest traegst Du vielleicht mit dazu
+bei,
+eine solche Gruppe zu ermoeglichen. (siehe de.alt.admin - mit ein
+wenig
+Abstand ist der dortigen Diskussion durchaus ein humoristischer Aspekt
+
+abzugewinnen)
+
+Orlando
+
+-----BEGIN PGP SIGNATURE-----
+Version: PGP for Personal Privacy 5.0
+Charset: noconv
+
+iQCVAwUBNYiz98LMZAPtSGMxAQFJdwQAlHtoVIOpEtBpxmsmT0rJ6P3yls0v4eML
+XE9axR1RMtaJvZmmlGigAIz9UMxCrH0+sX/C4hGRV4+qKN47cf6sIabwI32MTDq7
+MIab+XhSScCeCmyOb1Ercv6KS9SV2C5vAXkKTWmtwNlINLro1M+h0JvEBcWRxIPw
+4zy6sScd8sI=
+=7yIM
+-----END PGP SIGNATURE-----
+
+--
+If you find 'no_spam-' in my address - please remove it on reply.
+Reifenpott-Public Key Fingerprint: RYJ2 F36M 2716 B384  26Y5 52JF 59HQ 2280
+http://hzswxzi.jbi.kce:61915/bvb/danxmy?gp=uzzgf&wkiarf=4bKD605253

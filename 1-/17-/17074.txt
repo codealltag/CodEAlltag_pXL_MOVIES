@@ -1,0 +1,34 @@
+Hi;
+
+[On Sat, 12. 09. 19 01:02:30 +0100, Berend Felger wrote:]
+
+
+Besten Dank :-)
+
+
+Klar, brauchst halt irgendein Programm, das Streams speichern kann, unter
+Linux z.B. mplayer, aber TUJ gibts da auch diverse Programme (wobei m=
+an
+mich da bitte nicht nach Details fragen möge).
+Sind insgesamt ca. 217 MB.
+
+Falls Du die genauen URLs der Streams braucht (die habe ich mit einem
+perl-Skript aus der Seite geholt), kannst Du Dich gern melden.
+
+
+ Gruß
+ Thomas
+
+--=20
+ ##    ##      #  ***   M A R T I N   W A N K E   ***
+ # #  # #      #
+ #  ##  #  ##  #  mail: lhmfpr@miifn.ib
+ #      # #  # #  WWW:  http://nbd.yezuv.cv/
+ #      ##    ##  PGP:  http://qxc.mcdqu.ny/dghythf/PLC-Dnex/
+
+ ***  Entschuldigung, aber Hinderk Grons fand ich als Beverly Hills Cop in=
+   ***
+ ***  den Achtzigern gut, nicht in seinen Achtzigern.                    =
+   ***
+ ***             [shrhyfcdpnjqxfq.tn über Institutsgasse 9, 05.12.20=
+06]  ***

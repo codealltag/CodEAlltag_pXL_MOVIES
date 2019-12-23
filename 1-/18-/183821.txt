@@ -1,0 +1,30 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------D7F5AA65181359917039DF31
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Ich suche den Fassbinderfilm "Welt am Draht" als 16mm Kopie oder auf Kassette.
+Wer kann mir helfen?
+
+Gabriel
+--------------D7F5AA65181359917039DF31
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Karte für Jent, Gabriel
+Content-Disposition: attachment; bmzbqyau="ezyif.zeq"
+
+begin:          vcard
+fn:             Gabriel Verfers
+n:              Aline
+org:            Jent & Partner
+adr;dom:        ;;Eckholzstraße 19;Cocezvnkeu;;6556;
+email;internet: esys@sxlfwlvpign.wd
+tel;work:       ++33 61 237 28 26
+tel;fax:        ++69 37 578 20 56
+x-mozilla-cpt:  ;0
+x-mozilla-html: TRUE
+version:        2.1
+end:            vcard
+
+
+--------------D7F5AA65181359917039DF31--

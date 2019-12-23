@@ -1,0 +1,13 @@
+Koennte mal bitte jemand bei den neuen deutschen DVDs checken, wieviele
+Bilder in einer Sekunde gespeichert sind? Das muesste ja einfach per
+Single-Step gehen, also von einem Sekundenumsprung auf dem Display zum
+naechsten. Es wuerde mich interessieren, ob es nun 24 (Filmaufloesung) oder
+tatsaechlich schon 25 (an PAL-TV angepasst) sind.
+
+Interessant waere auch ein Vergleich der Tonhoehe zwischen US- und D-DVD.
+
+Dirk
+--
+Dirk Jaschinski                           Student of Computer Science
+Waldweiler                              E-Mail: g87k@odm.xlw-uruyev.xw
+Germany              WWW: http://piq-qlkp.suc.ppu-xlynvk.nh/~y95f/

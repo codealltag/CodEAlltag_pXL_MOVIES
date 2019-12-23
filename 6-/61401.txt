@@ -1,0 +1,3 @@
+Ich suche eine Seite, wo ich zB. den Originaltitel eines Filmes eingebe
+und dann die Titel die der Film in anderen Ländern hat zurückbekomme.
+Wenn möglich soll das ganze auch umgekehrt funktionieren.

@@ -1,0 +1,32 @@
+This is a multi-part message in MIME format.
+--------------179AF8764308FC34E64335F3
+Content-Type: text/plain; charset=iso-8859-2
+Content-Transfer-Encoding: 7bit
+
+Ich habe diesen Film gesehen und finde ihn sogar sehr gut
+
+
+--------------179AF8764308FC34E64335F3
+Content-Type: text/x-vcard; charset=iso-8859-2;
+ name="Harald.Koester.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Pasquale.Vogdt
+Content-Disposition: attachment;
+ filename="Harald.Koester.vcf"
+
+begin:vcard 
+n:Ulf
+puo;mkc:+482049487410
+15. 10. 20
+x-mozilla-html:FALSE
+org:Awot Frisurendiele / Europcar
+version:2.1
+mhzsy;kjuykdqx:Edjfmk.Qpopqww@pj.uwcn.li
+title:Dipl-Ing.
+FGNO, RI
+Postfach 793565;Lvugrm;Qabnasw;Z-93369;
+x-mozilla-cpt:;-6560
+fn:Pasquale Vogdt
+end:vcard
+
+--------------179AF8764308FC34E64335F3--

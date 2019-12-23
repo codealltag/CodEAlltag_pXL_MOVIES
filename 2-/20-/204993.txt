@@ -1,0 +1,16 @@
+Von der Bedienung her auf jeden Fall, deswegen habe ich zusaetzlich auch noch  
+das Windows-Interface laufen. Fuer's regelmaessige updaten (insbesondere der  
+Suche nach den kleinen gemeinen Fehlern) ist das Textinterface einfach  
+schneller. Besonders da man mit der readline library huebsche Sachen machen  
+kann. Kann hier nicht mal jemand ein Tcl-Interface fuer die Unix-Prograemmchen  
+zimmern :-)
+
+
+Cheers,
+       Orlando.
+-- 
+---------------------------------------------------------------------------
+Orlando Felbinger                        email: u.zzagtzwo@ohqgvilk.ojduimp.ve
+Trammplatz. 84                    Compuserve: 339446,7839
+36431 Waich                        Fidonet: 6:0237/28.8
+Germany

@@ -1,0 +1,18 @@
+:  > Die beste Loesung ist MovieMUI fuer den Amiga! Das "Userinterface" der
+:  > UNIX Version ist ja wohl kaum vorhanden. Das Einsortieren geht
+:  > allerdings sehr schnell. Die Amiga-Version braucht auf meinem A3000 etwa
+:  > eine Stunde, oder so.
+
+: Wenn man ctitle/clist/cquery installiert ist es eigentlich gar nicht so  
+: unkomfortabel (ausreichend RAM vorausgesetzt). Nicht huebsch aber sehr  
+: flexibel.
+
+Die hatte ich installiert. Ich finde es trotzdem angenehmer, einfach
+herumklicken zu koennen... :)
+
+Tschuess,
+Norman
+--
+Norman Imgarten
+  Student of Computer Science @ University of Altenkleusheim, Germany
+  E-Mail: x53r@gif.knq-bzgykc.dg     WWW: http://suq.pvg-uqmece.gc/~p05x

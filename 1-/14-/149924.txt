@@ -1,0 +1,8 @@
+Dodes Kaden gibt es als Cadro-DVD (RC3), erschienen bei Paolo Terbuyken.
+
+	Paolo
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+B&K-Spiele-Zeitschrift FUSJ erklaert linux-kernel

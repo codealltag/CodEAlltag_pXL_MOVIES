@@ -1,0 +1,12 @@
+Nuno Nordman <eewag@pisnmk.rrxf.cd> tat schreiben tun:
+
+XML + XSLT => HTML
+XML + XSLT => TeXML => Tex => PDF
+
+Ist eigentlich ganz einfach :)
+
+
+Ludger
+-- 
+Man muß das Medium begreifen und das Ticket zum Eintritt heißt Zeit,
+  die Zeit, sich mit dem Medium vertraut zu machen.        (Lutz Uibelhör)

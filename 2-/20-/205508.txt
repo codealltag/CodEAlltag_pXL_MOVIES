@@ -1,0 +1,13 @@
+Soweit ich weiss, ist das alles in einer Datei (ist auch logischer).
+
+
+Dafuer ist normalerweise Hardware erforderlich, weil selbst schnelle
+Rechner die JPEGs nicht in der erforderlichen Zeit dekodieren koennen,
+um eine fliessende Bildabfolge zu gewaehrleisten.
+
+Tschuess,
+Niklaus
+--
+Niklaus Gommers                    | "Tricky is good!
+  University of Vardeilsen, Germany |  Tricky I can do." - Iago, "Return of Jafar"
+  http://ssq.zdn.ygi-towdjf.he/~d82f

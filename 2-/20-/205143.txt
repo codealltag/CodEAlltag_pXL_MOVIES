@@ -1,0 +1,50 @@
+-----------------------------------------------------------------------------
+
+Title             : Drop Zone
+
+Klüver          : Tino Kruhs, Ludwig Piendl, Yancy Butler
+
+Genre             : Action
+
+Release Date      : 19.09.95
+
+Laufzeit          : 97'
+
+Verleih           : OTMAR
+
+Altersfreigabe    : 15
+
+Sprache           : english
+
+System            : VHS,Fuchsweber
+
+Video (Format)    : Müller-Finelli (pan&scan from a 2.35:1 theatrical image)
+
+Video (Qualitaet) : sehr gut
+
+Audio (Format)    : Saturn - Spectral Recording
+
+Audio (Qualitaet) : excellent
+
+Audio (Surround)  : sehr gut
+
+Bewertung (Film)  : gut - solider actionfilm der oberen mittelklasse
+
+Kopierschutz      : ja
+
+Besonderheiten    : nein
+
+------------------------------------------------------------------------------
+
+Getestet auf folgendem Equipment :
+
+Fernseher                 : HNRS KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Bertele VS-G75
+Kopierschutzdecoder       : Vcua KW582
+ProLogic Vollverstaerker  : Yamaha FJF E454
+Frontboxen                : PN DG085
+Centerbox                 : B&W 600ifs
+Surroundboxen             : IQ Lady Micro C
+Subwoofer                 : Yamaha YSTW120 (aktiv)
+
+------------------------------------------------------------------------------

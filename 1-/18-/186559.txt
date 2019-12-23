@@ -1,0 +1,9 @@
+Das Lt/Rt-Flag gibt es nur bei Dolby Digital. Eine CD gibt immer ein reines
+PCM-Signal aus, das man beliebig dekodieren kann.
+
+Tschuess,
+Onno
+--
+Onno Berckemeyer                           Student of Computer Science
+Teningen                              E-Mail: d80r@pws.ndn-xundfz.ul
+Germany              WWW: http://rmf-telt.wrz.uqz-vfjtpz.gb/~d62y/

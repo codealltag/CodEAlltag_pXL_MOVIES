@@ -1,0 +1,5 @@
+Leopold
+-- 
+begin LOVE-LETTER-FOR-YOU.txt.vbs
+Ich bin ein Signature Virus: Verbreite mich!
+end

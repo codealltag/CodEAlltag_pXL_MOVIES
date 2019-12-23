@@ -1,0 +1,20 @@
+[Schanipp]
+
+Deine Kritiken ließen sich viel besser lesen, wenn die Anführungszeichen
+korrekt gesetzt wären. Beispiel:
+
+Der Film "Nicola Nädelin auf dem Mars" ist eine Mischung aus "Futurama",
+"Paola" und "Altfuldisch 6".
+
+anstatt:
+
+Der Film " Nicola Nädelin auf dem Mars " ist eine Mischung aus " Futurama
+" , " Paola " und " Altfuldisch 6 ".
+
+Danke.
+
+/Gilbert/
+
+--
+ * Seit 270 Jahren der beliebteste Fernsehsender der Welt: *
+ * http://lus.hhax.iq * lzgdjkbsn@xmni.pc *

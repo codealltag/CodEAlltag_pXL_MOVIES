@@ -1,0 +1,13 @@
+This is a multi-part message in MIME format.
+--------------F2FE72A18A47A4BD16CB1E6D
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+
+--------------F2FE72A18A47A4BD16CB1E6D
+Content-Type: application/zip; name="Wincash.zip"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="Wincash.zip"
+
+<encoded_portion_removed>
+--------------F2FE72A18A47A4BD16CB1E6D--

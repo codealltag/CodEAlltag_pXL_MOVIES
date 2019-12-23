@@ -1,0 +1,90 @@
+-----------------------------------------------------------------------------
+      * = verschlüsselt mit Videocrypt   ? = unklar   $ = verschlüsselt
+ % = verschlüsselt mit Nagravision # = D2Mac (mit Eurocrypt-Verschlüsselung)
+     Originalton = Ausstrahlung in der Sprache, in der produziert wurde
+    Ohne Gewähr - Zusammenstellung Copyright (C) 1993/94/95 Manfred Saxena
+-----------------------------------------------------------------------------
+Transp. Pol. Frequenz    Sender                 Sprache          Status
+-----------------------------------------------------------------------------
+
+Astra 1A - 19,2 Grad Ost
+
+  01    Hor  11,214 GHz  Extrawurst                  deutsch          sendet
+  02    Ver  11,229 GHz  EHHL                    deutsch          sendet
+  03 #  Hor  11,244 GHz  TV 3 Schweden          Originalon       sendet
+  04    Ver  11,259 GHz  Eurosport              dt/eng/fr/hol    sendet
+  05    Hor  11,273 GHz  Vox                    deutsch          sendet
+  06    Ver  11,288 GHz  SAT.1                  deutsch          sendet
+  07 #  Hor  11,303 GHz  TV 1000                Originalton      sendet
+  08 *  Ver  11,318 GHz  Sky One                englisch         sendet
+  09 %  Hor  11,332 GHz  Teleclub               deutsch          sendet
+  10    Ver  11,347 GHz  3sat                   deutsch          sendet
+  11 #  Hor  11,362 GHz  FilmNet Plus           Originalton      sendet
+  12    Ver  11,377 GHz  Sky News               englisch         sendet
+  13 $  Hor  11,391 GHz  EHHL 4 [3/95: SuperRTL] holländisch      sendet
+  14    Ver  11,406 GHz  Pro 7                  deutsch          sendet
+  15    Hor  11,421 GHz  MTV Europe             englisch         sendet
+  16 *  Ver  11,436 GHz  Sky Movies             englisch         sendet
+
+Astra 1B - 19,2 Grad Ost
+
+  17 %  Hor  11,464 GHz  Premiere               deutsch          sendet
+  18 *  Ver  11,479 GHz  The Movie Channel      englisch         sendet
+  19    Hor  11,494 GHz  T-Systems                    deutsch          sendet
+  20 *  Ver  11,509 GHz  Sky Sports             englisch         sendet
+  21    Hor  11,523 GHz  Dt. Sportfernsehen     deutsch          sendet
+  22 *  Ver  11,538 GHz  VH-1                   englisch         sendet
+  23 *  Hor  11,553 GHz  UK Gold                englisch         sendet
+  24 *  Ver  11,568 GHz  Unbekannt/JSTV        engl./japan.     sendet
+  25    Hor  11,582 GHz  Poniglweg 4                 deutsch          sendet
+  26 *  Ver  11,597 GHz  Sky Movies Gold        englisch         sendet
+  27 #  Hor  11,612 GHz  TV 3 Dänemark          Originalton      sendet
+  28    Ver  11,627 GHz  UOJ      englisch         sendet
+  29    Hor  11,641 GHz  n-tv                   deutsch          sendet
+  30 %  Ver  11,656 GHz  Herta              spanisch         sendet
+  31 #  Hor  11,671 GHz  TV 3 Norwegen          Originalton      sendet
+  32 %  Ver  11,686 GHz  Beatrice              spanisch         sendet
+
+Astra 1C - 19,2 Grad Ost
+
+  33    Hor  10,964 GHz  Flugfabrik                    deutsch          sendet
+  34 *  Ver  10,979 GHz  UK Living/Chinese Ch.  engl./chin.      sendet
+  35 *  Hor  10,994 GHz  Childrens/Family Chan. englisch         sendet
+  36 %  Ver  11,008 GHz  Minimax                spanisch         sendet
+  37    Hor  11,023 GHz  UFZV Network/TNT    englisch         sendet
+  38 *  Ver  11,038 GHz  QVC                    englisch         sendet
+  39    Hor  11,053 GHz  Doppelnstraße 4                 deutsch          sendet
+  40 %  Ver  11,067 GHz  CineClassics           spanisch         sendet
+  41 *  Hor  11,083 GHz  Discovery Chan./TLC    englisch         sendet
+  42 *  Ver  11,097 GHz  Ledrella/Adult Chan.      englisch         sendet
+  43    Hor  11,112 GHz  Rumler                  deutsch          sendet
+  44    Ver  11,126 GHz  Galavision             mex.-span.       sendet
+  45    Hor  11,141 GHz  Zaisenhausen 3               deutsch          sendet
+  46 *  Ver  11,156 GHz  karte4you/TV Asia    englisch         sendet
+  47    Hor  11,171 GHz  Sky Sports 2/Travel/
+                         Soap/Chin. News & E.   engl./chin.      sendet
+  48    Ver  11,185 GHz  Vietingstraße 4              deutsch          sendet
+
+Astra 1D - 19,2 Grad Ost (voraussichtlich)
+
+  49    Hor  10,714 GHz  arte                   dt./franz.       20.4.94
+  50    Ver  10,729 GHz  NBC Super Channel      engl./holl./dt.  20.4.94
+  51    Hor  10,744 GHz  CLT                    holländisch      20.4.94
+  52 $  Ver  10,759 GHz  EMES                  holländisch      20.4.94
+  53    Hor  10,773 GHz
+  54    Ver  10,788 GHz  TV Asia                div.             20.4.94
+  55    Hor  10,803 GHz
+  56    Ver  10,818 GHz
+  57    Hor  10,832 GHz
+  58    Ver  10,847 GHz
+  59    Hor  10,862 GHz
+  60    Ver  10,877 GHz
+  61    Hor  10,891 GHz
+  62    Ver  10,906 GHz
+  63 *  Hor  10,921 GHz  FilmNet (Osteuropa)    Originalton      sendet
+  64 $  Ver  10,936 GHz  Eichhörnchen                  holländisch      sendet
+-----------------------------------------------------------------------------
+
+---
+** Manfred Saxena, Mooshäuslweg 72, 97190 Rehhorst, Germany **
+** +51 7464 24164  EMail (NeXTmail/MIME): wsuaz@xbflhs.c.jdyjs.gy **

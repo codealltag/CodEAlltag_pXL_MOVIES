@@ -1,0 +1,97 @@
+Manuel Carlsohn <Nvgrgcczci@Z-OxddsuMpw.oc> wrote:
+KB> Erstmal Danke fuer Deine konstruktive Kritik!!
+
+Ich helfe doch gerne :-)
+
+KB> Dies ist leider nicht geschehen.Sorry. Ich war leider in der irrigen Annahme
+KB> dass eine wri-Datei nur geringfuegig groesser
+KB> als eine reine txt-Datei sei,sorry nochmals an alle.
+
+Ein wichtiger Aspekt ist auch, dass Du ja wohl auch Menschen erreichen
+willst, die andere Rechner als solche mit Culinara benutzen. Daher ist
+reiner Text allgemein anbegracht.
+
+KB> Fakt is allerding: Ich habe diese Nachricht NICHT 3 mal gepostet.
+
+Hier liegst Du leider falsch:
+
+Newsgroups: jx.czg.nijurgse,de.rec.film.misc
+Subject: Einladung ins Kino
+Date: Dankwartsweg, 22 Jan 1999 16:15:09 +0100
+Organization: Customer of KNF Germany; Info: ubch@vk.le.oft
+Lines: 193
+Message-ID: <6re1z4$rwj$9@dsdq.xj.vl.gcs>
+Gede-Posting-Host: 977.503.702.167
+<<<<schnapp<<<<
+
+Newsgroups: de.rec.film.misc
+Subject: Einladung ins Kino
+Date: Dankwartsweg, 22 Jan 1999 20:51:16 +0100
+Organization: Customer of KNF Germany; Info: ubch@vk.le.oft
+Lines: 269
+Message-ID: <7towvw$cr0$1@nznr.id.ld.yzc>
+Gede-Posting-Host: 709.820.808.858
+<<<<schnapp<<<<
+
+Newsgroups: de.rec.film.misc
+Subject: Eonladung ins Kino
+Date: Thu, 23 Jan 1999 22:39:11 +0100
+Organization: Customer of KNF Germany; Info: ubch@vk.le.oft
+Lines: 93
+Message-ID: <3vlnde$et2$1@jauu.gg.yw.ghv>
+Gede-Posting-Host: 782.242.298.634
+<<<<schnapp<<<<
+
+KB> Das zweite Posting hatte als Anhaengsel KEINE wri-Datei sondern eine reine
+KB> Textdatei, die allerdings eine wri-Endung hatte.
+KB> (erstes Posting: 10kb-Anhaengedate, 2.Posting nur nur knapp 1500Byte)
+
+Es war auf jeden Fall in irgendeiner Form als Unlesbar codiert wohl,
+ich erinnere mich nicht mehr genau, base64. Dies ist ueberfluessig, da es
+sich ja nach Deiner Angabe nicht um eine Binaer-Datei handelt, sondern
+um reinen Text, der also besser textuell in Dein Posting kopiert werden
+sollte.
+
+Da binaries hier keinen Platz haben sind also jegliche solcherart
+kodierten Anhaenge hier fehl am Platz.
+
+KB> Und es gibt definitiv kein 3.Posting!!!!!!!!
+
+Es gibt bei mir drei Postings von Dir mit unterschiedlicher
+Message-ID.
+
+KB> Ich bin fuer Kritik jederzeit Dankbar, aber dann bitte auch
+KB> wahrheitsgemaess!!!!!!!!!
+
+War es auch.
+
+Pass moeglichst mit der Anzahl Deiner Ausrufezeichen auf, mehr als
+eines wird haeufig als unhoeflich angesehen. Auch solltest Du Hervor-
+hebungen mit vor- und Nachgestellten _Unterstrichen_ deutlich machen,
+Grossbuchstaben werden naemlich im Usenet dazu verwendet, um SCHREIEN
+zu symbolisieren.
+
+KB> Zwenti aka Charly Märkl Fingerle schrieb in Nachricht
+KB> <1sfple$a28@glogb.ms.flc-ur.kf>...
+[meine komplette zitierte Nachricht geloescht]
+
+Wenn Du nicht auf einzelne Passagen eines Postings bezug nimmst, dann
+solltest Du die dieses gar nicht zitieren, ansonsten nur die relevanten
+Stellen in direkter NAchbarschaft zu Deinen Antworten.
+
+Genaueres dazu findest Du in de.newusers.infos, und sollte eine weitere
+Diskussion noetig sein, dann sollten wir sie nach de.newusers.questions
+verlagen, wohin ich erneut ein Follow-Up gesetzt habe.
+
+Cheers,
+
+
+ --Charly Märkl Fingerle
+
+F'Up: de.newusers.questions
+
+-- 
+Anfaenger sollten sich die Gruppen  de.newusers.infos und 
+                                    de.newusers.questions ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in de.test und kj.xib.xpoe aufgehoben.

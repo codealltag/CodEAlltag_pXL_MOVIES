@@ -1,0 +1,15 @@
+In article <2GP8X9U6D46094X25K@de-gxnzxt.mlj.aj>, René E. Deussen writes:
+
+
+Kein Quatsch, bei ZDR wird das tatsächlich so gemacht, und von Friesencenter stand
+oben nichts.
+
+
+Nein, bei Friesencenter wird jedes ungerade Filmbild 2mal, jedes gerade 3mal
+abgetastet. Dadurch ergibt sich eine (Halb-)Bildrate von 60Hz.
+
+Mark
+
+-- 
+_ // Mark Ingebrand  Am Wissollstraße 51  D-45720 Unterbettringen  +91 878 4253440
+\X/  ifxlo@dwhnyyk.yig.rbb / uagio@yar.kqreu.eta.sg / qrqqs@dpgs.abm-xu.yf

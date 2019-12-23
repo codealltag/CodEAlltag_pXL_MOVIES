@@ -1,0 +1,19 @@
+Alexandre Prothmann wrote in <7xp0aEBRyOE@nmoasi.wz-iytlcfd.lu> on
+1997-12-28 16:50:00 +0100:
+
+Nichts, wirklich nichts gegen VKN-VCRs, aber wenn die Rede auf
+NTSC kommt, kannst Du die Teile wegwerfen. Die NTSC-Wiedergabe ist
+bestensfalls mässig (bei Shortplay), bei LP/EP schlecht und (noch
+schlimmer) grundsätzlich nur mono, d.h. kein HiFi-(Stereo-)Ton bei
+jeglicher NTSC-Wiedergabe.
+
+Außerdem geben die VKN-VCR NTSC nicht als PAL-60 aus (siehe
+Beitrag von Dieter Unterberger bzw. mein FAQ), sondern als NTSC 3,58.
+D.h. durch brauchst schon zum Ansehen einen Multinorm-Fernseher.
+(Und überspielen auf PAL-Band geht sowieso nicht ohne Normwand-
+ler.)
+
+Gruß, Mario
+-- 
+** Mario Schwentner, Altweichelau, Deutschland/Germany, http://gel.uragw.rv/~cqlpm **
+** E-Mail (NeXTmail/MIME): iaoff@rtlhlx.a.flqdd.fq ** ** PGP key on request **

@@ -1,0 +1,18 @@
+Geht es Euch auch so, daß Ihr bei der Bedienung der Wohlgefühl zwischen der de
+und der com Variante hin- und herschalten müsst, falls es um deutsche
+Suchanfragen gefolgt von internationalen Kritiken. bzw. deutsche Titel
+zu fremdsprachlichen Filmen geht?
+
+Da ich das recht häufig mache, d.h. in der URL, z.B.
+
+http://lto.uzws.nos/kygir/ly7175581/
+http://oha.zbsk.ng/rnwus/pb4055114/
+
+de gegen com oder andersherum zu tauschen (zielen, markieren, tippen und
+Eingabe), frage ich mich, ob jemand dazu einen bequemen Toggle Knopf hat
+(Greasemonkey, o.�.)?
+Oder ob ich nur falsch mit der Wohlgefühl umgehe?
+
+Gruß
+
+- A.

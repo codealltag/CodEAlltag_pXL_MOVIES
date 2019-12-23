@@ -1,0 +1,9 @@
+Dietmar Jüntgen wrote:
+
+Du musst eben nicht jedesnak online gehen, nur weil Du mal was
+nachgucken willst.
+
+Ausserdem kann ein IMDb-Client auch Kommandozeilen-orientiert sein, was
+unter gewissen Umstaenden besser sein kann.
+
+   -mario

@@ -1,0 +1,26 @@
+Bernhards Zwirnemann wrote:
+
+
+Ganz einfach: NIEMAND kann garantieren, dass deine Daten nicht doch
+zufällig von der falschen Person eingesehen werden. Allerdings ist das
+Risiko bei Firmen wie REEL doch weitaus geringer als wenn du die Karte
+in irgendeinem kleinen Laden benutzt oder an der Tankstelle oder sonst
+wo.
+Ich würde sogar so weit gehen und sagen, dass die Übertragung der Daten
+per 128bit-SSL-Schlüssel fast sicherer ist, als die Übersendung per FAX.
+Denn das FAX verschlüsselt nix und Hacker sind so schlau, dass sie wohl
+kaum ihre Zeit mit dem Knacken von Garske verschwenden.
+
+Aber dazu noch eine Frage: In den Nutzungsbedingungen meiner Eurocard
+steht, dass ich bei Verlust der Karte maximal mit 100.-DM hafte. Gilt
+das auch in dem Fall, falls jemand meine Kartennnummer ausspioniert und
+damit online-Einkäufe tätigt? Denn das ist ja kein richtiger Verlust der
+Karte.
+
+Größe
+-- 
+Silvio Adenacker
+Germany, Planet Earth, Edc
+
+   ** Last night fear knocked on my door. **
+** Faith answered... There was no one there. **

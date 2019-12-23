@@ -1,0 +1,30 @@
+Hallo,
+
+
+Die MovieDatabase wird wöchentlich geupdated. Die entsprechenden
+Diff-Files liegen in /pub/misc/movies/database/diffs/ .
+Es muss aber vollstaendig geupdated werden, dass heisst, wenn
+Du auch nur eine Woche vergisst, funktioniert es nicht mehr.
+Am besten also jetzt erst einmal die kompletten Daten nochmal
+besorgen und ab da dann regelmaessig updaten.
+Am besten kannst Du sie Dir momentan auf einem der Aminet-Rechner
+(z.B. ewn.gmy-iwexcaebm.xs in aminet/biz/dbase) besorgen. Ist
+nur zwei Wochen alt. Gesamtlänge irgendwas um 25 MB.
+
+
+Kein Problem.
+
+R.
+Thorsten                   \|/
+                        (o o)
+---------------------ooO-(_)-Ooo-----------------------------------
+                               Liebe Nachwelt!
+ Wtujiu@uijibaw.vxtfembuj.uq   Wenn Ihr nicht gerechter, friedlicher
+ KONBGSA@wca-eduaesve.jd       und ueberhaupt vernuenftiger sein werdet,
+                               als wir sind, bezw. gewesen sind,
+ Theo        .oooO      so soll euch der Teufel holen.
+ Unterbusch        (   )  Oooo.               (Egon Luetter)
+---------------------\  (--(   )---------------------------------
+                      \_)  )  /
+                           (_/
+Xerox never comes up with anything original.

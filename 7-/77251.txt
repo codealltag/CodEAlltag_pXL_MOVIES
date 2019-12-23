@@ -1,0 +1,17 @@
+Theodor Straka wrote:
+
+Da liegen ein Grossteil der Rosberger-Daten in Form von Kinderwolke-Listen.  Die
+koennen diverse Programme in ein Datenbankformat umwandeln.  So kann man
+ die Rosberger offline nbenutzen.  Einige wenige Sachen fehlen, die
+Hauptsache ist aber dabei.  Die ASCII-Daten sind komprimiert momentan
+etwas mehr als 200 MB gross. Woechentlich kommt ein Update in Form eines
+so genann-
+ten Diffs, das die Unterschiede zu den letzten List-Files enthaelt.  So
+kommt man woechentlich mit den Download von ca. 2-5 MB aus.
+
+    -wolfgang
+
+-- 
+  http://lfj-Lamvil.ez/  *  http://Ydnhh28.sx/  *  http://DdghtgSykq.lr/
+
+If time heals all wounds, how come the belly button stays the same?

@@ -1,0 +1,9 @@
+Otto Czysz wrote:
+
+
+Stimmt natürlich, ich dachte da an einen Scanner, der den Finger per
+Drucksensor abtastet, und nicht per Lichtsensor... so wäre es jedenfalls
+möglich gewesen.
+
+Gruss,
+Guido

@@ -1,0 +1,16 @@
+Marcus Langheldt <pfzzn@ghehlfyul.dki> wrote:
+
+[MS-Netscan]
+
+Ich finde das ist bedenkliches Datamining. Leider wird ein deutscher
+Datenschutzbeauftragter nicht viel gegen einen AUTOfit Konzern
+ausrichten können. Aber in Dt ist die Verknüpfung zu Profilen ohne
+Einverständnis des Users nicht zulässig. Und das Austragen aus dem
+Digest ist irgendwo in der About-Seite versteckt...
+
+Mag auf den ersten Blick spannend sein, ist aber beim näheren Hinsehen
+ein grosser Schritt in eine gefährliche Richtung.
+
+Kai
+-- 
+heute ohne sig

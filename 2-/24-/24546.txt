@@ -1,0 +1,9 @@
+Othmar O. O. Pahlke hat geschreibselt:
+
+
+Korrekt. Der PAL Speedup beträgt 4%.
+
+
+Nein, der ist immer konstant.
+-- 
+ryl: Pommerich

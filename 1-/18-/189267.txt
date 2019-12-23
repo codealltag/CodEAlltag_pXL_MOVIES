@@ -1,0 +1,70 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+      		1. Aufruf zur Diskussion (1. RfD)
+                ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+zur Einrichtung der Newsgruppe
+
+	gh.kow.bywb.xgcpjawv	Filmkritiken und -bewertungen
+
+
+Status
+~~~~~~
+   	Die Gruppe ist moderiert.
+
+   	Moderator:  Frerich Bruchmann <de-rec-film-kritiken@erle.line.org>
+
+
+Charta
+~~~~~~
+
+	Die Gruppe dient zum Veröffentlichen von Filmkritiken und 
+   	-bewertungen.
+
+   	Dabei sollte ein Artikel so aufgebaut sein, daß er
+	- die Art des Medium
+     	- eine Vorstellung
+     	- eine Bewertung und
+     	- Fazit/Resümee
+  	enthält.
+
+  	Die Art des Mediums sollte doch ein Tag im Subject deutlich gemacht
+  	werden. Zum Beispiel: [Kino], [DVD] oder [Video].
+
+
+Begründung
+~~~~~~~~~~~
+
+Es wurde in einem Pr-RfD der Wunsch nach einer Gruppe alleine nur
+für Filmkritiken laut. Aufgrund der konstanten Anzahl der
+Filmkritiken in de.rec.film.misc scheint dies ein berechtigter
+Wunsch zu sein.
+
+Es gibt ein Vorbild fuer diese Gruppe, rec.arts.movie.review. Diese
+Gruppe hat sich gut bewährt.
+
+Nach einer Handz�hlung von mir, in der ich mir die Subjects angesehen
+habe, konnte ich rund 30 Artikel, die der obigen Charta entsprechen, in
+der zweiten Juli-Hälfte zählen.
+
+Hochgerechnet auf einen Monat wären das 60 Artikel, Sahe genug um eine
+moderierte Gruppe zu rechtfertigen. Natürlich hängt diese Zahl mit den
+in den Kinos laufenden Filmen zusammen.
+
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3ia
+Charset: noconv
+
+Ingolf
+8HR4urZwV++AlV2i2JpEno4aC0asZgdhpXCukJxaqDCtBzSxEiwdtDbJKz+nnpX+
+Bianca
+blY//IUCdNdZWzFnswdlr9dCI3wsfbPidhIrmLOi6kmIC1dzV739RHTLrGyNEk9O
+s5izV0vGeWC2vJE1g5PrK6LXNrG2F2fKGTMDJErgNe/EYxaDS5kMZvtKOOOSOOVL
+Franziska
+RUEDI
+-----END PGP SIGNATURE-----
+-- 
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <jvvvqdfji@vdyh.oa> (vertrauliche
+Einsendung) oder <whbbeg@zins.sf> (geht zur Kontrolle auch an eine
+öffentliche Mailingliste) schicken.

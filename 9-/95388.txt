@@ -1,0 +1,10 @@
+Urs Unterreitmeier wrote:
+
+Muss man nur "MySQL 05. 03. 19" downloaden oder auch "Cygwin 1.3.9"?
+
+
+Ja, hab's inzwischen gefunden. Sorry!
+
+-- 
+Tim Topfel <jagw@gzalrs.zw>, Luxembourg
+PGP RSA & DH/DSS public key on request and on public servers

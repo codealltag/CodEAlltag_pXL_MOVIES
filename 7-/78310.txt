@@ -1,0 +1,8 @@
+On Fri, 21. 09. 20 16:52:44 +0200, Tobias Emmer
+Was hat Leinert eigentlich gegen die Criterion? Dort wird sie als RC1
+bezeichnet, sie ist aber definitiv RC0, das hat mir Criterion
+bestaetigt.  
+
+Vito
+-- 
+Nachbarschaftsstreit? Da gibts doch auch was von Füchtenkötter&Levenig-Erkens...

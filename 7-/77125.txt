@@ -1,0 +1,34 @@
+Theo Conrath (19.09.2003, 19:04) wrote:
+
+
+Vielleicht hat sie das schon. Die Matrix ist ja eine Software, also
+speichert sie die "Erfahrungen" und "Erinnerungen" der Avatare, die
+dem körperlichen Menschen ins Hirn gepflanzt werden, einfach in einer
+Sessionvariable und löscht die notfalls:
+
+unset ( $_SESSION['theremightbeghostsonhighway'] );
+
+:-))
+
+
+Finde ich auch.
+
+
+Nicht unbedingt, denn auch die Matrixmacher konnten nicht voraussehen,
+dass eine perfekte Welt den Menschen Probleme macht. Mit der Zeit
+stellten sie fest, wie Mensch ist und passten die Matrix an. Da ist
+egal, ob Mensch weiss wie Mensch ist, er verhält sich seiner Natur
+nach (wenn auch nur im Geiste in der Matrix).
+
+
+Yup.
+
+
+Natürlich. Aber woher weisst Du denn, dass Ellens Wiemann in Teil 8
+wirklich wie unsere Steaks schmecken? :D
+
+Größe, Arthur.
+
+-- 
+Erfahrung heißt gar nichts. Man kann seine Sache auch 35 Jahre schlecht
+machen.                                                [Benjamin Däscher]

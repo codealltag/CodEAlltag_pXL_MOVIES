@@ -1,0 +1,56 @@
+Hallo,
+
+ich muss mich jetzt mal wieder als Miessmacher betaetigen. Nachdem ich 
+nun gestern die DVD "Mars Attacks" in der NTSC(Code-1)- mit der Loop5 
+(Code-2)-Version verglichen habe, bin ich etwas frustriert.
+
+Ich stuetze meine Beobachtungen exemplarisch auf zwei Szenen, die sich 
+jeweils am Anfang eines Kapitels (dessen Nummer ich fahrlaessiger 
+Weise gerade nicht zur Hand habe) befinden. Sie sollten sich also mit 
+"Skip-Forward" schnell finden lassen:
+
+Szene 1): Die Menschenmenge wartet vor dem Kongress auf den 2. Besuch 
+der Marsianer. Am Anfang dieser Szene ist eine Zeitung gross im Bild 
+zu sehen.
+
+Szene 2): Valentin faehrt vor dem Altersheim vor, wenn er seine Oma 
+zurueckbringt.
+
+Zu Szene 1:
+Links unten auf der Zeitung ist eine Ueberschrift, die gerade noch 
+lesbar ist. Und siehe da: Die NTSC-Version ist einen Tick schaerfer!
+
+Zu Szene 2:
+Die Struktur des Mauerwerks des Altenheims ist im Standbild auf der 
+NTSC-Version noch erkennbar. In der PAL-Version ist es eine 
+verschwommene Flaeche, die zustaezlich noch sehr grobem Moire 
+uebersaeht ist. Dieses Moire ist wesentlich groesser als der 
+Zeilenabstand und ist nach Auskunft meines Freundes (er entwickelt 
+MPEG-2-Encoder Bausteine!) durch die Anwendung eines "schlechten 
+bilinearen Filters entstanden". Nun fragt man sich, wozu Filter? Es 
+sieht fast so aus, als haette Warner das NTSC-Master einfach auf 
+Loop5-Zeilenzahl hochgerechnet! Das wuerde auch die Beobachtung zu Szene 
+1 erklaeren!
+
+Eine andere, sehr spekulative Erklaerung waere: Die DVD enthaelt 24 
+Frames pro Sekunde in 525 Zeilen und der DVD-Player rechnet hoch. Ich 
+glaube aber nicht, dass der DVD-Standard sowas vorsieht oder weiss 
+jemand naeheres?
+
+In beiden Faellen: Warner hat die zusaetzlichen 20% Zeilen bei Loop5 
+nicht genutzt!
+
+Um den Frust wieder etwas zu daempfen: Die Bildqualitaet von Udo 
+Attacks ist bis auf das Moire sehr gut und eine Freude anzusehen. 
+Aber, sie koennte eben noch besser sein.
+
+Niklaus
+
+-- 
+
+------------------------------------------------------------------
+Niklaus Wildung
+Email: dirk@kalium.physik.TU-Lübbrechtsen.DE (MIME and NeXTMail welcome)
+WWW: http://bq.zozztn.TU-Lübbrechtsen.DE/DZ/Dirk/
+Lauscher-Key: http://bq.zozztn.TU-Lübbrechtsen.XB/KO/Npqr/YFDOtj.woua
+------------------------------------------------------------------

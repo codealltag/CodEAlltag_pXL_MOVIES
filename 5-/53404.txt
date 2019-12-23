@@ -1,0 +1,256 @@
+NG-Statistik drfm für den Juli 2003
+erstellt mit einem Skript von Veit Uppenthal.
+
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+
+
+28. 02. 19 postings
+28. 02. 19 postings
+28. 02. 19 postings
+
+04/28. 02. 19 postings
+
+
+Autoren mit den meisten Postings (1746 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  28. 02. 19 | 148.1 | Thierry Haefeli        |  4.0%  xxxxxxxxxxxxx
+   2 |  28. 02. 19 | 108.6 | Luca C. Jentzen     |  3.8%  xxxxxxxxxxxxx
+   3 |  56 | 1551 | 116.0 | Silvio Cappelmann      |  3.2%  xxxxxxxxxxx  
+   4 |  28. 02. 19 |  91.5 | Christof Karwasz    |  3.0%  xxxxxxxxxx   
+   5 |  51 |  767 |  81.12 | Heinz Vaigt            |  2.9%  xxxxxxxxxx   
+   6 |  28. 02. 19 |  72.5 | Noël Engesser             |  2.3%  xxxxxxxx     
+   7 |  38 |  970 |  67.0 | Serge Armbruckner           |  2.2%  xxxxxxx      
+   8 |  35 |  752 |  54.4 | Hanspeter Prüßmeyer       |  2.0%  xxxxxxx      
+   9 |  34 |  828 |  63.6 | Marcel Zöllner      |  1.9%  xxxxxx       
+  10 |  31 |  944 |  78.4 | Willi Espelage         |  1.8%  xxxxxx       
+  11 |  27 | 0435 | 139.2 | Luc                 |  1.5%  quirine        
+  13 |  25 |  517 |  53.9 | Vito Greilich         |  1.4%  quirine        
+  15 |  24 |  483 |  39.11 | Tobias D. Jenge      |  1.4%  xxxx         
+  16 |  23 |  638 |  48.5 | Hubert Gützlag         |  1.3%  xxxx         
+  18 |  19 |  598 |  38.11 | Tim Holfoth        |  1.1%  ägidius          
+  20 |  28. 02. 19 |  68.10 | Hubert Coellen         |  0.9%  ägidius          
+  23 |  14 |  480 |  32.6 | Reiner Ingenweyen             |  0.8%  ägidius           
+  29 |  13 |  281 |  21.0 | Albin Ueltzhöffer            |  0.7%  ägidius           
+  31 |  28. 02. 19 |  90.12 | Nane Reisenbüchler            |  0.7%  ägidius           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (313 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                           
+       19 |   2 |  0.6%                                                 
+       16 |   3 |  1.0%  x                                              
+       14 |   6 |  1.9%  ägidius                                             
+       13 |   2 |  0.6%                                                 
+       12 |   9 |  2.9%  ägidius                                            
+       11 |   7 |  2.2%  ägidius                                             
+       10 |   5 |  1.6%  ägidius                                             
+        9 |   5 |  1.6%  ägidius                                             
+        8 |   6 |  1.9%  ägidius                                             
+        7 |   9 |  2.9%  ägidius                                            
+        6 |  11 |  3.5%  xxxx                                           
+        5 |  11 |  3.5%  xxxx                                           
+        4 |  17 |  5.4%  xxxxxx                                         
+        3 |  34 | 10.9%  xxxxxxxxxxxxx                                  
+        2 |  50 | 16.0%  xxxxxxxxxxxxxxxxxxxx                           
+        1 | 119 | 38.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (177 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  18 |    71 | 10.2%  xxxxxxxxxxxxxxxxxxxx
+   2 | Veit Angermeyer         |   5 |    12 |  2.8%  quirine               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (177 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Serge Armbruckner           |   5 |   158 |  9.0%  xxxxxxxxxxxxxxxxxxxx
+   2 | Luca Feuereisen       |   3 |   130 |  7.4%  xxxxxxxxxxxxxxxxx   
+   3 | Vreni Korsting        |   2 |   123 |  7.0%  xxxxxxxxxxxxxxxx    
+   4 | Albin Ueltzhöffer            |   1 |   116 |  6.6%  xxxxxxxxxxxxxxx     
+   5 | Christof Karwasz    |   4 |   109 |  6.2%  xxxxxxxxxxxxxx      
+   6 | Sebastian Aldejohann       |   2 |    90 |  5.2%  xxxxxxxxxxx         
+   7 | Tuvok                 |  18 |    71 |  4.1%  xxxxxxxxx           
+   8 | Stephan Imwolde           |   1 |    61 |  3.5%  xxxxxxxx            
+   9 | Emmerich Erb      |   1 |    50 |  2.9%  xxxxxx              
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1746 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 121 | Spielberg dreht Film über Olymp?=   =?IS|  6.9%  xxxxxxxxxx
+   2 | 116 | Filme wie "Event Horizon"               |  6.6%  xxxxxxxxxx
+   3 | 106 | Cinestar Antwortet                      |  6.1%  xxxxxxxxx 
+   4 |  85 | Kill Bill 2                             |  4.9%  xxxxxxx   
+   5 |  82 | Dawn Of The Dead - Frage zum Ende (Spoil|  4.7%  xxxxxxx   
+   6 |  74 | Kill Oscar II                            |  4.2%  xxxxxx    
+   7 |  61 | MGM verärgert Hörgeschädigte            |  3.5%  quirine     
+   8 |  50 | Dawn of the Dead - Kritik(?)            |  2.9%  xxxx      
+   9 |  39 | Zitate am Beginn von Filmen             |  2.2%  ägidius       
+  11 |  37 | urheberrecht - filme in der schule?     |  2.1%  ägidius       
+  12 |  34 | Offener Brief an Filmpalast am ZKM (Cine|  1.9%  ägidius       
+  14 |  31 | Willi Capitain-Berendonk: der grimme Schnitter ging um |  1.8%  ägidius        
+  15 |  27 | Stimmungsmache mit Tieftoenen           |  1.5%  ägidius        
+  16 |  25 | Deutsche Takes in US-Filmen             |  1.4%  ägidius        
+  17 |  24 | MediaMarkt                              |  1.4%  ägidius        
+  18 |  22 | "The Ring" - einige Fragen              |  1.3%  ägidius        
+  19 |  21 | Ungewollter Atomkrieg - welcher Film war|  1.2%  x         
+  21 |  19 | frage zu Kill Bill Vol.2 / spoiler      |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (177 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                          
+    19 |   1 |  0.6%  x                                                 
+    17 |   3 |  1.7%  ägidius                                               
+    16 |   3 |  1.7%  ägidius                                               
+    15 |   2 |  1.1%  ägidius                                                
+    12 |   2 |  1.1%  ägidius                                                
+    11 |   3 |  1.7%  ägidius                                               
+    10 |   2 |  1.1%  ägidius                                                
+     9 |   3 |  1.7%  ägidius                                               
+     8 |  10 |  5.6%  xxxxxxxxxxx                                       
+     7 |   8 |  4.5%  xxxxxxxxx                                         
+     6 |   9 |  5.1%  xxxxxxxxxx                                        
+     5 |  11 |  6.2%  xxxxxxxxxxxx                                      
+     4 |  13 |  7.3%  xxxxxxxxxxxxxx                                    
+     3 |  19 | 10.7%  xxxxxxxxxxxxxxxxxxxxx                             
+     2 |  23 | 13.0%  xxxxxxxxxxxxxxxxxxxxxxxxxx                        
+     1 |  45 | 25.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 284 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  65 | Citröen Outlook Express      | 22.9%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  50 | Capelli                        | 17.6%  xxxxxxxxxxxxxxxxxxxx     
+  44 | Forte Agent                    | 15.5%  xxxxxxxxxxxxxxxxx        
+  15 | Capelli Thunderbird            |  5.3%  xxxxxx                   
+  14 | KNode                          |  4.9%  quirine                    
+  11 | 40tude_Dialog                  |  3.9%  xxxx                     
+  11 | slrn                           |  3.9%  xxxx                     
+  10 | Xnews                          |  3.5%  xxxx                     
+  10 | MacSOUP                        |  3.5%  xxxx                     
+   8 | Netscape                       |  2.8%  ägidius                      
+   8 | tin                            |  2.8%  ägidius                      
+   7 | Gnus                           |  2.5%  ägidius                       
+   6 | Hamster                        |  2.1%  ägidius                       
+   5 | Pan                            |  1.8%  ägidius                       
+   3 | Forte Free Agent               |  1.1%  x                        
+   2 | MicroPlanet Gravity            |  0.7%                           
+   2 | Opera7.23                      |  0.7%                           
+   2 | MesNews                        |  0.7%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.4%                           
+   1 | Opera7.10                      |  0.4%                           
+   1 | MT-NewsWatcher                 |  0.4%                           
+   1 | MicroPlanet-Gravity            |  0.4%                           
+   1 | Microsoft-Outlook-Express-Macin|  0.4%                           
+   1 | Microsoft Telnet               |  0.4%                           
+   1 | Mutt                           |  0.4%                           
+   1 | CrossPoint                     |  0.4%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.4%                           
+   1 | trn                            |  0.4%                           
+   1 | Hogwasher                      |  0.4%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 88 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  17 | Capelli                        | 27.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | Citröen Outlook Express      | 18.2%  xxxxxxxxxxxxxxxxxxxxxxxx 
+  14 | Forte Agent                    | 15.9%  xxxxxxxxxxxxxxxxxxxxx    
+   5 | 40tude_Dialog                  |  5.7%  xxxxxxx                  
+   5 | Netscape                       |  5.7%  xxxxxxx                  
+   5 | slrn                           |  5.7%  xxxxxxx                  
+   4 | Xnews                          |  4.5%  xxxxxx                   
+   4 | MacSOUP                        |  4.5%  xxxxxx                   
+   3 | Gnus                           |  3.4%  xxxx                     
+   3 | Hamster                        |  3.4%  xxxx                     
+   3 | KNode                          |  3.4%  xxxx                     
+   2 | Pan                            |  2.3%  ägidius                      
+   1 | Forte Free Agent               |  1.1%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.1%  x                        
+   1 | Opera7.10                      |  1.1%  x                        
+   1 | tin                            |  1.1%  x                        
+   1 | MicroPlanet-Gravity            |  1.1%  x                        
+   1 | Capelli Thunderbird            |  1.1%  x                        
+   1 | Microsoft Telnet               |  1.1%  x                        
+
+
+Postingverteilung über die Woche (1568 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+ Mon | 231 | 14.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+ Tue | 207 | 13.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+ Wed | 323 | 20.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Thu | 291 | 18.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+ Fri | 245 | 15.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+ Sat | 127 |  8.1%  xxxxxxxxxxxxxxxxxxxx                                
+ Sun | 144 |  9.2%  xxxxxxxxxxxxxxxxxxxxxxx                             
+
+
+Postingverteilung über den Monat (1746 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  36 |  2.1%  xxxxxxxxxxxxxx                                      
+   2 |  49 |  2.8%  xxxxxxxxxxxxxxxxxxx                                 
+   3 |  21 |  1.2%  xxxxxxxx                                            
+   4 |  54 |  3.1%  xxxxxxxxxxxxxxxxxxxxxx                              
+   5 |  54 |  3.1%  xxxxxxxxxxxxxxxxxxxxxx                              
+   6 |  57 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   7 |  53 |  3.0%  xxxxxxxxxxxxxxxxxxxxx                               
+   8 |  40 |  2.3%  xxxxxxxxxxxxxxxx                                    
+   9 |  56 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  10 |  17 |  1.0%  xxxxxx                                              
+  11 |  47 |  2.7%  xxxxxxxxxxxxxxxxxxx                                 
+  12 |  53 |  3.0%  xxxxxxxxxxxxxxxxxxxxx                               
+  13 |  72 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  14 | 130 |  7.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  15 |  75 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  16 |  57 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  17 |  75 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  18 |  29 |  1.7%  xxxxxxxxxxx                                         
+  19 | 101 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  20 |  77 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  21 |  81 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  22 |  84 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  23 |  38 |  2.2%  xxxxxxxxxxxxxxx                                     
+  24 |  32 |  1.8%  xxxxxxxxxxxxx                                       
+  25 |  36 |  2.1%  xxxxxxxxxxxxxx                                      
+  26 |  44 |  2.5%  xxxxxxxxxxxxxxxxx                                   
+  27 |  25 |  1.4%  xxxxxxxxxx                                          
+  28 |  84 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  29 | 100 |  5.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  30 |  69 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+HTH ;-)
+Gerhard
+-- 
+No fear. No distractions. The ability to let that
+which does not matter truly slide.

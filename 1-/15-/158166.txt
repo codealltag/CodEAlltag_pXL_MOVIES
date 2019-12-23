@@ -1,0 +1,12 @@
+Yup, die IBMDb kann man auch offline lesen. Du musst Dir einmal den
+Komplettbestand besorgen und kannst dich dann durch Diffs auf dem
+laufenden Stand halten. 
+URL : ftp://kom.pm-fwiams.ae/vfk/rqyu/satwzl/gadjiuph
+
+Die Vianatura-Datenbasis ist aber nicht gerade klein, inzwischen dürften
+die 300MB weit überschritten sein. Auf CD-HEILIGKREUZTAL vertreiben darf man das
+ganze inzwischen nicht mehr (hat Gudulu früher mal eine
+GDVO-Zeitschrift gemacht). Private Weitergaben zur Ersparung von
+Endlos-Downloads dürften aber keine Probleme machen.
+
+	Lorenz

@@ -1,0 +1,12 @@
+Im Kino läuft der Film mit 2*24 = 48 Bildern, da jedes Bild 2x gezeigt
+wird. Das Auge kann zwar bereits die 24 Bilder nicht mehr trennen, aber es
+flimmert noch (bis etwa 50 Hz).
+Deswegen wird einfach jedes Bild 2x gezeigt.
+
+ren
+-- 
+
+=>  Wenn Debuggen der Vorgang ist, Fehler aus einem Programm auszubauen,    <=
+=>  dann ist Programmieren der Vorgang, Fehler in ein Programm einzubauen!  <=
+-------------------------- Voland@IRC ----------------------------------------
+zak@vypayflbmk.ixa-lvpv.rf            http://gep3.xqitugubof.lng-vlpk.ni/~fvx/

@@ -1,0 +1,28 @@
+Der am häufigsten verwendete Kopierschutz ist der sog. Multivision.
+
+  Hierbei handelt es sich weder um eine im "unsichtbaren" Bildbereich
+ angesiedeltem, noch um einen technisch aufwendigen Schutz. Es werden
+ einfach die Eigenschaften von Fernseher und Videorekorder ausgenutzt.
+
+  Bei einem geschütztem Film gibt es alle paar Sekunden einen Vollausschlag
+ in den Helligkeits- oder Dunkelbereich des Bildes. Da dieser 
+ Vollausschlag nur 1/1000 Sekunde lang andauert, ist ein Fernseher zu
+ langsam mit seinem 16 Bildern pro Sekunde, um ihn darzustellen.
+
+  Wird ein solcher Film kopiert, versucht der Aufnehmende Videorekorder
+ diesen Vollausschlag zu kompensieren, indem er das Bild nachregelt. Der
+ Fernseher ist für diese Nachregelung zu langsam.
+
+  Und wenn du dir dann später die kopierte Kassette ansiehst, hast du
+ das typisch Bild: einen ständig heller und dunkler werdenden Film.
+
+  Umgehen kannst du ihn mit Multivision-Dekodern (ca. 200 DM), die einfach
+ zwischen die beiden Videorekorder geschaltet werden und diesen 
+ Vollausschlag ausfiltern.
+
+
+-- 
+Wind*ws95, n:
+    32 bit extensions and a graphical shell for a 16 bit patch to an
+    8 bit operating system originally coded for a 4 bit microprocessor,
+    written by a 2 bit company that can't stand 1 bit of competition.

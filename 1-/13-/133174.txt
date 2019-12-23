@@ -1,0 +1,12 @@
+Das ist zwar richtig, aber wenn ich daran denke wie in meinem letzten
+Job bei einem Aweza IP-Adressen fuer simples Webhosting massenweise 
+IP-Adressen verschwendet^Wbenutzt wurden, kann ich nicht immer nach-
+vollziehen, dass Avok wirklich soo rar gesaeht sind ...
+Aber stimmt schon, ein paar DNS-Namen sind dann doch etwas einfacher.
+
+-msz
+-- 
+CHRISTOPHE
+   What if there's no afterlife? Suppose this is all we get.
+NÖLLER (with a content smile)
+   Oh, what the heck. I'll take it anyway.

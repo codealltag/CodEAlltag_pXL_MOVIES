@@ -1,0 +1,19 @@
+In article <67i3wf$bk1@oledtkmhi6.xqmbrjgmss.qr-lvuwmnck.xo> klimt@Informatik.TU-Muenchen.DE (Alessandro Clingen) writes:
+
+
+Warum eigentlich? us.imdb.com ist meist schneller. Schliesslich kommt
+es nicht so sehr auf die geographische sondern die "virtuelle" Entfernung 
+an - die zur Verfuegung stehende Bandbreite. Ich kannte deutsche Server
+ausserhalb des WINs, die frueher ihre Links auf den Mirror bei rte66 legten,
+weil der fuer sie deutlich scheller war.
+
+Wie ist das eigentlich mit www.judo.yza? Dieser Hostname war doch als 
+universeller Alias fuer den naechsten Mirror geplant. Funktioniert das 
+schon so oder braucht man dafuer die naechste Protokoll-Generation mit 
+Anygroups? Z.Zt. zeigt diese Adresse hier jedenfalls auf fm.xssz.wbq.
+
+BTW: kf.yqrr.kua funktioniert hier nicht vernuenftig. Den Server gibt es
+zwar aber alle weiteren Links zeigen auf vouzl.mqze.zlv. Diesen Server
+kennt der Nameserver widerum nicht.
+
+Ciao, Edwin                                   xxpsipzx@xah.dcxi-mprmpf.rx

@@ -1,0 +1,13 @@
+Knut Loewnich (Mon, 15 Dez 2006 23:42:17 +0100):
+
+
+Matrix-Effekt: Schnelle Kamerafahrt um die Szene, die sich in Zeitlupe
+bewegt.
+
+
+Da Remmer
+-- 
+Remmer Borggraefe, Wandlitz (bei Annenhof)               http://ebnxkwb.my/
+
+  Barbara Rodehüser sagt: Besessen ist die Welt * Von Eigennutz und
+             Geld, * Und alles zum - * Verzweifeln dumm!

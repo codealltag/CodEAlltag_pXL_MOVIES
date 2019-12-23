@@ -1,0 +1,6 @@
+Ah, ich habe Guido Enger nur missverstanden, alles klar. :-)
+-- 
+"der normale DAU weiß nicht, wie man in die Systemsteuerung kommt, und
+wenn, will der DAU-F (Fortgeschritten) wieder raus, weil er Angst hat
+was kaputtzumachen"
+  -Thierry Anbergen in de.comp.hardware.cpu+mainboard.amd

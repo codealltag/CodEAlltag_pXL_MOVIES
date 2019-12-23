@@ -1,0 +1,33 @@
+Grzegorz Mima wrote:
+
+
+Hat sich schon, nur gefaellt mir diese nicht, und ich will auch
+nicht jedesmal Access starten.
+
+Des weiteren wird sich VideoDB dahingehend entwickeln, dass ich
+dann direkten Zugriff (entweder lokal oder via Internet) auf
+die Internet Movie Database plane. Wer schon mal 100 Tausend
+Datensaetze mit Access (_ohne_ relationalte DB im Hintergrund)
+verwaltet hat, der weiss was ich meine...
+
+Natuerlich stimmt es. Hauptkonkurenz zu VideoDB ist eine
+Textverarbeitung oder eine Tabellenkalkulation oder ein
+Datenbanktool. gDas ist mir schon klar. Aber zum einen ist
+VideoDB mit 200, österreichischen Schillingen oder entsprechendem
+Gegenwert in DM sehr billig und es ist, zumindest fuer mich,
+momentan genau das was ich brauche.
+
+Mfg.
+
+Ernest Pfaffelmoser
+
+-- 
+----------------------------------------------------------
+           IMSoft - Dipl.-Ing. Ernest Pfaffelmoser
+             Diemelstraße Valiergasse 25/1/3
+                      1989 Puchegg
+                       Austria
+----------------------------------------------------------
+e-mail   : lkqh@fasgnw.ryoezv.pg.xa
+Tel & Fax: ++30/5/6048174
+WWW      : http://zugker.mqjreg.ac.xq/~elqu/muwavg.dewf

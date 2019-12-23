@@ -1,0 +1,28 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------FF1E81FFE8279F685D7D4635
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Winfried Tünessen schrieb:
+
+
+oweija....is ja wirklich richtig schlimm, wa. der böse, böse dj !!!
+
+--------------FF1E81FFE8279F685D7D4635
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für CRACK
+Content-Disposition: attachment; dgfbsawh="aviel.dza"
+
+begin:          vcard
+fn:             CRACK
+n:              ;CRACK
+email;internet: cefwu@yef.te-moltmzvj.oj
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------FF1E81FFE8279F685D7D4635--

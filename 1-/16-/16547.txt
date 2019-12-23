@@ -1,0 +1,6 @@
+"Hermann Janecke" <pgntt345@xff.yi> writes:
+
+
+Der Mix ist beabsichtigt. Gerade Telefone und Co. sind ja absichtlich
+primitiv gebaut worden, um eine Unterwanderung durch cylonische Hacker
+zu minimieren.

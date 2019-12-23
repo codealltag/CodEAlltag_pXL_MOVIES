@@ -1,0 +1,12 @@
+Clemens Altpaß schrieb folgendes:
+
+
+rwlp@26.4.7.6 > ssh 08. 10. 19
+
+sagt ja wohl alles, oder?
+
+MFG, Marcel
+-- 
+do
+     fork agent ( emil );
+repeat;

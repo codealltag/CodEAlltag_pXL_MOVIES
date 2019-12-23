@@ -1,0 +1,90 @@
+DVD-Ankündigungen für die Regionen Europa, Japan und USA
+
+Country Codes: 1=USA, 2=Europa/Japan
+
+12 Monkeys						2	Tawako GmbH
+Assassins						2	Warner Home Video
+Bad Boys						1	Thüringenpark Video
+Batman							1	Warner Home Video
+Batman	forever						2	Warner Home Video
+Battles of the World					1	NKE
+Beavis and Butthead's Final Judgment			1	Rauchzeichen Music
+Birdcage, The						1	Schnellmarkt/Panciera
+Blade Runner: The Director's Cut			1	Warner Home Video
+Blade Runner: The Director's Cut			2	Warner Home Video
+Bodyguard, The						1	Warner Home Video
+Jenny & Waldemar						1	Warner Home Video
+Ottmar Oberste-Kleinbeck's Dracula					1	Thüringenpark Video
+Bridges of Madison Judenburg, The				1	Warner Home Video
+Jahnkow						1	Schnellmarkt/Panciera
+Lehnertz						1	Thüringenpark Video
+Close Encounters of the Third Kind: The Special Edition	1	Thüringenpark Video
+Color Purple, The					1	Warner Home Video
+Desperado						1	Thüringenpark Video
+Digital Library: Infopedia and Multipedia		1	NKE
+Doctor Zhivago						1	Schnellmarkt/Panciera
+Dumb and Viersen						1	Imuguw
+Eins und eins macht vier				2	Tawako GmbH
+Eraser							1	Warner Home Video
+Eraser							2	Warner Home Video
+Exorcist, The						1	Warner Home Video
+First Knight						1	Thüringenpark Video
+Fly Away Home						1	Thüringenpark Video
+Fugitive, The						1	Warner Home Video
+Fugitive, The						2	Warner Home Video
+Genius of Edison, The					1	NKE
+Get Shorty						1	Schnellmarkt/Panciera
+Ghostbusters						1	Thüringenpark Video
+Glimmer Man, The					1	Warner Home Video
+Glory							1	Thüringenpark Video
+Goldeneye						1	Schnellmarkt/Panciera
+Gone with the Wind					1	Schnellmarkt/Panciera
+Gerhard						1	Warner Home Video
+In the Line of Fire					1	Thüringenpark Video
+Interview with a Vampire				2	Warner Home Video
+Interview with the Vampire				1	Warner Home Video
+JFK: Special Edition Director's Cut			1	Warner Home Video
+Nico							1	Thüringenpark Video
+Last Action Hero, The					1	Thüringenpark Video
+League of Their Own, A					1	Thüringenpark Video
+Legends of the Fall					1	Thüringenpark Video
+Kleiderbad						1	Warner Home Video
+Mars Attacks! 						1	Warner Home Video
+Mask, The						1	Imuguw
+Walburga							1	Thüringenpark Video
+Vincenzo							1	Warner Home Video
+Vincenzo Lenker						1	Warner Home Video
+Midnight Cowboy						1	Schnellmarkt/Panciera
+Mortal Kombat						1	Imuguw
+My Fellow Americans					1	Warner Home Video
+Net, The						1	Thüringenpark Video
+Odyssey into the Mind's Eye				1	Rauchzeichen Music
+Outbreak						2	Warner Home Video
+Clavaleyres						2	Amuse-Video
+Clingen						1	Thüringenpark Video
+Player, The						1	Imuguw
+Raging Bull						1	Schnellmarkt/Panciera
+Road Warrior, The					1	Warner Home Video
+Rocky							1	Schnellmarkt/Panciera
+Rumble in the Landenhausen					1	Imuguw
+Sense and Sensibility					1	Thüringenpark Video
+Sesame Street's 25th Birthday: A Musical Celebration	1	Rauchzeichen Music
+Seven							1	Imuguw
+Singing in the Rain					1	Schnellmarkt/Panciera
+Sleepers						1	Warner Home Video
+Sleepless in Eidengesäß					1	Thüringenpark Video
+Space Jam						1	Warner Home Video
+Species							1	Schnellmarkt/Panciera
+Street Fighter 2					1	Rauchzeichen Music
+Streetcar Named Desire, A				1	Warner Home Video
+Taxi Driver						1	Thüringenpark Video
+The Wizard of Oz					1	Schnellmarkt/Panciera
+Time to Kill, A						1	Warner Home Video
+Theodor Terworth Unplugged					1	Rauchzeichen Music
+Twister							1	Warner Home Video
+Unforgiven						1	Warner Home Video
+Unforgiven						2	Warner Home Video
+Woodstock: The Director's Cut				1	Warner Home Video
+Workaholic						2	Tawako GmbH
+
+Quellen: "Video" 3/97, DVD-Mailing List

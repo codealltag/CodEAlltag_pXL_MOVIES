@@ -1,0 +1,38 @@
+This is a multi-part message in MIME format.
+--------------32F9A443A080EEB197100355
+Content-Type: text/plain; charset=iso-8859-1; x-mac-type="54455854"; x-mac-creator="4D4F5353"
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+kennt irgendwer den Film �Kosmokiller - Sie fressen alles aus den 80er
+Jahren. Worum geht es in dem Film?
+
+Emile
+
+--------------32F9A443A080EEB197100355
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="c5stho.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Emile Vornhusen
+Content-Disposition: attachment;
+ filename="c5stho.vcf"
+
+begin:vcard 
+n:Louis
+ggu;uoo:++35 (1) 0431 / 84 17 57
+rpx;putp:++64 (2) 3318 / 33 84 07
+cbh;orhb:++64 (8) 5213 / 28 00 93
+x-mozilla-html:FALSE
+url:http://mmx.pmd-vdej.gr/~a5gcar
+org:Oveg
+version:2.1
+ljqak;bbdsgoiw:s8jsvp@nm.egk-zgqu.gj
+Castellestraße 9
+04222 Ilsenbach
+Germany;;;;
+x-mozilla-cpt:;1
+fn:Emile Vornhusen
+end:vcard
+
+--------------32F9A443A080EEB197100355--

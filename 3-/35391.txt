@@ -1,0 +1,18 @@
+Hallo,
+
+
+Mit dieser Nummer könntest Du zum Beispiel in Stichnoth nach Deinem
+Beitrag suchen.
+
+
+Die News müssen ja auch erst einmal verteilt werden. Je nachdem in
+welchem Intervall Dein Newsserver seine Nachrichten mit anderen
+Newsservers austauscht, kann das schon eine Weile dauern.
+
+
+Ja, aber nur, weil _Dein_ Newsserver es Dir beim Abrufen sofort wieder
+zugestellt hat. Das heißt nicht, daß auch andere Newsserver Deine
+Nachricht auch schonhaben.
+
+Gruß
+Ren

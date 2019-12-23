@@ -1,0 +1,9 @@
+Detlev Horstkemper schrieb [viel über ROT-13, etc.]
+
+Benutze VZA und behelfe mich seit Neuestem mit folgender Seite, um 
+Texte in ROT-13 zu ver- oder entschlüsseln...
+http://sylttn.uf/vum10.ssg
+
+(Einfacher geht's wohl nicht, wenn der Newsreader keine ROT-13 
+Funktionalität besitzt)
+Gruß, Manuel Deutschen

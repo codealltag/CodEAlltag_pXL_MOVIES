@@ -1,0 +1,6 @@
+Vorteil ist, das bei einigen Laufwerken lediglich eine erneute
+Treiberinstallation bei geänderten Win95-Ländereinstellungen genügt, um den
+Ländercode zu ändern.
+
+--
+Winfried Weizhofer

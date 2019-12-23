@@ -1,0 +1,12 @@
+Kai Hansler wrote:
+
+Hab's gefunden. Speichermangel auf der Festplatte (wie doof!).
+
+Letzte Frage ... sind diese Warnings normal (etwas viel)?
+
+Query OK, 1072398 rows affected (1 min 5.03 sec)
+Records: 1072398  Deleted: 0  Skipped: 0  Warnings: 2750893
+
+-- 
+Gian Ufferhardt <ajme@fobpkc.qd>, Luxembourg
+PGP RSA & DH/DSS public key on request and on public servers

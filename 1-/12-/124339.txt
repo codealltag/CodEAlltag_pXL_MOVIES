@@ -1,0 +1,13 @@
+Ivano Zattler schrieb:
+
+Bei mir kommt eine fette Warnung rein - aber CopyIf ist nicht gerade
+extrem verbreitet und ich habe den entsprechenden Einzeiler auch nicht
+in das Beispielskript gepackt.
+
+So long,
+Ingolf S. Lengfeldner
+--=20
+http://qwtf.uptjl.lo/ltc/ - u.a. Korrnews 3.11, CopyIf 1.22 (Delete-between-
+Bug frisch operiert) und Hamster 1.3.22.0, die nächste Fassung folgt endli=
+ch
+diesen Monat.

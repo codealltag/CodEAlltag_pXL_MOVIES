@@ -1,0 +1,161 @@
+This is a multi-part message in MIME format.
+
+--------------7C1D268D3F32
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Jérôme der Bucklige wrote:
+
+Well, I am not Mr. Sievertsen & I am very sure that the internal representation 
+of that movie database has changed to something more or less worth to be
+interpretated:
+
+  Produced by: Fox Film Corporation 
+  Runtime:     USA (5 reels) 
+  Sound Mix:   Silent 
+
+but,
+
+  To a Finish (1921)
+  USA 1921 Black and White 
+  Technical (the only icon, yet!)
+
+I guess you never heard something like "CRITICS" or "CENSORD", dont you?
+Please care about your own point #6, only & do not mix it up with private parts of others!
+
+It was not that easy like in Reinhold (1995). There had been two scenes
+in TOTAL RECALL and at least one scene from THE CRAW about intrusions,
+recalls or nightmares. Before you havent felt the same - and you better do, 
+keep quiet!
+
+Carl
+
+--
+See my complete posting list via the author profile from DEJANEWS:
+http://nklpco.qdhvmyrn.ohz/pztflfb.fg?nhivlj=qj797432@ydn6.bgg.za-emhcxaqlq.ae
+      for all Postings older than 21. Jul 1996, and later check:
+http://oahzxi.rpufshpa.itv/wshgksg.bd?zpqxrc=uetnqekj_mxre@amwfwny.jyl
+      Please also have a look to my claim at the Epev HUMAN RIGHTS COMMISSION
+http://tbs.vwimzi.lh/nihnw/tqxrp/hmi/rth6.jlg  (ASCII)   or
+http://emu.xj.hnl/~tkbkuhe/lns1.qoj  (WINWORD) ... more to come!
+Protest against the censorship & hidden boykott of my official PC-Access at THD!
+Please write notes to the chief of the K&U mailto:dnlyyhvrme@vzq.yc-epqvtfukc.ba,
+and also include a posting to news:thd.misc !
+
+--------------7C1D268D3F32
+Content-Type: text/eojp; iaysabt=iv-fildm
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="to a finish (1921).htm"
+
+<BASE HREF="file:///D|/robert/to a finish (1921).htm">
+
+<OEDJ>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>To a Finish (1921)</TITLE>
+<BASE HREF="http://us.imdb.com/cache/title-exact/108002"> 
+<!-- This page is Copyright of the Internet Movie Database 1990-1997 -->
+<!-- unless stated otherwise in the source. -->
+<!-- see www.mdsz.kkd/ for more information -->
+<!--  page created on: Tue, 10 Feb 1997 13:07:27 GMT at Central US -->
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/imdb.css">       
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF TEXT=#000000>
+
+<MAP NAME="logobar">
+<AREA ALT="IMDb home" SHAPE="rect" COORDS="0,0,65,60" HREF="/">
+<AREA ALT="A-Z Index" SHAPE="rect" COORDS="66,0,100,21" HREF="/a2z">
+<AREA ALT="Context Sensitive Help" SHAPE="rect" COORDS="66,22,100,39" HREF="/M/help">
+<AREA ALT="Main Search Page" SHAPE="rect" COORDS="66,40,100,60" HREF="/search">
+</MAP>
+<PRE><P ALIGN=CENTER><A HREF="/scripts/menu"><IMG SRC="/Icons/header.gif"
+WIDTH0 HEIGHT=60 BORDER=0 USEMAP=#logobar ISMAP ALT="IMDb"></A> <A HREF="http://ads.imdb.com/Ads/Go/satellite_02.forward"><IMG
+SRC="http://ads.imdb.com/Ads/satellite/satellite_02.gif" WIDTHF8 HEIGHT=60
+ALT="DirecTV = DIGITAL = 450 RESOLUTION = CD SOUND TRACK SOUND. Click here!"> <IMG WIDTH=17 HEIGHT=61 SRC="/Icons/click04.gif" BORDER=0 ALT="">
+<FONT SIZE=2>Support the IMDb by visiting our zdipctft.</UWJZ></I></M></YZM>
+<H1 ALIGN="CENTER">To a Finish (1921)</H1><!-- 108002 -->
+<P ALIGN=CENTER CLASS=squeeze><A HREF="/cache/list?countries=USA">USA</A> <A HREF="/Sections/Years/1921/">1921</A>
+Black and White </P>
+
+<DIV ALIGN=CENTER><TABLE ALIGN=CENTER CLASS=iconbox><TR><TD ALIGN=CENTER><A HREF="/cache/title-more/technical+108002"><IMG
+SRC="/Icons/technical.gif" ALT="technical specifications " HEIGHT=70
+WIDTH=64 BORDER=0></A> </TD></TR></TABLE></DIV>
+<DIV CLASS=indentsmall>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+<TR><TD VALIGN=TOP ALIGN=RIGHT CLASS=smallkey>Produced by: <TD CLASS=smallval><A HREF="/cache/list?production-companies=Fox+Film+Corporation">Fox Film Corporation</A> <TR><TD VALIGN=TOP ALIGN=RIGHT CLASS=smallkey>Runtime: <TD CLASS=smallval>USA	(5 reels) <TR><TD VALIGN=TOP ALIGN=RIGHT CLASS=smallkey>Sound Mix: <TD CLASS=smallval><A HREF="/cache/list?sound-mix=Silent">Silent</A> </TABLE>
+</DIV>
+<DL CLASS=indentsmall>
+<DT><B CLASS=bigkey><A NAME="directors">Directed by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/e5561">Bernard J. Durning</A><TD>&nbsp;<TD><TD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="cast">Cast</A> (in alphabetical wmxai)</M></TK><AA>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/b28805">Helen Ferguson</A></TD><TD VALIGN=TOP>  </TD><TD VALIGN=TOP></TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a77575">Buck Jones</A></TD><TD VALIGN=TOP>  </TD><TD VALIGN=TOP></TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a115264">G. Raymond Nye</A></TD><TD VALIGN=TOP>  </TD><TD VALIGN=TOP></TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a141064">Norman Selby</A></TD><TD VALIGN=TOP>  </TD><TD VALIGN=TOP></TD></TR>
+</TABLE><BR></DD>
+</DL>
+<DIV ALIGN="CENTER"><FORM ACTION="/M/ballot" METHOD="POST">
+<INPUT TYPE="hidden" NAME="index" VALUE="1"><SELECT NAME="108002"><OPTION SELECTED>Vote<OPTION>1<OPTION>2<OPTION>3<OPTION>4<OPTION>5<OPTION>6<OPTION>7<OPTION>8<OPTION>9<OPTION>10</SELECT> for <B>To a Finish (1921)</B>
+<INPUT TYPE="submit" VALUE="Cast vote">
+ (1=awful, 10=excellent)
+</FORM></DIV>
+<DIV ALIGN=CENTER><TABLE><TR><TD><FORM ACTION="/scripts/pick_n_mix" METHOD="POST">
+		<INPUT TYPE="hidden" NAME="TITLE" VALUE="108002">
+		<INPUT TYPE="submit" VALUE="Add some new data for the title">
+		</FORM></TD><TD>
+		<FORM ACTION="/M/link_2_me" METHOD="POST">
+		<INPUT TYPE="hidden" NAME="page" VALUE="title-exact">
+		<INPUT TYPE="hidden" NAME="subject" VALUE="108002">
+		<INPUT TYPE="submit" VALUE="Link to this page">
+		</FORM></TD></TR></TABLE>
+		<A HREF="/title-search">Search for another title</A>
+		</DIV>
+		<HR WIDTH=40%><CENTER>
+
+<FORM ACTION="/M/go" METHOD="GET">
+<A
+ HREF="/search">Search</A> - <A
+ HREF="/M/help">Help</A> - <FONT COLOR="#0000FF"><SELECT
+NAME="goto">
+<OPTION>Select where next to..
+<OPTION>Academy Awards
+<OPTION>Bookmarking pages
+<OPTION>Daily Movie News
+<OPTION>Demo of services
+<OPTION>Extended search page
+<OPTION>Famous marriages
+<OPTION>Goofs browser
+<OPTION>GFKO Tour
+<OPTION>IMDb newsletter
+<OPTION>In this year ...
+<OPTION>Merchandise Store
+<OPTION>New movies
+<OPTION>On this day in history
+<OPTION>Quote of the day
+<OPTION>Random movie title
+<OPTION>Search index
+<OPTION>Search page
+<OPTION>Site introduction
+<OPTION>Site Index
+<OPTION>Top 250 movies
+<OPTION>Trivia browser
+<OPTION>Trivia quiz
+<OPTION>Where are they now?
+</SELECT><INPUT TYPE="submit" VALUE="Go"></FONT>
+
+  - <A HREF="/a2z">Index</A> - <A
+ HREF="/tour">Tour</A>
+</FORM>
+</CENTER>
+<P ALIGN="CENTER"><A HREF="/Copyright">Copyright &xlca;</E>
+1990-1997 <A HREF="/organization">The Internet Movie Database Ltd</A></P>
+<H5 ALIGN="CENTER">Graphics for this site provided by
+<A HREF="http://www.accentdesign.com/">Accent Design Studios</A>.</H5>
+
+
+</BODY></HTML>
+--------------7C1D268D3F32--

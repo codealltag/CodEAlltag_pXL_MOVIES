@@ -1,0 +1,8 @@
+Serge Jenchen:
+
+
+NTSC arbeitet mit 60 Halb-Bildern pro Sekunde, auf diese kann man die 24
+Bilder des Filmes glatt aufteilen und kommt ohne
+Geschwindigkeitsänderung aus.
+
+Constanze

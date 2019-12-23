@@ -1,0 +1,12 @@
+* Siegfried Jungboeck <rjazezl7ye@iao.dti>:
+
+
+"Dafür wird jemand bezahlen!"
+
+
+Bye,
+Alessandro
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

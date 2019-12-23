@@ -1,0 +1,5 @@
+ah, doch:
+"Wer Outlook Express hat kann mit "ROT13" verschlüsselte Texte zwar lesen,
+aber nicht selbst verschlüsseln."
+
+naja, egal muss ich halt mein eigenes prog verwenden

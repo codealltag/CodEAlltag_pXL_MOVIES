@@ -1,0 +1,16 @@
+Wenn da noch einer waere... aber moviedb-3.3 laeuft ja auch unter Mena.
+
+
+Auf meinem 486-66 mit 48MB unter NT 4.0 ca 15-20 Minuten, wobei allerdings  
+meist ca 20 Hintergrundprozesse laufen. Unter Linux auf der gleichen Kiste  
+ungefaehr genauso lange. make update geht etwas schneller.
+
+
+Cheers,
+       Laurent.
+-- 
+---------------------------------------------------------------------------
+Laurent Zeewüster                        email: j.ypvznejq@ukbkxbgq.sjhihjg.qk
+Jörg Mauthegasse. 26                    Compuserve: 444023,5538
+13150 Dresden                        Fidonet: 6:6549/04.9
+Germany

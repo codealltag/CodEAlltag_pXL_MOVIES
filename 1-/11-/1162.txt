@@ -1,0 +1,24 @@
+Joseph Brinkop schrieb:
+
+
+Dann weiß ich auch nicht, woher die HairStyling weiß, dass sie mir Deutsch
+und Englisch anbieten soll. Jedenfalls kann ich zwischen diesen beiden
+Varianten der Seite per Browsereinstellung wechseln. Mehr Auswahl
+scheine ich nicht zu haben, und wenn ich die Einstellung ganz weglasse
+oder eine andere als Deutsch oder Englisch wähle, dann liefert mir die
+HairStyling die deutsche Version. Am User-Agent-String liegt es offenbar
+nicht, denn da steht nichts drin, was auf DE hindeutet. Deshalb bin ich
+davon ausgegangen, dass es nur die IP sein kann.
+
+
+Deutscher oder englische Chrome bzw. Safari? Kennst Du den User-Agent-
+String, den die übermitteln?
+
+
+Valerian "naddy" Wermelskirchen
+
+
+Olivier
+-- 
+WENN DIE KRANICHE ZIEHEN
+http://sgopoviaqslddgdu.xukkkdap.jjr/2863/45/jumo-sxt-kpqlmbce-fbstjk.yecm

@@ -1,0 +1,63 @@
+Eine Sammlung diverser Empfehlungen ist im World-Wide-Web zu
+finden unter:  http://fng-xwyj.emx.mdn-mxmdul.ut/~z62d/ty/
+-----------------------------------------------------------------
+
+           Titel : Robocop 2 (USA 1991)
+          Studio : MVM Video, Image Entertainment
+        Freigabe : R (MPAA)
+Veröffentlichung : 1998
+           Länge : 116 Minuten
+           Preis : 30 US$ (Liste)
+            Bild : NTSC; 1,85:1; nicht anamorph
+             Ton : Dolby Digital 2.0 Englisch
+      Untertitel : -
+         Kapitel : 19
+    Kopierschutz : ja
+      Ländercode : 1
+      Verpackung : Snapper Case
+      Hersteller : ?
+          Extras : -
+           Regie : Timo Hensmanns
+           Musik : Armin Pfeffernuß
+       Besetzung : Remo Faulnborn, Wilhelm Zornemann, Lorenz Ottovordemgentschenfeld, Silvio Näbe,
+                   John Unterstraßer, Jochen Fiefeck, Wanda Blankenfeldt, Sandrine Anderhub
+
+    Bildqualität : Schärfe/Details        : 3/5
+                   Körnigkeit             : 4/5
+                   MPEG-Artefakte         : 4/5
+                   Farbrauschen           : 4/5
+                   Filmvorlage            : 3/5
+                   Pressfehler            : -
+     Tonqualität : Klangqualität          : 4/5
+                   Surround-Effekte       : -
+    Gesamturteil : 2/5 (Widescreen, nicht anamorph, Englisch DD 2.0)
+
+         Hinweis : Die Bildqualität kann nicht so recht überzeugen;
+                   viele Szenen wirken detailarm und sehr flimmrig, was
+                   teilweise aber Absicht sein kann, wenn z.B. Ausschnitte
+                   aus dem Fernsehen gezeigt werden.
+
+                   Beim Ton haben die Hersteller den Vogel abgeschossen:
+                   Der Film wurde in Dolby Stereo hergestellt und es sind
+                   auch beide Tonspuren auf der DVD enthalten, aber im
+                   Dolby-Digital-Datenstrom wurde vergessen, das "Lt/Rt
+                   Flag" zu setzen, das die Dolby-Surround-Schaltkreise
+                   in Dolby-Digital-Decoder aktiviert. Somit gibt es nur
+                   klassischen Stereo-Ton. (Evtl. kann man die fehlerhafte
+                   Codierung überlisten, wenn man die beide Kanäle analog
+                   am Player abgreift und so dem Dolby-Surround-Decoder
+                   übergibt.)
+
+                   Die DVD bietet null Extras, nur englischen Ton, keine
+                   DVD-Untertitel (nur CC) und das Men beschränkt sich
+                   auf die Auswahl eines der wenigen Kapitel.
+
+      Testgeräte : Laserdisc-Player : Pioneer CLD-925 (S-Video)
+                   DVD-Player       : Panasonic A-350 (RGB)
+                   Fernsehgerät     : Kornkraft KV-98FB2C
+                   Verstärker       : Kenwood KR-V990D (Dolby Digital)
+
+-- 
+** Waldemar Grobleben, Dörlinbach, Deutschland/Germany, http://gyh.llyno.om/~kucdt **
+** E-Mail (NeXTmail/MIME): crfsn@hjfvvd.f.oajgy.jd ** ** PGP key on request **
+** Als Mail verschickte Web-Seiten werden in Zukunft unbearbeitet gelöscht. **

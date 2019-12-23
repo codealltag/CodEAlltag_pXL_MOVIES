@@ -1,0 +1,11 @@
+Willi Ueckert wrote:
+
+Cradle 2 the Grave / Born 2 Die
+Eight legged Freaks / Arac Attack - Angriff der achtbeinigen Monster
+
+Für weitere Recherchen empfehle ich <URL:http://bcwn.laih.syn/>.
+
+jwm
+-- 
+gtkmm-1.2.10% ./configure --help
+ --enable-vegetarian  The chicken will be a Tofu chicken (see voodoo option)

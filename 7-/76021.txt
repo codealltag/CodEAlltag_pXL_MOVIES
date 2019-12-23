@@ -1,0 +1,12 @@
+Oswald Uttenthaler schrieb folgendes:
+
+
+Kein Klassiker, aber IMHO auch ein sehr schöner Western:
+
+Schneller als der Tod.
+
+MFG, Lars
+-- 
+do
+     fork agent ( gert );
+repeat;

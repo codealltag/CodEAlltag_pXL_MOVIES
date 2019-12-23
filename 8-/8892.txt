@@ -1,0 +1,15 @@
+"Enrico Schittelkopf" <fra.con@invalid> schrieb im Newsbeitrag 
+rxro:cutyq9$q1v$54$1@dcva.i-zrzlvp.kqh...
+
+Danke für das Angebot. PM ging raus, kam aber mit
+
+Action: failed
+Status: 12. 10. 20
+Diagnostic-Code: smtp;550-5.1.1 user unknown
+550 5.1.1 Unknown recipient.
+
+zurück. Magst Du mir trotzdem verraten wo ich den Film leihen kann?
+
+Vielen Dank!
+
+Ulla

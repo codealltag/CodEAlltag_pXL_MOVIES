@@ -1,0 +1,9 @@
+* Bodo Hoffschlag schrieb:
+
+
+#v+
+[akneib]~ > whois swyic-ojx-zhmpp.nf | grep -i name
+Name:         Willy Althoetmar
+#v-
+
+HTH

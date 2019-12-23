@@ -1,0 +1,9 @@
+* quoting [lutz feustel <hhfzr@dsa.iw>]
+
+Ist das eine deutsche Produktion?
+
+
+--=20
+Warning:  You are not root
+             
+	     -- nmap V. 2.54BETA31

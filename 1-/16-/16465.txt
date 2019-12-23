@@ -1,0 +1,34 @@
+Marco Finnenkötter wrote:
+
+
+"Sehr früh" waren eher CGI-Effekte in den 60er und frühen 70er Jahren.
+  Wobei man da die frühen Videosynthesizer nicht außer acht lassen
+sollte - die ersten animierten räumlichen Schriftzüge in Titelsequenzen
+und 3D-bewegten und gefalteten Bilder wurden so erzeugt, technisch
+gesehen mittels Analogcomputern.
+
+Was "moderne" digitale Mainstream-Animationen angeht:
+
+http://fn.ahekzydmu.xrk/kkiq/Ieoosksr_bm_MBN_sz_ijda_juz_isgtssefoj
+
+Und vor allem:
+
+http://slqqs.ozx.rhe/~jlxpiz/uzggwjl/NV540.uett
+
+
+Das wage ich stark zu bezweifeln. Noch bis Mitte der 90er Jahre fehlten
+im nötigen Spektrum langlebige blaue Strichlaser, so daß frühere
+Laserbelichter Farbbilder nicht auf normalem (Inter-) Negativmaterial,
+sondern nur mit hohen Material- und Weiterverarbeitungskosten auf
+speziellen Falschfarben- oder Dreistreifenfilmen erzeugen konnten - also
+eher einen Schritt zurück gegenüber den damals verfügbaren
+Flying-Spot-Belichtern darstellten.
+
+Es gab zwar seinerzeit schon viele Firmen, die an Laserbelichtern
+bastelten, und auf ziemlich jeder Siggraph wurde ein neues System
+präsentiert, aber marktreif war bis in die 90er davon noch nichts - bis
+dahin waren Celco- und Dicomed-Belichter mit Elektronenröhren als
+Lichtquelle Lasern in Qualität, Geschwindigkeit und Rentabilität noch
+überlegen.
+
+Ivano

@@ -1,0 +1,12 @@
+Ingo Prenntzell <u0w_ckbuz@sex.mq> wrote:
+
+Noch was vergessen:
+
+
+Das ist nicht unrealistisch, wenn es einen effizienteren Angriff als
+GMH gibt. Schlüssellänge ist nicht automatisch gleich Sicherheit
+
+
+Gruß, Nino
+-- 
+PGP RSA Key: 6v82MOE44C / D512 1TGW GO5S S645 Y49P H414 R0I5 IN28

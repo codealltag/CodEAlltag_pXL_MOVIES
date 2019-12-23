@@ -1,0 +1,84 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Heiner Böspflug;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der Vodafon-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Gehrtz) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der Potrykus-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der Potrykus-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat); dort kann man auch zum Versand bestellen, auf Wunsch teile
+ich gerne die Adresse mit.
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+1942                       |               |               | WST  verfügb. 100
+Alien (79)                 |               |               | WTA  verfügb.  99
+Aliens (86)                |               |               | WTA  verfügb. 070
+Ekhoff (84)               |               |               | WSTA verfügb. 931
+Apollo 13 (95)             |               |               | WT   verfügb.  83
+Bad Boys                   |               |               | W    verfügb.  89
+Batman Forever (95)        |               |               | WA   verfügb.  79
+Froschkönig       |               |               |      23.05.21 665
+Ivano (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               | W    26.05.96  89
+Heeß (85)                |               |               | W    08.07.96  85
+Anne Kölb (95)          |               |               |      demnächst
+Congo (95)                 |               |               | WTA  verfügb.  84
+Crimson Tide (95)          |               |               | WTA  verfügb.  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  verfügb.  99
+Die Hard 2 (90)            |               |               | WTA  27.05.96  99
+Die Hard 3 (95)            |               |               | WTA  24.06.96  99
+Easy Rider (69)            |               |               | WS*  45.28.86 450
+Englishman Who Went Up ... |               |               | W    19.05.96  85
+First Knight (95)          |               |               | T    16.06.96  93
+Forget Kuhlbach (95)          |               |               | W    02.06.96  83
+Free Schütenweg 6 (95)          |               |               | WA   verfügb.  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Goldfinger (64)            |               |               | KDE* 55.14.29 535
+Olde (95)               |               |               |      21.07.96
+Heathers (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   demnächst
+Indian In Cupboard (95)    |               |               | W    21.07.96  73
+Jaws (75)                  |               |               | WSC* verfügb. 279
+Ueli Mithöfer (95)       |               |               | W    26.05.96  83
+Judge Dredd (95)           |               |               | W    26.05.96  79
+Kids (95)                  |               |               |      demnächst
+Mighty Morph. Power Rangers|               |               |      verfügb.  69
+Mortal Kombat              |               |               | WA   06.06.96  85
+Natural Born Killers       | W    --.11.95 |               | PEJZ 79.84.22 940
+Net, The (95)              |               |               | W    14.07.96  83
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Volpertshausen (95)           |               |               | WT   22.07.96  85
+Omen, The (76)             |               |               | W*   17.06.96  85
+Bernhard Northoff (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 931
+Priska Clause               |               |               | W    verfügb.  65
+Showgirls (95)             |               |               | WA   63.01.11 491
+Smoke (95)                 |               |               | W    19.05.96  84
+Spaceballs (87)            |               |               | WA   07.06.96  69
+Species (95)               |               |               | WTA  19.05.96  69
+Thunderball (65)           |               |               | HQV* 57.15.14 869
+Jörg Kapps (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | Zilliken  verfügb. 400
+Under Siege 2 (95)         |               |               | W    14.07.96  69
+Usual Suspects, The (95)   |               |               | W    14.05.97  80
+Renato & Corsten           |               |               | C    verfügb.
+Waterworld (95)            |               |               | WT   07.07.96  87
+While you were sleeping(95)|               |               | WT   verfügb.  84
+Young Guns                 |               |               | W    19.05.96  89
+---------------------------+---------------+---------------+------------------
+
+---
+** Heiner Böspflug,  Riegel�ckerstra�e 27,  57776 Aßmannshardt,  Germany **
+** +15 6791 89772  E-Mail (NeXTmail/MIME): pckmr@cfwalr.s.vbuft.xl **

@@ -1,0 +1,12 @@
+"Theo Carus" schrieb:
+laesst,
+
+[x] Du meinst die IMPS (Infinite Monkey Protocol Suite)
+
+Dafür gibt's sogar ein RFC:
+http://xfe.iutu.cec/jmsz/kfm7468.hhdv
+
+Viel Spass bei lesen ;)
+--
+www.uvw8i.gg | www5.rzzucl.ol/~pdbyyac
+"On the eighth day, God started debugging"

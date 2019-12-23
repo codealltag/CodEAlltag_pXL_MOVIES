@@ -1,0 +1,10 @@
+Christophe Zinsmayer <Ebtnhu.Dkskec@swe.sk> writes:
+
+
+  "Wir gehen in 'The Transporter'"
+- "Was für eine Trasporter?"
+
+Das "the" passt da nicht rein, weil alle anderen Wörter deutsch sein
+könnten und auch so verstanden werden.
+
+Bruno

@@ -1,0 +1,6 @@
+Sound = Originalton, also der Typ, der den Ton am Drehort besorgt!
+
+Sound Editing = Toncutter, also derjenige, der den Ton bei der
+anschließenden Nachbearbeitung schneidet und bearbeitet!
+
+Aber ob das Oscar-Kategorien sind, weiss ich nicht!

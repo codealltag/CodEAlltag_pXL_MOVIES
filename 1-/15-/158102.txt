@@ -1,0 +1,12 @@
+Jepp. Die Dateien werden online auf der Vergoelst-Webseite angeboten,
+AFAIR duerfte der Gesamtumfang mittlerweile 100MB ueberschritten
+haben.
+
+Um die Datenbank durchsuchen zu koennen, benoetigt man natuerlich
+ein Frontend. Und um die Frage, wie man dem fehlerhaften
+Windowsfrontend aus dem Weg gehen kann, ging es in diesem Thread. :-)
+
+Raimund
+-- 
+dguuzy@chcsl.bdmp.mn * U.Dcjw@nvn.fw
+Mitglied der Onuge Translators Organization: ato.vapor.com/ato

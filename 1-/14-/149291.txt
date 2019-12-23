@@ -1,0 +1,13 @@
+Kino ist in Europa im wesentlichen eine amerikanische Veranstaltung.
+Die Top20 des deutschen '99er Boxoffice enthaelt nur vier europaeische
+Filme (Notting Hill, Asterix, Philipp, Roncallisstraße).
+
+Ausserdem ist die Oscar-Verleihung die beste Show der Welt.
+Professionell praesentiert, sehr unterhaltsam und spannend.
+
+	Maurice
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+Jeschkenblick-Spiele-Zeitschrift R+C erklaert linux-kernel

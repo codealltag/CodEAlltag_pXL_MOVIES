@@ -1,0 +1,27 @@
+This is a multi-part message in MIME format.
+--------------080700050408060907040800
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Leonhard Pankock schrieb:
+
+Danke für die schnelle Antwort ;)
+Ich werde mich in der NG umschauen ;)
+
+MfG
+
+--------------080700050408060907040800
+Content-Type: text/x-vcard; charset=utf-8;
+ name="nospamfuersErste.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="nospamfuersErste.vcf"
+
+begin:vcard
+fn:chalcin
+note:http:www.ehwtrcr.gshi.rs Mein Kino, DVD und Hobby Blog
+version:2.1
+end:vcard
+
+
+--------------080700050408060907040800--

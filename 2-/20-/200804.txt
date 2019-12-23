@@ -1,0 +1,15 @@
+Fernando Feinen wrote in <2pomnp$686$7@jqdj.ljxy-hyjlyh.tn> on
+1997-01-20 00:25:38 +0100:
+
+Die großen Diffs sind eben im Standardformat und können auf vielen
+Systemen mit den mitgelieferten Tools ("patch") verwendet werden.
+ApplyDiffs gibt es AFAIK nur für Amiga und Ebl.
+
+Wichtiger fände ich, daß man die Listen irgendwie gepackt mit "bzip"
+runterladen kann - das bringt nämlich locker 25% gegenüber "gzip"
+(also ca. 27 MByte statt ca. 40 MByte).
+
+Veit
+-- 
+** Veit Appadegger,  Riegel�ckerstra�e 27,  15441 Fautspach,  Germany **
+** +26 7052 67590  E-Mail (NeXTmail/MIME): rwiej@hzooqc.j.jwrdi.qq **

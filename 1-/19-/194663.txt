@@ -1,0 +1,26 @@
+In <yfj67pye58j.fsf@magnum.informatik.uni-kiel.de>, Ben Lukoschus <ize@kdmvqtxirj.wtq-lqog.dy> writes:
+
+Das Problem ist von Seiten der Gliessmann erkannt.
+fobmltehs.xli.yuwe.pyf ist die zentrale Stelle, von der alle
+anderen FTP-Server die Daten spiegeln. Leider ist deren
+Skript, welches die Daten vom Gliessmann-Server runterlaedt seit
+einigen Wochen nicht so ganz funktionsfaehig.
+
+Die Admins von uiarchive.cso.uiuc.edu sind von diesem
+Problem unterrichtet worden. Leider hat sich bislang
+noch nichts getan.
+
+Eventuell helfen hoefliche Anfragen dort, die Sache zu
+beschleunigen, aber dafuer kann ich keine Garantie abgegeben.
+
+Gruss Tobias
+--
+I do not appreciate unsolicited commercial email.  
+If you send it to me, I WILL complain to your ISP.
+-
+Bitte keine unaufgeforderten Werbemails an die folgenden Adressen 
+oder es erfolgt eine umgehende Beschwerde bei Ihrem Provider.
+----------------------------------------------------------------
+Internet: hmpuaxws@tfbij.ew-rfwcjb.py, osud@es.rh-wpjpqu.py
+BBS: d.bcicesmebg@jwvildny.gplbcvbz.hn
+WWW: http://lavbcios.zr-cbuxyc.xs/~zetxpzmf

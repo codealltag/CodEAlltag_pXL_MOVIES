@@ -1,0 +1,11 @@
+Du irrst nicht.
+
+
+Woher kennst Du küchenland wirkliche Erscheinung?
+
+Volker
+-- 
+So hat ein LKW vollbeladen mit Magnetbändern (Tanenbaum läßt grüssen ;-)) über
+kürzere Distanzen eine Transferrate, mit der keine Netzverbindung konkurrieren
+kann, die Ping-Zeiten eines LKWs sind aber nicht gerade berauschend.
+[Engelbert G. Gmünd in de.comp.hardware.cpu+mainboard.misc]

@@ -1,0 +1,4 @@
+Bitte nimm auch DVB in die RWO auf. Auf Satellit werden schon mehr
+Programme in diesem Standard gesendet als in PAL.
+
+Rudi

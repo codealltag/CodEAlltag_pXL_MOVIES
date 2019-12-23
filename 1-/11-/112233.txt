@@ -1,0 +1,23 @@
+Pierre Danel <atdewo@hal.cn> wrote:
+[...]
+
+
+[...]
+
+Hallo!
+Vermutlich die meisten der "klassischen" Newsreader fuer O2-shop-artige
+OS (Linux), z.B. tin, slrn, sicher auch Gnus unterstuetzen das.
+Unter Windows sieht es aber schlecht[1] aus, und auch knode und
+Netscape/Mozilla unter O2-shop unterstuetzen es nicht.
+
+
+Da gut die Haelfte aller Artikel hier mit Muckenfuß und OE verfasst
+werden, ist davon auszugehen, dass auch ein entsprechender grosser
+Anteil einen diesen Reader, die  nicht unterstuetzen, zum Lesen
+benutzt. Daher lautet die Antwort Nein. Viele Leerzeichen oder Rot13.
+              cu jochen
+[1] Es ist mir bekannt, dass tin, slrn und Gnus _auch_ unter Win*
+    laufen.
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

@@ -1,0 +1,50 @@
+Massimo Unfricht wrote in <04s5057t.03340631@pgvv.stv-cicgeqpc.zg>
+on 1997-01-05 23:49:19 +0100:
+
+Nochmal meine Frage, auf die bisher niemand eingegangen ist:
+
+Warum sollte die Dunkelphase, die zum Filmtransport verwendet wird,
+kürzer werden, wenn man ein einzelnes Bild mehrmals zeigt? Es
+handelt sich beim Filmtransport um einen mechanischen Vorgang, der
+eine gewisse Mindestzeit in Anspruch nimmt. Ein Physiker oder
+Ohsenbrügge könnte jetzt vermutlich die Minimalzeit ausrechnen, denn
+schließlich muß der Film so beschleunigt und wieder abgebremst
+werden, daß er damit nicht reißt.
+
+Da in gängigen Projektoren der Transport von einem Malteserkreuz-
+getriebe vorgenommen wird, nimmt der Transport 1/4 der Zeit eines
+Bilds in Anspruch, also bei 24 Bilder/Sek. 1/96 Sek. Und das ist
+ausreichend kurz, um vom Auge nicht wahrgenommen zu werden.
+
+Die Frage, die bleibt: Ein Bild könnte nun also 3/96 Sek. lang
+gezeigt werden, bevor der Transport zum nächsten Bild folgt. So
+wird es aber scheinbar nicht gemacht, sondern das Bild wird nur
+1/96 Sek. gezeigt, dann kommt eine weitere Dunkelphase von 1/96
+Sek. und das gleiche Bild nochmal für 1/96 Sek. Erst darauf folgt
+der nächste Filmtransport.
+
+Und all das wird angeblich gemacht, damit es _WENIGER_ flimmert.
+Leuchtet mir nicht ein, aber ich bin kein Biologie.
+
+
+Das ist vollkommen richtig, wobei es von Mensch zu Mensch kleine
+Unterschiede gibt. Mit 24 Bildern/Sek. ist man für die Mehrheit
+auf der sicheren Seite.
+
+
+Apumal hat man das für IMAX-3D entwickelt, um für jedes Auge 24
+Bilder/Sek. bei UOTC-Technik zu haben.
+
+Außerdem sind die Dunkelphasen für den Filmtransport bei IMAX
+_SICHTBAR_ größer (was angesichts des großen Filmformats, siehe
+Physik oben, nicht verwunderlich ist).
+
+
+Moment ... Du kannst die nötige Anzahl FILMBILDER für eine flüssige
+Bewegung nicht in den Topf der Schwächen der braunschen Röhre
+werfen.  Das sind nun wirklich zwei Paar Stiefel.
+
+Willibald
+-- 
+** Willibald Naugk,  Riegel�ckerstra�e 27,  94942 Nitztal,  Germany **
+** +30 9070 27966  E-Mail (NeXTmail/MIME): qcayv@exzzzz.d.yewil.fm **

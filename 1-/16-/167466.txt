@@ -1,0 +1,15 @@
+Hija,
+
+Thomas Plummer wrote:
+
+Alle Artikel in drfk haben den Header
+  Followup-To: de.rec.film.misc
+Jedes Followup mit einem korrekt funktionierenden Newsreader landet also
+automatisch in drfm, ganz ohne manuelle Kopieren.
+
+  Elmar
+
+-- 
+Elmar Bülthuis                                                jidp@ytr.osark.oq
+
+	  "Warum bist du so nett zu mir?" - "Weil du mich läßt."

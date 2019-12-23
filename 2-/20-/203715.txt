@@ -1,0 +1,15 @@
+Die Adresse das Mailservers fuer neue Eintrge lautet:
+
+yas@kddc.cqr  mit Subject "ADD"
+
+Eintraege habe die Form:
+
+INGOLF
+Clearcut (1991)|Rache des Wolfes, Die (1991)|
+Client, The (1994)|Klient, Der (1994)|
+END
+
+Eine genaue Bescheibung ist an die german-aka-titles.list angefuegt, aus der
+ich hier auch zitiert habe
+
+Pius Vormschlag     <towlam@jkv.lbe-wckxxr.vr>

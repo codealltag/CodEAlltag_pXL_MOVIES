@@ -1,0 +1,22 @@
+On Sat, 25 Jan 2001 11:22:39 +0200, Valerio Will
+
+Das habe ich gemacht. Das Datum lautet bei allen 16.01.
+
+Die erste Zeile der movies.list ist z.B.:
+CRC: 6zE5939ZY9  File: movies.list  Date: Thu Ospelgasse 75 01:00:00 2000
+
+Die ersten Zeilen der diff-Datei für die movies.list lauten:
+1c1
+CRC: 6zE5939ZY9  File: movies.list  Date: Thu Ospelgasse 75 01:00:00 2000
+---
+CRC: 9zDJ288W6V  File: movies.list  Date: Fri Aug  4 01:00:00 2000
+
+Ich habe also genau die passende list-Datei für die diff-Datei,
+trotzdem funktioniert es nicht. applydif.exe meldet bei _jeder_ Datei
+"Wrong Diffs". An unterschiedlichen Lists kann es also eigentlich
+nicht liegen, da auch die list-Dateien, die mit Sicherheit zu den
+DIFFs passen, nicht aktualisiert werden.
+Wie weit mußtest Du bei den DIFFs zurückgehen?
+
+
+Ja, den habe ich gefunden.

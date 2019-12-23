@@ -1,0 +1,4 @@
+Am Ende jedes Filmes, steht, welcher Song gesungen wurde, von welchem
+Interpreten.
+Nun suche ich sowas  als Liste, von einigen Filmen,und auch welcher Film die
+meisten Lieder hatte.

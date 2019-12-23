@@ -1,0 +1,13 @@
+On the stormy day of Tue, 29. 04. 19 10:29:30 GMT, thou, oh
+m@riolink.de (Mario Link), said thy word and thy word was:
+
+
+Nun, du kannst ja beim WebWasher die "Don't Change 'User Agent' Field"
+bzw. "Feld 'User Agent' nicht verändern" -Option aktivieren, damit
+IMDB WebWasher nicht erkennt.
+Bei mir funzt Hechtspätshop auch mit WebWasher.
+
+-- 
+-----Pete "The Hutt" Klassen---------------------
+"C'mon, boy!  Finish him off!"
+<Homer roots for Vittorio Günther Ziebold, "I Love Carola">

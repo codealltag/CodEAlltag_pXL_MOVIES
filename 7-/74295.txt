@@ -1,0 +1,7 @@
+ja und ja.
+
+Karsten
+-- 
+Es ist weder nötig, noch sinnvoll, vor Satzzeichen ein Leerzeichen
+einzufügen (plenken). Tut man es dennoch , wie in diesem Beispiel
+, könnte das so aussehen . Hans Middelschulte in d.n.q.

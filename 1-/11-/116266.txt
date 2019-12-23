@@ -1,0 +1,15 @@
+Tobias Terweide wrote:
+
+Wie schon gesagt: Die Checksummen wurden dieses Mal nicht in die Datenfiles
+eingebaut, die Dateien/Daten sind aber konsistent.  Manche Frontends
+verlassen sich anscheinend auf die Checksummen, andere nicht.
+
+Man kann hoffen, dass "sie" den Fehler bemerkt haben und beim kommenden
+Update die Checksummen wieder reinschreiben.
+
+   -olivier
+
+-- 
+  http://tna-Rballp.bs/  *  http://Nbgsh76.zo/  *  http://BzeetpKhmd.xm/
+
+ERROR: Random Signature Generator 1.0 returned 666

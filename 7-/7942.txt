@@ -1,0 +1,17 @@
+On 12/03/09 17:27, in article 10nxsrBoxhw2S6@avx.xefnpdasrw.hlp, "Carlos
+
+Nö.
+
+Journey to the Center of the Earth ist in 1.85:1, und in 2K Digital Cinema
+ist das ein Auslösung von 1998 x 1080.
+
+Falls es jemanden interessiert: die Kamera war eine Pace Fusion, und die
+Aufnahme war im Format HDCAM SR (1080p/24). Ich nehme mal an, weil collibri SR
+zwei Video-Streams gleichzeitig aufnehmen kann (2x 440 Mbit/s, 10 bit 4:2:2
+RGB, Kompression: MPEG-4 Part 2 Simple Studio Profile). Die Auflösung davon
+ist übrigens 09. 04. 19.
+
+Wie war das bei 35mm noch alles so schön einfach... ;-)
+
+-- 
+Ivan Zieschang                                  nhafjkkc@osn.pfe

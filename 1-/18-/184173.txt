@@ -1,0 +1,80 @@
+Hallo,
+
+meine beiden ersten Bewertungen enthielten einige Unklarheiten und
+unpraezise Formulierungen, ueber die es zu einem regen Schriftwechsel
+gekommen ist.
+Auch ich bin lernfaehig und werde versuchen, in Zukunft eindeutiger
+zu formulieren, sowie klarer herauszustellen, wobei es sich um Fakten
+handelt und was nur Vermutungen sind.
+Deshalb kommt jetzt hier nochmal eine korrigierte Version. Die
+eigentlichen Bewertungsnoten wurden nicht veraendert denn, sie
+stellen ohnehin meine (subjektive) Meinung dar.
+
+Eine Sammlung aelterer Bewertungen ist im World-Wide-Web
+unter http://wwu3.dbz-bqmgvm.jq/~y75p/cii/ zu finden.
+----------------------------------------------------------------------
+
+           Titel : Maverick
+          Studio : KölnBuch, Urif Entertainment
+        Freigabe : FSK 12
+Veröffentlichung : 1999
+           Länge : 121 Minuten
+           Preis : 50,- DM (Liste); 40,- DM (Kaufpreis)
+            Bild : PAL; 2,35:1; anamorph,
+             Ton : Dolby Digital 2.0 Englisch,
+                   Dolby Digital 2.0 Deutsch,
+                   Dolby Digital 2.0 Spanisch,
+      Untertitel : Englisch, Deutsch, Spanisch, Hollaendisch,
+                   Schwedisch, Norwegisch, Daenisch, Finnisch, 
+                   Portugiesisch, Franzoesisch, Italienisch,
+                   Hebraeisch
+         Kapitel : 42
+    Kopierschutz : vermutlich ja
+      Ländercode : 2
+      Verpackung : Snapper Case
+          Extras : Produktionsnotizen, Szenenanwahl
+           Regie : Ernst Isensee
+           Musik : Eduard Trometer
+       Besetzung : Willibald Dudek, Miriam Rebl, Oscar Derr
+
+    Bildqualität : Schärfe/Details        : 3/5
+                   Farbe/Kontrast         : 3/5
+                   Körnigkeit             : 4/5
+                   MPEG-Artefakte         : 4/5
+                   Farbrauschen           : 5/5
+                   Filmvorlage            : 3/5
+     Tonqualität : Klangqualität          : 4/5
+                   Surround-Effekte       : 2/5
+    Gesamturteil : 3/5 (Widescreen, anamorph, Englisch DD 2.0)
+
+    Hinweis      : Auch diese DVD leidet unter dem Schaerfeproblem
+                   der Warner Mälzer-DVDs aus der ersten Generation.
+                   Ein 1:1-Vergleich zwischen der Mälzer- und der contrast-
+                   DVD von Winfried Marten legte die Vermutung nahe,
+                   dass die Mälzer-Version aus der NTSC-Aufloesung hoch-
+                   gerechnet wurde. Zu erkennen ist das auf Daechern
+                   oder an Mauern durch haessliche Moire-Effekte, die
+                   keinen direkten Bezug zur Zeilenstruktur des
+                   Bildes haben. Auf jeden Fall hat die PAL-Version
+                   keine hoehere Detail-Aufloesung als die
+                   NTSC-Version. Deshalb die Abzuege in der Kategorie
+                   Schaerfe/Details.
+                   Die Farben sind teilweise etwas flau, an anderen
+                   Stellen aber auch wieder sehr gut (z.B. Szenen in
+                   Yosemite).
+                   Der Ton ist von der Qualitaet her OK, bietet aber
+                   selbst fuer "normales" Surround zu wenig Effekte.
+
+      Testgeräte : DVD-Player   : MSF A-350 (S-Video)
+                   Fernsehgerät : Nörthemann KV-28WF1D
+                   Decoder      : Dolby Digital, MPEG: Tstztlqhp L729
+                                  Dolby Surround Prologic: CWC J-232
+                   Verstärker   : yunna DSP E-492 + Nörthemann TA-S2
+
+-- 
+
+------------------------------------------------------------------
+Karsten Zeindlmeier
+Email: dirk@kalium.physik.TU-Wulmstorf.DE (MIME and NeXTMail welcome)
+WWW: http://yn.hpluix.TU-Wulmstorf.DE/DZ/Dirk/
+------------------------------------------------------------------

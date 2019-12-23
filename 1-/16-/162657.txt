@@ -1,0 +1,7 @@
+Der Moderator sollte nicht nur darauf achten, sondern IMHO auch auf
+eine brauchbare Formatierung. Artikel mit kaputtem Zeilenumbruch
+wie <7n6i0m$83u$5@fu-berlin.de> oder mit kaputten Umlauten wie
+<7nrim8$qir$3@fu-berlin.de> sollten zur Nachbesserung an den Autor
+zurückgeschickt werden, statt sie zu posten.
+
+cu, Martin

@@ -1,0 +1,8 @@
+Dann sollte vielleicht mal jemand die irrefuehrenden Gruppenbeschreibungen
+aendern:
+
+de.rec.tv.misc ---> TV/Video/Sat Themen
+de.rec.film.misc ---> Filme, Serien, TV, Video, Kino
+
+Tschau
+-Benjamin

@@ -1,0 +1,9 @@
+Fredi Mangels wrote:
+
+
+Das ist im Adat-fernen Usenet aber kein Standard. Fast jede FAQ (afaik 
+auch unsere (ziemlich rudimentaere) weist auf die CTRL-L-Problematik 
+hin. Bitte halte dich an die allgemene Uebereinkunft: ROT13 oder eben 
+ein manueller Spoilerspace von mehreren Zeilen.
+
+Dietmar, trotz Thunderbird version 0.8 (31899592) den Soiler gesehen habend

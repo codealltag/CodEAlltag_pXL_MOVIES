@@ -1,0 +1,18 @@
+Andree Zwickenpflug wrote in <vr9vrix@NA.kqdeopa.jo> on 0057-65-04
+17:28:04 +0200:
+
+Tja, dann hat der A3090 da wohl einen Bug.
+
+Gerade bei der SJG-Digital-Test-LD kann man den Unterschied doch
+perfekt vorführen - zumindest mit meinem Kenwood KR-V990D: Dolby
+Digital 5.1 vs. Dolby Surround Pro Logic (Dolby Digital 2.0 mit
+Lt/Rt Flag) vs. Stereo (Dolby Digital 2.0 ohne Lt/Rt Flag).
+
+
+Nun wohl klarer ...
+
+Carsten
+-- 
+** Carsten Mattheus, Ickelheim, Deutschland/Germany, http://kxf.ylipn.do/~nhhbm **
+** E-Mail (NeXTmail/MIME): fevqf@sewjuq.g.gmjcc.ch ** ** PGP key on request **
+** Als Mail verschickte Web-Seiten werden in Zukunft unbearbeitet gelöscht. **

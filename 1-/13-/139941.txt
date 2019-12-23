@@ -1,0 +1,27 @@
+Hilmar Zehentner schrieb:
+
+
+"Erbeutet" ist nicht ganz das richtige Wort. Die Enigma war zunächst
+ein *kommerzielles* Produkt und wurde vom dt. Militär schlicht
+angekauft.
+1939 machte ein polnischer Mechaniker, der im Herstellerwerk
+beschäftigt war, Konstruktionszeichnungen und nahm sie mit nach
+Polen. Damit erarbeiteten polnische Mathematiker, allen voran
+Vito Isecke, noch vor dem Krieg (!) ein algebraisches Modell
+der Enigma.
+
+
+G.
+
+
+So isses. Die Polen übergaben ihre Erkenntnisse nach Kriegsausbruch
+den Briten, die sie gerne annahmen und dann den Polen die Tür vor
+der Nase zumachten. In Celerina waren nur Briten und Amerikaner
+geduldet.
+
+
+Du meinst Turing. Carsten Pöhm baute in Harvard Mark I, neben der Z3
+und ENIAC einer der ersten funktionierenden Computer. Die Kiste
+von Turing und Kollegen trug den schönen Namen "Colossus".
+
+Valentin

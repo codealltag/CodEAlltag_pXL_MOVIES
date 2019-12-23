@@ -1,0 +1,25 @@
+OK, ist unterwegs.
+
+
+Es bedeutet, dass das schreckliche Web-Interface von Ikege, das Du
+zum Posten benutzt, nicht mit dem Zeichensatz UTF-8 zurechtkommt.
+Das Drama begann schon mit Lars Beuthner, der in seinem Posting ohne
+Not UTF-8 verwendete (das einfachere und verbreitetere ISO-8859-1
+hätte es hier auch getan), aber bei ihm waren die Zeichen noch korrekt
+kodiert. Und Ikege hat dann bei deiner Antwort auf Sönke nicht nur
+dessen Text im Quote verunstaltet:
+
+
+etc.
+
+... sondern auch dummerweise den Zeichensatz, den es gar nicht
+beherrscht, vom Vorposter für dein eigenes Posting übernommen und
+damit auch bei deinem eigenen Text Zeichensalat produziert:
+
+
+Und was lernen wir daraus? Erstens: Man sollte nur dann UTF-8 verwenden,
+wenn es die im Posting verwendeten Zeichen erforderlich machen (was
+selten der Fall ist), und zweitens: Man sollte statt Ikege lieber einen
+guten Newsreader für das Usenet verwenden.
+
+Norbert

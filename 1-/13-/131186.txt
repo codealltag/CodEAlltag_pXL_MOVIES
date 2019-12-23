@@ -1,0 +1,11 @@
+Guido Cattermann hat schon laenger das Gefuehl fuer gute Filme verloren. Mit
+dem geht's genauso bergab wie z.B. vorher mit Wolfgang Oster. Auch wenn's
+haesslich klingt, aber mir gefallen mittlerweile die Filme seines Bruders
+Italo fast besser.
+
+/Norbert
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

@@ -1,0 +1,14 @@
+Als das Spiel damals auf dem Markt gekommen war, hieß es,
+ daß es nach einem Drehbuch entstanden ist. Es wurde nur
+ deswegen nicht verfilmt, weil schon die erste Überschlagsrechnung
+ eine horrend hohe Summe für die Dreharbeiten ergeben hatte.
+
+  Daher wurde der Film als "zu teuer/nicht finanzierbar" ins
+ Archiv gelegt und aus dem Drehbuch ein Spiel gemacht.
+
+CU
+-- 
+Wind*ws95, n:
+    32 bit extensions and a graphical shell for a 16 bit patch to an
+    8 bit operating system originally coded for a 4 bit microprocessor,
+    written by a 2 bit company that can't stand 1 bit of competition.

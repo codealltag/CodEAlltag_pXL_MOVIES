@@ -1,0 +1,11 @@
+Hallo Othmar!
+
+Othmar Knapp wrote:
+
+
+Hierbei handelt es sich um Prädikate, die ein Film erhalten hat von der
+Filmwirtschaft.
+ w = wertvoll
+bw = besonders wertvoll
+
+Gruss Gilles

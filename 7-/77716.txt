@@ -1,0 +1,10 @@
+Onno Kämpfle schrieb folgendes:
+
+
+You made my day.
+
+MFG, Ewald
+-- 
+do
+     fork agent ( dieter );
+repeat;

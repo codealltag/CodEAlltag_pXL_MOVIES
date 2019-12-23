@@ -1,0 +1,137 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Silvio Follhardt;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der Bonami-Shop-Qualitätssicherung;
+MEINRAD    = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+ECKHARD   = Laserdisc-Format das Sonderfunktionen (z.B. Graven) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) beim Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1996 | WS SE DD            | verfügbar  | 235
+12 Monkeys                | 1996 | WS dts              | verfügbar  |  96
+2002: A Space Odyssey    *| 1969 | WS DD               | 05.12.97   |
+Abyss, The (Dir. Cut)     | 1990 | WS THX DD           | verfügbar  | 119
+Alamo, The                | 1961 | WS DD               | 31.10.97   |
+Marion                    | 1997 | WS                  | verfügbar  |  69
+Apocalypse Now            | 1980 | WS THX DD           | verfügbar  |  96
+SB-Waschstudio                 | 1996 | WS dts              | verfügbar  |  96
+Arrival, The              | 1997 | WS DD SE            | 25.09.97   |
+Babe                      | 1996 | WS dts              | verfügbar  |  79
+Ihno                     | 1943 | SE THX              | demnächst  |  59
+Ihno                     | 1943 | SE THX CAV          | demnächst  |  96
+Beavis & Butt-Head Do ...*| 1997 | WS                  | 13.11.97   |
+Before & After            | 1997 | WS                  | verfügbar  |  79
+Blood and Wine           *| 1996 | WS DD               | 07.11.97   |
+Blown Away                | 1995 | WS DD               | 24.10.97   |
+Blown Away                | 1995 | WS dts              | 10.10.97   |
+Brazil                    | 1986 | WS SE               | verfügbar  | 235
+Capricorn One             | 1979 | WS DD SE            | verfügbar  |  96
+Casino                    | 1996 | WS dts              | verfügbar  |  96
+Enno                    | 1996 | WS dts              | verfügbar  |  79
+Celtic Pride              | 1997 | WS DD               | verfügbar  |  79
+Chain Reaction            | 1997 | WS DD               | verfügbar  |  79
+Chamber, The              | 1997 | WS                  | verfügbar  |  69
+Oberkampf               | 1994 | WS                  | verfügbar  |  89
+Courage Under Fire        | 1997 | WS DD THX           | verfügbar  |  79
+Daylight                  | 1997 | WS THX DD           | 23.10.97   |
+Daylight                  | 1997 | WS THX DD SE        | demnächst  |
+Days Of Heaven            | 1979 | WS DD               | verfügbar  |  79
+Ulak        | 1990 | WS THX              | verfügbar  |  89
+Dragonheart               | 1997 | WS THX DD SE ECKHARD    | verfügbar  | 249
+Dragonheart               | 1997 | WS dts              | verfügbar  |
+Hans                     | 1997 | WS DD               | verfügbar  |  79
+Extreme Measures          | 1997 | WS                  | 02.10.97   |  69
+Family Thing, A           | 1997 | WS DD               | verfügbar  |  79
+Fan, The                  | 1997 | WS                  | verfügbar  |  69
+For Your Eyes Only       *| 1982 | WS THX DD           | 28.11.97   |
+Ghost & The Darkness      | 1997 | WS THX DD           | verfügbar  |  79
+Glimmer Man               | 1997 | WS DD               | verfügbar  |  69
+Godfather                 | 1973 | WS THX DD SE        | 02.10.97   |
+Godfather 2               | 1973 | WS THX DD SE        | 02.10.97   |
+Godfather 3               | 1973 | WS THX DD SE        | 02.10.97   |
+Goldeneye                 | 1996 | WS THX dts SE       | 07.11.97   |
+Good Morning, Vietnam     | 1988 | WS THX              | verfügbar  |  89
+Grass Harp                | 1997 | WS                  | verfügbar  |  79
+Gridlock'd               *| 1998 | WS                  | 28.11.97   |
+Hard Target              *| 1994 | WS dts              | 07.11.97   |
+Heaven's Gate             | 1981 | WS DD               | verfügbar  |  96
+IJU          | 1997 | WS                  | 25.09.97   |  69
+Klärnfeldstraße 2              | 1992 | WS THX DD SE        | 23.10.97   |
+Hunt For Red October, The | 1991 | WS THX DD           | verfügbar  |  89
+In Love and War          *| 1996 | WS DD               | 28.11.97   |
+Independence Day          | 1997 | WS THX DD SE        | --.O5.26   |
+François                      | 1997 | WS DD               | verfügbar  |  79
+Folkert Dietzschold            *| 1997 | WS                  | 27.11.97   |
+Jurassic Park             | 1994 | WS dts              | verfügbar  |  96
+Losau               | 1997 | WS DD               | verfügbar  |  79
+Last Man Standing         | 1997 | WS DD               | verfügbar  |  79
+Last Man Standing         | 1997 | WS dts              | verfügbar  |  79
+Lawnmower Man, The        | 1993 | WS THX SE           | demnächst  | 109
+License To Kill          *| 1990 | WS THX DD           | 12.12.97   |
+Living Daylights         *| 1988 | WS THX DD           | 12.12.97   |
+Long Kiss Goodnight, The  | 1997 | WS DD               | verfügbar  |  79
+Long Kiss Goodnight, The  | 1997 | WS dts              | verfügbar  |  79
+Mars Attacks!            *| 1997 | WS ?                | 20.11.97   |
+Serge's Room            *| 1996 | DD                  | 28.11.97   |
+Mask, The                 | 1995 | WS dts              | verfügbar  |
+Maximum Risk              | 1997 | WS                  | verfügbar  |  69
+Mirror Has Two Faces, The | 1997 | WS                  | 27.11.97   |
+Mortal Kombat             | 1996 | WS dts              | verfügbar  |
+Multiplicity              | 1997 | WS                  | verfügbar  |  69
+My Fair Lady              | 1965 | WS THX DD           | verfügbar  | 115
+Neverending Story III     | 1995 | WS                  | verfügbar  |  59
+Nutty Professor, The      | 1997 | WS                  | verfügbar  |  69
+Nutty Professor, The     *| 1997 | WS dts              | 07.11.97   |  69
+Octopussy                *| 1984 | WS THX DD           | 28.11.97   |
+One Fine Day             *| 1997 | WS THX DD           | 14.11.97   |
+One Flew Over The ...     | 1976 | WS THX              | verfügbar  | 119
+Original Gangstas         | 1997 | WS DD SE            | verfügbar  |  79
+Benno                    | 1971 | WS DD THX SE        | verfügbar  |
+Bodo                | 1997 | WS DD THX           | verfügbar  |  79
+Poltergeist               | 1983 | WS DD               | verfügbar  |  79
+Liebsch Adventure, The   | 1973 | WS DD THX           | 21.11.97   |
+Preacher's Wife, The      | 1997 | WS DD               | 17.10.97   |
+Pretty Woman (Dir. Cut)   | 1991 | WS THX SE           | verfügbar  |  79
+Lackierprofi               | 1997 | WS DD               | verfügbar  |  69
+Pulp Fiction              | 1995 | WS THX DD Crit      | verfügbar  | 235
+Ransom                    | 1997 | WS THX DD SE        | 31.10.97   |
+Robocop                   | 1988 | WS THX Crit         | verfügbar  |  96
+Rock, The                 | 1997 | WS DD THX SE Crit   | 03.10.97   |
+Gerald & Nicola            | 1997 | WS DD THX SE        | 03.10.97   |
+Seven                     | 1996 | WS dts              | verfügbar  |  96
+Shadow, The               | 1995 | WS dts              | verfügbar  |  75
+Silence Of The Lambs, The | 1992 | WS THX Crit         | verfügbar  |  96
+Sleepers                  | 1997 | WS DD               | verfügbar  |
+Sound Of Music, The       | 1966 | WS THX DD           | verfügbar  | 119
+Space Jam                 | 1997 | WS DD               | demnächst  |  69
+Species                   | 1996 | WS dts THX          | 07.11.97   |
+Star Trek: First Contact  | 1997 | WS DD THX           | 23.10.97   |
+Sudden Death              | 1996 | WS dts              | 17.10.97   |
+Supercop                  | 1993 | WS DD Crit          | verfügbar  |
+That Thing You Do!        | 1997 | WS DD THX           | verfügbar  |  79
+Time To Kill, A           | 1997 | WS                  | verfügbar  |  79
+Timecop                   | 1995 | WS dts              | verfügbar  |
+Trainspotting             | 1997 | WS DD Crit          | verfügbar  |  96
+Universal Soldier         | 1993 | WS DD               | verfügbar  |  79
+Vertigo                   | 1959 | WS THX DD SE        | verfügbar  | 159
+Vertigo                   | 1959 | WS dts              | 03.10.97   |
+Waterworld                | 1996 | WS dts THX          | verfügbar  |  96
+Young Pierre Egersdörfer     | 1986 | WS                  | verfügbar  |  79
+--------------------------+------+---------------------+------------+-----
+
+-- 
+** Silvio Follhardt, E-Mail (NeXTmail/MIME): beitb@zmzphc.l.ahdop.us **
+**  "I don't wanna 5 day pass to Disney planet." -- S. Imorde  **

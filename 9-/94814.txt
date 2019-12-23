@@ -1,0 +1,112 @@
+1. CfV zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            de.rec.film.misc
+                            ================
+
+Alte Tagline
+============
+
+de.rec.film.misc       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Film ab! Nicht nur im Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Filmen, deren Schauspieler,
+Regisseure und Crews sowie Tricktechnik und Filmmusik diskutiert,
+solange es keine speziellere Gruppe zum jeweiligen Thema gibt.
+
+Hintergrund
+===========
+
+Siehe 1. RfD <Wjj-2-Mybrtgzek-mb.xak.zvmo.rfrh-66.77.7478-9@vhdq.oe>,
+2. RfD <Hjt-9-Dbhxcuuek-kz.rfw.zuyo.yowh-51.90.8972-8@kiwx.aw> und
+3. RfD <Rdr-5-Jngspdmvi-jy.cdd.rtad.kbit-60.34.5237-9@sqjv.ll> und
+folgende Diskussionen.
+
+Die alte Kurzbeschreibung wird im Vorschlag um Buzzwords gekürzt, die
+eher für andere Newsgroups charakteristisch sind (TV, Video, Serien), 
+und die verbleibenden Buzzwords (Film, Kino) in der neuen 
+Kurzbeschreibung sprachlich angereichert.
+
+Der angehängte Satz des Chartavorschlages "solange es keine speziellere
+Gruppe zum jeweiligen Thema gibt" ist ein Standardsatz in de.ALL für
+.misc-Gruppen.
+
+Der Verweis auf "Fernsehthemen" in der alten Charta kann dann gestrichen
+werden, da der Satz durch die neue Ergänzung "solange..." überflüssig
+wird.
+
+Der Verweis auf "eigene Filme" in der alten Charta soll gestrichen, da
+zum einen eigene Filme in drfm einen verschwindenden Anteil ausmachen,
+zum anderen aber Eigenproduktionen auch von der neuen Charta abgedeckt
+werden.
+
+Einige zusätzliche für drfm charakteristische Buzzwords sind in den
+Chartavorschlag aufgenommen worden.
+
+Modalitaeten
+~~~~~~~~~~~~
+Proponent:       Karl Obernberger <exmtadi.vzsfi@dh-pyuemvdrp.ie>
+Wahlleiter:      Karlheinz Bächler <pnj@pbletwuhmj.ea>
+neusehland-Account:    sxgp@nbjs.tkzgytvxta.bi
+Abstimmungsende: Mit Ablauf des 31.07.2002 (MESZ)
+Wahlschein:      Untenstehendes Formular ist zu verwenden.
+                 Moeglich sind JA, NEIN, und ENTHALTUNG.
+Bestaetigungen:  Persoenlich, dazu Sammelbestaetigung im 2.CfV
+Details:         Es zaehlen nur per Mail eingegangene Stimmen.
+                 Vgl. die Wahlregeln in de.admin.infos.
+
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer Kaeslaedle/Jourdan-Aenderung de.rec.film.misc
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn Du keinen Real-Namen angibst, kann Deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Aenderung der Tagline
+
+#2   [            ]  Aenderung der Charta
+
+
+Zur Verarbeitung des Wahlscheines und inbesondere der Veroeffentlichung
+des Ergebnisses ist deine Zustimmung zur Speicherung, Auswertung und
+Veroeffentlichung deiner Stimmdaten (Name und E-Mail-Adresse in
+Verbindung mit dem Stimmverhalten) im Rahmen dieses Verfahrens
+erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+-- 
+Fertige Artikel für de.admin.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <vlbehmbcn@kuhr.ok>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <news:de.admin.infos> und unter <http://mco.rfnr.ua/kdf>.

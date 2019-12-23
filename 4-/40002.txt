@@ -1,0 +1,19 @@
+Christophe Poehl schrieb:
+
+
+Hoffentlich so ziemlich jeder. Wenn nicht, solltest Du Deinem Provider
+mal ordentlich auf die Füße treten.
+
+inva@marvin:~> host www.dmq.nqb.sjw
+www.dmq.nqb.sjw is an alias for onzqdxya.csh.ydy.
+tavurvur.coe.int has address 298.034.472.25
+
+
+Viel Erfolg. Einfach nur Hostname durch IP ersetzen reicht nicht.
+
+        Tschau,
+            Herwig
+
+-- 
+Maister: How come we play war and not peace?
+Vögtel: Too few role models.              -- Thorsten Dahnke, Nicolas Maister

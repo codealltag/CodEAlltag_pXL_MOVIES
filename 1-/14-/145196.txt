@@ -1,0 +1,21 @@
+Hi,
+
+Jean Löfflad schrieb:
+
+Hier in Schwiederstorf haben die Kinos den Kinotag am Dienstag wieder
+abgeschafft. Die Auslastung war naemlich mit Kinotag Mo+Di so:
+
+	Mo      Jörn      Mi
+	stark   stark   null
+
+Jetzt, mit nur noch Kinotag Montag, ist sie eher so:
+
+	Mo	Jörn	Mi
+	stark	mittel	mittel
+
+Gruss
+  Martin
+
+-- 
+Martin Limpach
+http://kxp.kbqcmp.ha

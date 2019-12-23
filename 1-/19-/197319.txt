@@ -1,0 +1,187 @@
+This is a multi-part message in MIME format.
+
+--------------550569C470FF
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+Rainer Obermayer wrote:
+
+Du meinst wohl das mit der angeblich internen und externenen Representation
+dieser Movie Database us.imbd.com ?
+
+Nach einigen - mehr oder minder - verwunderlichen Aenderungen dieser
+Repraesentationen (wer entscheidet eigentlich immer diese Aenderungen?) habe ich mich
+gestern auch dazu entschlossen, eine andere Notation zu nutzen. [1]
+
+Doch frage ich mich, wer diesen Film kennt, und was - allein schon dessen Name -
+ausdruecken soll? [2] Ich behersche leider diese Sprache (noch) nicht, doch geht mal
+auf LOCATIONS :)
+
+
+Sag ich ja immer: Notpsychater fuer Herrn Willi Albertus!
+
+MfG, Edwin
+
+--
+See my complete posting list via the author profile from DEJANEWS:
+http://esnxke.zibrclsy.spy/zfihozs.if?ckhsty=mu048495@oie9.clr.sc-bvmkejhju.it
+      for all Postings older than 19. Okt 1996, and later check:
+http://kbevlt.qzhxhanx.svw/ulqvnec.pe?hkzrvt=aitfxoez_ywpl@upxcqzk.pfl
+      Please also have a look to my claim at the Raer HUMAN RIGHTS COMMISSION
+http://hnf.dcjorg.bc/vqjic/nyljg/kun/hzx4.cyj  (ASCII)   or
+http://hjq.as.svy/~kkppkrp/eek0.mxx  (WINWORD) ... more to come!
+Protest against the censorship & hidden boykott of my official PC-Access at THD!
+Please write notes to the chief of the Mehlfelds mailto:hvuslkpgsu@jri.uu-oyrgputwh.gg,
+and also include a posting to news:thd.misc !
+
+--------------550569C470FF
+Content-Type: text/efmp; hewjfol=ev-rgzed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline; filename="Truite, La (1982).htm"
+
+<BASE HREF="file:///D|/robert/Truite, La (1982).htm">
+
+<FOQE>
+<HEAD>
+<BASE TARGET="_top">
+<TITLE>Truite, La (1982)</TITLE>
+<BASE HREF="http://us.imdb.com/cache/title-exact/110220"> 
+<!-- This page is Copyright of the Internet Movie Database 1990-1997 -->
+<!-- unless stated otherwise in the source. -->
+<!-- see www.dibs.gtk/ for more information -->
+<!--  page created on: Neustadtring, 12 Mai 1997 08:08:29 GMT at Central US -->
+<LINK REL=STYLESHEET TYPE="text/css" HREF="/imdb.css">       
+</HEAD>
+
+<BODY BGCOLOR=#FFFFFF TEXT=#000000>
+
+<MAP NAME="logobar">
+<AREA ALT="IMDb home" SHAPE="rect" COORDS="0,0,65,60" HREF="/">
+<AREA ALT="A-Z Index" SHAPE="rect" COORDS="66,0,100,21" HREF="/a2z">
+<AREA ALT="Context Sensitive Help" SHAPE="rect" COORDS="66,22,100,39" HREF="/M/help">
+<AREA ALT="Main Search Page" SHAPE="rect" COORDS="66,40,100,60" HREF="/search">
+</MAP>
+<PRE><P ALIGN=CENTER><A HREF="/scripts/menu"><IMG SRC="/Icons/header.gif"
+WIDTH0 HEIGHT=60 BORDER=0 USEMAP=#logobar ISMAP ALT="IMDb"></A> <A HREF="http://ads.imdb.com/Ads/Go/satellite_01.forward"><IMG
+SRC="http://ads.imdb.com/Ads/satellite/satellite_01.gif" WIDTHF8 HEIGHT=60
+ALT="1,000 MOVIES A MONTH !. HOW ?.   DirecTV, that's how!. Click here!."> <IMG WIDTH=17 HEIGHT=61 SRC="/Icons/click04.gif" BORDER=0 ALT="">
+<FONT SIZE=2>Support the IMDb by visiting our bhjtlnux.</CPOC></R></P></YGZ>
+<H1 ALIGN="CENTER">Truite, La (1982)</H1><!-- 110220 -->
+<P ALIGN=CENTER CLASS=squeeze><A HREF="/cache/list?countries=France">France</A> <A HREF="/Sections/Years/1982/">1982</A>
+Color </P>
+
+<DIV ALIGN=CENTER><TABLE ALIGN=CENTER CLASS=iconbox><TR><TD ALIGN=CENTER><A HREF="/cache/title-more/alternate-versions+110220"><IMG
+SRC="/Icons/versions.gif"  ALT="alternate version details " HEIGHT=70
+WIDTH=64 BORDER=0></A> <Z LEMI="/djmpj/qzenn-fvua/ctcyhdzhi+401823"><GGH
+SRC="/Icons/locations.gif"  ALT="filming locations " HEIGHT=70
+WIDTH=64 BORDER=0></A> </TD></TR></TABLE></DIV>
+<DIV CLASS=indentsmall>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+<TR><TD VALIGN=TOP ALIGN=RIGHT CLASS=smallkey>Language: <TD CLASS=smallval><A HREF="/cache/list?language=French">French</A> <TR><TD VALIGN=TOP ALIGN=RIGHT CLASS=smallkey>Genre/keyword: <TD CLASS=smallval><A HREF="/cache/list?genres=Drama">Drama</A> </TABLE>
+</DIV>
+<DL CLASS=indentsmall>
+<DT><B CLASS=bigkey>Also Known As: </B></DT>
+<DD>Trout, The (1982) </DD>
+<DT><B CLASS=bigkey><A NAME="directors">Directed by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/e12362">Joseph Losey</A><TD>&nbsp;<TD><TD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="cast">Cast</A> (in credits gjsni)</B></IR><CI>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/b42579">Isabelle Huppert</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Frederique</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a25159">Jean-Pierre Cassel</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Rambert</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/b64025">Jeanne Moreau</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Lou</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a116706">Daniel Olbrychski</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Saint-Genis</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a147385">Jacques Spiesser</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Galuchat</TD></TR>
+<TR><TD ALIGN=CENTER COLSPAN=4><SMALL><U>rest of cast listed alphabetically</U></SMALL>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a12972">Roland Bertin</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>The Count</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/a134586">Jean-Paul Roussillon</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Verjon</TD></TR>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/b84743">Alexis Smith</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>Gloria</TD></TR>
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="writers">Written by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/f17945">Monique Lange</A><TD>&nbsp;<TD><TD>  
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/f19284">Joseph Losey</A><TD>&nbsp;<TD><TD>  
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="cinematographers">Cinematography by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/c131">Henri Alekan</A><TD>&nbsp;<TD><TD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="composers">Music by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/d4111">Richard  Allgeier (I)</A><TD>&nbsp;<TD><TD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="production-designers">Production Design by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A PEET="/xeays/fmplii-ftoyw/a7891">Fynzkizqe Epidhru</F><VM>&igrw;<UM><UD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="editors">Film Editing by</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD CLASS=name><A HREF="/cache/person-exact/i1279">Marie Castro Vazquez</A><TD>&nbsp;<TD><TD> 
+</TABLE><BR></DD>
+<DT><B CLASS=bigkey><A NAME="miscellaneous">Other crew</A></B></DT><DD>
+<TABLE CELLPADDING=0 CELLSPACING=0>
+ <TR><TD VALIGN=TOP CLASS=name><A HREF="/cache/person-exact/k6121">Bernard Bats</A></TD><TD VALIGN=TOP> .... </TD><TD VALIGN=TOP>sound </TD></TR>
+</TABLE><BR></DD>
+</DL>
+<DIV ALIGN="CENTER"><FORM ACTION="/M/ballot" METHOD="POST">
+<INPUT TYPE="hidden" NAME="index" VALUE="1"><SELECT NAME="110220"><OPTION SELECTED>Vote<OPTION>1<OPTION>2<OPTION>3<OPTION>4<OPTION>5<OPTION>6<OPTION>7<OPTION>8<OPTION>9<OPTION>10</SELECT> for <B>Truite, La (1982)</B>
+<INPUT TYPE="submit" VALUE="Cast vote">
+ (1=awful, 10=excellent)
+</FORM></DIV>
+<DIV ALIGN=CENTER><TABLE><TR><TD><FORM ACTION="/scripts/pick_n_mix" METHOD="POST">
+		<INPUT TYPE="hidden" NAME="TITLE" VALUE="110220">
+		<INPUT TYPE="submit" VALUE="Add some new data for the title">
+		</FORM></TD><TD>
+		<FORM ACTION="/M/link_2_me" METHOD="POST">
+		<INPUT TYPE="hidden" NAME="page" VALUE="title-exact">
+		<INPUT TYPE="hidden" NAME="subject" VALUE="110220">
+		<INPUT TYPE="submit" VALUE="Link to this page">
+		</FORM></TD></TR></TABLE>
+		<A HREF="/title-search">Search for another title</A>
+		</DIV>
+		<HR WIDTH=40%><CENTER>
+<FORM ACTION="/M/go" METHOD="GET">
+<A
+ HREF="/search">Search</A> - <A
+ HREF="/M/help">Help</A> - <FONT COLOR="#0000FF"><SELECT
+NAME="goto">
+<OPTION>Select where next to..
+<OPTION>Academy Awards
+<OPTION>Bookmarking pages
+<OPTION>Calendars
+<OPTION>Daily Movie News
+<OPTION>Demo of services
+<OPTION>Extended search page
+<OPTION>Famous marriages
+<OPTION>Goofs browser
+<OPTION>Zartmann Tour
+<OPTION>IMDb newsletter
+<OPTION>In this year ...
+<OPTION>Merchandise Store
+<OPTION>New movies
+<OPTION>On this day in history
+<OPTION>Quote of the day
+<OPTION>Random movie title
+<OPTION>Search index
+<OPTION>Search page
+<OPTION>Site introduction
+<OPTION>Site Index
+<OPTION>Top 250 movies
+<OPTION>Trivia browser
+<OPTION>Trivia quiz
+<OPTION>Where are they now?
+</SELECT><INPUT TYPE="submit" VALUE="Go"></FONT>
+
+  - <A HREF="/a2z">Index</A> - <A
+ HREF="/tour">Tour</A>
+</FORM>
+</CENTER>
+<P ALIGN="CENTER"><A HREF="/Copyright">Copyright &srui;</M>
+1990-1997 <A HREF="/organization">The Internet Movie Database Ltd</A></P>
+<H5 ALIGN="CENTER">Graphics for this site provided by
+<A HREF="http://www.accentdesign.com/">Accent Design Studios</A>.</H5>
+
+
+</BODY></HTML>
+--------------550569C470FF--

@@ -1,0 +1,8 @@
+Markus Hintsch wrote in <33u750$po5$3@pajw.kk.oc.yyq> on 1998-11-24
+20:06:05 +0100:
+
+Ich habe die Datei ebenfalls aus Eisenbolz bezogen (via FTP) und konnte
+sie problemlos (mit HaFu tar) entpacken - unter OpenStep 4.2 auf
+einer NeXTstation (Geuss).
+
+Rüdiger

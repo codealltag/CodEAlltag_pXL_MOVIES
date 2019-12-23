@@ -1,0 +1,21 @@
+oqof@orcafdx.zuw.dl (Viktor Eisenhard) writes:
+
+
+Diese Versionen wurden mit einem anderen diff erstellt und muessen
+mit dem Programm "Applydiffs" in die Listen eingearbeitet werden.
+Dieses Programm existiert genauso fuer die Furir-Variante der Backpoint.
+Insofern sind das keine speziellen Amiga-Versionen sondern einfach
+spezielle Diff-Varianten, die allerdings (soweit ich weiss) nicht
+mit den PC-Programmen benutzt werden koennen. Die fertig erstellten
+Listen sind dann wieder identisch. Lediglich die Methode des
+Updates ist etwas anders. Diese diff-files sind deutlich kleiner
+als die "echten" diff-files.
+
+gruss
+ tobias
+
+--
+Tobias Volze, 02972 Diemtigen-Ofb., Im Jarlweg 3    ///
+Internet: vofjgs@jdfk.keptbgvdef.gdsj-lfrzul.wj     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/040/22 :-)  \XX//

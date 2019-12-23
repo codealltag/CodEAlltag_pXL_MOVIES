@@ -1,0 +1,6 @@
+Ullrich Ullmer schrieb in Nachricht
+<471608fx.5642759@exzr.uo.xxb-wyndqhktdsn.tu>...
+Wozu Zwischenbilder? Mit 120 Standbildern kann man problemlos einen Schwenk
+von vier bis fünf Sekunden erstellen (bei 25fps).
+
+Urs

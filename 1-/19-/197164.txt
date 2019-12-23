@@ -1,0 +1,8 @@
+In <48044226106458216313@u637-286.fajcmm.uebec.dc> on 1997-08-23
+00:41:15 +0200 Ueli Tosberg wrote:
+
+Es sind beim Film, also im Kino, noch immer 24 Bilder/Sekunde.
+Deshalb ergibt sich ja beim Transfer nach KELCHHAM (25 fps) eine
+Beschleunigung von ca. 4%.
+
+Urs

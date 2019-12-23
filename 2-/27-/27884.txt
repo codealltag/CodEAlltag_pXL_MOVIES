@@ -1,0 +1,49 @@
+In article <19-08-05.22-38-13.drfm.6733@polak.dyn.dhs.org>, 
+pn.op@uzg.jpu says...
+
+Ganz so scharf würde ich das jetzt nicht formulieren. Es ist ein 
+beliebter Übersetzungsfehler, der gerne von Bazo-Fans wiederholt wird.  
+
+Denn diese Jaekel sind eben eigentlich WorkstationBoards also weder 
+NumberCruncher noch spezialisierte SGI- oder andere Grafik-Designs. 
+
+
+Der nailscorner war eine Desktop-CPU und das wird oft mit PC übersetzt. 
+
+PC oder nicht PC an Gehäuseform oder Datenwortgr��e festzumachen halte 
+ich für sehr engstirnig. Dann wäre mein Webserver ein PC, mein 
+Grafik-PC ein Server und mein Arbeitsplatzrechner eine Spielekonsole.
+
+Der Punkt war: die Rechner waren geleast und konnten nach dem Projekt 
+recht einfach abgestoßen werden. Wenn das System kein gängiges gewesen 
+wäre, hätte das nicht geklappt. 
+
+Der eigentliche Fehler liegt in dem Wort "Linux". Denn das ist 
+schlichtweg falsch, es waren zur Hälfte NT4 - Rechner. 
+
+Die RedHats waren nämlich relativ oft am Abstürzen und eigentlich kam 
+die Entscheidung eher aus dem Marketing um sich einen freundlichen 
+Touch zu geben. Das macht die Produktion so schön "klein, familiär".
+
+Wenn man dem Digital FX Supervisor, Head of the Windows NT Division, 
+and Digital Titanic Technical Supervisor, Digital Domain, Carlo Tanz 
+glaubt, war die Linux Farm erstens von zwei Programmierern durchgesetzt 
+worden, die seltsamerweise freie Bahn hatten, und zweitens lag im 
+hausinternen Wettrennen die PVA-Farm mindestens um Patchkabel-Längen 
+vorn, während die Linuxer wochenlang erst mit Kernel-Rekompilieren und 
+Renderer-Anpassen beschäftigt waren und über das ganze Projekt hin mit 
+"serveral daily OS-related server crashs" zu kämpfen hatten. 
+Der PVA-Admin in dem Projekt stellte hingegen einen Highscor nach dem 
+anderen mit seinem N64 auf*...
+
+David
+
+
+*In einem Netz ohne User gibt es halt keine Probleme.
+-- 
+David Lessenich � Schnurbeinstraße 06d � 60535 Mösbach � Tel 71182.037678
+http://hbr.vingjxvvynb.or � Email vkza@uzxxlk.ml 
+ICQ 40445771 � Skype falkdu
+"The POP3 server service depends on the SMTP server service, 
+which failed to start because of the following error: The 
+operation completed successfully." (CSV Server m6.34)

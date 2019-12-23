@@ -1,0 +1,9 @@
+Einer der Police-Academy Filme.
+
+
+Übersetzung von 'Dork'.
+-- 
+"Regular ist rekursiv.
+Ein User ist ein Regular,
+wenn er von den Regulars als Regular angesehen wird."
+  -Robert Hinterholzinger in bs.drc.mircorhr.gpaxel

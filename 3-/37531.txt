@@ -1,0 +1,19 @@
+G schrieb:
+
+Den Du nicht korrekt deklariert hast.
+
+
+Weil Dein Newsreader darauf setzt, daß andere Newsreader das schon
+irgendwie raten werden. Was leider nicht den RFC entspricht.
+
+
+Dann schreib doch einfach "Guenter", wenn Dein Newsreader den Header
+nicht korrekt encodieren kann...
+
+Gruß,
+Tino
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://pkp.afbkegjc.hb/gehhvpynq/ ~ http://cnu.pnuqkgjx.me/ony-yjun/
+Mail: zl__6096<gv>hotmail<punkt>com ~ news-2003-10<at>schwinde<punkt>de

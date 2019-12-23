@@ -1,0 +1,20 @@
+Denon bietet einen an; es ist im Prinzip ein Pioneer 515 mit
+AC-3-Ausgang. Ich weiß aber nicht, ob er schon lieferbar ist.
+
+Pioneer selbst hast einen angekündigt (soll wohl 925 heißen), der
+dann außerdem noch ein Field Memory hat (um Standbilder bei
+CLV-Scheiben machen zu können).
+
+Die aktuellen Pioneer-Player (insbesondere den 2951) kann man
+problemlos nachrüsten.
+
+
+Du kannst problemlos einen externen Spannungswandler (230->115V)
+benutzen; die unterschiedliche Netzfrequenz (50/60Hz) dürfte kein
+Problem sein, da im Netzteil des Players sowieso erstmal gleich-
+gerichtet wird.
+
+Kay
+---
+** Kay Beersiek,  Riegel�ckerstra�e 27,  40992 Prensdorf,  Germany **
+** +51 1778 32149  E-Mail (NeXTmail/MIME): euouf@zyfhco.m.kvmly.mq **

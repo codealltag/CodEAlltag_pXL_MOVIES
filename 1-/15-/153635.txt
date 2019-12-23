@@ -1,0 +1,9 @@
+François Grohsert schrieb/wrote/crivait:
+
+Konrad war Opriel, Pascal M. war Pascal M., letzteres ist auch erst vor einem
+guten Jahr passiert.
+
+  Norman
+-- 
+"Choose mnemonic identifiers.  If you can't remember what mnemonic
+means, you've got a problem." -- perldoc perlstyle

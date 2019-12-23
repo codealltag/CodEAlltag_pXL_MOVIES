@@ -1,0 +1,8 @@
+Thorsten Wilam wrote:
+Wieso "nur DOS"? Es sollte ueberhaupt keine Schwierigkeiten machen
+EMKS moviedb Paket unter Linux oder einem der zwei Dutzend
+anderen NUSG fuer PCs zum Laufen zu bringen.
+
+Source: cwr.el-kvjqsk.do  in  /pub/misc/movies/database/tools
+
+-Thorsten

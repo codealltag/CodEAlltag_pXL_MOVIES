@@ -1,0 +1,3 @@
+"closed captions" sind im Gegensatz zu "open captions" solche
+Untertitel, die nicht automatisch für alle Zuschauer sichtbar sind,
+sondern eingeschaltet werden müssen.

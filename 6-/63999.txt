@@ -1,0 +1,14 @@
+* Cornell Rexrodt <cobi@dafhs.org>:
+
+
+Es gibt einen Begriff, der das Original auf den Punkt bringt:
+Langweilig. Es ist mir ein Rätsel, wie es Tobe Hoopers "Texas Chainsaw
+Massacre" zum Kultfilm schaffen konnte.
+
+
+Bye,
+Ingolf
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

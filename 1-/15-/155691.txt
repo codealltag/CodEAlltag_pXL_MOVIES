@@ -1,0 +1,6 @@
+DVD-CD-Player werten ebenfalls den Regionalcode aus. Beim
+Vorgängermodell des aktuellen Pioneerplayers konnte man das mit ein
+wenig Know-How umgehen. Wie das mit dem aktuellen Gerät (A04) aussieht,
+weiß ich nicht.
+
+wil

@@ -1,0 +1,14 @@
+Hermann Fuhrmeister schrieb:
+
+
+Die Ascii-Files sind mittlerweile bei 310562446 Bytes
+und die fertige Datenbank ist 158718419 Bytes gross.
+
+Also ziemlich aufwendig, und die ändert sich jede Woche.
+
+Gruss Michel
+
+Made with Amiga
+
+-- 
+uxeit@xvggf.pnyv.sw

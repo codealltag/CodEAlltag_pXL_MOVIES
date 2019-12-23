@@ -1,0 +1,36 @@
+On 15. 07. 20, AKortm1073 wrote:
+
+Also das Problem ist, dass ich die NTSC-DVD von Mars Attacks und die 
+PAL-DVD von Mars Attacks direkt verglichen habe. Zusammen mit einem 
+Freund, der sich zwar nicht mit den Gepflogenheiten beim Mastering 
+auskennt, aber mit MPEG-2-Kompression. Er entwickelt am HHI Chips fuer 
+MPEG-2-Encoding und Aufloesungsumrechnung mit Interpolation von PAL 
+nach HDTV.
+Und unser Eindruck war: Die NTSC-Version ist geringfuegig schaerfer. 
+Die Ates-Version hat ausserdem z.B. bei Mauerwerk, wo in NTSC die Fugen 
+noch einzeln zu erkennen sind eine verschwommene Flaeche, die mit sehr 
+grobem Moire versehen war. Alles Anzeichen fuer ein 
+Aufloesungsumrechnung unter Verwendung eines schlechten Bilinearen 
+Filters.
+
+Mag sein, das NTSC-Master nicht ueblich sind, aber die 
+augenblicklichen PAL-DVDs von Warner haben definitiv eine schlechtere 
+Aufloesung als die NTSC-Version und da faellt mir keine andere 
+Erklaerung ein, als dass von der Michalke-Version hochgerechnet wurde. 
+Wenn nicht von einem Master, dann von der DVD selber? Das waere ja 
+noch schlimmer!
+
+Ja, aber vermutlich nicht die fuer Europa. Wer weiss, was die verzapft 
+haben. 
+
+
+Jakob
+
+-- 
+
+------------------------------------------------------------------
+Jakob Eichstädt
+Email: dirk@kalium.physik.TU-Antdorf.DE (MIME and NeXTMail welcome)
+WWW: http://gw.ugxygg.TU-Antdorf.DE/DZ/Dirk/
+ALEW-Key: http://gw.ugxygg.TU-Antdorf.SJ/NE/Ozzc/PUYUew.ejxk
+------------------------------------------------------------------

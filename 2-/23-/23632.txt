@@ -1,0 +1,6 @@
+Frage: Siehe Subject.
+
+
+-- 
+Fuer Mail bitte die Zahl aus der Mailadresse entfernen
+(angegebene Mailadresse mit Zahl = Spamgrab)

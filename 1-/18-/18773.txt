@@ -1,0 +1,8 @@
+Mir fällt kein besseres Subjekt ein: Jedenfalls suche ich nach einem 
+Programm (ähnlich dem DVD Profiler), wo man eintragen kann, wann und wo man 
+einen Kinofilm gesehen hat. Evtl gleich mit Backgroundinfos zum Film, link 
+zu IMDB u.�. Wollte dazu erst DVD Profiler missbrauchen, aber die haben 
+halt keine aktuellen Kinofilme mit drin. 
+
+Kennt jemand so ein Programm? Oder einen Namen, wonach man da suchen muss?
+Bevor ich anfange, selbst sowas zu programmieren...

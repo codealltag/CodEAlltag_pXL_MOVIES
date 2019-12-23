@@ -1,0 +1,13 @@
+tcclx3@qifoxtybcs.af (Klaus A. Sten) wrote in <ajvun0$cbs$1@nntp-
+p36.dzhh.qvn.bph>:
+
+
+Habe das Programm nach der installationsanweisung installiert.
+Sobald ich das Frontend programm aufrufe bzw. die Datenbank generieren 
+will, kommt die Meldung: Environmental variables not set in Flammenträume.
+
+Volkert jemand wo man die Variablen bzw. den Pfad setzen kann?
+
+danke & Gruss,
+
+Karl

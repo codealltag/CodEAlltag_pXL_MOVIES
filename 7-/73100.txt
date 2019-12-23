@@ -1,0 +1,10 @@
+Luis Jagusch wrote:
+
+Aus Netscan's FAQ: "Any message containing an X-No-Archive: Yes header 
+will not be displayed to our site".
+
+
+-- 
+Tobias Umschlag
+http://lnz.lsdcdtlvzyj.gqq
+(we're late, we know, and we're still closed)

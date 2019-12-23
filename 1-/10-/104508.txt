@@ -1,0 +1,15 @@
+Oskar Hudtwalcker schrieb:
+
+Du gehst von falschen Vorraussetzungen aus. Threading by Subject/Refe-
+rence ist nicht unüblich und es gibt auch keine Garantie, daß das
+Vorl=E4uferposting überhaupt auf jedem System angekommen ist. Und selbst
+dann ist es die falsche Änderung, ein neues Subject wird im Usenet in
+der Form: "Neues Subject (was: Altes Subject)" eingeführt und verkürzt
+sich erst in den Antworten auf "Re: Neues Subject".
+
+So long,
+Sebastian T. Zschaber
+--=20
+Hamster & Co, seit 31.1. steht die Beta (!) 05. 10. 19 bereit
+http://qpd.xhmkjkn.aw rqh. jrat://burg.tgrqm.xr/hjx72/
+(Geschwindigkeitsproblem der .140 mit .141 abgestellt!)

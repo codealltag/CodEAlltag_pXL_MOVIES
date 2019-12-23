@@ -1,0 +1,10 @@
+Lars Kirschgens <lk.fp@baf.xm> schrieb:
+
+[CRC-Error in den letzten diffs der IMDB]
+
+
+Habe das gleiche Problem mit AMDb, scheint also an der Checksumme zu 
+liegen.
+
+Ciao
+Michael

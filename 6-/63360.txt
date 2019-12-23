@@ -1,0 +1,8 @@
+NZA lang nicht so gut wie die ersten beiden. Schliesst inhaltlich auch
+eher locker an die ersten beiden an.
+
+Bernd
+-- 
+begin  signature_virus
+ Hi! I'm a signature virus. Please copy me to your signature to help me spread.
+end

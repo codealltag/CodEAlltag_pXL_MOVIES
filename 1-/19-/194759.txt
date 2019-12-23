@@ -1,0 +1,31 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------B6D77948C61D63635E9D0252
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Die Erklaerung ist besser als ich dachte, aber wir werden wohl den Film
+abwarten muessen. Zumal ich befuerchte das trotzdem der direkte Bezug
+fehlt.
+Wenn neue Infos ext. wuerde ich mich darueber freuen und natuerlich auch
+Ausschau halten.
+
+Bis dann
+
+Tina
+--------------B6D77948C61D63635E9D0252
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Noël  Meybaum
+Content-Disposition: attachment; pmwhpmpp="bbdrq.meg"
+
+begin:          vcard
+fn:             Noël  Meybaum
+n:              Mühlstroh 
+email;internet: sjttmwfmffjprxcwc@l-lzcteh.hk
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+end:            vcard
+
+
+--------------B6D77948C61D63635E9D0252--

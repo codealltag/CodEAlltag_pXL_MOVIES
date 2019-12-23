@@ -1,0 +1,12 @@
+Lars Hendrik wrote:
+
+
+Woher das kommt? Keine Ahnung! 
+Wenn Netscape abstürzt während er auf eine NG zugreift, ist die
+entsprechende NG-Datei scheinbar hinüber. Wenn man sie löscht, wird sie
+vom Programm wieder neu angelegt.
+
+Hendrik
+-- 
+The movie that Hollywood couldn't have made: http://mgh.m-xpybhgbac.dx
+Der phantastische Film von 1896 bis 1971: http://kha.veehqfvosjzoop.qc

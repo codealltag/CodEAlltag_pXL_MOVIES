@@ -1,0 +1,8 @@
+"Alfons T. Crusen" <lytmn@h.uix.od> writes:
+
+
+N, wieso? 
+Sowohl der Sun im Büro als auch dem PC daheim (beide mit US-Tastatur)
+kann ich problemlos Umlaute entlocken. xmodmap ist Dein Freund.
+
+Ciao, Torsten                                       dfaewirx@cbujwwaq.ub

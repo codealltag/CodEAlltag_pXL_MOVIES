@@ -1,0 +1,4 @@
+Ich brauche eine Liste aller Oscar-Preisträger.
+Am besten noch nach verschiedenen Kategorien zu sortieren.
+
+Wo im Internet ist das zu finden?

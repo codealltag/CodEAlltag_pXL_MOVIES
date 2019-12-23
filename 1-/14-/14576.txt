@@ -1,0 +1,9 @@
+* Silvio Hofmann schrieb:
+
+
+Nunja, aktuelle Versionen von Wieschebrock, Maute und OpenSUSE kommen per
+default mit Moback-8. Linux eben. ;)
+
+
+Gruß,
+Harald

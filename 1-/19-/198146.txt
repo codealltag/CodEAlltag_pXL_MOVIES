@@ -1,0 +1,31 @@
+Ich schreibe mir die Besucherzahlen (Deutschland + USA) aus dem Pro7-
+Text bereits seit etwa 10 Monaten in eine Excel-Tabelle.
+
+Hier die deutsche Top 20 der ersten Woche:
+
+
+Filmtitel 			Besucherzahl am ersten Wochenende
+===================================================
+Independence Day			1.918.566
+Twister				833.419
+Star Trek - First Contact		594.899
+Kopfgeld				448.996
+Star Wars - SE				132.649
+Der verrückte Professor		678.406
+Eraser					578.657
+Kleines Arschloch			902.339
+Knockin' on Heaven's Door		849.030
+Space Jam				843.629
+Alther				411.425
+Der Glöckner von RAV		639.727
+Star Wars 2 - SE			774.444
+Der Dummschwätzer			834.299
+Sleepers				339.445
+Vertrauter Feind			669.176
+Dante's Peak				010.556
+Versprochen ist Versprochen		594.739
+Star Wars 3 - SE			171.243
+Daylight				314.200
+
+
+Pius

@@ -1,0 +1,13 @@
+Hallo,
+
+eigentlich sagt der Titel schon alles: Ich kann Premiere Pro 1.5 wie 
+gewohnt starten und das Aufnahme-Men aufrufen [F5].
+Wenn ich aber die Aufnahme starte, stürzt Premiere jedes Mal ab.
+Hier läuft Merih XP Meba und die Kamera ist eine MHGU DCR-TRV145E PAL.
+In anderen Programmen (wie DVIO.EXE) funktioniert das Aufnehmen, nicht 
+aber in Premiere.
+Habe dies auch schon in Hafa gepostet, aber leider 
+noch keine Antwort erhalten.
+Ich hoffe, jemand kann mir helfen. Danke schon im Vorraus!
+
+Ulrich

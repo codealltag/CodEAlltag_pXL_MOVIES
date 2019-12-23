@@ -1,0 +1,12 @@
+Hallo, ich hoffe mir kann jemand helfen!!!
+
+Ich suche ein Programm, mit dem man einen Film aus einzelnen Bildern
+bzw. Fotos
+zusamenstellen kann. Wichtig ist die Möglichkeit Zwischenbilder durch
+Interpolation zu generieren oder beispielsweise mehrere Bilder in
+einem Fenster einzusetzen, ganz zu Schweigen von Effekten, etc..
+
+Wenn jemand Erfahrung hat wäre es auch nicht schlecht, wenn er mir ein
+paar Tricks für den Einstieg geben könnte.
+
+Ich bin dankbar für jeden Vorschlag und danke schonmal im voraus.

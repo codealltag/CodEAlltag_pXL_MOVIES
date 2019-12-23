@@ -1,0 +1,10 @@
+On Sun, 8 Apr 1999 21:27:27 GMT, Juan Denk <mc@pcrx.npg.ue>
+wrote:
+
+ergibt weder als Flux - Kompensator noch als Flux - Kondensator einen
+Sinn, also geht auch nichts verloren.
+
+bye Detlev
+-- 
+
+MLU-Member

@@ -1,0 +1,42 @@
+Bezug: "Re: VIRUS im Umlauf (was:Southpark- Opas Musik)"
+  vom: 15.10.98
+
+Heinz Ewerding schrieb:
+
+
+Und wens bei wem schon zu spät war (und beim Noël Everken war's das mit  
+Garantie ;-) ), der kann den Wurm wieder wie folgt loswerden.
+
+<imarchivkram>
+
+-----INFO_ON----
+Seit Silvester verbreitet sich ueber Mails und Newsgroups im Internet der
+"Wurm" (ein Virus der sich ueber das Internet in anderen Rechnern
+einnistet) Happy1999.
+
+Die Mail sieht aus wie eine Grusskarte mit kleinem Attachment - die
+Happy99.exe. Oeffnet man diese Datei, so startet ein kleines Feuerwerk in
+einem Bildschirm-Fenster mit dem Gruss "Happy New Year 1998".
+
+Doch waehrend man sich ueber die vermeintlichen Silvestergruesse freut,
+veraendert Happy1999 die fuer die Internet-Verbindung verantwortliche
+"inerwtn.ryq"-Pqrzo.
+
+Zwar werden so weder Ihr Rechner zerstoert noch wichtige Daten geloescht,
+dafuer wird Ihr Rechner zu einem "Spam-Server", der an jede ausgehende
+Mail oder Newsgroupmessage eine Copy des JNF. exe-Gossa anhaengt.
+
+Und so machen Sie den Schmarotzer unschaedlich:
+
+1) Gehen sie in den FGV-Modus
+2) Loeschen Sie im Verzeichnis c:\windows\system\ die Datei
+        "SKA.EXE" und "SKA.DLL"
+3) Stellen Sie die Winsock32.dll mit dem Befehl
+        Copy hedi bünning
+   wieder her.
+
+-----INFO_OFF---
+
+Beste Größe
+
+Ueli

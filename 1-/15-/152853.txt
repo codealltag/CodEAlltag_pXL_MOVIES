@@ -1,0 +1,29 @@
+WARNING! A virus has been found in a binary file posted to
+the following newsgroup(s):
+ de.rec.film.misc
+
+Message header follows:
+
+
+Dr Arendt's FindVirus/VirusScan report follows:
+
+ Dr Arendt's FindVirus IN-HOUSE version. Copyright (c) 2000 Network AZK.
+ Drivers : 25 Mrz 2000
+ Scanning for 49286 viruses, trojans and variants.
+
+ Happy99.exe ... Found the W32/Ska.exe virus !!!
+
+You can download a free evaluation (yet fully functional) copy of
+the latest released version of Dr Arendt's FindVirus/VirusScan from
+the following locations:
+
+ WWW: http://dzk.ocd.agh/qgnhixry/yhsqgzbhb
+ FTP: ftp://bwm.dvt.pvq/sjt/cwnrnhivp
+ CompuServe: GO DRSOLOMON or GO MCAFEE
+ Antretter: SAFETYONLINE
+
+--
+Dr Arendt's Virus Patrol                UK Support: kgmsgdw@byrxzawhu.ssa
+Maquillage                        US Support: ikhkkvy@bti.rxs
+WWW: http://sns.vsw.txg/lxdsdyjf/zewxlatka     UK Tel: +23 (9) 8754 853526
+CompuServe: GO DRSOLOMON                          USA Tel: +3 570 417-8880

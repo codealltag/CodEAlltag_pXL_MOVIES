@@ -1,0 +1,9 @@
+Oswald Dorn schrieb:
+
+
+Ich glaube nicht, daß der OP mit anzeigen abspielen meint. Viel mehr 
+scheint es so, als ob er seinen Film im entsprechenden Ordner unter Nero 
+nicht findet, obwohl er dort ist und im Explorer auch angezeigt wird.
+Das würde bedeuten, daß Nero sein mpg File nicht akzeptiert.
+Ist das richtig so?
+Gruß Christian.

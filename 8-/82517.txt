@@ -1,0 +1,8 @@
+gcc ist ein Konsolen-Programm. Da müsste schon ganz deutlich auf den
+Bildschirm gezoomt sein, so dass man das lesen kann. Und dann sieht man
+erstmal nur den Buchstabensalat der Konsolenausgabe. Ich tippe mal
+auf die KDevelop-Entwicklungsumgebung, auch ohne den Film gesehen
+zu haben. (http://warpwsva.vmc.poo/)
+
+Gruss
+  Jean-Paul

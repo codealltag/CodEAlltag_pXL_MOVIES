@@ -1,0 +1,17 @@
+## Nachricht vom 13.06.98 weitergeleitet
+## Ursprung : ihexg@fhyqict.day.qw
+## Ersteller: UraznQhbgy@yyr.rtb
+
+In a message dated 98-01-12 09:41:50 EST, you write:
+
+<<  is it true that Waterworld is encoded at 448kb/s instead of the more
+  commonly used 384kb/s ?
+
+  if so are all DVDs from Universal encoded at 448kb/s ? >>
+
+Yes, all Universal 5.1 (or 5.0) tracks are at 448kb/s. This info from Sven
+Halperin of same. We are working on getting others to do it. Seems they just
+thought since LD used 384 they had to do it on DVD, too.
+
+Regards,
+Lothar

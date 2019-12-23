@@ -1,0 +1,13 @@
+In <2kz1se$bdz@ftdt.kwgqe.rb>, naddy@mips.pfalz.de (Ueli Ausdermühle) writes:
+
+Es mag betriebssystemabhaengig sein, besser nochmal in
+die Installationsanleitung schauen.
+Fuer OS/2 trifft es jedenfalls zu. Ich hatte bei der Erstinstallation
+so ca. ein 90MB grosses Swapfile bei 32MB RAM.
+
+Gruss Otmar
+-------------------------------------------
+Internet: noaggrjf@gsssy.op-cyhoqq.sk
+          hwwf@nz.sz-lborjm.em
+BBS: e.jkdtqrcbtw@hmyqrkiw.tfiyhqjz.mh
+WWW: http://hlbforwc.vw-tessxe.wn/~xjacbdbf

@@ -1,0 +1,30 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------DDED6CE90F44049B32365E80
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+weiss nicht, ob er schon erwaehnt wurde
+
+mario maass:    das boot (einfach nur genial)  --> airforce one (einfach
+nur schlecht)
+
+
+cu....rainer
+
+--------------DDED6CE90F44049B32365E80
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Rainer Bliebenicht
+Content-Disposition: attachment; jucwbaxy="bvpfj.ady"
+
+begin:          vcard
+fn:             Rainer Bliebenicht
+n:              Jérôme
+email;internet: lgzom@eav.rv-juledtyt.er
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------DDED6CE90F44049B32365E80--

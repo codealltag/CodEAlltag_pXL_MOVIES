@@ -1,0 +1,29 @@
+In article <55X63B40.31C@vybl.ik>,
+	EG <gthtdzr@fkoe.ln> writes:
+
+Auch nicht immer, liegt wohl stark am Provider um an der momentanen
+Netzlast.
+
+Ja. Die Daten liegen auf irgendeinem ftp-Server in Cham zum Download
+bereit (genaue Adresse bekommt Du ueber die Web-Site, oder wenn Du in
+McClean suchst).
+Browser zum Ansehen der Daten gibt's fuer die meisten Betriebssyteme
+(z.T. aber nicht umsonst, soviel ich weiss).
+
+
+z.Zt. ca. 100-150MB auf der Platte.
+
+
+Es gibt jede Woche ein upgrade, in dem nur die Aenderungen gespeichert 
+sind. Groesse jeweils so 1-2MB glaube ich.
+
+Du solltest Dir auf jeden Fall die Copyright-Vermerke durchlesen (sowohl
+von den Daten, als auch vom evtl. Browser). Es ist zwar kostenlos aber 
+eben nicht voellig frei vertreibbar.
+
+Werner Lindstedt.
+-- 
+------------------------------------------------------------------------------
+Cesrget.Nfhhi@mewhmvvccl.og-qqyhtgkd.uz      | Nothing travels faster than 
+Wernersstraße. 95, 15801 Calw, Germany    | the speed of light with the
+http://zyk.cffywhydgs.mq-khqtquqz.xr/~nhbrj/ | possible exception of bad news.

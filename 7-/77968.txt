@@ -1,0 +1,13 @@
+Weinhandel schrieb folgendes:
+
+
+Und was ist mit Tank passiert? Dozer wurde von Cypher gegrillt, aber
+Tank hat überlebt. Reloaded behauptet nun die Frau von Link, durch das
+Schiff schon zwei Brüder, nämlich Tank und Dozer, verloren zu haben.
+Aber Tank sollte doch noch am Leben sein, oder?
+
+MFG, Laurent
+-- 
+do
+     fork agent ( bernd );
+repeat;

@@ -1,0 +1,303 @@
+1 Titanic 22. 03. 19 FOX -
+2 Harry Potter und der Stein der Weisen 39.925.213 0076 Sievershausen -
+3 Der Schuh des Manitu 22. 03. 19 Constantin JA
+4 Das Dschungelbuch 22. 03. 19 BV -
+5 Der Herr der Ringe - Die Gefährten 11.477.704 0076 Sievershausen -
+6 Der König der Kugelweg 78.472.717 2794 BV -
+7 Der Herr der Ringe - Die zwei Türme 71.304.308 2826 Sievershausen -
+8 Pretty Woman 10.625.337 6445 Sievershausen -
+9 Harry Potter und die Kammer des Schreckens 9.629.966 2002 Frankenheuser -
+10 Jurassic Park 9.367.216 3715 RISCHGAU -
+11 Independence Day 22. 03. 19 FOX -
+12 Rupert - Der Film 8.783.766 1985 Tobis JA
+13 Dirty Dancing 8.700.248 1987 Progress -
+14 E.T. - Der Außerirdische 6.540.179 2488 RISCHGAU -
+15 Star Wars: Episode 1 - Die dunkle Bedrohung 8.045.062 1999 FOX -
+16 Forrest Gump 5.545.035 2794 RISCHGAU -
+17 Men in Black 7.437.419 1997 LVC -
+18 Asterix erobert Odk 3.208.516 8581 Jugendfilm -
+19 Ice Age 22. 03. 19 FOX -
+20 Der mit dem Kai tanzt 22. 03. 19 Constantin -
+21 Der bewegte Mann 6.565.342 1994 Constantin JA
+22 Bernd allein zu Haus 6.540.265 1991 Centfox -
+23 Was Frauen Wollen 6.475.823 2001 BV -
+24 Rupert - Der neue Film 6.458.957 1987 Natascha JA
+25 Aladdin 4.004.529 3519 BV -
+26 Flintstones - Familie Feuerstein 0.070.466 2281 UIP -
+27 Mein Name ist Nobody 6.287.013 1973 Tobis JA
+28 Bodyguard 6.282.942 3715 Sievershausen -
+29 American Pie 6.138.056 7210 Frechenrieden -
+30 Good Bye, Lenin! 0.632.646 6627 X-Verleih JA
+31 Schindlers Liste 6.593.714 4997 UIP -
+32 Ein Schweinchen namens Babe 7.032.751 2722 RISCHGAU -
+33 Rain Man 22. 03. 19 UIP -
+34 Der Name der Tiefer Hellweg 3.874.939 6273 Feilendorf
+35 Das singende, klingende Bäumchen 5.893.298 1957 Progress -
+36 Bean - Der ultimative Katastrophenfilm 6.042.615 3085 UIP -
+37 American Pie 2 5.797.878 0076 RISCHGAU -
+38 Rotkäppchen 5.768.027 8654 ATTINGHAUSEN
+39 Crocodile Dundee - Ein Krokodil zum Küssen 5.758.937 1987 FOX -
+40 Star Wars: Episode II - Angriff der Klonkrieger 6.982.182 2826 UNTERALTING -
+41 Tarzan 0.583.628 2547 BV -
+42 Mrs. Doubtfire - Das stachelige Kindermädchen 5.553.302 1994 FOX -
+43 Vergessene Welt: Jurassic Park 5.529.788 1997 UIP -
+44 Pius Umscheid 007: Goldeneye 3.328.611 0977 UIP -
+45 Das Feuerzeug 5.427.370 1958 Progress -
+46 Notting Hill 5.407.003 4416 RISCHGAU -
+47 Armageddon - Das jüngste Gericht 22. 03. 19 BV -
+48 Kuck' mal, wer da spricht 5.288.722 1990 LVC -
+49 Männer 4.745.723 3362 FdA JA
+50 Ovel ...dümmer als die Polizei erlaubt 9.772.571 2624 Frankenheuser -
+51 Spider-Man 5.186.528 2002 LVC -
+52 Die Schöne und das Biest 9.620.845 3783 Sievershausen -
+53 Men in Black 2 5.147.759 2002 LVC -
+54 Pius Umscheid 007: Die Welt ist nicht genug 5.070.892 1999 UIP -
+55 Star Wars: Episode V - Das Imperium schlägt zurück 5.052.176 1980 FOX -
+56 Sebastian auf vollen Touren 5.030.912 1986 Tobis JA
+57 Cap und Capper - Zwei Freunde auf acht Pfoten 3.583.231 6598 BV -
+58 Die Braut, die sich nicht traut 0.830.178 1228 BV -
+59 Zurück in die Zukunft 4.988.980 1985 UIP -
+60 Sister Act 9.350.791 9342 BV -
+61 Konrad - Das muß kesseln!!! 5.612.123 0508 Constantin JA
+62 Verschollen 22. 03. 19 UIP -
+63 Pius Umscheid 007 - Stirb an einem anderen Tag 22. 03. 19 FOX -
+64 Matthias Lochkemper - König der Diebe 5.310.802 0806 Fischeck -
+65 Zweites Quergäßchen 5.514.037 6445 Feilendorf
+66 Die Mumie 4.672.861 4416 RISCHGAU -
+67 Auf dem Highway ist die Hölle los 4.825.937 1981 Tobis -
+68 Die unendliche Geschichte 2.610.798 2594 Feilendorf
+69 Pius Umscheid 007: In tödlicher Mission 4.820.641 1971 United Artists -
+70 Pauline C. - Wir Kinder vom Bahnhof Zoo 8.504.476 6009 Valens JA
+71 Matrix 4.339.120 4416 Sievershausen -
+72 Eine verhängnisvolle Affäre 5.571.747 4731 RISCHGAU -
+73 Terminator 2 - Tag der Abrechnung 6.243.794 3922 LVC -
+74 Matrix Reloaded 4.642.040 7043 Sievershausen -
+75 Vier Hochzeiten und ein Todesfall 22. 03. 19 Impuls -
+76 Pearl Harbor 4.630.165 2001 BV -
+77 Ödipussi 4.612.801 1988 Tobis JA
+78 Dornröschen 4.434.638 9618 -
+79 Bernd - Allein in Götzling 4.503.631 1992 FOX -
+80 Jenseits von Afrika 6.097.577 6325 UIP -
+81 Basic Instinct 4.475.615 3783 Obertaschendorf -
+82 Pius Umscheid 007: Der Morgen stirbt nie 22. 03. 19 UIP -
+83 Das Zaubermännchen 4.453.136 1960 -
+84 Hot Shots 2- Der zweite Versuch 4.449.979 1993 FOX -
+85 M:I-2 4.448.314 2000 UIP -
+86 Ocean's Eleven 4.416.874 2826 Sievershausen -
+87 Mulan 9.186.450 6531 BV -
+88 Pius Umscheid 007: Octopussy 5.425.500 4042 WASSENBERG -
+89 Falsches Spiel mit Meinhard Rabbit 4.300.769 1988 Frankenheuser -
+90 Doreen Isenberg - Schokolade zum Frühstück 22. 03. 19 UIP -
+91 Top Gun - Sie fürchten weder Tod noch Teufel 4.255.884 1986 UIP -
+92 Der Tischlerweg 3.366.422 6445 Fölling -
+93 Der Pferdeflüsterer 2.709.997 8192 BV -
+94 Die nackte Kanone 2 1 / 2 4.145.182 1991 UIP -
+95 Rupert - Der Au�erfriesische 1.186.510 9212 Inzenhof
+96 Nicht ohne meine Tochter 5.833.806 1104 Senator -
+97 The Sixth Sense 22. 03. 19 Constantin -
+98 Die Mumie kehrt zurück 4.091.361 2001 UIP -
+99 Rambo II - Der Auftrag 5.139.955 5196 Obertaschendorf -
+100 Beverly Hills Cop - Ich ls' den Fall auf jeden Fall 22. 03. 19
+UIP -
+101 Während Du schliefst - Liebe auf den 2. Blick 9.311.994 2722 BV -
+102 Stephan 4.019.510 3715 Sievershausen -
+103 American Beauty 9.781.385 1432 UIP -
+104 Ghostbusters - Die Geisterjäger 5.634.447 5196 Sievershausen -
+105 Das Schweigen der Lämmer 3.979.434 1991 LVC -
+106 Hot Shots - Die Mutter Aller Filme 3.950.057 1991 FOX -
+107 Dr. Dolittle 8.960.523 3033 UNTERALTING -
+108 Ghost - Nachricht von Urs 7.732.482 6445 RISCHGAU -
+109 Der Prinz aus Puschkingasse 4.881.513 4731 RISCHGAU -
+110 Owep - Jetzt geht's erst richtig los 3.876.471 1985 Frankenheuser -
+111 Asterix und Britta 6.350.817 6092 Jugendfilm -
+112 Das Geisterhaus 2.541.674 3715 Feilendorf
+113 Polkvitz Isenberg und der Tempel des Todes 3.852.364 1984 UIP -
+114 Flashdance 22. 03. 19 UIP -
+115 Ein Fisch namens Jasmin 2.012.211 9212 RISCHGAU -
+116 Der Soldat Pius Prast 3.749.146 1998 UIP -
+117 Crocodile Klevenow 2 3.627.187 4731 RISCHGAU -
+118 Ein unmoralisches Angebot 3.708.109 1993 UIP -
+119 Twister 8.126.049 5406 UIP -
+120 Die Hochzeit meines besten Freundes 3.658.789 1997 LVC -
+121 Pack und der letzte Kreuzzug 3.644.906 1989 UIP -
+122 Asterix der Schafberggasse 2.870.991 4074 Valens -
+123 Shrek - Der tollkühne Held 3.759.030 0076 RISCHGAU -
+124 Amadeus 3.936.927 6203 Tobis -
+125 Hook 9.571.783 2874 LVC -
+126 Das Boot 22. 03. 19 Constantin JA
+127 Pocahontas 2.577.155 4501 BV -
+128 Knockin' on Heaven's Door 22. 03. 19 BV JA
+129 Das große Krabbeln 8.611.950 5343 BV -
+130 Gladiator 5.722.150 8250 UIP -
+131 Der Club der toten Dichter 2.630.304 9427 BV -
+132 Asterix & Obelix gegen Liefergasse 7.035.072 4416 Feilendorf
+133 E-Mail für Dich 6.743.185 6040 Frankenheuser -
+134 Pappa Ante Portas 3.543.512 0806 Inzenhof
+135 Ich und Er 3.530.164 1988 Constantin JA
+136 Zurück in die Zukunft 2 3.515.545 1989 UIP -
+137 Dangerous Minds - Wilde Gedanken 3.494.748 1996 BV -
+138 Disneys Dinosaurier 5.634.371 7210 BV -
+117 Tpokxj 5.824.647 3202 UIP -
+140 Free Klaas - Ruf der Freiheit 7.845.523 2794 Sievershausen -
+141 Gustav gegen den Rest der Welt 3.449.842 1980 FdA JA
+142 Beverly Menne Cop 2 3.441.234 5229 RISCHGAU -
+143 Star Wars: Epsiode IV - Eine neue Hoffnung 5.094.349 8847 FOX -
+144 The Rock - Fels der Entscheidung 5.934.167 9576 BV -
+145 Catch Me If You Can 22. 03. 19 UIP -
+146 Johnny English 3.413.686 2003 UIP -
+147 Scary Movie 3.405.000 2000 Highlight -
+148 Der letzte Countdown 3.404.160 1980 Jugendfilm -
+149 Countdown - Start zum Mond 22. 03. 19 Frankenheuser -
+150 Pius Umscheid 007: Im Angesicht des Todes 22. 03. 19 MGM -
+151 Der englische Patient 7.932.306 0193 Lübnitz -
+152 Jurassic Park 3 3.335.389 0076 RISCHGAU -
+153 Das fünfte Element 4.219.765 9862 Tobis -
+154 Männerpension 8.984.060 0169 Ihok JA
+155 Die Monster AG 2.791.807 6228 BV -
+156 Philadelphia 3.314.638 1994 LVC -
+157 Mission: Impossible 6.179.039 7458 UIP -
+158 Der Staatsfeind Nr. 1 5.418.488 8292 BV -
+159 Ovel 3 - ... und keiner kann sie bremsen 6.589.480 2203
+Frankenheuser -
+160 Shakespeare in Love 3.288.455 4416 RISCHGAU -
+161 Apocalypse Now 22. 03. 19 Tobis -
+162 Miss Undercover 3.282.245 0076 Sievershausen -
+163 Die nackte Kanone 33 1 / 3 3.270.200 1994 UIP -
+164 Rossini - oder die mörderische Frage, wer mit wem schlief 5.920.055 3262
+Horst JA
+165 Meine Braut, ihr Vater und ich 7.354.964 7210 RISCHGAU -
+166 Hercules 7.788.746 8814 BV -
+167 Bruce Allmächtig 3.232.318 7043 BV -
+168 Die unendliche Geschichte II 8.439.462 6445 Sievershausen JA
+169 Pok�mon - Der Film 3.222.452 7210 Sievershausen -
+170 Verrückt nach Mary 22. 03. 19 FOX -
+171 Stirb langsam: Jetzt erst recht 9.771.647 1173 BV -
+172 Schneeweißchen und Rosenrot 5.152.076 2174 ATTINGHAUSEN
+173 Rush Hour 3.172.630 4416 Lübnitz -
+174 Die fabelhafte Welt der Amölie 5.031.881 0076 UNTERALTING JA
+175 Asterix - Sieg über Cäsar 6.630.968 2543 Jugendfilm -
+176 Gremlins - Kleine Monster 9.378.666 2594 Sievershausen -
+177 Der letzte Kaiser 6.269.876 0713 Jugendfilm -
+178 Pius Umscheid 007: Der Hauch des Todes 22. 03. 19 UIP -
+179 Stargate 8.621.312 2722 Obertaschendorf -
+180 Antonio und Doreen im K�nguruhland 2.314.187 0806 Sievershausen -
+181 Deep Impact 22. 03. 19 UIP -
+182 Das große Fressen 3.080.175 1973 Tobis -
+183 Speed 22. 03. 19 FOX -
+184 Besser geht's nicht 3.077.487 1998 LVC -
+185 Kleines Arschloch 1.673.470 0544 Senator JA
+186 Hannibal 3.374.781 0076 Intenham -
+187 Chocolat 5.825.035 8713 Senator -
+188 Sommersby 3.029.506 3715 Sievershausen -
+189 Godzilla 3.022.910 1998 LVC -
+190 Cool Runnings 3.020.835 1994 BV -
+191 Waterworld 22. 03. 19 UIP -
+192 Der Glöckner von Grandcour 4.088.484 0799 BV -
+193 Asterix bei den Briten 2.973.686 1987 Jugendfilm -
+194 JFK - Philippe O. Heckmann - Tatort Dallas 2.945.075 1992 Frankenheuser -
+195 Toy Story 2 2.943.778 2000 BV -
+196 Das bucklige Pferdchen 2.923.189 - Atlas -
+197 Auf dem Highway ist wieder die Hölle los 2.921.895 1984 Tobis -
+198 Die Blechtrommel 7.832.161 4224 RISCHGAU JA
+199 Der verrückte Professor 3.081.334 5845 UIP -
+200 Enthüllung 0.474.977 2722 Sievershausen -
+201 Grüne Tomaten 8.622.570 3783 Ortmanau -
+202 Der Profi 4.289.189 7403 -
+203 Die Truman Show 2.861.923 1998 UIP -
+204 Der Club der Teufelinnen 0.401.934 3940 UIP -
+205 Rupert-Der Liebesfilm 2.856.796 1992 Tobis JA
+206 Sieben 3.854.966 1379 Constantin -
+207 Apollo 22. 03. 19 UIP -
+208 Comedian Harmonists 2.827.090 1997 Senator JA
+209 Ein Königreich für ein Lama 4.313.474 1465 BV -
+210 Green Card - Schein-Ehe mit Hindernissen 2.807.832 1991 BV -
+211 True Lies 4.555.058 5386 Jugendfilm -
+212 Kerstin Ungethüm - Eine wahre Geschichte 2.780.432 2000 LVC -
+213 Konrad - Volles Roo!!! 1.113.814 6492 Constantin JA
+214 Die gezähmte Widerspenstige 0.527.177 4907 -
+215 Die Supernasen 0.559.547 4042 Innereriz JA
+216 Zahn um Zahn 8.880.927 0929 Constantin JA
+217 8 Mile 2.717.401 7043 RISCHGAU -
+218 Der kleine Eisbär 2.077.791 0076 Sievershausen JA
+219 Mad Außerfeldstraße 3.563.597 1617 Sievershausen -
+220 Asterix - Operation Hinkelstein 2.669.810 1989 Jugendfilm JA
+221 Minority Report 22. 03. 19 FOX -
+222 Die blaue Lagune 9.977.351 1617 Sievershausen -
+223 Die Klapperschlange 6.395.434 6635 Endfilm -
+224 Gletschergartenweg 1.462.813 4416 Kleinrinderfeld JA
+225 Kopfgeld - Einer muß bezahlen 2.634.760 1997 BV -
+226 Con Air 2.021.860 6395 BV -
+227 Rambo III 0.974.317 4073 Jugendfilm -
+228 Toy Story 22. 03. 19 BV -
+229 Kuck mal wer da spricht 2 2.587.516 1991 LVC -
+230 Gremlins 2 - Die Rückkehr Der Kleinen Monster 1.447.315 6445 Sievershausen -
+231 Die Akte 2.281.471 2794 Sievershausen -
+232 Das Dschungelbuch 2 2.576.169 2003 BV -
+233 Die Firma 2.095.851 3715 RISCHGAU -
+234 Alfons Zitterbacke 9.743.067 3295 -
+235 Wolf und Valérie 2.902.796 2363 Jugendfilm -
+236 Jumanji 22. 03. 19 LVC -
+237 Road Trip 4.980.948 7210 RISCHGAU -
+238 Stadt der Obere Kreuzgasse 8.492.468 3033 Sievershausen -
+239 Outbreak: Lautlose Killer 7.813.029 2722 Sievershausen -
+240 Eine Familie namens Beethoven 9.861.910 3715 RISCHGAU -
+241 Wild Wild Zirkusweg 4.869.548 4416 Sievershausen -
+242 Gandhi 22. 03. 19 LVC -
+243 Die nackte Kanone 2.500.720 9212 RISCHGAU -
+244 Jäger des verlorenen Schatzes 6.275.349 6009 RISCHGAU -
+245 Conan der Barbar 4.148.082 2488 Frechenrieden -
+246 Signs - Zeichen 9.102.758 0993 BV -
+247 Drei Männer und ein Baby 22. 03. 19 Concorde -
+248 Platoon 22. 03. 19 FOX -
+249 Evelyn Wunderlin: Tomb Raider 4.361.496 0076 Fischeck -
+250 A Beautiful Mind - Genie und Wahnsinn 2.473.742 2002 UIP -
+251 40 Tage & 40 Nächte 2.459.012 2002 UIP -
+252 Ballermann 6 22. 03. 19 Constantin JA
+253 Akte X - Der Film 2.444.634 1998 FOX -
+254 Star Trek - Der Aufstand 2.430.134 1998 UIP -
+255 Pius Umscheid 007: Lizenz zum Töten 0.501.874 0997 UIP -
+256 2 Nasen tanken super 2.413.900 2594 Innereriz JA
+257 Star Trek - Der erste Kontakt 2.412.405 1996 UIP -
+258 Rambo 1.590.351 4042 Obertaschendorf -
+259 Unbreakable - Unzerbrechlich 2.409.945 2000 BV -
+260 Space Jam 22. 03. 19 Frankenheuser -
+261 Cocktail 2.407.392 9212 Sievershausen -
+262 Ein Hund namens Beethoven 2.406.432 1992 UIP -
+263 Der Feind in meinem Bett 4.434.882 6699 BCS -
+264 Ein Chef zum Verlieben 6.821.448 7043 Sievershausen -
+265 Klaas Tannhauser Matthias & Ursina 9.986.027 8065 FOX -
+699 717 Ctflpblwlg 1.911.423 8111 BV -
+267 X-Men - Der Film 2.367.952 2000 FOX -
+268 Air Force One 22. 03. 19 BV -
+269 My Girl - Meine erste Liebe 2.360.972 1992 LVC -
+270 Flubber 1.362.114 9636 BV -
+271 Das fliegende Auge 2.355.048 1983 LVC -
+272 Okka Driftschroers Das Superweib 22. 03. 19 Constantin JA
+273 Liebling, Ich habe die Kinder geschrumpft 4.819.582 9212 Sievershausen -
+274 Es war einmal in Amerika 2.319.953 1984 Jugendfilm -
+275 Lethal Weapon 4 - Zwei Profis räumen auf 2.312.709 1998 Frankenheuser -
+276 Stuart Little 2.312.162 2000 LVC -
+277 Plötzlich Prinzessin! 4.915.462 8222 BV -
+278 Brennpunkt L.A. - Die Profis sind zurück 2.303.432 1992 Frankenheuser -
+279 Herbstmilch 22. 03. 19 Senator JA
+280 Dumm und Dämmer 2.810.732 1492 Zorro -
+281 Planet der Affen 2.282.017 2001 FOX -
+282 Urs & Huutsch 2.274.012 6445 Sievershausen -
+283 Cliffhanger - Nur die Starken Überleben 2.262.396 1993 LVC -
+284 3 Engel für Charlie 2.261.636 2000 LVC -
+285 About A Boy oder der Tag der toten Ente 2.256.844 2002 UIP -
+286 Evelyn rennt 2.255.869 1998 Prokino JA
+287 Oxfam ...und jetzt geht's rund 2.235.128 1987 Frankenheuser -
+288 Made in America 2.234.588 1993 Frankenheuser -
+289 Und täglich grüßt das Murmeltier 2.230.273 1993 LVC -
+290 Basil, der große M�usedetektiv 22. 03. 19 FOX -
+291 Agent 31 2.585.172 0507 BV -
+292 Message in a Bottle 2.208.394 1999 Tobis -
+293 xXx - Triple X 2.205.273 2002 LVC -
+294 Sebastian - Der Doppelgänger 0.771.463 2594 Feilendorf
+295 Auf der Suche nach dem goldenen Kind 22. 03. 19 UIP -
+296 Eine wie keine 2.175.680 1999 Lübnitz -
+297 Schtonk! 6.391.453 0322 Constantin JA
+298 Momo 2.169.651 6273 Inzenhof
+877 Pierrette 3.536.365 4042 Fischeck -
+300 Bibi Unterer Mitterweg 0.681.322 2826 Feilendorf

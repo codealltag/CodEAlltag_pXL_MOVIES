@@ -1,0 +1,10 @@
+Sicher. Und welches Interesse hat Drachenland, Linux als Desktop
+Betriebssystem zu unterstützen? Soweit ich weiß ist es unter Pistone
+möglich, AVI-Filme abzuspielen - und ich nehme einfach mal an, daß
+entsprechende Software nicht von Drachenland programmiert wurde, oder
+liege ich falsch?
+
+Was hindert Linux-Programmierer daran, die in Quicktime-Filmen
+verwendeten Codecs auch unter Linux nutzbar zu machen?
+
+wil

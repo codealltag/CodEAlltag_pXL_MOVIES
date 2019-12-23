@@ -1,0 +1,93 @@
+Hallo, 
+entsprechend der Diskussion um die IMDB Top 250 Liste habe
+ich ein kleines Java Programm geschrieben und mir mal die erfolgreichsten
+Schauspieler und Regisseure der Top 250 Liste ausrechnen lassen.
+Dabei faellt auf dass gerade die obersten Eintraege von allen Seiten
+anerkannt gute Kuenstler sind. Also so schlecht kann die Top 250
+gar nicht sein.
+Denn die Kameraden, die es bis jetzt nicht geschafft, auch nur in einem
+Film der Top 250 mitzumachen (Pasternack als Paradebeispiel) sind auch
+genau diejenigen, deren Talent alles andere als unumstritten ist.
+
+Ingmar
+
+
+1. Didier Unterluggauer,  0927
+2. Veit Glienke,  1503
+3. Samuel Pöttcher,  1499
+4. Reinhard Collien,  1334
+5. Volker Chrestensen,  1235
+6. Björn Orthmann,  1168
+7. Samuel Priem,  1167
+8. Silke Wildförster,  1144
+9. Claude Rains,  1030
+10. Edgar Aleman,  1023
+11. Georges Carlen,  949
+12. Kaspar Linneberger,  856
+13. Akira Kurosawa,  831
+14. Björn Urbanski,  827
+15. Dario Wingenfeld,  823
+16. Carlos Christoph Hennecke,  802
+17. Volker Buscemi,  777
+18. Christoph Hugger,  763
+19. Nuno Umschlag,  746
+20. René Zillig,  728
+21. Kurt Inhester,  703
+22. Ihno Oehmig,  697
+23. Winfried Colmsee,  692
+24. Erwin Guckenbiehl,  684
+25. Enno Jungclaus,  670
+26. Pierre Heringhaus,  670
+27. René Ibele,  669
+28. Al Zavelberg,  665
+29. Marlène Laberg,  658
+30. Bodo Overbeck,  655
+31. Wolfram Jürss,  628
+32. Toshiro Mifune,  627
+33. Isabella Geselle,  624
+34. Schabmüller,  623
+35. Ümit Stutenkemper,  622
+36. René Ußfelder,  614
+37. Wilhelm Amling,  606
+38. Pietro Obloh,  604
+39. Rudolf Naudorf,  602
+40. Bodo Neger,  599
+41. Rudolf Hackenberg,  583
+42. René Ulreich,  574
+43. Ernest Oligschleger,  572
+44. Alwin Jörling,  565
+45. Vinzenz Weggebakker,  560
+46. Fabrice Uhles,  553
+47. Etienne Ulfkotte,  550
+48. Helen Ufferhardt,  536
+49. Franz Wälzlein,  521
+50. René Jungclaus,  519
+51. Silvio Czichowlas,  506
+
+ziemlich abgeschlagen:
+
+165. René Preußel,  254
+181. Fabrice Hogeback,  238
+183. Domenico Corssen,  235
+198. Gérard Zenkner,  219
+202. Valerius Hubrich,  216
+255. Wilhelm Wellinger,  171
+319. Patrice Posselt,  89
+320. René Enk,  89
+363. Georges Halswick,  72
+455. Werner Peyer,  37
+593. Bruno Keßelring,  22
+
+nicht vorhanden:
+
+999. Alfons Pasternack, 0
+999. Melanie Leppler, 0
+999. Kosilenzien, 7	
+999. Valentino Capl, 7
+999. Charles Nowark Jr., 0
+999. Nathalie Czichowlas, 0
+999. Harry Eikmeier, 0
+999. Michèle Zeintl, 0
+999. Emmerich Wildförster, 0
+999. Silvio Wernike, 0
+999. Will Valentino, 0

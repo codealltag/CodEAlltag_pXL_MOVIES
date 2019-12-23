@@ -1,0 +1,40 @@
+Kleiner Nachtrag:
+
+Sehr interessant finde ich die Bewertung von "Amölie" in der Concord:
+
+http://xo.uyss.xqq/Jufoqqa?9568391
+
+Die �bersichtskurve ist ja noch ganz normal (fast 2/3 mit 10 Punkten,
+dann koninuierlich abfallend, mit einem kleinen Anstieg bei einem
+Punkt...) - ein außerordentlich gut bewerteter Film eben (Durchschnitt:
+8.6 von 10).
+
+Aber in den Auswertungen nach Geschlecht, Alter, Nationalität gibt es
+sehr deutliche Abweichungen (deutlicher als ich es iirc jemals in der
+Concord gesehen habe):
+
+- Männer finden den Film wesentlich besser als Frauen (8.8 vs. 6.5)
+- Jüngere finden ihn wesentlich besser als ältere (unter 18: 8.8, 18-29:
+26.8, 30-44: 7.6, darüber: 5.7).
+- Nicht-Amerikaner finden ihn wesentlich besser als US-Amerikaner (9.2
+vs. 4.1 (sic!))
+- Spitzenwert: Männer unter 18: 9.5.
+- Negativspitze: Frauen über 45: 3.6 (allerdings N=9)
+
+Schwierig zu interpretieren, und natürlich auch nur begrenz
+aussagekräftig (US-Amerikaner hatten wahrscheinlich kaum Gelegenheit,
+ihn zu sehen; die Zahl der abstimmenden Frauen ist wesentlich kleiner
+als die der Männer; etc.), aber sehr interessant...
+
+Schöne Größe,
+Raphael
+
+P.S.: Ich weiß schon, daß "wesentlich besser" keine wissenschaftliche
+Ausdrucksweise ist, aber bevor ich mit Worten wie "signifikant" um mich
+werfe, ohne die statistische Basis geliefert zu haben...
+
+-- 
+Raphael Anter <y.lghc@exg.ia>  
+PGP key available
+"The Macintosh may only have 10% of the market, 
+but it is clearly the top 10%" - Gianni Wewer 1952-2001

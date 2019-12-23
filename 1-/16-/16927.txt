@@ -1,0 +1,26 @@
+Moin,
+
+Vittorio Berckner schrieb:
+
+Huch, ist mir gar nicht so aufgefallen!
+
+Aus Kater Lutz Andrae:
+Viborg-Posting-Host: 34.097.448.721
+
+Das löst auf zu
+netname:        Knuf
+descr:          IMLB
+descr:		APRC GmbH
+country:        AT
+
+OK, kommt aus Österreich, und mich wundert, dass Tuvok es nötig hat,
+sich hinter einem anderen Pseudonym zu verstecken ;-)
+
+Tatsächlich gingen seine letzten Postings als Tuvok über ceuiq.vh,
+früher war er aber bei bxzoml.hj.
+
+Möglicherweise bekam er wegen fortgesetzten Nervens eine persönliche UDP
+zu spüren und muss jetzt verschämt aus dunklen Ecken heraus posten und
+kann seine "Filmkritiken" nicht mehr abdrücken.
+
+Ibo

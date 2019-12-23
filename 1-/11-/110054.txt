@@ -1,0 +1,18 @@
+Ein Film braucht so viel Licht wie möglich um "klar" zu sein.
+Desto länger der shutter der das Licht rein lässt offen ist,
+desto mehr licht kommt rein. Bleibt es zu lange offen wirkt
+alles unscharf, wenn die kamera sich bewegt gibt es diesen
+nachzieh effect (so wie bei tft bildschirmen).
+Wenn man an dunklen Orten dreht sind längere verschlusszeiten
+die wahl oder empfindlicheren Film, oder beides.
+
+Ist die Verschlusszeit klein kommt wenig licht rein.
+Bildlich gesprochen könnte man es so sagen:
+Es ist so als ob nicht alle Photonen vom Objkt die
+ausgesendet werden den Film erreichen,so ähnlich
+als würden Pixel fehlen. Daher der körnige effekt +
+das unterschiedliche Filmmaterial das man benutzen muss.
+Da wenig Licht in der kurzen Zeit reinkommt braucht
+man empfindlicheres Filmmaterial (sonst wäre das
+Bild dunkler als es in wirklichkeit bei der
+Aufnahme war.

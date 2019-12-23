@@ -1,0 +1,8 @@
+[ ] Du hast das Usenet verstanden.
+[x] Binaries werden nicht in Textgruppen gepostet.
+[x] Du möchtest gerne die Texte in news:de.newusers.infos lesen.
+[x] Deine Frage wird dir in news:de.newusers.questions beantwortet.
+
+Alessandro
+-- 
+Dieses Posting enthält Ironie. Bitte entwerten;-)

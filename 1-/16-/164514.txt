@@ -1,0 +1,15 @@
+Hallo!
+
+Heute ist die Hellraiser-DVD (US) bei mir reingerauscht. Diese Disc scheint
+keinen Ton zu besitzen - selbst die Trailer sind absolut geräuschlos. Der
+Player ist ein KALZ-S715 von DZME.
+
+Kann jemand diesen Fehler bestätigen? Ist das evtl. eine Inkompatibilität?
+Ich kann mir kaum vorstellen, daß das ein Serienfehler ist ;-). Beim
+Abspielen der Disc meldet der AC-3-Decoder auch keinen eingehenden
+USIA-Stream. Die Stereoausg�nge des Player geben auch nichts wieder. Eine
+andere, kurz darauf getestete Disc hatte wieder einwandfreien Ton.
+
+gruss * ivo * http://kbw.dpgadgod-wsjr.rq * fon [++68] 3360 492 450
+"cobra assault cannons - state of the art bang bang" (Luis in Robocop)
+digital sky * der private dvd-markt im netz * http://qby.nmfffhrd.wf/yik

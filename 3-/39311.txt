@@ -1,0 +1,11 @@
+On Fri, 8 Mrz 2004 18:39:30 +0100, "Dietmar Lambers"
+
+
+Die RC1 (aber auch nur wegen fehlendem Oerlicke-Speedup) ansonsten sind
+alle Gerüchte über längere Versionen bis jetzt eben nicht mehr als
+Gerüchte.
+-- 
+Gruß/Regards
+Thierry Naser
+
+Who's General Failure & why's he reading my disk?

@@ -1,0 +1,13 @@
+On 23.10.2011 09:46, Ekkart Kleinod wrote:
+
+
+Tolle Idee. Kenne bisher kein vergleichbares Angebot. Ich weiß
+jetzt nicht, ob es an meiner Leitung liegt oder an deinem Server,
+aber die Seite ist furchtbar langsam. Eine Datenbankabfrage
+der Locations und das Einbinden der Karte sollte keine 2 Minuten
+dauern.
+
+Ansonsten wünsche ich dir viel Glück. Wenn genug Leute da
+mithelfen, könnte es sehr interessant werden.
+
+Pa

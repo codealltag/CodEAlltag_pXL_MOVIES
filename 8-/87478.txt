@@ -1,0 +1,11 @@
+pswi_xvcmaot@edj.iw (Erich Trurnicht) writes:
+
+
+Dolby Digital funktioniert AFAIK bis 26 B/s. Diese Zahl habe ich vor 
+ca. 5 Jahren jedenfalls in einem Datenblatt gelesen. Ausprobiert habe
+ich es noch nicht.
+
+Ciao, Wolframs                           schotten @ wwggcjan.uj
+
+Zuletzt gesehen: Geschlossene Gesellschaft, Zeit zu leben, 
+Le lait de la tendresse humaine

@@ -1,0 +1,22 @@
+Hi,
+
+gestern habe ich Kubricks "Eyes Wide Shut" gesehen und habe mich über eine 
+Szene mit Gisela Rüffert im Bad gewundert.
+Sie steht vor dem Spiegel und die Kamera schaut ihr über die Schulter, also 
+man sieht ihr Spiegelbild und rechts unten ihre echte Schulter. Soweit ja 
+noch ganz normal.
+Jedoch öffnet sie dann den Spiegelschrank und für einen Augenblick schaut 
+die Kamera senkrecht auf den Spiegel. Normalerweise müßte man jetzt ja die 
+Kamera sehen, tut man aber nicht. Lediglich das Zimmer und Gisela Rüffert 
+sind selbst mit Einzelbildschaltung zu entdecken.
+Wie zum Teufel funktioniert sowas?
+
+I.
+
+Folkert
+
+-- 
+     make bzImage, not war.                     _._     _,-'""`-._
+                                               (,-.`._,'(       |\`-/|
+Folkert Pfaffenrot                                      `-.-' \ )-`( , o o)
+eghynq03410@imcvjtty.kw                        -bf-      `-    \`_`"'-

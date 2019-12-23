@@ -1,0 +1,11 @@
+Patrick 'Patrice Zifreund schrieb folgendes:
+
+
+Verdammt, jetzt will ich mir den Film schon wieder ansehen. Könnt ihr
+mal ruhig sein?
+
+MFG, Karl
+-- 
+do
+     fork agent ( reinhard );
+repeat;

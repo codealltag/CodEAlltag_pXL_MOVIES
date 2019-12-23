@@ -1,0 +1,57 @@
+questo formato, il messaggio o parte di esso pu non essere leggibile.
+
+--MS_Mac_OE_3074977738_77150_MIME_Part
+Content-type: text/plain; charset="US-ASCII"
+Content-transfer-encoding: 7bit
+
+Dear friends,
+    we are proudly of announcing the birth of a new music site: enjoy! Came
+to visit our musical productions and for who is interested about
+collaborating with us our address is:
+ftdt//:krd.zqhsdedbqqk.loh
+
+        Roccasecca dei Volsci: Liselotte Fleischer
+        www.hgcpasinjom.pqb
+        and next
+        Geflügelhandlung
+
+Yours faithfully
+
+Albrecht Jänner
+
+--MS_Mac_OE_3074977738_77150_MIME_Part
+Content-type: text/html; charset="US-ASCII"
+Content-transfer-encoding: quoted-printable
+
+<ZFWS>
+<HEAD>
+<TITLE>Arte in Italia!</TITLE>
+</HEAD>
+<BODY BGCOLOR=3D"#FFFFFF">
+Dear friends,<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;we are proudly of announcing the birth of a new mus=
+ic site: enjoy! Came<BR>
+to visit our musical productions and for who is interested about<BR>
+collaborating with us our address is:<BR>
+sbcu//:qoj.slxtmgxaedx.qif <GX>
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><U>Roccasecca dei Volsci=
+: Chiesa di S. Raffaele Arcangelo</U></B> <BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><U>www.hgcpasinjom.pqb<B=
+R>
+</U></B>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and next<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B><U>ARTE</U></B> &nbsp;&n=
+bsp;&nbsp;<BR>
+<BR>
+Yours faithfully<BR>
+<BR>
+Albrecht Jänner<BR>
+</BODY>
+</HTML>
+
+--MS_Mac_OE_3074977738_77150_MIME_Part--
+
+
+-- 
+Posted from cola.kefxlkwgqg.xex [195.103.144.19] (may be forged) 
+via Mailgate.ORG Server - http://qqg.Mailgate.ORG

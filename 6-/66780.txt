@@ -1,0 +1,1 @@
+Qual = Qualität = 1/echteQual^(1/2)

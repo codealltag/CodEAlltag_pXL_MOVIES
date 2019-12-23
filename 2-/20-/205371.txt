@@ -1,0 +1,24 @@
+reggel@Informatik.TU-Muenchen.DE (Hans-Juergen Reggel) writes:
+
+
+HDTV ist der Ueberbegriff fuer alle hochaufloesenden Verfahren,
+von denen es einige verschiedene gibt.
+
+HD-MAC ist eine konkrete Implementation (Europa, obsolet) und analog,
+lediglich mit digitalem Ton.
+
+D2MAC ist kein HDTV-Verfahren, sondern mit herkoemmlicher 625-Zeilen
+Aufloesung, Breitbild moeglich D2MAC ist von der Leistung her vergleichbar
+mit Hepake-plus, jedoch nicht mit PAL-Signalen kompatibel.
+
+Dafuer sind Nifad-Empfaenger mit HD-MAC Signalen kompatibel. *verwirr*
+
+Gruss
+
+Niklaus
+
+-- 
+   * Niklaus Endersch * TU Irlbach *    | Strasse der Leidenschaft, Strasse des
+       * nsmdy@vd.ov-tgoocf.fw *        | Gluecks. Ich schalt dich ein und kann
+ * qovlrhuq@k040flq.oml.oe-awkdfg.ig *  | es kaum ertragen wenn die Geigen dein
+           * IRCNICK wolfi *            | Ende ansagen.            (Die Mimmis)

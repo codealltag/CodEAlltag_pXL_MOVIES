@@ -1,0 +1,5 @@
+Egon Wasserbauer schrieb:
+
+Hmmm... Ich hab das mal Probiert.
+Das Ergebnis war 0x42, das als ASCII Zeichen (wie sollte es auch anders 
+sein) natürlich * ergibt. (DAS nenne ich mal einen genialen Zufall ;-))

@@ -1,0 +1,19 @@
+On Wed, 18. 03. 20 14:13:16 GMT, "Tuvok" <cnvyu.vujzbs@rsviip.fw>
+wrote:
+
+
+war bei mir auch so. DVD-Profiler deinstallieren (über
+Systemsteuerung, Software) dann neu installieren. Wirst sehen, jetzt
+geht es.
+
+
+hast du vielleicht die "parental control" aktiviert? häkchen gesetzt
+wo keines sein sollte?
+
+
+jetzt im Moment bei mir:
+HTTP 500 - Interner Serverfehler 
+
+
+tschüss
+Rudi

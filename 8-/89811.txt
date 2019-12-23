@@ -1,0 +1,7 @@
+Silvio Grabenhorst wrote:
+
+
+Wie geschrieben benutze ich bereits AmDb. Damit kann ich aber nur die=20
+Datenbank erzeugen, nicht jedoch die diffs einfügen, oder?
+
+Gruß Otto

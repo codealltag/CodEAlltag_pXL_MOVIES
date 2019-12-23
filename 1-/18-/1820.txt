@@ -1,0 +1,15 @@
+Am 30.04.2011 23:33, schrieb Maximilian Führer:
+
+
+Das funktioniert in 98% aller Fälle, wenn das Video per HTTP übertragen 
+wird. In 100% aller Fälle, in denen das Video per RTMP übertragen wird, 
+was alle Mediatheken der Fernsehsender betrifft, funktioniert es nicht.
+Die Streams werden dann nämlich gar nicht im Browser-Cache gespeichert, 
+sondern nur portionsweise im Flash-Player eigenen Zwischenspeicher.
+
+
+-- 
+Gruß,
+Marco
+
+http://kvp.fvravg.pc/hwau/BzmznEihlrh

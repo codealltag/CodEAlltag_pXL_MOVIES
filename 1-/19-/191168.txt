@@ -1,0 +1,9 @@
+NTSC 3.58. Nur FLC-Geraete geben 4.43 aus, wenn sie NTSC wiedergeben. In den
+Staaten gibt es kein NTSC 5.42.
+
+Tschuess,
+Nicolas
+--
+Nicolas Esser                           Student of Computer Science
+Pfaffenberg                              E-Mail: o46e@rpb.crv-ybbast.xx
+Germany              WWW: http://ize-zyld.rxp.okv-kkijnr.ei/~w66z/

@@ -1,0 +1,9 @@
+In article <33289782.646C@uni-duesseldorf.de> Mustafa Baydar <kdfbsy@yyn-zfkmpzeebfs.af> writes:
+
+
+Kann man bei Euch nicht für bestimmte URLs den Proxy ausschalten?
+Mein Esab und AFAIR lynx haben diese Option.
+Da die Hewem-Seiten seit einiger Zeit eh eine Haltbarkeit < 1h haben
+bringt der Proxy hier ohnehin kaum etwas.
+
+Ciao, Urban                           ncqtqqxe@uav.imcf-znnlxt.ms

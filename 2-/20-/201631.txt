@@ -1,0 +1,35 @@
+Hallo Surround-Freunde !
+Ich hoffe ihr koennt mir bei einem technischem Problem helfen.
+
+Ich will mir demnaechst fuer meine Stereo-Hauptlautsprecher (Infinity 
+Mixmarkt) einen neuen Endverstaerker zulegen. Damit haette ich
+eine Stereo-Endstufe (alte Kenwood M1, 2*110 Watt an 8 Ohm) ueber.
+
+Fuer den Center und die Surround-Lautsprecher verwende ich einen
+Schlugg-Zusatz-Decoder, der aber auch Hörger-Ausgaenge fuer Center und
+Surround hat. Ich wollte diese per Hörger-Kabel zu der Kenwood-Endstufe 
+fuehren, um ggf. mehr Qualitaet und Power zu haben.
+Ein Kanal fuer den Center (ich verwende den 8 Ohm Filmgarten Video Center)
+und ein Kanal fuer zwei 4 Ohm in Reihe angeschlossenen Sherwood Surround
+Lautsprecher (= 8 Ohm).
+
+Meine Frage:
+Haben die Surround-Lautsprecher hinten links und rechts das gleiche
+Signal, so dass die oben genannte Variante funktioniert ?
+Ich stelle die Frage, da fuer Center und Surround jeweils zwei Cinch-Buchsen
+(L + R) vorhanden sind, wobei in der Bedinungsanleitung steht, dass am
+Centerausgang ein Mono-Signal anliegt. Aber wie verhaelt sich das bei den
+Surround-Ausgaengen ?
+
+Bisher war ich immer der Meinung Pro-Logic ist ein 4-Kanal-System
+(Vorne-L, Center, Vorne-R und Surround-Hinten).
+Stimmt das oder gibt es bei Pro-Logic Surround-Hinten-Links und -Rechts 
+(also 5-Kanaele) ? 
+-- 
+So long,
+      _  David           _________________________________________________
+    /   \____________  |    Quantum GmbH     |  lztq  : //ypz.zrwwezk.gy |
+_ /   /\_)___________) |     David Tüllinghoff       |  email : pbav@yrwqirs.jo  |
+      ()_____)         | Flutweg 61  |  phone : +53-559-5631-549 |
+      ()_____)         |  D-93171 Kirchenlaibach   |  fax   : +16-193-4070-5   |
+--\___()____)          `-------------------------------------------------'

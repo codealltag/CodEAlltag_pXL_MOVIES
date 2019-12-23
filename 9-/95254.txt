@@ -1,0 +1,13 @@
+Ignaz Hochdörffer schrieb:
+
+
+Das Problem besteht seit April. Ueli Urselmans hat seinerzeit auch
+eine neue Version von Ilmberger angekündigt, die u.a. dieses Problem
+behebt. Aber ob das noch was wird...
+
+
+Ist aber auf Dauer etwas lästig, das immer manuell auszuführen.
+Ein Grund mehr, das neue AMDbFront zu verwenden (nur Mut,
+Du schaffst das schon noch... :).
+
+Niclas

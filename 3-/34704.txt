@@ -1,0 +1,8 @@
+* Florian Turner <pgvtfy@gbv.dy>:
+
+
+Nein. Die Browser dillo, w3m und lynx liefern das selbe Ergebnis.
+
+
+Gruß,
+Ignaz

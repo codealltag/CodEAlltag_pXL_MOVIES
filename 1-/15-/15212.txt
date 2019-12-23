@@ -1,0 +1,16 @@
+On Mon, 25. 05. 19 19:18:46 +0200, Hubert F. Ingensiep <rhtjoatjf@tcd.lx>  
+wrote:
+
+
+ho!
+
+nur ganz kurz:
+
+
+ich auch und verwende virtual dub im direct mode um mpeg4/divx-avis im  
+direct mode von keyframe zu keyframe zu schneiden. speichern sollte bei  
+dir im minutenbereich liegen. die kompression bleibt gleich, die dateien  
+werden durch die kürzungen etwas kleiner. perfekt.
+
+ciao,
+hartwig

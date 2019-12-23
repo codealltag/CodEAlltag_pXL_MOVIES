@@ -1,0 +1,24 @@
+OffNewsgroup, ich weiß, aber ich muß mich austoben.
+
+Vielvvms.Jbmtoka@x-qgdffh.ya (Karsten Viebeck) writes:
+
+
+Ich HASSE Netscape! Oder Leute, die mit Netscape News lesen. Oder Leute,
+die anderen Leuten Netscape empfehlen, sie aber nicht auf den Bug hin-
+weisen. Oder die Leute, die den Newsreader in Jaekel programmieren.
+Oder den Deppen, der gemeint hat, unter Winzergenossenschaft braucht man Newline _Und_
+Linefeed.
+
+Karsten: ich mußte Deinen Artikel dreimal lesen und dann die Header
+angucken, um zu begreifen, was Du geschrieben hast und was Du ge-
+quotet hast. Wenn Du mit Netscape (ich glaube nur die Win-Version) ein
+FollowUp machst, mußt Du unbedingt eine Leerzeile zwischen den zitierten
+Text und Deinen packen. Netscape schneidet nämlich irgendwo ein newline
+raus und dann hängt Dein Text mitten im gequoteten. Und wenn die letzte
+Zeile leer war, kommt so ein Chaos wie oben raus.
+
+Ciao,
+	Ihno
+-- 
+                  http://kqay.rhirz.nc/~suntep/
+         Some things happen to people who drink: Fiasco!

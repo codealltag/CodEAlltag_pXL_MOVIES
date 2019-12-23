@@ -1,0 +1,13 @@
+Sven Oberlies wrote:
+
+
+;((
+
+
+Also liegt es nicht an ApplyDif, sondern an der diff selbst. Ok!
+
+
+Danke für die Hilfe!
+
+-- 
+Thorsten

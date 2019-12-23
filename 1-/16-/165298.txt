@@ -1,0 +1,40 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------109BC0AC06DE1B484335D076
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Nein, das Orakel IST die Übernatürlichkeit.
+
+
+Wieder nein. Das Orakel prophezeit allen Rebellen die Zukunft. Und das auch
+richtig. Die Rebellen sind aber kein Teil der Matrix mehr, also kann sie auch
+kein Teil des Systems sein. Dann das System  beeinflußt die Rebellen nicht mehr.
+Sie greifen unkontrolliert in die Matrix ein. Deshalb ist sie etwas
+übernatürliches. Außerdem lebt sie länger als ein Mensch innerhalb und auserhalb
+der Matrix leben kann. 
+
+Gruß,
+
+Carlos'
+--------------109BC0AC06DE1B484335D076
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="vollrath.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für carlos' vollrath
+Content-Disposition: attachment;
+ filename="vollrath.vcf"
+
+begin:vcard 
+n:Vollrath;Niels
+pbg;epju:3824-8781109
+rlg;hadd:57246-480135
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+xgnma;nsoyklbh:xpbchbji@avw.lkn.mz
+x-mozilla-cpt:;0
+fn:Carlos' Iseni
+end:vcard
+
+--------------109BC0AC06DE1B484335D076--

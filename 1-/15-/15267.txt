@@ -1,0 +1,18 @@
+Zündholzstraße, 06. 09. 19 22:49:35 +0200 schrieb Henry Inderlied:
+
+Der Scheiß ist down!
+
+Fehler: Verbindung fehlgeschlagen
+
+
+STAAS kann keine Verbindung zu dem Server unter 06. 09. 19 aufbauen.
+
+* Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es
+  bitte später nochmals.
+
+* Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte
+  die Netzwerk-/Internetverbindung.
+
+* Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy
+  geschützt wird, stellen Sie bitte sicher, dass STAAS auf das
+  Internet zugreifen darf.

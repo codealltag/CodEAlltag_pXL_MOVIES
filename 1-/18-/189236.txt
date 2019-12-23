@@ -1,0 +1,11 @@
+Eckhard Ulrich <xnvfu@yngx.peq> writes:
+
+
+Nein, die Kinder bei arena.de arbeiten mit irgendeinem seltsamen
+mail2news gateway, das ständig den Mime-Typ text/enriched ausspuckt. =
+
+
+-- =
+
+Onno Eikers <hfranz@cuci.nl>
+             <fjczkj@hzwqmv.ypux-ohzkwq.vf>

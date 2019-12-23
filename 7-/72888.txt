@@ -1,0 +1,19 @@
+"Norman F. Eickholt" schrieb:
+
+Hallo Norman,
+
+gute Frage. Die Durchschnittslänge habe ich auch gesucht.
+Die Statistik ist nicht eindeutig. Da die summierte Gesamtlänge
+aller Filme zwar auf die Anzahl aller Filme nachvollziehbar ist,
+nicht aber auf die Zahlenangaben hinter den Jahresdaten,
+bin ich davon ausgegangen, daß es sich bei dem Punkt
+in den Zahlenangaben um eine Kommastelle handelt,
+mit 4 nachfolgenden Dezimalstellen.
+7500 - 8977
+07. 07. 20 = Durchschnittlich 68,52 min?
+
+(Allerdings wäre ein dermaßen herber Rückschritt gegenüber
+den Filmlängen 1972 - 2001 auch nicht unbedingt nachvollziehbar.)
+
+mfg
+Italo

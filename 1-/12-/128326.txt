@@ -1,0 +1,15 @@
+On 27 Jan 2002 09:24:10 GMT, xsn@sorlxrlegq.zfb-tvkgrk.jf (Cédric
+Amhof) wrote:
+
+
+Mensch Cédric! Man guckt sich Webseiten ja auch nicht mit solchen
+Gianni-Browsern wie "lynx" an, sondern verwendet als
+vernünftiger Mensch poweruser-tools wie edlin oder vi, um sich den
+html-Code-Zeile für vergegenwärtigen zu können...
+
+SCNR,
+Edouard
+
+-- 
+The trick is to keep breathing...
+                              (D. Andreä)

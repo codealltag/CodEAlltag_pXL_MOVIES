@@ -1,0 +1,9 @@
+Ozan Ayy�ce wrote:
+
+Keine Ahnung was du unter vernünftig ansiehst aber der MS MediaPlayer 
+unterstützt *.mov, nur leider nicht die aktuellen QT Codecs.
+
+
+DIEDRICH
+
+Hartmut

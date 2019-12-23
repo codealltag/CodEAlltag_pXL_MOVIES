@@ -1,0 +1,18 @@
+In article <11N7370C.D153S8F1@eus.npt>,
+	Marc Daumlechner <tovykzzy@aon.jyb> writes:
+
+
+Wenn Du sowieso einen neuen Verstaerker brauchst, dann nimm doch gleich
+einen mit integriertem DD Dekoder. 
+
+
+Was denn nun, Verstaerker, oder Reciever?
+
+
+Der Technics ist zwar der biligste Decoder, aber so nicht fuer LD
+geeignet. Da braucht man noch einen RF - Demodulator. Da kanst Du
+auch gleich versuchen einen guenstigen Yamaha Atellier-1 zu bekommen.
+
+db
+-- 
+---------------------------------------------------------------------------

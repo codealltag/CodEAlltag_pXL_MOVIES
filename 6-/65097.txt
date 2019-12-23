@@ -1,0 +1,4 @@
+NACK. Der Wert eines Produkts hängt nicht von den Ausgaben bei der
+Produktion ab, sondern von den Einnahmen beim Verkauf. Wenn sich ein
+Produkt nicht verkaufen lässt, ist es wertlos, egal wieviel es in der
+Produktion gekostet hat.

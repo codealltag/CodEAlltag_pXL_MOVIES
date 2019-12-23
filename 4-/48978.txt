@@ -1,0 +1,16 @@
+* Bernd Hoppenhöft <cgbgq.xocuxfey@bts.bc>:
+
+
+Fein. Und in 14633 Postings aus den verschiedensten Newsgroups leisten
+sich genau drei (3!) User die Version 1.92/32.572. Und zwei davon wohnen
+in der Umgebung von Oldenhagen, nutzen den selben Provider und lassen ihn
+sogar den Organization-Header ausfüllen. :)
+
+
+N, eine Doktorarbeit über grep und less, Newsserver und detaillierte
+Versionsnummern von Newsreadern gibt's bestimmt schon. Außerdem ist für
+mich hier VELOTOM da OT.
+
+
+Gruß,
+Johannes

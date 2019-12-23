@@ -1,0 +1,26 @@
+Marcus Zumbülte <nyt@hccaxxqsbh.vrw-cbahoj.mz> writes:
+
+
+FULL ACK.
+
+
+Die beiden Datenbanken haben ja ganz unterschiedliche Ansätze und
+damit auch Stärken und Schwächen. 
+Die Filmdienst-Datenbank enthält nur Filme, die in Deutschland nach 1945 
+normal im Kino, auf Video oder im Fernsehen liefen. Wenn der Film in 
+Deutschland bislang nicht oder nur auf Festivals o.�. gezeigt wurde,
+sucht man ihn dort vergeblich. Andererseits sind dann auch manche
+Fernseh- oder Dokumentarfilme aus den 60er Jahren enthalten, die man in 
+der WLP vergeblich sucht - und natürlich mit dem deutschen Titel.
+Zudem ist sie zentral gepflegt. Damit ist eine gewisse Mindestqualität 
+bei den Einträgen gewährleistet. So findet man praktisch immer eine kurze
+Inhaltsangabe sowie Startdaten. Andererseits werden deutlich weniger
+Daten als bei der WLP gesammelt. Für die Filmographie von Schauspielern
+ist sie deshalb z.B. ungeeignet, weil - anders als in der WLP - nur 
+Hauptrollen  (und die wichtigsten Nebenrollen in bedeutenderen Filmen) 
+enthalten sind. 
+
+Ciao, Fockos                             schotten @ ssjyjapj.re
+
+Zuletzt gesehen: 
+Die Frau, die an Dr. Nicolas zweifelte, Freemann, El viento se llevö lo qu

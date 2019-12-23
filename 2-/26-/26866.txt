@@ -1,0 +1,11 @@
+Kurt Fahrintholz wrote:
+
+
+Ich gehe davon aus, dass er das weiss. Weisst du's?
+
+
+Was nuetzt dir das, wenn der Peer seinen Client auf dem Standard-Port
+laufen hat und der ausgehende Port bei dir gesperrt ist? Bei den
+"billig-Flats" funktioniert das Filtern/Priorisieren ja sehr effektiv.
+
+	Pasquale

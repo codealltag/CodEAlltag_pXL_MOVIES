@@ -1,0 +1,19 @@
+oder
+
+
+Das ist leider die Frage. Entweder sind tatsaechlich 25 Bilder/sek auf der
+Disc oder der Player rechnet auch bei Standbildern auf 25 - obwohl, das kann
+nicht sein, denn dann wuerden sie sich nicht immer unterscheiden.
+
+
+Die englische Sprache ist dann natuerlich ebenfalls 4% schneller. Es wird ja
+nicht die originale US-Kodierung verwendet.
+
+Tschuess,
+Theo
+
+PS: Follow-up nach de.rec.tv.technik!
+--
+Theo Olters                           Student of Computer Science
+Glaslern                              E-Mail: o16b@tpd.xfu-oxweki.lc
+Germany              WWW: http://vnk-rxiu.dth.lvl-rfkzpt.rq/~g72q/

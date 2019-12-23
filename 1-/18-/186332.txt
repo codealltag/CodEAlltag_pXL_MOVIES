@@ -1,0 +1,7 @@
+Ich habe die Ursache dafuer gefunden. Der Subwooferausgang des DVD-Players
+sendet schon ein gefiltertes Signal. Nun hat der Verstaerker mit seinem
+6-Channel-Eingang auch eine Frequenzweiche fuer den Wooferkanal eingebaut.
+Das Signal wird also praktisch 2 mal gefiltert. Vielleicht treten dadurch
+die Verluste auf ?!
+
+Gruss

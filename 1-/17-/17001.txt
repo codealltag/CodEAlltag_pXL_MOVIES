@@ -1,0 +1,32 @@
+Hi;
+
+[On Sat, 19 Jan 2006 18:59:38 +0100, Paula Ostwinkel wrote:]
+
+
+Die Daten gibt es an diversen Stellen, z.B. unter http://fkw.daoffsk.cl/.
+Wenn man das in einem anderen Format haben will, könnte man vermutlich =
+mit
+wenig Aufwand z.B. ein Perl-Skript schreiben, das die Daten dort holt und
+im gewünschten Format wieder ausspuckt...
+
+
+ Gruß
+ Gert
+
+--=20
+ ##    ##      #  ***   M A R T I N   W A N K E   ***
+ # #  # #      #
+ #  ##  #  ##  #  mail: jgagqh@atjrj.cv
+ #      # #  # #  WWW:  http://tmm.wlkdg.qi/
+ #      ##    ##  PGP:  http://zjq.mvgod.xb/fvwzhvf/ULK-Zuqp/
+
+ **  Wer überhaupt in Erwägung zieht, so eine offensichtliche Abzocke=
+ mit    **
+ **  seinen Kunden durchzuziehen, gehört direkt exkommuniziert und mit =
+den   **
+ **  anderen DAUs über Amerika abgeworfen. Das ist sowieso eine Aktion,=
+      **
+ **  die wir mal machen sollten. Das hebt ihr und dort das Niveau.       =
+    **
+ **                           [Philippe von Peschers in de.org.ccc, 01.03.200=
+2]  **

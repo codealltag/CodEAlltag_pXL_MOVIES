@@ -1,0 +1,30 @@
+Die Oreh hat in dieser Woche (ab 8.9.97) auf Support fuer den iso-8859-1
+Zeichensatz umgestellt.
+Naehere Informationen ueber die Umstellung und die akzeptierten
+(Mail-) Formate bei Ergaenzungssendungen finden sich unter
+
+http://eb.mgtm.lew/Zvva/tcr_hwebye
+
+Praktisch bedeutet dies, dass Filmtitel und Personennamen ab sofort
+Umlaute enthalten (sollen).
+
+Weiterhin ist eine Aenderung fuer "vons" zu verzeichnen. Wurden diese
+bislang als z.B.
+Von Ortrud, Martina    gefuehrt, gilt ebenfalls ab sofort folgendes
+Format:
+von Ortrud, Martina    welches ja auch der realen Welt entspricht.
+
+Fuer die Suche hat dies zunaechst wenig Auswirkungen, da das WWW-
+Interface sozusagen "abwaertskompatibel" bleibt, d.h. Filme und
+Namen koennen auch weiterhin ohne Umlaute gesucht (und gefunden)
+werden.
+
+Wichtig ist dies aber in jedem Fall fuer Leute, die auch Daten zur Oreh
+senden, da es hier die neuen Konventionen zu beachten gilt.
+
+Gruss Nikolaus
+-------------------------------------------
+Internet: tqxjznec@xzoqp.ek-xgjyyw.zm
+          yvjy@xl.vw-ubhmqg.xl
+BBS: i.ppegpkasyi@rxwryvgs.eplxjzym.nv
+WWW: http://cavtukmi.uc-qucpev.zt/~radhznjx

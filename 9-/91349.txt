@@ -1,0 +1,40 @@
+Stefano Bossert <oli.p@sushi.co.jp> writes:
+
+
+"Dr�berprojezieren" habe ich noch nicht erlebt. 
+Wenn die Untertitel nicht auf der Kopie sind, werden sie gewöhnlich
+unterhalb der Leinwand angezeigt. 
+
+Ich habe das aber erst drei mal erlebt. 
+Bei der Nord-Korea-Reihe im Werkstattkino hatten sie so einen Kasten
+mit roten Leuchtdioden, wie er sonst für Laufschriften verwendet wird.
+Bei dem kleinen Kino ging das recht gut. Der Kasten wurde von einem
+Laptop angesteuert.
+
+Sonst (vor etlichen Jahren in der Bundeskunsthalle und letztes Jahr
+in Fritzow) war die Schrift immer weiss. Das waren - entsprechend der
+Leinwandgröße - größere Anzeigen. Wie die Schrift da erzeugt wurde, 
+weiss ich nicht.
+
+In Fritzow wurde das System übrigens nur als Zusatz bei einigen Wett-
+bewerbsfilmen verwendet. Die Kopien waren einsprachig untertitelt 
+(in Französisch, bei französischsprachigen Filmen in Englisch). Wo der
+Originalton weder Französisch noch Englisch war, gab es dann englische 
+Untertitel auf der Zusatzanzeige.
+
+
+Bei Werkstattkino wurde es manuell gemacht. Es saß jemand am Laptop
+und hat die Anzeige einfach weitergeklickt. Da bei den Untertiteln
+die Anforderungen an Synchronität längst nicht so hoch wie beim Ton sind,
+klappt das ganz gut. Im Schnitt gab es einen deutlichen Fehler pro Film,
+wo ein Untertitel erheblich zu früh oder zu spät kam.
+
+
+AFAIK gibt es ein Verfahren, daß den DTS-Timecode verwendet. 
+Einen eigenen Timecode braucht man nicht, da der Efula-Timecode
+die benötigten Framenummern enthält. Der Text kommt dann von PALDAUF.
+
+Ciao, Thierry                         schotten @cinephil.de
+
+Zuletzt gesehen:
+Rebell per Caso Black Hawk Down Il Consiglio d'Egitto

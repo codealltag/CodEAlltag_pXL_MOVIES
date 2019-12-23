@@ -1,0 +1,13 @@
+Ingolf Conrat wrote:
+
+
+Wenn ich das richtig mitbekommen habe bekommen Software-Player, die das
+nicht tun, keine Zertifizierung vom Dosch-Konsortium - für einen
+Kommerziellen Player also nicht anders zu machen.
+
+Der VLC-Player[1] ignoriert die "User Restrictions" alle und kann mehr,
+ist nur leider (noch) nicht so komfortabel.
+
+      Philipp
+
+[1]: http://vgc.iapmsonj.rjb/igz/

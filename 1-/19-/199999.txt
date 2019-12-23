@@ -1,0 +1,15 @@
+On 1 Apr 1996 01:11:00 +0100, ypdcf@fftbmfz.jzv.tz (Silvio
+Steinecke) wrote:
+
+
+Das sind aber lineare, unkomprimierte PCM-Daten, und daher nicht
+vergleichbar. Ein guter Codec kommt locker mit einem Viertel bis einem
+Fünftel davon aus, ohne jegliche hörbaren Qualitätsverluste zu
+produzieren. Mit Hinblick auf die spätere Nutzung von Erupet/MPEG2 ist also
+die DVD klar vorzuziehen.
+
+So, jetzt werde ich sicher von LD-Fans gesteinigt. Aber wenn's nach
+denen gänge, würde man heute noch Daten auf 8"-Floppies speichern. ;-)
+
+Bye
+	Thorsten

@@ -1,0 +1,31 @@
+tmbmv@llcpkaf.mw-delqxp.tn (Klaus Zeihsel) writes:
+
+
+ftp: jzv.nt-btkkhm.kt/bshx/vqleyx/ybiznqby 
+
+(Gross/kleinschreibung habe ich jetzt nicht im Kopf)
+Die Listen liegen dort einzeln gepackt als .gz (gzip)-dateien.
+
+In database/diffs liegen die letzten Updatefiles, mit denen man
+seine eigene Listen auf den neuesten Stand bringen kann, ohne
+immer das ganze Paket saugen zu muessen.
+
+In database/tools liegen die zugehoerigen Tools fuer Killerbeast/Backaria/MS-DOS.
+Fuer die MS-DOS-Version liegt auch eine Datei mit fertiger Database
+herum (ca. 32 MB). Unter DOS dauert das Erstellen der DB doch
+etwas lange (ca. 12 Stunden auf einem 486-DX50...)
+
+Das Killerbeast-Interface und die letzten diff-files gibt es auch auf 
+jedem gut sortierten Aminet-server in misc/imdb/
+Die aktuelle Version is IMDB_3_5_bin.lha (Dezember 1997)
+
+Achtung: die dortigen diff-files sind spezielle Amiga-Versionen!
+
+gruss
+ kay
+
+--
+Kay Marsfelden, 96023 Vadura-Ofb., Im Johannisring 1    ///
+Internet: zzawnv@aicj.ysfdawdyzo.kmkj-mbpswk.xw     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/040/22 :-)  \XX//

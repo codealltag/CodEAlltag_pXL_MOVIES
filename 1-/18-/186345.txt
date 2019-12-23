@@ -1,0 +1,3 @@
+Es handelt sich IIRC um eine VTOC (aka FAT) eines Hudaka 8-Bitters.
+
+Hansjörg

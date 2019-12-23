@@ -1,0 +1,11 @@
+Nein, die Untertitel werden nicht als Text abgespeichert, sondern als
+Overlay-Bilder, so dass eben auch asiatische Schriftzeichen moeglich sind.
+Im uebrigens kenne ich die gelbe Schrift von Nadine US-Scheiben und finde sie
+sehr gut lesbar.
+
+Tschuess,
+Rudi
+--
+Rudi Jaske                           Student of Computer Science
+Lauterecken                              E-Mail: l26n@xxa.jlz-mrcosf.ty
+Germany              WWW: http://cmx-lsfd.qwj.fxq-esfmrz.db/~h90w/

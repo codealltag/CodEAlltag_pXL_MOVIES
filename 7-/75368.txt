@@ -1,0 +1,243 @@
+NG-Statistik drfm für den Mai 2004
+erstellt mit einem Skript von Jérôme Grabow.
+
+2348 postings
+
+Autoren mit den meisten Postings (2348 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 116 | 5781 | 353.6 | Enrico Gritschneder          |  4.9%  xxxxxxxxxxxxx
+   2 |  81 | 2256 | 160.3 | Vinzenz Förstemann        |  3.5%  xxxxxxxxx
+   3 |  21. 10. 20 | 206.7 | Ivo Pramschüfer      |  3.1%  xxxxxxxx
+   4 |  71 | 1538 | 134.5 | Enrico V. Willich      |  3.0%  xxxxxxxx
+   5 |  21. 10. 20 | 135.2 | Karl Imboden       |  2.9%  xxxxxxxx
+   6 |  21. 10. 20 | 114.6 | Géralds Geppert         |  2.7%  xxxxxxx
+   7 |  45 |  940 |  76.5 | Ivo Kassbaum      |  1.9%  xaveria
+   8 |  21. 10. 20 |  74.8 | Thomas Möllerhenn        |  1.8%  xaveria
+   9 |  21. 10. 20 | 128.4 | Focko Fitschen          |  1.7%  xxxx
+  11 |  36 |  939 |  55.6 | Klaus Stof           |  1.5%  xxxx
+  12 |  31 |  416 |  44.2 | Kurt Lindenlauf         |  1.3%  york
+  13 |  30 |  635 |  50.5 | Peter Feldmeier             |  1.3%  york
+  15 |  29 | 2146 | 138.7 | Tuvok                 |  1.2%  york
+  16 |  28 |  692 |  42.7 | Kurt 'Kurt' Cordes|  1.2%  york
+  17 |  26 |  610 |  41.5 | Ivo Pfefer        |  1.1%  york
+  19 |  25 |  596 |  48.2 | Nikolaus Kraye           |  1.1%  york
+  21 |  21. 10. 20 |  67.0 | Charles Gravenhorst        |  1.0%  yann
+  22 |  22 |  326 |  43.6 | Jörg Fritzlar      |  0.9%  yann
+  23 |  21 |  618 |  39.1 | Klaas Jungermayer           |  0.9%  yann
+  25 |  20 |  628 |  43.0 | Stefano Päs      |  0.9%  yann
+  29 |  19 |  618 |  41.5 | Christof Forrer         |  0.8%  yann
+  30 |  18 |  381 |  28.8 | Niklaus                 |  0.8%  yann
+  31 |  17 |  369 |  21. 10. 20 | Marcus Pföhler       |  0.7%  yann
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (406 Postings)
+
+ Postings | Anz | Diagramm
+----------+-----+-------------------------------------------------------
+       20 |   4 |  1.0%  x
+       19 |   1 |  0.2%
+       18 |   1 |  0.2%
+       17 |   3 |  0.7%
+       16 |   2 |  0.5%
+       15 |   3 |  0.7%
+       14 |   3 |  0.7%
+       12 |   4 |  1.0%  x
+       11 |   2 |  0.5%
+       10 |   7 |  1.7%  yann
+        9 |   7 |  1.7%  yann
+        8 |   7 |  1.7%  yann
+        7 |  11 |  2.7%  york
+        6 |  12 |  3.0%  york
+        5 |  23 |  5.7%  xxxxxxx
+        4 |  28 |  6.9%  xxxxxxxx
+        3 |  36 |  8.9%  xxxxxxxxxxx
+        2 |  71 | 17.5%  xxxxxxxxxxxxxxxxxxxxx
+        1 | 157 | 38.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (221 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  15 |    56 |  6.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Enrico Rusack        |   5 |    25 |  2.3%  xxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (221 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm
+-----+-----------------------+-----+-------+----------------------------
+   1 | Beatrix Mörstedt        |   1 |   181 |  7.7%  xxxxxxxxxxxxxxxxxxxx
+   2 | Enrico Pepperling    |   1 |   135 |  5.8%  xxxxxxxxxxxxxxx
+   3 | Peter Feldmeier             |   1 |   123 |  5.2%  xxxxxxxxxxxxxx
+   4 | Klaus Stof           |   1 |    97 |  4.1%  xxxxxxxxxxx
+   5 | Kurt Deibl       |   3 |    79 |  3.4%  xxxxxxxxx
+   7 | Géralds Geppert         |   3 |    74 |  3.2%  xxxxxxxx
+   8 | kuttel                |   1 |    57 |  2.4%  xxxxxx
+   9 | Tuvok                 |  15 |    56 |  2.4%  xxxxxx
+  10 | Konrad Poelstra    |   1 |    55 |  2.3%  xxxxxx
+  11 | Klaus Jurik          |   2 |    52 |  2.2%  xxxxxx
+  12 | Karlheinz Temelli          |   3 |    50 |  2.1%  xaveria
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2348 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm
+-----+-----+-----------------------------------------+------------------
+   1 | 181 | noch ein Matrix-Thread: Musik           |  7.7%  xxxxxxxxxx
+   2 | 135 | Frage zu Matrix Reloaded *SPOILER*      |  5.8%  xxxxxxxx
+   3 | 123 | Kurze Eindrücke: Ma?=   =?ISO-8859-1?Q?t|  5.2%  xxxxxxx
+   4 |  97 | Kurzkritik: Hero                        |  4.1%  xaveria
+   5 |  63 | Chihiros Reise ins Zauberland           |  2.7%  york
+   6 |  57 | die besten filme?                       |  2.4%  york
+   7 |  55 | Das Ende von 28 Days Later              |  2.3%  york
+   8 |  51 | Matrix Reloaded: Der beste Film aller Ze|  2.2%  york
+   9 |  49 | Walter allmaechtig                       |  2.1%  yann
+  10 |  48 | Frage zu "28 Days later" Stilemittel    |  2.0%  yann
+  12 |  46 | [intern] FAQ                            |  2.0%  yann
+  14 |  45 | Asis im Kino                            |  1.9%  yann
+  16 |  42 | Kritik: 28 days later - 28 Tage später  |  1.8%  yann
+  17 |  39 | BulletTime und andere Effekte - wo noch |  1.7%  yann
+  18 |  37 | Matrix: noch vier Fragen                |  1.6%  yann
+  21 |  36 | Western-Klassiker                       |  1.5%  yann
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (221 Postings)
+
+ Länge | Anz | Diagramm
+-------+-----+----------------------------------------------------------
+    18 |   1 |  0.5%  x
+    17 |   2 |  0.9%  yann
+    16 |   3 |  1.4%  york
+    15 |   3 |  1.4%  york
+    14 |   3 |  1.4%  york
+    13 |   4 |  1.8%  xxxx
+    12 |   1 |  0.5%  x
+    11 |   3 |  1.4%  york
+    10 |   1 |  0.5%  x
+     9 |   6 |  2.7%  xxxxxx
+     8 |  10 |  4.5%  xxxxxxxxxx
+     7 |   7 |  3.2%  xxxxxxx
+     6 |  13 |  5.9%  xxxxxxxxxxxxx
+     5 |  19 |  8.6%  xxxxxxxxxxxxxxxxxxx
+     4 |  19 |  8.6%  xxxxxxxxxxxxxxxxxxx
+     3 |  22 | 10.0%  xxxxxxxxxxxxxxxxxxxxxx
+     2 |  28 | 12.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     1 |  50 | 22.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 370 Postings)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+---------------------------------
+ 129 | HRN Outlook Express      | 34.9%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  57 | Forte Agent                    | 15.4%  xxxxxxxxxxx
+  33 | Hilas                        |  8.9%  xxxxxx
+  23 | Netscape                       |  6.2%  xxxx
+  15 | Xnews                          |  4.1%  york
+  14 | slrn                           |  3.8%  yann
+  11 | Gnus                           |  3.0%  yann
+  10 | MacSOUP                        |  2.7%  yann
+  10 | KNode                          |  2.7%  yann
+   9 | tin                            |  2.4%  x
+   8 | Forte Free Agent               |  2.2%  x
+   8 | Pan                            |  2.2%  x
+   6 | 40tude_Dialog                  |  1.6%  x
+   6 | Hamster                        |  1.6%  x
+   4 | MicroPlanet Gravity            |  1.1%
+   3 | CrossPoint                     |  0.8%
+   2 | Opera7.11                      |  0.5%
+   2 | OpenXP                         |  0.5%
+   2 | HRN-Entourage            |  0.5%
+   2 | ProNews                        |  0.5%
+   1 | News-via-Hand Quick-Express    |  0.3%
+   1 | Dieser tolle Newsreader        |  0.3%
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%
+   1 | Session Scheduler (Queue Name: |  0.3%
+   1 | Forte Agent 32                 |  0.3%
+   1 | TIN [UNIX                      |  0.3%
+   1 | XNews                          |  0.3%
+   1 | Microsoft Telnet               |  0.3%
+   1 | Windows Eudora Light Version   |  0.3%
+   1 | Quadruple S - Some Silly Softwa|  0.3%
+   1 | Opera7.10                      |  0.3%
+   1 | MT-NewsWatcher                 |  0.3%
+   1 | CrossPoint [XP2]               |  0.3%
+   1 | sqtvlnrn                       |  0.3%
+   1 | Sylpheed                       |  0.3%
+   1 | Virtual Access by Atlantic Coas|  0.3%
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 110 Postings)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+---------------------------------
+  26 | HRN Outlook Express      | 23.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  23 | Forte Agent                    | 20.9%  xxxxxxxxxxxxxxxxxxxxxxx
+  13 | Hilas                        | 11.8%  xxxxxxxxxxxxx
+  11 | Netscape                       | 10.0%  xxxxxxxxxxx
+   7 | Xnews                          |  6.4%  xxxxxxx
+   5 | Gnus                           |  4.5%  xaveria
+   4 | Forte Free Agent               |  3.6%  xxxx
+   3 | MacSOUP                        |  2.7%  york
+   2 | 40tude_Dialog                  |  1.8%  yann
+   2 | tin                            |  1.8%  yann
+   2 | slrn                           |  1.8%  yann
+   2 | MicroPlanet Gravity            |  1.8%  yann
+   1 | News-via-Hand Quick-Express    |  0.9%  x
+   1 | Dieser tolle Newsreader        |  0.9%  x
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%  x
+   1 | Forte Agent 32                 |  0.9%  x
+   1 | Opera7.11                      |  0.9%  x
+   1 | Hamster                        |  0.9%  x
+   1 | KNode                          |  0.9%  x
+   1 | CrossPoint                     |  0.9%  x
+   1 | Microsoft Telnet               |  0.9%  x
+   1 | Opera7.10                      |  0.9%  x
+
+
+Postingverteilung über den Monat (2348 Postings)
+
+ Tag | Anz | Diagramm
+-----+-----+------------------------------------------------------------
+   1 |  77 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 |  75 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxx
+   3 | 109 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | 125 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   5 | 163 |  6.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | 160 |  6.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   7 |  79 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   8 |  70 |  3.0%  xxxxxxxxxxxxxxxxxxxxxx
+   9 |  72 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxx
+  10 | 120 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  11 | 143 |  6.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  12 | 132 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  13 |  61 |  2.6%  xxxxxxxxxxxxxxxxxxx
+  14 |  64 |  2.7%  xxxxxxxxxxxxxxxxxxxx
+  15 |  21 |  0.9%  xxxxxx
+  16 |  61 |  2.6%  xxxxxxxxxxxxxxxxxxx
+  17 |  73 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxx
+  18 |  81 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxx
+  19 |  55 |  2.3%  xxxxxxxxxxxxxxxxx
+  20 |  75 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxx
+  21 |  12 |  0.5%  york
+  22 |  29 |  1.2%  xxxxxxxxx
+  23 |  52 |  2.2%  xxxxxxxxxxxxxxxx
+  24 | 106 |  4.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  25 |  57 |  2.4%  xxxxxxxxxxxxxxxxxx
+  26 |  63 |  2.7%  xxxxxxxxxxxxxxxxxxxx
+  27 |  71 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxx
+  28 |  16 |  0.7%  xaveria
+  29 |  41 |  1.7%  xxxxxxxxxxxxx
+  30 |  84 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+-- 
+"DAMN good coffee! - And hot!"
+                                               Twin Peaks - Agent Cooper

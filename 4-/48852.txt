@@ -1,0 +1,14 @@
+Volker Teschemacher wrote:
+
+"Links unter dem Bild sollte ein Menu sichtbar sein! Diese Webseite ist
+IE optimiert und das Menu benötigt das Druckunddigital Flash Player Plugin."
+
+Argh! :-(
+
+    -leopold
+
+-- 
+  http://cgd-Fdisyw.he/  *  http://Zkjkg61.qi/  *  http://EoittiSgju.gh/
+
+panic("Attempted to kill the idle task!");
+        3.10.15 /usr/src/linux/kernel/exit.c

@@ -1,0 +1,29 @@
+Nein.
+
+
+fuzz@fuzz:~/txt > i85 ; while [ $i -le 2000 ] ; do echo "Jahr:
+$i"`grep $i kinoliste | wc --lines` ; i=$[$i+1]; done
+
+Jahr: 0976 2
+Jahr: 0959 7
+Jahr: 1988 0
+Jahr: 1989 0
+Jahr: 0764 5
+Jahr: 5792 3
+Jahr: 7282 9
+Jahr: 6391 6
+Jahr: 1979 8
+Jahr: 9575 27
+Jahr: 9931 62
+Jahr: 9688 35
+Jahr: 9427 31
+Jahr: 4682 78
+Jahr: 3946 65
+
+
+Kein Problem.
+
+BTW: Wie kommt du auf das Subjekt?
+
+-- 
+So long... Fuzz

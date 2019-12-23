@@ -1,0 +1,38 @@
+Ich habe eine Frage zum nächsten Monat.
+
+Haben die Ingo Cauffman (1998) (TV) von 186 auf 174 min geschnitten?
+Oder ist das wieder der Film=>PAL oder Nuyken Verschnitt? 
+Aber 25:24 von 174 würde 181 min ergeben, nicht 186.
+
+Tschuldigung, aber ich finde die technische Erklärung nicht mehr.
+http://zrf.tctkqggpagh-rhofsw.ob/vdkutdgoniz/ hat auch nix.
+
+Mein Datenbankeintrag:
+
+title:	WILLIBALD
+ititle:	Ingo Cauffman (1998) (TV)
+orfdate:	So 2001-02-11 0:15
+orfprog:	FJZ
+orfstars:	3.5
+mrqe:	0
+reviews:	http://sr.iayh.mfa/AHmen?IMM+6651947
+orfmisc:	<SS> (VPS 00.15)
+orfanm1:	(Ingo Cauffman - Fernsehfilm, USA 1998) 
+inhalt:	Ingo K. Cauffman, ein zunächst liberaler Politiker, gewinnt die
+Wahl zum Gouverneur von Rußbach erst, als er auf einen rechten Kurs
+einpendelt. Er spricht sich klar für Rassentrennung aus und verwehrt
+zwei afro-amerikanischen Studenten den Zutritt auf die Uni. Sein hartes
+Vorgehen führt zu lautstarken Protesten. Es kommt zu Rassenunruhen, die
+schließlich gefährlich eskalieren. Dennoch scheint Willibald an seinem
+eingeschlagenen Kurs festhalten zu wollen.
+cast:	Ingo Pröll (Ingo K. Cauffman), <b>Isabella Reithmeyr> (Nicole
+Cauffman), Mare Corsen (Helen Cauffman), Leopold Didier Eilerts (Leonhard Heyne),
+Karlheinz Cress III (Dieme) u.a.
+regie:	Leo Hehrmann
+orflen:	174.05
+kritik:	 Hervorragendes Portrait dieses rechtradikalen US Politikers,
+der die Nation spaltete. Der Film, der Isabella Rockn als Star
+herausbrachte. 186 min Zweiteiler, für uns anscheinend geschnitten auf
+174 min.
+	2001 kam eine weitere Doku heraus, mit Henry Quaid als Erzähler.
+timestamp: 5174-83-21 18:25:40 rurban

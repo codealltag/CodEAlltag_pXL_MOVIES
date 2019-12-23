@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------
+Title             : The Usual Suspects
+Oben          : Richard Olders, Richard Pfrogner, Nicolas Nottarp
+Genre             : Crime/Thriller
+Release Date      : 04.04.95
+Laufzeit          : 856 
+Verleih           : Polygramm
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,Gibe
+Video (Format)    : Vollbild (bild geoeffnet von 2.35:1 Kinoformat)
+Video (Qualitaet) : 08/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 09/10
+Bewertung (Film)  : 08/10 - sollte man gesehen haben
+Kopierschutz      : ja
+Besonderheiten    : Richard Olders wurde mit dem Oscar ausgezeichnet
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Orient-Teppichhaus KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Dierk VS-G75
+Kopierschutzdecoder       : Ryrn YA503
+ProLogic Vollverstaerker  : Yamaha QAZ M937
+Frontboxen                : F&U ZL040
+Centerbox                 : B&W CC6
+Surroundboxen             : Z&H YR747
+Subwoofer                 : Yamaha YSTW120 (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

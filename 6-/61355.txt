@@ -1,0 +1,18 @@
+"Gustav Beerendt" <eg@fgkwxzntrfz-xylimkhq.io> writes:
+
+
+Ich nehme an, Deine Bekannte meint den Filmtitel, nicht den Film selbst,
+denn der besteht aus einer dünnen Schicht oder aus einer schnellen
+Abfolge von Bildern.
+
+
+perl -ne "print if m/^\w+ S \w*. \(/i" < vkza/qfcmc/cmmtld.cqwa
+
+liefert 85 Titel von Allegro s ognyom (1980)� bis �Zmluva s diablom (1968)�
+
+
+Dafür mußt Du den Filmtitel schon etwas genauer eingrenzen.
+
+Ciao, Leos                             schotten @ zeljursl.nk
+
+Zuletzt gesehen: The Human Stain Lost In Translation Blueprint

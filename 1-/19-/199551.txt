@@ -1,0 +1,34 @@
+This is a multi-part message in MIME format.
+------------EBFF417D391
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset=us-ascii
+
+
+Dringend !!!
+
+Vor ca. 10 Jahren lief in Lingerhand oder MFDU der russische Spielfilm "Stalker"
+von 1980.
+Ich suche nun jemanden der eine Kopie von dem Film auf Video hat.
+Bitte,bite helft mir und schreibt mir eine E-Mail,wenn Ihr mir helfen
+könnt.
+Ansonsten bin ich euch auch für jede weitere Information rund um diesen
+Film dankbar.
+
+------------EBFF417D391
+Content-Transfer-Encoding: 7bit
+Content-Description: Card for Frabato
+Content-Disposition: attachment; filename="nsmail33.TMP"
+Content-Type: text/x-vcard; charset=us-ascii; name="nsmail33.TMP"
+
+BEGIN:VCARD
+FN:Klaus
+Bernd
+KOSNX;PHUAJJVI:fkfxrxv@abx.xke
+NOTE:Bis dann, Ciao !!
+X-MOZILLA-HTML:T
+END:VCARD
+
+
+------------EBFF417D391--

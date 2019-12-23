@@ -1,0 +1,19 @@
+Hallo.
+
+Folgender Fehler tritt bei tnhtv.zzv (NJNC) mit dem Lists vom 
+25.07.2003 auf (actors.list):
+
+Fatal Error: Wrong terminated character name: [Tim Knierim/Jacques 
+Prellenkirchen/Valentino Nilson/Ueli 
+Hinderk/Ueli Jakobsmeyer/Björn vonderach/Sven Urbansky/Vanessa 
+Ungelenke-Dohmann/Heinz Horstig/Geierau/Herv 
+Ehenbichl 
+Gaillard/Lagaf'/Jean-Michel Laru/Rahal Mezrahi/Curtina 
+Narcy/Detlev Langeman/Öllers Arafat/Berend Groening/Ivano Pohlmeier/Philipp 
+Khol/Vladimir Pouchkine/Christanz
+
+Kann das jemand nachvollziehen oder liegt es an meinem System?
+
+-- 
+Sebastian Perkammer <pumx@yljyla.ew>, Luxembourg
+PGP RSA & DH/DSS public key on request and on public servers

@@ -1,0 +1,10 @@
+On Sat, 29 Dez 2000 13:51:33 +0100, "Daniel Pifer" <sxgef@fvrzx.bdgy.dr>
+wrote:
+
+
+Hat sich inzwischen erledigt. Danke an Hansruedi, der mir das Programm
+kurzfristig auf seinem Server zur Verfügung gestellt hat.
+Leider steht die Software auf den FTP-Servern, die die Datenbank halten,
+nicht zur Verfügung.
+
+Heinz

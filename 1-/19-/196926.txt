@@ -1,0 +1,28 @@
+Aldo Testroet <bfz_yshozktoi@xkhgk.vrm.bk> wrote in article
+<68051656@cngsd.arm.zp>...
+CD-R 
+
+*seufz*
+
+CD oder LD?
+
+Natuerlich kann man auf CD-Rs Audio brennen.
+
+AC-3 
+
+Auf die CD kommt ein digitales Signal, welches eben mit AC-3 kodiert wurde.
+
+PC-Surroundkarten 
+
+Wo willst Du denn den AC-3-Bitstrom herbekommen? Dafuer gibt es keine frei
+verfuegbare Software.
+
+Dazu kommt dann die Frage, wie genau man den Bitstrom auf die CD schreiben
+muss, damit Decoder damit etwas anfangen koennen.
+
+Tschuess,
+Aldo
+-- 
+Aldo Greifelt                           Student of Computer Science
+Werdum                              E-Mail: u91p@iba.koo-ylwlxb.in
+Germany              WWW: http://vms-fxya.aar.vsj-mjtozj.hn/~t60b/

@@ -1,0 +1,2 @@
+Komprimiert man komprimierte Daten nochmal, wird das Ergebnis Grösser.
+Wenn keine Redundanz in Daten enthalten ist, kann man auch keine Entfernen.

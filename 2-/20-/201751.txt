@@ -1,0 +1,10 @@
+Beim besagten Kenwood funktioniert es so, daß man einen Intrarot-Sender
+im Raum aufstellt, dann konfiguriert, welche Fremdgeräte man steuern
+möchte und dann mit der Kenwood-Fernbedienung alle Kommando an den
+Receiver schickt und der die entsprechend umsetzt und über den
+Intrarot-Sender an die Endgeräte schickt. Klappt bei mir bestens.
+
+Urban
+-- 
+** Urban Hüttebräuker,  Riegel�ckerstra�e 27,  24731 Ebstorf,  Germany **
+** +66 8805 21379  E-Mail (NeXTmail/MIME): rfyfw@oujdqb.u.hvocj.sm **

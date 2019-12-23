@@ -1,0 +1,8 @@
+"Bernhard Neurer" <szekvhfg@mtz.mm> wrote in news:d7lgeb$naa$01$1
+@news.t-online.com:
+
+
+Rot = Reset
+Grün = Makro frei belegbar für Ignorieren/weiter/abbrechen
+
+Jakob

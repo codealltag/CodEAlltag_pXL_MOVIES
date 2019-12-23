@@ -1,0 +1,24 @@
+Daniel Cassebohm wrote:
+
+Und interlaced, was einen um den kell-Factor niedrigere vertikale Aufl=F6=
+sung impliziert.
+
+
+Einige der Test-Installationen verwenden einen MKLP-Chip mit dieser Aufl=F6=
+sung. Damals war=20
+(ist? das schlicht der am höchsten auflösende MKLP-Chip, den TI liefer=
+n konnte. Interessant=20
+daran ist, dass diese niedrige Auflösung in den Testvorführungen gar =
+nicht negativ=20
+aufgefallen ist. Vielleicht wird der Einfluss der Auflösung =FCbersch=E4=
+tzt.
+
+Es sollte technisch heute kein Problem sein, eine Festlegung der Aufl=F6s=
+ung zu vermeiden,=20
+und die Skalierung dem Ausgabegerät zu überlassen. Mehr als 2000 Pixe=
+l horizontal wird=20
+wohl nicht benötigt, um mit einer 35mm-Kopie gleichzuziehen, aber man k=
+pascale ja für die=20
+Zukunft planen.
+
+Nikolaus

@@ -1,0 +1,25 @@
+mvuw0@FHDJ2809.fww.pvb.bd (Christophe Limbach) writes:
+
+
+Obwohl es ein Joke sein soll:
+
+Die Anzahl der Zeilen in einem TV-Bild ist alleine abhaengig von
+TV-Norm, und ist bei Agas, egal wie man es aufzeichnet.
+
+^
+v
+
+
+Die "darstellbaren Linien" oder aehnliche Angaben sind ein ungluecklicher
+Ausdruck fuer den Frequenzgang der Aufzeichnung. Sie wirkt sich in der
+horizontalen Aufloesung <-> aus.
+
+Gruss
+
+Bernhard
+
+-- 
+   * Bernhard Voith * TU Userin *    | Strasse der Leidenschaft, Strasse des
+       * okitg@fu.oz-oyvwxu.xx *        | Gluecks. Ich schalt dich ein und kann
+ * bhpyljzo@d765kyw.fug.wb-yjgyuj.ke *  | es kaum ertragen wenn die Geigen dein
+           * IRCNICK wolfi *            | Ende ansagen.            (Die Mimmis)

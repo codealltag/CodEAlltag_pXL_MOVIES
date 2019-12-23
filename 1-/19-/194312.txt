@@ -1,0 +1,4952 @@
+This is a multi-part message in MIME format.
+
+--------------3471624F6F41
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Sehr geehrte Dame, sehr geehrter Herr,
+im Rahmen meiner Diplomarbeit an der Fakultät fuer Soziologie in
+Fettenvorstadt fuehre ich eine Umfrage ueber den Zusammenhang von
+Internetnutzung und sozialen Lebensstilen durch.
+
+Meine Frage ist:Wer nutzt das Netzt und was wird im Netz genutzt?
+
+Als Dankeschoen nehmen Sie an einer Verlosung von 40 Sachpreisen
+(aktuellen CDs, Bücher...) teil und erhaten die Moeglichkeit, die
+Ergebnisse meiner Untersuchung abzurufen.
+
+            Fällen Sie bitte den Fragebogen aus!!
+
+
+http://weh.ktl-sbrijkywc.rh/~lkjnzgwv/txnpiqi2
+
+                        oder 
+Sie fuellen den mitgeschickten Fragebogen aus!!
+
+
+Ich versichere Ihnen, daß Ihre Antworten anonym und streng
+vertraulich behandelt werden und nicht an Dritte weitergegeben werden. 
+
+Bei Fragen erreichen Sie mich unter der E-Mail:
+diiypjke@gka-ijpevikjf.ns 
+
+Vielen Dank
+Simon Neuwerth
+
+--------------3471624F6F41
+Content-Type: text/jbnx; huyrftm=bsl-6086-1; name="fragbog1.htm"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline; stketlrg="ceisrkh9.ucs"
+
+<BASE HREF="/home/rglowien/WWW/docs/fragbog1.htm">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+
+<QIHX>
+
+<HEAD>
+
+
+<TITLE>Lebensstile im Zuge der Wissensgesellschaft, der Fragebogen</TITLE>
+
+<!-- Created by: Simon Neuwerth, 1-Jul-1997 -->
+
+<!-- Changed by: Simon Neuwerth, 11-Jul-1997 -->
+
+
+<meta name="Stichworte" content="Fragebogen, Umfrage, Soziologie, Diplom, Lebensstile,Statistik, Gesellschaft,Wissensgesellschaft, Informationsgesellschaft, Verlosung, Preise, Gewinne, Umsonst, Internetnutzung">
+
+  <meta dzze-mbud="Uozdxjpv" hhiuhkn="34.95.1041">
+
+<meta name3d"keyword" content=3d"Fragebogen, Umfrage, Soziologie, Diplom, Lebensstile,Statiatik, Gesellschaft,Wissensgesellschaft, Informationsgesellschaft, Verlosung, Preise, Gewinne, Umsonst, Internetnutzung">
+
+
+<meta name=3d"document" content=3d"Eine Umfrage für eine Diplomarbeit mit einer Verlosung von Preisen. Wer nutzt das Netz und was wird im Netz genutzt? Wie ist der Zusammenhang von Internetnutzung und sozialen Lybensstilen?"> 
+
+
+</HEAD>
+
+
+<BODY>
+
+Sehr geehrte Dame, sehr geehrter Herr, im Rahmen meiner<A HREF="http://www.uni-bielefeld.de/~rglowien/diplom.htm" target="_parent">Diplomarbeit</a> an der Fakultät für Soziologie in Fettenvorstadt führe ich eine Umfrage zum Zusammenhang von Internetnutzung und sozialen Lebensstilen durch. Wer nutzt das Netz und was wird im Netz genutzt? In diesem Kontext möchte ich Sie bitten, die folgenden Fragen zu beantworten. Als <BIG>Dankeschön</BIG> werde Sie an einer <Cavnw><gxlecc>Verlosung von 40 Sachpreisen(aktuelle C
+ds,Bücher...)</Strong></BLINK>teilnehmen. Und Sie erhalten die Möglichkeit, die Ergebnisse abzurufen. Ich versichere Ihnen, daß Ihre <b>Antworten anonym und streng vertraulich</b> behandelt werden und nicht an Dritte weitergegeben werden.
+
+ <P>
+
+
+<form kltgsk="odupeb:qqnrakjt@frs-nvaevuaev.ek" method="post">
+
+
+<p> Um die Ergebnisse der Befragung abfragen und feststellen zu können ob Sie ein Gewinner der Verlosung sind , geben Sie bitte folgendes
+
+    ein: </p>
+
+    <ul>
+
+        <li>die ersten 2 Buchstaben Ihres Vornamens ( z.B. Olivier
+
+            = he ) </li>
+
+        <li>die ersten 2 Buchstaben des Vornamens Ihrer Mutter (
+
+            z.B. Thérèse = me ) </li>
+
+        <li>die ersten 2 Buchstaben des Vornamens Ihres Vaters (
+
+            z.B. Kay = ma ) </li>
+
+        <li>Ihr Geburtsjahr ( z.B. 1969 ) </li>
+
+    </ul>
+
+    <p>Im obigen Beispiel wäre der anonyme Zuordnungscode: <c>itmbyw9188</w>
+
+    !  </p>
+
+<h3>Anonymer
+
+    Zuordnungs-Code: <input type="text" size="20" maxlength="20"
+
+    name="annonid"> </h3><br>
+
+
+ <b> <center>Bitte merken Sie sich den Zuordnungs-Code!!!</b></center><br>
+
+<b><blink> Nehmen Sie sich bitte 15 Min. - 30 Min. Zeit. Fuellen Sie bitte konzentriert und zuegig aus. Geben Sie die Antworten, die Ihnen sponntan als erste einfallen!!</b></blink>
+<p>
+
+<hr color="#000000">
+
+<H3 ALIGN=CENTER>Zun&auml;chst Fragen zur Ausstattung und dem Nutzungsverhalten
+
+an Ihrem Rechner?</H3>
+
+<OL>
+
+<!--Nutzenverhalten-->
+
+
+<P><!--	Frage 1	--></P>
+
+
+<b><LI>Nutzen Sie einen oder mehrere Rechner? <br></b><INPUT TYPE=RADIO NAME="F1" VALUE="Einen">Einen <br>
+
+<INPUT TYPE=RADIO NAME="F1" VALUE="Mehrere">Mehrere <br>
+
+
+ <!--	Frage 2	--></LI>
+
+<b><LI>Geh&ouml;rt Ihnen mindestens einer dieser Rechner? <br></b><INPUT TYPE=RADIO NAME="F2" VALUE="Ja">Ja <br>
+
+<INPUT TYPE=RADIO NAME="F2" VALUE="Nein">Nein <br>
+
+</LI>
+
+
+ <!--	Frage 3	-->
+
+<b><LI>Seit wann nutzen Sie einen Rechner?</b><br>
+
+<SELECT NAME="F4" ><OPTION VALUE="0">?
+
+</OPTION><OPTION VALUE="1">weniger als 1 Jahr</OPTION> <OPTION VALUE="2">1
+
+- 2 Jahre </OPTION><OPTION VALUE="3">3 - 4 Jahre </OPTION><OPTION VALUE="4">5
+
+- 6 Jahre </OPTION><OPTION VALUE="5">7 - 8 Jahre </OPTION><OPTION VALUE="6">9
+
+- 12 Jahre </OPTION><OPTION VALUE="7">13- 15 Jahre </OPTION><OPTION VALUE="8">15
+
+- 20 Jahre </OPTION><OPTION VALUE="9">mehr als 20 Jahre</OPTION> </SELECT></LI>
+
+
+<P><!-- Frage 4--></P>
+
+<B><LI>Wieviel Stunden in der Woche nutzen Sie durchschnittlich Ihren Qgxqloj?</F></YS><W>
+
+
+zu Hause/ Privat: <SELECT NAME="F4Privat">
+
+<OPTION>? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6
+
+<OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>mehr als 12 </SELECT>Stunden in der Woche  <br>
+
+
+im Beruf/ Ausbildung/Schule/ Uni: <SELECT NAME="F4Beruflich"><OPTION>? <OPTION>0 <OPTION> 0-2 <OPTION>2-4 <OPTION>5-6
+
+<OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>mehr als 12 </SELECT>Stunden in der Woche  <br>
+
+
+<!-- Frage 5 --></P>
+
+<B><LI>Schützen Sie bitte, wieviel Stunden in der Woche Sie die folgenden Programme nutzen?</B> </LI>
+
+
+<PRE> <B>Programme</B>                                      <B>H&auml;ufigkeit            
+Online/Kommunikationsprogramme:              <SELECT NAME="F5online">
+
+
+       <OPTION> ? <OPTION>0 <OPTION>0- 2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche
+Textverarbeitung:                            <SELECT NAME="F5Text">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Grafik, Zeichnen, CAD:                       <SELECT NAME="F5Graf">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Multimedia,Bildbearbeitung,Musik,Sound,MIDI: <SELECT NAME="F5MM">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+DTP (Desktop-Publishing):                    <SELECT NAME="F5DTP">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Tabellenkalkulation:                         <SELECT NAME="F5Tabelle">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Datenbanken:                                 <SELECT NAME="F5DB">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+kaufm&auml;nnische Software:                      <SELECT NAME="F5finance">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Terminplanung,Organisation:                  <SELECT NAME="F5Planning">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Programmierwerkzeuge/-sprachen:              <SELECT NAME="F5Programming">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+technisch-naturwissenschaftliche Anwendungen:<SELECT NAME="F5maths">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche
+Lernprogramme:                               <SELECT NAME="F5Learning">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+Spiele:                                      <SELECT NAME="F5Games">
+
+
+<OPTION> ? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6 <OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>12-14 <OPTION>14-16 <OPTION>mehr als 16 </SELECT>Stunden/Woche 
+
+</B></PRE>
+
+
+<!-- Ausstattung-->
+
+
+<P><!-- Frage 6 --></P>
+
+<LI><B>Welche technische Ausstattung steht Ihnen privat bzw. am Arbeitsplatz/an
+
+der Universit&auml;t zur Verf&uuml;gung?</B> </LI>
+
+
+<TABLE WIDTH="80%" border>
+
+<TR>
+
+<TH rowspan=2></TH>
+
+
+<TH rowspan=2>am Arbeitsplatz/Uni </TH>
+
+
+<TH rowspan=2>privat </TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left></TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Modem:<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6_Mod_Arb/Uni">
+					<OPTION>? 
+					<OPTION>2400Bit/Sekunde
+					<OPTION>9600Bit/Sekunde 
+					<OPTION>14400Bit/Sekunde 				
+					<OPTION>28800Bit/Sekunde
+					<OPTION>ISDN
+					<OPTION>Standleitung
+					<OPTION>Wei&szlig; nicht 
+
+					</SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6_Mod_privat"><OPTION>? <OPTION>2400Bit/Sekunde
+
+<OPTION>9600Bit/Sekunde <OPTION>14400Bit/Sekunde <OPTION>28800Bit/Sekunde
+<OPTION>ISDN
+<OPTION>Standleitung
+<OPTION> kein Modem
+<OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Rechnerart<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6_PC_Arb/Uni"><OPTION>? <OPTION>Desktop <OPTION>Tower
+
+<OPTION>Notebook <OPTION>Workstation <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6_PC_privat"><OPTION>? <OPTION>Desktop <OPTION>Tower
+
+<OPTION>Notebook <OPTION>Workstation <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Prozessor<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Proz_Arb/Uni"><OPTION>? <OPTION>i386 oder kleiner
+
+<OPTION>i486 <OPTION>Pentium <OPTION>PentiumMXX <OPTION>Pentium II <OPTION>PowerPC
+
+<OPTION>MC680x0 <OPTION>586Cyriax <OPTION>586AMD <OPTION>Anderer <OPTION>Wei&szlig;
+
+nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Proz_privat"><OPTION>? <OPTION>i386 oder kleiner
+
+<OPTION>i486 <OPTION>Pentium <OPTION>PentiumMXX <OPTION>Pentium II <OPTION>PowerPC
+
+<OPTION>MC680x0 <OPTION>586Cyriax <OPTION>586AMD <OPTION>Anderen <OPTION>Wei&szlig;
+
+nicht </SELECT></P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Sound: <BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P>
+
+<INPUT TYPE="radio" NAME="soundArb" Kistenpfenig
+
+<INPUT TYPE="radio" NAME="soundArb" VALUE="Nein">Nein
+
+</P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P> 
+
+
+<INPUT TYPE="radio" NAME="F6Sound_privat" Kistenpfenig
+
+<INPUT TYPE="radio" NAME="F6Sound_privat" VALUE="Nein">Nein
+
+</P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Netzwerk:<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><INPUT 
+
+<INPUT TYPE="radio" NAME="F6Netz_Arb/Uni" VALUE="Ja">Ja
+
+<INPUT TYPE="radio" NAME="F6Netz_Arb/Uni" VALUE="Nein">Nein
+
+</P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P>
+
+<INPUT TYPE="radio" NAME="F6Netz_privat" Kistenpfenig
+
+<INPUT TYPE="radio" NAME="F6Netz_privat" VALUE="Nein">Nein
+
+</P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Betriebssystem<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Betsys_Arb/Uni"><OPTION>? <OPTION>Windows 3.x
+
+<OPTION>WIN95 <OPTION>WIN97 <OPTION>NT <OPTION>Linux <OPTION>Unix <OPTION>OS/2
+
+<OPTION>Anderes <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Betsys_privat"><OPTION>? <OPTION>Windows 3.x
+
+<OPTION>WIN95 <OPTION>WIN97 <OPTION>NT <OPTION>Linux <OPTION>Unix <OPTION>OS/2
+
+<OPTION>Anderes <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Monitor<BR>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Moni_Arb/Uni"><OPTION>? <OPTION>Kleiner als
+
+14 Zoll <OPTION>14 Zoll <OPTION>15 Zoll <OPTION>17 Zoll <OPTION>19 Zoll
+
+<OPTION>20 Zoll <OPTION>21 Zoll <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6Moni_privat"><OPTION>? <OPTION>Kleiner als 14
+
+Zoll <OPTION>14 Zoll <OPTION>15 Zoll <OPTION>17 Zoll <OPTION>19 Zoll <OPTION>20
+
+Zoll <OPTION>21 Zoll <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Ulyifdeumhgeppalmxz<QO>
+
+</TH>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6HD_Arb/Uni"><OPTION>? <OPTION>Kleiner als 100
+
+MB <OPTION>100 - 250 MB <OPTION>251 - 500 MB <OPTION>501 - 750 MB <OPTION>751
+
+- 1000 MB <OPTION>1 - 1,5 GB <OPTION>1,501 - 2 GB <OPTION>2,01 - 3 GB <OPTION>gr&ouml;&szlig;er
+
+als 3 GB <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+
+<TD>
+
+<CENTER><P><SELECT NAME="F6HD_Arb/Uni"><OPTION>? <OPTION>Kleiner als 100 MB
+
+MB <OPTION>100 - 250 MB <OPTION>251 - 500 MB <OPTION>501 - 750 MB <OPTION>751
+
+- 1000 MB <OPTION>1 - 1,5 GB <OPTION>1,501 - 2 GB <OPTION>2,01 - 3 GB <OPTION>gr&ouml;&szlig;er
+
+als 3 GB <OPTION>Wei&szlig; nicht </SELECT></P></CENTER>
+
+</TD>
+
+</TR>
+
+</TABLE>
+<p>
+<hr>
+
+<H3 ALIGN=CENTER>Als n&auml;chstes einf&uuml;hrende Fragen zum Kuawuzxd</J4>
+
+
+<!-- Frage 7 -->
+
+<LI><B>Bitte erinnern Sie sich, wann Sie zum ersten Mal vom Internet h&ouml;rten
+
+oder bewu&szlig;t das Internet zur Kenntnis nahmen?</B><br> <SELECT NAME="F7"><OPTION>?
+
+<OPTION>weniger als &frac12; Jahr <OPTION>&frac12; Jahr <OPTION>1 Jahr
+
+<OPTION>2 Jahre <OPTION>3 Jahre <OPTION>4 Jahre <OPTION>5 Jahre <OPTION>6
+
+Jahre <OPTION>7 Jahre <OPTION>Mehr als 7 Jahre </SELECT>
+
+</LI>
+
+
+<!-- Frage 8 -->
+
+<LI><B>Wenn Sie sich weiter erinnern, durch wen oder wie sind Sie auf das Internet aufmerksam geworden? <SELECT NAME="F8"><OPTION></B>? <br> <OPTION>Print-Medien <OPTION>Fernsehen
+
+<OPTION>Radio <OPTION>Freunden/ Bekannten <OPTION>Arbeitsstelle </SELECT>oder
+
+anderswo, n&auml;mlich..<BR>
+
+<INPUT name="F8anderswo" size=10 maxlength=60></LI>
+
+
+<!-- Frage 9 -->
+
+<LI><B>Erinnern Sie sich bitte. Warum haben sie das erste Mal oder die ersten Male das Internet benutzt? <br> [Mehrfachnennung m&ouml;glich!] <BR>
+
+
+<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Studi"></B>f&uuml;r die Recherche
+
+in Studium/Wissenschaft<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Hobby">die Recherche f&uuml;r
+
+Hobby/Freizeit<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Meeting">zum Kennenlernen von anderen Usern <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Chating">zum Kontakt halten
+
+mit Freunden/Bekannten<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Freunde">weil in meinem Freundeskreis
+
+viele das Netz nutzen<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Vertrau">um mich mit dem Internet
+
+vertraut zu machen <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Entspan">Unterhaltung/ Zeitvertreib/
+
+Spa&szlig;/ Entspannung <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Abenteuer">Abenteuerlust/ aus Neugier<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Techn">um den Anschlu&szlig;
+
+an technische Neuerungen nicht zu verlieren <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Beruf"> aus beruflichen Gründen <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Info">um Informationen einzuholen/
+
+um das Neuste zu wissen/ Um aktuell zu sein <BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Bilden">Lernen/ Bildung<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Wiss">um Wissensschatz zu vertiefen/
+
+um Kenntnisse zu erlangen<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Meinug">um sich eine Meinung
+
+zu bilden/ Um Aufgekl&auml;rt zu werden<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="Erweit">zur Erweiterung des Erfahrungshorizontes
+
+<BR>
+
+<INPUT TYPE="checkbox" NAME="Gruende" VALUE="">andere, n&auml;mlich...<INPUT name="GruendeAnd" size=20 maxlength=60>
+
+
+<!-- Frage 10 --></LI>
+
+<LI><B>Seit wann nutzen Sie das Internet? </J></OY>
+
+
+<P><SELECT NAME="F10"><OPTION>? <OPTION>weniger als &frac12; Jahr <OPTION>&frac12;
+
+Jahr <OPTION>1 Jahr <OPTION>2 Jahre <OPTION>3 Jahre <OPTION>4 Jahre <OPTION>5
+
+Jahre <OPTION>6 Jahre <OPTION>7 Jahre <OPTION>Mehr als 7 Jahre </SELECT></P>
+
+
+<!-- Frage 11 -->
+
+<B><LI>Wieviel Stunden pro Woche nutzen Sie das Aauldxjn?</W></FR><T>
+
+
+zu Hause/ Privat: <SELECT NAME="F11Privat">
+
+<OPTION>? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6
+
+<OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>mehr als 12 </SELECT> Stunden in der Woche <br>
+
+
+im Beruf/ Ausbildung/Schule/ Uni
+
+<SELECT NAME="F11Beruflich"><OPTION>? <OPTION>0 <OPTION>0-2 <OPTION>2-4 <OPTION>5-6
+
+<OPTION>7-8 <OPTION>9-10 <OPTION>11-12 <OPTION>mehr als 12 </SELECT>Stunden in der Woche <br>
+
+
+<P><!-- Frage 12 --></P>
+
+<LI><B>Ort des &uuml;berwiegenden Internetzuganges (Mehrfachnennung m&ouml;glich)?
+
+<BR>
+
+<INPUT type="checkbox" name="F12" value="zu Hause"></B>zu Hause <BR>
+
+<INPUT type="checkbox" Name="F12" value="Uni">Hochschule/ Fachhochschule
+
+<BR>
+
+<INPUT type="checkbox" Name="F12"	value="Schule">Schule <BR>
+
+<INPUT type="checkbox" Name="F12"  value="Arbeit">Arbeitsplatz <BR>
+
+<INPUT type="checkbox" Name="F12" value="cafe">Internet-Cafe<BR>
+
+anderer, n&auml;mlich..:<INPUT name="F12" size=20 value=""> <BR>
+
+
+<!-- Frage 13 --></LI>
+
+<LI><B>Anzahl der Mitbenutzer des Internetzugangs? </B></LI>
+
+
+<P><SELECT NAME="F13"><OPTION>? <OPTION>1 <OPTION>2 <OPTION>3 <OPTION>4
+
+<OPTION>mehr als 4 
+
+<OPTION> weiß nicht
+
+</SELECT></P>
+
+
+<P><!-- Frage 14 --></P>
+
+<LI><B>Wann nutzen Sie &uuml;berwiegend das Internet im Laufe eines Tages?
+
+</B></LI>
+
+
+<P><SELECT NAME="F14"><OPTION>? <OPTION>Vormittags <OPTION>Mittags <OPTION>Nachmittags <OPTION>Abends
+
+<OPTION>Nachts </SELECT></P>
+
+
+<P><!-- Frage 15 --></P>
+
+<LI><B>Geben Sie bitte an, welche Kenntnisse Sie in diesen Diensten haben und wie oft sie Sie nutzen im Vergleich zu de überigen? </B></LI>
+
+
+<TABLE WIDTH="80%" border > <CAPTION align=center></CAPTION>
+
+
+<TR>
+	<TH rowspan=2 ></TH>
+	<TH rowspan=2 >Welche Kenntnise? <BR>
+	</TH>
+	<TH rowspan=2 >Wie oft nutzen Sie? <BR>
+	</TH>
+</TR>
+<TR>
+	<TH align=left></TH>
+</TR>
+<TR>
+	<TH align=left>FTP<BR>
+	</TH>
+		<TD>
+			<SELECT NAME="F15FTPK">
+				<OPTION>? 
+				<OPTION>sehr gute 
+				<OPTION>eher gute
+				<OPTION>eher mangelhafte 
+				<OPTION>sehr mangelhafte 
+				<OPTION>gar keine
+			</SELECT>
+		</TD>
+		<TD>
+			<SELECT NAME="F15FTPH">
+				<OPTION>? 
+				<OPTION>sehr haeufig 
+				<OPTION>eher haeufig
+				<OPTION>eher selten
+				<OPTION>sehr selten
+				<OPTION>nie
+			</SELECT>
+		 </TD>
+</TR>
+
+
+<TR>
+	<TH align=left>Telnet </TH>
+		<TD>
+			<SELECT NAME="F15TelK">
+				<OPTION>? 
+				<OPTION>sehr gute 
+				<OPTION>eher gute
+				<OPTION>eher mangelhafte 
+				<OPTION>sehr mangelhafte 
+				<OPTION>gar keine
+			</SELECT>
+		</TD>
+		<TD>
+			<SELECT NAME="F15TelH">
+				<OPTION>? 
+				<OPTION>sehr haeufig 
+				<OPTION>eher haeufig
+				<OPTION>eher selten
+				<OPTION>sehr selten
+				<OPTION>nie
+			</SELECT>
+		 </TD>
+</TR>
+
+
+<TR>
+
+<TH align=left>E-Mail </TH>
+
+<TD>
+
+<SELECT NAME="F15EMailK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15EMailH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+
+<TR>
+	<TH align=left>Mailing Listen </TH>
+		<TD>
+			<SELECT NAME="F15MailListK">
+				<OPTION>? 
+				<OPTION>sehr gute 
+				<OPTION>eher gute
+				<OPTION>eher mangelhafte 
+				<OPTION>sehr mangelhafte 
+				<OPTION>gar keine
+			</SELECT>
+		</TD>
+		<TD>
+			<SELECT NAME="F15MailListN">
+				<OPTION>? 
+				<OPTION>sehr haeufig 
+				<OPTION>eher haeufig
+				<OPTION>eher selten
+				<OPTION>sehr selten
+				<OPTION>nie
+			</SELECT>
+		 </TD>
+</TR>
+<TR>
+<TH align=left>WWW </TH>
+
+<TD>
+
+<SELECT NAME="F15WWWK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15WWWH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Archie </TH>
+
+<TD>
+
+<SELECT NAME="F15ArchieK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15ArchieH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>NEWS </TH>
+
+
+<TD>
+
+<SELECT NAME="F15NEWSK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15NEWSH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+<TR>
+
+<TH align=left>Gopher </TH>
+
+<TD>
+
+<SELECT NAME="F15GopherK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15GopherH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Charlotte </TH>
+
+<TD>
+
+<SELECT NAME="F15VeronicaK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15VeronicaH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+<TR>
+
+<TH align=left>WAIS </TH>
+
+
+<TD>
+
+<SELECT NAME="F15WAISK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15WAISH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+<TR>
+
+<TH align=left>IRC (Chatten) </TH>
+
+
+<TD>
+
+<SELECT NAME="F15WAISK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15WAISH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR>
+
+<TR>
+
+<TH align=left>Andere, <BR>
+
+n&auml;mlich..<INPUT name="F15Andere" size=10 maxlength=60> </TH>
+
+
+<TD>
+
+<SELECT NAME="F15AndereK">
+
+	<OPTION>? 
+
+	<OPTION>sehr gute 
+
+	<OPTION>eher gute
+
+	<OPTION>eher mangelhafte 
+
+	<OPTION>sehr mangelhafte 
+
+	<OPTION>gar keine
+
+</SELECT></TD><TD><SELECT NAME="F15AndereH">
+
+	<OPTION>? 
+
+	<OPTION>sehr haeufig 
+
+	<OPTION>eher haeufig
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten
+
+	<OPTION>nie
+
+</SELECT> </TD>
+
+</TR></TABLE>
+
+
+<P><!-- Frage 16 --></P>
+
+<LI><B>Haben Sie eine eigene Homepage? </J></OY>
+
+<P><INPUT TYPE="radio" NAME="F16J" VALUE=" 1">Ja <BR>
+
+<INPUT TYPE="radio" NAME="F16N" VALUE=" 2">Nein <BR>
+
+
+<!-- Frage 16 --></P>
+
+<LI><B> über welchen Provider haben Sie Zugang zum Internet? </J></OY>
+
+
+<P><INPUT type=checkbox name="F16Provider" value="AOL">AOL <BR>
+
+<INPUT type=checkbox name="F16Provider" value="Compuserve">CompuServe <BR>
+
+<INPUT type=checkbox name="F16Provider" value="MSN">The Microsoft Network
+
+<BR>
+
+<INPUT type=checkbox name="F16Provider" value="T-Online">T-Online <BR>
+
+<INPUT type=checkbox name="F16Provider" value="Uni">Universit&auml;t <BR>
+
+<INPUT type=checkbox name="F16Provider" value="T-Online">Anderem, n&auml;mlich
+
+<INPUT name="F16Andere" size=10 maxlength=60><BR>
+
+</P>
+
+
+<!-- Frage 17 -->
+
+<LI><B>Nutzen Sie &uuml;berwiegend die Angebote Ihres Provider's? </J></OY>
+
+
+<P><SELECT NAME="F17"><OPTION>? <OPTION>Ja <OPTION>Nein <OPTION>Wei&szlig;
+
+nicht </SELECT></P>
+
+<hr>
+
+
+<H3 ALIGN=CENTER>Nun kommen einige Fragen zu Ihrem Nutzerverhalten
+
+im Qrypssqb</S0><d>
+
+
+<!-- Frage 19 -->
+
+<li><b>Wie bewegen Sie sich überwiegend durch das World Wide Taf?</r>
+
+<table>
+
+<tr><th align=left>über "Links" von Seite zu Seite springen: <br>  <td>                   <Center><SELECT NAME="F19links"></Center><OPTION> ?
+
+<OPTION> haeufig
+
+<OPTION> ab und zu 
+
+<OPTION> selten
+
+<OPTION> nie
+
+</SELECT><td>
+
+
+<tr><th align=left>über Suchmaschinen (z.B. WebCrawler, Lycos):: <br>  <td>                   <Center><SELECT NAME="F19SuchMasch"></Center><OPTION> ?
+
+<OPTION> haeufig
+
+<OPTION> ab und zu 
+
+<OPTION> selten
+
+<OPTION> nie
+
+</SELECT><td>
+
+
+<tr><th align=left>mit Hilfe von Meta-Indices (z.B. yesss..):     <br>  <td>                   <Center><SELECT NAME="F19Yahoo"></Center><OPTION> ?
+
+<OPTION> haeufig
+
+<OPTION> ab und zu 
+
+<OPTION> selten
+
+<OPTION> nie
+
+</SELECT><td>
+
+
+<tr><th align=left>über themenorientierten Sammlungen von Links, <br>über die Nutzung von Hotlists, Link-Listen, <br> Surfbretter, Favorite Links, Personal Hitlist:   <td>                   <Center><SELECT NAME="F19themenSam"></Center><OPTION> ?
+
+<OPTION> haeufig
+
+<OPTION> ab und zu 
+
+<OPTION> selten
+
+<OPTION> nie
+
+</SELECT><td>
+
+
+<tr><th align=left>durch Eintippen der Adressen (URLs): <br>  <td>                   <Center><SELECT NAME="F19urls"></Center><OPTION> ?
+
+<OPTION> haeufig
+
+<OPTION> ab und zu 
+
+<OPTION> selten
+
+<OPTION> nie
+
+</SELECT><td>
+
+
+</table>
+
+
+<CENTER><P><!-- Frage 20 --></P></CENTER>
+
+<LI><B>Wenn sie an Sparten und Indexe im Internet (z.B. yesss) denken, welche nutzen
+
+Sie und wie h&auml;ufig im Vergleich zu den &Uuml;brigen? </B><BR>
+
+</LI>
+
+
+<TABLE WIDTH="80%" border>
+
+<CAPTION align=center></CAPTION>
+
+
+<TR>
+
+<TH rowspan=2></TH>
+
+<TH rowspan=2 width=15%>sehr oft <BR>
+
+</TH>
+
+<TH rowspan=2 width=15%>eher oft <BR>
+
+</TH>
+
+<TH rowspan=2 width=15%>eher<BR>
+
+selten </TH>
+
+<TH rowspan=2 width=15%>sehr <BR>
+
+selten </TH>
+
+<TH rowspan=2 width=15%>nie <BR>
+
+</TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left></TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Computer/ Internet (H&auml;ndler, Software, Service...)
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Com" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Com" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Com" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Com" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Com" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Bildung und Ausbildung (Hochschule, Schulen, Sprache...)
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Schul" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Schul" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Schul" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Schul" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Schul" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Naturwissenschaft und Technik (Ingeneurwesen ...) </TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Nat" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Nat" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Nat" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Nat" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Nat" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Wirtschaft und Handel (Firmen, M&auml;rkte, Finanzen, Immobilien,
+
+Arbeit..) </TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Wirt" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Wirt" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Wirt" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Wirt" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Wirt" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Geistes- und Sozialwissenschaften (Philosophie, Geschichte....)
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Geist" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Geist" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Geist" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Geist" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Geist" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Staat und Politik (Politik, Beh&ouml;rden, Recht...) </TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Staat" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Staat" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Staat" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Staat" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Staat" VALUE=" 5"></TD> <TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Medien (Zeitungen, Zeitschriften, TV, Aktuelles, Film &amp;
+
+Kino...) </TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Medie" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Medie" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Medie" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Medie" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Medie" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kunst und Kultur (Theater, Museen, Kunst, Literatur..) <BR>
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Kult" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Kult" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Kult" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Kult" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Kult" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Unterhaltung und Freizeit (Coole Links, Musik, Spiele, Humor...)
+
+<BR>
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Freizeit" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Freizeit" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Freizeit" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Freizeit" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Freizeit" VALUE=" 5"></TD>
+
+<TD></TD>
+
+
+</TR>
+
+<TR>
+
+<TH align=left>Gesellschaft und Soziales (Umwelt, Cyberkultur, ...) </TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Gesell" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Gesell" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Gesell" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Gesell" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Gesell" VALUE=" 5"></TD>
+
+<TD></TD></TR>
+
+
+<TR>
+
+<TH align=left>Nachschlagewerke (Bibliotheken, W&ouml;rterb&uuml;cher...)
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F20Biblio" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Biblio" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Biblio" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Biblio" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Biblio" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Andere, n&auml;mlich....&gt;<INPUT name="F29Andere1" size=10 maxlength=60>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F20Andere" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Andere" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Andere" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Andere" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F20Andere" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<P><!-- Frage 21--></P>
+
+<LI><B>Denken Sie bitte daran, welche Online - Anwendungen Sie im einzelnen
+
+nutzen. Geben Sie bitte an, wie h&auml;ufig Sie diese im Vergleich zu den
+
+&uuml;brigen Anwendungen zzarxi?</L></WM>
+
+
+<P>
+
+<table border weidth=80%>
+
+<kvwpjik sbgrz=raalls>
+
+ <tr><th rowspan=2>
+
+ <th rowspan=2>
+
+ <th rowspan=2> 
+
+<br><tr><th align=left>                      
+
+
+ <TR>
+
+<TH align=left>Home-Banking/Electronic-Banking: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Banking">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>  		        
+
+
+ <TR>
+
+<TH align=left>Einkaufen/ Teleshopping:   </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Einkauf">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>  		        
+
+
+ <TR>
+
+<TH align=left>Wirtschaftsinformationen:  </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Wirtsch">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>  		        
+
+
+ <TR>
+
+<TH align=left>besondere Ereignisse (z.B. Reichstagsverh&uuml;llung): </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Besond">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>  		         
+
+
+<gu><od>Bukcpjmegfpsevpagpk: &tsvp;qwp</dc><pf></yy><gd></xr><ze></hk></dk>	 		
+
+<TR>
+
+<TH align=left>- Film: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Film">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+ <TR>
+
+<TH align=left>- Musik: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Musik">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+ <TR>
+
+<TH align=left>- Fernsehen: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Fernsehen">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+ <TR>
+
+<TH align=left>- Radio:	 </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Radio">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+	<TH align=left>- Zeitschriften: </TH>
+		<TD></TD>
+		<TD>
+			<SELECT NAME="F21ZeitSchr">
+				<OPTION>? 
+				<OPTION>sehr oft 
+				<OPTION>eher oft
+				<OPTION>eher selten
+				<OPTION>sehr selten 
+				<OPTION>nie 
+			</SELECT>
+		</TD>
+		<TD></TD>
+</TR>  		        
+
+<TR>
+	<TH align=left>-Zeitungen: </TH>
+		<TD></TD>
+		<TD>
+			<SELECT NAME="F21Zeitung">
+				<OPTION>? 
+				<OPTION>sehr oft 
+				<OPTION>eher oft
+				<OPTION>eher selten
+				<OPTION>sehr selten 
+				<OPTION>nie 
+			</SELECT>
+		</TD>
+		<TD></TD>
+</TR>  		        
+
+<TR>
+
+<TH align=left>Freizeitinformationen (Hobbies): </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Hobbies">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Online Magazine und Zeitschriften: </OP><JX></UL><ZN>
+
+<SELECT NAME="F21oMag">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Aktuelle Nachrichten/ Informationen: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Info">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Lexika, Datenbanken, Archive: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Lexiko">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Lernprogramme : </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21LernPro">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Produktinformationen: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21ProdInfo">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Reiseangebote, Flug- und Fahrpl&auml;ne: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21ReiseAng">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Gewinnspiele/ Preisausschreiben: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21GeSpiel">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Erotik-/ Sexangebote: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21Sex">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Freeware/ Shareware/ Softwaresupport: </TH>
+
+<TD></TD><TD><SELECT NAME="F21Freeware">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Veranstaltungsangebote: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21VAngeb">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Informationen zur Hard-/ Software: </TH>
+
+<TD></TD><TD>
+
+<SELECT NAME="F21InfoSoftH">
+
+	<OPTION>? 
+
+	<OPTION>sehr oft 
+
+	<OPTION>eher oft
+
+	<OPTION>eher selten 
+
+	<OPTION>sehr selten 
+
+	<OPTION>nie 
+
+</SELECT></TD><TD></TD>
+
+</TR>
+</TABLE>
+
+
+<P><!--	Frage 22	--></P>
+
+<LI><B>Aus welchen Gr&uuml;nden nutzen Sie Online-Dienste bzw. das Internet [Mehrfachnenung möglich]? <AK></ze>
+
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Studi"></B>f&uuml;r die Recherche
+
+in Studium/Wissenschaft<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Alltag">f&uuml;r die Recherche
+
+im berufl. Alltag<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Hobby">die Recherche f&uuml;r
+
+Hobby/Freizeit<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Meeting">zum Kennenlernen
+
+von Anderen<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Chating">zum Kontakt halten
+
+mit Freunden/Bekannten<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="ZetVert">als Zeitvertreib<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Freunde">weil in meinem Freundeskreis
+
+viele das Netz nutzen<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Vertrau">um mich mit dem Internet
+
+vertraut zu machen <BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Entspan">Unterhaltung/ Zeitvertreib/
+
+Spa&szlig;/ Entspannung <BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Abenteuer">Abenteuerlust/ Aus Neugier<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Techn">um den Anschlu&szlig;
+
+an technische Neuerungen nicht zu verlieren <BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Beruf"> aus beruflichen Gründen <BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Info">um Informationen einzuholen/
+
+um das Neuste zu wissen/ um aktuell zu sein<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Bilden">zum Lernen/ zur Bildung<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Wiss">um Ihren Wissensschatz zu vertiefen/ um Kenntnisse zu erlangen<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Meinug">um sich eine Meinung zu bilden/ um aufgekl&auml;rt zu werden<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="Erweit">zur Erweiterung des Erfahrungshorizontes
+
+<BR>
+
+<INPUT TYPE="checkbox" NAME="F22Gruende" VALUE="">andere, n&auml;mlich... <INPUT name="F22GruendeAnd" size=20 maxlength=60>
+
+</LI>
+<p>
+<!---Frage 22A--->
+
+<b><li> Noch ein paar letzte Fragen zum Nelpwcjx?</zl></i>
+
+
+<Table border>
+	<th>	</th>
+	<th>	</th>
+	<tr>
+		<TH align=left>Ich stehe mit...</th>
+			<td></td>
+			<td>
+				<select name="PerPers" size=1>
+					<option> ?
+					<option> 0
+					<option> 1-2
+					<option> 3-5
+					<option> 6-7
+					<option> 8-9
+					<option> mehr als 9
+				</select> 
+			</td>
+			<td>
+				Privat-Personen durchschnittlich im Monat übers Internet in Kontakt.				</td>
+  </tr>
+
+  <tr>
+		<TH align=left>Ich stehe mit...</th>
+			<td></td>
+			<td>
+				<select name="PerOrg" size=1>
+					<option> ?
+					<option> 0
+					<option> 1-2
+					<option> 3-5
+					<option> 6-7
+					<option> 8-9
+					<option> mehr als 9
+				</select> 
+			</td>
+			<td>
+				Unternehmen/Organisationen durchschnittlich im Monat übers Internet in Kontakt.
+				</td>
+</tr>
+
+<TR>
+		<TH align=left>Wie viel neue "Bekanntschaften" haben Sie übers Internet gemacht? </TH>
+			<TD></TD>
+			<TD>
+				<SELECT NAME="BekanSch"><option> ?
+					<option> 0
+					<option> 1-2
+					<option> 3-5
+					<option> 6-7
+					<option> 8-9
+					<option> mehr als 9 
+				</SELECT>
+			</TD>
+</TR>
+<tr>
+		<TH align=left>Wie oft ist das Internet oder die Erfahrungen die Sie im Netz gemacht haben ein Gesprächsthema unter Ihren Freunden/Bekannten? </TH>
+			<TD></TD>
+			<TD>
+				<SELECT NAME="GeschThema">
+					<option> ?
+					<option> sehr oft
+					<option> eher oft
+					<option> eher selten
+					<option> sehr selten
+					<option> nie
+				</select>
+			</td>
+			<td></td>
+</tr>
+</Table>
+<hr>
+
+<br>
+
+<H3 ALIGN=CENTER>In Folgendem ein paar Fragen zu Ihrer Person</H3>
+
+
+<!--Soziodemographie--->
+
+<P><!-- Frage 23--></P>
+
+<LI><B>Geben Sie bitte Ihr Geschlecht an?</B></LI><P>
+
+
+<INPUT TYPE=RADIO NAME="F23Gesch" VALUE="weiblich">weiblich <INPUT TYPE=RADIO NAME="F23Gesch" VALUE="weiblich">m&auml;nnlich
+
+
+<!-- Frage 24--></P>
+
+<LI><B>In welcher partnerschaftlichen "Situation" befinden Sie sich?</B></LI> <P>
+
+
+Sie sind zu Zeit...<SELECT NAME="F24Partner">
+
+ <OPTION>? 
+
+ <OPTION>Verheiratet
+
+ <OPTION>Geschieden 
+
+ <OPTION>Single (ohne eine Beziehung) 
+
+ <OPTION>Singel und haben eine
+
+&quot;lockere&quot; Beziehung 
+
+ <OPTION>Single und haben eine &quot;feste&quot; Beziehung
+
+</SELECT>
+
+
+<!-- Frage 25--></P>
+
+
+<LI><B>Wie viel Kinder haben Sie?</B></LI><P>
+
+<SELECT NAME="F25Kinder">
+
+	<OPTION>? 
+
+	<OPTION>keine 
+
+	<OPTION>1 
+
+	<OPTION>2 
+
+	<OPTION>3
+
+	<OPTION>mehr als 3 
+
+</SELECT>
+
+
+<!-- Frage 26--></P>
+
+<LI><B>Wie alt sind Sie?</B></LI><P>
+
+<INPUT name="F26Alter" size=10 maxlength=60>Jahre 
+
+
+<!-- Frage 27--></P>
+
+<LI><B>Sie wohnen....</B></LI>
+
+
+ <P>
+
+<SELECT NAME="F27Wohnen">
+
+	<OPTION>? 
+
+	<OPTION>allein 
+
+	<OPTION>mit einem Partner/ Partnerin
+
+	<OPTION>in einer WG
+
+	<OPTION>bei den Eltern 
+
+</SELECT>
+
+anders, n&auml;mlich..<INPUT name="F27AndWohn" size=10 maxlength=60>
+<p>
+<!--Frage 28-->
+
+<li><b>In welchem Land leben Sie zur Zeit ?</b><p>
+
+<SELECT NAME="F28Land?">
+
+<OPTION VALUE="0"> ?
+
+<OPTION VALUE="1"> Deutschland
+
+<OPTION VALUE="2"> &Ouml;sterreich
+
+<OPTION VALUE="3"> Frankreich
+
+<OPTION VALUE="4"> Benelux
+
+<OPTION VALUE="5"> Gro&szlig;britannien 
+
+<OPTION VALUE="6"> Schweiz
+
+<OPTION VALUE="7"> EU-Ausland
+
+<OPTION VALUE="8"> Europa (Nicht-EU)
+
+<OPTION VALUE="9"> Rest der Welt
+
+</SELECT>
+
+<p> 
+
+<!---Frage 29--->
+
+<li><b>Falls Sie in Deutschland leben, in welchem Bundesland?</b><p>
+
+<SELECT NAME="F29BundesLand?">
+
+<OPTION VALUE="0"> ?
+
+<OPTION VALUE="1"> Baden-W&uuml;rttemberg
+
+<OPTION VALUE="2"> Felde
+
+<OPTION VALUE="3"> Fresenburg
+
+<OPTION VALUE="4"> Frechenhausen
+
+<OPTION VALUE="5"> Fischwasser
+
+<OPTION VALUE="6"> Pischertshofen
+
+<OPTION VALUE="7"> Pontenet
+
+<OPTION VALUE="8"> Wremen
+
+<OPTION VALUE="9"> Bussau
+
+<OPTION VALUE="10"> Berlar-Uchenhofen
+
+<OPTION VALUE="11"> Craimoos
+
+<OPTION VALUE="12"> Völkershausen
+
+<OPTION VALUE="13"> Villigst
+
+<OPTION VALUE="14"> Vennhausen
+
+<OPTION VALUE="15"> Volkerzen
+
+<OPTION VALUE="16"> Th&uuml;ringen
+
+
+</SELECT>
+
+<p>
+
+
+<!-- Frage 30--></P>
+
+<LI><B>Geben Sie die Gr&ouml;&szlig;e der Stadt/ oder Landgemeinde in der
+
+Sie wohnen. </B></LI>
+
+
+<P>
+
+<SELECT NAME="F30StadtLand">
+
+ <OPTION>?
+
+ <OPTION>unter 1 
+
+ <OPTION>1 - bis 5
+
+ <OPTION>5 - bis 10
+
+ <OPTION>10 - bis 20
+
+ <OPTION>20 - bis 50
+
+ <OPTION>50 - bis 100 
+
+ <OPTION>100 - bis 250
+
+ <OPTION>250 - bis 500
+
+ <OPTION>500 - bis 1000
+
+ <OPTION>&uuml;ber 8825
+
+</SELECT>
+
+Tausend
+
+
+<!-- Frage 31--></P>
+
+<LI><B>Einkommen (pro Monat/Netto)?</B></LI>
+
+
+ <P> 
+
+<SELECT NAME="F31Einkom">
+
+ <OPTION>?
+
+ <OPTION>weniger als 500 DM
+
+ <BQNEFX>194-077 FR 
+
+ <VMAQFJ>6830-4322 LD
+
+ <JWPSCW>5759-5628 CE 
+
+ <DJIJID>4561-4955 EE 
+
+ <MGVICP>1370-6745 WK
+
+ <OMCBTA>2471-5930 QG
+
+ <MJNZAK>1985-1114 UL
+
+ <MAGZOL>9503-5634 KZ
+
+ <LEMETR>7435-6481 QH
+
+ <OPTION>mehr als 5000 DM 
+
+</SELECT>
+
+
+<!-- Frage 32--></P>
+
+<LI><B>Bitte geben Sie Ihren letzten Schulabschluß an</B></LI>
+
+<p>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="SonderB">Sonderschulabschluß <br>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="HauptB">Hauptschulabschluß <br>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="RealB">Realschulabschluß  <br>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="AbitB">Abitur  		 <br>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="Akadem">  Hochschul-/ Fachhochschulabschluß <br>
+	<INPUT TYPE="checkbox" NAME="F32Bildung" VALUE="AndererB">
+	 anderer Abschluß.
+<br>
+
+<!-- Frage 33-->
+<b><li> Welche Schulen haben Sie besucht? 
+[Mehrfachnenung möglich]</li></b> <p>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="SonderS"> Sonderschule <br>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="HauptS"> Hauptschule <br>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="RealS"> Realschule <br>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="GymnS"> Gymnasium <br>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="GesamtS"> Gesamtschule <br>
+<INPUT TYPE="checkbox" NAME="F33Schule" VALUE="AnereS"> andere, nämlich <INPUT name="Schule" size=20 maxlength=60> 
+
+<br>
+
+
+<!-- Frage 34--></P>
+<LI><B>Besch&auml;ftigungsstatus?</B></LI>
+<P> <SELECT NAME="F34BeschStat"><OPTION>? <OPTION>Sch&uuml;ler <OPTION>Azubi
+
+<OPTION>Arbeitslos <OPTION>Student <OPTION>Arbeitnehmer <OPTION>Angestellter
+
+<OPTION>Rentner/Pension&auml;r <OPTION>Beamter <OPTION>Hausfrau/-man <OPTION>Selbst&auml;ndiger
+
+<OPTION>Wehrdienstleistender </SELECT> andere, n&auml;mlich..<INPUT name="F34AndBeschStat" size=10 maxlength=60>
+
+
+<!-- Frage 35--></P>
+<LI><B>Besch&auml;ftigungsart?</B></LI>
+<P> <SELECT NAME="F35BeschArt"><OPTION>? <OPTION>Vollzeit <OPTION>Teilzeit
+<OPTION>Ausbildung <OPTION>Besch&auml;ftigungslos </SELECT>andere, n&auml;mlich..<INPUT name="F35AndBeschArt" size=10 maxlength=60>
+
+
+<!-- Frage 36--></P>
+<LI><B>In welchem folgenden Bereich sind Sie  wlvtw&vgip;lvtvv?</Z></EF>
+
+<P> .... <SELECT NAME="F36BeschBereich"><OPTION>? <OPTION>Landwirtschaft <OPTION>Industrie
+
+<OPTION>Handel/ Dienstleistung <OPTION>Ausbildung </SELECT>anderem, n&auml;mlich..<INPUT name="F36FanderBesch" size=10 maxlength=60>
+
+<hr color="#000000">
+
+ </P>
+
+
+<H3 ALIGN=CENTER>Als n&auml;chstes folgen einige Fragen zu Ihrem Leben
+
+</H3>
+
+
+<!--<CENTER><P><B>Als erstes Fragen zu Ihrem Privatleben </B><BR></CENTER>-->
+
+
+<!-- Frage 37 -->
+
+<LI><B>Jeder Mensch besitzt Werte, die Einflu&szlig; auf sein
+
+Leben und Verhalten haben. Geben Sie bitte f&uuml;r jeden der folgenden
+
+Werte an, ob er f&uuml;r Sie sehr wichtig, eher wichtig, eher unwichtig
+
+oder v&ouml;llig unwichtig im Vergleich zu den übrigen ist? </B></LI>
+
+
+<TABLE>
+
+<TR>
+
+<TH align=left>Liebe: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Liebe"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Partnerschaftliche Treue: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37PTreu"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Eigene Kinder: </TH>
+<TD></TD>
+
+<TD><SELECT NAME="F37EKind"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Glaube an Gott: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Gott"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Gute Freunde: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Freunde"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Ein gutes Familienleben: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37FamLeb"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Entscheidungsbefugnisse: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37EntBef"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Arbeitsplatz: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37ArbPlatz"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Anderen Menschen helfen zu k&ouml;nnen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37MHelf"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Gute Manieren und H&ouml;flichkeit: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37ManH�f"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Disziplin und Ordnung: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37DiszOrd"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Pflichterf&uuml;llung: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37PflichtEr"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Flei&szlig;: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Flei�"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Bescheidenheit: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Bescheid"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>P&uuml;nktlichkeit: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37P�nkt"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Anpassungsbereitschaft: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37AnpasBer"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Abenteuer und Abwechslung: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37AbenteurAbw"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Genu&szlig;, Lebensgenu&szlig;: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Genu�Lebn"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Selbstverwirklichung: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37SelbstVerw"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Selbst&auml;ndigkeit: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37SelbSt�"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kreativit&auml;t, Phantasie: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37KreatPhan"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Sex, Erotik: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37SexEro"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Humor: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37Humor"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Naturverbundenheit: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37NaturVerb"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Besitz, Eigentum: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37BesitzEig"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Selbstverantwortung, Eigeninitiative:</TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F37SVeranEigeIni"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+</TR>
+
+</TABLE>
+
+
+<P><!-- Frage 38 --></P>
+
+<LI><B>Wie oft machen Sie in Ihrer Freizeit von den folgenden M&ouml;glichkeiten im Vergleich zu den übrigen gebrauch? </B></LI>
+
+
+<TABLE WIDTH="80%" border>
+
+<CAPTION align=center></CAPTION>
+
+
+<TR>
+
+<TH rowspan=2></TH>
+
+
+<TH rowspan=2 width=15%>sehr <BR> oft 
+
+</TH>
+
+
+<TH rowspan=2 width=15%>oft <BR>
+
+</TH>
+
+
+<TH rowspan=2 width=15%>selten <BR>
+
+</TH>
+
+
+<TH rowspan=2 width=15%>sehr <BR>
+
+selten </TH>
+
+
+<TH rowspan=2 width=15%>nie <BR>
+
+</TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left></TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Weiterbildung<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Bildung" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Bildung" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Bildung"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Bildung"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Bildung"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kino <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Kino"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Kino"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Kino"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Kino"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Kino"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Theater<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Theater"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Theater"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Theater"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Theater"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Theater"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Restaurant<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Restaurant"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Restaurant"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Restaurant"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Restaurant"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Restaurant"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Disco/ Kneipe/ Parties<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Disco"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Disco"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Disco"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Disco"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Disco"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Mit Freunden &quot;etwas&quot; unternehmen<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38unternehm"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38unternehm"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38unternehm"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38unternehm"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38unternehm"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>faulenzen/ entspannen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38faulenz"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38faulenz"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38faulenz"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38faulenz"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38faulenz"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>politische/ soziale Arbeit <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38PolSozArb"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38PolSozArb"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38PolSozArb"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38PolSozArb"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38PolSozArb"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Malen/ Zeichnen/ Gestalten <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Malen"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Malen"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Malen"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Malen"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Malen"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Gartenarbeit <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Garten"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Garten"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Garten"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Garten"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Garten"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Schreiben <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Schreib"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Schreib"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Schreib"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Schreib"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Schreib"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Spazierengehen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Spazgehen"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spazgehen"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spazgehen"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spazgehen"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spazgehen"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Spiele spielen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Spiele"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spiele"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spiele"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spiele"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Spiele"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Sport <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Sport"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Sport"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Sport"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Sport"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Sport"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Zeitungen lesen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitu"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitu"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitu"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitu"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitu"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Zeitschriften lesen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitsch"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitsch"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitsch"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitsch"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Zeitsch"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>B&uuml;cher lesen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Buch"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Buch"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Buch"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Buch"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Buch"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Am Vereinsleben teilnehmen <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38Verein"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Verein"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Verein"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Verein"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38Verein"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Andere, n&auml;mlich.. <BR>
+
+<INPUT name="F38Andere" size=10 maxlength=60></TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F38andere"  VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38andere"  VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38andere"  VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38andere"  VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F38andere"  VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<!--<CENTER><P><B>Als n&auml;chstes Fragen zu Ihrem &quot;Kulturleben&quot;-->
+
+
+<P><!--	Frage 39	--></P>
+
+<B><LI>überlegen Sie bitte. Aus welchen Gr&uuml;nden und mit welchen Zielen nutzen Sie allgemein Medien?</LI></b>
+
+
+<TABLE>
+
+<TR>
+
+<TH align=left>weil sie in meinem <BR>
+
+Freundeskreis auch genutzt werden: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Freu"><OPTION>? <OPTION>trifft voll und ganz zu <OPTION>trifft
+
+eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Um mich mit verschiedenen Themen <BR>
+
+vertraut zu machen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Th"><OPTION>? <OPTION>trifft voll und ganz zu <OPTION>trifft
+
+eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Unterhaltung/ Entspannung/ <br> Zeitvertreib: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Unter"><OPTION>? <OPTION>trifft voll und ganz zu <OPTION>trifft
+
+eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>aus Abenteuerlust/ aus Neugier: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Neugier"><OPTION>? <OPTION>trifft voll und ganz zu
+
+<OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Um den Anschlu&szlig; an <BR>
+
+aktuelle Neuerungen nicht zu verlieren : </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Neuerungen"><OPTION>? <OPTION>trifft voll und ganz
+
+zu <OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>um Informationen <BR>
+
+einzuholen/ um das Neueste zu wissen/<BR>
+
+um aktuell zu sein: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39hInform"><OPTION>? <OPTION>trifft voll und ganz zu
+
+<OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>um zu lernen/ sich zu bilden : </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Lernen"><OPTION>? <OPTION>trifft voll und ganz zu
+
+<OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>weil beruflich notwendig : </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Notwendig"><OPTION>? <OPTION>trifft voll und ganz
+
+zu <OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>um den Wissensschatz zu<BR>
+
+vertiefen/ um Kenntnisse zu<BR>
+
+erlangen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Wiss"><OPTION>? <OPTION>trifft voll und ganz zu <OPTION>trifft
+
+eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>um sich eine <BR>
+
+Meinung zu bilden/ um aufgekl&auml;rt<BR>
+
+zu werden: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F39Aufkla"><OPTION>? <OPTION>trifft voll und ganz zu
+
+<OPTION>trifft eher zu <OPTION>trifft eher nicht zu <OPTION>trifft gar
+
+nicht zu </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+</B><!--	Frage 40	--></P></CENTER>
+
+<B><LI>In der folgenden Liste finden Sie eine Reihe von Mediengattungen. Nutzen Sie diese sehr oft, eher oft, eher selten, sehr selten oder nie im Vergleich zu den übrigen?</B> </LI>
+
+
+<TABLE WIDTH="80%"border >
+
+<CAPTION align=center></CAPTION>
+
+
+<TR>
+
+<TH rowspan=2></TH>
+
+
+<TH rowspan=2 width=15%>sehr <BR> oft </TH>
+<TH rowspan=2 width=15%>eher <BR> oft </TH>
+<TH rowspan=2 width=15%>eher <BR> selten </TH>
+<TH rowspan=2 width=15%>sehr <BR> selten </TH>
+<TH rowspan=2 width=15%>nie <BR> </TH>
+</TR>
+
+
+<TR>
+	<TH align=left></TH>
+</TR>
+<TR>
+	<TH align=left>Zeitschriften <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40Zeitschrf" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Zeitschrf" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Zeitschrf" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Zeitschrf" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Zeitschrf" VALUE=" 5"></TD>
+<TD></TD>
+</TR>
+
+
+<TR>
+<TH align=left>Tageszeitung <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40TagesZei" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40TagesZei" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40TagesZei" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40TagesZei" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40TagesZei" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+
+<TR>
+	<TH align=left>B&uuml;cher <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40B�cher" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40B�cher" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40B�cher" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40B�cher" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40B�cher" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>&ouml;ffentliches - <BR> rechtliches Fernsehen <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40�ffFernse" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40�ffFernse" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40�ffFernse" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40�ffFernse" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40�ffFernse" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+<TR>
+	<TH align=left>Privatfernsehen <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40PrivFernse" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40PrivFernse" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40PrivFernse" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40PrivFernse" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40PrivFernse" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Radio <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40Radio" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Radio" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Radio" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Radio" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Radio" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Computer <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F40Comp" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Comp" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Comp" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Comp" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F40Comp" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+</TABLE>
+
+
+<P><!-- Frage 41 --></P>
+
+
+<LI><B>Wenn Sie an Ihre Fernsehgewohnheiten denken, welche Sendungen sehen
+
+Sie sehr oft, eher oft, eher selten, sehr selten oder nie im Vergleich zu den übrigen?
+<TABLE weidth=80%>
+
+<TR>
+
+<TH align=left>Nachrichten: </TH>
+
+
+<TD></TD>
+
+
+<TD>
+
+<SELECT NAME="F41Nach">
+
+ <OPTION>? 
+
+ <OPTION>sehr oft 
+
+ <OPTION>eher oft
+
+ <OPTION>eher selten
+
+ <OPTION>sehr selten
+
+ <OPTION>nie
+
+</SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Politische Magazine: </TH>
+
+
+<TD></TD>
+
+
+	<TD><SELECT NAME="F40PolMag"><OPTION>? <OPTION>sehr oft 								<OPTION>eher oft
+					<OPTION>eher selten <OPTION>sehr selten 									<OPTION>nie </SELECT></TD>
+	<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Naturwissenschaftliche Sendungen: </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F40NatWiss"><OPTION>? <OPTION>sehr oft 					<OPTION>eher oft
+				<OPTION>eher selten <OPTION>sehr selten <OPTION>nie 			</SELECT></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Computer Sendungen: </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F40Comp"><OPTION>? <OPTION>sehr oft 						<OPTION>eher oft
+				<OPTION>eher selten <OPTION>sehr selten <OPTION>nie 			</SELECT></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+<TH align=left>Dokumentationen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Dok"><OPTION>? <OPTION>sehr oft <OPTION>eher oft <OPTION>eher
+
+selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+	<TH align=left>Sportsendungen: </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F40Sport"><OPTION>? <OPTION>sehr oft 						<OPTION>eher oft
+				<OPTION>eher selten <OPTION>sehr selten <OPTION>nie 			</SELECT>
+		</TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Musiksendungen: </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F40Musik"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Spielfilme: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Spielfilm"><OPTION>? <OPTION>sehr oft <OPTION>eher
+
+oft <OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Serien: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Serien"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Science Fiction/ Fantasy: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Fantasy"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Quizsendungen/ Fernsehshows: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Quiz"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Zeichentrickfilme: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Zeichentr"><OPTION>? <OPTION>sehr oft <OPTION>eher
+
+oft <OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kulturprogramme: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Kultur"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Talkshows: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40Talk"><OPTION>? <OPTION>sehr oft <OPTION>eher oft
+
+<OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Andere, n&auml;mlich...<INPUT name="F40Andere" size=10 maxlength=60>:
+
+</TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F40AndereOp"><OPTION>? <OPTION>sehr oft <OPTION>eher
+
+oft <OPTION>eher selten <OPTION>sehr selten <OPTION>nie </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<P><!--	Frage 41	--></P>
+
+<B><LI>In der folgenden Liste finden Sie eine Reihe von Lekt&uuml;ren, nutzen
+
+Sie jeweils sehr oft, eher oft, eher selten, sehr selten oder nie?</LI></B>
+
+
+<TABLE WIDTH="80%" border>
+
+<CAPTION align=center></CAPTION>
+
+
+<TR>
+	<TH rowspan=2></TH>
+	<TH rowspan=2 width=15%>sehr oft <BR> 	</TH>
+	<TH rowspan=2 width=15%>eher oft <BR> </TH>
+	<TH rowspan=2 width=15%>eher <BR> selten </TH>
+	<TH rowspan=2 width=15%>sehr <BR> selten </TH>
+	<TH rowspan=2 width=15%>nie <BR> </TH>
+</TR>
+
+<TR>
+	<TH align=left></TH>
+</TR>
+
+
+<TR>
+	<TH align=left>Autozeitschriften <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41AZeit" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41AZeit" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41AZeit" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41AZeit" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41AZeit" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Frauenzeitschriften <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Fr" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Fr" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Fr" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Fr" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Fr" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Computerzeitschriften <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Com" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Com" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Com" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Com" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Com" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Musikzeitschriften <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Mus" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Mus" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Mus" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Mus" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Mus" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+		<TH align=left>Life-Style-Zeitschriften (z.B. Vogue, Cosmopoliton..) </TH>
+
+		<TD><INPUT TYPE="radio" NAME="F41f" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Lf" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Lf" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Lf" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Lf" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+
+<TR>
+	<TH align=left>Boulevard-Zeitschriften <BR> (z.B. Bunte, das Goldene Blatt..)</TH>
+		<TD><INPUT TYPE="radio" NAME="F41Boul" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Boul" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Boul" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Boul" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Boul" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Fernseh-Zeitschriften  <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41FernZei" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41FernZei" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41FernZei" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41FernZei" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41FernZei" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Comics <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Comi" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Comi" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Comi" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Comi" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Comi" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Spiegel <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Spieg" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Spieg" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Spieg" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Spieg" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Spieg" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+
+<TR>
+	<TH align=left>Stern <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Stern" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Stern" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Stern" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Stern" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Stern" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Focus <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41Focus" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Focus" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Focus" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Focus" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41Focus" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Regionale <BR> Tageszeitungen <BR> </TH>
+		<TD><INPUT TYPE="radio" NAME="F41rTagZeit" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41rTagZeit" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41rTagZeit" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41rTagZeit" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41rTagZeit" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>&Uuml;berregionale <BR> Tageszeitungen <BR> 
+	</TH>
+		<TD><INPUT TYPE="radio" NAME="F41UrTagZeit" VALUE=" 1"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41UrTagZeit" VALUE=" 2"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41UrTagZeit" VALUE=" 3"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41UrTagZeit" VALUE=" 4"></TD>
+		<TD><INPUT TYPE="radio" NAME="F41UrTagZeit" VALUE=" 5"></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Sachb&uuml;cher <BR> </TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41SachBuch" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41SachBuch" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41SachBuch" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41SachBuch" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41SachBuch" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>B&uuml;cher mit <BR>
+
+gesellschaftlichen oder politischen Themen<BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41GesPolBuch" VALUE="1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GesPolBuch" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GesPolBuch" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GesPolBuch" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GesPolBuch" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Biographien <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41Biogr" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Biogr" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Biogr" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Biogr" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Biogr" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Moderne Literatur <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41ModLit" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41ModLit" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41ModLit" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41ModLit" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41ModLit" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Klassische Literatur <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41LkaLit" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LkaLit" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LkaLit" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LkaLit" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LkaLit" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Gedichte/ Lyrik <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41GedLyr" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GedLyr" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GedLyr" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GedLyr" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41GedLyr" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Liebesromane <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41LoveBuch" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LoveBuch" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LoveBuch" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LoveBuch" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41LoveBuch" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Science Fiction/ <BR>
+
+Fantasy <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41Fantas" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Fantas" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Fantas" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Fantas" VALUE=" 4"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F41Fantas" VALUE=" 5"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kriminal-/ Horror-/ <BR>
+
+Thriller Romane <BR>
+
+</TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F41Krimi" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F41Krimi" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F41Krimi" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F41Krimi" VALUE=" 4"></TD>
+<TD><INPUT TYPE="radio" NAME="F41Krimi" VALUE=" 5"></TD>
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<!--<CENTER><P><B>Nun einige Fragen zum Berufsleben</B></P></CENTER>-->
+
+
+<P> <!-- Frage 42 --></P>
+
+<LI><B>Denken Sie bitte an Ihren Beruf, den Sie aus&uuml;ben oder ggf.
+
+aus&uuml;ben m&ouml;chten. Was ist Ihnen im Berufsleben wichtig? </B></LI>
+
+
+<TABLE>
+
+<TR>
+	<TH align=left>Eine Firma wie eine gro&szlig;e Familie: </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F42FirmFam"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig 					</SELECT></TD>
+		<TD></TD>
+</TR>
+
+<TR>
+	<TH align=left>Entscheidungsfreiheit : </TH>
+		<TD></TD>
+		<TD><SELECT NAME="F42EntFre"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Eine Berufst&auml;tigkeit, <BR>
+
+mit der ich mich<BR>
+
+voll identifizieren kann: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42BerufIdent"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Hohes Einkommen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42HoEink"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Berufliche Aufstiegsm&ouml;glichkeiten: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42BerufAuf"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Ein Unternehmen, das wirtschaftlich expandiert: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42WirtExp"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Hohes Ansehen: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42HoAnseh"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Betriebliche Mitbestimmung: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42BetrMitb"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Ein Unternehmen mit<BR>
+
+hohen sozialen Standards: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42HoSozSt"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Mitbestimmung am Arbeitsplatz: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42Mitarbpl"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD>
+
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Arbeitsplatz-Garantie: </TH>
+
+
+<TD></TD>
+
+
+<TD><SELECT NAME="F42ArbGara"><OPTION>? <OPTION>sehr wichtig <OPTION>eher
+
+wichtig <OPTION>eher unwichtig <OPTION>v&ouml;llig unwichtig </SELECT></TD><TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<!--<CENTER><P><B>Denken Sie bitte an Ihr Gesellschafts-/Politikleben </B></P></CENTER>-->
+
+
+<P><!-- Frage 43 --></P>
+
+<LI><B>Wenn Sie an Ihr Gesellschaftsleben denken, wie wichtig sind in Ihrem Leben die folgenden Punkte im Vegleich zu den übrigen.</B><BR>
+
+</LI>
+
+
+<TABLE WIDTH="80%" border>
+
+<CAPTION align=center></CAPTION>
+
+
+<TR>
+
+<TH rowspan=2></TH>
+
+<TH rowspan=2 width=15%>sehr wichtig <BR>
+
+</TH>
+
+<TH rowspan=2 width=15%>eher wichtig <BR>
+
+</TH>
+
+<TH rowspan=2 width=15%>eher<BR>
+
+unwichtig </TH>
+
+<TH rowspan=2 width=15%>gleichg&uuml;ltig <BR>
+
+</TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left></TH>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Verbands-/Vereinstätigkeit </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Verb" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Verb" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Verb" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Verb" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>politische Organisationen/ Parteien  </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43pOrg" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43pOrg" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43pOrg" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43pOrg" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Kirchen </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Church" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Church" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Church" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Church" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Bürger-Initiativen, Interessens-Initiativen </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Init" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Init" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Init" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Init" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Umweltpolitisch aktivit&auml;ten </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Umwelt" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Umwelt" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Umwelt" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Umwelt" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Heimatverbundenheit</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Heim" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Heim" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Heim" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Heim" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Wirtschaftliches Wachstum</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43WirtWachs" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtWachs" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtWachs" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtWachs" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Sicherung der Verteidigungskr&auml;fte des Landes</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Vertei" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Vertei" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Vertei" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Vertei" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Verst&auml;rktes Mitspracherecht der B&uuml;rger bei politischen Entscheidungsprozessen
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Mitsprache" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Mitsprache" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Mitsprache" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Mitsprache" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Eine Gesellschaft, die freundlicher und weniger unpers&ouml;nlicher
+
+ist </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43Gfreund" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Gfreund" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Gfreund" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43Gfreund" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Eine stabile Wirtschaft </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43WirtStab" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtStab" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtStab" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43WirtStab" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Aufrechterhaltung der Ordnung der Nation </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43OrdNation" VALUE=" 1"></TD>
+<TD><INPUT TYPE="radio" NAME="F43OrdNation" VALUE=" 2"></TD>
+<TD><INPUT TYPE="radio" NAME="F43OrdNation" VALUE=" 3"></TD>
+<TD><INPUT TYPE="radio" NAME="F43OrdNation" VALUE=" 4"></TD>
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Verst&auml;rkung des Kampfes gegen den Drogenmi&szlig;brauch
+
+und Kriminalit&auml;t </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43KmpfDro" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43KmpfDro" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43KmpfDro" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43KmpfDro" VALUE=" 4"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Eine Gesellschaft, in der Ideen mehr z&auml;hlen als Geld
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43GIdee" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43GIdee" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43GIdee" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43GIdee" VALUE=" 4"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Schutz der freien Meinungs&auml;u&szlig;erung </TH>
+
+<TD><INPUT TYPE="radio" NAME="F43frMein" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43frMein" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43frMein" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43frMein" VALUE=" 4"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>F&ouml;rderung des technischen Fortschritt </TH>
+
+
+<TD><INPUT TYPE="radio" NAME="F43tFort" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43tFort" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43tFort" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43tFort" VALUE=" 4"></TD>
+
+<TD></TD>
+
+</TR>
+
+
+<TR>
+
+<TH align=left>Sparsamer Umgang mit Rohstoffen und Energievorr&auml;ten
+
+</TH>
+
+<TD><INPUT TYPE="radio" NAME="F43SparEnerg" VALUE=" 1"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43SparEnerg" VALUE=" 2"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43SparEnerg" VALUE=" 3"></TD>
+
+<TD><INPUT TYPE="radio" NAME="F43SparEnerg" VALUE=" 4"></TD>
+
+<TD></TD>
+
+</TR>
+
+</TABLE>
+
+
+<p>
+<hr>
+
+
+<center><H3>Hier k&ouml;nnen Sie Bemerkungen oder Probleme zu dieser Befragung eingeben:</H3></center>
+
+
+<P><TEXTAREA name="Bemerkungen" rows=5 cols=65 wrap=virtual></TEXTAREA><BR>
+
+
+<hr>
+<P><B> Um an der Verlosung von interessanten Sachpreisen teilnehmen zu können geben Sie bitte Ihre E-Mail Adresse an:</B>              <INPUT TYPE="text" NAME="MailAdress" SIZE=50,1> oder falls sie keine haben, geben Sie Ihre Telefonnummer an!<BR>
+
+
+<center><P><INPUT type=submit value=" Eingabe senden "><BSDQP zqpg="sckqo" acsgz="Rummffguxfwbk dhrxkqjd"></I></hkrnnx>
+
+</P>
+<hr>
+
+<P>Nach Abschlu&szlig; dieser Untersuchung werden die Ergebnisse unter der 
+
+Adresse <A HREF="ergebnis.htm">http://www.uni-bielfeld.de/~rglowien/ergebnis.htm</A> zu finden sein (in Vorbereitung). <P>
+
+Und die Gewinner der Verlosung werden unter der Adresse <D BCMD="ajdl://zlf.ubh-fyuwmkdnj.to/~dwwixwxq/lmgpv.vrg">rpbr://ijm.eze-yvbxcjqa.da/~yepeqgxf/ddapg.yrh</N> zu finden sein (in Vorbereitung).
+
+<p>
+<B>Ich bedanke mich dafür, daß Sie sich die Zeit genommen haben und mich bei meiner Diplomarbeit unterstützt haben.   Vielen Dank.</B></P>
+
+
+<V></EOGI><W><G NXFA="msvw://XSE.jxw-rhbomyylw.ju/~isbthjkx/akcfi.rxtz">Zwr&ndwq;ht
+
+zur Hauptseite</A> </B></P>
+
+</OL>
+
+<h6> Letzte Änderung 29.07.1997 <CENTER><FONT SIZE=1><A HREF="mailto:rglowien@uni-bielefeld.de"> Post an Simon Glowienka</A></FONT></CENTER>
+
+</h6>
+
+
+</BODY>
+
+</HTML>
+
+
+--------------3471624F6F41--

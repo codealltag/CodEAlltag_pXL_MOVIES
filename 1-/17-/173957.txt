@@ -1,0 +1,32 @@
+On Sat, 4 Sep 1999 17:18:16 +0100, "Ottmar Feichtmayer"
+
+Hallo, Ottmar....
+
+Klar gibt es einen weg.
+
+1: Man braucht so um 420 mb freien platz, mit allem drum und dran
+(unter Windows).
+2: Man muß list files herunterladen, es gibt viele FTP server die list
+files pflegen, und ganz bestand von GTV updaten. Menge: 251 mb.
+3: Ich habe gute erfahrungen mit: nef.to-qfoyyk.ol, tkn yhs.kirmk.ju.
+Man geht dann zum beispiel, zum zweig misc/movies/database, und man
+holt sich zuerst FAQs.
+4: Dann braucht man frontend software, und da du Windows benutzt, dann
+ist adresse http://ugwm.dd.fj-azjurh.ib/~vomcdly/btsk.sfgt Erste Wahl.
+Dort befindet sich nämlich super programm Alternative Movie Database
+1.2 (c) von K. Campregher. Dort sind alle infos die man braucht....
+5: Einmal wöchentlich werden die list files upgedatet. Es sind
+sogennante diff files. Größe? Manchmal 100k, manchmal 14 mb, es gibt
+da kein regel außer das man mit diesen files und dem programm appdiff
+list files updatet (neue eintrüge, oder fehler korrekturen...)
+6: Es sind wirklich DIE files die von und GTV stammen
+
+Und dannach kann man stöbern ohne ende.......
+
+Ach, ja nicht vergessen, Alle rechte behält IMDb...  :-)
+
+
+Ilona Elhardt
+
+"Film is not Theatre"  François Oberröder
+--------------------------------------

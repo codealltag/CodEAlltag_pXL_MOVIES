@@ -1,0 +1,5 @@
+"Detlef Huebl" <gmgogcd.xut@mdd.qz> writes:
+
+
+Aha. Danke. Gibt es einen nachvollziehbaren Grund, warum das so
+gemacht wurde?

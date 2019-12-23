@@ -1,0 +1,9 @@
+--- Kennst Du es? --- Ja.
+--- Hast Du es gelesen? --- Nein.
+
+Du stelltest 2 Fragen und Du erhieltst Antworten darauf.
+Was ist Dein Problem?
+
+Fup2 poster
+-- 
+Mail >100kB an Reply-To: --> dev/null (ungesehen!)

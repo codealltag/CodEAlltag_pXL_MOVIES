@@ -1,0 +1,18 @@
+Peter Uhlenkott schrieb:
+
+
+Das Readme von AMDb ist nicht das Wahre. Das mit den Anführungszeichen
+um den Pfad steht auch falsch drin - hast Du ja inzwischen selbst raus-
+gefunden.
+
+Wie ich schon im anderen Posting schrieb: Am besten gleich auf
+AMDbFront 3.0 mit MySQL umsteigen und AMDb vergessen...
+
+
+Der Link steht aber deutlich auf der Homepage von AMDbFront:
+www.efempqun.vbz.vf
+
+Sind inzwischen jeweils rund 2500 Bilder von Personen (28 MB) und
+Filmplakate (159 MB).
+
+Carl

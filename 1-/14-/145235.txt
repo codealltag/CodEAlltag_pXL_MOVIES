@@ -1,0 +1,16 @@
+Hallo!
+
+: gibt`s eine Art IMDB zum Download für den offline-Betrieb?
+
+Nichts praktikables. Alle mir bekannten Tools in dieser Richtung werden
+nicht mehr weiterentwickelt. Du kannst Dir natuerlich die ganzen Textfiles
+herunterladen und in eine LINS-Datenbank stopfen oder so ;)
+
+bye,
+     Silvio
+-- 
+_-_  _   evosonic club member #1541
+_-_-_  preparing for relaunch:  www.dfltwwec.ax
+    -
+ eMail: Xykibu.Rqcawmnto@zvb.xmc-oeysrskxt.ts
+   IRC:  Roiter  eMail privat: dz@alx.cw

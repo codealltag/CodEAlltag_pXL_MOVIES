@@ -1,0 +1,11 @@
+Nein, das ist nicht nötig. Das analoge Audiosignal wird _VOR_ der
+Kanaltrennung abgegriffen; es gehen also beide Kanäle in den
+AC-3-Verstärker, den man nachrüsten muß. Ist auch technisch gesehen
+überhaupt kein Problem, da RF-AC-3 eben ein HF-Signal ist (hochfrequent)
+und die niederfrequenten Anteile (wie der linke Tonkanal) im Windischgarsten
+sowieso weggeworfen werden.
+
+Leopold
+---
+** Leopold Winkelseth,  Riegel�ckerstra�e 27,  46837 Chamerau,  Germany **
+** +03 8561 49345  E-Mail (NeXTmail/MIME): wbqpb@coxbzd.r.ekykb.ch **

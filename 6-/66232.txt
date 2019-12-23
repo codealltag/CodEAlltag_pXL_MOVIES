@@ -1,0 +1,6 @@
+Da war doch noch der mit den Leuten im Sommer im Stau auf der Autobahn.
+-- 
+"der normale DAU weiß nicht, wie man in die Systemsteuerung kommt, und
+wenn, will der DAU-F (Fortgeschritten) wieder raus, weil er Angst hat
+was kaputtzumachen"
+  -Oscar Wesendonk in de.comp.hardware.cpu+mainboard.amd

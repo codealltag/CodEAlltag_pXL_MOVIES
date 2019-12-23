@@ -1,0 +1,6 @@
+Und wenn mal einer das Storyboard gesehen hat, wird er feststellen, dass
+eine gleichzeitige Aufnahme ALLER Kameras garnicht nötig war. Es sollte nur
+eine gewöhnliche Kamerafahrt erzeugt werden. Sie haben wahrscheinlich
+deshalb festmontierte Fotoapparate statt einer Videokamera (die sich auf
+einer Schiene bewegen könnte) verwendet, damit man anschließend zu jedem Key
+(Zeitpunkt) die exakte Kameraposition im PC eingeben kann.

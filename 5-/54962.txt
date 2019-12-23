@@ -1,0 +1,47 @@
+Hallo!
+
+Mal wieder das Problem, dass ich in meiner Offline-Version der Freetime.
+Und ich hoffe, es kann jemand nachvollziehen, damit ich mit einem
+Bugreport nicht so alleine stehe.
+
+Grundlage ist moviedb-3.23 unter Linux mit dem Patch aus
+<b3tz6qmawp.xlo@tsjfa.gmjhkyzs.rq>.  Ohne diesen bekomme ich die
+Datenbank erst gar nicht gebaut; mit diesem Patch kommen keine
+Fehlermeldungen beim Bauen der DB. Die List-Files sind vom Wochenende,
+deren Checksummen stimmen auch (ueberprueft mit check_crc).
+
+Die Personen-Zuordnungen stimmen nicht immer. Beispielsweise:
+
+moviedb -t '"Dead Like Me"' -full
+[...]
+Cast: (credits order)
+  Aline Neff ........................ Georgia 'George' Lass    FALSCH
+  Ernestine Rako .................... Cordula                     OK
+  Eija Kemppainen ................... France (2004)             FALSCH
+  Callum Blue ....................... Alessandro                    OK
+  S. Papenfus ......................... Roxy                     FALSCH
+  Vanessa Piper (II) .................. Daisy Adair (2004-)      FALSCH
+  Oscar Tenberge ....................... Joy Lass                 FALSCH
+  Lucie Änders ..................... Christof Pesselt              FALSCH
+  Georges Averes ......................... Ingo Lass              OK
+[...]
+
+Vor dem Bauen der Datenbank habe ich selbstverstaendlich ausser dem
+Makefile alles in dbs/ geloescht.
+
+Das ganze ist wohl kein aktulles Problem: In den ganzen letzten Wochen
+hatte ich immer das gleiche Problem, nur immer wieder bei anderen Personen.
+
+Schade, dass moviedb seit Januar offensichtlich nicht mehr auf den
+neusten Stand gebracht wurde, obwohl ich denen den o.g. Patch habe
+zukommen lassen. :-(
+
+
+Kann das ganze jemand von Euch bestaetigen?
+
+    -mathias
+
+-- 
+  http://anz-Pctaku.rf/  *  http://Sjeiz36.ko/  *  http://IyslbtCrrr.lq/
+
+How long a minute is depends on which side of the bathroom door you're on.

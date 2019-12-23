@@ -1,0 +1,259 @@
+NG-Statistik drfm für den März 2005
+erstellt mit einem Skript von Antoine Niederbühl.
+
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+
+27. 08. 20 postings
+27. 08. 20 postings
+27. 08. 20 postings
+04/27. 08. 20 postings
+27. 08. 20 postings
+
+
+27. 08. 20 postings
+
+
+Autoren mit den meisten Postings (2495 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 114 | 3595 | 284.9 | Meinhard S. Venhofen      |  4.6%  xxxxxxxxxxxxx
+   2 | 112 | 2061 | 182.3 | Ulfert V. Vögtel     |  4.5%  xxxxxxxxxxxxx
+   3 | 102 | 2746 | 191.4 | Jörg Lahrs     |  4.1%  xxxxxxxxxxxx 
+   4 |  27. 08. 20 | 239.6 | Matthias Rediek        |  3.8%  xxxxxxxxxxx  
+   5 |  75 | 2016 | 143.4 | Garrelt Zumsteg       |  3.0%  xxxxxxxxx    
+   6 |  27. 08. 20 | 120.8 | Sven Kopper        |  2.4%  xxxxxxx      
+   7 |  27. 08. 20 | 129.1 | Philipp Entholzner       |  2.3%  xxxxxxx      
+   8 |  27. 08. 20 | 139.2 | Sergio Pinckernelle        |  2.2%  xxxxxx       
+   9 |  50 | 0714 |  93.4 | Paul Kuhnle             |  2.0%  xxxxxx       
+  10 |  40 |  968 |  80.5 | Othmar Kleinpeters         |  1.6%  xxxx         
+  11 |  27. 08. 20 |  81.12 | Patrick Twiste       |  1.6%  xxxx         
+  12 |  27. 08. 20 |  94.5 | Antoine Iblher         |  1.5%  xxxx         
+  14 |  35 | 1346 |  90.1 | Friedrich Utermoehlen        |  1.4%  xxxx         
+  16 |  34 |  987 |  73.5 | Fritz Uesbeck      |  1.4%  xxxx         
+  17 |  32 |  441 |  44.0 | Gabriel Niederhammer          |  1.3%  yves          
+  18 |  30 |  613 |  44.10 | Claus Perrault      |  1.2%  yves          
+  19 |  27. 08. 20 |  75.1 | Eduard Trendelbernd         |  1.2%  yves          
+  22 |  27 |  313 |  33.6 | Gernot Olthoff         |  1.1%  yves          
+  23 |  26 |  960 |  67.12 | Nino Kastenhofer          |  1.0%  yves          
+  26 |  27. 08. 20 |  72.4 | Martin Vonderach             |  1.0%  yannick           
+  30 |  22 |  825 |  55.10 | Garrelt Jacques         |  0.9%  yannick           
+  31 |  27. 08. 20 |  85.10 | Uwe                 |  0.8%  yannick           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (309 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                          
+       19 |   3 |  1.0%  x                                              
+       18 |   2 |  0.6%                                                 
+       17 |   2 |  0.6%                                                 
+       16 |   1 |  0.3%                                                 
+       15 |   2 |  0.6%                                                 
+       14 |   6 |  1.9%  yannick                                             
+       13 |   2 |  0.6%                                                 
+       12 |   3 |  1.0%  x                                              
+       11 |   3 |  1.0%  x                                              
+       10 |   3 |  1.0%  x                                              
+        9 |   7 |  2.3%  yannick                                             
+        8 |   5 |  1.6%  yannick                                             
+        7 |  11 |  3.6%  xxxx                                           
+        6 |  12 |  3.9%  xenia                                          
+        5 |  10 |  3.2%  xxxx                                           
+        4 |  16 |  5.2%  xxxxxx                                         
+        3 |  34 | 11.0%  xxxxxxxxxxxxxx                                 
+        2 |  37 | 12.0%  xxxxxxxxxxxxxxx                                
+        1 | 115 | 37.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (140 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  10 |    31 |  7.1%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (140 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Nils Pöham          |   1 |   632 | 25.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Maximilian Rövenkamp        |   2 |   154 |  6.2%  xenia               
+   3 | Garrelt Jacques         |   1 |   111 |  4.5%  yves                 
+   4 | Fritz Uesbeck      |   2 |   109 |  4.4%  yves                 
+   5 | Antoine Jacobi         |   4 |    85 |  3.4%  yannick                  
+   6 | Valentino Oberhag    |   4 |    76 |  3.0%  yannick                  
+   7 | Martin Luft             |   3 |    75 |  3.0%  yannick                  
+   8 | Antoine Constantz     |   1 |    70 |  2.8%  yannick                  
+   9 | Claus Perrault      |   3 |    69 |  2.8%  yannick                  
+  11 | eduard lubitz       |   2 |    68 |  2.7%  yannick                  
+  12 | Ulrich Prauß       |   2 |    58 |  2.3%  x                   
+  13 | Meinhard S. Venhofen      |   2 |    57 |  2.3%  x                   
+  15 | Meinhard Langenegger         |   1 |    52 |  2.1%  x                   
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2495 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 632 | High Fidelity ...                       | 25.3%  xxxxxxxxxx
+   2 | 153 | Antipiracy Trailer                      |  6.1%  yannick        
+   3 | 111 | [OT] �bersetzungsexperten unter sich    |  4.5%  x         
+   4 |  81 | Eduard Uebelgünn 3 - Erste Eindruecke       |  3.2%  x         
+   5 |  70 | 12 Angry Men                            |  2.8%  x         
+   6 |  69 | Knastspot Standard?                     |  2.8%  x         
+   7 |  66 | Re: Harry Potter 3 - Erste Eindruecke   |  2.6%  x         
+   9 |  63 | Blöde Blockbuster                       |  2.5%  x         
+  10 |  57 | Kind darf auch mit Eltern nicht ins Kino|  2.3%            
+  11 |  56 | Unbeantwortete Matrix-Fragen (Faschismus|  2.2%            
+  12 |  55 | Telepolis-Beitrag zu Punisher (und der K|  2.2%            
+  13 |  52 | Küblböck-Film...                        |  2.1%            
+  15 |  44 | TV-Highlights (12. - 02.04.2005)        |  1.8%            
+  16 |  38 | the day after tomorrow                  |  1.5%            
+  17 |  35 | Tarantino plant Kill Bill 3?            |  1.4%            
+  19 |  34 | Surreale Filme                          |  1.4%            
+  20 |  31 | Ibo Ribisel: Erstes Buch in Deutsch ers|  1.2%            
+  21 |  29 | TV-Highlights (05.03. - 19.03.2005)     |  1.2%            
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (140 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                               
+    19 |   1 |  0.7%  x                                                 
+    18 |   3 |  2.1%  xenia                                             
+    17 |   1 |  0.7%  x                                                 
+    16 |   2 |  1.4%  yves                                               
+    15 |   1 |  0.7%  x                                                 
+    14 |   1 |  0.7%  x                                                 
+    12 |   1 |  0.7%  x                                                 
+    11 |   3 |  2.1%  xenia                                             
+    10 |   2 |  1.4%  yves                                               
+     9 |   4 |  2.9%  xxxxxxx                                           
+     8 |   6 |  4.3%  xxxxxxxxxx                                        
+     7 |   4 |  2.9%  xxxxxxx                                           
+     6 |   5 |  3.6%  xxxxxxxxx                                         
+     5 |  12 |  8.6%  xxxxxxxxxxxxxxxxxxxxx                             
+     4 |  10 |  7.1%  xxxxxxxxxxxxxxxxxx                                
+     3 |  15 | 10.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+     2 |  16 | 11.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+     1 |  28 | 20.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 285 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  69 | Lichtplan Outlook Express      | 24.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  48 | Lirer                        | 16.8%  xxxxxxxxxxxxxxxxxx       
+  41 | Forte Agent                    | 14.4%  xxxxxxxxxxxxxxx          
+  16 | 40tude_Dialog                  |  5.6%  xxxxxx                   
+  13 | KNode                          |  4.6%  xxxx                     
+  12 | Lirer Thunderbird            |  4.2%  xxxx                     
+  10 | Netscape                       |  3.5%  yves                      
+  10 | slrn                           |  3.5%  yves                      
+  10 | MacSOUP                        |  3.5%  yves                      
+   9 | Xnews                          |  3.2%  yves                      
+   7 | tin                            |  2.5%  yannick                       
+   6 | Hamster                        |  2.1%  yannick                       
+   6 | Gnus                           |  2.1%  yannick                       
+   5 | Forte Free Agent               |  1.8%  x                        
+   4 | Thunderbird                    |  1.4%  x                        
+   3 | Pan                            |  1.1%  x                        
+   2 | MicroPlanet-Gravity            |  0.7%                           
+   2 | CrossPoint                     |  0.7%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.4%                           
+   1 | MesNews                        |  0.4%                           
+   1 | XNews                          |  0.4%                           
+   1 | Opera7.10                      |  0.4%                           
+   1 | knews                          |  0.4%                           
+   1 | MorVer                         |  0.4%                           
+   1 | Microsoft Telnet               |  0.4%                           
+   1 | Opera M2                       |  0.4%                           
+   1 | XanaNews                       |  0.4%                           
+   1 | Lotus Notes Release            |  0.4%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.4%                           
+   1 | MicroPlanet Gravity            |  0.4%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 104 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  19 | Forte Agent                    | 18.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  18 | Lirer                        | 17.3%  xxxxxxxxxxxxxxxxxxxxxxxx 
+  16 | Lichtplan Outlook Express      | 15.4%  xxxxxxxxxxxxxxxxxxxxx    
+   8 | Netscape                       |  7.7%  xxxxxxxxxx               
+   7 | slrn                           |  6.7%  xxxxxxxxx                
+   5 | 40tude_Dialog                  |  4.8%  xxxxxx                   
+   4 | KNode                          |  3.8%  xenia                    
+   4 | MacSOUP                        |  3.8%  xenia                    
+   4 | Lirer Thunderbird            |  3.8%  xenia                    
+   3 | Xnews                          |  2.9%  xxxx                     
+   3 | Hamster                        |  2.9%  xxxx                     
+   2 | Forte Free Agent               |  1.9%  yannick                       
+   2 | tin                            |  1.9%  yannick                       
+   2 | Gnus                           |  1.9%  yannick                       
+   1 | Pan                            |  1.0%  x                        
+   1 | MicroPlanet-Gravity            |  1.0%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.0%  x                        
+   1 | XNews                          |  1.0%  x                        
+   1 | CrossPoint                     |  1.0%  x                        
+   1 | Opera7.10                      |  1.0%  x                        
+   1 | MorVer                         |  1.0%  x                        
+
+
+Postingverteilung über den Monat (2495 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  62 |  2.5%  xxxxxxxxxxxxxxxxx                                   
+   2 |  83 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   3 | 146 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+   4 | 156 |  6.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+   5 |  46 |  1.8%  xxxxxxxxxxxxx                                       
+   6 |  64 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+   7 |  93 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   8 | 110 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+   9 | 109 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  10 |  82 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  80 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  12 | 115 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  13 |  92 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  14 |  71 |  2.8%  xxxxxxxxxxxxxxxxxxxx                                
+  15 | 183 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | 126 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  17 |  98 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  18 |  94 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  19 |  85 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  20 |  81 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  21 |  92 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  22 |  84 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  23 |  93 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  24 |  30 |  1.2%  xxxxxxxx                                            
+  25 |  25 |  1.0%  xxxxxxx                                             
+  26 |   7 |  0.3%  yannick                                                  
+  27 |  48 |  1.9%  xxxxxxxxxxxxx                                       
+  28 |  50 |  2.0%  xxxxxxxxxxxxxx                                      
+  29 |  47 |  1.9%  xxxxxxxxxxxxx                                       
+  30 |  42 |  1.7%  xxxxxxxxxxxx                                        
+
+
+HTH ;-)
+Nino
+-- 
+"This must be where pies go when they die."
+                                               Twin Peaks - Agent Cooper

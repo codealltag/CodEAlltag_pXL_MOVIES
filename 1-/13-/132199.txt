@@ -1,0 +1,4 @@
+Sind das nicht Codecs und somit fürs Codieren als auch Decodieren zu
+gebrauchen?
+
+Karl

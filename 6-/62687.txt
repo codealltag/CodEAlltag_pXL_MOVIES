@@ -1,0 +1,3 @@
+Ja, das ist mir schon klar. Aber warum ausgerechnet RC2? NTSC ist in Europa
+zwar nicht Standard, wird aber doch mittlerweile trotzdem von vielen Geräten
+unterstützt.

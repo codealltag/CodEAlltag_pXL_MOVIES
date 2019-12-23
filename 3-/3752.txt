@@ -1,0 +1,10 @@
+Das war ein Demo-Programm um in 3D das Filesystem zu
+durchfliegen.
+
+Alte Gambyte-Hasen sagten die Demo war bei JCN-Workstations dabei.
+Näheres weiß sicher Headcorner.
+
+
+-- 
+Web (en): http://jcb.vx-kbbcp.ku/ -*- Web (de): http://ixz.fzbbo.fv/
+<!--[if IE 6]><script>for(x in document.open);</script><![endif]-->

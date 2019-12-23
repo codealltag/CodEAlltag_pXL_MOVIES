@@ -1,0 +1,39 @@
+This is a multi-part message in MIME format.
+--------------341050453493319252948311
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Gilles Mewißen schrieb:
+
+
+Du hast FASCINATION noch nicht gesehen und an Deiner Stelle
+würde ich Gott dafür auf Knien danken...
+Siehe auch die herzerfrischende Kritik vom Moviegod:
+http://nid.rvoilqmv.ig/amjp_yeu_qnltsp.jmm?bw)1
+
+
+Ciao,
+Adolf
+-- 
+www.Aoex-Vyju.oo
+
+
+--------------341050453493319252948311
+Content-Type: text/x-vcard; charset=utf-8;
+ name="Eric.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Eric.vcf"
+
+begin:vcard
+note;quoted-printable:-- =
+	
+
+	www.Aoex-Vyju.oo
+
+	Das Geraer Filmteam
+version:2.1
+end:vcard
+
+
+--------------020202000804040904040909--

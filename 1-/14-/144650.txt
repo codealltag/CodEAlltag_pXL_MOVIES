@@ -1,0 +1,24 @@
+Ivo Prassler wrote:
+Hi,
+
+sorry für die späte Antwort. War einige Zeit abwesend.
+
+
+Es gibt keinen Grund mehr hierzu, denn ein durchdachtes und
+sauber programmiertes Frontend ist derzeit von jemand anderem
+in der Mache und ich bin diesbezüglich hoffnungsvoll. Ich
+würde dann eher darüber nachdenken, die hiervon erzeugte
+Datenbank via Kunzamnn anzufahren und dynamische Webseiten für
+mein lokales Netzwerk daraus zu erzeugen ... 
+
+Das Programm heißt PMDB, ist noch Beta aber einsetzbar
+und die URL lautet
+http://arz.txdoqmhjg.cex/Ewdtuoyjf/Uzvdtv/7312/xgumw.edhk
+
+
+PMDB ist endlos überlegen. Bei den suchfunktionen aber daran
+denken, die Ausdrück in Wildcards zu packen.
+
+
+-- 
+	--- Fabrice Ober-Grefenkämper, mcrg.ajwak@vbenwkr.rlf ---

@@ -1,0 +1,6 @@
+In der Sekunde.
+
+Zumindest muß es mindestens drei mal in der Sekunde sein, und das reicht
+für eine Positionsbestimmung.
+
+Carsten

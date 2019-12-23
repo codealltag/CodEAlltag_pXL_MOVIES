@@ -1,0 +1,23 @@
+Willi Menge schrieb:
+
+IIRC sind "Captions" für Hörbehinderte oder Taube, da sind dann auch
+Geräusche und Musik "hinterlegt".
+
+"Loud Bang"
+"Engine starting"
+"Howling sound"
+"Rock-Music fading in"
+etc. sind bspw. bei der ersten Staffel der Miami-Vice-DVDs auf der
+Untertitelspur hinterlegt.
+
+Wenn man also beide verknüpfen kann, reicht es, im "Caption"-Stream nur
+die Geräuschinformationen zu hinterlegen, die Dialoge sind ja bereits im
+"Subtitle"-Stream gespeichert. Interessante Idee!
+
+Gruß,
+Bernhard
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://feu.mbiyvosx.um/iuzphrfrd/ ~ http://syb.jzpiikwl.ms/acb-tryv/
+Mail: rg__0194<bl>hotmail<punkt>com ~ news-2003-10<at>schwinde<punkt>de

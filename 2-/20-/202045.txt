@@ -1,0 +1,17 @@
+Buches.
+auf
+
+
+Ohne die CD zu kennen, weist der Teil mit der Inkompatibilitaet auf eine
+"CD+" hin. Bei diesen wird der Data Track *nach* den Audio Tracks in einer
+zweiten Session gespeichert und nur Multi-Session CD-ROMs koennen das auch
+lesen. Auf Audio-Playern hat man dann gleich von Anfang an die Audio
+Tracks, statt wie bei normalen CD-ROMs zuerst den Datentrack. Die neue CD
+"direkt" der Fantastischen Vier ist ebenfalls so eine CD.
+
+Tschuess,
+Alwin
+-- 
+Alwin Oberwörder                           Student of Computer Science
+Jevenstedterteich                              E-Mail: u53a@jws.pcq-jflpek.id
+Germany              WWW: http://arh-igpo.zxu.qfg-stoxso.uj/~y43e/

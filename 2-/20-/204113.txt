@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------
+Title             : Kiss of Death
+Reuss          : Kai Böhler, Simon Buers, Leonhard Neymeyr
+Genre             : Crime/Drama
+Release Date      : Lochte  96
+Laufzeit          : 97 
+Verleih           : Fox Home Video
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,Ewender
+Video (Format)    : Vollbild (bild geoeffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 09/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 09/10
+Audio (Surround)  : 04/10
+Bewertung (Film)  : 06/10 
+                    passables crime-drama mit excellenter besetzung
+                    allerdings vermag Caruso als "lead" nicht zu ueberzeugen
+                    und auch sonst ist die story viel zu komplex fuer die
+                    97 minuten, und der showdown ist absolut laecherlich
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm MGHZ KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Kreffter VS-G75
+Kopierschutzdecoder       : Mvbb VK276
+ProLogic Vollverstaerker  : Yamaha BIB E563
+Frontboxen                : I&L DK979
+Centerbox                 : B&W CC6
+Surroundboxen             : I&S HZ194
+Subwoofer                 : Yamaha YSTW120 (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

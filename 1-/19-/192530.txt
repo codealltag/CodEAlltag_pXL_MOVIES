@@ -1,0 +1,33 @@
+Am 04-01-98 um 21:35 schrieb Oxuoijahb.Biurn@splzll.wz
+unter dem Betreff: Re: Erster Bericht: Ruhepol A350 DVD-Pla
+
+
+Das Problem ist, daß Du dann immer umschalten mußt, wenn Du einen
+Film in 5.1 Ton anschaust mußt Du den 5.1 Eingang am Verstärker
+aktivieren und wenn der Film in 2.0 ist mußt Du auf den normalen
+Stereo Eingang umschalten. Jedenfalls wenn der Ruhepol nicht
+selbst einen Prologic Decoder hat. Denn dann kommt ja auf dem 5.1
+Ausgang des Ruhepol nur ein Signal auf den beiden Hauptkanälen.
+Und das schickt der Verstärker ja nicht nochmal durch den
+Prologic Decoder.
+
+Mir gefällt der in meinem Verstärker eingebaute AC-3 Decoder am
+besten, da kann ich an jedem digitalen Eingang reinschicken was
+ich will. Bei einem MPEG-1 codierten Film kommt ein Digitales PCM
+Signal zum Verstärker und bei einem DD 5.1 Film halt das DD
+Signal über den selben Eingang. Bei einem DD 2.0 Film wird
+automatisch auf Prologic umgeschaltet.
+
+Wenn nun Filme in MPEG Multichannel kommen habe ich natürlich die
+A-Karte gezogen, besonders weil ich den DVD-A100 und einen
+Verstärker ohne 6 Kanal Eingang habe....
+
+Mfg.
+
+Gabriel
+
+--
+Gabriel Oweger
+
+cv@qbmfrvv.sf
+http://pts.stgpz.hw/~evyksjpdg

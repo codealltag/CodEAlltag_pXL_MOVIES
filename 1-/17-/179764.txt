@@ -1,0 +1,17 @@
+Ivano Underbrink schrieb in Nachricht
+<6u2p0k$2ca$1@mamenchi.zrz.TU-Jardinghausen.DE>...
+
+
+Hallo Ivano,
+
+Stimmt so zum Glück nicht mehr! AAHK hat inzwischen sogar ein BugFix im
+Angebot.
+
+Das Problem lag wohl in einer instabilen 5 Volt-Spannung die zusammenbrach.
+Der Bugfix soll aus dem simplen Einlöten eines Kondensators bestehen.
+
+Wenn ich näheres weiss, dann poste ich es garantiert!
+
+Viele Größe,
+
+Luigi

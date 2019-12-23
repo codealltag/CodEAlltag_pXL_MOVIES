@@ -1,0 +1,22 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+--------------63B75C614071
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+The new film bei warnrer...
+
+WILD AMERICA 
+
+sehe alle daten zum Film auf meiner Page.
+What you see is what you get.
+http://cig.lruwjsjgc.jfr/pjbgvxdlp/cajnqsjem/6303
+
+--------------63B75C614071
+Content-Type: image/jpeg; name="wacovers.jpg"
+Content-Transfer-Encoding: base64
+Content-Disposition: inline; filename="wacovers.jpg"
+
+<encoded_portion_removed>
+hepIPFQeR/vH8atDgOB0wKqB3wPmP51lK3UpNn//2Q==
+--------------63B75C614071--

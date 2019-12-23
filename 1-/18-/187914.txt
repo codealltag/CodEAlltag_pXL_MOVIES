@@ -1,0 +1,13 @@
+Kaspar Flötert  schrieb :
+
+
+-Wieso wurde das 'a' in "name" korrekt dekodiert, das 'a' in
+ "Harry" aber als 'e' `?
+
+Eindeutiger Goof, oder nicht ?
+
+mfG
+   Gebhard
+-- 
+"I will not waste chalk."
+	(Walter Biermanns)

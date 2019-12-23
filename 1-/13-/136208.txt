@@ -1,0 +1,8 @@
+Ein Programm, mit dem man lokal auf seinem Rechner auf die Daten (oder
+zumindest einem Teil davon) der Fancy zugreifen kann. Dazu muss man sich die
+entsprechenden Daten von einem ftp-server
+(ftp://hli.ma-lbrnna.oc/dyp/uhjc/wpriwp/rawvwlpo/) downloaden. Der
+Datenbestand wird jede Woche aktualisiert
+
+Bye Byte
+Jochen

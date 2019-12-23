@@ -1,0 +1,73 @@
+Tach!
+
+Aldo Linnenkugel wrote:
+
+
+Gut, da gibt es noch eine zweite Möglichkeit, die ich bei einem unserer Kinos
+hatte.
+Bei einigen DTS-Geräten der ersten Generation ist ein Eprom defekt. Dies kann
+zur
+Folge haben, das
+1. DTS für kurze oder sogar für längere Zeit ausfällt
+
+2. DTS beim Starten nicht erkannt wird.
+
+3. die CDs aus dem CD-Rom Laufwerk herausgeworfen werden und das ohne
+denkbaren
+Grund.
+
+In diesem Fall kann das Gerät über die Kinotechniker, welche es installiert
+haben
+an DTS geschickt werden. Dort werden die Geräte dann im Austausch repariert.
+Die
+Techniker haben aber meist Ersatzgeräte, so dass keiner auf DTS verzichten
+muß.
+
+
+Nein, wenn der Abstand von Bild zu Reader einmal eingestellt ist stimmt es
+auch.
+
+
+Stimmt! In diesem Fall würde ich sagen, dass der Timecode falsch auf den Film
+kopiert worden ist. Dieser Fehler müßte dann auch bei anderen Kopien
+auftauchen,
+das muß aber nicht für alle Kopien gelten. Ich habe diesen Film bei der
+Pressevorführung im NKK-Palast in Joldelundfeld gesehen und der Ton war Perfekt.
+
+kommen
+
+Nein, der Timecode ist etwa so wie ein Morse-Code. Der Reader gibt die
+Information
+an den Rechner/Prozessor und der errechnet dann an welcher Stelle die CD-Galm
+abgespielt werden soll. So könnte man mitten im Film starten und der Prozessor
+
+braucht eine 50stel Sekunde um herauszufinden an welcher Stelle des Filmes man
+
+sich befindet.
+
+
+Dann gibt es noch:
+http://fcjxpa.cdn.olv-yuknvlrhj.mq/~qwv37828/vuiwvvgwwa/bhi_ogdgwwv.wbrh
+und die Homepage von DTS: http://mdm.kgghevg.ryr
+
+Ich hoffe dies hat dir ein wenig geholfen.
+
+Ciao Beat
+--
+************************************************
+ZZU Kinobetriebsgesellschaft - xeww@uxzjuzwqa.zl
+Gemballa, Tel. 3362/08413
+Kaning-Wiednigweg Roggendorfgasse 0, 85307 Buschhütten
+
+Schiltz, Bwq.9751/75150
+Toosb�urbanigasse 53, 63998 Buschhütten
+
+Capitol Filmpalast Calden, Tel. 99036/62866
+Am Drimbornstraße 8, 37614 Calden
+
+UNION-Kinos im Netz: http://wbd.zttxu-menp.sx
+Kinoprogramm: http://jgblojaea.jxowglhdv.fg/vtyk
+************************************************
+Beat Clod - Elsheimerstraße 5 - 85625 Buschhütten
+Tel.: 7333 / 0 55 68 - Fax : 5294 / 5 51 38
+http://ltzkjodcg.zhluuxirt.fg/~wsrfjj/

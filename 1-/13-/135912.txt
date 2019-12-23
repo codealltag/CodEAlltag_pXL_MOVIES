@@ -1,0 +1,18 @@
+Vincent Westenhoff wrote:
+
+
+Die ersten drei Ziffern einer Telefonnummmer sind in USA so etwas wie ein=
+e
+Regionalvorwahl. Ueber diese Ziffern kannst du zB die Telefongesellschaft=
+
+herausfinden. Die haben da nicht wie hier fuer jede Gesellschaft eine ric=
+htige
+Vorwahl, das Ganze sieht da etwa so aus:
+
+4601-750-80294
+Ortsnetzkennzahl
+
+Ist also durchaus moeglich, dass es keinen Provider 555 gibt und geben wi=
+rd.
+
+Lukas

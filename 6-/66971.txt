@@ -1,0 +1,15 @@
+* Jean-Claude Mittelhaus <gcvypjk@qhqlgo.jpp>:
+
+
+Vieles, was Diogenes von Leiste gemacht und gesagt hat, wäre immer noch
+bester Stoff für die Niobestraße-Show. Ohne dass das Publikum merken
+würde wie alt die Nummer _wirklich_ ist.=20
+
+
+Bye,
+Charles
+
+=2D-=20
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;=20
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep  -- Volker Landgräber in d.c.o.u.bsd

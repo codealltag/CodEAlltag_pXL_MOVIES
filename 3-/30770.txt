@@ -1,0 +1,260 @@
+[Statistik] drfm, 25/46
+
+NG-Statistik drfm für den Dezember 2004
+basierend auf ngstat von Emil Uterwedde.
+
+21. 06. 19 postings  21. 06. 19%
+
+21. 06. 19 postings  +20.02%
+21. 06. 19 postings   +6.05%
+21. 06. 19 postings   -3.93%
+21. 06. 19 postings  21. 06. 19%
+21. 06. 19 postings   +9.85%
+21. 06. 19 postings  -23.28%
+21. 06. 19 postings  +29.48%
+21. 06. 19 postings  -18.68%
+21. 06. 19 postings  -07.98%
+21. 06. 19 postings  -31.85%
+04/05:  658 postings  21. 06. 19%
+
+05/05: 1142 postings  +73.56% (39 Newbies)
+
+
+Die meisten Artikel innerhalb 1 Stunde:
+    22 Artikel zwischen 30.12.2004 16:13:01 und 30.12.2004 17:13:00
+
+Die meisten Artikel innerhalb von 24 Stunden:
+   109 Artikel zwischen 29.12.2004 20:15:26 und 30.12.2004 20:15:25
+
+Die artikelst�rkste Nacht war am 14.12.2004:
+    10 Artikel zwischen 0:00 Uhr und 6:00 Uhr
+
+Der kürzeste Zeitabstand zwischen zwei Artikeln beträgt 6 Sekunden,
+    vom 23.12.2004, 09:50:40 bis 23.12.2004, 09:50:46
+    vom 30.12.2004, 16:22:44 bis 30.12.2004, 16:22:50
+    vom 30.12.2004, 17:06:07 bis 30.12.2004, 17:06:13
+
+Der längste Zeitabstand zwischen zwei Artikeln beträgt 17:10:13 Stunden,
+    vom 08.12.2004, 21:55:40 bis 09.12.2004, 15:05:53
+
+Die schnellste Antwort gab es in 2:10 Minuten von Ingmar Zschweigert
+    auf aclu:3678557650.357757.909067@e80q5055mll.hxjvikxphcsk.uhl
+    vom 30.12.2004, 14:12:01 bis 30.12.2004, 14:14:11
+
+Die späteste 1. Antwort gab es nach 14 Tagen, 01:35:34 Stunde
+    von Leopold Buroff auf fkcd:6jr5o9U946j4S4@hisrusepft.klh
+    vom 14.12.2004, 16:45:05 bis 28.12.2004, 18:20:39
+
+Die späteste weitere Antwort gab es nach 13 Tagen, 22:11:58 Stunden
+    von Leopold Buroff auf pcyn:p073tb$6bwx$3@pjqq-jbv-qzxx.ybaw.ay
+    vom 14.12.2004, 20:16:44 bis 28.12.2004, 18:28:42
+
+Das älteste unbeantwortete Initialposting im Mai ist vom
+01.12.2004, 22:13
+    dvlf:kCsmm.8232$_9.824@napz.jervpe.yh von Sascha
+
+
+Autoren mit den meisten Postings (1142 Postings)
+
+ Pos | Anz | FUp |  Lin | Avg | KByte | Autor                 | Diagramm
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+   1 |  55 |  21. 06. 19 |  26 | 116.0 | Sascha U. Oesterwalbesloh     |  4.8%  özlem
+   2 |  43 |  21. 06. 19 |  24 |  84.1 | Dietmar Lehmans         |  3.8%  xxxx
+   3 |  42 |  55 |  987 |  23 |  72.8 | Hansruedi Clodius      |  3.7%  xxxx
+   4 |  38 |  32 |  597 |  15 |  55.2 | Fredy Nieber         |  3.3%  xxxx
+   5 |  37 |  25 |  904 |  24 |  66.12 | Dieter Entress        |  3.2%  xxxx
+   6 |  35 |  34 |  686 |  19 |  57.1 | Clemens Danzebrink         |  3.1%  xaver
+   7 |  24 |  35 |  596 |  24 |  51.10 | Dietmar Knoedgen         |  2.1%  xavier
+   8 |  23 |  23 |  655 |  28 |  42.11 | Rosabel Verde         |  2.0%  xavier
+   9 |  21 |  21 |  428 |  20 |  33.4 | Dietmar Sandtfoß           |  1.8%  xavier
+  10 |  20 |  17 |  429 |  21 |  36.8 | Diedrich Dörfer     |  1.8%  xavier
+  13 |  19 |  20 |  475 |  25 |  37.4 | Emmerich Ingenfeld          |  1.7%  xavier
+  14 |  18 |  24 |  359 |  19 |  21. 06. 19 | Denise Caster       |  1.6%  x
+  15 |  16 |  23 |  552 |  34 |  34.8 | Heino H Camerer          |  1.4%  x
+  19 |  15 |  12 |  213 |  14 |  20.11 | Dietmar P. Oldengott      |  1.3%  x
+  20 |  14 |  13 |  424 |  30 |  32.1 | Sascha Löwen         |  1.2%  x
+  21 |  13 |   8 |  269 |  20 |  21.10 | Felix Goldemann        |  1.1%  x
+  22 |  12 |  10 |  208 |  17 |  19.3 | Stefano Cordsen         |  1.1%  x
+  24 |  11 |   8 |  183 |  16 |  14.10 | Antoine Schöpfl      |  1.0%  x
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+
+
+Autoren mit wenig Postings (237 Autoren)
+
+ Postings | Autoren | Diagramm
+----------+---------+-------------------------------------------------------
+        1 |      89 | 37.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        2 |      51 | 21.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+        3 |      19 |  8.0%  xxxxxxxxxx
+        4 |      12 |  5.1%  xxxxxx
+        5 |      11 |  4.6%  özlem
+        6 |       9 |  3.8%  xxxx
+        7 |      10 |  4.2%  özlem
+        8 |       3 |  1.3%  x
+        9 |       5 |  2.1%  xavier
+       10 |       2 |  0.8%  x
+       11 |       3 |  1.3%  x
+       12 |       2 |  0.8%  x
+       13 |       1 |  0.4%
+----------+---------+-------------------------------------------------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor                | FUp | Avg. | Artkl | Self | SupS | Diagramm
+-----+----------------------+-----+------+-------+------+------+------------
+   1 | Sascha U. Oesterwalbesloh    |  64 | 1.16 |    55 |      |      |  6.2%  xxxx
+   2 | Hansruedi Clodius     |  55 | 1.31 |    42 |      |    2 |  5.4%  xxxx
+   3 | Dietmar Knoedgen        |  35 | 1.46 |    24 |      |      |  3.4%  xavier
+   4 | Clemens Danzebrink        |  34 | 0.97 |    35 |    1 |      |  3.3%  xavier
+   5 | Fredy Nieber        |  32 | 0.84 |    38 |      |      |  3.1%  xavier
+   6 | Dietmar Lehmans        |  31 | 0.72 |    43 |      |      |  3.0%  xavier
+   7 | Dieter Entress       |  25 | 0.68 |    37 |      |      |  2.4%  x
+   8 | Denise Caster      |  24 | 1.33 |    18 |      |      |  2.3%  x
+   9 | Didier Oltmann            |  23 | 2.56 |     9 |      |      |  2.2%  x
+-----+----------------------+-----+------+-------+------+------+------------
+
+
+Autoren mit den meisten Threads (96 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Tuvok                |   7 |     8 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Dietmar Lehmans        |   5 |    75 |  5.2%  xxxxxxxxxxxxxxxxxx
+-----+----------------------+-----+-------+---------------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (96 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Sascha U. Oesterwalbesloh    |   3 |   341 | 29.9%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Dietmar Knoedgen        |   3 |   166 | 14.5%  xxxxxxxxxxxx
+   3 | Dietmar Lehmans        |   5 |    75 |  6.6%  özlem
+   4 | Stefano Hautt         |   1 |    51 |  4.5%  xaver
+-----+----------------------+-----+-------+---------------------------------
+
+
+Threads mit den meisten Postings (1142 Postings)
+
+ Pos | Anz | Threads                          | Gründer      | Diagramm
+-----+-----+----------------------------------+--------------+--------------
+   1 | 314 | Episode 3                        | Sascha G. Lie| 27.5%  xxxxxx
+   2 | 156 | Star Wars - Welche Reihenfolge   | Dietmar Edler| 13.7%  xaver
+   3 |  61 | 42 Tage fuer The Hitchhiker's Gui| Dietmar Lieschied  5.3%  x
+   4 |  51 | Punkte                           | Stefano Hautt |  4.5%  x
+   5 |  39 | Juhu!! Die Leon Tin Box ist ersch| Emmerich Ingenfeld |  3.4%
+   6 |  27 | Besten Talk-Filme                | Ivo Duchow  2.4%
+   7 |  24 | Andere Beispiele für Vermarktung | Sascha U. Oldhaver  2.1%
+   9 |  21 | Heute Espresso-Maschinenraum "Die Geschichte der Die| Heino J Panury |  1.8%
+  10 |  17 | Komplette Nachsynchronisation Bl| Viktor Arents  1.5%
+  11 |  15 | Nilpferde                        | Ulfert Scheckert  1.3%
+  12 |  14 | arte "Hundstage"                 | Heino H Camerer |  1.2%
+  14 |  13 | mehrere Synchronisierungen       | Ubbo Gönner  1.1%
+-----+-----+----------------------------------+--------------+--------------
+
+
+Kurze Threads (96 Threads)
+
+ Länge | Threads | Diagramm
+-------+---------+----------------------------------------------------------
+     1 |      23 | 24.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     2 |       9 |  9.4%  xxxxxxxxxxxxxxxxxxx
+     3 |      15 | 15.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     4 |       7 |  7.3%  xxxxxxxxxxxxxxx
+     5 |       4 |  4.2%  xxxxxxxx
+     6 |       6 |  6.3%  xxxxxxxxxxxxx
+     7 |       2 |  2.1%  xxxx
+     8 |       5 |  5.2%  xxxxxxxxxxx
+     9 |       1 |  1.0%  xavier
+    11 |       5 |  5.2%  xxxxxxxxxxx
+    12 |       1 |  1.0%  xavier
+-------+---------+----------------------------------------------------------
+
+
+Verwendeter Newsreader (Alle Postings, 1142 Postings)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+ 255 | Forte Agent                    | 22.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 184 | Mozilla                        | 16.1%  xxxxxxxxxxxxxxxxxxxxx
+ 137 | NICNOA Outlook Express      | 12.0%  xxxxxxxxxxxxxxxx
+ 109 | NVSN Thunderbird            |  9.5%  xxxxxxxxxxxx
+ 106 | /keine Angabe/                 |  9.3%  xxxxxxxxxxxx
+  53 | 40tude_Dialog                  |  4.6%  xxxxxx
+  50 | Xnews                          |  4.4%  özlem
+  46 | slrn                           |  4.0%  özlem
+  43 | mutt-ng                        |  3.8%  özlem
+  41 | tin                            |  3.6%  xxxx
+  40 | Gnus                           |  3.5%  xxxx
+  22 | ngctsi.qaijzx.ujv              |  1.9%  xavier
+  12 | KNode                          |  1.1%  x
+  10 | Pine                           |  0.9%  x
+   9 | MesNews                        |  0.8%  x
+   9 | Opera M2                       |  0.8%  x
+   7 | MacSOUP                        |  0.6%
+   6 | Pan                            |  0.5%
+  <2 | 3 weitere...                   |
+-----+--------------------------------+-------------------------------------
+1142 | GESAMT (21)                    |
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(28 Autoren)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+   8 | Forte Agent                    | 28.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | Mozilla                        | 14.3%  xxxxxxxxxxxxxxx
+   3 | NVSN Thunderbird            | 10.7%  xxxxxxxxxxx
+   3 | NICNOA Outlook Express      | 10.7%  xxxxxxxxxxx
+   3 | /keine Angabe/                 | 10.7%  xxxxxxxxxxx
+   2 | tin                            |  7.1%  xxxxxxx
+   1 | mutt-ng                        |  3.6%  xaver
+   1 | Gnus                           |  3.6%  xaver
+   1 | Xnews                          |  3.6%  xaver
+   1 | 40tude_Dialog                  |  3.6%  xaver
+   1 | slrn                           |  3.6%  xaver
+
+
+Postingverteilung über den Monat (1142 Postings)
+
+ Tag | Anz | Diagramm
+-----+-----+----------------------------------------------------------------
+   1 |  13 |  1.1%  xxxxxx
+   2 |  16 |  1.4%  xxxxxxxx
+   3 |   9 |  0.8%  xxxx
+   4 |  34 |  3.0%  xxxxxxxxxxxxxxxxxx
+   5 |  13 |  1.1%  xxxxxx
+   6 |  33 |  2.9%  xxxxxxxxxxxxxxxxx
+   7 |  30 |  2.6%  xxxxxxxxxxxxxxx
+   8 |  11 |  1.0%  özlem
+   9 |  19 |  1.7%  xxxxxxxxxx
+  10 |   6 |  0.5%  xaver
+  11 |  23 |  2.0%  xxxxxxxxxxxx
+  12 |  17 |  1.5%  xxxxxxxxx
+  13 |  37 |  3.2%  xxxxxxxxxxxxxxxxxxx
+  14 |  26 |  2.3%  xxxxxxxxxxxxx
+  15 |  81 |  7.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  16 |  44 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxx
+  17 |  39 |  3.4%  xxxxxxxxxxxxxxxxxxxx
+  18 |  33 |  2.9%  xxxxxxxxxxxxxxxxx
+  19 |  16 |  1.4%  xxxxxxxx
+  20 |  93 |  8.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  21 |  44 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxx
+  22 |  37 |  3.2%  xxxxxxxxxxxxxxxxxxx
+  23 |  20 |  1.8%  xxxxxxxxxx
+  24 |  70 |  6.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  25 |  75 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  26 |  19 |  1.7%  xxxxxxxxxx
+  27 |  49 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxx
+  28 |  32 |  2.8%  xxxxxxxxxxxxxxxxx
+  29 |  38 |  3.3%  xxxxxxxxxxxxxxxxxxxx
+  30 |  58 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  31 | 107 |  9.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+HTH ;-)
+Jean
+-- 
+"Shut your eyes and you'll burst into flames."
+                                                   Twin Peaks - Log Lady

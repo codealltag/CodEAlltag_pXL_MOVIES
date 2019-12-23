@@ -1,0 +1,361 @@
+19.01.2003 23:24:35, *Dietmar Clodius*:
+
+
+Viel zu lang! :-)
+
+Was haltet ihr davon (Ja, meine ist kürzer! ;-))
+
+
+NG-Statistik drfm für den Dezember 2002
+erstellt mit einem Skript von Erhard Clasvogt.
+
+2954 postings
+
+Autoren mit den meisten Postings (2954 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  01. 07. 19 | 205.5 | Raimund Aichmair        |  3.1%  xxxxxxxxxxxxx
+   2 |  92 | 2170 | 166.6 | Nico Waltenspiel      |  3.1%  xxxxxxxxxxxxx
+   3 |  01. 07. 19 | 142.9 | Karl Neiding          |  3.1%  xxxxxxxxxxxxx
+   4 |  38 | 4247 | 730.3 | Günter R. Neiper      |  3.0%  xxxxxxxxxxxxx
+   5 |  01. 07. 19 | 121.1 | Ludgers Csanadi         |  2.4%  xxxxxxxxxx   
+   6 |  56 |  974 |  72.5 | Volker Packebusch         |  1.9%  xxxxxxxx     
+   7 |  55 | 0986 |  92.5 | Günter Jöhring        |  1.9%  xxxxxxxx     
+   8 |  49 |  919 |  76.5 | Edmund Hausemann      |  1.7%  xxxxxxx      
+   9 |  48 |  782 |  59.10 | Ivan Weitzberg         |  1.6%  xxxxxxx      
+  10 |  01. 07. 19 |  91.12 | Vinzenz Steindel       |  1.6%  xxxxxx       
+  11 |  01. 07. 19 |  79.0 | Volker 'Vincenzo' Cordes|  1.5%  xxxxxx       
+  13 |  42 |  898 |  75.0 | Erich Langeheine         |  1.4%  xxxxxx       
+  14 |  41 |  717 |  59.0 | Volker Flentje       |  1.4%  xxxxxx       
+  15 |  40 | 4715 |  96.12 | Nico Hoessl      |  1.4%  xxxxxx       
+  17 |  01. 07. 19 |  74.5 | Knut Aiden             |  1.3%  ülkü        
+  18 |  38 |  531 |  55.8 | Roberto Wieschen   |  1.3%  ülkü        
+  19 |  35 |  817 |  60.11 | Bodo jakob Naerlich          |  1.2%  ülkü        
+  20 |  01. 07. 19 |  71.11 | Günter Obenhack    |  1.2%  ülkü        
+  25 |  01. 07. 19 |  71.8 | Nico Vangensten            |  1.1%  xxxx         
+  26 |  31 | 1622 | 119.0 | Tuvok                 |  1.0%  xxxx         
+  27 |  30 |  601 |  51.3 | Ingolf C. Nottekämper     |  1.0%  xxxx         
+  28 |  29 |  547 |  41.5 | Markus Hindersmann      |  1.0%  xxxx         
+  29 |  01. 07. 19 |  82.8 | Ralf Häußner        |  0.9%  xxxx         
+  30 |  01. 07. 19 |  62.11 | Hansueli Austermühl            |  0.9%  xxxx         
+  31 |  26 |  712 |  44.3 | Stephan Vogesser        |  0.9%  ümit          
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (423 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+       93 |   1 |  0.2%                                                 
+       92 |   1 |  0.2%                                                 
+       91 |   1 |  0.2%                                                 
+       88 |   1 |  0.2%                                                 
+       71 |   1 |  0.2%                                                 
+       56 |   1 |  0.2%                                                 
+       55 |   1 |  0.2%                                                 
+       49 |   1 |  0.2%                                                 
+       48 |   1 |  0.2%                                                 
+       46 |   1 |  0.2%                                                 
+       45 |   2 |  0.5%                                                 
+       42 |   1 |  0.2%                                                 
+       41 |   1 |  0.2%                                                 
+       40 |   2 |  0.5%                                                 
+       39 |   1 |  0.2%                                                 
+       38 |   1 |  0.2%                                                 
+       35 |   1 |  0.2%                                                 
+       34 |   5 |  1.2%  x                                              
+       33 |   1 |  0.2%                                                 
+       31 |   1 |  0.2%                                                 
+       30 |   1 |  0.2%                                                 
+       29 |   1 |  0.2%                                                 
+       28 |   1 |  0.2%                                                 
+       27 |   1 |  0.2%                                                 
+       26 |   2 |  0.5%                                                 
+       25 |   1 |  0.2%                                                 
+       24 |   1 |  0.2%                                                 
+       23 |   3 |  0.7%                                                 
+       22 |   2 |  0.5%                                                 
+       21 |   1 |  0.2%                                                 
+       18 |   2 |  0.5%                                                 
+       17 |   2 |  0.5%                                                 
+       16 |   4 |  0.9%  x                                              
+       15 |   5 |  1.2%  x                                              
+       14 |   1 |  0.2%                                                 
+       13 |   4 |  0.9%  x                                              
+       12 |   5 |  1.2%  x                                              
+       11 |   2 |  0.5%                                                 
+       10 |   8 |  1.9%  ümit                                             
+        9 |   8 |  1.9%  ümit                                             
+        8 |  10 |  2.4%  ümit                                            
+        7 |   7 |  1.7%  ümit                                             
+        6 |  15 |  3.5%  xxxx                                           
+        5 |  15 |  3.5%  xxxx                                           
+        4 |  25 |  5.9%  xxxxxxx                                        
+        3 |  33 |  7.8%  xxxxxxxxx                                      
+        2 |  78 | 18.4%  xxxxxxxxxxxxxxxxxxxxxxx                        
+        1 | 159 | 37.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (237 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  16 |    39 |  6.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Günter Jöhring        |   9 |   147 |  3.8%  xxxxxxxxxxx         
+   3 | Günter R. Neiper      |   6 |   161 |  2.5%  xxxxxxx             
+   4 | Erhard Vandeven       |   5 |    91 |  2.1%  xxxxxx              
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (237 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Ludgers Csanadi         |   5 |   223 |  7.5%  xxxxxxxxxxxxxxxxxxxx
+   2 | Ulfert Aßbichler  |   1 |   206 |  7.0%  xxxxxxxxxxxxxxxxxxx 
+   3 | Jasmine Thesing   |   2 |   182 |  6.2%  xxxxxxxxxxxxxxxxx   
+   4 | simon michel       |   1 |   174 |  5.9%  xxxxxxxxxxxxxxxx    
+   5 | Günter R. Neiper      |   6 |   161 |  5.5%  xxxxxxxxxxxxxxx     
+   6 | Günter Jöhring        |   9 |   147 |  5.0%  xxxxxxxxxxxxx       
+   7 | Knut Aiden             |   2 |   115 |  3.9%  xxxxxxxxxx          
+   8 | Erhard Vandeven       |   5 |    91 |  3.1%  xxxxxxxx            
+   9 | Vincent Vondenhof         |   1 |    77 |  2.6%  xxxxxxx             
+  10 | Edwin Daub           |   1 |    64 |  2.2%  xxxxxx              
+  11 | Günther                |   2 |    58 |  2.0%  ülkü               
+  12 | Hansueli Cseh         |   1 |    50 |  1.7%  xxxx                
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2954 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 206 | nochmal Matrix - wer hat ALLES verstande|  7.0%  xxxxxxxxxx
+   2 | 198 | Matrix Reloaded-Trailer auf deutsch     |  6.7%  xxxxxxxxxx
+   3 | 174 | Abfilmer abschrecken                    |  5.9%  xxxxxxxxx 
+   4 | 161 | X2                                      |  5.5%  xxxxxxxx  
+   5 | 114 | Kurze Eindrücke: Ma?=   =?ISO-8859-1?Q?t|  3.9%  xxxxxx    
+   6 |  77 | Matrix Reloaded - Kurzkritik            |  2.6%  xxxx      
+   7 |  65 | [OT?] Merkwürdige Blüten des neuen Jugen|  2.2%  ümit       
+   8 |  64 | Matrix2 - Noch eine Meinung - !!!Spoiler|  2.2%  ümit       
+   9 |  58 | Welche Lieder erinnern euch an Filme?   |  2.0%  ümit       
+  10 |  50 | x2 - Keiner dagegen?                    |  1.7%  ümit        
+  11 |  48 | X2 - Filmfehler                         |  1.6%  ümit        
+  12 |  43 | Matrix: Hauptsache Fortsetzung          |  1.5%  ümit        
+  13 |  42 | Asis im Kino                            |  1.4%  ümit        
+  15 |  40 | Film gesucht (knifflig)                 |  1.4%  ümit        
+  16 |  39 | Matrix: Zahlt sich etwas Geduld aus?    |  1.3%  ümit        
+  17 |  38 | Kleine Vorschau                         |  1.3%  ümit        
+  18 |  37 | 2 Tage haltbare DVD's                   |  1.3%  x         
+  20 |  33 | X-Men 2 ohne ersten Teil?               |  1.1%  x         
+  21 |  32 | Matrix Reloaded und die ganze Kritik... |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (237 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+   206 |   1 |  0.4%                                                    
+   198 |   1 |  0.4%                                                    
+   174 |   1 |  0.4%                                                    
+   161 |   1 |  0.4%                                                    
+   114 |   1 |  0.4%                                                    
+    77 |   1 |  0.4%                                                    
+    65 |   1 |  0.4%                                                    
+    64 |   1 |  0.4%                                                    
+    58 |   1 |  0.4%                                                    
+    50 |   1 |  0.4%                                                    
+    48 |   1 |  0.4%                                                    
+    43 |   1 |  0.4%                                                    
+    42 |   2 |  0.8%  x                                                 
+    40 |   1 |  0.4%                                                    
+    39 |   1 |  0.4%                                                    
+    38 |   1 |  0.4%                                                    
+    37 |   2 |  0.8%  x                                                 
+    33 |   1 |  0.4%                                                    
+    32 |   1 |  0.4%                                                    
+    31 |   2 |  0.8%  x                                                 
+    30 |   1 |  0.4%                                                    
+    27 |   2 |  0.8%  x                                                 
+    26 |   1 |  0.4%                                                    
+    24 |   3 |  1.3%  ümit                                                
+    23 |   4 |  1.7%  ümit                                               
+    22 |   2 |  0.8%  x                                                 
+    21 |   1 |  0.4%                                                    
+    20 |   1 |  0.4%                                                    
+    19 |   1 |  0.4%                                                    
+    18 |   1 |  0.4%                                                    
+    17 |   2 |  0.8%  x                                                 
+    16 |   2 |  0.8%  x                                                 
+    15 |   3 |  1.3%  ümit                                                
+    14 |   4 |  1.7%  ümit                                               
+    13 |   7 |  3.0%  ülkü                                             
+    12 |   2 |  0.8%  x                                                 
+    11 |   1 |  0.4%                                                    
+    10 |   6 |  2.5%  xxxx                                              
+     9 |   6 |  2.5%  xxxx                                              
+     8 |  10 |  4.2%  xxxxxxxx                                          
+     7 |   8 |  3.4%  xxxxxx                                            
+     6 |  10 |  4.2%  xxxxxxxx                                          
+     5 |  13 |  5.5%  xxxxxxxxxx                                        
+     4 |  14 |  5.9%  xxxxxxxxxxx                                       
+     3 |  19 |  8.0%  xxxxxxxxxxxxxxx                                   
+     2 |  27 | 11.4%  xxxxxxxxxxxxxxxxxxxxx                             
+     1 |  63 | 26.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 380 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 145 | Pölz Outlook Express      | 38.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  56 | Forte Agent                    | 14.7%  xxxxxxxxxx               
+  41 | Penderak                        | 10.8%  xxxxxxx                  
+  21 | Netscape                       |  5.5%  ümit                      
+  16 | Xnews                          |  4.2%  ümit                       
+  12 | MacSOUP                        |  3.2%  ümit                       
+  11 | KNode                          |  2.9%  x                        
+  10 | Hamster                        |  2.6%  x                        
+   9 | tin                            |  2.4%  x                        
+   9 | slrn                           |  2.4%  x                        
+   8 | Gnus                           |  2.1%  x                        
+   7 | Forte Free Agent               |  1.8%  x                        
+   7 | 40tude_Dialog                  |  1.8%  x                        
+   6 | Pan                            |  1.6%  x                        
+   3 | MicroPlanet Gravity            |  0.8%                           
+   3 | CrossPoint                     |  0.8%                           
+   2 | OpenXP                         |  0.5%                           
+   2 | Opera7.10                      |  0.5%                           
+   1 | Forte Agent 32                 |  0.3%                           
+   1 | Opera7.11                      |  0.3%                           
+   1 | Microsoft Telnet               |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | WWW-Mail                       |  0.3%                           
+   1 | sqtvlnrn                       |  0.3%                           
+   1 | Halime (MacOSX)                |  0.3%                           
+   1 | Dieser tolle Newsreader        |  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | Microsoft-Outlook-Express-Macin|  0.3%                           
+   1 | XNews                          |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 121 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  26 | Pölz Outlook Express      | 21.5%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  22 | Forte Agent                    | 18.2%  xxxxxxxxxxxxxxxxxxxxxx   
+  15 | Penderak                        | 12.4%  xxxxxxxxxxxxxxx          
+  10 | Netscape                       |  8.3%  xxxxxxxxxx               
+   7 | Xnews                          |  5.8%  xxxxxxx                  
+   6 | MacSOUP                        |  5.0%  xxxxxx                   
+   4 | Gnus                           |  3.3%  xxxx                     
+   4 | Hamster                        |  3.3%  xxxx                     
+   4 | slrn                           |  3.3%  xxxx                     
+   3 | tin                            |  2.5%  ümit                      
+   3 | Forte Free Agent               |  2.5%  ümit                      
+   2 | KNode                          |  1.7%  ümit                       
+   2 | CrossPoint                     |  1.7%  ümit                       
+   2 | Pan                            |  1.7%  ümit                       
+   1 | Forte Agent 32                 |  0.8%  x                        
+   1 | Opera7.11                      |  0.8%  x                        
+   1 | Microsoft Telnet               |  0.8%  x                        
+   1 | MicroPlanet Gravity            |  0.8%  x                        
+   1 | 40tude_Dialog                  |  0.8%  x                        
+   1 | News-via-Hand Quick-Express    |  0.8%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.8%  x                        
+   1 | OpenXP                         |  0.8%  x                        
+   1 | Opera7.10                      |  0.8%  x                        
+   1 | Dieser tolle Newsreader        |  0.8%  x                        
+   1 | XNews                          |  0.8%  x                        
+
+
+Postingverteilung über den Tag (2954 Postings)
+
+ Std | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   5 |  15 |  0.5%  xxxx                                                
+   6 |  32 |  1.1%  xxxxxxxx                                            
+   7 |  69 |  2.3%  xxxxxxxxxxxxxxxxxx                                  
+   8 | 122 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+   9 | 116 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  10 | 158 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+  11 | 170 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  12 | 162 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  13 | 171 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  14 | 161 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  15 | 171 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  16 | 196 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  17 | 174 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  18 | 196 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  19 | 194 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  20 | 177 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  21 | 145 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  22 | 155 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  23 | 120 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+   0 |  98 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   1 |  79 |  2.7%  xxxxxxxxxxxxxxxxxxxxx                               
+   2 |  44 |  1.5%  xxxxxxxxxxx                                         
+   3 |  23 |  0.8%  xxxxxx                                              
+   4 |   6 |  0.2%  x                                                   
+
+
+Postingverteilung über die Woche (2330 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+ Mon | 242 | 10.4%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+ Tue | 310 | 13.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+ Wed | 414 | 17.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+ Thu | 384 | 16.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+ Fri | 492 | 21.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Sat | 277 | 11.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+ Sun | 211 |  9.1%  xxxxxxxxxxxxxxxxxxxxxx                              
+
+
+Postingverteilung über den Monat (2954 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  57 |  1.9%  xxxxxxxxxxxxxx                                      
+   2 | 103 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   3 |  87 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+   4 |  72 |  2.4%  xxxxxxxxxxxxxxxxxx                                  
+   5 |  64 |  2.2%  xxxxxxxxxxxxxxxx                                    
+   6 | 146 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   7 | 206 |  7.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   8 |  94 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   9 |  98 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  10 |  82 |  2.8%  xxxxxxxxxxxxxxxxxxxxx                               
+  11 |  52 |  1.8%  xxxxxxxxxxxxx                                       
+  12 | 100 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  13 |  82 |  2.8%  xxxxxxxxxxxxxxxxxxxxx                               
+  14 | 108 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  15 | 109 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  16 | 113 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  17 |  64 |  2.2%  xxxxxxxxxxxxxxxx                                    
+  18 |  84 |  2.8%  xxxxxxxxxxxxxxxxxxxxx                               
+  19 |  74 |  2.5%  xxxxxxxxxxxxxxxxxxx                                 
+  20 |  53 |  1.8%  xxxxxxxxxxxxx                                       
+  21 |  65 |  2.2%  xxxxxxxxxxxxxxxx                                    
+  22 | 135 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  23 | 156 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  24 |  80 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+  25 |  62 |  2.1%  xxxxxxxxxxxxxxx                                     
+  26 |  71 |  2.4%  xxxxxxxxxxxxxxxxxx                                  
+  27 | 130 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  28 | 137 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  29 |  93 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  30 | 112 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  31 |  65 |  2.2%  xxxxxxxxxxxxxxxx 
+
+
+Größe
+Ulrich
+-- 
+"Shut your eyes and you'll burst into flames."
+                                                   Twin Peaks - Log Lady

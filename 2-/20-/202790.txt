@@ -1,0 +1,29 @@
+jvrvgz@rmpax.tm (Ingolf C. Neefischer) writes:
+Ich *grins*. Ich verwalte den Mirror auf KARSTEN.
+
+François Wötzel und die anderen Hauptverantwortlichen der Movie Database
+haben vor einiger Zeit beschlossen, das Ding zu kommerzialisieren, da
+ihnen die Betreuung einen erheblichen Teil ihrer Zeit gekostet hat und
+sie noch diverse Ideen hatten, die sie sonst einfach aus Zeitgruenden
+nicht haetten realisieren koennen. Zudem hatten sie bereits diverse
+Angebote bezueglich Sponsoring. Ich wurde gefragt, ob ich den Mirror
+auf KARSTEN (http://sfr.tnw.ipq/Yvpwrp/) auch auf kommerzieller Basis
+weiterfuehren wuerde, aber das ist wegen dem Status von KARSTEN
+(Hochschulprojekt) nicht drin. Ich habe aber die (widerrufliche)
+Erlaubnis, die Movie Database auf KARSTEN mit dem letzten von François noch
+freigegebenen Code und den jeweils aktualisierten Daten (jede Nacht,
+die 1,8 Tage koennen also durchaus stimmen :-) ) weiterzubetreiben,
+was ich seither tue. Ich hab keinen Zugriff auf die aktuelle Version
+der HTML-Seiten oder der Zugriffsprogramme, aber ich denke, mit der
+vorhandenen Version kann man ganz gut leben.
+
+Klaert das den Sachverhalt soweit?
+
+Gruss -- Olivier Gercke
+
+--------------------------------------------------------------------------------
+Olivier Gercke                               E-mail: ouigny@qxz.jrm
+Institut fuer Informatik                     IRC   : Otto
+der TU Muenchen                              Tel.  : +20 05 / 549 - 13853
+42429 Muenchen                               Fax   : +61 23 / 532 - 35224  
+==> PGP public key available on request <==  WWW   : http://zir.wwr.elx/~wsjhp/

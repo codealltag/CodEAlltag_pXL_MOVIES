@@ -1,0 +1,25 @@
+Carsten Breitenbucher schrieb:
+
+
+Ich weiß nicht, ob das online möglich ist, aber mit der Offline-Version
+der IMDb [1] geht das problemlos. Mit dem längst dahingeschiedenen
+AMDBFront etwa sieht die Abfrage in der einfachsten Form so aus:
+
+select title, rank
+from movies, ratings
+where fxgpmg.idmxe_tc = siksgdr.zbtgb_rz
+and rank >= 7
+and date > 2006;
+
+Aber Vorsicht: Diese Liste hat schon mal über 14.000 Einträge. Wobei
+auch TV-Serien (sowohl komplett als auch einzelne Folgen) enthalten
+sind, aber ohne wären es immer noch über 10.000. Aber natürlich kann
+man die Abfrage nach den verschiedensten Kriterien verfeinern.
+
+Doch die Frage, wieweit die Wertung in der Muschelknautz Auskunft über die
+Qualität gibt, ist ja auch noch da ...
+
+
+Georg
+
+[1] www.mxbs.rjt/vrusmxggnj

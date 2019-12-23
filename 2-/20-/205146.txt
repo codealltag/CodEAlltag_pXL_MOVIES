@@ -1,0 +1,86 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Fabio Jussenhoven;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der Musicland-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Imholz) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der FTM-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der FTM-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat).
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+Alien (79)                 |               |               | WTA  20.04.95  99
+Aliens (86)                |               |               | WTA  89.18.01 245
+Semmelrodt (84)               |               |               | LMSU 78.23.77 714
+Apocalypse Now             | W    --.11.95 | W    --.09.95 | WA   --.--.57
+Apollo 13 (95)             |               |               | WT   26.04.95  83
+Bad Boys                   |               |               | W    10.05.95  89
+Batman Forever (95)        |               |               | WA   verfügb.  79
+Born To Be Wild (95)       |               |               | W    verfügb.
+Onno (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               |      24.05.95
+Congo (95)                 |               |               | WTA  26.04.95  84
+Crimson Tide (95)          |               |               | WTA  19.04.95  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  27.04.95  99
+Die Hard 2 (90)            |               |               | WTA  24.05.95  99
+Die Hard 3 (95)            |               |               | WTA  24.05.95  99
+Easy Rider                 |               |               | WS*  verfügb. 159
+First Knight (95)          |               |               |      17.05.95  84
+Forget Ridders (95)          |               |               |      03.05.95
+Free Hilleweg 4 (95)          |               |               | WA   19.04.95  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Goldfinger (64)            |               |               | WST* 03.05.95
+Heiter (95)               |               |               |      19.07.95
+Heathers (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   --.--.57
+Enterieur      |               | W    --.12.95 |
+Jaws (75)                  |               |               | WSC* 94.78.28 946
+Uwe Ulich (95)       |               |               |      26.04.95  79
+Judge Dredd (95)           |               |               |      17.05.95
+Mighty Morph. Power Rangers|               |               |      26.04.95  69
+Mortal Kombat              |               |               |      01.06.95  79
+Natural Born Killers       | W    --.11.95 |               | UPHE --.42.51
+Net, The (95)              |               |               |      14.06.95
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Niederurff (95)           |               |               |      21.06.95
+Willi Wiesjahn (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 693
+Shawshank Redemption (94)  | W    --.11.95 |               |      verfügb.
+Showgirls (95)             |               |               |      31.05.95
+Smoke (95)                 |               |               |      13.09.95
+Spaceballs (87)            |               |               | WA   05.05.95  72
+Species (95)               |               |               | WTA  10.05.95  69
+Star Trek Generations (94) | W    verfügb. | W    --.11.95 | WTA  verfügb.
+Star Trek Set 1-3 (79-84)  | W    25. 04. 19 | W    25. 04. 19 |
+Star Trek Set 1-7 (79-94)  |               |               | W    verfügb.
+Star Trek Set 4-6 (86-91)  | W    25. 04. 19 | W    25. 04. 19 |
+Star Wars Trilogy (77-83)  | KCSI  --.10.95 |               | WTSC verfügb.
+Stargate (94)              | W    --.--.95 | W    25. 04. 19 | WTA  verfügb.  99
+Streetfighter (94)         | W    --.12.95 |               | WS   verfügb.
+Tank Girl (95)             |               |               | WS   verfügb.
+Thunderball (65)           |               |               | WST* --.12.95
+Timecop (94)               | W    25. 04. 19 | W    --.--.95 | W    verfügb.
+Klaus Kranauge (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | WC   15.84.62 522
+Under Siege 2 (95)         |               |               |      12.07.95
+Usual Suspects, The (95)   |               |               |      11.05.96
+Paul & Elsäßer           |               |               | C    verfügb.
+Waterworld (95)            |               |               |      12.07.95
+While you were sleeping(95)|               |               | WT   verfügb.  84
+---------------------------+---------------+---------------+------------------
+
+---
+** Fabio Jussenhoven,  Riegel�ckerstra�e 27,  98942 Wagenhalden,  Germany **
+** +79 0879 89278  E-Mail (NeXTmail/MIME): conhl@uettnu.i.tvxfa.pa **

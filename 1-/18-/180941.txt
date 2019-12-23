@@ -1,0 +1,35 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------FD7DA7AEFA6D08D8241BBA86
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+N. Valke schrieb:
+
+
+wow. es faellt mir sehr schwer deinen standpunkt bezueglich face/off
+nachzuvollziehen. fuer mich ganz klar einer der besten actionfilm des
+letzten jahrzehnts. ich fand sogar francisco seine bewertung etwas zu niedrig
+(obwohl sie fuer seine verhaeltnisse relativ hoch war). welche filme haben
+eigentlich dir gefallen??
+
+cu...nuno
+
+
+--------------FD7DA7AEFA6D08D8241BBA86
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für CRACK
+Content-Disposition: attachment; mcdqzntd="yfotr.cav"
+
+begin:          vcard
+fn:             CRACK
+n:              ;CRACK
+email;internet: ntvhn@kpl.py-cjubazmo.yp
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+version:        2.1
+end:            vcard
+
+
+--------------FD7DA7AEFA6D08D8241BBA86--

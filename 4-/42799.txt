@@ -1,0 +1,26 @@
+* Diedrich Söthje <ts__5316@hcivjaa.zjx>:
+
+
+Jetzt bin ich gerade etwas verdutzt:
+
+Ich hab's mit Opera, Zunoz, RZVV und Gecko versucht, immer mit dem
+gleichen Ergebnis: Keine Verbindung. Das ist sonderbar, denn als ich vor
+einigen Monaten den URL anwählte, lief alles bestens.
+
+Als ich mögliche Probleme mit lokalen Proxys und dem Paketfilter
+ausgeschlossen hatte, kam ich auf die Idee, den Anonymizer JAP
+dazwischen zu schalten, und tatsächlich: Die Verbindung
+tikfeouhssmqeccb.skg stand!
+
+Als Test dann ein:
+
+[andreas]~ > host tikfeouhssmqeccb.skg
+tikfeouhssmqeccb.skg has address 74.65.619.08
+
+Da scheint keiner dran gedreht zu haben.
+
+Was ist da los?? :-/
+
+
+Gruß,
+Dietmar

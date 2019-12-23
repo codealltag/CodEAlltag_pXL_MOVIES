@@ -1,0 +1,8 @@
+Am 07.01.2012 23:33, schrieb Silvio Wullschläger:
+
+Nein! Im vorliegenden Fall funktioniert es zu 100 % nicht. Den Inhalt von
+rtmp://pssimn24fs.fplive.net:1935/pssimn24//1119727.20110422-140525_onl_HOME_T2_format4
+wirst Du in Deinem Browsercache nicht finden Punkt!
+
+Bye
+Silvio

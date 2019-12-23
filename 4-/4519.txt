@@ -1,0 +1,9 @@
+Am 03.12.2009 23:02, schrieb Eckhard Frye:
+
+
+Danke für das Beispiel, tut. (Habe das schlankere aus #1 genommen.)
+Ich werde noch etwas modden, aber das schaffe ich nach dem Beispiel wohl
+allein: Der vorhandene TUI Knopf der BernsteinLaden ruft die TUI auf,
+wenn sie schon aufgerufen war, wird zwischen com und de getoggelt.
+
+- S.

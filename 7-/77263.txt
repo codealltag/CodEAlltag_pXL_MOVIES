@@ -1,0 +1,13 @@
+Siebelt Duetsch schrieb:
+
+
+Ich benutze nicht AMDb, sondern AMDbFront 3.0, aber damit habe
+ich keine Schwierigkeiten, die diffs einzuspielen und die Database
+zu erzeugen. Die Suchmöglichkeiten sind bei AMDbFront auch
+viel ausgefeilter als bei Venezia. Vielleicht solltest Du einfach
+umsteigen, statt noch länger rumzuprobieren.
+
+
+Ich mache jede Woche das Update.
+
+Eugen

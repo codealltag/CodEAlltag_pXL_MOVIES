@@ -1,0 +1,23 @@
+Witz lach lach, das ist eine Sicherheitsloch in einigen PGP-Versionen,
+es gibt da Masterschl�ssel
+
+
+ich glaube kaum, dass Zschippig (keine Hacker) das notwendige Wissen haben
+um Satelliten anzuzapfen, allein die Geräte dazu sind fast unbezahlbar
+(ab 5000Eur gehts los und noch 1000EUR für die Antenne), und das
+Wissen braucht man auch noch um erst einmal an die Verschlüsselten
+Daten ranzukommen (da Gerät was ich meine beherscht Frequenzhoping).
+Allein wenn die Satelliten nicht geostationär sind wird der Aufwand größer
+(die besagten Antennen für 1000EUR, die mit aktiver Phasensteuerung arbeiten,
+heutzutage bei Radaranlagen zu finden, wo sich nichts dreht, wohl
+aber die Empfangsrichtung)
+
+
+noch ein Witz, man kann auch ohne Eingriff in die Geräte, die Daten auskoppeln,
+arbeiten ja mit über 100Mhz.
+
+
+-- 
+DM2CRD: "Im Bergwerg ist eine Lang-Yagi ein toter Rohrhaufen"
+
+Please delete nospam in the mail address, if it is in it, for emailcontact.

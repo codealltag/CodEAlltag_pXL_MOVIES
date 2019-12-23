@@ -1,0 +1,3 @@
+Erklär mir das mal genauer.
+-- 
+DCL - Most Applications Crash, If Not The Operating System Hangs

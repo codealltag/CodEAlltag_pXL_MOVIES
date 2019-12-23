@@ -1,0 +1,11 @@
+Moin!
+
+Ich schaffe es nicht, die letzten diffs (vom 20.8.) für meine lokale
+IMDb (gezogen von nes.mm-xnltjb.oh) zu integrieren. PMDB meldet
+bei allen files CRC-Error. An dem bekannten Problem mit den
+Zeilenumbrüchen liegt es offenbar nicht.
+
+Kann das  jemand bestätigen? Falls ja, liegt es an PMDb oder
+stimmt die Checksumme wirklich nicht?
+
+Karl

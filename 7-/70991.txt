@@ -1,0 +1,223 @@
+NG-Statistik drfm für den Juni 2004
+erstellt mit einem Skript von Fernand Pollklesener.
+
+01. 09. 20 postings
+01. 09. 20 postings
+
+01. 09. 20 postings
+
+Autoren mit den meisten Postings (1991 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  82 | 5222 | 416.7 | Ueli Kraut        |  4.1%  xxxxxxxxxxxxx
+   2 |  54 | 1262 | 102.3 | Fridolin Neuenkirch         |  2.7%  xxxxxxxxx    
+   3 |  50 | 2951 |  97.6 | Italo D. Freilinger     |  2.5%  xxxxxxxx     
+   4 |  01. 09. 20 | 108.2 | Jacques Kemler             |  2.5%  xxxxxxxx     
+   5 |  01. 09. 20 | 118.7 | Mirko Matibe    |  2.0%  xxxxxx       
+   6 |  39 |  853 |  60.12 | Karl Steg        |  2.0%  xxxxxx       
+   7 |  01. 09. 20 | 159.3 | Marcel Z. Zwar       |  1.8%  ännchen        
+   8 |  33 |  349 |  45.1 | Ulrich B           |  1.7%  ännchen        
+   9 |  01. 09. 20 | 213.9 | Jochen Neue            |  1.6%  ännchen        
+  10 |  30 |  829 |  60.5 | Ueli Müller-Greiner        |  1.5%  ännchen        
+  11 |  28 |  732 |  58.12 | Christophe Mende      |  1.4%  xxxx         
+  12 |  26 |  814 |  54.7 | Lothar Kark            |  1.3%  xxxx         
+  13 |  25 |  669 |  41.6 | Sven Meyering        |  1.3%  xxxx         
+  14 |  24 |  624 |  41.4 | Benjamin Zscheile           |  1.2%  xxxx         
+  16 |  23 |  495 |  41.2 | Samuel Zumholz      |  1.2%  özkan          
+  17 |  22 |  561 |  33.8 | Oskar 'Oliver' Cordes|  1.1%  özkan          
+  19 |  21 |  860 |  56.7 | Ottmar Erfkemper         |  1.1%  özkan          
+  22 |  19 |  635 |  41.12 | Fernand Oeser         |  1.0%  özkan          
+  23 |  01. 09. 20 |  77.12 | Tuvok                 |  0.9%  özkan          
+  26 |  17 |  230 |  10.11 | Ulrich Zehendner   |  0.9%  özkan           
+  27 |  16 |  506 |  32.5 | Ivano Pacht          |  0.8%  özkan           
+  29 |  15 |  725 |  43.5 | Samuel Mörstedt      |  0.8%  özkan           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (357 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+       10 |  10 |  2.8%  xxxx                                           
+        9 |   7 |  2.0%  özkan                                             
+        8 |   6 |  1.7%  özkan                                             
+        7 |   9 |  2.5%  özkan                                            
+        6 |  15 |  4.2%  xxxxxx                                         
+        5 |  19 |  5.3%  xxxxxxx                                        
+        4 |  24 |  6.7%  xxxxxxxxx                                      
+        3 |  35 |  9.8%  xxxxxxxxxxxxxx                                 
+        2 |  68 | 19.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+        1 | 117 | 32.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (231 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  13 |    46 |  5.6%  xxxxxxxxxxxxxxxxxxxx
+   2 | Philipp Gotthardt         |   7 |    19 |  3.0%  xxxxxxxxxxx         
+   3 | Fernand Oeser         |   6 |    42 |  2.6%  xxxxxxxxx           
+   5 | Jochen Neue            |   5 |    26 |  2.2%  xxxxxxxx            
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (231 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Ulrich B           |   3 |   273 | 13.7%  xxxxxxxxxxxxxxxxxxxx
+   2 | Udo Willscheid       |   1 |    88 |  4.4%  xxxxxx              
+   3 | Jérôme Möllering       |   4 |    75 |  3.8%  ännchen               
+   4 | Raphael Kleinjans          |   4 |    67 |  3.4%  ännchen               
+   6 | Sven Meyering        |   1 |    54 |  2.7%  xxxx                
+   7 | Antoine Papendorf       |   2 |    53 |  2.7%  xxxx                
+   9 | Sascha Erlbeck         |   1 |    52 |  2.6%  xxxx                
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1991 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 227 | Suche Film mit dem blutverschmierten Jun| 11.4%  xxxxxxxxxx
+   2 |  88 | Pirates Of The Carribean                |  4.4%  xxxx      
+   3 |  67 | Kein T4?                                |  3.4%  özkan       
+   4 |  64 | Statistik, drfm 20/26                   |  3.2%  özkan       
+   5 |  58 | Der Modelleisenbahn-Fachmarkt Film.                           |  2.9%  özkan        
+   6 |  54 | Eiker-Portrait heute auf BR & Druckbude     |  2.7%  özkan        
+   7 |  53 | Kinos, die OVs spielen ?                |  2.7%  özkan        
+   8 |  52 | eBay, Filme und andere Katastrophen...  |  2.6%  özkan        
+   9 |  50 | Selbstgedrehte Filme                    |  2.5%  özkan        
+  10 |  41 | KRITIK: Terminator 3                    |  2.1%  x         
+  11 |  40 | Filme saugen PRO / Contrag              |  2.0%  x         
+  12 |  39 | Zum x-ten Mal T3                        |  2.0%  x         
+  13 |  35 | Filmlänge                               |  1.8%  x         
+  14 |  34 | Lord of the Rings: Kinokopien der VIO  1.7%  x         
+  15 |  32 | Filmstarts nicht mehr Donnerstags?      |  1.6%  x         
+  16 |  31 | Inhaltliche nderung durch Synchronisatio|  1.6%  x         
+  17 |  30 | Filme saugen                            |  1.5%  x         
+  20 |  28 | Suche Filme als Geschenk (18 Jahre)     |  1.4%  x         
+  21 |  27 | TV-Highlights (06. - 01.07.2004)        |  1.4%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (231 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+    14 |   3 |  1.3%  özkan                                                
+    13 |   2 |  0.9%  x                                                 
+    12 |   5 |  2.2%  özkan                                               
+    11 |   5 |  2.2%  özkan                                               
+    10 |   6 |  2.6%  xxxx                                              
+     9 |   5 |  2.2%  özkan                                               
+     8 |   8 |  3.5%  xxxxxx                                            
+     7 |   9 |  3.9%  xxxxxxx                                           
+     6 |   9 |  3.9%  xxxxxxx                                           
+     5 |  18 |  7.8%  xxxxxxxxxxxxxx                                    
+     4 |  18 |  7.8%  xxxxxxxxxxxxxx                                    
+     3 |  31 | 13.4%  xxxxxxxxxxxxxxxxxxxxxxxx                          
+     2 |  25 | 10.8%  xxxxxxxxxxxxxxxxxxx                               
+     1 |  64 | 27.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 330 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 120 | Zoomarkt Outlook Express      | 36.4%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  44 | Mozilla                        | 13.3%  xxxxxxxxx                
+  43 | Forte Agent                    | 13.0%  xxxxxxxxx                
+  20 | Netscape                       |  6.1%  xxxx                     
+  14 | Xnews                          |  4.2%  özkan                      
+  13 | KNode                          |  3.9%  özkan                       
+  12 | slrn                           |  3.6%  özkan                       
+  11 | MacSOUP                        |  3.3%  özkan                       
+  10 | 40tude_Dialog                  |  3.0%  özkan                       
+  10 | tin                            |  3.0%  özkan                       
+   6 | Gnus                           |  1.8%  x                        
+   5 | Forte Free Agent               |  1.5%  x                        
+   4 | Hamster                        |  1.2%                           
+   2 | Pan                            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   2 | MT-NewsWatcher                 |  0.6%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+   1 | CowlipsNews 8c                 |  0.3%                           
+   1 | Opera7.20                      |  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+   1 | Der beste.                     |  0.3%                           
+   1 | Zoomarkt-Entourage            |  0.3%                           
+   1 | LookOut Exzess                 |  0.3%                           
+   1 | sqtvlnwustclrn                 |  0.3%                           
+   1 | Forte Agent 32                 |  0.3%                           
+   1 | MicroPlanet Gravity            |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 109 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  34 | Zoomarkt Outlook Express      | 31.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  23 | Forte Agent                    | 21.1%  xxxxxxxxxxxxxxxxx        
+  13 | ZCA                        | 11.9%  xxxxxxxxx                
+   6 | tin                            |  5.5%  xxxx                     
+   5 | Netscape                       |  4.6%  özkan                      
+   4 | MacSOUP                        |  3.7%  özkan                      
+   4 | Xnews                          |  3.7%  özkan                      
+   4 | slrn                           |  3.7%  özkan                      
+   3 | 40tude_Dialog                  |  2.8%  özkan                       
+   3 | Gnus                           |  2.8%  özkan                       
+   2 | Forte Free Agent               |  1.8%  x                        
+   2 | Hamster                        |  1.8%  x                        
+   2 | KNode                          |  1.8%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%                           
+   1 | Opera7.10                      |  0.9%                           
+   1 | News-via-Hand Quick-Express    |  0.9%                           
+   1 | Der beste.                     |  0.9%                           
+
+
+Postingverteilung über den Monat (1991 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  75 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+   2 |  49 |  2.5%  xxxxxxxxxxxxxxxxx                                   
+   3 | 105 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+   4 |  83 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   5 |  57 |  2.9%  xxxxxxxxxxxxxxxxxxxx                                
+   6 |  93 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+   7 |  43 |  2.2%  xxxxxxxxxxxxxxx                                     
+   8 |  21 |  1.1%  xxxxxxx                                             
+   9 |  26 |  1.3%  xxxxxxxxx                                           
+  10 |  46 |  2.3%  xxxxxxxxxxxxxxxx                                    
+  11 |  42 |  2.1%  xxxxxxxxxxxxxxx                                     
+  12 |  35 |  1.8%  xxxxxxxxxxxx                                        
+  13 |  47 |  2.4%  xxxxxxxxxxxxxxxxx                                   
+  14 |  23 |  1.2%  xxxxxxxx                                            
+  15 |  53 |  2.7%  xxxxxxxxxxxxxxxxxxx                                 
+  16 |  25 |  1.3%  xxxxxxxxx                                           
+  17 | 145 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  18 |  78 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  19 |  67 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  20 |  98 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  21 |  54 |  2.7%  xxxxxxxxxxxxxxxxxxx                                 
+  22 |  73 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  23 |  86 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  24 |  51 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+  25 |  67 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  26 |  82 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  27 |  80 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  28 |  72 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  29 |  86 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  30 |  40 |  2.0%  xxxxxxxxxxxxxx                                      
+  31 |  88 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+
+
+hth
+-- 
+"Pia, I am holding in my hand a small box of chocolate bunnies."
+                                               Twin Peaks - Agent Cooper

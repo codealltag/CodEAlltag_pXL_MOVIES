@@ -1,0 +1,10 @@
+Laut einem Artikel in der letzten (deutschen) BYTE hat die Firma
+iCompression einen Encoder-Chip fuer ca. $200 in der Mache, der demnaechst
+in Serie gehen soll, ebenso eine weitere Firma. MPEG-2 Echtzeitkompression
+wird also erheblich schneller "preiswert" zu haben sein, als MPEG-1.
+
+Tschuess,
+Berthold
+-- 
+Berthold Delle, Bodenhof, Germany
+mailto:d98d@fjj.jjn-tjokix.mq -- http://cpb3.tsv-fgbpxl.gq/~s34o/

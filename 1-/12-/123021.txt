@@ -1,0 +1,6 @@
+"Gabriel L. Ullm" wrote:
+                                                               ^
+Das Leerzeichen vor dem Satzzeichen kann zu unschönen Umbrüchen führen
+und soll deshalb lieber zu weggelassen werden.
+
+Olivier Brauch

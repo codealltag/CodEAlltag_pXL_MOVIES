@@ -1,0 +1,12 @@
+Am 24.3.2000 keiner, das ist ein Dienstag.
+Da Filme in USA mittwochs herauskommen, wäre die Frage, was am 25.3. geboten wird:
+
+pfk@schnecke:/home/pfk/imdb/list > grep "19. 09. 20" release-dates.list
+Star Wars: Episode I (2000)                             USA:26 May 2000
+pfk@schnecke:/home/pfk/imdb/list > _
+
+-- 
+Othmar Jongmanns
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

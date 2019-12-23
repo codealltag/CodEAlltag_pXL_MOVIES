@@ -1,0 +1,18 @@
+Hallo,
+
+Ingolf Völlmann schrieb:
+
+Wie kommst Du denn auf 6 * 16?
+Ich hatte gerechnet: 20 * log (2^16 / 2^0). Aber vielleicht kommt
+da das selbe raus.
+
+Mit nichtlinearer Codierung ergibt sich natuerlich etwas anderes.
+
+Gruss
+  Ingolf
+
+-- 
+=================================================================
+Ingolf Wallschlag
+E-Mail: rreop.dxavcp@nrnduly.qri-fghbntsgv.hl
+Homepage: http://qrtojs.bql.umk-crmiwpkzn.zu/~oav47090/gtpl.higm

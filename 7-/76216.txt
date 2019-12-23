@@ -1,0 +1,15 @@
+U = 21 = 2+1 = 3
+G = 7
+L = 12 = 1+2 = 3
+
+3+7+3 = 13
+
+Eine Unglückszahl!
+
+
+Das erste Wort ist "Fnord"...
+
+
+Gruß, Bernard
+-- 
+PGP RSA Key: 6v88MXU30K / K410 8LZU QQ6V R514 Y14M P485 W1S7 UY01

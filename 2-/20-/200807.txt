@@ -1,0 +1,27 @@
+Ullrich Büsch <lcqryna@tjjyi.rwns.qw-gdntmlza.ab> wrote in article
+<59J289C4.5XGL@gqhou.itiv.jp-lafscaft.zh>...
+erste
+
+
+Die sollte eigentlich schon laufen... Bloss es gibt dauernd Probleme mit
+verschiedenen Routern.
+
+Mit "finger 591@noc.dfn.de" bekommt man eine aktuelle Zustandsmeldung. Der
+letzte Eintrag lautet:
+-----
+Montag 17.7.96 13:30 ts
+-----------------------
+Nachdem die Strecke zeitweilig wieder in Betrieb war ist sie nun
+wieder ausgefallen. Es handelt sich um ein Problem am Netzknoten
+in Oppelsbohm. Die JSAK ist unterrichtet und arbeitet daran.
+-----
+
+WENN die Leitung aber arbeitet, ist es zu den meisten Sites in den Staaten
+moerderisch fix.
+
+Tschuess,
+Norbert
+-- 
+Norbert Woyner                           Student of Computer Science
+Höhenland                              E-Mail: i38o@hre.qjd-jfjqbe.mk
+Germany              WWW: http://kpz-fgus.tzi.znx-yqpeyo.si/~j13s/

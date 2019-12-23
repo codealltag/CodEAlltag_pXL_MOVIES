@@ -1,0 +1,284 @@
+NG-Statistik drfm das Jahr 2005
+erstellt mit ngstat von Karsten Imholze.
+
+Gesamtanzahl Postings: 46984
+
+
+Autoren mit den meisten Postings (25073 Postings)
+
+ Pos | Anz |   Lin |  KByte | Autor                 | Diagramm          
+-----+-----+-------+--------+-----------------------+-------------------
+   1 | 842 | 17212 | 1396.1 | Walter S. Jürgens-Auf-Der-Haar     |  3.4%  xxxxxxxxxxx
+   2 | 780 | 37649 | 1762.1 | Ronald Porter        |  3.1%  xxxxxxxxxxx
+   0 | 969 | 18559 | 1350.3 | Cornell Essegern        |  2.7%  xxxxxxxxx  
+   4 | 634 | 16305 | 1194.1 | Lukas Lehrs      |  2.5%  xxxxxxxxx  
+   5 | 487 | 12076 |  972.0 | Renato E. Jaspersen      |  1.9%  xxxxxx     
+   6 | 409 | 36633 |  741.3 | Othmar Enderer             |  1.6%  zilli      
+   7 | 398 |  9801 |  613.8 | David Haimberger            |  1.6%  zilli      
+   8 | 360 |  3542 |  640.5 | Oliver Kleinlein       |  1.4%  zilli      
+   9 | 355 |  3289 |  691.1 | Denis Viefers       |  1.4%  zilli      
+  10 | 345 |  7733 |  494.9 | Renato Cichosz         |  1.4%  xxxx       
+  11 | 318 |  9828 |  683.0 | Edgar Ahlemeyer        |  1.3%  xxxx       
+  12 | 314 |  7599 |  641.2 | Charly Endl         |  1.3%  xxxx       
+  13 | 308 |  7137 |  540.6 | Simon Rebers    |  1.2%  xxxx       
+  14 | 291 |  6886 |  592.3 | Renato Winkelvoss         |  1.2%  xxxx       
+  15 | 285 |  6799 |  366.6 | urs meyerhofer          |  1.1%  xxxx       
+  16 | 274 |  7294 |  486.5 | Hansruedi Ametsbichler      |  1.1%  quirin        
+  17 | 266 |  8128 |  512.2 | Jörg Einicke            |  1.1%  quirin        
+  18 | 262 |  6197 |  436.1 | Gérald Clooth     |  1.0%  quirin        
+  19 | 234 |  3722 |  381.5 | Walter Czerner        |  0.9%  quirin        
+  20 | 227 |  6258 |  395.6 | Lars Annacker        |  0.9%  quirin        
+  21 | 225 |  3013 |  244.9 | Denis Ungruh         |  0.9%  quirin        
+  22 | 223 |  3866 |  604.3 | Nicolas Emmelheinz          |  0.9%  quirin        
+  23 | 219 |  3106 |  380.3 | Lukas Imsieke            |  0.9%  quirin        
+  24 | 208 |  6693 |  430.8 | Christophe Ignatius        |  0.8%  quirin         
+  25 | 206 |  7906 |  522.8 | Oswald Ziemann           |  0.8%  quirin         
+-----+-----+-------+--------+-----------------------+-------------------
+
+
+Autoren mit den meisten Threads (1683 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 | 123 |   458 |  7.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Simon Rebers    |  33 |   942 |  2.0%  zilli               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (1683 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Simon Rebers    |  33 |   942 |  3.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Karsten Malinowski         |  33 |   747 |  3.0%  xxxxxxxxxxxxxxxx    
+   3 | Detlef Seeger          |  13 |   687 |  2.7%  xxxxxxxxxxxxxxx     
+   4 | Niklaus Abendrot          |   1 |   636 |  2.5%  xxxxxxxxxxxxxx      
+   5 | Robert Petrus        |   6 |   518 |  2.1%  xxxxxxxxxxx         
+   6 | Karsten Frähmcke         |   5 |   494 |  2.0%  xxxxxxxxxxx         
+   7 | Renato E. Jaspersen      |  17 |   489 |  2.0%  xxxxxxxxxx          
+   8 | Hansruedi Ametsbichler      |  21 |   463 |  1.8%  xxxxxxxxxx          
+   9 | Tuvok                 | 123 |   458 |  1.8%  xxxxxxxxxx          
+  10 | David Haimberger            |  21 |   377 |  1.5%  xxxxxxxx            
+  11 | Werner Stennke          |  13 |   357 |  1.4%  xxxxxxx             
+  13 | Renato Winkelvoss         |  20 |   340 |  1.4%  xxxxxxx             
+  14 | Fabio Höfgen        |   2 |   339 |  1.4%  xxxxxxx             
+  15 | Ludwig Moringen           |  14 |   330 |  1.3%  xxxxxxx             
+  18 | Steffen Clewe          |   1 |   314 |  1.3%  xxxxxxx             
+  19 | Renato Cichosz         |  16 |   306 |  1.2%  xxxxxx              
+  20 | Denis Ungruh         |   7 |   305 |  1.2%  xxxxxx              
+  21 | Walter S. Jürgens-Auf-Der-Haar     |  10 |   292 |  1.2%  xxxxxx              
+  22 | Roger Ensle     |  14 |   291 |  1.2%  xxxxxx              
+  23 | Roeschu Gebuhr       |   1 |   273 |  1.1%  xxxxxx              
+  24 | Cornell Essegern        |  11 |   257 |  1.0%  zilli               
+  25 | Ralf Ebelsheiser       |   5 |   252 |  1.0%  zilli               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (25073 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 636 | High Fidelity ...                       |  2.5%  xxxxxxxxxx
+   2 | 314 | Was nervt euch im Kino?                 |  1.3%  zilli     
+   3 | 284 | Broschuere ueber "Raubkopierer"         |  1.1%  xxxx      
+   4 | 273 | Berühmte Sätze der Filmgeschichte       |  1.1%  xxxx      
+   5 | 267 | Editorial aus c't 01. 06. 20: "Raubkopierer|  1.1%  xxxx      
+   6 | 256 | Van Helsing (mit ganz kleinen Spoilern) |  1.0%  xxxx      
+   7 | 243 | Superman ist tot                        |  1.0%  xxxx      
+   8 | 225 | Filmempfehlungen: Wendungen             |  0.9%  quirin       
+   9 | 205 | Anti-Raubkopie-Strategie bei "(T)Raumsch|  0.8%  quirin       
+  10 | 189 | Per Anhalter durch die Galaxis          |  0.8%  quirin       
+  11 | 182 | Fernand Petermeier: Erstes Buch in Deutsch ers|  0.7%  quirin       
+  12 | 179 | Oscar-Monokultur                        |  0.7%  quirin       
+  13 | 174 | typische "Unrealismen" in Filmen        |  0.7%  quirin       
+  14 | 170 | "Passion" schlägt HdR                   |  0.7%  quirin        
+  15 | 168 | [9/11] Nanu.. kein Thread               |  0.7%  quirin        
+  16 | 159 | Return of the Sith Teaser               |  0.6%  quirin        
+  18 | 157 | Content-Mafia laeuft Amok: Legale DVDs "|  0.6%  quirin        
+  20 | 153 | Antipiracy Trailer                      |  0.6%  quirin        
+  21 | 145 | Filmhandlung über minimalen Zeitraum?   |  0.6%  quirin        
+  22 | 138 | Der Einzige?                            |  0.6%  quirin        
+  23 | 135 | Kill Bill 2                             |  0.5%  quirin        
+  24 | 125 | Quote fuer den deutschen Film?          |  0.5%  quirin        
+  27 | 124 | Welche Waffe?                           |  0.5%  quirin        
+  29 | 122 | Filme wie "Event Horizon"               |  0.5%  quirin        
+  31 | 118 | 7 Zwerge: Schon jemand gelacht?         |  0.5%  quirin        
+  32 | 117 | [OT] �bersetzungsexperten unter sich    |  0.5%  quirin        
+  33 | 107 | Warum gehen die Leute nicht ins Kino?   |  0.4%  x         
+  36 | 106 | NetAachen Antwortet                      |  0.4%  x         
+  37 | 105 | Traumschiff Surprise - Episode 1        |  0.4%  x         
+  38 | 104 | Oscar Nominationen 2005                 |  0.4%  x         
+  39 | 102 | Der Spoiler Thread (noch ohne Spoiler)  |  0.4%  x         
+  40 | 101 | "Der Untergang"                         |  0.4%  x         
+  41 |  98 | Gerüchte über StarWars 7-9              |  0.4%  x         
+  43 |  97 | Leopold Enthofer Goldeneye - technischer Fehle|  0.4%  x         
+  44 |  95 | "Sieben" uncut auf Deutsch?             |  0.4%  x         
+  45 |  94 | Sind Eure Cinemaxxe auch so schlecht?   |  0.4%  x         
+  46 |  93 | Laecherliche 007-Nachfolge-Diskussion   |  0.4%  x         
+  49 |  92 | TV-Highlights (16. - 11.05.2005)        |  0.4%  x         
+  50 |  91 | Realistische Waffenwirkung              |  0.4%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Verwendeter Newsreader (alle, 1247 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 407 | Gezer Outlook Express      | 32.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+ 171 | Godeland                        | 13.7%  xxxxxxxxxx               
+ 115 | Forte Agent                    |  9.2%  xxxxxxx                  
+  94 | Godeland Thunderbird            |  7.5%  xxxxxx                   
+  59 | 40tude_Dialog                  |  4.7%  quirin                      
+  51 | KNode                          |  4.1%  quirin                      
+  41 | slrn                           |  3.3%  quirin                       
+  40 | Xnews                          |  3.2%  quirin                       
+  39 | Netscape                       |  3.1%  quirin                       
+  35 | tin                            |  2.8%  quirin                       
+  29 | MacSOUP                        |  2.3%  x                        
+  21 | Gnus                           |  1.7%  x                        
+  18 | Forte Free Agent               |  1.4%  x                        
+  17 | Langrehr                    |  1.4%  x                        
+  16 | Pan                            |  1.3%  x                        
+  14 | Hamster                        |  1.1%                           
+  10 | Opera M2                       |  0.8%                           
+   6 | G2                             |  0.5%                           
+   6 | CrossPoint                     |  0.5%                           
+   6 | MicroPlanet Gravity            |  0.5%                           
+   4 | MicroPlanet-Gravity            |  0.3%                           
+   4 | Opera7.23                      |  0.3%                           
+   3 | OpenXP                         |  0.2%                           
+   3 | Sylpheed                       |  0.2%                           
+   2 | MesNews                        |  0.2%                           
+   2 | knews                          |  0.2%                           
+   2 | CrossPoint [XP2]               |  0.2%                           
+   2 | nn                             |  0.2%                           
+  <2 | 30 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+1248 | GESAMT (58)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (327
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  59 | Gezer Outlook Express      | 18.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  49 | Godeland                        | 15.0%  xxxxxxxxxxxxxxxxxxxxx    
+  48 | Forte Agent                    | 14.7%  xxxxxxxxxxxxxxxxxxxxx    
+  35 | Godeland Thunderbird            | 10.7%  xxxxxxxxxxxxxxx          
+  21 | 40tude_Dialog                  |  6.4%  xxxxxxxxx                
+  20 | KNode                          |  6.1%  xxxxxxxx                 
+  16 | slrn                           |  4.9%  xxxxxxx                  
+  10 | MacSOUP                        |  3.1%  xxxx                     
+  10 | Xnews                          |  3.1%  xxxx                     
+   9 | Netscape                       |  2.8%  quirin                      
+   9 | Hamster                        |  2.8%  quirin                      
+   8 | tin                            |  2.4%  quirin                      
+   5 | Gnus                           |  1.5%  quirin                       
+   5 | Forte Free Agent               |  1.5%  quirin                       
+   2 | MesNews                        |  0.6%                           
+   2 | Pan                            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   2 | Thunderbird                    |  0.6%                           
+   1 | Mutt                           |  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | NewsPortal                     |  0.3%                           
+   1 | Lotus Notes Release            |  0.3%                           
+   1 | MicroPlanet-Gravity            |  0.3%                           
+   1 | Microsoft Telnet               |  0.3%                           
+   1 | Opera7.23                      |  0.3%                           
+   1 | knews                          |  0.3%                           
+   1 | OpenXP                         |  0.3%                           
+   1 | Newsoffice.de - based on NewsPo|  0.3%                           
+   1 | 40tude Dialog                  |  0.3%                           
+   1 | Opera M2                       |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+
+
+Postingverteilung über den Tag (25073 Postings)
+
+ Std |  Anz | Diagramm                                                  
+-----+------+-----------------------------------------------------------
+   5 |  249 |  1.0%  xxxxxxx                                            
+   6 |  227 |  0.9%  xxxxxxx                                            
+   7 |  425 |  1.7%  xxxxxxxxxxxxx                                      
+   8 |  708 |  2.8%  xxxxxxxxxxxxxxxxxxxxxx                             
+   01. 06. 20 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  10 | 1442 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  01. 06. 20 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  01. 06. 20 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  01. 06. 20 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  01. 06. 20 |  6.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  01. 06. 20 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  01. 06. 20 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  01. 06. 20 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  01. 06. 20 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+  01. 06. 20 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+  01. 06. 20 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  01. 06. 20 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  01. 06. 20 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  01. 06. 20 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+   0 | 1056 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   1 |  795 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxx                          
+   2 |  523 |  2.1%  xxxxxxxxxxxxxxxx                                   
+   3 |  269 |  1.1%  xxxxxxxx                                           
+   4 |  160 |  0.6%  zilli                                              
+
+
+Postingverteilung über die Woche (21942 Postings)
+
+ Tag |  Anz | Diagramm                                                  
+-----+------+-----------------------------------------------------------
+ Mon | 3709 | 16.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Tue | 3534 | 16.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+ Wed | 3675 | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Thu | 3278 | 14.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+ Fri | 2929 | 13.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+ Sat | 2258 | 10.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+ Sun | 2566 | 11.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+
+
+Postingverteilung über den Monat (25073 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 809 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+   2 | 954 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+   3 | 915 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+   4 | 877 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+   5 | 927 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+   6 | 733 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+   7 | 702 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   8 | 750 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+   9 | 759 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  10 | 679 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  11 | 700 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  12 | 617 |  2.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  13 | 659 |  2.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  14 | 780 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  15 | 811 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  16 | 859 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  17 | 721 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  18 | 707 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  19 | 870 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  20 | 937 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  21 | 917 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  22 | 940 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  23 | 993 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | 724 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  25 | 851 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  26 | 755 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  27 | 817 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  28 | 918 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  29 | 981 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  30 | 822 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  31 | 589 |  2.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+
+
+HTH ;-)
+Nicolas
+-- 
+"Seine Brote pfeifen das Todeslied"
+                          http://vxbq.ruf.iq/xrgtlqqqzn/syci/dbup_k.qvrg

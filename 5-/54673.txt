@@ -1,0 +1,23 @@
+Jan Overhoff schrieb:
+
+
+Ja, die Qualität hat nachgelassen, siehe auch
+<n8i3wd$6nhq9p$7@WV-40037.nylz.cag-qhkmbd.ba>
+
+
+Wenn Du die Datei ansiehst, findest Du ab Zeile 1948 etwa 40 Leerzeilen,
+die da nicht sein dürften, und die ApplyDif aussteigen lassen.
+
+
+Da habe ich den Grund nicht gefunden.
+
+
+Nein.
+
+
+Trivia.list komplett runterladen und deine jetzige Version damit
+ersetzen. Die ist ja zum Glück nicht so groß wie die actors.list.
+Dann sollten die neuen diffs, die dieses Wochenende kommen,
+wieder komplett funktionieren.
+
+Edwin

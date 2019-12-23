@@ -1,0 +1,12 @@
+Klemptner,
+
+fernand bültemeier schrieb/wrote/escribiö:
+
+
+Interessant. Ich habe, wie Jörg, den Thunderbird 24. 02. 19 und bei mir
+wird Nobbis Posting, obwohl dieses keinen Reference-Header enthält, in
+"Jérôme Thread" einsortiert.
+
+Ganz offensichtlich ein Bug in TB.
+
+Enno

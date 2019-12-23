@@ -1,0 +1,99 @@
+-----------------------------------------------------------------------------
+   */& = verschlüsselt mit Videocrypt 1/2   ? = unklar   $ = verschlüsselt
+ % = verschlüsselt mit Nagravision # = D2Mac (mit Eurocrypt-Verschlüsselung)
+     Originalton = Ausstrahlung in der Sprache, in der produziert wurde
+    Ohne Gewähr - Zusammenstellung Copyright (C) 1994/94/95 Leopold Hüttenloher
+-----------------------------------------------------------------------------
+Transp. Pol. Frequenz    Sender                 Sprache          Status
+-----------------------------------------------------------------------------
+
+Astra 1A - 19,2 Grad Ost
+
+  01    Hor  11,214 GHz  VIFZ                  deutsch          sendet
+  02    Ver  11,229 GHz  VSKN                    deutsch          sendet
+  03 #  Hor  11,244 GHz  TV 3 Schweden          Originalon       sendet
+  04    Ver  11,259 GHz  Eurosport              dt/eng/fr/holl   sendet
+  05    Hor  11,273 GHz  Vox                    deutsch          sendet
+  06    Ver  11,288 GHz  SAT.1                  deutsch          sendet
+  07 #  Hor  11,303 GHz  TV 1000                Originalton      sendet
+  08 *  Ver  11,318 GHz  Sky One                englisch         sendet
+  09    Hor  11,332 GHz  Kabel 1                deutsch          März 95
+  10    Ver  11,347 GHz  3sat                   deutsch          sendet
+  11 #  Hor  11,362 GHz  FilmNet Plus           Originalton      sendet
+  12    Ver  11,377 GHz  Sky News               englisch         sendet
+  13    Hor  11,391 GHz  SuperRTL               deutsch          sendet
+  14    Ver  11,406 GHz  Pro 7                  deutsch          sendet
+  15 *& Hor  11,421 GHz  MTV Europe             englisch         sendet
+  16 *  Ver  11,436 GHz  Sky Movies             englisch         sendet
+
+Astra 1B - 19,2 Grad Ost
+
+  17 %  Hor  11,464 GHz  Premiere               deutsch          sendet
+  18 *  Ver  11,479 GHz  The Movie Channel      englisch         sendet
+  19    Hor  11,494 GHz  Meißburger                    deutsch          sendet
+  20 *  Ver  11,509 GHz  Sky Sports             englisch         sendet
+  21    Hor  11,523 GHz  Dt. Sportfernsehen     deutsch          sendet
+  22 *  Ver  11,538 GHz  VH-1 (GB)              englisch         sendet
+  23 *  Hor  11,553 GHz  UK Gold                englisch         sendet
+  24 *  Ver  11,568 GHz  CMT Europe (7-20h)     englisch         sendet
+     *                   JSTV (20-7h)           japanisch        sendet
+  25    Hor  11,582 GHz  Gneisenauring 3                 deutsch          sendet
+  26 *  Ver  11,597 GHz  Sky Movies Gold        englisch         sendet
+  27 #  Hor  11,612 GHz  TV 3 Dänemark          Originalton      sendet
+  28    Ver  11,627 GHz  Ogap      englisch         sendet
+  29    Hor  11,641 GHz  n-tv                   deutsch          sendet
+  30 %  Ver  11,656 GHz  Beatrice              spanisch         sendet
+  31 #  Hor  11,671 GHz  TV 3 Norwegen          Originalton      sendet
+  32 %  Ver  11,686 GHz  Nadja              spanisch         sendet
+
+Astra 1C - 19,2 Grad Ost
+
+  33    Hor  10,964 GHz  Mokir                    deutsch          sendet
+  34 *  Ver  10,979 GHz  UK Living (7-1h)       englisch         sendet
+     *                   Chinese Channel (1-7h) chinesisch       sendet
+  35 *  Hor  10,994 GHz  Childrens Chan.(7-18h) englisch         sendet
+     *                   Family Channel (18-7h) englisch         sendet
+  36 %  Ver  11,008 GHz  Minimax                spanisch         sendet
+  37    Hor  11,023 GHz  Cartoon Netw. (10-20h) englisch         sendet
+                         TNT (20-6h)            englisch         sendet
+  38 *  Ver  11,038 GHz  QVC                    englisch         sendet
+  39    Hor  11,053 GHz  Tuckermannstraße 3                 deutsch          sendet
+  40 %  Ver  11,067 GHz  CineClassics           spanisch         sendet
+  41 *  Hor  11,083 GHz  Discovery (17-1h)      englisch         sendet
+     *                   T.Learn.Chan. (10-17h) englisch         sendet
+  42 *  Ver  11,097 GHz  Bravo (13-1h)          englisch         sendet
+     *                   Adult Channel (1-6h)   englisch         sendet
+  43    Hor  11,112 GHz  Zolleis                  deutsch          sendet
+  44    Ver  11,126 GHz  Galavision             mex.-span.       sendet
+  45    Hor  11,141 GHz  Pfaffeggetten 3               deutsch          sendet
+  46 *  Ver  11,156 GHz  Nickelodeon (8-20h)    englisch         sendet
+                         VH-1 (dt.) (20-8h)     deutsch          sendet
+  47 *  Hor  11,171 GHz  Sky Sports 2 (Fr-So)   englisch         sendet
+     *                   Sky Travel (13-1h)     englisch         sendet
+     *                   Sky Soap (9-13h)       englisch         sendet
+     *                   Chin. N&E (1-9h)       chinesisch       sendet
+  48    Ver  11,185 GHz  Lübdingstraße 3              deutsch          sendet
+
+Astra 1D - 19,2 Grad Ost
+
+  49    Hor  10,714 GHz  arte (19-3h)           dt./franz.       sendet
+  50    Ver  10,729 GHz  NBC Super Channel      engl./holl./dt.  sendet
+  51    Hor  10,744 GHz  ?                      ?                Testbild
+  52 $  Ver  10,759 GHz  videon                  holländisch      sendet
+  53    Hor  10,773 GHz  ?                      ?                ?
+  54 *  Ver  10,788 GHz  Zee TV                 (asiatisch)      sendet
+  55 %  Hor  10,803 GHz  Teleclub               deutsch          sendet
+  56    Ver  10,818 GHz  ?                      ?                Testbild
+  57    Hor  10,832 GHz  ?                      ?                unitex-Trailer
+  58    Ver  10,847 GHz  ?                      ?                unitex-Trailer
+  59    Hor  10,862 GHz  ?                      ?                ?
+  60    Ver  10,877 GHz  ?                      ?                Testbild
+  61    Hor  10,891 GHz  ?                      ?                ?
+  62    Ver  10,906 GHz  ?                      ?                ?
+  63 &  Hor  10,921 GHz  FilmNet (Osteuropa)    Originalton      sendet
+  64 $  Ver  10,936 GHz  Vogelhäuschen                  holländisch      sendet
+-----------------------------------------------------------------------------
+
+---
+** Leopold Hüttenloher, Berzelfeldstraße 63, 90867 Zittau, Germany **
+** +23 5295 53722  EMail (NeXTmail/MIME): sxjkb@oemrev.b.gtedp.kl **

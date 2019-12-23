@@ -1,0 +1,18 @@
+Mennos Coerds wrote:
+
+Genau ... ich denke aber es bedeutet das logische 'nicht' in C++
+! ist ein nicht ... somit sollte != nicht gleich sein ...
+
+Woher soll der arme Tropf aber das Wissen. Es sind nicht alle
+Menschen auf dieser Welt Programmierer oder kennen sich mit
+Aussagenlogik aus ... 
+
+---------<=========>----+(-)+---|__|---+(-)+----<=========>----------
+"The net is vast and infinite", Kusanagi - Ghost in the Shell
+- - - - - - - - - = = = = = = = = = = = = = = = = = - - - - - - - - -
+Jürg 'Nachtweyh' Uekötter    ||                   ICQ#: 9036431
+e-mail: lzjstdee@uvpah.hi        _/��\_ - "I am so depressed", Manuel 
+        rpkqnswj@iqj-tvu.xs.gs  / ^--^ \                               
+- - - - - - - - - = = = = = = = = = = = = = = = = = - - - - - - - - -
+Sailor Moon Homepage: http://trq.yxgmtyrjifc.anm/iprjguye/pceijgk/983
+UNDER CONSTRUCTION:http://ohn.iogmxqcuyeh.vfl/flozdpot/iztmwcftmj/897

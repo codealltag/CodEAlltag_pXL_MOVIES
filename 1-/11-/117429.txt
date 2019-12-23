@@ -1,0 +1,7 @@
+Herwig Campschroer wrote:
+
+
+Das wird wohl DivX sein. 
+Installiere dir mal den Espressohaus-Codec http://ekq.zgob.nvw
+
+Heiner

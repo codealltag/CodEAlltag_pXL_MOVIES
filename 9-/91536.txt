@@ -1,0 +1,42 @@
+Hallo:)
+
+Ich lese diese Newsgroup eigentlich immer recht gerne, verfolge
+Diskussionen, Kritiken, informiere mich ueber Filme und derlei.
+
+In letzter Zeit ist fuer mich jedoch das Lesen anstrengend
+geworden durch die vielen ROT-13 verschluesselten Textpassagen.
+
+Ich gebe zu, ich bin auf meinen Newsreader angewiesen, und dieser
+erkennt solche Passagen nicht automatisch, so dass ich
+einen bestimmten Modus waehlen koennte, wie ich Postings lesen
+moechte ("dekodiere mir alle ROT-13 Passagen automatisch...")
+
+Wenn ich also manche Postings lese, laeuft das oft so ab: 
+
+Der erste Teil ist meist noch in natuerlich lesbarer Form gehalten, 
+dann kommt der verschluesselte Teil, ich druecke eine Taste, um diesen 
+Teil lesen zu koennen. Dann gehe ich den Rest des Postings durch, 
+unten ist der Text wieder in natuerlicher Form. Da ich aber noch den
+ROT-13 Modus anhabe, muss ich diesen wieder ausschalten, um den Rest
+wieder lesen zu koennen.
+
+Wenn das innerhalb einer Bildschirmseite mehrfach geschieht, gebe ich
+entnervt auf. Denn ich weiss schon, dass sich das ueber den Rest
+des Threads hinziehen und wiederholen wird. Der Text liest sich
+einfach nicht mehr fluessig, ich kann ihn nicht ueberfliegen, ich
+fuehle mich behindert.
+
+Ich finde das schade. Ich finde es fuer mich schade, weil ich die
+Diskussionen nicht mehr verfolgen kann und will, und ich finds ebenso
+schade, dass vielleicht ein Teil von euch nicht gelesen werden wird.
+
+Wenn jemand einen Tip hat, wie ich Tin beibringe, ROT-13 automatisch zu
+erkennen, waere mir geholfen. Aber dann auch noch selektiv je nach
+Absatz in ROT-13 oder nicht zu antworten, so eine Loesung wird es
+vermutlich fuer mich nicht geben.
+
+Ich empfand den Spoiler-Space eigentlich immer als eine recht gelungene
+Idee und kann es nicht so nachvollziehen, warum ROT-13 auf einmal 
+so favorisiert wird.
+
+Just my thoughts.

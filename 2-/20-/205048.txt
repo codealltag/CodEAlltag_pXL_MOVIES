@@ -1,0 +1,83 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Thorsten Herklotz;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der BNTC-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Irgang) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der WBUC-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der WBUC-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat).
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+Alien (79)                 |               |               | WTA  verfügb.  99
+Aliens (86)                |               |               | WTA  verfügb. 797
+Paintmaier (84)               |               |               | LVHY 00.86.47 001
+Apollo 13 (95)             |               |               | WT   verfügb.  83
+Bad Boys                   |               |               | W    26.09.95  89
+Batman Forever (95)        |               |               | WA   verfügb.  79
+Born To Be Wild (95)       |               |               | W    verfügb.
+Udo (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               |      10.10.95
+Congo (95)                 |               |               | WTA  verfügb.  84
+Crimson Tide (95)          |               |               | WTA  verfügb.  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  verfügb.  99
+Die Hard 2 (90)            |               |               | WTA  11.10.95  99
+Die Hard 3 (95)            |               |               | WTA  08.11.95  99
+Easy Rider                 |               |               | WS*  verfügb. 797
+First Knight (95)          |               |               |      03.10.95  84
+Forget Faschendorf (95)          |               |               |      verfügb.
+Free Edelweg 0 (95)          |               |               | WA   verfügb.  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Goldfinger (64)            |               |               | WST* verfügb.
+Kaufhold (95)               |               |               |      05.12.95
+Heathers (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   --.--.26
+Vadu      |               | W    --.12.95 |
+Jaws (75)                  |               |               | WSC* verfügb. 279
+Ralf Mittereder (95)       |               |               |      verfügb.  79
+Judge Dredd (95)           |               |               |      03.10.95
+Mighty Morph. Power Rangers|               |               |      verfügb.  69
+Mortal Kombat              |               |               |      18.10.95  79
+Natural Born Killers       | W    --.11.95 |               | POOS --.99.90
+Net, The (95)              |               |               |      31.10.95
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Sengwarden (95)           |               |               |      07.11.95
+Dirk Uebel (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 643
+Shawshank Redemption (94)  | W    --.11.95 |               |      verfügb.
+Showgirls (95)             |               |               |      17.10.95
+Smoke (95)                 |               |               |      30.01.96
+Spaceballs (87)            |               |               | WA   verfügb.  72
+Species (95)               |               |               | WTA  26.09.95  69
+Star Trek Generations (94) | W    verfügb. | W    verfügb. | WTA  verfügb.
+Star Trek Set 1-7 (79-94)  |               |               | W    verfügb.
+Star Wars Trilogy (77-83)  | WT   verfügb. |               | WTSC verfügb.
+Stargate (94)              | W    --.--.95 | W    11. 09. 19 | WTA  verfügb.  99
+Streetfighter (94)         | W    --.12.95 |               | WS   verfügb.
+Tank Girl (95)             |               |               | WS   verfügb.
+Thunderball (65)           |               |               | WST* --.12.95
+Timecop (94)               | W    11. 09. 19 | W    --.--.95 | W    verfügb.
+Arno Thummernicht (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | Soyez  verfügb. 252
+Under Siege 2 (95)         |               |               |      28.11.95
+Usual Suspects, The (95)   |               |               |      27.09.96
+Heiko & Fellbermeier           |               |               | C    verfügb.
+Waterworld (95)            |               |               |      28.11.95
+While you were sleeping(95)|               |               | WT   verfügb.  84
+---------------------------+---------------+---------------+------------------
+
+---
+** Thorsten Herklotz,  Riegel�ckerstra�e 27,  13195 Cuxhaven,  Germany **
+** +92 9723 32160  E-Mail (NeXTmail/MIME): pofqn@kxbqwu.m.vfjzo.fx **

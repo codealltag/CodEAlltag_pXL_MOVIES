@@ -1,0 +1,11 @@
+On 25 Okt 1996 17:08:00 +0100, xhhsb@abjswsa.bbx.zo (Eric
+Steinecke) wrote:
+
+
+1:5 (bezogen auf 16-bit-Daten), getrennte Codierung der Kanäle, 20 bit,
+44,1 kHz
+
+Die Version 4.5 arbeitet sogar mit 24 bit.
+
+Bye
+	Paul

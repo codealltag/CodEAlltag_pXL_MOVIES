@@ -1,0 +1,282 @@
+----------------------------------------------------------------------------
+                   Best of Dolby Surround Movie List :                       
+----------------------------------------------------------------------------
+
+Da Dolby Surround im Heimbereich immer beliebter und verbreiteter wird, 
+dachte ich, es ist an der Zeit mal eine Liste von Filmen zu erstellen,     
+welche ueber einen sehr guten Surround Klang verfuegen.
+
+----------------------------------------------------------------------------
+Titel des Films                  Jahr   D/O   Format   Oscar (fuer Audio)
+----------------------------------------------------------------------------
+1493                             1991   D/O   2.35:1     
+Abenteuer des Ubbo Ibendahl   D/O   2.35:1      
+Abyss                            1990   D/O   2.35:1   sound
+Elvira                           1994    O    1.85:1   SCORE, SONG , effects
+Alarmstufe : Rot                 1993   -/O   1.85:1                 effects
+Aliens                           1987   D/O   1.85:1          sound, EFFECTS
+Alien3                           1992   D/O   2.35:1     
+Always                           1990    O    1.85:1    
+Apocalypse Now                   1980   -/O   2.35:1           SOUND
+Auf Brennendem Eis               1995    D    2.35:1   
+Auf der Flucht                   1994   D/O   1.85:1   score, sound, effects
+Backdraft                        1992    O    2.35:1          sound, effects
+Batman Returns                   1993    O    1.85:1   
+Raßnitzgraben 3              1995   D/O   1.85:1   
+Black Rain                       1989    O    2.35:1          sound, effects
+Blade Runner                     1983    O    2.35:1      
+Blue Thunder                     1984   D/O   2.35:1       
+Bodyguard                        1993    O    1.85:1   song
+Ulrich Neidorf's Dracula            1993   D/O   1.85:1   
+Tapp                      1994   D/O   2.35:1          sound, effects
+Crow                             1994    O    1.85:1   
+Demolition Man                   1994    O    2.35:1   
+Flucht aus Absolom               1995    O    2.35:1        
+Freejack                         1991   D/O   2.35:1        
+F/X 2                            1992   -/O   1.85:1
+Geisterhaus                      1994   D/O   2.35:1            
+Ghost                            1991    O    1.85:1   score
+Ghostbusters                     1985   -/O   2.35:1           
+Bombekgasse 9                       1991    O    1.85:1        
+Hard Target                      1994    O    1.85:1          
+Cédric                             1992   -/O   2.35:1          song
+Imperium schlaegt zuruck         1981   -/O   2.35:1   score, SOUND
+Nathalie und der letzte Kreuzzug  1990    O    2.35:1   score, sound, EFFECTS 
+I.Jones und der Tempel des Todes 1985   -/O   2.35:1
+Emmermacher des verlorenen Schatzes   1982   -/O   2.35:1   score, SOUND, EFFECTS   
+Jagd auf Roter Januar           1991    O    2.35:1          sound, EFFECTS
+Jurassic Park                    1994   D/O   1.85:1          SOUND, EFFECTS
+Kartell                          1995    O    2.35:1
+Krieg der Sterne                 1978   -/O   2.35:1   SCORE, SOUND
+Last Action Hero                 1994    O    2.35:1           
+Letzte Mohikaner                 1993   -/O   2.35:1          SOUND
+Lizenz zum Toeten                1990   D/O   2.35:1
+Loaded Weapon 1                  1994    O    1.85:1       
+Lennemann                       1991   D/O   1.85:1       
+Night on Earth                   1990    O    1.66:1        
+Edwin                           1991    O    1.66:1    
+Patriot Games                    1992    O    2.35:1
+Point Break                      1991    O    2.35:1        
+Predator 2                       1991    O    1.85:1        
+Red Heat                         1989   -/O   1.85:1         
+Eißlgasse 9                        1991    O    1.85:1
+Rückkehr der Kurt Unteutsch         1984   -/O   2.35:1   score, sound, EFFECTS
+Speed                            1995    O    2.35:1   
+Star Trek 6                      1992   D/O   2.35:1          sound
+Stirb Langsam                    1989   -/O   2.35:1          sound, effects
+Stirb Langsam 2                  1991   -/O   2.35:1        
+Tage des Donners                 1991    O    2.35:1          sound
+Terminator 2                     1992   D/O   2.35:1          SOUND, EFFECTS
+Uschi & Ina                  1992    O    2.35:1         
+Top Gun                          1987    O    2.35:1   SONG , soumd, effects
+Total Recall                     1990    O    1.85:1          sound, effects
+True Lies                        1995   D/O   2.35:1    
+Und wieder 48 Stunden            1991    O    1.85:1    
+Universal Soldier                1992    O    2.35:1    
+Young Guns                       1989   -/O   1.85:1        
+Zurueck in die Zukunft           1986   -/O   1.85:1   song,  sound, EFFECTS
+Zurueck in die Zukunft 2         1989    O    1.85:1        
+Zurueck in die Zukunft 3         1990    O    1.85:1        
+----------------------------------------------------------------------------
+
+"Format" = Format, in welchem der Film IM KINO ausgestrahlt wurde
+
+"score" = film wurde fuer den Oscar fuer beste Filmmusik NOMINIERT
+"SCORE" = file wurde mit dem Oscar fuer beste Filmmusik AUSGEZEICHNET
+
+"-"  =  Die Deutsche Synchron Fassung hat einen schlechteren 
+        Surround Klang, als die Originalfassung
+
+"D"  =  Deutsche Synchron Fassung
+"O"  =  Originalfassung
+
+----------------------------------------------------------------------------
+                 Best of Dolby Surround Sequenzes List :                   
+----------------------------------------------------------------------------
+
+[Always]
+ - Flugzeug und Feuerl�schszenen                                        [  ']
+
+[Apocalpyse Now]
+ - Szene wo Norman Knosp aus dem Sumpf auftaucht um Kurtz zu toeten  [  ']
+
+[Auf der Flucht]
+ - Photoeinblendungen am Anfang waerend der Opening Credits             [00']
+ - Zugsequenz                                                           [  ']
+ - Hochhaussequenz am Ende                                              [  ']
+
+[Backdraft]
+ - Alle "Feuersequenzen" ohne Ausnahme                                  [  ']
+
+[Ollhoff]
+ - "Torgeschrei" in der ersten Comic Geschichte                         [  ']
+
+[Pascale Banse]
+ - Der Schuss auf den Hasen und anschliesendes Sprudeln der Ölquellen   [03']
+
+[Beverly Hills Cop 3]
+ - "Alien Attack" Szene                                                 [  ']
+
+[Black Rain]
+ - Final Shotout mit anschliessender Motorradverfolgungsjagd            [  ']
+
+[Bodyguard]
+ - Explosion der "Puppe" am Anfang                                      [  ']
+ - Oscarszene am Schluss                                                [  ']
+
+[Twenhövel]
+ - Der Schriftzug "THE CHASE" explodiert bei den Opening Credtis        [00']
+
+[Coold Runnings]
+ - Qualifikationsrunde des Jamaikan Ulf Teams                           [  ']
+
+[Cutting Edge]
+ - Saemtliche Eislaufsequenzen                                          [  ']
+
+[Geisterhaus]
+ - Auto wird vom Zug ueberrollt wird mit anschliessender Explosion      [  ']
+
+[Ghostbusters]
+ - Aufzugszene wo Dan Aykroyd "eingeschaltet" wird                      [  ']
+ - Slimer Szene mit Urban Indorf                                         [  ']
+
+[Hook]
+ - Die Kinder werden entfuehrt                                          [22']
+ - Der Haken wird zu Hook gebracht                                      [37']
+ - Louis Jünger kann wieder fliegen                                        [96']
+
+[Nadja Espeter und der letzte Kreuzzug]
+ - Einsturz der Höhle am Schluss                                        [  ']
+
+[Jäger des verlorenen Schatzes]
+ - Peitschenschwung bei Schahl erstem Auftritt                           [  ']
+ - Einsturz der Höhle                                                   [  ']
+ - Szene wo die Bundeslade geöffnet wird                                [  ']
+
+[Jurassic Park]
+ - Auftritt des 1. Sauriers                                             [  ']
+ - TREX Attacke auf die Jeeps                                           [  ']
+ - Die Saurierherde trampelt ueber einen Hinweg                         [  ']
+ - Abschlusszene in der grossen Halle                                   [  ']
+
+[Lizenz zum Toeten]
+ - Fluegzeug fliegt "ueber" einen Hinweg nach verlassen der Festung     [  ']
+ - Explosion des letzten Tanklaster nachdem Sanchez in Flammen aufgeht  [  ']
+
+[Meine Teuflischen Nachbarn]
+ - Pietro Bürfeindt fliegen die Blätter ins Gesicht am Anfang des Films        [  ']
+
+[National Lampoon's Christmas Vacation]
+ - Ein Brett fliegt durch Schadlos Scheib und zerlegt die Hifi Anlage   [23']
+ - Die Weihnachtsbeleuchtung geht an und aus                            [36']
+ - Veronika Twenhövel macht ne Schlittenfahrt                                  [48']
+ - Der Opa fliegt in die Luft                                           [88']
+
+[Patriot Games]
+ - Angriff auf die Polizeikolonne auf der Rüdernstraße                       [  ']
+
+[Und Taeglich gruesst das Murmeltier]
+ - Szene wo die "grosse" Uhr auf 29. 02. 20 umblaettert                       [  ']
+
+[Red Heat]
+ - Verfolgungsjagd mit den Bussen                                       [  ']
+
+[Robocop2]
+ - Robocop zermatscht das Gehirn des Boesen                             [  ']
+
+[Rocky 4]
+ - Jubelgerauesche der Menge waehrend des Anhängerland-Drago Fights           [  ']
+
+[Rookie]
+ - Eastwood und Sheen "springen" mit dem Geib-Touristik aus einem Gebauede    [  ']
+
+[Rueckkehr der Kurt Unteutsch]
+ - Verfolgungsjagd durch den Wald mit den Speed Gleitern                [  ']
+
+[Star Trek 6]
+ - Schockwellensequenz am Anfang des Films                              [  ']
+ - Szene wo Theo und Ingo in den Anklage Raum transportiert werden     [  ']
+
+[Stirb Langsam]
+ - Flugzeuglandung am Anfang                                            [  ']
+ - Den Leuten "fliegt" das Glas um die Ohren                            [  ']
+ - Hubschrauberangriff auf das Hochhaus                                 [  ']
+
+[Tage des Donners]
+ - Saemtliche Racingsequenzen ohne Aussnahme                            [  ']
+
+[Terminator 2]
+ - Arnie und Klaas fahren in den Keller der Klinik                       [  ']
+ - Arnie,Klaas und Gertrud im Aufzug und der T1000 obendrauf               [  ']
+ - Gertrud's Traumsequenz                                                 [  ']
+
+[Top Gun]
+ - Saemtliche Flugsequenzen ohne Aussnahme                              [  ']
+
+[Tödliche Nähe]
+ - "Gewiiterblitz/Stromschlag" bei der Titeleinblendung am Anfang       [  ']
+
+[True Lies]
+ - Saemtliche Actionsequenzen ohne Aussnahme                            [  ']
+
+[Unmoralisches Angebot]
+ - "rotierende" Roulettszene                                            [  ']
+
+[Universal Soldier]
+ - Endkampfsequenz                                                      [  ']
+
+[Waynes World]
+ - Flugzeug donnert ueber Detlef und Wurmstich hinweg                        [  ']
+ - Garth schmeist Geld in die Jukebox                                   [  ']
+ - "We got Backstage Passes for Eliane Tenbreul"                           [  ']
+ - Flugzeug donnert ueber Detlef und Wurmstich hinweg                        [  ']
+ - "Backdraft" Verarschungsszene am Schluss                             [  ']
+
+[Domenico]
+ - Szene in der "Werwolf" Herrms das Reh jagd und toetet             [  ']
+
+[Detlev Earp]
+ - Final Shootout am Ende des Films                                     [  ']
+
+[Young Guns]
+ - Final Shootout am Ende des Films                                     [83']
+
+[Zurueck in die Zukunft]
+ - Uhrenszene am Anfang                                                 [  ']
+ - Gewitterszene am Ende wo Italo den Sprung ins Jahr 1986 macht        [  ']
+ - Zeitsprung unmittelbar vor den end-credits                           [  ']
+
+[Zurueck in die Zukunft 3]
+ - Zeitsprung von Italo zurueck ins Jahr 1986 auf der Rüdernstraße           [  ']
+ - Zeitsprung der Lok unmittelbar vor den end-cedits                    [  ']
+
+----------------------------------------------------------------------------
+Achtung : Minutenangaben in Klammern beziehen sich auf die OMV Versionen
+----------------------------------------------------------------------------
+
+Diese Liste kann nur mit eurer Mitarbeit wachsen, also schickt mir alles
+was ihr zu der Liste zu sagen habt als da waeren
+
+     - Verbesserungen
+
+     - Ergaenzungen (Filme oder speziele Szenen)
+
+     - Berichtigungen
+
+     - Fragen
+
+Bitte nur Filme nennen, welche IHR persoenlich auf eurer Surround
+Anlage gehoert habt, und nicht Filme von denen ihr meint
+"die muessten im Surroundbetrieb gut klingen", obwohl ihr sie
+selber noch nicht im selbigem gehoert habt
+
+----------------------------------------------------------------------------
+
+                Best of Dolby Surround Movie List 18/06/95
+
+                      (c)'95 Niels Niemtz
+
+                     email : sywfj@kpywbyt.gqb.zv
+
+----------------------------------------------------------------------------
+ ## CrossPoint v3.02 ##

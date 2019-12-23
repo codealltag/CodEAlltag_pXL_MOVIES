@@ -1,0 +1,222 @@
+NG-Statistik drfm für den Dezember 2005
+basierend auf ngstat von Berthold Eggerstedt.
+
+03. 04. 20 postings   +6.05%
+03. 04. 20 postings   -3.93%
+03. 04. 20 postings  03. 04. 20%
+03. 04. 20 postings   +9.85%
+03. 04. 20 postings  -23.28%
+03. 04. 20 postings  +29.48%
+03. 04. 20 postings  -18.68%
+03. 04. 20 postings  -05.99%
+03. 04. 20 postings  -31.85%
+04/05:  658 postings  03. 04. 20%
+05/05: 1142 postings  +73.56%
+03. 04. 20 postings  +24.78%
+
+03. 04. 20 postings   +2.81% (76 Newbies)
+
+
+Die meisten Artikel innerhalb 1 Stunde:
+    17 Artikel zwischen 18.11.2005 09:32:31 und 18.11.2005 10:32:30
+
+Die meisten Artikel innerhalb 24 Stunden:
+   115 Artikel zwischen 15.11.2005 16:45:40 und 16.11.2005 16:45:39
+
+Die artikelst�rkste Nacht war am 20.11.2005:
+    15 Artikel zwischen 0:00 Uhr und 6:00 Uhr
+
+Der kürzeste Zeitabstand beträgt 1 Sekunde,
+    vom 16.11.2005, 13:02:21 bis 16.11.2005, 13:02:22
+
+Der längste Zeitabstand beträgt 13:25:28 Stunden,
+    vom 07.12.2005, 21:21:47 bis 08.12.2005, 10:47:15
+
+Die schnellste Antwort gab es in 1:02 Minute von Ignaz Nordieker
+    auf jlgh:bt23gx$tn1$97$6@fjwa.m-cdtama.hye
+    vom 15.11.2005, 17:35:08 bis 15.11.2005, 17:36:10
+
+Die späteste 1. Antwort gab es nach 9 Tagen, 10:39:58 Stunden
+    von Alexanders Oehlschlegel auf xlrb:xhtcm01v0xna7xsolo0hxdb251ayjzmfc2@6iw.rco
+    vom 27.11.2005, 01:39:28 bis 06.12.2005, 12:19:26
+
+Das älteste unbeantwortete Initialposting im Dezember ist vom 16.11.2005, 15:51
+    news:20050704135128.GA9194@andreas.kneib.biz von Ronny Böhning
+
+
+Autoren mit den meisten Postings (1467 Postings)
+
+ Pos | Anz | FUp |  Lin | Avg | KByte | Autor                 | Diagramm    
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+   1 |  82 |  03. 04. 20 |  27 | 168.5 | Niklaus Olendorf        |  5.6%  zoila
+   2 |  75 |  65 | 1854 |  24 | 155.5 | Ronny Böhning         |  5.1%  zoila
+   3 |  59 |  03. 04. 20 |  21 | 106.4 | Carlos Obstfeld         |  4.0%  xxxx 
+   4 |  47 |  03. 04. 20 |  25 |  00.1 | Volker M. Vleeschouwer     |  3.2%  zacharias  
+   5 |  41 |  03. 04. 20 |  25 |  75.12 | Rüdiger Isermann        |  2.8%  zacharias  
+   6 |  33 |  33 |  821 |  24 |  68.0 | Ronny Unterluggauer         |  2.3%  zweer   
+   7 |  31 |  24 |  683 |  22 |  52.7 | Menno Trinklein    |  2.1%  zweer   
+   8 |  30 |  30 |  449 |  14 |  49.12 | avm.caikefb@vnc.ygv   |  2.0%  zweer   
+  10 |  29 |  27 |  825 |  28 |  62.7 | Volker Blinn         |  2.0%  zweer   
+  11 |  28 |  30 |  527 |  18 |  55.1 | Willibald Winghofers         |  1.9%  zweer   
+  12 |  24 |  26 |  704 |  29 |  54.8 | Pietro Timpf          |  1.6%  x    
+  13 |  23 |  13 |  379 |  16 |  36.8 | Dirk Aichbichler        |  1.6%  x    
+  14 |  21 |  22 |  369 |  17 |  34.9 | Alexanders Oehlschlegel            |  1.4%  x    
+  18 |  20 |  23 |  363 |  18 |  12.7 | Valerio Eichs          |  1.4%  x    
+  19 |  19 |  15 |  207 |  10 |  23.0 | Diedrich Spannhake         |  1.3%  x    
+  22 |  18 |   5 |  410 |  22 |  32.5 | Bernhard Lafferenz      |  1.2%  x    
+  23 |  16 |  15 |  312 |  19 |  4.11 | Nils Linsenmeir      |  1.1%  x    
+  25 |  15 |  19 |  316 |  21 |  5.6 | Steffen D. Wachenbrönner    |  1.0%  x    
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor                | FUp | Avg. | Artkl | Diagramm   
+-----+----------------------+-----+------+-------+------------
+   1 | Cornell Olendorf       |  81 | 0.99 |    82 | 6.1%  xxxx
+   2 | Ronny Böhning        |  65 | 0.87 |    75 | 4.9%  xxxx
+   3 | Volker M. Vleeschouwer    |  41 | 0.87 |    47 | 3.1%  zweer  
+   5 | Rüdiger Isermann       |  39 | 0.95 |    41 | 2.9%  zweer  
+   6 | Ronny Unterluggauer        |  33 | 1.00 |    33 | 2.5%  zweer  
+   7 | Willibald Winghofers        |  30 | 1.07 |    28 | 2.3%  x   
+   9 | Volker Blinn        |  27 | 0.93 |    29 | 2.0%  x   
+  10 | Pietro Timpf         |  26 | 1.08 |    24 | 2.0%  x   
+-----+----------------------+-----+------+-------+------------
+
+
+Autoren mit den meisten Threads (105 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm                        
+-----+----------------------+-----+-------+---------------------------------
+   1 | Ronny Böhning        |   8 |   149 |  7.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   3 | Ronny Unterluggauer        |   5 |   177 |  4.8%  xxxxxxxxxxxxxxxx         
+-----+----------------------+-----+-------+---------------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (105 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm                        
+-----+----------------------+-----+-------+---------------------------------
+   1 | Ronny Unterluggauer        |   5 |   177 | 12.1%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Giovanni Linnenberger     |   1 |   157 | 10.7%  xxxxxxxxxxxxxxxxxxxxxxx  
+   3 | Ronny Böhning        |   8 |   149 | 10.2%  xxxxxxxxxxxxxxxxxxxxx    
+   4 | Sascha Aymans         |   2 |    97 |  6.6%  xxxxxxxxxxxxxx           
+   5 | Ignaz Nordieker     |   1 |    78 |  5.3%  xxxxxxxxxxx              
+   6 | Maurizio Weckes           |   2 |    77 |  5.3%  xxxxxxxxxxx              
+   7 | Reiner Luft            |   3 |    61 |  4.2%  xxxxxxxx                 
+-----+----------------------+-----+-------+---------------------------------
+
+
+Threads mit den meisten Postings (1467 Postings)
+
+ Pos | Anz | Threads                          | Gründer      | Diagramm     
+-----+-----+----------------------------------+--------------+--------------
+   1 | 157 | Krieg der Welten - Kamerafahrt au| Giovanni Liermann 10.7%  xxxxxx
+   2 |  81 | Krieg der Welten SPOILER         | Sascha Aymans |  5.5%  zacharias   
+   3 |  78 | Mal wieder Boykott?              | Ignaz Naeher  5.3%  zacharias   
+   4 |  71 | L'auberge espagnol (Ein Jahr in B| Maurizio Fix   |  4.8%  zacharias   
+   5 |  60 | Scotty wurde hochgebeamt         | Ronny Bomanns  4.1%  zweer    
+   6 |  57 | Erste schlechte Kritik zum "Krieg| Ronny Bomanns  3.9%  zweer    
+   7 |  51 | Originalfassungen                | Ronny Ueberfuhr  3.5%  zweer    
+   8 |  47 | OT: Fast schon Pitch Black       | Reiner Vonderau    |  3.2%  zweer    
+  10 |  42 | Chronicles of Narnia und Bibel?  | Hanni Iserlohe  2.9%  x     
+  11 |  41 | Leibesvisitation bei "Fantastic F| Ronny Ueberfuhr  2.8%  x     
+  12 |  37 | Corps Bride - CGI oder stop-motio| Ronny Trucks |  2.5%  x     
+  13 |  35 | Kritik: Krieg der Welten         | Ronny Ueberfuhr  2.4%  x     
+  14 |  31 | Suche Filmbeispiele zu Thema Auss| Volker         |  2.1%  x     
+  15 |  28 | Re: Kritik: Krieg der Welten     | Karl Lachnich |  1.9%  x     
+-----+-----+----------------------------------+--------------+--------------
+
+
+Verwendeter Newsreader (Alle Postings, 1467 Postings)
+
+ Anz | Newsreader                     | Diagramm                            
+-----+--------------------------------+-------------------------------------
+ 266 | Forte Agent                    | 18.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 229 | Mozilla                        | 15.6%  xxxxxxxxxxxxxxxxxxxxxxxxx    
+ 161 | BrunnenKosmetik Outlook Express      | 11.0%  xxxxxxxxxxxxxxxxxx           
+ 116 | tin                            |  7.9%  xxxxxxxxxxxxx                
+  97 | Brühlzentrum Thunderbird            |  6.6%  xxxxxxxxxx                   
+  75 | Gnus                           |  5.1%  xxxxxxxx                     
+  74 | /keine Angabe/                 |  5.0%  xxxxxxxx                     
+  73 | rieyoh.kfiqny.iiw              |  5.0%  xxxxxxxx                     
+  66 | 40tude_Dialog                  |  4.5%  xxxxxxx                      
+  62 | mutt-ng devel (Linux)          |  4.2%  xxxxxx                       
+  53 | KNode                          |  3.6%  zoila                        
+  47 | Xnews                          |  3.2%  zoila                        
+  40 | MacSOUP                        |  2.7%  xxxx                         
+  24 | MicroPlanet-Gravity            |  1.6%  zweer                           
+  22 | slrn                           |  1.5%  zweer                           
+  22 | Pine                           |  1.5%  zweer                           
+  13 | mutt-ng                        |  0.9%  x                            
+  11 | CrossPoint                     |  0.8%  x                            
+   9 | Opera M2                       |  0.6%  x                            
+   3 | knews                          |  0.2%                               
+  <2 | 3 weitere...                   |                                     
+-----+--------------------------------+-------------------------------------
+1466 | GESAMT (23)                    |                                     
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(36 Autoren)
+
+ Anz | Newsreader                     | Diagramm                            
+-----+--------------------------------+-------------------------------------
+   6 | Forte Agent                    | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   5 | Mozilla                        | 13.9%  xxxxxxxxxxxxxxxxxxxxxxxxx    
+   4 | BrunnenKosmetik Outlook Express      | 11.1%  xxxxxxxxxxxxxxxxxxxx         
+   2 | 40tude_Dialog                  |  5.6%  xxxxxxxxxx                   
+   2 | Gnus                           |  5.6%  xxxxxxxxxx                   
+   2 | tin                            |  5.6%  xxxxxxxxxx                   
+   2 | /keine Angabe/                 |  5.6%  xxxxxxxxxx                   
+   2 | KNode                          |  5.6%  xxxxxxxxxx                   
+   2 | Xnews                          |  5.6%  xxxxxxxxxx                   
+   2 | rieyoh.kfiqny.iiw              |  5.6%  xxxxxxxxxx                   
+   2 | MacSOUP                        |  5.6%  xxxxxxxxxx                   
+   1 | mutt-ng                        |  2.8%  zoila                        
+   1 | Pine                           |  2.8%  zoila                        
+   1 | slrn                           |  2.8%  zoila                        
+   1 | MicroPlanet-Gravity            |  2.8%  zoila                        
+   1 | Brühlzentrum Thunderbird            |  2.8%  zoila                        
+
+
+Postingverteilung über den Monat (1467 Postings)
+
+ Tag | Anz | Diagramm                                                       
+-----+-----+----------------------------------------------------------------
+   1 |  60 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   2 |  53 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   3 |  80 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+   4 |  82 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+   5 |  63 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+   6 |  85 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+   7 |  88 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   8 |  81 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+   9 |  12 |  0.8%  xxxxxxx                                                 
+  10 |  19 |  1.3%  xxxxxxxxxxxx                                            
+  11 |  54 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  12 |  79 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  13 |  47 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  14 |  71 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  15 |  84 |  5.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  16 |  38 |  2.6%  xxxxxxxxxxxxxxxxxxxxxxxx                                
+  17 |  22 |  1.5%  xxxxxxxxxxxxxx                                          
+  18 |  22 |  1.5%  xxxxxxxxxxxxxx                                          
+  19 |  46 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                           
+  20 |  40 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxx                               
+  21 |  59 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  22 |  32 |  2.2%  xxxxxxxxxxxxxxxxxxxx                                    
+  23 |  29 |  2.0%  xxxxxxxxxxxxxxxxxx                                      
+  24 |  21 |  1.4%  xxxxxxxxxxxxx                                           
+  25 |  14 |  1.0%  xxxxxxxxx                                               
+  26 |  17 |  1.2%  xxxxxxxxxxx                                             
+  27 |  17 |  1.2%  xxxxxxxxxxx                                             
+  28 |  30 |  2.0%  xxxxxxxxxxxxxxxxxxx                                     
+  29 |  59 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  30 |  23 |  1.6%  xxxxxxxxxxxxxx                                          
+  31 |  39 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxx                               
+
+HTH ;-)
+Joseph
+-- 
+No hay banda.

@@ -1,0 +1,34 @@
+Am 29-11-96 um 19:12 schrieb upenqqwi@hlgiakrjrd.ka-wnyxxfus.ai
+unter dem Betreff: Re: AC-3 ueber optischen Ausgang?
+
+
+Das ist korrekt, ich mußte aber auch erst 10x die entsprechenden stellen im
+Handbuch lesen bis ich das verstanden habe. Die drücken sich da etwas
+komisch aus.
+
+Der Dolzer Maßkonfektionäre hat folgende Ein-/Ausgänge:
+
+LD       AC-3 RF In
+         Optical In
+
+ROTERMANN       Coaxial In
+         Optical In
+
+Tape 1   Optical In
+         Optical Out
+
+TV/Autobahnpolizei   Optical In
+
+VCR3/DVD Optical In
+
+Naja also ich hätte dann evtl noch die möglichkeit den AC-3 Ton über den CD
+Eingang einzuspeisen. Wenn man den Iput Selector mit der Fernbedienung
+umschatet bleibt die letzte Video-Quelle im Hintergrund. Aber das Optimale
+ist das auch nicht.
+
+Mfg.
+
+Pietro Kölkes
+ /\_\    __    * BBS Analog: +95 2785 23502 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +42 3941 21154 **  /\_\   \/_/
+        \/_/   * Voice:      +73 4943 90913 *   \/_/

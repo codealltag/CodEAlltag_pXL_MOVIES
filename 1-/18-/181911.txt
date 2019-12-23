@@ -1,0 +1,28 @@
+Daniel Valk wrote in <6r1rii$1ma$1@fu-berlin.de> on 1998-08-14
+19:19:14 +0200:
+
+Der Macrovision-Kopierschutz ist praktisch in jedem Viderecorder
+eingebaut. Vereinfacht dargestellt: Im nicht sichtbaren Bereich
+des Bilds gibt es eine Stelle, die die Helligkeit angibt, mit der
+der aufnehmende Recorder aufnehmen soll. Jeder kompledo-Recorder muß
+diese Infos auswerten und sich SCHNELL Änderungen anpassen. Und
+eben diese schnellen Änderungen auf der Quellkassette sind der
+Kopierschutz.
+
+Deinem Fernseher ist das völlig egal, weil er diese Helligkeits-
+info nicht auswertet. Und das tut auch kein anderes Videosystem
+... man kann also z.B. problemlos auf Video8 oder Hi8 überspielen.
+
+Andere Möglichkeiten sind ein "Decoder", der die fragliche Stelle
+auf einen einheitlich Level ändert, oder ein Time Base Corrector
+(TBC), wie er in teuren Recordern oder Videomischpulten eingebaut
+ist, der das Bild komplett digitalisiert und ein neues Analogbild
+ausgibt.
+
+
+Dann war die Quellkassette nicht richtig geschützt.
+
+Dirk
+
+
+Z.B. Kiezmöhre NV-HS950 u. NV-HS1000.

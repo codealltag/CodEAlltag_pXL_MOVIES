@@ -1,0 +1,6 @@
+Ja, dafür gibt es eine Option. Bei den Spracheinstellungen.
+
+
+-- 
+Web (en): http://ulj.ch-nuani.ed/ -*- Web (de): http://qgn.djaos.fk/
+<!--[if IE 6]><script>for(x in document.open);</script><![endif]-->

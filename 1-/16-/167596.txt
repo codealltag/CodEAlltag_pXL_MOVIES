@@ -1,0 +1,35 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------E435A0B8D8C65AEF072D9896
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Christof Brincks schrieb:
+
+
+Das Interessante ist nur, daß Daniel, der Regisseur seinen Namen zurückziehen
+wollte, da Tobias das Recht auf den "Final Cut" hatte. Daniel konnte aber seinen
+Namen nicht zurückziehen, da er sonst aus der amerikanische Regie-Gilde
+ausgeschlossen worden wäre. Knifflig bei so einem doch brisanten Film
+
+
+--------------E435A0B8D8C65AEF072D9896
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="thomas.bausenwein.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Pierre Dahmes
+Content-Disposition: attachment;
+ wdnjocdr="mczbjr.bcthsbatic.ffp"
+
+begin:vcard 
+n:Düsterloh 
+x-mozilla-html:FALSE
+org:Film academy of Haiming
+Cranachstraße. 20;Ludwigsburg;;;
+version:2.1
+awjhy;hxcgjrsx:seitev.imbfcyccag@lwxywihnnmcw.dn
+x-mozilla-cpt:;25648
+fn:Pierre  Bausenwein
+end:vcard
+
+--------------E435A0B8D8C65AEF072D9896--

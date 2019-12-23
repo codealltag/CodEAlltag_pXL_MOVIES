@@ -1,0 +1,21 @@
+Die Qualitaet von Indeo ist tatsaechlich ein wenig besser als MPEG,
+allerdings ist ein MPEG-Stream aehnlicher Laenge (bezueglich Zeit
+und Dateigroesse) auch noch Stereo. Mir ging es speziell um das
+"neue Kompressionsverfahren", das in der verwendeten Form bestimmt
+2-3 Jahre alt ist. Ich dachte, da kommt jetzt was ganz tolles.
+Die AVI-Datei liess sich unter Windows NT 4.0 mit installiertem IE4.0
+problemlos abspielen, OHNE den auf der Seite bereitliegenden Windows
+MediaPlayer.
+
+Aber alles ist besser als das leider immer noch viel zu oft
+verwendete QuickTime mit Cinepak.
+
+Tschau,
+Oliver
+
+PS: Ich glaube auch, dass die Gruppenauswahl nicht ganz stimmt, weiss
+    jetzt aber nicht spontan, in welche Group ich das Followup-To
+    setzen sollte...
+-- 
+Oliver Dederl, Irnsing, Germany
+mailto:j85l@lrw.hci-jwjhnb.zz -- http://cct1.urr-wbkgxi.de/~b62n/

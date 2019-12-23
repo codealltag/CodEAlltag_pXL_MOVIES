@@ -1,0 +1,17 @@
+Remo Ohlhof schrieb:
+
+
+So geht's natürlich auch...
+
+
+Nein, AMDb ist ein Win32-Konsolenprogramm. Das sieht nur optisch
+wie ein Weingalerie-Programm aus. Damit man nicht mit der Kommandozeile
+rummachen muß, gibt es AMDbFront als GUI.
+
+
+Hab ich auch so gemacht, und er hat auch englisch geantwortet.
+
+
+Ja.
+
+Vincenzo

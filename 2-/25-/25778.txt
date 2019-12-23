@@ -1,0 +1,10 @@
+This message is in MIME format.  The first part should be readable text,
+  while the remaining parts are likely unreadable without MIME-aware tools.
+
+--4567108-880213067-7042819573=:24303
+Content-Type: TEXT/PLAIN; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: Lauscher-PRINTABLE
+
+
+Im Bett: "Ich bin zu alt fuer diese Scheisse".....
+--2199975-084368817-1130335335=:32163--

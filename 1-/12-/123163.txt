@@ -1,0 +1,18 @@
+Sascha Jackop schrieb:
+
+
+Dürfte sich gegenüber Booten von DOS ohne Starten von Win nicht =
+wirklich
+unterscheiden...
+
+
+Das ist nicht das Problem - das Spiel kackt nur relativ willkürlich =
+nach
+x Minuten ab...
+
+So long,
+Kai O. Veldkamp
+--=20
+http://ozai.bajoj.hw/eyt/
+Neu: Hamster 05. 09. 20 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

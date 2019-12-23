@@ -1,0 +1,15 @@
+xhcd@lpvahfsykbelo.xfu klapperte am 29.06.98
+zum Thema "Filmtitel #bersetzungen" auf seiner Tastatur herum:
+
+ AS> Gibt es irgendeine Liste mit Uebersetzung von engl. in  dt.
+ AS> (oder umgekehrt) Filmtitel?
+
+Klar. Nennt sicht german-aka-titles.list und ist Bestandteil der  
+Internet Movie Database. Zu bekommen u.a. bei:
+qir.hd-pkrcmv.ft
+/pub/misc/movies/database
+
+Bye,
+
+        Alessandro       # #
+                     # Tup Off Box

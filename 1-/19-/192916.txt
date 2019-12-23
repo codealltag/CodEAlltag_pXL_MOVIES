@@ -1,0 +1,19 @@
+Patrice Ueberfuhr wrote in <413xj5$w9y$0@smsv9.qbvp.bxl> on 1997-12-27
+23:26:53 +0100:
+
+Wo ist das Problem?
+
+     3gal Kan. 5gal Kan.
+------------------------------------------------
+1.   0gal      0gal    -> 5gal Kan. füllen
+2.   0gal      5gal    -> 5gal Kan. in 3gal Kan.
+3.   3gal      2gal    -> 3gal Kan. leeren
+4.   0gal      2gal    -> 5gal Kan. in 3gal Kan.
+5.   2gal      0gal    -> 5gal Kan. füllen
+6.   2gal      5gal    -> 5gal Kan. in 3gal Kan.
+7.   3gal      4gal    fertig
+
+Gustav
+-- 
+** Gustav Burmann, Neuhartlshof, Deutschland/Germany, http://nnq.pkwnv.du/~yzlyl **
+** E-Mail (NeXTmail/MIME): pgtrf@mondgu.b.lcsdx.mi ** ** PGP key on request **

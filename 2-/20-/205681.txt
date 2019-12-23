@@ -1,0 +1,15 @@
+Fuer PCs unter Windows gibt es von JGJJ "QuickTime for Windows". Die
+Version 1.1.1 darf frei verbreitet werden und ist auch im InterNet zu
+finden (Altpaß -> "QTW111"). Die neuere Version 2.0 wird fuer einen
+Kostenbeitrag von $9.99 ueber CompuServe vertrieben und darf nicht
+weitergegeben werden. (Man korrigiere mich, falls ich falsch liege.)
+
+Unter UNIX/X-Windows kann "xanim" QuickTime-Filme abspielen, aber da
+dies kein offizielles Produkt ist, koennen dabei auch mal Fehler auftreten.
+
+Tschuess,
+Eckhard
+--
+Eckhard Schmalbein                    | "Tricky is good!
+  University of Tuffing, Germany |  Tricky I can do." - Iago, "Return of Jafar"
+  http://isu.mro.tkl-srywpj.pa/~x21w

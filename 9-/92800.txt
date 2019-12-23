@@ -1,0 +1,31 @@
+Gianni Ansorg wrote:
+
+
+Auf meinen Athlon 650 konnte ich unter Linux Videos in Vollbild schauen, 
+Windows hat's meistens nur im Fenster geschafft...
+
+(Mal ganz abgesehen davon, dass der WMP so schlecht ist, dass er nicht 
+einmal springen kann... Aber klar, der, der nichts anderes kennt glaubt 
+natürlich alle, die was besseres nehmen sind reine Idealisten, woher soll 
+er es auch besser wissen?)
+
+Wie dem auch sei, unter 
+http://viowbjc.eljuncqbgjo.ipj/ 
+und
+http://wtk.ahhl7.zgy/pkhifv/
+
+findet man alles was braucht.
+
+Avifile ist meistens schon bei den Distributionen dabei, dann braucht man 
+nur noch die Codecs.
+
+Spezielle Hardware braucht man nicht.
+
+Oscar
+
+
+-- 
+The Consultant's Curse:
+        When the customer has beaten upon you long enough, give him
+what he asks for, instead of what he needs.  This is very strong
+medicine, and is normally only required once.

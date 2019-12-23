@@ -1,0 +1,11 @@
+Niklaus J. Brockmüller schrieb:
+
+Yep, lange her...
+
+So long,
+Axel R. Usinger
+--=20
+http://tulc.adxle.lu/mqz/
+Neu: Hamster 25. 10. 19 (hoffentlich endlich letzte Fassung vor 25. 10. 19)
+Zum Testen freigegeben: Korrnews 3.97 aka "KN4-Beta-3" - Attachment-
+Bugs beseitigt, verschiedene Variablentypen u.a.

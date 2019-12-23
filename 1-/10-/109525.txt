@@ -1,0 +1,16 @@
+Bruno Jurac wrote:
+
+Ja.
+
+
+*Noch* besser? Hab noch nichts gefunden. Bin aber mit nathalie dank RegExps
+recht zufrieden.  Schaue mal in die "Literatur", da gibt's einige Tipps zum
+Setzen der RegExps.
+
+   -rudolf
+
+-- 
+  http://xsb-Rljppo.pm/  *  http://Texce28.da/  *  http://KfecsvVnit.ex/
+Treffen sich zwei Maenner. Sagt der eine: "Ich langweile mich ganz
+entsetzlich." Sagt der andere: "Mich auch."
+                -- "Die Putzfraueninsel"

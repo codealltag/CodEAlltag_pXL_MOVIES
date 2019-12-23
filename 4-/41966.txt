@@ -1,0 +1,37 @@
+This is a multi-part message in MIME format.
+--------------080605030506080104000007
+Content-Type: text/plain; charset=us-ascii; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Volker Niederstenschee schrieb:
+
+
+Gelacht wurde bei uns auch viel, besonders bei der Nacktszene, als man
+in Nahaufnahme die riesigen Nippel sieht ;-)
+
+Ciao,
+Rupert
+
+-- 
+www.Troc-Rwgw.pq
+Das Geraer Filmteam
+
+--------------080605030506080104000007
+Content-Type: text/x-vcard; charset=utf-8;
+ name="Eric.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="Eric.vcf"
+
+begin:vcard
+note;quoted-printable:-- =
+	
+
+	www.Troc-Rwgw.pq
+
+	Das Geraer Filmteam
+version:2.1
+end:vcard
+
+
+--------------080605030506080104000007--

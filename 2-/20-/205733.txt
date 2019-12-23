@@ -1,0 +1,25 @@
+Charles> Das Problem hast  Du aber mit jedem  Artikel: es gibt immer Leute, die
+Charles> nicht daran interessiert sind.
+
+Nicolas> Nein. 
+
+Nicolas> Hier ist  das Problem, dass man  das Interesse der Leute  an diesen
+Nicolas> postings  (cinemaxx-Programm   in  Essen)  in  ziemlich eindeutiger
+Nicolas> Verbindung zu deren geographischen  Positionen sehen kann. (Du bist
+Nicolas> DPD eine  Ausnahme.)  Bei den  (z.B.) premiere-postings,  die Dich
+Nicolas> nicht interessieren, kannst Du die Verbindung Ort<->Interesse nicht
+Nicolas> herstellen.   Koennte  man   das,   sollte  man    sich  sicherlich
+Nicolas> ueberlegen, ob man diese postings nicht anders verteilt.
+
+  Nein bzw. das ist nicht  das  Problem welches ich   sehe. Ich sehe nur  ein
+scheinbar  woechentliches Posting,  welches      mitteilt, wie man    an  die
+Information herankommt. Das halte ich fuer ueberfluessig.
+  Entweder die  Info wird direkt  gepostet bzw. ein  Update bzgl. Aenderungen
+oder gar nicht. Aber dieses Dauerwerbeposting nervt doch etwas.
+
+  DPD waere die Information in einer FAQ am  besten aufgehoben - nur gibt es
+hier noch keine.
+
+Ueli
+--
+/vmunix: kernel PANIC: .signature consists of more than 4 lines.

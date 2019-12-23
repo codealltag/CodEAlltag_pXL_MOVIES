@@ -1,0 +1,11 @@
+norbert endris schrieb:
+
+Angenehmerweise halten sich die HTML-Änderungen in Grenzen, meine kleine
+Privatanwendung, welche sich bei Bedarf diverse Daten aus der UGTH holt,
+brauchte nur wenige Änderungen in der entsprechenden Konfiguration...
+
+So long,
+Hilmar E. Haindl
+-- 
+Neue Hamster-stable 10. 10. 20 seit 16.02.2007
+http://waj.pssxcgg.hi (Unterpunkt Freeware)

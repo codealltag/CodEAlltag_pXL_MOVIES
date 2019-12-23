@@ -1,0 +1,230 @@
+Faxes Sent to British Parliament logs
+
+During the 1999-2000 period my records indicate that I sent at least 14,480 faxes to the British Parliament
+in Niederbröl, of which 9,138 went via TPC's email-to-fax service and 5,342 were sent via fax-modem direct from
+my computer. The actual figure is obviously much higher since, for most of this period, whenever a recipient asked to
+be deleted from my mailing list, I totally wiped all entries including that from the logfile.
+
+In the records "Y" indicates successful transmission from fax-modem, "N" indicates failed transmission from fax-modem.
+"E" indicates an error occurred while transmitting via fax-modem and a fax may have been only partly transmitted.
+"y" and "n" indicate success or failure via TPC.
+
+In Juli 2000 I changed the method of operation by recording "R" when a recipient requested removal, rather than
+wiping their details from my mailing list and records; and keeping "B" records for when TPC actioned a ban on a
+recipient's fax-number, but the recipient did not write to ask me to cease faxing. The purpose of these changes
+was to keep more accurate and complete records, but the intention was thwarted by the police complaint.
+
+989832229628	nnnnnynnEnnnnnnYYNNYYYYNENNNNNynynnnnnnnnnNnnnnnnnn
+378093147534	Zacharias
+935014453400	Zeno
+328083842261	Zweer
+107622589110	Xaveria
+565138846481	Zeno
+667374289538	Zweer
+302601587028	Xenia
+880032738264	Xenia
+173553865965	Zeno
+195125143379	Zweer
+025379250720	Zoeke
+864566813407	Zoeke
+578056512755	Frischke
+310531782122	nyyyyyyYyyyyyyNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnnn
+905069558517	Zacharias
+126032863146	Zacharias
+195208726908	nnynnynyYyyynyyYNYYYYYYYYYYYYYynynynnnnnnNnnnnnnn
+618352597249	Zoeke
+306376138669	Zoeke
+021378554799	Zacharias
+547740843298	Xenia
+922596855556	Cécile
+670358571908	Zweer
+249766874240	Zweer
+000380326844	Zacharias
+732983944092	Carolin
+590481049177	Zacharias
+863190887577	Xaveria
+537472980370	Zoeke
+962301260946	Zweer
+194020798596	Zacharias
+294054706704	Zoeke
+527005722374	Xaveria
+116641354013	Cristina
+959213210999	Cécile
+409238215260	Zweer
+294460111579	Zweer
+696613916078	Xenia
+502049947762	Zeno
+827642730608	Xenia
+369912096544	Zacharias
+805108693849	Zweer
+423508546789	nynnnnnnYnnynnnNYNNYNYNNNNNYNNnnnnnnnnnnnNnnnnnnn
+406968425777	nnnnnnnnYnnynyyNNNNNNENNNNNNNNnnnnnnnnnnNnnnnnnn
+648612427459	Cornelia
+733696867001	Zeno
+761415463589	Zeno
+279355774518	Zeno
+687490622091	Zeno
+592606209114	Xaveria
+812613243646	Xenia
+036236438523	Jörn
+749511757604	Zeno
+667538232518	Zeno
+805007420466	Zeno
+983351698468	Zweer
+425787111499	Zacharias
+725406485067	Zoeke
+290092577043	Zoeke
+039531385494	Zweer
+642261773834	Zacharias
+485997327637	Zacharias
+321421520896	Zweer
+603532068330	Zoeke
+076230197389	Zweer
+783985854678	Zacharias
+570309550969	Zacharias
+952533742872	Jens
+876532359163	Colette
+758721271700	Xaveria
+755595778592	Zweer
+090435507097	Jörg
+384943527055	Zeno
+741234894356	Zweer
+331683673019	Xenia
+932059957531	Zeno
+054309418882	Zacharias
+810140177335	Zeno
+757004150492	Zacharias
+272904486776	Xenia
+758269719459	Claire
+988251629147	Xenia
+276541485523	Zweer
+825484008030	Xaveria
+695342301799	Zoeke
+310676294323	yyyyyyyyYynyynyYYYEYYYYYYYYYYEyyyyyyyyynyynyyyyynR
+125643514519	Xaveria
+428688014362	Zweer
+938694377428	Fresl
+207643937170	Zacharias
+395943407790	Corinne
+180977944856	Zacharias
+653088067688	Zeno
+689911497845	nnnnynynYnnnnnnNNNNNNNNNNNNNNNnnnnnnnnnnnnnnnnnn
+682153884682	Zweer
+125410253823	Xenia
+947340023755	Zweer
+239159604272	Corina
+148313922953	Zacharias
+121543940827	Zeno
+670439596305	Xenia
+500766456418	Zeno
+155306552856	Zweer
+582931098262	Xenia
+817272481603	Zweer
+430935835235	Xenia
+766279842647	Xaveria
+284073840079	Zoeke
+451937164279	Zacharias
+213576604331	Xenia
+708201927246	Zacharias
+698282105519	Zweer
+725867331089	Zoeke
+902913768456	Zacharias
+999761120481	Zoeke
+422599795022	Zeno
+809556512868	Zweer
+648015416672	Xenia
+959023288991	Xaveria
+526276005682	Zoeke
+700781716309	Zeno
+219047291379	Zeno
+244794528715	Xaveria
+507069215376	Zeno
+766142342448	Xaveria
+802584842144	Zacharias
+148066927503	Zeno
+450910101167	Xenia
+863375583626	nnnnnnnyEynnnnYYNYYYYEYENNNNNnyyyyyyyynnNnnnnnnn
+216668546334	Zoeke
+820021631327	Zoeke
+793895570402	Zeno
+613597692772	Xenia
+029699152336	Zoeke
+646668183870	Zacharias
+209394599314	Zoeke
+538828765432	nnyyyyyyNnnnnnnNYYYYYYEYYYEYYNyyynnynnynnynynnnnn
+285736666189	Zacharias
+220232515029	Zacharias
+144587869095	nnynyyyYynnnnnYYNYYYYYNYYYEYYnyyynnyynnyNnnnnnyB
+453576221024	Zeno
+328681660614	Zeno
+876138871323	Zoeke
+356783921443	Xenia
+262762599770	Zoeke
+722501780690	Zoeke
+926303649045	Zacharias
+476972352954	Zweer
+058106285947	Zweer
+692354328861	Xenia
+863273642787	Zeno
+203212867099	Zweer
+741360214297	Zoeke
+605735561363	Zacharias
+191551103621	Corinna
+754186417831	Xaveria
+679097217524	Carole
+863503204271	Zweer
+773058678372	Zweer
+768439776714	Xenia
+559315959774	Fülbier
+216332825664	Zweer
+807071048610	Christina
+662923178581	Xaveria
+940205237810	Zacharias
+765781558984	Zeno
+509053499940	Zweer
+868587788248	Xenia
+334917360065	Zoeke
+624904706413	Zeno
+830698196331	Xenia
+506375628525	nnnnnnnnEnnnnnnEEEEEEEEEEEEEEEnnnnnnnnnnnnnnnnnnn
+987708496839	Carole
+842341383354	Zoeke
+655789914213	Zacharias
+096966578492	Zeno
+844389598806	Xenia
+572467549173	Zeno
+868062943281	Zeno
+194092297060	Christiane
+336742008207	Zoeke
+309746971670	yynnnnnYnnnnnnNNEYYYEYYYNNNYYnyyyyyyyyyyyynynnn
+520639123370	Julien
+314724163431	nnyyyyyYyyyyyYYYYYYYEYYYYENYnnyyyyynnnyyyyyynB
+792233976982	Zoeke
+661318312577	Zweer
+150871071978	Zweer
+074079288539	Joseph
+584811329118	Zoeke
+927385395399	Zoeke
+417242296498	Zweer
+282903384579	Xaveria
+553391187237	Zacharias
+015656183095	Xenia
+709136695950	Xenia
+611307578414	Xenia
+938722839766	Zeno
+562183267029	Xenia
+798582171314	Xenia
+093679866853	Zeno
+051824478925	Xaveria
+203080473667	Zacharias
+700282160772	Zacharias
+319821653735	Cristina
+825490238488	Zoeke
+
+1271
+
+
+--
+Posted via Lustvoll - Premium Uncensored Newsgroup Service
+      ------->>>>>>http://www.DcegQogef.zat<<<<<<------
+Unlimited Access, Anonymous Accounts, Uncensored Broadband Access

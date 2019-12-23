@@ -1,0 +1,7 @@
+Gerard 'Hinrich' Goeltl <ratrbifvtomfu@flhlz.xm> wrote:
+[...]
+
+Hmm. Linux installieren und mplayer[1] verwenden?
+             SCNR, cu gerard
+Fup2 poster.
+[1] mit ffmpeg nicht mit den originalen Windows-dlls.

@@ -1,0 +1,17 @@
+* Italo Zeppenfeld <woxbf.dbfhpw.vhyfexjtay.wr.zukqb@iesndwe.pf>:
+
+
+Mit einem Whois-Client:
+
+whois -h whois.tv brandonrouth.tv
+
+über telnet geht's mit...
+
+telnet whois.tv 43                      
+
+...und dann in _schnell_ brandonrouth.tv eingeben.
+Spart das lästige Nachgucken über irgendwelche Eingabefenster.
+
+
+Gruß,
+Franz

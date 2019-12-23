@@ -1,0 +1,28 @@
+Ich habe in der Hilfe von Outlook Express die Anleitung gefunden, wie
+man Nachrichten zusammensetzt. Ggf. muss man dabei die Frage bejahen, ob man
+in den Onlinbetrieb wechseln will.
+
+ZITAT
+
+So fassen Sie mehrteilige Nachrichten zusammen:
+
+Wenn eine große Nachricht (mit Bildern, Audiodateien oder anderen großen
+Objekten) als E-Mail gesendet oder einer Newsgroup als Beitrag
+bereitgestellt wird, wird sie teilweise in kleinere Dateien aufgeteilt und
+als mehrere Nachrichten angezeigt. Sie können diese Nachrichten
+zusammenfassen, um die ursprüngliche Nachricht wieder herzustellen und in
+Outlook Express anzuzeigen.
+
+Wählen Sie alle Nachrichten aus [durch markieren], die Teile der
+ursprünglichen Nachricht
+sind (im Allgemeinen sind diese Nachrichten durch Nummern als
+zusammengehörig gekennzeichnet)!
+Klicken Sie im Men Nachricht auf Zusammenfassen und decodieren!
+Bringen Sie gegebenenfalls die Teile in die richtige Reihenfolge!
+
+Anmerkung
+
+Nachdem Sie eine Nachricht zusammengefasst und decodiert haben, wird sie in
+einem eigenen Fenster angezeigt. In der Nachrichtenliste wird sie weiterhin
+als mehrere kleinere Nachrichten angezeigt. Klicken Sie im Men Datei auf
+'Speichern unter ...'!, um die zusammengefasste Nachricht zu speichern.

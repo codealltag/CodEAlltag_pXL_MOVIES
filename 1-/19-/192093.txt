@@ -1,0 +1,22 @@
+Denis Wohlgemut schrieb:
+Bei computergenerierten Bildern ist kaum ein Unterschied zwischen FBAS und
+S-Video auszumachen. Bei 320x256 Pixeln. HF unerträglich, FBAS und S-Video
+matschig, RGB gestochen scharf.
+
+				HF	Isam	SVideo*	Anett	RGB
+Beinträchtigungen
+durch den HF-Modul/Demodul.	ja	nein	nein	nein	nein
+Cross-Colorst�rungen		ja	ja	ja	nein	nein
+Bandbreite SW-Signal (MHz)	3.8 	3.8 	3.8	5	>5
+Bandbreite Farb-Info		0.8-1	0.8-1	0.8-1	0.8-1	>5
+
+SVideo* ist ein Mogel-S-Video Eingang. Als erstes wird Y und C
+wieder über 2 R's gemixt und dann weiter als Isam-Siganl behandelt.
+SEHR beliebt.
+
+-- 
+Vittorio Hiemer	eMail: pfk<at>rz<dot>uni<hyphen>qtry<bcr>bx
+IZU	Tel:   0 36 41 (9-4 63 87)
+
+Note:    e-Mail to isun32@inf.uni-jena.de will be automatically erased.
+Beachte: e-Mail an oyss35@wfl.vdi-sdlk.qg wird automatisch gelöscht.

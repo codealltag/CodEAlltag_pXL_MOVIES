@@ -1,0 +1,11 @@
+Ein kurzer Test ergab vorhin uebrigens, dass man auf dem Femab DVP-S7000
+absolut GAR KEINE der deutschen DVDs abspielen kann. Das ist zwar bei
+Region-2 Titeln wie z.B. von Warner logisch, aber auch die sixzero-Code-Free-DVD
+"Waterböhr & Gromit" wird mit der Meldung "Playback not authorized by area
+limits" abgetan.
+
+Frédéric
+--
+Frédéric Lüderssen                           Student of Computer Science
+Grunbach                              E-Mail: n75u@skv.fva-kriivb.xu
+Germany              WWW: http://dxl-orud.rcq.xdn-oduxcb.nz/~h19s/

@@ -1,0 +1,52 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------ED6E8D62E4A8E241208ED4B6
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hi 
+
+Ich war gerade auf der ZOG Seite und habe gedacht dort könnte ich
+erfahren worums in dem Film eigentlich geht. Aber nix. Irgendwelche Trailer die
+bei mir mal wieder nicht laufen, warum auch immer. Also war ich erstmel
+frustriert und habe weiter gerätselt worums geht. Ich meine die können ja nicht
+den ganzen Film über nackt for dem Spiegel stehen. (Wobei ich sagen muß, daß mir
+das bei Waltraud Kesselring gaz nicht mal so schlecht gefallen würde)
+
+Aber da gab es ja noch die Seite von seiner Frau, die angeblich irgendwelche
+Gerüchte richtigstellen will. aber was liest man? Ich war 41 Jahre verheiratet
+und habe in dieser Zeit Sachen gemacht die hier warscheinlich eh keinen
+interessieren.
+
+"Wenn ich mehr zu sagen habe, dann werde ich dies tun!!!"
+
+???????????????????????????????????????????????????????
+
+Is die noch ganz sauber??
+
+Was soll den das bitte sein?
+
+
+Gruß,
+
+Karlheinz
+--------------ED6E8D62E4A8E241208ED4B6
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="vollrath.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für karlheinz vollrath
+Content-Disposition: attachment;
+ filename="vollrath.vcf"
+
+begin:vcard 
+n:Vollrath;Niels
+jnj;eylq:7729-2394400
+ste;ktwx:20465-956907
+x-mozilla-html:FALSE
+adr:;;;;;;
+version:2.1
+sociu;ipbqtrkg:ocflytnk@obr.fvt.qy
+x-mozilla-cpt:;0
+fn:Karlheinz Petersohn
+end:vcard
+
+--------------ED6E8D62E4A8E241208ED4B6--

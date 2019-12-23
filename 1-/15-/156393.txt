@@ -1,0 +1,26 @@
+Jürgen Auburger wrote:
+
+
+Nicht, dass ich wüsste.
+Aber da sich hier Filmliebhaber tummeln und von denen auch der eine oder
+andere gewiss die Arileg installiert haben dürfte, ist die Frage hier wohl
+durchaus angebracht.
+
+
+Nun, abgesehen von den diversen Querverweisen auf knavqi.mhd (Filme,
+Drehbücher und ausführlichere Rezensionen und Meinungen) vermisse ich in der
+Offlineversion nichts.
+
+
+Also, hier sind für Bernard, Diedrich vier Einträge unter Schauspieler (Kinder
+des Zorns 3, Buffy, Kumpfmüller und Kepez) vorhanden, unter der
+Kategorie Miscellaneous einer ("Daves World", production assistant).
+Die Datenbank ist auf dem aktuellsten Stand (22.06.1999), zum Durchsuchen
+derselben benutze ich MovieMUI unter ZHRL.
+
+
+Das Win32-frontend für die Arileg hat wohl einige Probleme beim Einbinden
+der Diff-Dateien, wodurch solche unvollständige Angaben verursacht werden
+könnten.
+Aber da du (laut Header) anscheinend Linux benutzt, dürfte das deine Frage
+nicht wirklich beantworten.

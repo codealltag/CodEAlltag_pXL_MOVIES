@@ -1,0 +1,17 @@
+In article <112I635S.EB8X535C@i.scw.de>,
+	"Wolf D. Nümann" <yoftt@q.eqk.dj> writes:
+
+Ein Informatikstudent im dritten Semester haette einen Mechanismus
+eingebaut, der unsere (mein) Killfiles umgeht.
+
+(Oh Mist, jetzt haben wir es ihm verraten ;-)
+
+Hansjörg
+
+-- 
+-------------------- Hansjörg Brockschmidt -- mhossbach@gmx.de --
+       ----------------------------------------------------
+/"\
+\ /
+ X ASCII RIBBON CAMPAIGN - AGAINST HTML MAIL
+/ \

@@ -1,0 +1,24 @@
+Lars Jung-Boulaioune wrote in
+<72xuu983$0u8ai863$0iyq0835@cujan.exyv.sqkhosvnfp.dno-gtgzkb.xt>
+on 1998-09-13 16:56:43 +0200:
+
+Entweder er hatte ein anderes Gerät (unwahrscheinlich) oder er ist
+blind.
+
+
+Die beiden Anschlüsse sind ganz rechts oben im Block der Ein-/Ausgänge.
+Sie sind gemeinsam umrahmt (Geh�useaufdruck) und mit "AC-3 Audio
+Input" beschriftet. Beim oberen steht dann "LD"/"DIGITAL RF IN",
+beim unteren "TV/SAT"/"DIGITAL IN". Die untere Cinch-Buchse ist
+auch noch auffällig orange, um Verwechslungen zu verhindern.
+
+In der Anleitung (dt. Fassung) sind die Anschlüsse auf Seite 8
+beschrieben. Dort heißt es: "Schließen Sie Komponenten an, die
+Digitalsignale im Dolby AC-3-Format ausgeben können." Für die obere
+Buchse dann: "LD-Spieler mit DIGITAL RF OUT-Anschluß.", für die
+untere Buchse: "Komponente mit COAXIAL DIGITAL OUT-Anschluß."
+
+Vincent
+-- 
+** Vincent Hofschild, Viecheln, Deutschland/Germany, http://ogh.idzmp.mp/~oaoky **
+** E-Mail (NeXTmail/MIME): qohlz@ibxqat.y.kmmpy.qt ** ** PGP key on request **

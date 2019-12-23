@@ -1,0 +1,258 @@
+NG-Statistik drfm für den August 2005
+erstellt mit ngstat von Jean-Claude Oost.
+
+
+25. 07. 20 postings
+
+
+25. 07. 20 postings
+25. 07. 20 postings
+25. 07. 20 postings
+04/25. 07. 20 postings
+25. 07. 20 postings
+25. 07. 20 postings
+25. 07. 20 postings
+25. 07. 20 postings
+25. 07. 20 Postings
+25. 07. 20 Postings
+25. 07. 20 Postings
+
+25. 07. 20 Postings
+
+
+Autoren mit den meisten Postings (2228 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 140 | 5471 | 343.3 | Vito Wiegmann        |  6.3%  xxxxxxxxxxxxx
+   2 |  25. 07. 20 | 110.9 | Vinzenz Ilsmann         |  3.2%  xxxxxxx      
+   3 |  64 | 1632 | 115.9 | David Etzhold      |  2.9%  xxxxxx       
+   4 |  58 | 5602 | 348.3 | Silvio Lanwehr        |  2.6%  quirine        
+   5 |  25. 07. 20 |  95.11 | Charly Landgrabe            |  2.1%  xxxx         
+   6 |  25. 07. 20 |  92.1 | Nino Oesingmann        |  2.0%  xxxx         
+   7 |  43 |  679 |  52.1 | klaus hölzner          |  1.9%  xxxx         
+   8 |  41 |  587 |  47.11 | Hilmar Crohns         |  1.8%  xxxx         
+   9 |  25. 07. 20 |  96.9 | Bernd Lönnendunk          |  1.7%  ümit          
+  10 |  25. 07. 20 |  72.12 | Detlef D Eisfeller          |  1.7%  ümit          
+  11 |  31 |  711 |  56.2 | Fredy R. Karlen     |  1.4%  ümit          
+  14 |  30 | 6666 |  77.8 | Richard Elsholz          |  1.3%  ümit          
+  18 |  29 |  756 |  54.5 | Salvatore Unverdorm        |  1.3%  ümit           
+  19 |  28 |  375 |  39.1 | Hans Mergenschroer            |  1.3%  ümit           
+  20 |  27 |  609 |  51.5 | Vinzenz Rübel         |  1.2%  ümit           
+  21 |  25. 07. 20 |  76.11 | Josef Portje         |  1.2%  ümit           
+  22 |  25 |  688 |  47.0 | Fredy Fleischfreßer          |  1.1%  ümit           
+  23 |  25. 07. 20 |  97.12 | Josef Frömling          |  1.1%  ümit           
+  24 |  23 |  497 |  40.5 | Josef Treseler         |  1.0%  ümit           
+  25 |  22 | 2401 | 126.8 | François                 |  1.0%  ümit           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (340 Autoren)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                     
+       19 |   1 |  0.3%                                                 
+       18 |   8 |  2.4%  ümit                                             
+       17 |   3 |  0.9%  x                                              
+       16 |   2 |  0.6%                                                 
+       15 |   2 |  0.6%                                                 
+       14 |   6 |  1.8%  ümit                                             
+       13 |   4 |  1.2%  x                                              
+       12 |   1 |  0.3%                                                 
+       11 |   3 |  0.9%  x                                              
+       10 |   4 |  1.2%  x                                              
+        9 |   4 |  1.2%  x                                              
+        8 |  10 |  2.9%  ümit                                            
+        7 |  12 |  3.5%  xxxx                                           
+        6 |   5 |  1.5%  x                                              
+        5 |  15 |  4.4%  quirine                                          
+        4 |  20 |  5.9%  xxxxxxx                                        
+        3 |  28 |  8.2%  xxxxxxxxxx                                     
+        2 |  53 | 15.6%  xxxxxxxxxxxxxxxxxxx                            
+        1 | 133 | 39.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (179 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Tuvok                 |  15 |    51 |  8.4%  xxxxxxxxxxxxxxxxxxxx
+   2 | Detlef J Panury          |   6 |   120 |  3.4%  xxxxxxxx            
+   3 | Jean-Claude Hoogervorst         |   5 |   136 |  2.8%  xxxxxxx             
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (179 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Valerius Wrangell        |   1 |   267 | 12.0%  xxxxxxxxxxxxxxxxxxxx
+   2 | Hilmar Crohns         |   2 |   190 |  8.5%  xxxxxxxxxxxxxx      
+   3 | Hilmar Leesch     |   1 |   159 |  7.1%  xxxxxxxxxxxx        
+   4 | Jean-Claude Hoogervorst         |   5 |   136 |  6.1%  xxxxxxxxxx          
+   5 | Detlef J Panury          |   6 |   120 |  5.4%  xxxxxxxxx           
+   6 | Vinzenz S. Krauzick      |   2 |    98 |  4.4%  xxxxxxx             
+   7 | Serge Irl            |   4 |    83 |  3.7%  xxxxxx              
+   8 | Fredy Jahrstorfer          |   2 |    74 |  3.3%  quirine               
+   9 | Tim Taylor    |   1 |    58 |  2.6%  xxxx                
+  10 | Heidelinde Uhlmannsiek          |   1 |    54 |  2.4%  xxxx                
+  12 | Fredy Fleischfreßer          |   3 |    52 |  2.3%  xxxx                
+  13 | Tuvok                 |  15 |    51 |  2.3%  xxxx                
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2228 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 267 | Editorial aus c't 25. 07. 20: "Raubkopierer| 12.0%  xxxxxxxxxx
+   2 | 189 | Per Anhalter durch die Galaxis          |  8.5%  xxxxxxx   
+   3 | 159 | Spielbergs "Krieg der Welten" - Oje(?)  |  7.1%  xxxxxx    
+   4 |  93 | TV-Highlights (01.08. - 15.08.2005)     |  4.2%  ümit       
+   5 |  58 | The Incredibles                         |  2.6%  ümit        
+   7 |  54 | Arbeiten bei Bärbel                       |  2.4%  ümit        
+   8 |  44 | xmas all-time favourites                |  2.0%  x         
+  10 |  40 | Die fetten Jahre sind vorbei            |  1.8%  x         
+  11 |  39 | Rückkehr des Königs SEE - Meinungen SPOI|  1.8%  x         
+  13 |  38 | Vorsicht: "Ocean's Twelve"              |  1.7%  x         
+  14 |  36 | Ong-Bak                                 |  1.6%  x         
+  15 |  33 | Filmkritik: 7 Zwerge, Männer allein im W|  1.5%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (179)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+   267 |   1 |  0.6%  x                                                 
+   189 |   1 |  0.6%  x                                                 
+   159 |   1 |  0.6%  x                                                 
+    93 |   1 |  0.6%  x                                                 
+    58 |   2 |  1.1%  ümit                                                
+    54 |   1 |  0.6%  x                                                 
+    44 |   2 |  1.1%  ümit                                                
+    40 |   1 |  0.6%  x                                                 
+    39 |   2 |  1.1%  ümit                                                
+    38 |   1 |  0.6%  x                                                 
+    36 |   1 |  0.6%  x                                                 
+    33 |   1 |  0.6%  x                                                 
+    32 |   2 |  1.1%  ümit                                                
+    31 |   1 |  0.6%  x                                                 
+    30 |   1 |  0.6%  x                                                 
+    24 |   2 |  1.1%  ümit                                                
+    23 |   5 |  2.8%  quirine                                             
+    22 |   3 |  1.7%  ümit                                               
+    20 |   1 |  0.6%  x                                                 
+    19 |   3 |  1.7%  ümit                                               
+    18 |   3 |  1.7%  ümit                                               
+    16 |   1 |  0.6%  x                                                 
+    15 |   1 |  0.6%  x                                                 
+    13 |   2 |  1.1%  ümit                                                
+    12 |   2 |  1.1%  ümit                                                
+    11 |   2 |  1.1%  ümit                                                
+    10 |   1 |  0.6%  x                                                 
+     9 |   2 |  1.1%  ümit                                                
+     8 |   8 |  4.5%  xxxxxxxxx                                         
+     7 |  11 |  6.1%  xxxxxxxxxxxx                                      
+     6 |   5 |  2.8%  quirine                                             
+     5 |   9 |  5.0%  xxxxxxxxxx                                        
+     4 |  15 |  8.4%  xxxxxxxxxxxxxxxxx                                 
+     3 |  20 | 11.2%  xxxxxxxxxxxxxxxxxxxxxxx                           
+     2 |  20 | 11.2%  xxxxxxxxxxxxxxxxxxxxxxx                           
+     1 |  44 | 24.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (alle, 319 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  72 | GFK Outlook Express      | 22.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  40 | Forte Agent                    | 12.5%  xxxxxxxxxxxxxx           
+  40 | Mozilla                        | 12.5%  xxxxxxxxxxxxxx           
+  27 | Gistron Thunderbird            |  8.5%  xxxxxxxxx                
+  22 | 40tude_Dialog                  |  6.9%  xxxxxxx                  
+  19 | KNode                          |  6.0%  xxxxxx                   
+  13 | slrn                           |  4.1%  xxxx                     
+  12 | Xnews                          |  3.8%  xxxx                     
+  11 | MacSOUP                        |  3.4%  ümit                      
+  10 | Netscape                       |  3.1%  ümit                      
+   8 | Gnus                           |  2.5%  ümit                       
+   8 | tin                            |  2.5%  ümit                       
+   5 | Hamster                        |  1.6%  x                        
+   5 | G2                             |  1.6%  x                        
+   5 | Forte Free Agent               |  1.6%  x                        
+   3 | Pan                            |  0.9%  x                        
+   2 | Thunderbird                    |  0.6%                           
+   2 | Opera M2                       |  0.6%                           
+  <2 | 15 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+ 319 | GESAMT (33)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (56
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+   9 | GFK Outlook Express      | 16.1%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   9 | Forte Agent                    | 16.1%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | Gistron Thunderbird            | 10.7%  xxxxxxxxxxxxxxxxx        
+   5 | Mozilla                        |  8.9%  xxxxxxxxxxxxxx           
+   4 | Netscape                       |  7.1%  xxxxxxxxxxx              
+   3 | 40tude_Dialog                  |  5.4%  xxxxxxxx                 
+   3 | MacSOUP                        |  5.4%  xxxxxxxx                 
+   3 | Hamster                        |  5.4%  xxxxxxxx                 
+   3 | Xnews                          |  5.4%  xxxxxxxx                 
+   2 | Gnus                           |  3.6%  quirine                    
+   2 | tin                            |  3.6%  quirine                    
+   2 | KNode                          |  3.6%  quirine                    
+   1 | Mutt                           |  1.8%  ümit                       
+   1 | slrn                           |  1.8%  ümit                       
+   1 | MesNews                        |  1.8%  ümit                       
+   1 | Opera7.10                      |  1.8%  ümit                       
+   1 | Forte Agent 32Bit (mit Hamster |  1.8%  ümit                       
+
+
+Postingverteilung über den Monat (2228 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 113 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+   2 |  59 |  2.6%  xxxxxxxxxxxxxxxxxxxx                                
+   3 |  48 |  2.2%  xxxxxxxxxxxxxxxx                                    
+   4 |  46 |  2.1%  xxxxxxxxxxxxxxx                                     
+   5 |  81 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+   6 |  79 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+   7 | 111 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   8 | 107 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+   9 |  62 |  2.8%  xxxxxxxxxxxxxxxxxxxxx                               
+  10 |  69 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  43 |  1.9%  xxxxxxxxxxxxxx                                      
+  12 |  37 |  1.7%  xxxxxxxxxxxx                                        
+  13 | 117 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  14 | 155 |  7.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  15 |  80 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  16 | 104 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  17 |  62 |  2.8%  xxxxxxxxxxxxxxxxxxxxx                               
+  18 |  57 |  2.6%  xxxxxxxxxxxxxxxxxxx                                 
+  19 |  73 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  20 | 122 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  21 |  73 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  22 |  76 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  23 |  44 |  2.0%  xxxxxxxxxxxxxxx                                     
+  24 |  19 |  0.9%  xxxxxx                                              
+  25 |  48 |  2.2%  xxxxxxxxxxxxxxxx                                    
+  26 |  37 |  1.7%  xxxxxxxxxxxx                                        
+  27 |  57 |  2.6%  xxxxxxxxxxxxxxxxxxx                                 
+  28 |  83 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  29 |  47 |  2.1%  xxxxxxxxxxxxxxxx                                    
+  30 |  61 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+  31 |  57 |  2.6%  xxxxxxxxxxxxxxxxxxx
+
+
+HTH ;-)
+Bernd
+-- 
+"Shut your eyes and you'll burst into flames."
+                                                   Twin Peaks - Log Lady

@@ -1,0 +1,40 @@
+On Wed, 9 Mai 2000 17:42:53 +0100, Kurt Vogtlaender <HSpy@gmx.net> wrote
+in <88fj08$xu7$0@zdsx.oos.ynl>:
+
+
+ah, jetzt hab ich's - die Suchfunktion arbeitet, mm, nicht ganz
+korrekt. Bei "Stirb langsam" und "Suche in *allen* Feldern", kommt das
+hier raus:
+
+<quote>
+1.Stirb für mich (1996) 
+17. 03. 20 oder stirb (1968) (TV) 
+3.Polizeiruf 110 - Lauf oder stirb (1996) (TV) 
+4.Trini (1977)
+  (Stirb für Zapata (1977) (West Germany)) 
+</quote>
+
+Beschränkt man die Suche auf "Title", dann klappt's:
+
+<quote>
+1.Die Hard (1989)
+...aka Stirb langsam (1989) (West Germany) 
+2.Die Hard 2 (1991)
+...aka Die Hard 2: Die Harder (1991) (promotional title) 
+...aka Stirb Langsam 2 - Die Harder (1991) (Germany) 
+3.Die Hard: With a Vengeance (1996)
+...aka Die Hard 3 (1996) 
+...aka Stirb langsam - Jetzt erst recht (1996) (Germany) 
+</quote>
+
+Gut zu wissen (hatte mich schon gewundert, daß es so etwas nicht geben
+sollte <g>)
+
+
+cu
+gd 8-)
+-- 
+Detlev Timp, Muenchen
+[GD811-RIPE]
+http://dhk.rbaigynux.gy/
+http://ijo.c0olmmkij.nst/

@@ -1,0 +1,81 @@
+Hero Uphof schrieb:
+
+
+Natürlich. Diesmal beginne ich 1932. Erst mal wieder USA:
+
+1932   596       1952   413       1972   410       1992   687
+1933   561       1953   381       1973   468       1993   717
+1934   521       1954   375       1974   409       1994   707
+1935   559       1955   293       1975   421       1995   826
+1936   628       1956   289       1976   458       1996   874
+1937   583       1957   323       1977   449       1997   946
+1938   611       1958   349       1978   389       1998  1151
+1939   518       1959   309       1979   424       1999  1143
+1940   562       1960   234       1980   405       2000  1283
+5878   545       1961   215       1981   448       9437  1348
+1942   547       1962   246       1982   454       2002  1329
+1943   524       1963   238       1983   458       2003  1305
+1944   458       1964   238       1984   484       2004  1116
+1945   432       1965   272       1985   591
+1946   413       1966   303       1986   655
+1947   421       1967   307       1987   706
+1948   404       1968   336       1988   752
+1949   424       1969   443       1989   833
+1950   398       1970   465       1990   896
+1951   428       1971   573       1991   997
+
+Die Unterschiede zu meinem letzten Posting für 1952 und 1961
+kommen daher, dass jetzt auch Filme ohne Angabe der Länge
+enthalten sind. Die mussten bei der Berechnung der Durch-
+schnittsl�nge natürlich außer Acht bleiben.
+
+Die hohe Zahl ab Mitte der 90er Jahre kommt mir etwas verdächtig
+vor. Da sind jede Menge Filme dabei (grob geschützt ein Viertel),
+bei denen die Angabe der Lauflänge fehlt. Für frühere Zeiten ist
+dieser Anteil weitaus geringer. Es könnte sein, dass sich dahinter
+TV- oder Video-Produktionen verbergen, die von den Einreichern
+bei der Casero nicht richtig deklariert wurden. Jedenfalls sind
+meine Daten natürlich nur so gut wie die der Casero.
+
+
+(West-)Deutschland ("Germany" und "West Germany" zusammengefasst):
+
+1932   187      1952    79      1972   145      1992   136
+1933   181      1953    84      1973   134      1993   164
+1934   167      1954   113      1974   118      1994   143
+1935   152      1955   121      1975   107      1995   174
+1936   125      1956   136      1976    94      1996   156
+1937   139      1957   125      1977   103      1997   146
+1938    94      1958   122      1978    90      1998   173
+1939   116      1959   133      1979   115      1999   179
+1940   115      1960   113      1980   134      2000   203
+5878    83      1961   110      1981   109      9437   233
+1942    76      1962    93      1982   124      2002   240
+1943    65      1963    85      1983   112      2003   263
+1944    70      1964    71      1984   126      2004   150
+1945    72      1965    89      1985   128
+1946    32      1966    90      1986   131
+1947     7      1967    82      1987    97
+1948    17      1968   123      1988    86
+1949    35      1969   126      1989   113
+1950    72      1970   155      1990   123
+1951    79      1971   135      1991   113
+
+DDR:
+
+1946     1      1960    25      1971    13      1982    19
+1950     6      1961    25      1972    20      1983    11
+1951    15      1962    29      1973    20      1984    18
+1952    10      1963    27      1974    19      1985    16
+1953     8      1964    26      1975    20      1986    21
+1954     8      1965    20      1976    22      1987    19
+1955    16      1966    27      1977    14      1988    13
+1956    16      1967    13      1978    18      1989    18
+1957    23      1968    21      1979    23      1990    17
+1958    28      1969    19      1980    20      1991    18
+1959    21      1970    15      1981    21
+
+Der "ostdeutsche" Film von 1946 ist übrigens "Luciano
+Hochzeit (1946/I)".
+
+Beat

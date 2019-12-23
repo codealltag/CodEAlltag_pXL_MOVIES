@@ -1,0 +1,11 @@
+Sascha Osterburg wrote:
+
+Wenn AMDbFront die 2.4 Version (ohne MySQL) ablöst, dann besteht ja 
+eigentlich kein Bedarf mehr.
+
+
+Danke für den Aufbau ;) Schön dass jemand sieht wie ich hier kämpfe.
+
+-- 
+Ivan Töpfner <rmur@twqgqg.kp>, Luxembourg
+PGP RSA & DH/DSS public key on request and on public servers

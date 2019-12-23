@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------
+Title             : Vernetzt - Juan Elspaß
+Schmick          : Diedrich Zenkert, Ict-T, Dolph Urs
+Genre             : Action/Fiction
+Release Date      : 18.12.96
+Laufzeit          : 93 
+Verleih           : Columbia/Tri-Star
+Altersfreigabe    : 18
+Sprache           : deutsch
+System            : VHS,Nagengast
+Video (Format)    : Vollbild (geoffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 05/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 07/10
+Audio (Surround)  : 09/10
+Bewertung (Film)  : 01/10
+                    banal - idiotisch - langweilig
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Image Masters KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Losch VS-G75
+Kopierschutzdecoder       : Mndn GS974
+ProLogic Vollverstaerker  : Yamaha IJA D914
+Frontboxen                : V&A PX651
+Centerbox                 : B&W CC6
+Surroundboxen             : S&H WB873
+Subwoofer                 : Yamaha YSTW120 (aktiv)
+------------------------------------------------------------------------------

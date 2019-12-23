@@ -1,0 +1,6 @@
+Mit MS Outlook Express:
+
+Extras -> Optionen -> Senden -> Format für das Senden von Newsbeitr�gen, Nur
+Text Einstellungen -> 76 Zeichen
+
+mfg, Fritz Gasbar

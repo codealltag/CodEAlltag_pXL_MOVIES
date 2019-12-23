@@ -1,0 +1,10 @@
+Valerian Dömer wrote:
+
+die imdb progs lassen sich problemlos unter cygwin kompilieren. 
+hab vor ein paar jahren dazu hier ein paar tips geposted.
+
+Makefile benötigt eine anpassung.
+ftp://ovpre.rs-zmmt.hj.hi/kls/tshtdzj/ytqff/mvml/
+-- 
+Jens Lutterjohann
+http://rc.sgh.ih/dulf/

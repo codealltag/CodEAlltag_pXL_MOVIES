@@ -1,0 +1,8 @@
+* Theo Jöring <aggea_zyftgmvy@mol.hb>:
+
+
+rec.arts.movies.*
+
+Wenn es allgemein englischsprachig sein darf.
+
+Pascal

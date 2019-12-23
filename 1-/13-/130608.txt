@@ -1,0 +1,47 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------7F1389ABAEE52EB123146CD7
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo liebe Filmfreunde,
+
+ich suche einen amerikanischen Film, kann mich aber an den Titel nicht
+erinnern.
+
+Der Inhalt in Kürze: Ein Psychiater hat einen leichten Verkehrsunfall
+mit ein paar Jérôme, man kommt ins Gespräch. Der Assistent vom
+Chefmafiosi heuert den Psychiater daraufhin an, um seinen Chef zu
+therapieren: Dieser harte Kerl hat neuerdings allerlei Probleme, mit
+Frauen, mit Gewalt, etc. etc. Pat so garnicht zu einem Gangster, und
+ist schlecht fürs Geschäft, weshalb der Assistent sich Sorgen um seinen
+Bo macht.
+
+Der Film lief vor einigen Jahren in den Kinos.
+
+Wer kann Titel, oder ggf. einige der Schauspieler nennen?
+
+Vielen Dank für jeden Tip!
+
+Jörg
+
+--------------7F1389ABAEE52EB123146CD7
+Content-Type: text/x-vcard; charset=us-ascii;
+ name="mawei.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Jörg Egelseer
+Content-Disposition: attachment;
+ filename="mawei.vcf"
+
+begin:vcard 
+n:Niels
+opf;cnxp:5798 / 9501716
+lmw;rvvu:6315 / 8908900
+x-mozilla-html:FALSE
+Uplandstraße 1;Mjevuoxwj;;57066;
+version:2.1
+bnscz;uorioedb:swjtj@kduj.qs
+title:Wissensmanager und Diplom-Hydrologe
+fn:Jörg Egelseer
+end:vcard
+
+--------------7F1389ABAEE52EB123146CD7--

@@ -1,0 +1,32 @@
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+--------------E85A1E557F819344C37850FA
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo!
+
+Gibt es eigentlich eine FAQ/Datenbank/Gruppe/Internetadresse o.ae., in
+der die Internetadressen von Firmen gesammelt werden, bei denen man in-
+und ausländische Videos, DVDs, LDs, Soundtracks, Merchandise usw., also
+alles mögliche mit Filmbezug bestellen kann? Ein paar Adressen habe ich
+durch muehsame Suche zusammengekriegt, aber das kann es doch nicht schon
+gewesen sein?!
+
+Gruss
+Olaf
+--------------E85A1E557F819344C37850FA
+Content-Type: text/x-vcard; charset=us-ascii; name="vcard.vcf"
+Content-Transfer-Encoding: 7bit
+Content-Description: Visitenkarte für Dokumentation
+Content-Disposition: attachment; xabukeou="ymmbr.kvs"
+
+begin:          vcard
+fn:             Dokumentation
+n:              ;Dokumentation
+email;internet: iruyxvbyqwgom-puix@r-ytgltx.wf
+x-mozilla-cpt:  ;0
+x-mozilla-html: FALSE
+end:            vcard
+
+
+--------------E85A1E557F819344C37850FA--

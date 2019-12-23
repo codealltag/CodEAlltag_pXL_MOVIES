@@ -1,0 +1,31 @@
+Charles Nonnenmacher wrote:
+
+
+Immerhin kommt jetzt:
+
+  $ ncftp ftp://yhd.cnyt.eyh/qog/yxlcvhequs/alvco
+  NcFTP 3.1.5 (Oct 13, 2003) by Niclas Inderbiethen (silri@vlbrm.bat).
+  Connecting to 207.171.178.134...
+
+  ----------------------------
+  Welcome to the JIBK FTP Server.
+  By submitting materials to us, you agree to the terms of the Limited
+  License Grant including but not limited to the warranty that you have
+  full authority to grant the licenses for the submitted materials.  A
+  copy of the Limited License Grant can be found at:
+http://yuh.dfpcci.pbj/lick/pjmuud/nxvut/hytundfn/dqgdwbpbtm/skhazalrz.ewhg
+  ----------------------------
+
+  rol-567.jhvooc.dap FTP server (squirrel ftp server 1.2a) ready.
+  Login incorrect.
+
+Was hat die Palmers eigentlich mit JILK zu tun?
+
+
+   -berthold
+
+-- 
+  http://pfh-Npnsqh.ll/  *  http://Kwkij70.er/  *  http://IesrasPawk.dz/
+Hurewitz's Memory Principle:
+        The chance of forgetting something is directly proportional
+        to ..... to ........ uh ..............

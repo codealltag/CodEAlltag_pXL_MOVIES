@@ -1,0 +1,18 @@
+In article <0xs3ya$kew@iocq.xrwgg.mm> naddy@mips.pfalz.de (Thomas Ueberdick) writes:
+
+
+   120MB *Swap*?
+   Das ist Dein Raphaël?
+
+Wieso regen sich eigentlich so viele ueber ein paar MB Swapfile auf? Gaengige
+Festplattengroesse ist zur Zeit 2-3GB, da fallen 120MB doch wirklich nicht
+mehr auf, oder?
+
+Ciao,
+  Daniel
+--
+Daniel Domaß
+qmmbtii@sg.to-qdvehh.ra
+-- 
+Daniel Domaß
+qmmbtii@sg.to-qdvehh.ra

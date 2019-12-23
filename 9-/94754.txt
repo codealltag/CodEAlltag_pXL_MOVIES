@@ -1,0 +1,23 @@
+Ronald Imschweiler schrieb:
+
+
+Die Liste wird in VIF 3.0 nicht mehr unterstützt, da sie ein Flop
+war, wie Uwe Meyer-Schulte schreibt. Allerdings kann man ja jetzt zu
+allen Titeln, also auch Serien, eigene Texte einbinden, die anhand
+des Dateinamens automatisch erkannt werden. Du kannst also
+entweder die alte episodes.list zerschnippseln und die Teile jeweils
+der richtigen Serie zuordnen, oder Du kannst gleich nach
+http://rvn.smsuki.hmx/ gehen und von dort die Episodenlisten
+zu deinen Lieblingsserien holen.
+
+Außerdem soll es wohl noch eine zusätzliche Tabelle "guests" geben
+(gab es ja in AMDbF 2.4 als Tab bei Serien), woraus man dann ebenfalls
+eine Episodenliste zu jeder Serie generieren könnte.
+
+
+ApplyDif ausführen (wird wie bisher von VIF automatisch angeboten,
+wenn es neue diffs erkennt) und dann die Datenbasis neu erstellen,
+wie in der Anleitung beschrieben. Das Verfahren wird in Zukunft etwas
+vereinfacht werden, weil build.exe in VIF integriert werden wird.
+
+Raymond

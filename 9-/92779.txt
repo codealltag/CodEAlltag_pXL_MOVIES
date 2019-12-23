@@ -1,0 +1,9 @@
+Tim Neumeier ließ verlauten:
+
+
+Und zwar bei Pommelino nach dem System: embed-URL suchen, "-sref" durch
+"_m480" ersetzen (für die Large-Version). Wenn das Plugin den Film
+sofort startet, muß nur das "m" ergänzt werden.
+
+Jean-Claude
+Ulf
