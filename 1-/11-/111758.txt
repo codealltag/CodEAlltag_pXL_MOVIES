@@ -1,0 +1,17 @@
+[Spoilerzeichen wird von Textmodereadern, nicht aber von den
+verbreiteten GUI-UAs unter Win und *nix unterstuetzt.]
+
+
+Hallo!
+Kannst du noch mal fuer bloede nicht-GUI-Benutzer wie mich erklaeren,
+was dein Posting aussagen soll, und mit welchem Unsinn jetzt Schluss
+sein soll?
+
+Ich kann in den Vorgaengerpostings nirgendwo den Wunsch finden, jemand
+zu aergern. Tino hat lediglich gefragt, wie es mit der Unterstuetzung
+fuer  bei anderen Newsreadern als seinem[1] aussehe.
+           cu kai
+[1] Derselbe, den du benutzt.
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

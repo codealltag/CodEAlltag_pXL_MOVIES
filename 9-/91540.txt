@@ -1,0 +1,51 @@
+Butter fuer die Fische: Welche Reader haben mit korrektem Spoilerspace
+a la:
+S
+P
+O
+I
+L
+E
+R
+S
+S
+P
+O
+I
+L
+E
+R
+P
+O
+I
+L
+E
+R
+S
+P
+O
+I
+L
+E
+R
+
+Probleme? Ja das ist auch bei mir keine ganze Bildschirmseite, aber
+das ist auch gar nicht noetig, es ist weit genug, damit der Lesfluss
+_deutlich_ stockt. Es geht ja auch immer das Geruecht um, es gaebe
+Newsreader, die mehrere Leerzeile zu einer zusammenziehen, weshalb
+Spoilerspace eben nicht nur aus Leerzeilen bestehen duerfe.  - Trifft
+das auf halbwegs verbreitete Newsreader[1] zu? (Netscape 4.0 oder
+dergl. verblichene Schinken zaelen nicht.[2])
+
+[...]
+
+Zu wenige. Wohl nur die klassischen Textmode-Reader tin, slrn, et.al
+und natuerlich Gnus. OjE und z.B. Knode nicht.
+                cu clemens
+[1] Hier in der Gruppe zum Posten verwendet: OjE, Agent, Toyboxx/Gidub,
+Gnus, tin, slrn, MacSOUP, knode, Xara, XP, Gravity, Pan.
+[2] 4.5 ist die aelteste Version, die spaerlich eingesetzt wird, 5
+Postings in ca. einem Monat.
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

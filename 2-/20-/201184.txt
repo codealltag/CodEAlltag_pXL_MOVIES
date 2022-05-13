@@ -1,0 +1,8 @@
+Die meisten Projektoren sind Fest auf 24 Bilder eingestellt. Bei der
+neuen Version der Kinoton FP 30 gibt es zum antrib einen Synchronmotor
+der über einen Wandler angesteuert wird. Bei dieser Maschiene kann die
+Geschwiondigkeit in weiten Bereichen eingestellt werden wird aber
+normalerweise dazu benutzt um Stummfilme in der richtigen
+Geschwindigkeit zu zeigen. Ein Kinotechniker erzählte mir das DTS schon
+bei 25 Bildern nich mehr Synchron läuft (Ton ist auf CD-Rom)
+Dolby-Digital noch bis zu ca 29 Bildern mittmacht (Ton auf Film).

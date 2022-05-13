@@ -1,0 +1,22 @@
+Am 11 Jul 2001 schrieb Franca Fröhlings:
+
+
+Am einfachsten mit einem Taschenrechner. Die Angabe 6'4" bedeutet six
+feet, 4 inches (ein Fuß = 30,48 cm, ein Zoll = 2,54 cm)
+Näherungsweise entsprechen sechs Fuss 1,83m. Pasquale Taentzler ist also
+6*30,48+4*2,54=193 cm groß.
+
+Mekongmarkt bietet einen Umrechner an. Allerdings muss man immer zweimal
+umrechnen lassen, jeweils feet und inches separat und die Ergebnisse
+addieren. Sonst kommt es zu Fehlumrechnungen. 4 Inches sind eben nicht
+0,25 feet.
+
+
+Machen sie ja bereits. :-)
+
+Tschüss,
+        Bernard
+-- 
+Sorry, aber ich werde OEs Fehler einfach nicht per Hand nachbessern,
+das ist mir dann bei den vielen Nachrichten zu aufwendig.
+Lilian Schnecke in drtb <08uvk3$mp697$6@JU-9925.abrj.gvgqfn.np>

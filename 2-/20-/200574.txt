@@ -1,0 +1,33 @@
+Ja, ist moeglich.
+
+
+Ftp, z.B. via ftp.fu-berlin.de/oxt/misc/film/database
+(Pfad ist aus dem Kopf, kann auch leicht abweichend sein)
+
+
+Unix, Windows-System ist in ewiger Beta-Version und diese
+Woche soll ein OS/2-Client rauskommen.
+
+
+Momentan so ca. 80/90 MB.
+
+
+Upgedatet werden die Listen ueber sogenannte Diffs,
+das Ganze funktioniert ueber ein System, welches
+eigentlich dazu dient, Programmierern das Leben leichter
+zu machen. Vorhandene Dateien werden dabei gepatcht.
+Die Diffs fuer die einzelnen Listen (actors, release dates etc.)
+werden jede Woche auf die FTP-Server aufgespielt und sind
+inkrementell, d.h. sie bauen aufeinander auf.
+
+Niemand zwingt Dich, Deine Daten jede Woche upzudaten,
+aber *wenn* Du es tun willst, musst Du Dir alle Diffs,
+die seit Deinem letztem Update erschienen sind, besorgen
+und aufspielen.
+
+Noe ;-)
+
+Gruss Niclas
+--
+Internet: gsrhdoix@juiha.zf-uihgjm.al
+BBS: v.poayrvwpgr@kcmwbzdx.xeoxmgbt.ll

@@ -1,0 +1,21 @@
+Bei computergenerierten Bildern ist kaum ein Unterschied zwischen FBAS und
+S-Video auszumachen. Bei 320x256 Pixeln. HF unerträglich, FBAS und S-Video
+matschig, RGB gestochen scharf.
+
+				HF	FBAS	SVideo*	SVideo	RGB
+Beinträchtigungen
+durch den HF-Modul/Demodul.	ja	nein	nein	nein	nein
+Cross-Colorst�rungen		ja	ja	ja	nein	nein
+Bandbreite SW-Signal (MHz)	3.8 	3.8 	3.8	5	>5
+Bandbreite Farb-Info		0.8-1	0.8-1	0.8-1	0.8-1	>5
+
+SVideo* ist ein Mogel-S-Video Eingang. Als erstes wird Y und C
+wieder über 2 R's gemixt und dann weiter als FBAS-Siganl behandelt.
+SEHR beliebt.
+
+-- 
+Otmar Salg	eMail: brs<xl>bz<xxd>hus<tppuew>vsxt<ebi>eq
+FFDD	Tel:   0 35 56 (2-3 82 95)
+
+Note:    e-Mail to okyq21@kzx.fqb-mbia.ft will be automatically erased.
+Beachte: e-Mail an okyq21@kzx.fqb-mbia.ft wird automatisch gelöscht.

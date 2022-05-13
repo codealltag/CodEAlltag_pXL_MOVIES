@@ -1,0 +1,9 @@
+Falsch. Bei Einstellung des DVD-Players auf 16:9 ist es nur logisch, 
+daß die Untertitel nicht mehr, zumindest nicht mehr vollständig, in den 
+schwarzen Balken passen, den der Player bei 4:3-Fernsehern dazupackt 
+(sofern es sich um eine anamorphe DVD handelt).
+In der Einstellung 4:3 Letterbox sind die Untertitel bei 2,35:1-Filmen 
+tatsächlich meist komplett, bei 1,85:1-Filmen zum Teil im schwarzen 
+Balken, jedenfalls bei meinem Player.
+
+Rüdiger

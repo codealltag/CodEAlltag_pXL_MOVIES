@@ -1,0 +1,12 @@
+Hallo,
+ich habe neulich irgendwo gelesen, dass der Kopier(Abspiel)schutz bei
+"MEXX" dafür sorgt, dass die DVD nicht auf allen (Standalone)
+Player wiedergegeben
+werden kann.
+Was mich interessiert wäre, ob auf der DVD auch ein Rootkit enthalten ist,
+sowie
+bei "Mr. & Mrs. Probsthain", das dazu führt, dass ohne meine Einwilligung Dateien
+auf
+meinen Rechner verändert werden.
+LG
+Andree

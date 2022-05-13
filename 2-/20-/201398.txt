@@ -1,0 +1,28 @@
+Ja, mach das! Du wirst es nicht bereuen!
+
+
+Das ist kein Problem, solange Du nicht irgendwann mehrere
+Laserdisc-Player anschliessen willst (sehr unwahrscheinlich).
+
+
+Es wird niemals einen DVD-Player mit RF-AC-3-Ausgang geben. Das
+RF-Signal ist Laserdisc-spezifisch. DVD-Player werden ihr AC-3 ueber
+optischen oder koaxialen S/P-DIF ausgeben, so sie denn ueberhaupt
+einen AC-3-Ausgang haben. Ich hoffe, optisch, denn auch ich habe einen
+DSP-A3090 und bei dem ist fuer DVD ein optischer Eingang vorgesehen.
+
+
+Du kannst bei allen Modellen des JEF DSP-A3090 PAL und NTSC
+durchschleifen. Sogar das Genlock fuer das On Screen Display
+funktioniert mit PAL und NTSC. Der Schalter legt (wahrscheinlich) nur
+fest, von welcher Art das vom NIV erzeugte Videosignal sein soll,
+wenn grad kein Videosignal anliegt auf das er sich aufsynchronisieren
+soll.
+
+- Carlos
+
+---
+
+Carlos "Hermann" Espenhain
+gazmwklx@qgqavzbevo.zc-hcoanbnu.jp
+Ride more roller-coasters!

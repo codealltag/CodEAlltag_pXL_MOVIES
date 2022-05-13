@@ -1,0 +1,11 @@
+Du irrst nicht.
+
+
+Woher kennst Du Neos wirkliche Erscheinung?
+
+Didier
+-- 
+So hat ein LKW vollbeladen mit Magnetbändern (Leichner läßt grüssen ;-)) über
+kürzere Distanzen eine Transferrate, mit der keine Netzverbindung konkurrieren
+kann, die Ping-Zeiten eines LKWs sind aber nicht gerade berauschend.
+[Gottfried N. Ostermöller in de.comp.hardware.cpu+mainboard.misc]

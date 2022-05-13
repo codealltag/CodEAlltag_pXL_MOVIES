@@ -1,0 +1,8 @@
+Nur MySQL. Die Installation erfolgt mit einem üblichen Install-Shield.
+Wenn man nicht das vorgeschlagene Verzeichnis c:\mysql wählt, dann
+muss man noch in einer Datei my.cnf oder my.ini die Pfade zum
+Programm- und Datenverzeichnis festlegen, wie es in der Doku in
+Kapitel 2.1.2 beschrieben wird. Daten und Programm dürfen auf
+verschiedenen Partitionen liegen.
+
+Björn

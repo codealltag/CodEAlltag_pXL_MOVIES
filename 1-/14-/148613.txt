@@ -1,0 +1,41 @@
+Ich habe eher festgestellt, dass weibliche Tote einen BH tragen und
+dieser - entgegen den Unterhemden der maennlichen Leichen - nicht
+abgenommen werden muss.
+
+
+Dabei wird imo eine Leitpaste auf den Elektroden verteilt, damit es
+trotz trockener Haut und evtl. Koerperbehaarung guten Kontakt gibt.
+
+
+Der "Kasten" hat eine Batterie mit ueblicherweise niedriger Spannung
+(wahrscheinlich 12V). Um den Herzschlag eines Menschen aber von null
+wieder anzuwerfen, braucht man eine sehr hohe Spannung bei =~ null
+Strom, daher werden Kondensatoren aufgeladen (aehnlich wie bei einer
+Fersehroehre). Das Geraeusch zeigt dann an, dass die Solladung
+erreicht und das Geraet einsatzbereit ist.
+
+
+Das ist natuerlich Unsinn, wie gesagt: Strom gibt's da nur den
+Ladestrom und der ist immer der Gleiche.
+
+
+Mit dem Anlegen einer Gleichspannung kann man Muskeln zum Kontrahieren
+bringen. Das funktioniert auch so mit Herzmuskeln, allerdings muss man
+die Spannung auch wieder abschalten, da der Muskel sich sonst nicht
+wieder entspannt. Das wird ueblicherweise in jedem Frankensteinfilm
+vorgefuehrt. Wenn ein Herzmuskel noch nicht zu lange stillsteht, kann
+man ihn wieder zum Schlagen bringen, indem man einen (ggfs mehrere)
+kurzen starken Spannungsimpuls anlegt. Das ist bei einer manuellen
+Herzmassage prinzipiell das Gleiche, nur das der Muskel da durch
+starken Druck auf den Brustkorb stimuliert wird.
+
+Das wirklich Ulkige ist, dass in manchen Filmen oft auch schon mal
+eine Steckdose samt ausgerissenem Kabel einer Nachttischlampe als
+Defibrilator herhalten muss und das ist wirklich eine ziemlich sichere
+Methode, einen Halbtoten endgueltig wegzubraten. 230V Wechselspannung
+bei 50 Hz am menschlichen Herzen duerfte Wiederbelebungsversuche
+relativ nachhaltig vereiteln.
+
+
+Luego
+Mathias

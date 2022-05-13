@@ -1,0 +1,32 @@
+Zudem hast Du da ein Problem:
+Die Datenbank wird Indices für Filme und Personen verwenden (ich benutze 
+sogar noch mehrere andere Indices, etwa für Produktionsländer). 
+Für einfache Diffs der Datenbank muß die Zuordnung Film<->Index in allen
+Installationen einheitlich sein. Dazu müsste man dann zentrale Listen mit
+den Indices verteilen. Bislang werden die Indices einfach in der Reihe
+nach vergeben. Damit bekommt man aber unterschiedliche Zuordnungen, 
+jenachdem, ob man die Datenbank mit den aktuellen Listfiles frisch 
+generiert oder die Datenbank der Vorwoche aktualisiert.
+
+
+Werde ich machen. Dauert aber noch eine Weile.
+
+
+Ja.
+
+
+Da habe ich zu wenig Erfahrung.
+
+
+Wichtig ist, daß man die Strukturen der Datenbanktabellen geschickt wählt
+und dann festzurrt. Danach sind die Tools, die die Datenabnk aus den list- 
+bzw. diff-Files erstellen sowieso von den Frontend-Tools entkoppelt.
+
+
+"Zu meiner Zeit" gab's das noch nicht. Damals war IIRC gcc 2.3 aktuell.
+Nachdem ich dann Perl4 gelernt hatte, habe ich mir Stringmanipulation
+mit C(++) nicht mehr angetan.
+
+Ciao, Ltxgz                                        nrsonojx @ fajuiyms.mh
+
+Zuletzt gesehen: Das große Rennen von Kleinthannensteig Faat Kin髠�Blue End

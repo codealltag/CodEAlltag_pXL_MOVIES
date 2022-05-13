@@ -1,0 +1,8 @@
+On Fri, 13. 03. 22 16:52:44 +0200, Raphaël Meyring
+Was hat Alpenrausch eigentlich gegen die Criterion? Dort wird sie als RC1
+bezeichnet, sie ist aber definitiv RC0, das hat mir Criterion
+bestaetigt.  
+
+Gerhard
+-- 
+Nachbarschaftsstreit? Da gibts doch auch was von MDKB...

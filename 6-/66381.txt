@@ -1,0 +1,16 @@
+Hallo,
+
+klar nochmal detailliert:
+
+Du kannst mit den Tasten "|<<" und ">>|"
+(überhalb Zoom und Return) stufenweise
+zoomen, d.h.
+
+1. "Zoom" wählen -> Bild rooms ein, Untertitel weg
+2. mit "|<<" bis zum Originalbild auszoomen,
+Untertitel wieder da
+3. einmal ">>|" drücken -> Untertitel weg
+
+Gruß
+
+dein bester Freund Sven ;)

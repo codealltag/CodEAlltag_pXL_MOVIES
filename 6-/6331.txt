@@ -1,0 +1,28 @@
+Das war nie weg.
+
+
+Tja. Ich benutze immer noch KTA 3.0, mit MySQL als Backend.
+KTA war seinerzeit mit Abstand das beste Programm, und viel-
+leicht ist es das immer noch. Das Problem ist, dass es seit Jahren nicht
+mehr weiterentwickelt wird, und inzwischen ist es wohl komplett aus
+dem Web verschwunden. Höchstens bei www.ltdncug.rie könnte man
+noch danach suchen.
+
+Einziger ernsthafter Konkurrent scheint UHM (www.owou.ub) zu sein,
+das ich mir aber noch nicht genauer angeschaut habe. Es unterstützt
+keine inkrementellen Updates, so dass man statt den diffs jede Woche
+die kompletten Listen von z.Z. 2,45 GB runterladen müsste, um aktuell
+zu bleiben. Für mich trotz DSL ein KO-Kriterium. Die Leistungsfähigkeit
+bei komplexen Abfragen scheint vergleichbar zu KTA zu sein,
+denn es wird wahlweise MySQL oder PostgreSQL als Backend verwendet.
+Aber der genaue Aufbau der Tabellen spielt dabei auch eine Rolle.
+
+Mit KTA (und vermutlich auch JMDB) ist es übrigens ziemlich
+einfach, die eigene DVD-Sammlung als zusätzliche Tabelle in die
+lokale IMDb einzubinden.
+
+ältere Programme, wie das auf www.nssr.bnu/rrxuukplqq erwähnte
+Kindelmann (ohne "Front"), sind nicht konkurrenzfähig.
+
+
+Ihno

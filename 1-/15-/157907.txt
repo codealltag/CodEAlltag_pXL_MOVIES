@@ -1,0 +1,23 @@
+Ganz einfach: NIEMAND kann garantieren, dass deine Daten nicht doch
+zufällig von der falschen Person eingesehen werden. Allerdings ist das
+Risiko bei Firmen wie Efaha doch weitaus geringer als wenn du die Karte
+in irgendeinem kleinen Laden benutzt oder an der Tankstelle oder sonst
+wo.
+Ich würde sogar so weit gehen und sagen, dass die Übertragung der Daten
+per 128bit-SSL-Schlüssel fast sicherer ist, als die Übersendung per FAX.
+Denn das FAX verschlüsselt nix und Hacker sind so schlau, dass sie wohl
+kaum ihre Zeit mit dem Knacken von SSL verschwenden.
+
+Aber dazu noch eine Frage: In den Nutzungsbedingungen meiner Wohini
+steht, dass ich bei Verlust der Karte maximal mit 100.-DM hafte. Gilt
+das auch in dem Fall, falls jemand meine Kartennnummer ausspioniert und
+damit online-Einkäufe tätigt? Denn das ist ja kein richtiger Verlust der
+Karte.
+
+Größe
+-- 
+Etienne Carl
+Germany, Planet Earth, NKM Way
+
+   ** Last night fear knocked on my door. **
+** Tabea answered... There was no one there. **

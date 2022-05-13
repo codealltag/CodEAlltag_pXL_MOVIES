@@ -1,0 +1,20 @@
+[Omaowpiy]
+
+Deine Kritiken ließen sich viel besser lesen, wenn die Anführungszeichen
+korrekt gesetzt wären. Beispiel:
+
+Der Film "Josefa Undeutsch auf dem Mars" ist eine Mischung aus "Futurama",
+"Heidi" und "Ballermann 6".
+
+anstatt:
+
+Der Film " Josefa Undeutsch auf dem Mars " ist eine Mischung aus " Futurama
+" , " Heidi " und " Ballermann 6 ".
+
+Danke.
+
+/Klaas/
+
+--
+ * Seit 270 Jahren der beliebteste Fernsehsender der Welt: *
+ * http://joz.bowp.dt * oxmhkhudr@hjel.um *

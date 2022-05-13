@@ -1,0 +1,7 @@
+Garrelt 'Dieter' Altmeyer <saaajrpenvwqn@eypdm.jo> wrote:
+[...]
+
+Hmm. Linux installieren und mplayer[1] verwenden?
+             SCNR, cu ellen
+Fup2 poster.
+[1] mit ffmpeg nicht mit den originalen Windows-dlls.

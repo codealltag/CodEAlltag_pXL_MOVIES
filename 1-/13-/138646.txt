@@ -1,0 +1,21 @@
+Von Zelluloid-Kopien werden keine Raubkopien mehr angefertigt.
+So alte Schinken wissen die Raubkopierer doch gar nicht zu schaetzen.
+
+
+Raubkopien von Acetat-Film koennen IMO nur durch qualitativ
+moeglichst hochwertiges Abfilmen der Projektion angefertigt werden.
+
+
+Die langfristige Vision ist aber anscheinend, dass die Filme ueber
+Breitbandnetze oder Satellit individuell zu den Kinos uebermittelt
+werden. Wenn nun jede "Kopie" mit einem individuellen Watermark
+versehen wird, steigt die Hemmschwelle zum Missbrauch, da man im
+Nachhinein immer feststellen kann, wer die undichte Stelle war.
+
+
+Stimpfig liefert IIRC ca. 1,5 Mio Pixel.
+Designziel ist uebrigens nur technisch so gut zu sein wie chemischer
+Film, nicht besser. Fragt sich natuerlich wer ausser den Verleihern
+und TI von digitaler Projektion profitieren soll...
+
+	Philippe

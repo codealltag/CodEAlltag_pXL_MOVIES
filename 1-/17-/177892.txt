@@ -1,0 +1,13 @@
+Pierre Uehlein schrieb unter anderem folgendes zum Thema
+"Re: 3D Filme auf anderen Medien":
+
+
+Ja, richtig. Kann man ja im Zweifelsfall einfach ausprobieren.
+
+Wenn man wirklich ernsthaft etwas damit anstellen will, sollte man
+sowieso immer gut testen, wie ein Schwenk wirkt, denn z.B. scheitert
+der Effekt bereits bei Koerpern, die um ihren Mittelpunkt gedreht
+werden, denn dann bewegt sich die Rueckseite bereits falschherum und
+man bekommt einen Pupillenknick.
+
+Fabian

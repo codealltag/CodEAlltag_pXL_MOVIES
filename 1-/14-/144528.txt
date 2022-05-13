@@ -1,0 +1,20 @@
+On Fri, 6 Jan 2001 14:18:54 +0200, "Cornelius Burwick"
+
+Nein, auch hier heißt die Antwort einmal mehr Wengler-Speedup. Da Pal
+mit 25 Bildern pro Sekunde operiert und Kino nur mit 24, wird pro
+Sekunde ein Bild mehr gesendet, was den Film dann 4% kürzer
+macht.
+
+111 - 111 * 0,04 = 106,56
+
+Ja, das sind rund 107 Minuten, aber a) sind die Angaben auf dem
+Videocover selten ganz genau und b) sind schon die 111 Minuten
+ein Rundungswert.
+
+Bye, Klaas
+
+-- 
+CAUTION! This posting has been altered from 
+its original WIDESCREEN version. It has been 
+formatted to fit your screen.
+http://vcc.crtldvmghg.is/

@@ -1,0 +1,10 @@
+Nein. Flash-Speicher muss gerade _nicht_ regelmäßig aufgeladen werden.
+Die Zellen altern zwar, aber das bedeutet nicht die Daten wären futsch
+sondern man kann keine neuen schreiben (und damit natürlich alte auch
+nicht löschen).
+
+Greetz,
+PASQUALE
+-- 
+lyqlzf.xwuclrtilp.cr
+"Yeah, but after 12 fucking years it should be!"

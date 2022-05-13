@@ -1,0 +1,14 @@
+In der Regel "Bauten" (und der "set decorator" laeuft unter "Ausstattung").
+
+Viel interessanter waere es, wie sich die verschiedenen Produzenten 
+zueinander verhalten. In Hollywood gibt es Producer und Executive Producer,
+ausserdem noch associate producer, co-producer, executive in charge of
+production, production manager und unit production manger.
+
+Im Deutschen gibt es die "Gesamtleitung", was vermutlich dem Producer
+entspricht, aber alles andere ist mir raetselhaft: "Herstellungsleitung",
+"Redaktion", "Produktionsleitung", "Aufnahmeleitung", "Produzent/Producer"
+(letzteres entspricht wohl *nicht* dem Producer in den USA). Kennt sich da 
+irgendjemand aus?
+
+-- Massimo

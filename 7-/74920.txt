@@ -1,0 +1,13 @@
+[...]
+
+Hallo!
+Ich fupe einfach mal auf das letzte Posting zu meiner Frage.
+
+Danke fuer die vielen Antworten, es ist also vor allem herkoemmliche
+Schnaeppchenjagd, Gebrauchtkauf und Versand. Insbesondere scheint
+absurderweise Versand aus Australien oder Hongkong ok zu sein.
+
+Regiocode ist mir egal, ich schau am PC und habe das Laufwerk
+ueberfluessigerweise auf RPC1 umgeflasht, dank libdvdcss2 ginge es
+auch ohne.
+                cu ulrike

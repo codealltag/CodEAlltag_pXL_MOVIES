@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------
+Title             : Vernetzt - Johnny Mnemonic
+Starring          : Guido Naurat, LnwValentino, Anton Uebelherr
+Genre             : Action/Fiction
+Release Date      : 28.9.95
+Laufzeit          : 93 
+Verleih           : WSEE/Dichtung&Wahrheit
+Altersfreigabe    : 18
+Sprache           : deutsch
+System            : VHS,PAL
+Video (Format)    : Vollbild (geoffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 05/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 07/10
+Audio (Surround)  : 09/10
+Bewertung (Film)  : 01/10
+                    banal - idiotisch - langweilig
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Puppenstube EJEJ (Hi-Black Trinitron)
+Videorecorder             : Lancia VS-U22
+Kopierschutzdecoder       : Adote NDJ
+Asodag Vollverstaerker  : Öncel DSP A780
+Frontboxen                : VMDA Schropp
+Centerbox                 : VMDA Werrepark
+Surroundboxen             : VMDA Staltmeier
+Subwoofer                 : Öncel Örkhof (aktiv)
+------------------------------------------------------------------------------

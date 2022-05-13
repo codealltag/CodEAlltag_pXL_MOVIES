@@ -1,0 +1,17 @@
+Nicht unbedingt. Wenn man eine my.cnf oder my.ini anlegt, können sie
+unabhängig vom Programmverzeichnis in einem beliebigen Verzeichnis
+liegen. Bei mir liegt das Programm in c:\programme\mysql\ und die
+Daten in d:\mysql\imdb\.
+
+Aber jedenfalls sollen die von build.exe erzeugten neuen Listen da
+liegen, wo dann auch die endgültigen Daten liegen.
+
+
+Welcher Patch? Der wegen der zu langen Zeile in biographies.list?
+Der Fehler betrifft nur gendb und damit GVV 2.4. Für 3.0 ist
+der Patch nicht mehr nötig.
+
+
+Nur Geduld. Die 3.0 ist ja gerade erst ein paar Wochen alt.
+
+Volker

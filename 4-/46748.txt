@@ -1,0 +1,16 @@
+Wer in Tauschbörsen was runterlädt und im Zuge dessen von der
+p2p-Software (transparent) gezwungen wird, diese Sachen auch
+hochzuladen, verteilt auch nur Sachen, die es in der Tauschbörse
+bereits gibt.
+
+Und um mit einer p2p-Software etwas runterzuladen, muss man die
+"Adresse" der Datei auch schon kennen oder sie vorher über einen
+Suchservice suchen. Wie im Web, da gibts auch Giant.
+
+
+Da kann die Tauschbörse ja nix für. Und im Web wird auch Material
+verbreitet, wofür der Bereitsteller nicht die nötigen Rechte hat.
+Die ISPs dürfen es trotzdem Cachen.
+
+-- 
+Ivano

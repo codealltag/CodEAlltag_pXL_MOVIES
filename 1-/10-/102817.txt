@@ -1,0 +1,18 @@
+Vergiss es!
+
+Verschlüsselung ist nur auf dem Transportweg möglich. Am Endpunkt müssen
+die Daten ja schließlich uncodiert vorliegen. 'Digital Rights
+Management' ist technisch unmöglich sicher hinzubekommen und kann nur
+deshalb überhaupt diskutiert werden, wenn gleichzeitig Re-Engeneering
+und simples Abfangen durch juristische Maßnahmen (Strafandrohung bereits
+für die Sicherheitsanalyse) kriminalisiert wird.
+
+Und da es einen Markt für diese Daten gibt, ist das Ganze nur mal wieder
+eine Arbeitsbeschaffungsmaßnahme für die Mafia[1].
+
+Ciao Ignaz
+
+[1] Sucht es such aus: entweder für die Rechte-Mafia oder für die
+black-hats[2].
+[2] White heads, die Verfahren auf Sicherheitslücken analysieren, werden
+ja schließlich kriminalisiert.

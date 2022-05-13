@@ -1,0 +1,67 @@
+Meinrad Nottebohm <pdoqf@xhebbta.csb.bd> schrieb in im Newsbeitrag:
+2DGNu2pGwVL@tbseyxi.rhj.bh...
+
+Na, is ja toll. Hast Du eigentlich auch einen anderen Wortschatz, außer
+"Falsch" und "Blödsinn" ?
+Von Dir hört man keine Laufzeiten oder Quellen. Schon komisch, oder ?
+
+Um es einmal klar zu sagen:
+Mir ist durchaus bewußt, daß sich Laufzeit-Unterschiede zwischen den
+verschiedenen Videosystemen ergeben.
+
+Für die Laufzeit-Berechnung muß man nur zwei Dinge wissen: Das Bildformat
+(Bildhöhe) und die Filmlänge (Meter) des Celluloid-Materials. Denn wie wir
+alle wissen, läuft dieses Material überall mit 24 Bildern/Sek., unabhängig
+von der Netzfrequenz. Und dieses Kinofilm-Material wird auch zur Herstellung
+der verschiedensten Consumer-Medien verwendet (Disc,MAZ). Wenn man diese
+Daten und die entsprechenden Formeln kennt (weiß z.B. jeder
+Kamera-Assistent), kann man leicht die Laufzeit mit 24/25/30... Bildern
+ausrechnen.
+Nehmen wir z.B. "Contact":
+
+Filmlänge: 4206 Meter (wird auch bei IMDB so genannt, obwohl ich meine Infos
+nicht von dort beziehe)
+Bildformat: 35mm (Breite is wurscht)
+Bei diesem Filmformat entspricht:
+1 Sekunde.....0.46 Meter
+oder
+1 Meter.......~2 Sekunden
+
+Daher meine genannten Längen. Da es hierbei geringe (bis max.30 Sekunden)
+Differenzen geben kann, leuchtet ein, wenn man weiß, daß sich die Trailer
+der Filmverleiher auf den verschiedenen Medien unterscheiden können. Und
+diese Zeiten sind korrekt.
+
+Noch ein Beispiel, wo die Laufzeiten "ident sind".
+"Men in Black"
+
+Filmlänge: 4206 Meter (wird auch bei IMDB so genannt)
+Bildformat: 35mm (Filmbreite is wurscht)
+
+Berechnet:
+Filmlänge-Kino: 01:38:11
+Filmlänge-PAL : 01:34:15
+
+Tatsächlich (PAL):
+Filmlänge-PAL (Videoverleih): 01:34:01
+Filmlänge-PAL (TV/"Premiere"): 01:33:53
+
+Und das sind meine Daten (Neben den Infos, die ich aus den Staaten erhalte)
+
+Man sollte nicht generell alles kritisieren. Es sollte nur konstruktiv sein.
+Ich vertrag das schon, denn auch ich mache reichlich Fehler :)
+
+Abschließend sei bemerkt, daß die Angaben auf Video- oder DVD-Covers
+(betreffend "Directors Cut", usw.) nicht immer stimmen !
+
+CU / Came0
+
+
+--
+=============================================================
+SüdMaster-ZENTRALE: http://ewxgk.of/jtbgmdnh/
+(auch mit: VIDEO-Center, Lauflust-Center, Ardau Weinimport-Center)
+
+ICQ-UIN: 79776104
+dkwjot@zus.lw     qcm.trdgawpnp@xnw.vmd     uolbwrb@gzqorqj.zl
+==============================================================

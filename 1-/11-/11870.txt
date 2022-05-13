@@ -1,0 +1,15 @@
+Hallo
+
+Ich habe da ne Video DVD auf der HDD. Diese hat eine Untertitelspur die 
+ich gerne in die Videospur integrieren würde um sie anschließend mittels 
+dem Tsunami DVD Author zu authoren. Dieser kennt leider keine 
+Untertitel. Ich habe die Programme KAR DVD Author, TMPGEnc (normal) 
+und den DVD Author davon, einen AVS Video Converter, Elup 6 kompl. (das 
+was ich machen will ist aber nur ein kleiner Teil der DVD, will nicht 
+die ganze DVD deswegen brennen müssen) - geht das mit einem der 
+Programme? Ich habs bisher nicht geschafft...
+
+War auch bisher nicht nötig....
+
+Gruß,
+Wolfgang

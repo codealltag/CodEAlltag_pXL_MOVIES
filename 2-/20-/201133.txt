@@ -1,0 +1,63 @@
+Genau das ist, was mich im Kino am meisten stört: Wenn ich im vorderen
+Bereich des Saales sitzend auf einer Großbildleinwand einen schnellen
+Kameraschwenk ertragen muß. Das ist für mich so unangenehm, daß es richtig
+im Kopf sticht und ich kurz wegsehen muß. (Was hier stört, ist das Ruckeln,
+nicht das Flimmern!) 24 Hz ist *viel* zu wenig.
+
+Auf dem kleinen Fernsehschirm stört das weniger, aber auch dort sehe ich
+bei schnellen Schwenks einen deutlichen Unterschied zwischen progressiv
+und nicht-progessiv abgetastetem Material. (Progressiv bedeutet alle 576
+Zeilen abtasten und erst anschließend in zwei Halbbilder spalten; nicht-
+progressiv bedeutet nur jede zweite Zeile abtasten aber dafür doppelt
+so oft und abwechselnd versetzt.)
+
+Bei PALplus wird mitgesendet, ob das gerade laufende Material progressiv
+oder nicht-progressiv abgetastet wurde (der progressive Fall heißt dort
+"Film-Modus" und bezeichnet *nicht* das Format 16:9 vs. 4:3 -- die es
+in PALplus auch *beide* gibt). Moderne "Komponententechnik"-Kameras
+(das sind die, die von der Fernsehnorm unabhängig sind, weil sie die
+Signalkomponenten getrennt verarbeiten), können auf Wunsch in der Regel
+auch progressiv abtasten, was
+
+  - den Vorteil hat, daß 100-Hz-Fernseher sich bei so gekennzeichneten
+    Sendungen nicht darauf beschränken müssen, die Halbbilddarstellung
+    zu verdoppeln (wodurch das Gro�fl�chenflimmern verschwindet, das
+    unangenehmere Zwischenzeilenflimmern aber unverändert bei 25 Hz
+    bleibt), sondern jeweils die letzten *zwei* Halbbilder (und damit
+    das gesamte Vollbild) wiederholen können, weil die Szene sich
+    zwischen den Teilbildern auch bei bewegten Darstellungen bei
+    progressiver Abtastung nicht verändert hat; und
+
+  - den Nachteil hat, daß die Bewegungsauflösung von 50 auf 25 Hz sinkt.
+
+Das vom Endgerät bei solchen Sendungen nun potentiell verringerbare
+Zwischenzeilenflimmern erkauft man sich also mit grundsätzlich höherem
+Ruckeln im Bild. Schlimmer noch: Weil man im Gerät dafür doppelt so
+viel Pufferspeicher braucht (was dasselbe deutlich verteuert), wertet kein
+einziges 100-Hz-Gerät die Progressiv-Kennung überhaupt aus. Man hat also
+*nur* den Nachteil des stärkeren Ruckelns! Würde man typisches Videomaterial,
+wie die modernen rumeiernden Handkameras � la Florence & Co. so senden,
+könnte ich nicht mehr fernsehen.
+
+
+So ist es. Der Schlüssel, neben dem Gro�fl�chenflimmern auch gleichzeitig
+das Zwischenzeilenflimmern *und* das Ruckeln zu beseitigen, ist die
+progressive *Wiedergabe* im Endgerät. Will heißen: 75 Vollbilder/s ganz
+ohne Halbbildschnickschnack dargestellt. (Das verlangt aber natürlich
+dreimal höhrere Bandbreite bei der Bildröhre.) Computermonitore arbeiten
+so. Die zukünftigen Laserprojektoren in den Kinos werden es auch so machen.
+Es gibt also noch Hoffnung... (Andererseits werden wir dann mit zahlreichen
+neuartigen durch die digitale Komprimierung des Filmmaterials entstehenden
+Artefakten zu kämpfen haben.)
+
+
+Verbraucherzentralen sollten vor solchen Praktiken warnen, denn -- wie
+schon geschrieben -- verändert dies vor allen Dingen den Ton. (Da die
+Filme im Fernsehen dann auch so klingen, ist keine Entschuldigung!)
+Kennt jemand Statistiken, wie gängig solche Praxis ist?
+
+
+27.04.98 -- Özkan.
+-- 
+snvdop@dxgaacwaae.gei-aymtyl.ny (PGP key available)
+http://wxe.xpaujkwkgh.xzk-salwth.xh/~djkyzz/rmpukwhvvmigkyrw.bxge

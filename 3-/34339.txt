@@ -1,0 +1,6 @@
+Und mit FVEE geht es zunächst, aber nur der Reihe nach. Erst
+wenn ein Feld richtig ausgefüllt ist, kann man in das nächste rein-
+schreiben. Ab dem ersten, das man nicht weiß, ist mit allen anderen
+dahinter Sense.
+
+Wilhelm

@@ -1,0 +1,30 @@
+WLAN. Und fürs Login: Buffer-Overflow, fertig. Jeder Computer ist nur so
+gut wie der, der ihn programmiert. Wenn also derjenige, der The
+Computers That Be[tm] programmiert hat (vermutlich der Oberschurke des
+letzten Films), ihnen nicht beigebracht hat, bei ihrer Neuprogrammierung
+auf sowas zu achten, dann reicht es vermutlich schon, wenn ein Mensch
+sich mit einer etwas längeren ID anmeldet, um das System davon zu
+überzeugen, daß er berechtigt ist. Think Windows!
+
+He, wieso sind meine Fenster auf einmal so blau mit Hexdump?
+
+Was ich mich vielmehr frage: Wenn schon hacken, warum dann nicht
+richtig? Warum lassen Dietrich&Co das Gebäude, in dem Henri
+gefangengehalten wird, nicht einfach in seine Polygone zerfallen? Warum
+programmieren sie die Agenten nicht so um, daß sie plötzlich aussehen
+wie Shrek, aber bloß ein Zentimeter groß sind? Warum verschiebt Lotte
+am Anfang nicht einfach das Gebäude woanders hin, um den Agenten zu
+entkommen? Warum programmieren sie die Waffen der Agenten etc. nicht um,
+so daß Wasser rausspritzt statt Blei?
+
+Und die Telephone. Ein "new phone()" später haben sie ein Telephon da,
+wo sie es gerade brauchen. Und Waffen? Wozu Waffen? Ein
+"guard.setLifepoints(0)" später hat sich das Thema erledigt.
+
+Wäre allerdings vermutlich weniger cool gewesen. Außer natürlich ein
+"weapon.setQuaddamage(on)"...
+
+
+Gruß, Leonhard
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

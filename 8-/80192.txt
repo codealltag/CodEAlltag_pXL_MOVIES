@@ -1,0 +1,25 @@
+recht schön aber meinst du das ?
+
+DMD - Digital Micromirror Device
+
+
+Ein weiteres, momentan technisch führendes Verfahren für die
+Video-Großprojektion arbeitet mit unzähligen winzigen Spiegeln, die
+elektronisch gesteuert Licht entweder gar nicht, oder mit unterschiedlicher
+Intensität reflektieren.
+
+Die Lichtquelle leuchtet nicht wie bei LCD durch das Panel sondern darauf
+und das von den winzigen Spiegeln reflektierte Licht wird durch eine Optik
+auf die Leinwand geworfen. Auch hier kommt für jede Grundfarbe (RGB) wieder
+ein DMD-Panel zum Einsatz
+
+Dieses Verfahren hat vor allem den Vorteil, vollkommene Schwärzung zu
+erzielen, das Verlustlicht bei voler Reflexion ist um einiges geringer, als
+bei LCDs. Dadurch nähert sich (zumindest) der Kontrastumfang etwas näher an
+die Leistung einer Filmkopie an.
+
+Auch hier liegen die Gerätekosten bei einem Vielfachen klassischer
+Filmprojektoren.
+
+
+da kann der spiegel auch 1 cm groß sein

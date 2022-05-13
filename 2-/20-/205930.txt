@@ -1,0 +1,35 @@
+Da hier ja Diskussionen ueber Boerrigter o.ae. nicht zu standekommen,
+nochmals zum Thema
+
+
+                     MPEG.
+
+
+Stellen wir uns vor, ich have einen WTT mit AV Karte, dingsbumsAV.
+Damit produziere ich, wenn ich mich nicht irre, Quicktimemovies.
+(Oder Pics??)
+
+Ist es richtig, dass ich diesen File dann mit Sparkle215 in einen
+MPEGmovie verwandeln kann??
+
+Kann ich diesen File dann auch, so wie er ist??, ist er schon flat??,
+auf einer (win?)dose abspielen??
+
+Welche Komprimierung gibt es gegenueber Quicktime??
+
+Da die Komprimierung ja erheblich, der Datenfluss relativ niedrig ist,
+kann man die Dinger eventuell auch, anders als Quicktimemovies, direkt
+von der Diskette abspielen oder muss man sie in jedem Fall, bei jeder
+Bildrate, wie Quicktimemovies zunaechst auf die HD laden?????
+
+Wieviele Sekunden kann man, bei maessiger Qualitaet, auf die Diskette
+bekommen??? Irgendwelche Rahmendaten...
+
+Und wie ist es mit Sound, geht der eventuell mit in den Moviefile???
+
+So nach dem Motto, was ich schon immer mal wissen wollte. Habe halt mal in
+dem Neuzeltweg, wie hiess er noch?, rumgekramt...
+
+Gruss,
+
+Karsten

@@ -1,0 +1,15 @@
+3:2 Pulldown. Zusätzliche Wiederholung eines Halbbildes innerhalb
+zweier Einzelbilder und somit Erhöhung der Framerate um 25% von 24
+auf 30 Frames pro Sekunde. Sorgt bei NTSC dann z.B. bei schnellen
+horizontalen Kameraschwenks für einen Kammeffekt bei Zeilen mit
+harten Kontrasten.
+Eine Umsetzung auf die 25 Einzelbilder von Metro3 ist nicht so trivial,
+daher findet dort die simple Erhöhung der Abspielgechwindigkeit
+von Bild und Ton statt.
+Und in Kinos ist es dementsprechend weit verbreitet, die Filme
+von vorneherein zu schnell laufen zu lassen. Das Fernsehen macht es
+ja vor, daß es keine Sau interessiert.
+
+cu,
+
+  Pietro

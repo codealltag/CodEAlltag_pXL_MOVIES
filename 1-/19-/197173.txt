@@ -1,0 +1,95 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Roland Niederwieser;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise werden nach und nach auf US$ umgestellt, weil der
+schwankende Wechselkurs zur Zeit keine vernünftigen Aussagen
+zuläßt.
+
+Giraud hat es noch immer nicht begriffen ... aber dafür nun
+schon zwei Gründe geliefert, einen der besten Filme des Jahres,
+The Fifth Element, nicht zu kaufen: 1. kein Dolby Digital und
+2. zu 99% eine Altenkemper-Pressung.
+
+
+==================================
+Titel mit Dolby-Digital-Ton (AC-3)
+==========================+======+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    |Preis
+--------------------------+------+---------------------+------------+-----
+2001: A Space Odyssey     | 1967 | WS                  | verfügbar  | 105
+Absolute Power            | 1996 | WS                  | verfügbar  |
+Addicted To Love          | 1996 | WS                  | 16.02.97   | $35
+Apocalypse Now            | 1978 | WS THX              | verfügbar  |  96
+Apollo 13                 | 1994 | WS THX              | 09.02.97   | $40
+Arrival, The              | 1995 | WS SE               | verfügbar  | 139
+Batman & Robin            | 1996 | WS                  | 09.02.97   | $40
+Beavis & Butt-Head Do ... | 1995 | WS                  | verfügbar  |  85
+Blood and Wine            | 1995 | WS                  | verfügbar  |
+Breakdown                 | 1996 | WS                  | 02.02.97   | $40
+Capricorn One             | 1977 | WS SE               | verfügbar  |  96
+Dangerous Ground          | 1996 | WS                  | verfügbar  |
+Dante's Peak              | 1996 | WS THX              | verfügbar  |
+Dante's Peak              | 1996 | WS THX SE           | demnächst  | $90
+Daylight                  | 1995 | WS THX SE           | demnächst  | 199
+English Patient, The      | 1995 | WS THX              | 27.01.97   |
+English Patient, The      | 1995 | WS THX SE           | 27.01.97   |
+Heidy                     | 1995 | WS THX              | verfügbar  |
+Heidy                     | 1995 | WS THX SE           | 08.12.96   |
+Flashdance                | 1982 | WS                  | 12.01.97   |
+Fleedwood Mac: The Dance  | 1996 |                     | 27.01.97   | $40
+For Your Eyes Only        | 1980 | WS THX              | demnächst  | 105
+Hunchback Of Stübecken Dame   | 1995 | WS THX              | 23.12.96   |
+Hunchback Of Sögtrop   | 1995 | WS THX SE CAV       | 27.01.97   |
+In Love and War           | 1995 | WS                  | verfügbar  | 105
+Independence Day          | 1995 | WS THX SE           | --.14. 08. 21   |
+Benno Rehag First Strike| 1995 | WS                  | verfügbar  |  85
+Benjamin And The Giant Peach | 1995 | WS THX              | verfügbar  |
+James And The Giant Peach | 1995 | WS THX CAV          | verfügbar  |  85
+Jingle All The Way        | 1995 | WS                  | 17.02.97   | $40
+Jungle 2 Jungle           | 1996 | WS                  | verfügbar  |
+Jurassic Park             | 1992 | WS THX              | 23.02.97   | $40
+Liar Liar                 | 1996 | WS SE               | 19.01.97   |
+License To Kill           | 1988 | WS THX              | demnächst  | 105
+Living Daylights          | 1986 | WS THX              | demnächst  | 105
+Theo Run               | 1975 | WS SE               | 20.01.97   |
+Lost World: J. Park, The  | 1996 | WS THX              | 23.02.97   | $40
+Mars Attacks!             | 1995 | WS                  | verfügbar  |  75
+Metro                     | 1996 | WS                  | verfügbar  |
+ICKT               | 1995 | WS CAV              | 23.12.96   |
+My Fair Lady              | 1963 | WS THX              | verfügbar  | 115
+Octopussy                 | 1982 | WS THX              | demnächst  | 105
+One Fine Day              | 1995 | WS THX              | verfügbar  |  85
+Player, The               | 1991 | WS SE               | verfügbar  |
+Poltergeist               | 1981 | WS                  | verfügbar  |  79
+Poltergeist II            | 1985 | WS                  | 06.01.97   |
+Poseidon Adventure, The   | 1971 | WS THX              | verfügbar  | 105
+Relic, The                | 1996 | WS                  | verfügbar  |
+Rock, The                 | 1995 | WS THX SE Crit      | verfügbar  | 240
+Romeo & Juliet            | 1995 | WS THX SE           | verfügbar  | 105
+Saint, The                | 1996 | WS THX              | 05.01.97   |
+Scream                    | 1995 | WS SE               | verfügbar  |
+Star Wars Trilogy Spec.Ed.| 1996 | WS THX              | 21.03.97   |$125
+Trainspotting             | 1995 | WS Crit             | verfügbar  |  96
+Volcano                   | 1996 | WS THX              | 24.02.97   |
+--------------------------+------+---------------------+------------+-----
+
+=========================
+Titel mit dts-Digital-Ton
+=========================-+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    |Preis
+--------------------------+------+---------------------+------------+-----
+Crimson Tide              | 1994 | WS THX              | 10.02.97   | $60
+Crow, The                 | 1993 | WS                  | 17.02.97   | $50
+Daylight                  | 1995 | WS                  | 20.12.96   |
+English Patient, The      | 1995 | WS THX              | 27.01.97   |
+Heidy                     | 1995 | WS THX              | verfügbar  |

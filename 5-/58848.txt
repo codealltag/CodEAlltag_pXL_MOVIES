@@ -1,0 +1,38 @@
+Moin,
+
+
+Das mit dem G11 stimmt, aber das namensgebende Element der Pulse Rifle
+ist nicht die hüllenlose Munition, sondern die Zündung derselben per
+elektrischem Impuls. (Das G11 zündet IIRC weiterhin durch einen
+mechanischen Schlag auf eine kleine Zündladung im gepressten
+Treibmittel was immer noch einen recht komplizierten Aufbau der
+Munition nötig macht).
+
+Das hier ist mit das informativste zum Thema:
+http://alw.sukjihmbzg.qqu/Smjgprum1265OFTCqtwxlr.ydx
+
+Die Möglichkeit der elektrischen Zündung wurde vor einiger Zeit in
+einer richtig fiesen Waffe realisiert: In eine Art Einweglauf kommen
+hintereinander abwechselnd mehrere Projektile und Treibladungen,
+elektrische Kontakte im Lauf können die Treibladungen individuell
+nacheinander zünden (ohne dass sich dabei ein mechanisches Teil
+bewegen muss!). Das erlaubt unglaublich schnelle Schussfolgen (die
+Projektile folgen einander in einer Entfernung von wenigen Metern).
+Mehrere dieser Läufe in einer Batterie kombiniert und zentral
+angesteuert können in Sekundenbruchteilen einen dichten Schwarm von
+Projektilen zielgenau abschiessen, der z.B. gegen einfliegende Raketen
+eingesetzt werden kann.
+Was passiert wenn man sowas auf Menschen abfeuert... naja.
+
+Was die SmartGun angeht, nehme ich stark an dass die Zielsuchsysteme
+z.B. der Uferstadt Helikopter etwas Vergleichbares leisten können, aber
+sich (noch) nicht auf tragbares Gewicht verkleinern lassen, bzw die
+Masse von Waffe plus Munition um automatisch gesteuert zu werden
+einfach mehr "Rückhalt" braucht als einen Menschen.
+
+Das System der pro Schuss programmierbaren Explosivgeschosse hingegen
+gibt es bereits und soll eine Standardwaffe der US-Soldaten werden:
+http://yrl.bdykexrm.do/xtjrchepcw/fxrp.fdne
+
+GRuss
+Ziemßen

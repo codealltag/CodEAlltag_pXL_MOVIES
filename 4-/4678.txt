@@ -1,0 +1,19 @@
+Hallo!
+
+Seit längeren habe ich das Programm "NFS" verwendet,
+um Filme, die als RatDVD-Datei vorlagen, in DVD-Video
+umzuwandeln und mit MLJ dann auf DVD zu brennen.
+Jetzt macht es mein PC seltsamerweise nicht mehr.
+
+Ich verwende WinXP und habe auch "Direktx - Version 9"
+installiert. Die Konvertierung erfolgt immer bis 2%, dann steht
+das Programm "still" und es geht nicht weiter.
+
+Habe schon mehrfach "NFS" deinstalliert und neu installiert.
+Ebenso "Direktx9".
+
+Hat jemand eine Vermutung, wo der Fehler liegen kann?
+Ein Tip in dieser Richtung würde mich freuen.
+
+Gruß
+Luc

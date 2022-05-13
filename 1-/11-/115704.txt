@@ -1,0 +1,6 @@
+.mov und .avi sind beides Containerformate, hinter denen sich ver-
+schiedene Codecs verbergen koennen. Und bei Quicktime-Filme sind
+das leider fast immer Soerensen-Video- und QDesign-Audio-Codecs,
+fuer die es keine plattformuebergreifenden Decoder gibt.
+Irgendetwas MPEG-basiertes sollte also alternativ immer angeboten
+werden.

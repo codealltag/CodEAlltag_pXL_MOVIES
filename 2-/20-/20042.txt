@@ -1,0 +1,63 @@
+Hallo,
+
+ich habe ein kleines System zur Filmanalyse einer Kurzen Sequenz (1 bis
+2 Minuten) eines Films zusammengestellt, nach dem ich mich richten
+möchte. Ich habe es in Kategorien geordnet und Stichpunkte gemacht;
+einige interessante Punkte sind noch erläutert. Mich würde
+interessieren, was Ihr von diesem System haltet, d.h. ob man eine
+solche Sequenz nach diesem Schema abarbeitenn könnte/sollte. Falls Ihr
+Verbesserungsvorschläge oder Ergänzungen habt, wäre ich sehr
+dankbar, wenn ihr diese nennt.
+
+Hier ist das Modell:
+
+Bildgestaltung durch Filmkamera
+
+•    Erzählhaltungen
+Anteil an
+o    beobachtender Kamera
+o    lebender Kamera (personifizierter Beobachter, der wie die
+Schauspieler eine eigenständige Rolle spielt)
+•    Einstellungsgröße
+•    Kameraperspektive
+•    Achsenverhältnis. Die Expressivität nimmt zu, je stärker die
+Kamera von der horizontalen Mitte (Augenhöhe)/vertikaler Achse
+abweicht ( 180° Regel)
+
+Kamerabewegungen
+
+•    Schwenk
+•    Kamerafahrt
+o    Heranfahrt: Zeige- und Hinweisfunktion
+o    Rückfahrt: Einzelheiten erscheinen in ihrem Kontext
+o    Verfolgungsfahrt: gespannte Anteilnahme des Zuschauers
+o    Aufzugsfahrt: Erwartungshaltung#
+•    Zoom (im Gegensatz zur Kamerafahrt gleich bleibende Proportionen
+der Objekte; z.B. Zeige- und Hinweisfunktion, Konzentrationsprozess bei
+Menschen)
+
+Montage
+
+•    Kontinuitätsprinzip
+•    logischer Blickzusammenhang, eye-line matching
+
+•    Schuss-Gegenschuss-Verfahren, zum Auflockern: Reaction-Shots
+(zeigtden Zuhörer, Sprecher im Off)
+•    Harter, Weicher, Unsichtbarer Schnitte
+•    Auf-, Abblenden: Zäsuren
+•    Cut Away, Insert
+•    Cut In, Cut Out
+•    Match Cut
+•    Jump Cut
+•    Assoziations- und Kontrastmontage
+•    Cross Cutting (z.B. Apocalypse Now Schlusssequenz)
+•    Parallelmontage (z.B. erst Handlungsstrang A, dann B, dann
+werden A und B zusammengeführt
+•    Plansequenz (lange Einstellung,  Theater, authentisch)
+•    Mise en scène (Aktionen der handelnden Schauspieler)
+
+
+Vielen Dank im Voraus!
+
+Gruß
+EUNN9cxdbs

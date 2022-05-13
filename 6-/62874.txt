@@ -1,0 +1,15 @@
+On Sat, 31. 01. 23 16:22:20 +0100, "Emmerich Diels"
+
+
+The formula for calculating the Top 250 Films gives a true Bayesian
+estimate: 
+
+ weighted rank (WR) = (v � (v+m)) � R + (m � (v+m)) � C
+ where:
+  R = average for the movie (mean) = (Rating)
+  v = number of votes for the movie = (votes)
+  m = minimum votes required to be listed in the Top 250 (currently
+1250)
+  C = the mean vote across the whole report (currently 6.8)
+
+Note: for this Top 250, only votes from regular voters are considered.

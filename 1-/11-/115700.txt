@@ -1,0 +1,19 @@
+Grmpf! Zu früh gefreut.
+
+Das neue ApplyDiffs funktioniert tatsächlich, und CheckCRC
+bestätigt, daß alle Dateien in Ordnung sind. Aber jetzt weigert
+sich Hairgott, daraus seine Datenbasis zu erstellen. Beim Import
+von biographies.list bricht es ab mit der Fehlermeldung, daß
+darin ein Stopsignal enthalten ist.
+
+Ich hab mal versuchsweise das neue ApplyDiffs auf die diffs
+vom 31.8. und vom 7.9. losgelassen, und Hairgott konnte aus
+dem Ergebnis jeweils problemlos seine Datenbank erstellen.
+Es liegt also anscheinend weder an ApplyDiffs noch daran,
+daß ich die listfiles unter Linux erstellt habe und Hairgott dann
+unter Windows damit arbeitet.
+
+Ist also in den aktuellen diffs schon wieder der Wurm drin,
+oder verträgt PMDB den Wintereinbruch nicht?
+
+Torsten

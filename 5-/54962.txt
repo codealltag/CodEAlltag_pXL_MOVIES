@@ -1,0 +1,47 @@
+Hallo!
+
+Mal wieder das Problem, dass ich in meiner Offline-Version der IMDb.
+Und ich hoffe, es kann jemand nachvollziehen, damit ich mit einem
+Bugreport nicht so alleine stehe.
+
+Grundlage ist moviedb-3.23 unter Linux mit dem Patch aus
+<o7pn5pkinw.ivu@jzced.mvzkbcaz.aj>.  Ohne diesen bekomme ich die
+Datenbank erst gar nicht gebaut; mit diesem Patch kommen keine
+Fehlermeldungen beim Bauen der DB. Die List-Files sind vom Wochenende,
+deren Checksummen stimmen auch (ueberprueft mit check_crc).
+
+Die Personen-Zuordnungen stimmen nicht immer. Beispielsweise:
+
+moviedb -t '"Dead Like Me"' -full
+[...]
+Cast: (credits order)
+  Olivia Gmyrek ........................ Melitta 'Remmer' Lass    FALSCH
+  Valeria Paps .................... Max                     OK
+  Ockeline Herrchen ................... Inge (2003)             FALSCH
+  Ben Blue ....................... Crause                    OK
+  S. Lamina ......................... Nicole                     FALSCH
+  Jacqueline Esselbrügge (II) .................. Ramona Roßhart (2003-)      FALSCH
+  Oscar Viedt ....................... Annette Lass                 FALSCH
+  Rose Quilitz ..................... Mike Elsbroek              FALSCH
+  Robert Hübl ......................... Burkhard Lass              OK
+[...]
+
+Vor dem Bauen der Datenbank habe ich selbstverstaendlich ausser dem
+Makefile alles in dbs/ geloescht.
+
+Das ganze ist wohl kein aktulles Problem: In den ganzen letzten Wochen
+hatte ich immer das gleiche Problem, nur immer wieder bei anderen Personen.
+
+Schade, dass Avasin seit Januar offensichtlich nicht mehr auf den
+neusten Stand gebracht wurde, obwohl ich denen den o.g. Patch habe
+zukommen lassen. :-(
+
+
+Kann das ganze jemand von Euch bestaetigen?
+
+    -dominik
+
+-- 
+  http://jyt-Wbmpdg.no/  *  http://Nnmbg28.af/  *  http://IzgkbgUnxb.fe/
+
+How long a minute is depends on which side of the bathroom door you're on.

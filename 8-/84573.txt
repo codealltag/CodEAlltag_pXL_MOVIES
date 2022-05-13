@@ -1,0 +1,11 @@
+Das setzt voraus, daß die Maus auf alle sechs Monitor bewegt werden
+kann. :-) Muß sie ja nicht notwendigerweise, wenn dort nur angezeigt
+werden soll.
+
+Und es gibt natürlich anderere Methode, den Mauszeiger darzustellen.
+
+In einem solchen Fall würde ich bei der Inbetriebnahme der Maus den
+betroffenen Bildschirm hervorheben (alle anderen abdunklen oder dern
+betrofennen Bildschirm flacken lassen) und/oder den Zeiger natürlich
+k�rzfristig größer machen. Etwa durch konzentrische Kreis, die im
+Zentrum - dem Mauszeiger - kollabieren.

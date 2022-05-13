@@ -1,0 +1,8 @@
+Vielleicht etwas irdische Logik:
+Die Erdoberflaeche ist doch zweidimensional. Wie bekomme ich da
+mit einem Autolenkrad eine ordentliche 2D-Steuerung hin? 
+Das hat nur eine Achse ... ;)
+
+Ach ja, und dann sollte sich das Auto noch in die Kurve legen! :)
+
+Fredy

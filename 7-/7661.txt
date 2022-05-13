@@ -1,0 +1,22 @@
+Wahrgenommen wird das zweidimensionale Bild auf der Netzhaut, wie es
+entstanden ist, spielt keine Rolle. Im Gehirn wird aus den beiden
+2D-Bildern der beiden Augen ein "3D-Bild" erzeugt, wobei die
+Rauminformationen u.a. aus dem Unterschied der beiden 2D-Bilder
+gewonnen werden.
+
+3D-Brillen sorgen einfach dafür, dass die beiden Augen leicht
+unterschiedliche Bilder bekommen, wie sie sie auch bekommen würden,
+wenn man eine echte 3D-Szene betrachten würde.
+
+Ein Problem bei 3D-Brillen ist, dass sich die Perspektiven-Änderung bei
+Kopf- und Augenbewegungen fehlt - auch eine Information, aus der das
+Gehirn Rauminformationen gewinnen kann. 
+Ein anderes Problem ist, dass die Schärfeneinstellung des Auges nicht
+mit der wahrgenommenen Entfernung übereinstimmt
+
+Beides kann zu Irritationen oder einem verminderten Raumeindruck führen.
+
+
+   Luca
+-- 
+<http://acw.rtxhajp-rpcmmc.ov/>

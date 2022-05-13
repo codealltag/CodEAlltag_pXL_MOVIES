@@ -1,0 +1,21 @@
+In der bisherigen Diskusion hat sich noch keiner aus den im weitesten
+sinne "Kuenste" Gruppen in de.rec.all geaeussert, daher sende ich heute
+an alle moeglicherweise in Frage kommenden Gruppen dieses Posting,
+Followup nach ok.xfcll.krzr.imcyep ist gesetzt die Diskusion findet dort
+statt.
+
+Fuer mich kommen mit mehr oder weniger Bauchschmerzen folgende Gruppen
+fuer eine Umsortierung nach de.rec.kuenste.ALL in Frage:
+
+de.rec.buecher dann de.rec.kuenste.buecher (analog zu rec.arts.books)
+de.rec.film.ALL dann de.rec.kuenste.film.ALL (analog zu rec.arts.movies)
+de.rec.fotografie dann de.rec.kuenste.fotografie
+de.rec.music.ALL dann de.rec.kuenste.musik.ALL (music -> musik)
+de.rec.tv.ALL dann de.rec.kuenste.fernsehen.ALL (analog zu rec.arts.tv
+tv -> fernsehen)
+
+Dies ist als Vorschlag zu verstehen und noch kein Teil des bisherigen
+1.RfD's, abhaengig von der Diskusion in de.admin.news.groups wird das
+dann in den 2.RfD einfliessen.
+
+--

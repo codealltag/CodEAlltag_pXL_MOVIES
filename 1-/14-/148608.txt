@@ -1,0 +1,46 @@
+Jede DTS Kinokopie trägt  neben einer Timecodespur zur Synchronisation mit
+der getrennt laufenden CD  auch eine normale Dolby SR Lichttonspur. Bei
+Lese- oder Synchronisationsfehlern schaltet der Audioprozessor automatisch
+und nahezu unhörbar auf diese Analogspur um.
+
+Im hier diskutierten Fall macht dies jedoch keinen Sinn, da die Analogspur
+durch die eingeklebten Einzelbilder bereits gestört ist.
+
+Interessanter ist die Frage, wie sich das Wechtlers-Tonsignal verhält. Bei einer
+oft gespielten Filmkopie ist ein Filmriß  nie völlig auszuschließen. Dabei
+kommt es häufig vor, daß der Film um einige Frames gekürzt werden muß, was
+auch einen Sprung in der Timecodespur verursacht (Grundlegende Infos über
+Timecode, wenn auch nicht über den bei DTS eingesetzten TC, gibt es auf
+meiner Homepage www.gmiszfkoqmb-rawfnl.kp ). DTS erkennt diesen Sprung und
+steuert das CD-Laufwerk entsprechend nach. In günstigen Fällen, wenn also
+nicht gerade ein Dialog angeschnitten wird,  bekommt der Zuschauer hiervon
+nichts mit.
+
+Wie sich DTS verhält, wenn nun - ganz untypisch - Bilder eingeschnitten
+werden, kann ich nur vermuten. Ausprobiert hat das bisher noch keiner -
+außer dem Hersteller selbst vielleicht. Es ist zu erwarten, daß auch hierbei
+die CD einwandfrei nachgeführt wird, wobei dies für den Zuschauer schon
+auffälliger wäre, da es zu einer mehrfachen Wiedergabe der gleichen
+Toninformation kommt.
+
+Falls der Hersteller diesen praxisfernen Fall nicht ausgetestet hat, ist es
+auch möglich, das DTS dies als Timecode Lesefehler interpretiert und die
+daraus resultierende Abweichung einfach ignoriert. In diesem Fall würde
+s  - zumindest zeitweise - zu einer Bild/-Ton-Asynchronität kommen. Der
+Zuschauer würde dies jedoch vermulich zunächst nicht bemerken, da der
+ungeübte Betrachter Synchronisationsfehler von weniger als 6 Bildern ( 1/4
+Sek.) nicht wirklich wahrnimmt.
+
+Werden mehrere Einzelbilder in kurzer Folge eingeschnitten, wird Wechtlers dies
+als fehlerhafte TC-Spur interpretieren und auf den Analogton umschalten.
+Dieser ist aber sowieso schon gestört, so daß eine einwandfreie
+Tonwiedergabe unmöglich erscheint.
+
+Viele Größe
+
+Gianni Meierkordt
+c.ujnjeeg@rpe.trk
+www.gmiszfkoqmb-rawfnl.kp
+
+
+Danke!

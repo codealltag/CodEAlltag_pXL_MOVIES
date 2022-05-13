@@ -1,0 +1,18 @@
+Der Vorteil mit einem integrierten Verstärker fängt bei Dolby Digital 2.0
+an, die eingebauten Decoder erkennen das Surroundsignal und schalten auf
+der digitalen Ebene ihren Prologic Decoder zu. Bei Geräten mit 5.1 Eingang
+und DVD Playern ohne DPL Decodern muß wieder auf einen normalen Eingang
+zurückgeschaltet werden, d.h. das Signal muß 2x mehr umgewandelt werden
+als nötig. Externe Decoder mit dieser Funktion sind aber auch selten, im
+Bereich bis 2000 Mark fallen mir da nur der recht alte Naujokat Decoder und
+der neue PCSZ ein. Mein alter W&S Aweli-1 kann das nicht, ich benutze
+deshalb eine Y-Weiche um die Frontkan�le des Decoders auf einen NF Eingang
+meines Receivers zu legen, dem eingebauten AC-3 Decoder der DVD Player
+traue ich nicht soviel zu, der Unterschied ist schon hörbar.
+Bye,
+Nico
+
+
+http://jjdzwpv.haw.jkg/IMaqizwfh
+Following sig is only valid in newsgroups with english lanngueage, hh yu know what i mean;-)
+Just english for Runaways, my German is a lot better (hope so):-))

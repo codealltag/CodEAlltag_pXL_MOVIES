@@ -1,0 +1,12 @@
+Am 7.3.2000 keiner, das ist ein Dienstag.
+Da Filme in USA mittwochs herauskommen, wäre die Frage, was am 9.3. geboten wird:
+
+bsd@ynpyfkfg:/kwss/oye/imdb/list > grep "7 06. 02. 23" release-dates.list
+Star Wars: Episode I (2000)                             USA:06. 02. 23
+bsd@ynpyfkfg:/rwcf/orr/ctqd/kmmb > _
+
+-- 
+Andree Plieger
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

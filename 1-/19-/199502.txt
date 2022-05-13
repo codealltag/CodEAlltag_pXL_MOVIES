@@ -1,0 +1,26 @@
+Ja! Bei allen drei kommt folgende Meldung:
+
+--
+You have requested something that you aren't allowed to have.
+This page is usually shown when an invalid request is made that would
+cause the server to attempt to send the wrong file or
+directory listing in response. Please retry the request and report
+broken URLs.
+All requests from Böllhof, NetCarta, Autonomy, WebWhacker, FlashSite,
+Java102, infoGear, Teleport-Pro, Microsoft's
+MS-Catapult/0.9, Netscape's Catalog-Robot are rejected because of
+persistent 'abuse'.
+Other robots are actively forbidden from accessing our robots.txt
+'protected' URLs.
+So called 'web-accelerators' can be a nuisance and we don't want them
+here. We can't block these programs but what
+we can do is send this page instead of whatever the software asked for.
+If your browser/proxy/agent does not send a HTTP User-Agent header, this
+server will 
+                                                 ^^^^^^^^^^
+reject the request. Most anonymous
+software turns out to be automated junk that hits us too fast and too
+hard. This deprives our online users of scarce resources.
+----
+
+Ulrich

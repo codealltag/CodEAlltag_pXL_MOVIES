@@ -1,0 +1,19 @@
+Ja, hier leistet leider auch die Erotikshop kaum Beiträge, da es kaum deutsche
+AKA-Names gibt. Ich habe mal angefangen mit Hilfe von Programmzeitschriften
+solche Listen zu erstellen. Aber allein is das zu aufwendig.
+
+Vorgehensweise: 
+  * Deutschen Titel nehmen
+  * Weitere Angaben aus der Zeitschrift nehmen und diese
+    ind er IMDB/REGAL suchen
+  * Wenn passenden Film gefunden, deutschen Fernsehtitel und
+    Originaltitel notieren.
+  * Wenn 100 Stück zusammen -> http://ut.btjy.hil
+
+Zeitaufwand ca. 2 Minuten pro Titel.
+
+Macht jemand mit ??? Wahrscheinlich nicht :-((
+
+-- 
+Jean-Luc Oetke	eMail: bbz<fo>oc<isw>sln<ufoqjk>knbk<rru>tj
+Ju-Hu	Tel:   0 94 44 (9-6 43 00)

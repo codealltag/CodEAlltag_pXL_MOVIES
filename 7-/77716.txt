@@ -1,0 +1,10 @@
+Mike Döhmer schrieb folgendes:
+
+
+You made my day.
+
+MFG, Karsten
+-- 
+do
+     fork agent ( igor );
+repeat;

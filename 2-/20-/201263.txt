@@ -1,0 +1,58 @@
+vgkoxkuc@zih.tjh wrote in <86886809359696.ALY33390@yjsiim06.xcnf.cls.aif>
+on 23. 11. 21 01:16:02 GMT:
+
+Tja, das ist das Problem mit den News ... die meisten Teilnehmer,
+speziell solche, die "Fäsl" oder "MEDIMAX" in ihrer From:-Zeile
+haben, schwallen einfach nur dumm raus, ohne die geringste Ahnung
+zu haben.
+
+Nochmal, für alle FPG und Mediaspree: Film hat 24 Bilder pro
+Sekunde.
+
+Beispiel: Backdraft (1990)
+
+Auszug aus der Internet Movie Database:
+
+Title:
+        8547477331     778   6.6  Backdraft (1990)
+Aka Titles:
+  Backdraft - Maenner, die durchs Feuer gehen (1990)
+Running Time:
+  Sweden:136
+Technical Info:
+  Film Length: 3717 m (Sweden)
+  Negative Format: 35 mm
+  Process: Super 35
+  Print Format: 35 mm (anamorphic)
+  Aspect Ratio: 2.35 : 1
+
+Ein Filmbild ist 35 mm breit und etwas höher als die Hälfte davon,
+ca. 19 mm (das Bild selbst hat ein Seitenverhältnis von ungefähr
+4:3, dazu kommt links und rechts Perforation und außerdem noch Platz
+für den analogen Lichtton). Laut IMDB ist der Film 3,717 km lang
+und geht 136 min. Also setzen wir mal kurz die Rechenmaschine an:
+
+3,7 km  = 3.717.000 mm
+136 min = 8160 sec
+
+3.717.000 [mm] / 8160 [sec] / 19 [mm] = 23,97 [1/sec]    q.e.d.
+
+
+Nebenbei noch bemerkt, mein guter vgkoxkuc@zih.tjh, flimmert es
+deshalb nicht, weil das Bild im Kino nicht von einem Rasterstrahl
+aufgebaut wird, sindern dadurch, daß ein Stück transparente Folie
+mit Bild drauf (manche nennen es Film) von einer starken Glühbirne
+durchleuchtet wird. Es ist also sofort das _KOMPLETTE_ Filmbild zu
+sehen und zwar solange, bis eine kurze Schwarzphase eintritt, um
+ungesehen das nächste Filmbild vor die Birne zu transportieren. Und
+diese Technik weicht dann doch ganz erheblich von der eines
+Fernsehgeräts/Monitors mit Braunscher Röhre ab; bei letzterer ist
+es nämlich zu einer Zeit immer nur an genau einer kleinen Stelle -
+eben dort, wo sich gerade der Rasterstahl befindet - hell. Und da
+die Röhre nur bedingt nachleuchtet, ist eine viel höhere Rate nötig,
+um ein flimmerfreies Bild zu erhalten.
+
+Francesco
+-- 
+** Francesco Zschunke,  Lerchenspornweg 93,  94172 Oberhauenstein,  Germany **
+** +98 0423 16567  E-Mail (NeXTmail/MIME): lbvgk@gxdkey.f.wcevl.vg **

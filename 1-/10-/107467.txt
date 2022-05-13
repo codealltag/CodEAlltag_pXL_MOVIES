@@ -1,0 +1,10 @@
+Hallo
+Weiss jemand wie die Liebeszene auf dem Berg realisiert wurde?
+Digital kann irgendwie nicht sein, aber normale Kamera so
+smooth hinzubekommen wie soll das gehen?
+
+Die Kamera stand zuerst total still (vermutlich langer Kran),
+doch dann fängt sich die Kamera einfach an um den Berg zu drehen.
+Was mich erstaunt ist der Übergang zwischen dem nicht bewegten Bild
+und der Drehung(kein wackeln, nicht rucklig)
+Wie geht das?

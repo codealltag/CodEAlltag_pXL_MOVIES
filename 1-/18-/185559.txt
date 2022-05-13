@@ -1,0 +1,44 @@
+Druckwellen mit sehr großen Druck breiten sich schneller als die
+"Kleinsignal-Schallgeschwindigkeit" aus.
+
+Als gute Näherung ist brauchbar:
+
+  c(v) = sqrt( c(0)� + v ) ,
+
+wobei v die Geschwindigkeit des schallabstrahlenden Körpers ist, wenn er
+eine sehr viel größere Dichte als Luft hat und c die
+"Kleinsignal-Schallgeschwindigkeit", die sich zu
+
+  c(0) = sqrt(kappa p/rho)
+
+mit kappa, dem Adiabatenexponent, p, dem Ruheluftdruck und rho, der
+Ruhedichte der Luft. Die "Beschleunigung" der Schallgeschwindigkeit entsteht
+durch die extreme Kompression vor der Schallfront, die zwar rho ansteigen
+läßt, aber eben auch p in noch stärkerem Maße, weil die Luft sich dabei
+erhitzt. Wenn Interesse besteht, kann ich das in de.sci.physik mal
+durchrechnen, hier wäre das etwas OFF-Topic, oder?
+
+Nehmen wir c = 333 m/s an. Eine mit 1 m/s wackelnde Lautsprechermembran
+beschehrt uns damit 333.0015 m/s, Schießpulver mit 200 m/s (deflagrierend)
+388 m/s. TNT mit ca. 5 km/s etwa 5011 m/s. Spezialsprengstoffe gehen bis 10
+km/s. Einschlagende Meteoriten schaffen bis 70 km/s.  Unser lieber Meteor
+war allerdings 2 Monate vor Einschlag 20 Lichtsekunden unterwegs:
+
+  v    = c * t/T            = 1150 m/s
+  c(v) = sqrt( c(0)� + v ) = 1200 m/s  
+
+Und diese ist die "Anfangsgeschwindigkeit", die schnell auf c(0) abfällt.
+Selbst wenn wir die 1200 m/s als konstant annehmen, kommt für die halbe
+Erdumrundung
+
+  t2 = pi/2 * D_erde / c(v) = 16700 Sekunden 
+
+raus.  Selbst die seismischen Wellen benötigen dafür 20 Minuten
+(Longitudinalwellen) bzw. 35 Minuten (Transversalwellen).
+
+Hoffe, nicht zu viele Leute gelangweilt zu haben.
+-- 
+Wolfgang Hamacker
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

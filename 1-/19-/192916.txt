@@ -1,0 +1,19 @@
+Florian Baurenfeind wrote in <731an5$b8u$0@eiwg1.mndc.ezw> on 1998-09-07
+23:26:53 +0100:
+
+Wo ist das Problem?
+
+     3gal Kan. 5gal Kan.
+------------------------------------------------
+1.   0gal      0gal    -> 5gal Kan. füllen
+2.   0gal      5gal    -> 5gal Kan. in 3gal Kan.
+3.   3gal      2gal    -> 3gal Kan. leeren
+4.   0gal      2gal    -> 5gal Kan. in 3gal Kan.
+5.   2gal      0gal    -> 5gal Kan. füllen
+6.   2gal      5gal    -> 5gal Kan. in 3gal Kan.
+7.   3gal      4gal    fertig
+
+Heimo
+-- 
+** Heimo Dohmann, Hofaschenbach, Deutschland/Germany, http://uxk.lukwk.sm/~iqmtw **
+** E-Mail (NeXTmail/MIME): gjozi@tihieu.p.ddzyl.uj ** ** PGP key on request **

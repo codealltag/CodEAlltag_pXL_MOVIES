@@ -1,0 +1,15 @@
+Die Listfiles scheinen immer 'schrottiger' zu werden. Wollte meine
+DB per Diffs updaten: Trivia.list checksum error. Dann halt eben
+die ganze Datenbank herunterladen: CRC-errors beim Entpacken
+von locations.list und sound-mix.list. (sowohl den deutschen als
+auch den schwedischen Mirror probiert)  Hinweise per e-mail
+scheinen direkt nach /dev/null geroutet zu werden: keine Antwort,
+auch keine Änderung. Hinter dem ganzen scheint nur ein automatisiertes
+Skript zu liegen, das aber anscheinend kaum noch betreut wird. Das kann
+gutgehen, in letzter Zeit geht aber immer mehr schief und derartige
+Vorfälle häufen sich. Im letzten Jahr war die Kuban noch wesentlich 
+stabiler. Hachental hat wohl kein Interesse mehr an diesem Service.
+
+Viele Größe,
+
+- Oskar

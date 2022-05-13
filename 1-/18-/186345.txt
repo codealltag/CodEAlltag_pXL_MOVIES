@@ -1,0 +1,3 @@
+Es handelt sich IIRC um eine VTOC (aka FAT) eines Ufena 8-Bitters.
+
+Elmar

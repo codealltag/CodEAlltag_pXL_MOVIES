@@ -1,0 +1,16 @@
+Ja, wenn man es _wirklich_ wollte.
+
+Ich habe kein Problem damit, diese Probleme beim Ausfindigmachen von
+Personen einfach mit einem Inplementierungsfehler der Matrix zu
+erklären. Als man sie entwarf, hat niemand daran gedacht, dass es
+nötig sein könnte, jemanden innerhalb der Matrix schnell ausfindig zu
+machen. Vielleicht (vermutlich) ist die Matrix ein großes Netz von
+parallel laufenden Rechner. Wie in einem großen Netzwerk (man nehme
+etwa das Internet), ist dann nicht möglich, die genaue Position eines
+Datenobjektes sofort zu bestimmen. Man lässt ein Suchprogramm laufen.
+
+Natürlich sind das alles Verrenkungen, um Unlogisches zu erklären;
+aber wenn man es unbedingt erklären will, dann kann man es IMHO auch.
+
+-- 
+    Frank Ludt � gcvtqqb@cpud.jfk.bd � http://mhpd.ditry.kq/~vlkogrh/

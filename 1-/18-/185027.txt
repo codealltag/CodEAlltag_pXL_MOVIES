@@ -1,0 +1,54 @@
+Hallo Patrice!
+<Also hätte ich das Problem gar nicht, wenn ich das Material auf
+Computer spiele, dort bearbeite und dann wieder zurücksiele ?>
+Richtig! - Aber Du musst nicht UNBEDINGT eine neue (rein Digitale) Karte
+kaufen 
+(zumal die DV300 nicht das gelbe von Ei sein soll, da sie keinen HW-Codec
+on Board hat).
+Mit zwei zusaetzlichen Wandlung kannst Du auch ueber den SVHS-Ausgang
+(analog) aus der
+DVC-Camera in Deine DC30 hineingehen (digital-analog --Y/C Kabel--> DC30
+analog-digital)!
+Das Signal wird (laut Hersteller) kaum schlechter. Einziger Nachteil, Du
+musst geringer Komprimieren, da der Algorithmus fuer DVC wesentlich besser
+ist, als der normale J-MPEG Algorithmus. => etwa 4.5 bis 5 MByte/sec
+anstatt 3.8MByte/sec bei DV.
+Das Ausgabeformat ist ja normalerweise SVHS oder sogar nur VHS, es sei
+denn, Du willst den Film vermarkten. Sicherlich wird sich aber auch das
+bald aendern - dann sind die Analogen genauso selten wie die Chemischen!
+
+Das ist aber unabhaengig von den DropOuts! 
+Wenn Du erst auf Deiner Festplatte ein DropOut hast - hast Du wirklich ein
+Problem! ;-)
+
+<Pixel ist doch Pixel>
+Wenn Du aber Deinen Film mit all den moeglichen Ueberblendungen,
+Trickfiltern und sonst noch irgend einen Schnickschnack bearbeitest (z.B.
+Farbfilter, Ueberblendung oder Groessenaenderung) - also das
+Originalmaterial in irgend einer Weise veraenderst, muss jedes Bild
+dekomprimiert, mit Effekt berechnet werden und dann wieder neu komprimiert
+werden. Da der Kompressionsalgorithmus nicht ganz verlustfrei ist (ZIP und
+alle Dateikomprimierer sind verlustlos - JPEG und das Verfahren das auf der
+MiniDisk angewendet wird sind z.B. verlustbehaftet) gibt es (da streitet
+man sich noch) Verluste. Die sind allerdings erst mal nur theoretisch. Aber
+auch theoretische Fehler koennen ins Gewicht fallen, wenn man 10 oder 100
+mal hin und herkomprimiert! Wenn ich den Artikel richtig verstanden habe,
+gibt es bei DV aber auch Faelle, bei denen kein Fehler nach der
+Dekompression auftritt. Der Algorithmus lauft im Prinzip so ab: 
+- Die Bildinhalte werden nach einer Formel transformiert
+- treten sehr kleine Zahlenwerte bei einigen Komponenten auf, werden sie zu
+Null gesetzt! .. Das ist der springende Punkt! Dabei kann, muss aber kein
+Fehler auftreten! 
+- Die transformierten Komponenten werden abgespeichert
+- Bei der Dekompression wird eine Ruecktransformation gerechnet
+
+=> Pixel werden nicht abgespeichert, sondern nur Parameter, die Pixel in
+deren Umfeld beschreiben!
+
+Der DVC-Algorithmus ist nicht MPEG2 !
+
+Gruss
+Uwe
+dgxus@ple.lgx
+Clubhomepage
+http://imkslufe.xmdhfgoewq.inx/alrmszfuc/oiawk/twv.qwu

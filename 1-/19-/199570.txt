@@ -1,0 +1,17 @@
+Habt ihr an der Uni einen (oder genauer:  benutzt Du einen) WWW-Cache
+oder -Proxy, der die Request anonymisiert indem er die User-Agent:-
+Angabe entfernt?  Das war (und ist) bei mir der Grund, warum es nicht
+klappen will.  Wenn der nicht da ist wird davon ausgegangen, dass man
+ein Automat ist und die laesst man nicht rein.  Nur leider bin ich
+kein Automat.  :-(
+
+Workaround fuer mich ist der Mail-Server, der zwar nicht schnell ist,
+aber meinen Anspruechen genuegt.  Und wenn's schon nix kostet kann ich
+auch etwas warten.
+
+Fredi.
+-- 
+Fredi Eiserloh
+Rengerbergstraße 3
+33818 Tambach
+Federal Republic of Germany

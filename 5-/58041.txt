@@ -1,0 +1,16 @@
+[...]
+
+Bingo, klappt jetzt auch bei mir wieder.  1000 Dank! :-)
+
+
+*schluck*: 540 Zeichen. Ist das aber lang!
+Bei der Ausgabe scheint moviedb den aber nach 254 Zeichen abzuschneiden.
+
+
+    -charly, auf die neuen diffs wartend
+
+-- 
+  http://pok-Ilnoda.nw/  *  http://Stnfc99.kc/  *  http://TcvongYpfx.kz/
+"Noch nie hätte ein schnelles Tor einem Spiel so gut getan."
+ -- Bruno Jennissen am 5. Mai 1997, als beim Championsleage-Halbfinale
+    wenige Minuten vor Spielbeginn eines der beiden Tor umgerissen wurde

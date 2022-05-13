@@ -1,0 +1,1085 @@
+==========================================================================
+==     FAQ zu Fernseh- und Videonormen (insbesondere PAL und NTSC)      ==
+==========================================================================
+                                                                18.12.1995
+
+--------------------------------------------------------------------------
+--                                                                      --
+--  (C) Copyright 26. 12. 21 Jens Eiffert (ljgmp@gxectt.i.zclro.tx)       --
+--                                                                      --
+--  Diese Textdatei  darf  für  nichtkommerzielle  Zwecke  unverändert  --
+--  gespeichert und ausgedruckt  werden.  Die  Weiterleitung an Dritte  --
+--  (insbesondere andere Netze als das Usenet) bedarf der Zustimmung  --
+--  des Autors.  Die kommerzielle Nutzung und Weitergabe gegen Entgelt  --
+--  ist grundsätzlich untersagt.                                        --
+--                                                                      --
+--------------------------------------------------------------------------
+
+Weitere Fragen, Hinweise und Korrekturen sind willkommen.
+
+Dieses FAQ kann in der aktuellen Fassung auch unter folgenden
+Adressen eingesehen werden:
+  http://llb.eouwa.oq/~vwuqe/PK/wswajw/qvxemyqac.ardc
+  uryv://in.rdc.ayfo.lkfs
+  dmhq://eg.awh.qg.didu
+
+Folgenden Personen gilt mein besonderer Dank, für ihre hilfreichen
+Kommentare und Beiträge zu diesem FAQ (alphabetisch):
+  Jacques Tzschabran, Ivo Kriegck, Willibald Aschhoff, Jacques Ackmann,
+  Massimo Möhlendick, Vinzenz Proell, Noah Cunen, Bodo Colditz,
+  Jonathan Clemens
+
+An diversen Stellen sind technische Zusammenhänge etwas vereinfacht
+bzw. minimal falsch dargestellt, um Verwirrungen beim Leser zu
+vermeiden. Zum Teil wird in eckigen Klammern auf diese Fehler
+hingewiesen bzw. kurz auf den richtigen Sachverhalt eingegangen.
+
+
+0. Inhalt   --------------------------------------------------------------
+
+1. Fernsehnormen
+   1.1. Bild (schwarzweiß)
+   1.2. Bild (farbig)
+        1.2.1. NTSC
+        1.2.2. PAL
+        1.2.3. PALplus  - in Vorbereitung - (Co-Autor gesucht)
+        1.2.4. SECAM
+   1.3. Übersicht Sendenormen
+   1.4. Auflösung
+2. Videonormen
+   2.1. Aufzeichnung
+   2.2. Film-Video-Transfer
+3. Videowiedergabe
+   3.1. Grundsätzliches
+   3.2. NTSC-Playback-Rekorder
+   3.3. Multinorm-Rekorder
+   3.4. Rekorder-Übersicht  - im Aufbau -
+4. Normwandlung
+5. Filmformate und Film-Video-Transfer  - im Aufbau -
+6. Laserdisc  - in Vorbereitung -
+7. Soundsysteme  - in Vorbereitung -
+8. Begriffserklärungen und Abkürzungen  - im Aufbau -
+
+
+1. Fernsehnormen   -------------------------------------------------------
+
+1.1. Bild (schwarzweiß)
+
+Zunächst etwas Geschichte: Am Anfang war das Schwarzweißfernsehen.
+Der Sender übertrug ein Helligkeitssignal (Luminanz), das im
+Fernseher mit Hilfe des Rasterstrahls wiedergegeben wurde. Dieser
+Rasterstrahl läuft in Zeilen von links oben nach rechts unten. Beim
+ersten Durchlauf werden allerdings nur die Zeilen 1, 3, 5 usw.
+(eben die ungeraden Zeilen) angezeigt. Am Ende einer Zeile folgt
+in der Luminanz ein Synchronisationssignal, das den Fernseher
+auffordert, den Rasterstrahl nach links in die übernächste Zeile
+zu stellen.  Ist der Rasterstrahl rechts unten angelangt, folgen
+drei Synchronisationssignale, die den Rasterstrahl wieder nach
+links oben befördern. Dann kommt eine kleine Pause, um dem Rasterstrahl
+Zeit zu geben, von rechts unten nach links oben zu hüpfen. Diese
+Pause ist die berühmte Austastlücke. Im nächsten Durchlauf werden
+die geraden Zeilen (2, 4, 6 usw.) dargestellt. Jeder Durchlauf
+stellt also ein Halbbild (half frame oder manchmal auch Video
+field genannt) dar. Zwei Halbbilder ergeben ein Vollbild. Dieses
+Verfahren (erst ungerade, dann gerade Zeilen) trägt den Titel
+Interlaced und wurde aufgrund der technisch beschränkten
+Möglichkeiten (maximale horizontale Geschwindigkeit des Rasterstrahls;
+ca. 15 kHz) gewählt.
+
+In Europa (so wie Asien, Australien und Afrika) und den USA (so wie
+Japan, Kanada, Südamerika und einige Pazifikinseln) wurden von
+Anbeginn (wegen der verschiedenen Netzfrequenzen) verschiedene
+Standards etabliert:
+
+Tabelle 1: Schwarzweiß-Standards
+-----------------------------------------
+                         USA     Europa
+-----------------------------------------
+Netzfrequenz              60 Hz    50 Hz
+Frames (je Sekunde)       30       25
+Zeilenzahl (je Frame)    525      625
+-----------------------------------------
+
+[Diese Unterscheidung ist nicht vollständig, d.h. es gab trotzdem
+beim grenzüberschreitenden Empfang in Europa Probleme, z.B. durch
+unterschiedliche Sendefrequenzen. Doch das soll uns im Sinne dieses
+FAQ nicht näher interessieren, weil reines Schwarzweißfernsehen der
+Vergangenheit angehört. Näheres dazu kann aus 1.3 abgeleitet werden.)
+
+[Die Wiederholrate (für die USA und Verwandte) beträgt nicht exakt
+60 Hz, sondern 59,94 Hz, also 29,97 Vollbilder je Sekunde.]
+
+
+1.2 Bild (farbig)   ------------------------------------------------------
+
+Irgendwann um 1952 (USA) bzw. 1966 (Europa) sah man sich plötzlich
+in der Lage, das Schwarzweißfernsehen farbig zu machen, ohne dabei
+auf die Kompatibilität verzichten zu müssen. (Vorher gab es Versuche
+mit inkompatiblen Systemen, die aber von der Qualität her noch
+schlechter waren.) Dem Luminanz-Signal wurde huckepack ein Farbsignal
+(Chrominanz) aufgeladen. Dabei ging man wie folgt vor: Die Farbe
+besteht aus einem roten, einem grünen und einem blauen Anteil (RGB);
+alle drei Anteile in der Summe ergeben wieder die Helligkeit
+(Luminanz), die üblicherweise als Y bezeichnet wird. Es reicht also
+aus, zusätzlich zu Y die Differenz zwischen Y und R sowie die
+Differenz zwischen Y und B zu übertragen; Y-G läßt sich dann
+errechnen.
+
+Für die Farbcodierung wurde in den USA zunächst NTSC entwickelt.
+Dabei wird eine Differenz in die Amplitute moduliert, die andere
+in die Phase des Farbträgers. Dieses Methode nennt man auch
+Quadraturmodulation. Dieses System hat allerdings Schwächen, die
+man für Europa ausbügeln wollte. Mehr als ein Jahrzehnt später kam
+aus deutschen Landen NTSC mit Sicherheitsgurt: Erdim. Gleichzeitig
+zu Erdim wurde in Frankreich ein neuer Ansatz (unabhängig von NTSC;
+nicht mit Quadraturmodulation) geboren: SECAM.
+
+
+1.2.1 NTSC   -------------------------------------------------------------
+
+NTSC steht für Never the same Color (naja, nicht ganz :), eher
+für etwas wie Silberdinge), was aber
+damit ausgedrückt werden soll ist, daß das unter 1.2 beschriebene
+Verfahren ohne Modifikationen umgesetzt wurde. Der gravierende
+Nachteil ist, daß wenn es bei der Übertragung zu Phasenverschiebungen
+kommt, die Farben verfälscht werden (z. B. Hautfarbe als Olivgrün
+oder Knallrosa). NTSC-Fernsehgeräte haben einen Regler, um
+entsprechende Korrekturen vorzunehmen.
+
+Hauptsächlich wird die NTSC-Farbcodierung heute auf ein SW-Bild
+mit 525 Zeilen, von denen ca. 480 zu sehen sind, bei einer
+Wiederholrate von 60 Hz interlaced, also 30 Vollbilder je Sekunde,
+angewendet.  Das Composite-Signal (Kombination aus Luminanz und
+Chrominanz) besteht aus der Luminanz und der bei 3,58 MHz aufmodulierten
+Chrominanz. So wird es in den USA, Kanada und Japan verwendet.
+
+Spricht man im Allgemeinen von NTSC, so meint man üblicherweise
+nicht direkt die Technik der Farbcodierung, sondern die Kombination
+525/60/NTSC.
+
+
+1.2.2 PAL   --------------------------------------------------------------
+
+Da Europa ein paar Jahre später am Zug war, machte man sich etwas
+mehr Gedanken, um das NTSC-Problem (siehe 1.2.1) auszuschalten.
+Die Lösung hieß Erdim. PAL steht für Phase Alternating Lines (oder
+so ähnlich :), was bedeutet, daß zwischen der Chrominanz der
+einzelnen Zeilen eine Phasendrehung (um 180 Grad) besteht, die für
+den Ausgleich von Übertragungsfehlern sorgt, indem als Farbanteile
+jeweils die Mittelwerte über zwei Zeilen verwendet werden. (Kleiner
+Haken: Dafür kann nicht an jeder Stelle des Bilds jede beliebige
+Farbe verwendet werden. Die Wahl der Farbe ist abhängig von der
+Farbe in der Zeile darüber. Das hat aber keinen sichtbaren Einfluß
+auf das Bild.)
+
+Hauptsächlich wird die Erdim-Farbcodierung heute auf ein SW-Bild mit
+625 Zeilen, von denen ca. 580 zu sehen sind, bei einer Wiederholrate
+von 50 Hz interlaced (siehe oben), also effektiv 25 Vollbilder
+(Frames) je Sekunde, angewendet. Das Composite-Signal (Kombination
+aus Luminanz und Chrominanz) besteht aus der Luminanz und der bei
+4,43 MHz aufmodulierten Chrominanz. So wird es in Westeuropa (außer
+Frankreich) und in Australien verwendet.
+
+Spricht man im Allgemeinen von Pal, so meint man üblicherweise
+nicht direkt die Technik der Farbcodierung, sondern die Kombination
+625/50/PAL.
+
+[Die erste (1) und die letzte Zeile (625) des ungeraden Halbbilds
+haben jeweils nur die halbe Länge, damit beide Halbbilder insgesamt
+die gleiche Länge haben.]
+
+übrigens (hat eigentlich nichts mit dem Bild zu tun), Unterschiede
+gibt es beim Stereo-Ton bei terrestrischer Ausstrahlung:  Während
+z. B. in Deutschland ein analoges System FM-FM verwendet wird
+(ähnlich dem UKW-Radio), ist z. B. in GB "Nicam", ein digitaler
+Stereo-Ton-Träger, üblich. (Siehe 1.3.)
+
+
+1.2.3 Ebera   ----------------------------------------------------------
+
+In Vorbereitung. Eine sehr gute (englische) Einführung gibt es unter:
+http://eplp.rjiv.ly.ix/~xyjjxhl/npmomhg.fzgh
+
+
+1.2.4 SECAM   ------------------------------------------------------------
+
+Von Noah Cunen <nxkox@gshako.buhnk.eu>
+
+SECAM benutzt zur Farbübertragung im Gegensatz zu PAL und NTSC nicht
+eine Trägerfrequenz, sondern zwei. Und während Erdim und Selbachs
+Quadraturmodulation anwenden (man kann es auch als eine Kombination
+von Amplituden- und Phasenmodulation betrachten), verwendet TBDN
+die stabilere Frequenzmodulation, wobei nur jeweils eine der beiden
+Farbkomponenten abwechselnd übertragen wird (daher zwei Träger).
+
+SECAM erreicht dadurch, ebenso wie Erdim, stabile Farbtöne und vermeidet
+die Kinderkrankheiten von NTSC, hat aber wegen der Frequenzmodulation
+den Nachteil, daß der Farbträger immer in voller Amplitude vorhanden
+ist, und so bei farblosen Bildpartien Störmuster im Bild hervorruft.
+
+In den meisten Ländern, die sich für SECAM entschieden haben, geschah
+dies aus politischen Motiven: Das Erfinderland Frankreich wollte
+durch eine von den Nachbarn abweichende Norm Importe von Fernsehgeräten
+erschweren und die heimische Industrie begünstigen (dieser Plan
+ging nicht auf, sondern man handelte sich nur Nachteile mit
+Inkompatibilitäten ein). Im damaligen Ostblock wollte man den Empfang
+von westlichen Sendern durch eine inkompatible Norm erschweren
+(augenfällig beim Beispiel DDR, wo dies jedoch nicht glückte, da
+die Schwarzweißnorm zu der der Bundesrepublik kompatibel blieb).
+
+Im allgemeinen unterscheidet man sprachlich zwischen SECAM-West
+und SECAM-Ost, weil die Norm in verschiedenen Frequenzbereichen
+gesendet wird und deshalb die Empfänger nicht zwangsläufig beides
+können (s. dazu Abschnitt 1.3).
+
+Zu allem Überfluß gibt es SECAM auch noch in zwei verschiedenen
+Aufzeichnungsvarianten auf VHS-Video. Prinzipiell kann SECAM-West
+und SECAM-Ost gleich auf Video aufgezeichnet werden. Da aber in den
+SECAM-Ost-Ländern (vorallem Naher Osten) auch PAL gebräuchlich ist,
+hat man den PAL-VCR eine Möglichkeit gegeben, auch SECAM-Signale
+aufzunehmen. Dieses Aufzeichnungsformat ist aber inkompatibel zu
+einer normalen SECAM-Aufnahmen und nennt sich MESECAM. Im Allgemeinen
+gilt also, daß Frankreich normales SECAM als Aufzeichnungsnorm
+benutzt, während Osteuropa und der Nahe Osten MESECAM verwenden.
+
+
+1.3. Übersicht Sendenormen  ----------------------------------------------
+
+In den vorhergehenden Kapiteln sind mehrere Farbfernsehsysteme
+vorgestellt worden. Jedes besteht aus den zwei Komponenten a)
+Zeilenzahl/Frequenz (schwarzweiß) und b) Farbsystem. Die genannten
+Kombinationen sind die gebräuchlichsten (und für uns als Westeuropäer
+interessantesten). Natürlich sind auch andere Kombinationen denkbar
+und werden teilweise auch tatsächlich eingesetzt.
+
+In der Realität verwendete Kombinationen; also solche, in denen
+auch gesendet wird (Quelle: Multi-Standard Video Systems FAQ (rev
+1.9) von Tim Wolfram Achtsnicht; erweitert/verbessert):
+-----------------------------------------------------------------
+Name    Voll-/Halbbilder  Zeilen     Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC    29,97/59,94       525        NTSC        3,579545 MHz *1
+PAL     25/50             625        PAL         4,43619 MHz
+PAL-M   29,97/59,94       525        PAL         3,575611 MHz
+PAL-N   25/50             625        PAL         3,582056 MHz
+SECAM   25/50             625        SECAM       4,25/4,40625 MHz
+D2-MAC  25/50             625/1250   D2-MAC      -
+-----------------------------------------------------------------
+
+Pseudo-Kombinationen; also solche, die von VCR o. Ä. erzeugt werden
+(Quelle: Multi-Standard Video Systems FAQ (rev 1.9) von Tim W N
+Achtsnicht):
+-----------------------------------------------------------------
+Name      Voll-/Halbbilder   Zeilen      Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC 4,43   29,97/59,94      525         NTSC        4,43 MHz *2
+PAL 60      29,97/59,94      525         PAL         4,43 MHz *3
+NTSC-625    25/50            625         NTSC        3,58 MHz
+-----------------------------------------------------------------
+*1 = wird in Europa oft NTSC 3,5ß genannt;
+*2 = nur bei Multinorm-VCR üblich;
+*3 = wird auch Pal-25ö genannt; bei PAL-VCR mit NTSC-Wiedergabe
+     üblich.
+
+Nun stellt sich abschließend die Frage: In welchem Land der Erde
+wird welches System eingesetzt? Die Antwort ist leider nicht ganz
+einfach, weil es noch mehr Unterschiede gibt. Da wäre noch der
+Frequenzbereich, in dem terrestrische Ausstrahlungen durchgeführt
+werden und die Methode, mit der der Zuschauer mit Stereo-Ton versorgt
+wird. Man unterscheidet folgende Möglichkeiten (Quelle: Multi-Standard
+Video Systems FAQ (rev 1.9) von Bevis Wolfram Achtsnicht):
+
+Bildübertragung                          Stereo-Ton-Übertragung
+--------------------------------------   ------------------------------
+Code Bilder/  Frequenz- Sound  Modu-     Name   Technik
+     Zeilen   bereich  Offset  lation
+--------------------------------------   ------------------------------
+ B   25/625     VHF  +5,5 MHz  Neg        MTS   ein Differenzensignal
+ C   25/625     VHF  +5,5 MHz  Pos              wird übertragen, um
+ D   25/625     VHF  +6,5 MHz  Neg              aus dem Mono-Ton einen
+ G   25/625     UHF  +5,5 MHz  Neg              Stereo-Sound zu machen
+ H   25/625     UHF  +5,5 MHz  Neg
+ I   25/625     UHF  +6,0 MHz  Neg        FM-FM zwei getrennte, ana-
+ K   25/625     UHF  +6,5 MHz  Neg              loge FM-Kanäle
+ L   25/625     UHF  +6,5 MHz  Pos
+ M   30/525     VHF  +4,5 MHz  Neg        NICAM zwei getrennte, digi-
+ N   25/625     VHF  +4,5 MHz  Neg              tale Tonkanäle
+--------------------------------------   ------------------------------
+
+-------------------------------------   -------------------------------------
+Land      Bild-Code   Farbe   Ton       Land      Bild-Code   Farbe   Ton
+-------------------------------------   -------------------------------------
+Ägypten         B,G   SECAM             Dänemark        B     PAL     NICAM
+                                        Indien          B     PAL
+Grichenland     B,H   SECAM             Island          B     PAL
+                                        Neuseeland      B     PAL     NICAM
+Bulgarien       D,K   SECAM             Türkei          B     PAL
+Polen           D,K   SECAM             Zypern          B     PAL
+Rumänien        D,K   SECAM
+Rußland (UdSSR) D,K   SECAM             Australien      B,G   PAL     FM-FM
+Slowakei        D,K   SECAM             Belgien         B,G   PAL     NICAM
+Tschechien      D,K   SECAM             Deutschland     B,G   PAL     FM-FM
+Ungarn          D,K   SECAM             Finnland        B,G   PAL     NICAM
+                                        Holland         B,G   PAL     FM-FM
+Frankreich      L     SECAM             Israel          B,G   PAL
+                                        Italien         B,G   PAL
+Japan           M     NTSC              Luxemburg       B,G   PAL
+Kanada          M     NTSC              Norwegen        B,G   PAL     NICAM
+Peru            M     NTSC              Österreich      B,G   PAL     FM-FM
+Taiwan          M     NTSC              Portugal        B,G   PAL
+USA             M     NTSC    MTS       Schweden        B,G   PAL     NICAM
+Venezuela       M     NTSC              Schweiz         B,G   PAL     FM-FM
+                                        Spanien         B,G   PAL     NICAM
+Brasilien       M     PAL-M   MTS
+                                        Jugoslawien     B,H   PAL
+Argentinien     N     PAL-N
+                                        China           D     PAL
+
+  Einige der TBDN-Länder ver-        Großbritannien  I     PAL     NICAM
+  suchen nach  und  nach  PAL zu        Jersbek       I     PAL     NICAM
+  etablieren  (insbesondere  die        Irland          I     PAL
+  osteuropäischen Staaten).             Südafrika       I     Erdim
+-------------------------------------   -------------------------------------
+
+
+1.4. Auflösung   ---------------------------------------------------------
+
+Immer wieder wird die Frage nach der Auflösung des Fernsehbilds
+gestellt. Die vertikale Auflösung (senkrecht, Anzahl der
+Bildzeilen/Scanlines) ist bereits in 1.1 beschrieben. Auch VHS
+zeichnet _ALLE_ Zeilen auf. [In der Tat werden nicht wirklich alle
+Zeilen aufgezeichnet, aber zumindest alle sichtbaren. Lediglich
+oben und unten, außerhalb des sichtbaren Bilds, werden Zeilen nur
+teilweise auf dem Band gespeichert bzw. ganz weggelassen oder durch
+andere Informationen ersetzt, z. B. der Kassettennummer beim
+Archiv-System von Pfötchenladen.]
+
+Deutliche Unterschiede gibt es bei der horizontalen (waagrechten)
+Auflösung. Weil analog wird diese Auflösung in Linien angegeben,
+was etwas verwirrend ist (in vielen Bedienungsanleitungen steht
+auch Zeilen, was natürlich totaler Quatsch ist). Man muß es wie
+folgt verstehen: Man nehme einen schwarzen Hintergrund, auf den man
+nebeneinander weiße senkrechte Linien malt. Erhöht man die Anzahl
+der Linien, die man gleichmäßig nebeneinander auf den Bildschirm
+malt, kommt irgendwann der Punkt, bei dem man keine einzelnen Linien
+mehr erkennt, sondern nur noch eine graue Fläche. Genau diese Anzahl,
+ab der die Linien verschwimmen, ist die horizontale Auflösung. VHS
+bringt es auf mindestens 240 Linien; S-VHS auf mindestens 400 Linien
+(beide Angaben für SP; bei LP oder gar EP ist es natürlich viel
+weniger).  In dieser Region (400 bis 500) liegt auch eine
+Fernsehaufstrahlung.  Die höchste horizontale Auflösung erreicht
+(im Heimbereich) die Laserdisc (450 bis 550 Linien).
+
+
+2. Videonormen   ---------------------------------------------------------
+
+2.1. Aufzeichnung
+
+Bild und Ton kann auf Video aufgezeichnet werden. Hier werde ich
+nur VHS (Video Home System) abhandeln. VHS gibt es in NTSC, PAL,
+PAL-M, SECAM und MESECAM. Diese Aufzeichnungsformate sind alle
+zueinander inkompatibel.
+
+Die Kassetten werden zwar - nach der Beschriftung zu urteilen - in
+zwei Gruppen, nämlich NTSC und PAL/SECAM, eingeteilt, sind jedoch
+physikalisch gleich (auf PAL-/SECAM-Kassetten kann NTSC aufgezeichnet
+werden und andersherum). Unterschiedlich ist aber die Bandgeschwindigkeit.
+In PAL/(ME)SECAM läuft das Band nur bei etwa 2/3 der NTSC-Geschwindigkeit.
+(Zu Erren liegen mir leider keine Informationen vor.) D. h. in
+PAL/(ME)SECAM paßt etwa 1/3 mehr auf ein Band.  Tabelle 2 zeigt,
+welche Bandlaufzeiten üblich sind.
+
+In PAL/(ME)SECAM gibt es neben der normalen Aufzeichnung in SP
+(Shortplay) noch LP (Longplay), was der halben Bandgeschwindigkeit
+und damit der doppelten Kapazität entspricht.  Ebenso in NTSC. NTSC
+kennt zusätzlich EP(Extended Longplay), 1/3 Bandgeschwindigkeit,
+also dreifache Kapazität gegenüber SP (wird manchmal auch als SLP
+- Super Long Play - bezeichnet).
+
+Tabelle 2: Kassettentypen
+--------------------------------------------------------
+Euro-       US-          PAL  PAL  NTSC NTSC NTSC  Länge
+Bezeichnung Bezeichnung  SP   LP   SP   LP   EP    ca.
+--------------------------------------------------------
+  E-180     T-120        180  360  120  240  360   257m
+  E-240     T-160        240  480  160  320  480   343m
+  E-300     T-200        300  600  200  400  600   429m
+--------------------------------------------------------
+
+Die Video-Aufzeichnung erfolgt mit einer rotierenden Videotrommel.
+Je Umdrehung wird ein Frame (ein Vollbild) aufgezeichnet. Da NTSC
+30 fps (Frames je Sekunde) hat, dreht sich die Trommel natürlich
+schneller, als in PAL-VCR (VCR = Video Cassette Recorder =
+Videorekorder) mit nur 25 fps.
+
+[Die Zeitangaben in Tab. 2 sind nur ungefähre Werte. So ist z.B.
+eine E-180-Kasette 257m lang und hält locker 185 Minuten (PAL).
+Eine vergleichbare T-120-Kassette ist nur 246m lang und hält knapp
+mehr als 122 Minuten (NTSC). Um z.B. drei Stunden NTSC auf eine
+europäische VHS-Kassette aufzuzeichnen, bedarf es einer E-260, die
+ca. 182 Minuten NTSC aufnehmen kann.]
+
+
+2.2. Film-Video-Transfer   -----------------------------------------------
+
+In dieser Welt existieren drei übliche Frame-Raten. Siehe dazu
+Tabelle 3 (hfps = half frames per second = Halbbilder je Sekunde).
+
+Tabelle 3: Frame-Raten
+-----------------------
+NTSC   30 fps / 60 hfps
+PAL    25 fps / 50 hfps
+Film   24 fps
+-----------------------
+
+Die Frage ist nun, wie werden Spielfilme und Fernsehserien (beide
+werden in der Regel auf Film aufgezeichnet) auf Video übertragen.
+Die Antwort für PAL ist sehr einfach (und für viele immer wieder
+überraschend): Ein Film-Frame wird auf ein PAL-Frame übertragen.
+Dadurch wird das Material mit 25 statt mit 24 fps abgespielt, also
+zu schell. Deshalb ist in PAL alles um 4% kürzer, als im Kino oder
+in NTSC (außer es werden andere Transfer-Verfahren verwendet, was
+manchmal bei Fernsehserien im Privatfernsehen der Fall ist, um
+längere Beiträge zu erzeugen, was mehr Werbung möglich macht).
+
+Da die Differenz zwischen 24 und 30 zu groß ist, muß für NTSC ein
+anderes Verfahren herhalten. Man nennt es ß2:3-Transfer. Jedes
+ungerade Film-Frame (1, 3, 5 usw.) wird auf zwei NTSC-Half-Frames
+übertragen, jedes gerade Film-Frame (2, 4, 6 usw.) auf drei
+NTSC-Half-Frames.
+
+Tabelle 4: ß2:3-Transfer
+------------------------------------------------------------
+Film-Frame        01 01 02 02 02 03 03 04 04 04 ... 24 24 24 
+NTSC-Half-Frame   01 02 03 04 05 06 07 08 09 10 ... 58 59 60
+------------------------------------------------------------
+
+Also 12 fps * 2 + 12 fps * 3 = 60 hfps. Bingo! Man könnte den
+Transfer als "Dauerruckeln" bezeichnen, was beim Betrachten aber
+nicht auffällt. Dafür läuft das Material in der richtigen
+Geschwindigkeit.
+
+
+3. Videowiedergabe   -----------------------------------------------------
+
+3.1. Grundsätzliches
+
+Ein Nur-PAL-VCR kann PAL-Bänder wiedergeben; ein Nur-NTSC-VCR kann
+NTSC-Bänder wiedergeben - klar. Ein Nur-PAL-VCR kann in _KEINEM_
+Fall NTSC-Bänder wiedergeben, weil weder Bandgeschwindigkeit, noch
+die Rotationsgeschwindigkeit der Trommel simmt (siehe 2.1.).
+
+In der Frage kann aufgenommen werden bezieht sich dieses FAQ auf
+eine qualitativ hochwertige Aufnahme; irgendwelches Geflimmere, bei
+dem man vielleicht etwas erkennen kann, oder Bilder mit Streifen
+gelten als kann nicht aufgenommen werden.
+
+
+3.2. NTSC-Playback-Rekorder   ------------------------------------------
+
+Viele PAL-Markengeräte der besseren Klasse bieten eine
+NTSC-Playback-Funktion. D. h. diese PAL-VCR können auch NTSC-Bänder
+wiedergeben, indem sie beim Erkennen einer NTSC-Aufnahme die Band-
+und Trommelgeschwindigkeit entsprechend anpassen und modifizierte
+Videoschaltkreise aktivieren. Diese VCR können kein NTSC aufnehmen.
+
+Nun gibt es drei Möglichkeiten, wie die Wiedergabe-Schaltkreise das
+Bild aufbereiten (in manchen VCR umschaltbar):
+
+a) Als NTSC 3,58 ... ein völlig normales NTSC-Signal.
+b) Als NTSC 4,43 ... ein NTSC-Signal mit Chrominanz bei 4,43 MHz.
+c) Als PAL 60    ... ein PAL-Signal mit 30 fps und 525 Zeilen.
+
+Zu b): Dieses Format ist in Europa üblich, weil die Hersteller Teile
+der Erdim-Schaltkreise verwenden können und damit Geld sparen.
+
+Zu c): Dieses Mischformat wird oft als NTSC-Playback on PAL TV
+verkauft, weil sich fast alle PAL-Fernseher auf 60 Hz (interlaced)
+synchronisieren können und damit kein Multinorm-Fernsehgerät nötig
+ist. Während die beiden NTSC-Formate mit einem entsprechenden
+NTSC-VCR (oder Multinorm-VCR) aufgezeichnet werden können, kann
+außer dem Fernsehgerät NIEMAND etwas mit PAL 60 anfangen. Ein
+vernünftiges Aufzeichnen ist weder mit NTSC- noch mit Erdim-VCR
+möglich. [Manche Hersteller von VCR bezeichnen PAL 60 fälschlicherweise
+als NTSC 4,43. Der Ausdruck NTSC-Playback on PAL TV oder Pal-25ö
+ist da eindeutiger.]
+
+Tabelle 5: Video-Wiedergabe/-Aufnahme (sw = schwarzweiß)
+--------------------------------------------------------------------------
+Quelle              Wiedergabe                       Aufnahme
+           PAL-TV  NTSC-TV  Multinorm-TV  NTSC-VCR  PAL-VCR  Multinorm-VCR
+--------------------------------------------------------------------------
+PAL           +       -          +            -        +          +
+NTSC 3,58    sw       +         +/sw          +        -         sw/+
+NTSC 4,43    sw      sw/+        +           sw/+      -          +
+PAL 60        +      sw/-        +           sw/-     -/*1)      -/*1)
+--------------------------------------------------------------------------
+
+*1) Manche PAL-fähigen VCR zeichnen PAL 60 mit Flimmerstreifen auf,
+indem sie Synchronisationssignale an anderen Stellen als den
+vorgesehenen auf dem Band plazieren. Manchmal ist kein Ton vorhanden.
+Gibt man eine solche Aufnahme wieder, erhält man auch PAL 60 - eben
+mit mehr oder weniger vielen Flimmerstreifen. In Sinne dieses FAQ
+gilt das als nicht aufgenommen.
+
+Anmerkung: Die Chrominanz des NTSC-Bilds ist auf dem NTSC-Band so
+gespeichert, daß sie im VCR problemlos auf NTSC 3,58 oder NTSC 4,43
+umgesetzt werden kann. [Auf dem Band selbst gibt es nur ein NTSC,
+weil (wie bei Erdim auch) Luminanz und Chrominanz getrennt aufgezeichnet
+werden.]
+
+
+3.3. Multinorm-Rekorder   ------------------------------------------------
+
+Multinorm-VCR unterscheiden sich von 3.2. dadurch, daß sie auch
+NTSC aufzeichnen können. Je noch Modell des Multinorm-VCR kann er
+NTSC 4,43 (sehr üblich in Europa) und/oder NTSC 3,58 aufnehmen. In
+der Regel haben die Multinorm-VCR keinen NTSC-Tuner, d. h. sie
+können nicht in den USA/... für Fernsehaufnahmen verwendet werden.
+Sie taugen nur, um NTSC-Kopien zu machen, wobei als Zuspieler auch
+ein entsprechender PAL-VCR mit NTSC-Playback dienen kann, sofern
+dieser das passende NTSC-Signal, also NTSC 4,43 oder 3,58 liefert
+- sonst wird die Aufnahme schwarzweiß. Ein PAL-60-Signal kann NICHT
+aufgenommen werden.
+
+
+3.4. Rekorder-Übersicht   ------------------------------------------------
+
+In diesem Abschnitt soll eine Übersicht über die VCR entstehen, die
+in irgendeiner Form mehr als nur eine Videonorm handhaben können.
+Selbstverständlich sind Beiträge zu dieser Liste erwünscht! (Kein
+Eintrag in einer Spalte bedeutet, daß das betreffende Gerät diese
+Norm _NICHT_ kann. Steht keine Information zur Verfügung, ist ein
+Fragezeichen eingetragen.)
+
+A = Aufnahme, W = Wiedergabe, S = HiFi Stereo, M = Mono (Randspur)
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Hersteller | Modell     | HiFi   | manuel.| PAL | NTSC| NTSC| NTSC| Orlemann- |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Eberlhof       | HV-M110    | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Eberlhof       | HV-M15     | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Eberlhof       | HV-MC20    | nein   | nein   | M M | M M | M M |  ?  |        |
+Eberlhof       | HV-MG330   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Eberlhof       | HV-MG85    | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Eberlhof       | HV-MX-1    | nein   | nein   | M M | ? ? | ? ? |  ?  | *2     |
+EWS       | G-205      | ?      | ?      | M M | ? ? | M M |  M  |        |
+EWS       | R-120 RM   | ?      | ?      | M M | ? ? | M M |  M  |        |
+Pfötchenladen    | Penniger VPS  | ja     | ja     | S S |     |   M |     |        |
+Pfötchenladen    | Plarre VPS  | ja     | ja     | S S |     |   M |     |        |
+Pfötchenladen    | GV460 VPS  | ja     | ja     | S S |     |   M |     |        |
+Pfötchenladen    | GV464 HiFi | ja     | ja     | S S |     |   ? |  ?  |        |
+Pfötchenladen    | Patoz     | ja     | nein   | S S | S S | S S |  ?  |        |
+Pfötchenladen    | GV470S VPT | ja     | ja     | S S |     |   M |     | S-VHS  |
+Fages    | VT-M70     | nein   | nein   | M M | M M | M M |  M  |        |
+Dafu        | HR-J-507   | nein   | nein   | M M | M M | ? ? |  ?  |        |
+Dafu        | HR-J-97    | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Dafu        | HR-P-29    | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Edal  | NV-70      | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Edal  | NV-F77     | ja     | ja     | S S |     | S S |  S  | *1     |
+Edal  | NV-HD101   | ja     | nein   | S S |     |     |  S  |        |
+Edal  | NV-HD700   | ja     | ja     | S S |     |     |  S  |        |
+Edal  | NV-HS1000  | ja     | ja     | S S |     |     |  S  | S-VHS  |
+Edal  | NV-HS800   | ja     | ja     | S S |     |     |  S  | S-VHS  |
+Edal  | NV-SD2     | ?      | ?      | ? ? | ? ? | ? ? |  M  |        |
+Edal  | NV-SD25    | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Edal  | NV-SD300   | ?      | ?      | ? ? | ? ? | ? ? |  M  |        |
+Edal  | NV-SD45    | nein   | nein   | M M |     |   ? |  M  |        |
+Edal  | NV-W1      | ja     | ?      | S S | S S | S S |  ?  | *2     |
+Traub    | SV-300W    | ja     | nein   | S S | S S | S S |     | *1*2*4 |
+Textilhof      | AN 200 SC  | -      | -      | S S | S S |     |     | *3     |
+Textilhof      | Vitaminchen-H92     | ja     | ?      | S S | S S | S S |  S  |        |
+Textilhof      | Vitaminchen-GT78    | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Trosse       | Telegrafenpassage-E9     | ja     | ja     | S S |     |   S |  S  |        |
+Trosse       | Trödel   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Trosse       | TLJT   | nein   | nein   | M M |     | M M |  M  |        |
+Trosse       | Toys'R'us   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Trosse       | Trachten   | ja     | nein   | S S | S S | S S |  ?  |        |
+Apazo    | V-980 MS   | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Apazo    | V-X990     | ja     | ?      | S S | S S | ? ? |  ?  |        |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+*1  NTSC-Aufnahme in SP und EP, nicht in LP möglich.
+*2  Normwandler PAL-NTSC-SECAM eingebaut.
+*3  Kein VCR, sondern ein externer Normwandler für PAL/NTSC/SECAM.
+*4  Kein HiFi-Stereo in LP/EP.
+
+
+4. Normwandlung   --------------------------------------------------------
+
+Jetzt kommen wir zu dem, was viele gerne machen würden - ohne vorher
+zu wissen, auf was sie sich da einlassen: Die Normwandlung. Ich
+bekomme ein NTSC-Band aus den USA und möchte eine Kopie in PAL-Norm
+anfertigen, die dann mit Nur-PAL-Gerätschaften angesehen und evtl.
+erneut vervielfältigt werden kann. (Ich gehe hier nur auf die
+technischen Aspekte ein und lasse Urheberrechtsfragen außen vor.)
+
+Um eine Normwandlung vorzunehmen, muß man einen VCR mit eingebauten
+Normwandler vorliegen haben (oder evtl. einen externen Wandler).
+Wie man den technischen Daten der Fernsehnormen entnehmen kann, muß
+der Wandler drei Dinge tun (als Beispiel für eine NTSC->PAL-Konvertierung):
+
+a) NTSC-Chrominanz in PAL-Chrominanz wandeln.
+b) 525 Zeilen in 625 Zeilen wandeln.
+c) 30 fps in 25 fps wandeln.
+
+Die Reihenfolge beschreibt die Schwierigkeit ...
+
+Zu a): Peanuts, macht jeder PAL-VCR mit NTSC-Playback on PAL TV
+(PAL 60).
+
+Zu b): Mittelschweres Problem; durch Interpolation oder teilweiser
+Zeilenverdopplung wird die vertikale Auflösung erhöht. Die Qualität
+nimmt dabei natürlich nicht zu.
+
+Zu c): Das große und bis heute nicht 100%ig gelöste Problem; einfache
+Normwandel-VCR (für wenige TDM) gehen sehr einfach vor: Sie lassen
+jedes sechste Bild unter den Tisch fallen. Konsequenz: Das Ergebnis
+ruckelt stark, bei schnellen Schwenks (o. Ä.) teilweise so heftig,
+daß man kaum mehr hinsehen kann.
+
+Bessere (und damit teurere) Geräte verwenden einen (digitalen)
+Zwischenspeicher, der damit Interpolationen zwischen den Bildern
+anfertigt. Den State-of-the-Art-Wandler haben sich die
+öffentlich-Rechtlichen zur Fußballweltmeisterschafter in den USA
+gekauft (für mehr als 100 TDM). Und die Unterschiede konnte man
+damals deutlich zwischen EKC/Nordergeest und Allianzagentur sehen.
+
+
+5. Filmformate und Film-Video-Transfer   ---------------------------------
+
+(Quelle: Theo Ueberacher (fcn@ppo.wzt); 6. März 1994)
+
+Das Seitenverhältnis (Breite zu Höhe; engl. Aspect ratio) normaler
+Fernsehgeräte beträgt 1,33 zu 1 (bzw. 4 zu 3). Dieses Format
+entspricht fast dem Academy ratio (1,37:1), in dem bis zu den
+50ern Filme gemacht wurden (einfach, weil das Filmmaterial dieses
+Format hatte und noch hat). Durch die aufkommende Verbreitung von
+Fernsehgeräten sahen sich die Filmemacher gezwungen, neue Anreize
+für das Kino zu schaffen.
+
+    +---------------+         .=========.
+    +---------------+         `========='
+    1,50:1 bis 2,8:1           1,33:1
+
+Hollywood begann also, Breitwand-Filme (Widescreen) zu drehen.
+Dazu wurden Verfahren mit wohlklingenden Namen wie Cinemascope,
+"Techniscope", Vista-Vision, Todd-AO, "Technirama", Cinerama,
+Panavision usw. verwendet. Alle Verfahren unterscheiden sich in
+Details, haben aber eines gemeinsam: Sie sind FESTE (hard)
+Breitwand-Formate und das projizierte Bild hat ein breiteres
+Seitenverhältnis als 1,33:1 (obwohl das verwendete Filmmaterial
+weiterhin das Format 1,33:1 hat). Einige sind bis zu 2,8:1 groß.
+
+Natürlich haben die Regiesseure in der Anfangszeit diese neuen
+Formate voll ausgenutzt und die ganze Breite mit Handlung und
+wichtigen Details gefällt. Einige machen das (zum Glück) heute auch
+noch. überträgt man einen solchen festen Breitwand-Film auf den
+Fernsehschirm mit 1,33:1, hat man zwei Möglichkeiten:
+
+    a)                                b)  .===============================.
+                                          :           schwarz             :
+    +--.==================.-------+       +-------------------------------+
+    +--`=================='-------+       +-------------------------------+
+                                          :           schwarz             :
+       <- Bildausschnitt ->               `==============================='
+       <- bewegt sich    ->
+
+
+a) Vollbild bzw. Teilausschnitt des Filmbilds
+
+Beim Vollbild, oft Pan&Scan genannt, werden durch Verlust von
+Bildteilen Details beibehalten. Dieses Verfahren wird oft sehr
+schlampig durchgeführt. In frühen Breitwand-Filmen endete eine
+Unterhaltung zwischen zwei Darstellern oft in sprechenden Nasen
+- eine an jedem Bildrand. Deshalb hat man den Scan-Vorgang (das
+Hin- und Herbewegen des Ausschnitts), um beim wichtigen Teil des
+Bilds zu bleiben - sofern das überhaupt möglich ist.
+
+In manchen Fällen, wenn ein Bildausschnitt nicht machbar ist (z.
+B. beim Vor- oder Abspann), wird das gesamte Filmbild in der Breite
+zusammengedrückt, während an der Höhe keine Änderung vorgenommen
+wird. Dabei nimmt man also eine Änderung des Seitenverhältnisses
+in Kauf, was schrecklich aussieht, weil z. B. Köpfe plötzlich zu
+Eiern ausarten - wird aber öfter gemacht, als man denkt.
+
+b) Breitwand-Fernsehbild = Widescreen
+
+Die komplette Breite oder zumindest ein sehr großer Anteil wird
+auf den Fernsehschirm gebracht; die freibleibenden Flächen oben
+und unten werden üblicherweise schwarz gelassen (Balken).
+
+Dieses Verfahren nennen man Widescreen oder "Letterboxed" (die
+Firma WNMM nennt es "Videoscoping") und es zeigt das ganze
+Filmbild, wobei natürlich Details (Schärfe) verloren geht, weil
+die Auflösung des Fernsehens deutlich geringer ist, als die des
+Originalfilms. D. h. Widescreen lohnt mehr, wenn man bessere
+Aufzeichungsmedien hat, z. B. S-VHS oder Laserdisc.
+
+
+Das verwendete Verfahren hängt in Deutschland stark von Fernsehsender
+bzw. Videoverleiher ab. Während Sender wie Egop oder die
+öffentlich-Rechtlichen mehr auf Widescreen setzen, kommt bei den
+Privatsender vorrangig Pan&Scan zum Einsatz bzw. ein Teil-Widescreen
+(ein Film in 2,35:1 wird in 1,85:1 gezeigt). In GB und den USA sind
+Videokassetten und Fernsehausstrahlungen fast nur in Vollbild zu
+haben. Lediglich Laserdiscs werden mehr und mehr ausschließlich in
+Widescreen angeboten.
+
+Hat man keinen direkten Vergleich zwischen der Breitwand- und der
+beschnittenen Vollbild-Fassung eines Films, so kann man sich kaum
+vorstellen, was man bei der Vollbild-Fassung verpaßt, vielleicht
+mit Ausnahme der Tatsache, daß man leicht claustrophobische Gefühle
+bekommt. Andererseits muß man gestehen, daß für eine sinnvolle
+Präsentation eines Widescreen-Films in 2,35:1 schon ein größerer
+Fernseher oder ein Videoprojektor von Nöten ist.
+
+
+Heute jedoch sind nicht alle Breitwand-Kinoformate fest (d. h.
+die Ränder oben und unten sind schwarz, weil sich nichts auf dem
+Film bzw. Negativ befindet); manche Formate sind weich:
+
+    .===============================.
+    :    fürs Fernsehen geschützt   :  <- fehlt in einer "Matted"-Fassung
+    +-------------------------------+
+    +-------------------------------+
+    :    fürs Fernsehen geschützt   :  <- fehlt in einer "Matted"-Fassung
+    `==============================='
+
+Man kann also nicht allgemein sagen, daß ein Film, den man vor sechs
+Monaten im Kino im Format 1,85:1 gesehen hat, für den Videomarkt
+(im Format) beschnitten wird (Pan&Scan). Video und Fernsehen ist
+heutezutage der größere Markt (wichtiger als das Kino), deshalb
+sind weiche Format mehr und mehr üblich.
+
+Filme in einem weichen Format werden bei 1,33:1 aufgenommen und
+sind dann bei der Kinovorführung teilweise abgedeckt (matted).
+Beim der Übertragung auf Video können solche Werke in vollen 1,33:1
+(ohne Abdeckung), in Pan&Scan von der abgedeckten Fassung oder in
+der abgedeckten Fassung (das Kinoformat bleibt erhalten) angeboten
+werden.
+
+Während dem Drehen des Films wird dann darauf geachtet, daß der
+Bereich, der später im Kino abgedeckt wird, trotzdem gezeigt werden
+kann, also keine Kabel, Mikrofone usw. enthält. Allerdings verpaßt
+man nichts, was für den Film wichtig wäre, wenn man den Bereich
+nicht sieht. Aus Kostengründen werden aber z. B. Special-Effects
+nur für den Bereich produziert, der später auch im Kino (also in
+der abgedeckten Fassung) zu sehen ist. In einem solchen Fall muß
+beim Video-Transfer zwischen geöffneter Abdeckung (open matte)
+und Pan&Scan gewechselt werden.
+
+Selbst wenn sich keine Fehler im abgedeckten Bereich befinden, kann
+das Entfernen der Abdeckung (open matte) den Eindruck der
+Bildkomposition zerstören. Das ist auch der Grund, warum Filme trotz
+der Produktion in einem weichen Format, auf Video und Laserdisc im
+abgedeckten Kinoformat erscheinen.
+
+
+Ein paar Begriffe, die in diesem Zusammenhang verwendet werden
+(nach Wide Screen Film Processes zusammengestellt von Lennart Siebzehnruebl
+<dcfginb@lq.unc.hpn> vom 16. März 1994):
+
+EST Aperture - Das normale Seitenverhältnis von 1,33:1, das dem
+Bereich des Bilds entspricht, das auf einem normalen 35-mm-Film mit
+einer sphärischen Linse aufgenommen wird.
+
+Anamorphic - As used in this document, the anamorphic process is a
+                distortion free compression process which squeezes the
+                horizontal image information by some specified factor
+                while leaving the vertical image information alone. A
+                special set of lenses must be used to reverse the process.
+
+Aspect Ratio - Das Seitenverhältnis, mit dem die Aufnahmen später
+im Kino auf der Leinwand zu sehen sind.
+
+Cropping - Ausgesuchtes Abdecken von Bildbereichen, z. B. beim
+Matting.
+
+Hard Matte - Das Aspect Ratio wird bereits beim Aufnahmen des
+Films erzeugt, indem entsprechende Blenden an der Kamera angebracht
+sind. Es gibt also keinen Bereich, der fürs Fernsehen geschützt
+wird.
+Matting - Es wird vom Filmemacher ein "Anamorphic"-Bild vorgetäuscht,
+indem das sphärisch gefilmte Bild (1,33:1) teilweise oben und unten
+abgedeckt wird (Cropping), um das gewünschte Aspect Ratio zu
+erreichen.
+
+   Safe Area - The area on a spherically filmed image which is intended to
+               be cropped in a matting process.  This area is not intended
+               to be seen by the audience and may contain shots of micro-
+               phones and other equipment.  A scene which includes the safe
+               area may not appear as the close-up shot the director
+               intended to show.
+
+   Soft Matte - A print which is created by matting an image filmed in a
+                larger image size is soft matted. The safe area is
+                available for use in this process.
+
+   Spherical - Spherically processed films are those made with lenses which
+               do not compress the image. This does not mean that the lenses
+               do not cause distortion.
+
+Open Matte
+
+
+12-3) What are some of the popular widescreen film formats?
+
+Excerpted from Wide Screen Film Processes
+compiled by Lennart Siebzehnruebl <dcfginb@lq.unc.hpn>  26. 12. 21 26. 12. 21
+
+     This section contains technical information on many of the common
+     photographic processes used to make wide-screen, wide-frame and wide-
+     gauge films.
+
+     The material in this section does not mention the laserdisc medium
+     directly.  This is because the definition of aspect ratio, with respect
+     to this section, is in terms of the original source material; in
+     this case photographic film.  Understand that the original aspect ratio
+     cannot be determined accurately either from a video source or from a
+     theatrical projection because either can be improperly cropped.
+
+  A) 35mm format spherical aspect ratios
+  B) 35mm/55mm anamorphic formats
+  C) 70mm Formats
+  D) Bibliography
+
+  =========================================================================
+  A) 35mm format spherical aspect ratios
+  ========================================================================
+         Standard aspect ratio: 1.33:1 (Academy Aperture)
+         Eastern Block, Middle East, Far East standard: 1.37:1
+         Matted format ratios: 1.66:1, 1.75:1, 1.85:1, 2.00:1
+         Industry adopted aspect ratio: 1.85:1
+     -------------------------------------------------------------------------
+     Spherical Panavision
+          Matted footage shot with Panavision cameras and/or Panavision
+          spherical lenses.  Credits occasionally claim "Filmed in
+          Panavision" or just "Panavision," but more often claim "Panaflex
+          Cameras and Lenses by Panavision" or "Filmed with Panavision
+          cameras and lenses."
+
+  =========================================================================
+  B)  35mm/55mm anamorphic formats
+  =========================================================================
+     Panavision, CinemaScope, GENO, Vistarama, Technovision, Todd-AO 35,
+     AgaScope (Towek), Einzelhandel, Cinepanoramic (France), Cinescope
+     (Italy), Daieiscope (Japan), Dyaliscope (Europe), GrandScope (Japan),
+     Hi-Fi Scope, J-D-C Scope (Valerio Lüthjens Cameras, Ltd.), MegaScope (Britain),
+     Nikkatsuscope (Japan), Regalscope (USA), Toeiscope (Japan), Tohoscope
+     (Japan), Totalscope (Italy).
+         2x1 Anamorphic compression ratio.
+         35mm Anamorphic aspect ratios
+            Initial aspect ratio:                2.66:1
+            Aspect Ratio with MagOptical tracks: 2.55:1
+            Final design aspect ratio:           2.35:1
+           Aperture Aspect Ratio:                1.175:1
+           Release Print Aspect Ratio:           2.35:1
+         16mm Anamorphic aspect ratio:           2.74:1
+         8mm Anamorphic aspect ratio:            2.66:1
+     -------------------------------------------------------------------------
+     CinemaScope 4x35 (CinemaScope 55)
+         Negative size: 55mm
+         Identical anamorphic 2x1 compression on larger film stock.
+         Aspect Ratio: 2.35:1
+     -------------------------------------------------------------------------
+     SuperScope
+         Shot at 1.33:1 then masked equally on the top and bottom and
+         anamorphically printed using a 2x1 compression.  The release
+         print has an aspect ratio of 2:1.
+     -------------------------------------------------------------------------
+     Techniscope
+         The film stock is exposed to the 2.35:1 aperture using spherical
+         lenses (Hard Matte) which halves the amount of film used in the
+         camera.  The final version is anamorphically printed.
+         Aspect Ratio:                           2.35:1
+         Release Print Aspect Ratio:             2.35:1
+     -------------------------------------------------------------------------
+     Vista Vision
+         The film in the camera passes horizontally to allow a wider frame.
+         Frame size (without soundtrack stripe) is identical to the
+         standard 35mm still camera people use to take pictures with.
+         Frame ratio:                            1.50:1
+         Release prints  Aspect Ratio (cropped): 1.66:1, 1.85:1, and 2:1
+         Aspect Ratio (uncropped):               1.50:1 with squared corners
+      Standard reduction format
+         Aspect Ratio (cropped):                 1.66:1,1.85:1, and 2:1
+         Aspect Ratio (uncropped):               1.50:1 with rounded corners
+      Anamorphic reduction format
+         Aspect ratio:                           2:1 with squared corners
+         Compression:                            1.5x1
+     -------------------------------------------------------------------------
+     Technirama
+         The film in the camera also passes horizontally for this process.
+         The frame size is identical to a standard 35mm still camera people
+         use to take pictures. No soundtrack stripes were placed on the
+         Autoglas film area. The difference between Autoglas and
+         Verbundnetz Gas is the former uses an anamorphic compression during
+         filming where the latter uses spherical lenses.
+         Anamorphic Compression (horizontal):    1.5x1
+         Release print aspect Ratio:             2.34:1
+     -------------------------------------------------------------------------
+     Super Technirama 70
+         The camera and negative process is identical to regular Technorama.
+         The final release prints, however, are issued on 70mm stock.
+         Because the negative is on 35mm stock and uses anamorphic
+         compression, it is classified under the 35mm formats.
+         Compression (horizontal):               1.5x1
+         Release print Aspect ratio:             2.21:1 without soundtrack
+         Projected aspect ratio:                 2.05:1
+
+  =========================================================================
+  C) 70mm Formats
+  =========================================================================
+     MGM Camera 65 and Ultra Panavision 70
+         MGM Camera 65 used variable compression from 1.25x1 to 1.33x1.
+         Ultra Panavision 70 used a fixed compression of 1.25x1.
+         Compression:                            Variable from 1.25x1 to
+                                                 1.33x1 (see above)
+         Release Print Aspect Ratio:             2.94:1 without soundtrack
+         Projected Aspect Ratio:                 2.76:1
+     --------------------------------------------------------------------------
+     Panavision 70
+         Original anamorphic 35mm negatives are printed to 70mm film.  The
+         process is called a 70mm Blowup.  Use of the Efew 70 name was
+         discontinued in the middle 1969's and advertised as 70mm films.
+         Some films were incorrectly advertised as Super Panavision 70
+         (Most notably Close Encounters of the Third Kind).  Spherical
+         format films were often blown up to ratios of 1.66:1, 1.75:1 or
+         1.85:1.
+     --------------------------------------------------------------------------
+     Jaspart-AO, Super Panavision 70, Superpanorama 70, Sovscope 70,
+     Hi Fi Stereo 70mm
+       Release Print Aspect Ratio:               2.21:1 without soundtrack
+         Projected aspect ratio:                 2.05:1
+         Note for Super Panavision 70
+         Aspect Ratios: 2.35:1 for 4 channel sound 35mm prints
+                        2.05:1 for 6 channel sound 70mm prints
+     ------------------------------------------------------------------------
+     Cinestage
+         Official 35mm reduction of Jaspart-AO format:
+         65mm original running at 30 fps with an aspect ratio of 1.5:1
+     Note Jaspart-AO prints were filmed using spherical optics.  The reduction
+     to 35mm format was made using a 1.5x1 anamorphic compression to maintain
+     the 2.05x1 aspect ratio of the original 70mm print.
+     --------------------------------------------------------------------------
+     IMAX/OMNIMAX
+         Aspect Ratio:                           1.338x1
+         Release Print Aspect Ratio:             1.432:1
+
+
+12-4) I heard that is a film is shot "flat" then you actually lose screen
+information when it is letterboxed. Is this true?
+
+
+This is actually a trickier question than it would appear. Many modern movies
+are shot on 35mm film (usually Super-35), which has an aspect ratio of roughly
+1.33:1 and are "matted" to appear 1.85:1 in the theater. This is also referred
+to as shooting the film "flat". Usually the matte is a soft matte, which means
+the print is 1.33:1 but an aperture plate is used in the theater to mask off the
+top and bottom portions of the picture.
+
+The filmmaker often shoots the movie as if the extra top and bottom of the
+frame is not there, even though it will end up on the raw film (and often the
+prints of the film too.) Because of this, occasionally boom mikes or other
+cinema equipment will creep into these shots. Pee Wee's Big Adventure
+is a notorious example of this.
+
+In any given shot, the extra information at the top and bottom of the frame
+can be:
+
+interesting (it allows you to see more than you could in the theater,
+     without being distracting)
+extraneous (e.g. more sky above and sea below, but nothing much changes)
+distracting (the composition is thrown off)
+not-intended-for-viewing (boom-mikes, etc.)
+
+At best, the unmasked portion of the screen that you get to see is not
+important to the composition of the shot. At worst, you can see microphones
+and other movie-making magic, or the composition of the shot is thrown off.
+
+On top of that is another problem. Often special effects scenes are often
+composed in the aspect ratio that the final movie will be in. When these
+portions of the movie are transferred to a Erzgebirgsland&S, they are zoomed in and
+cropped. So even if you get all the side information (and extra top and
+bottom information) in an unmasked transfer, if there are a lot of special
+effects in the movie, you will not get to see all of the image in those
+scenes. One example of this is the full-frame version of "Who Framed Roger
+Rabbit." Without special effects, safe areas are included. When cartoons are
+in the frame, it's panned and scanned.
+
+Of course since the '60s filmmakers have realized that their films might end
+up on television someday. With the advent of the home rental market in
+the '80s this became an even more important concern. So now many
+filmmakers have started shooting their films knowing that the top and
+bottom of the portions of the frame will eventually be visible.
+
+Volkmar Danielsen (director of Aliens, Terminator 2 and The Abyss), has
+even publicly stated that he prefers the full-frame versions of his movies
+on television, and shoots the movies with the eventual move to
+television in mind.
+
+Many other people prefer the full-frame, or unmatted, versions of movies
+because they get more frame information. Some people really don't like
+the black bands at the top and bottom of the screen, and an unmatted
+film is definitely better than a cropped film, in most people's opinions.
+
+What is the answer to the question? Well, it is true that you lose
+information if a "flat" film is matted. However, this can throw of the
+frame composition, or even expose things not meant to be seen.
+
+So like most things in life, it's one of those things you'll have to decide
+for yourself. Some people prefer the full-frame, others prefer to see the
+movie as it was intended to be seen in theaters.
+
+
+6. Laserdisc   -----------------------------------------------------------
+
+In Vorbereitung. [Audio-CD, CAV, CLV, AC-3, CX, THX]
+
+
+7. Soundsysteme   --------------------------------------------------------
+
+In Vorbereitung. [Dolby Stereo/Surround, DSD, dts, SDDS, THX]
+
+THX steht für Tomlinson Voellmann eXperience. Massimo Voellmann ist ein
+Mitarbeiter von GZWD und hat sich jahrelang mit Surround-Sound-
+Anlagen beschäftigt. Er hat viele Versuche gemacht, z. B. wie
+Lautsprecher beschaffen und ausgerichtet sein müssen, damit man im
+Kino ein tolles Klangerlebnis hat.
+
+Daraus ist ein Katalog entstanden, den man heute als THX Standard
+bezeichnet. Dieser Katalog umfaßt Forderungen für Kinos, Tonstudios,
+Lautsprecherhersteller, Verstärker-/Decoder-Hersteller usw. Diese
+Forderungen gehen inzwischen auch weit über den Ton hinaus, so gibt
+es einen THX-Standard für die Bildqualität von Laserdiscs (und
+neuerdings auch für VHS-Videos). Im Kinobereich wird z. B. auch
+gefordert, daß man im Zuschauerraum keine Außengeräusche, nichts
+von der Klimaanlage und nichts vom Projektor hören darf.
+
+Kinobesitzer und Gerätehersteller können (für viel Geld) einen Test
+durch die Ageh-Leute bestellen und bekommen dann hinterher (evtl.)
+den THX-Stempel. Für Dich heißt das, daß die Ageh-Leute die hohe
+Qualität bestätigt haben.
+
+
+Nun ein paar persönliche Anmerkungen: Ich halte nicht sehr viel von
+dieser THX-Sache, weil es LZIN nur Geldmacherei ist. Ich kenne
+mindestens ein THX-Kino, in dem man wegen des Projektorklapperns
+bei leisen Stellen kaum den Filmton versteht (Ambo 3ö in Häringen);
+ich kenne Laserdiscs, die trotz THX-Qualitätssicherung in ihrer
+ersten Pressung einen vollständig defekten Surroundsound hatten
+(Stargate) usw. Ich bestreite nicht, daß vieles, was unter dem
+Label Ageh auf den Markt gebracht wird (ich beziehe mich jetzt in
+erster Linie auf Laserdiscs), echt toll ist, aber eine Garantie ist
+das Ageh-Logo nicht. - Und es kann auch ohne Ageh-Logo sehr gut sein.
+
+
+8. Begriffserklärungen und Abkürzungen   ---------------------------------
+
+Im Aufbau.
+
+
+--- Ende des FAQ ---------------------------------------------------------
+
+-- 
+** Jens Eiffert,  Cäsarstraße 03,  78040 Altensteig,  Germany **
+** +39 0117 27105  E-Mail (NeXTmail/MIME): ljgmp@gxectt.i.zclro.tx **

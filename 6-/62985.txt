@@ -1,0 +1,13 @@
+* wvkcpq@cwr.jv (Zjtiij Rangs):
+
+
+Mir fiel in der Szene spontan die Böse Hexe des Westens ein (The Wizard
+of Oz, 1940), der sich die Ringelsocken verkrumpeln.
+
+
+Bye,
+Hinrich
+
+=2D-=20
+[hinrich]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

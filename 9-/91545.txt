@@ -1,0 +1,22 @@
+Nein. Es gibt einen Lesemodus und einen Editiermodus. Und lesen ist 
+wirklich nur lesen. Zum Lesen von ROT-13 druecke ich %, wenn wieder
+normaler Text kommt, muss ich wieder % druecken, um aus dem Modus da
+herauszukommen.
+
+Ich benutze zum Lesen eigentlich nur die Cursor-Tasten und
+die darueber liegenden Scroll-Tasten, in der anderen
+Hand habe ich meist ein Broetchen oder was anderes zum Knabbern. :-)
+
+
+Warum sollte man es nicht versuchen? Dafuer gibts keinen wirklichen 
+Grund, ich lese viel und gerne. Auch wenn ich gerne ueberfliege, 
+das Rauschen auf mich nehme, und sobald ich etwas fuer mich Interessantes
+finde, einfach anhalte.
+
+
+Hm. Ich habe gerne eine einen Bildschirm ausfuellende Shell mit schwarzem 
+Hintergrund und grauer Schrift, in welchem ich dann die News oder Mails 
+lese: "Ich will dabei durch nichts abgelenkt werden." Ich habe eine
+Zeit lang mit CZWM versucht, News zu lesen, fand das Threading
+dort jedoch recht umstaendlich. Auch habe ich mein "nur Lesen ohne abgelenkt
+zu werden"-Gefuehl mit solchen Clients nicht hinbekommen, leider.

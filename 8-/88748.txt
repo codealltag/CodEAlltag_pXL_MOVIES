@@ -1,0 +1,65 @@
+Ja, jedenfalls wurde bei mir immer genau der Betrag von meiner ChocoLaden
+abgebucht.
+
+
+Tja, wenn die Dein Geld nicht haben wollen, die Jungs von uugft.rp lassen
+sich da nicht zweimal bitten.
+
+Allerdings ist die Korrespondenz gänzlich auf dänisch, und die
+Mitteilungen, falls mal eine DVD nicht lieferbar ist und auf backorder
+steht, etwas kryptisch, das kann allerdings auch an meinem, H,
+nichtvorhandenen Dänisch liegen ;-)).
+
+Bestellformalit�ten habe ich mir zu den verschiedenen Gelegenheiten aus
+den Foren von Réza und JEE kopiert, den Urhebern sei hiermit
+nochmals gedankt.
+
+* Neben dem Preis auf das orange Feld "kb" klicken
+--> In den Warenkorb.
+
+* Unten links erscheint der ausgewählte Artiken.
+  Auf "til kassen" drücken
+--> Zur Kasse.
+
+* Neukunden legen jetzt einen Account an.
+ #Auf "ny Kunde" drücken.
+  - Navn - Name
+  - Adr1 - Adresse
+  - Adr2 - weiteres Adressfeld
+  - Adr3 - weiteres Adressfeld
+  - Postnummer - Postleitzahl
+  - By - Ort, mit Germany ergänzen, z.B. Burgholz -- Germany
+         hat so bei mir immer geklappt.
+
+  - Email adresse - ist klar ;-)
+  - Dit skede password - selbstgewähltes PW eingeben
+  - Indtast dit skede password igen - PW wiederholen
+ #Ansonsten mit Mailadresse und Passwort einloggen.
+
+
+* Nach erfolgreichem login wird der bestellte Artikel
+  - inkl. Steuer (Heraf moms),
+  - mit dem Endpreis (total),
+  - incl. Versandkosten (Forsendelse = 0 kr.)
+  - und deine Adresse angezeigt.
+--> Diese mit "ja" bestätigen.
+
+* Eingabe der KK Daten.
+  - 1. KK Nummer (ohne Leerstellen),
+  - 2. Ablaufdatum MM/JJ,
+  - 3. Die letzte 3-stellige Kontrollnummer
+      (findet man auf der Rückseite der KK im Unterschriftsfeld)
+--> auf "godkend" drücken
+
+* Wenn jetzt die Meldung "Godkent" Meldung erscheint
+  hat alles gefunzt und man wird zur Bestell�bersicht weitegeleitet.
+
+* Man erhält eine mail mit seiner Bestellung.
+
+* Neue DVD aussuchen u. das ganze von vorne.
+
+So long,
+Jochen
+
+-- 
+This space is for rent

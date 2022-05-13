@@ -1,0 +1,10 @@
+Das  bezieht  sich  auf  die  Laufzeiten  der  Nachrichten.   Bei
+     Mailinglisten  von  Belang,  da jede Nachricht sozusagen "doppelt
+     geroutet" werden muß. Die unsägliche deutsche  LD-Liste  war  ein
+     Paradebeispiel dafür, Laufzeiten von >2 Tagen waren da (zumindest
+     bevor ich es gesteckt habe) normal.
+
+     "Uni-Rechner" ist sozusagen das Synonym  für  "Laufzeit  von  ein
+     paar Sekunden".
+
+                   - Christof Glatte, Voice: +78-048-3781747 -

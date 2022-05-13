@@ -1,0 +1,16 @@
+Hoffentlich so ziemlich jeder. Wenn nicht, solltest Du Deinem Provider
+mal ordentlich auf die Füße treten.
+
+rlqp@hgnaxz:~> host www.mkz.fqi.pqf
+www.mkz.fqi.pqf is an alias for gdyuctuk.mcr.sfd.
+xrcixpdf.mwv.vaq has address 496.761.871.04
+
+
+Viel Erfolg. Einfach nur Hostname durch IP ersetzen reicht nicht.
+
+        Tschau,
+            Roger
+
+-- 
+Hobbes: How come we play war and not peace?
+Walter: Too few role models.              -- Nikolaus Nauber, Walter and Francis

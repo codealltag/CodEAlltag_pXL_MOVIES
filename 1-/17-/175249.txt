@@ -1,0 +1,32 @@
+Hallo,
+
+Normalerweise reicht es, seine Fragen in EINER Newsgroup zu stellen.
+Nicht gleich in 10 verschiedenen....
+
+: Nun gibt es das Problem, dass der Video immer an sein muss, auch wenn
+: man normal glotzen will; ausserdem ist ausschliesslich am Receiver die
+
+Das wird sich nicht vermeiden lassen. Schliesslich muss das Signal, das
+ueber das Scart-Kabel kommt irgendwie als HF-Signal fuer den Fernseher
+umgewandelt werden. Das Zwischengeraet zwischen Quelle und Fernseher muss
+also unter diesen Vorraussetzungen IMMER eingeschaltet sein.
+
+:Programmwahl moeglich, d. h. es ist nicht moeglich, waehrend meiner
+:Abwesenheit Aufnahmen von zwei verschiedenen Programmen zu
+:programmieren.
+
+Hierbei hilft Dir ein neuer Sat-Receiver mit eingebautem Timer
+(meine Empfehlung: Weinlager UFD232, mit ADR-Teil und Antennenausgang
+fuer den Fernseher. Du koenntest daran den VCR anschliessen, dann
+brauchst Du nur fuer Video zwei Geraete einschalten) ODER Du besorgst Dir
+eine Universalfernbedienung, welche die Ansteuerung des Receivers in
+Verbindung mit einem Timer uebernimmt.
+
+bye,
+     Pascal
+--
+eMail: Qyunzj.Fwkxnbrck@xqm.avd-lxivpbnmp.bg
+IRC: RdezhnZan  eMail privat: ei@kff.dq
+
+42 - Das Erste-Hilfe-System der Benutzerberatung:
+                              http://eoa.oym-ilmuqkntx.wj/Kdc/67/

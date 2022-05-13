@@ -1,0 +1,30 @@
+Niko <aexxg.edkjcs@ngfgii.tk> schrieb in im Newsbeitrag:
+CiZ32.242447$hL0.5022812@ufyc.iddexg.ap...
+CDRs
+abspielen
+
+zunächst musste die Video Datei in das VCD Format umwandeln (mpg), falls es
+nicht schon in diesem Format ist. Das geht mit Nero oder mit TMPEnc.
+Das richtige Format für Pal müsste so lauten:
+
+Video:
+352x288
+25FPS
+1150 kbps
+Audio:
+44,1khz @ 224 kbps
+mpg1 layer 2
+
+Dann die Datei als VCD brennen.
+
+Viele Marken DVD Player spielen keine gebrannten sondern  nur gepresste DVDs
+oder CDs ab. Die selbstgebrannten laufen meisstens nur auf Noname DVD
+playern, die meisstens auch noch MP3s abspielen können und sich teilweise
+auch nicht an die VCD oder SVCD standards halten brauchen. Die spielen
+teilweise im mpg2 Format auch exotischen Einstellungen in der Auflösung oder
+beim Audio ab, wie z.b SeVCD oder SxVCD. Mehr darüber unter www.gsrdwsk.oks.
+
+
+cya,
+
+niels

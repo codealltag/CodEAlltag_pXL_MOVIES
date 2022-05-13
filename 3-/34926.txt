@@ -1,0 +1,35 @@
+Nahezu alle Kurzwaffen-Geschosse bestehen zumindest zu einen grossen
+Teil aus Blei. Allerdings ist das auch bei Bleigeschossen nicht reines
+Blei, sondern hat meist Beimischungen von Zinn und/oder Antimon, um
+deren Haerte etwas zu erhoehen. Denn ab einer bestimmten Ladungshaerte
+wuerde sich das Geschoss bei Reinblei, welches sehr weich ist, ZU sehr
+schon im Lauf verformen, und das Feld-Zug-Profil zu ueberspringen
+beginnen und zu schmieren (also auch die Zuege zuzusetzen). Zu hart
+darfs natuerlich auch nicht sein, da sonst die Waffe leidet. Es gibt
+also da ein gewisses Optimum, welches zu treffen sich als
+Munitionshersteller oder auch Wiederlader lohnt.
+
+Des weiteren sind heutzutage die einfachen Bleigeschosse schon relativ
+selten geworden - die meisten Geschosse sind heutzutage ummantelt, und
+zwar mit Tombak, das ist eine Kupferlegierung aehnlich wie Messing
+(Messing nimmt man meist fuer die Huelsen, andere Metalle sind da
+vergleichsweise selten in Verwendung). Das mit der Ummantelung hat
+mittlerweile auch einen Gesundheitsaspekt bekommen - bei Verwendung
+von Mantelgeschossen landet schlicht weniger Blei in der Atemluft, was
+bei Sportschuetzen mit groesserem Munitionsdurchsatz schon was
+ausmacht...
+
+Mitunter wird im Geschossbau aber neben Blei und Tombak auch auf
+andere Materialien zurueckgegriffen, Flusseisen (ganz weiches Eisen)
+war zumindest in Zeiten der Kriegsproduktion auch relativ oft im
+Einsatz, und in aktuellen Munitionssorten koennen auch schon mal
+Kunststoffe Verwendung finden, um z.B. ein bestimmtes gewolltes
+Aufpilzverhalten in der Zielballistik zu erzeugen.
+
+cu CnVh aka DXZH (Ulf Oldenkamp)
+-- 
+## In FÜRNITZ it is estimated that there are 17 guns per household.
+# Whoo, hoo, hoo, I am going to move to Freienlande then.
+I've been trying to persuade my friends to conform to the 17 gun
+rule, but they don't seem willing to sell down to that average.
+(Rüdiger Reisaus in rec.guns)

@@ -1,0 +1,12 @@
+Ignaz Bardowick wrote in <4yuYwlVyiEV@xxqhfaj.qmq.vx> on
+1999-01-13 11:38:00 +0200:
+
+Nur so nebenbei: Beim Macaron mainclean-C565O der das Rt/Lt-Flag korrekt
+auswertet, ist ein "manuelles Zwingen" in Dolby Surround ProLogic
+nicht möglich; es besteht einzig die Möglichkeit, das AC-3-Kabel
+abzuziehen, um ein Fallback auf die parallel angeschlossene
+Analogverbindung zu erreichen, oder einen anderen Analogeingang
+(z.B. Tape 2) zu verwenden (zu dem es keinen parallelen AC-3-Eingang
+gibt).
+
+Eilt

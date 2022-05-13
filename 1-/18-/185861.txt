@@ -1,0 +1,11 @@
+Ein kurzer Test ergab vorhin uebrigens, dass man auf dem BCFC DVP-S7000
+absolut GAR KEINE der deutschen DVDs abspielen kann. Das ist zwar bei
+Region-2 Titeln wie z.B. von Tagtraum logisch, aber auch die PAL-Code-Free-DVD
+"Wallace & Gromit" wird mit der Meldung "Playback not authorized by area
+limits" abgetan.
+
+Clemens
+--
+Clemens Unglauben                           Student of Computer Science
+Deising                              E-Mail: d06v@yxz.rhn-rzxnpp.ab
+Germany              WWW: http://kvf-rfis.dqp.zff-kvdwqk.of/~e07l/

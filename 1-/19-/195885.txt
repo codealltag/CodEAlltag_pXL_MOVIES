@@ -1,0 +1,16 @@
+Hi!
+Fuer AC-3 ist das wohl eher keine Loesung.
+Desweiteren reflektieren Dipole bereits nach hinten, von daher ist
+dies wohl allenfalls eine Loesung fuer direktabstrahlende Boxen im 
+normalen Surroundbetrieb.
+Trotzdem Danke,
+                              Oskar 
+
+
+------------------------------
+PLEASE DELETE '_REMOVE_THIS_' FROM MY ADDRESS BEFORE REPLYING VIA E-MAIL !
+
+Do NOT add my address to any mailing list without my express written
+permission. Unsolicited commercial email will be proofread at my consulting
+rate of: $75/hour, 4 hour minimum. Due to a bug in my mailer any junk email
+received will automatically subscribe the sender to *all* majordomo lists.

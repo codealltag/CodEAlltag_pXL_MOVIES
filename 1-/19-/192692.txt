@@ -1,0 +1,100 @@
+Hallo Ingmar!
+
+Gut, daß du das dazu geschrieben hast. Sonst hätte ich dein Posting
+leicht als Flame abgetan... :-*
+
+Frag doch mal was konkretes und sag nicht immer "Dieses Feature brauch
+ich nicht" oder "Das ist sowieso Standard".
+
+Den Laden kenne ich :-), da habe ich den A350 auch gekauft.
+übrigends der einzige Laden hier, der überhaupt zwei Geräte abbekommen hat.
+
+Ich konnte ihn noch nicht ausprobieren. Die Surroundanlage steht
+noch auf meiner Anschaffungsliste. Für mich ist das eher eine Investition
+in die Zukunft, denn dann spare ich mir schließlich den Kauf eines 
+weiteren Geräts.
+
+Wenn man natürlich schon vom LD-Player her einen externen AC3-Decoder
+hat, sieht die Lage ganz anders aus. Dann würde ich auch nicht den A350
+kaufen! Da reicht dann auch ein günstiger Player wie der neue Weberpark
+(wenn er dann endlich kommt), um den Dekoder mit beiden Geräten zu benutzen.
+
+Aber ich schildere mal meine Lage: Ich habe die letzten beiden Jahre nicht
+in VHS investiert, weil ich auf die DVD gewartet habe. Ebensowenig habe
+ich in eine Surroundanlage investiert, weil ich gewußt habe, es kommt bald
+6-Kanal-Surroundsound, deshalb wäre es blöd noch in ein EPDT-Gerät
+zu investieren. Außerdem bin ich erst Anfang 20 ;) und da kann man ja noch 
+nicht alles haben. 
+Also. Jetzt sind die Geräte verfügbar, so wie ich es mir vorstelle. 
+- Den DVD-Player als Bildzentrale habe ich ja schon.
+- Dazu kommt später ein AV-Verstärker mit 5.1-Eingang, z.B. der neue PCD 545.
+- Als CD-Spieler brauche ich kein eigenes Gerät mehr (Geld gespart)
+- AC3-Dekoder habe ich auch schon (noch mehr gespart)
+- TV und MD-Rekorder schließe ich dann an den Verstärker an für Prologic-Sourround
+- Vom DVD-Player kann ich digital auf MD aufnehmen
+
+Ich setzte also voll auf DVD als Videomedium. Ich habe auch mit dem Gedanken
+an einen CSL-Player gespielt, aber ich wollte in keine sterbende Technologie
+einsteigen (Sorry, Laser-Freaks!); obwohl das Softwareangebot bei CSL schon
+sehr verlockend ist!
+
+Ich halte DVD für die Zukunft des Kaufvideos, so wie die CD vor 10 Jahren 
+den Musikmarkt übernommen hat. DVD hat die Unterstützung der Hersteller,
+denn DVDs sind billiger zu produzieren als VHS-Kassetten oder LDs.
+Allen Unkenrufen zum Trotz: Früher oder später wird es _alles_ auf DVD geben.
+So wie es inzwischen fast jede alte Platte auf CD gibt. Natürlich wird
+es auch viel Schund geben, genauso wie es super-duper Qualität geben wird.
+
+Das hast du falsch verstanden! Ich zitiere mal das Werbe-Pappschild des A350:
+"Built-in 5.1ch Surround Decoder [MPEG2/ Dolby Digital(AC-3)]"
+Der Dekoder kann also nicht nur AC-3 aufdröseln, sondern auch MPEG-2 Multichannel
+Audio. Das war ja ursprünglich von ETPA als Standard so vorgeschlagen
+worden. 
+Kurioserweise kommt der erste verfügbare MPEG2-Dekoder aus Japan und 
+nicht von den Vorreitern ETPA. ;-) C'est la vie.
+
+Ein Gerät _ohne_ den vollwertigen Dekoder (6-Kanal-Ausgang) wie der neue 
+Weberpark DVD-Player machen folgendes, falls sie auf MPEG2-5.1ch stossen:
+Sie mixen draus ein Prologic-Signal und geben das am Stereoausgang aus.
+Dieser Downmix ist angeblich wesentlich einfacher zu realisieren als
+der volle Dekoder -- wurde als Vorteil von MPEG angepriesen. Man benötigt
+nur einen MPEG1-Dekoder?!
+
+Die sind doch von der Disc abhängig.
+
+Die meine ich. Also es gibt hier ein richtig schönes Setup-Men in
+Deutsch (5 Sprachen wählbar) und jede Menge freundlicher On-Screen-
+Meldungen (abschaltbar). Das ganze erinnert schon an ein Computer-GUI.
+Schau's dir mal in einer Zeitung oder im Laden an; in AudioVision
+und Video sind Screenshots.
+
+Oh doch! Viele "einfache" Player wie der Expocamp A100 oder
+der IBK 3000 haben nämlich _kein_ RGB.
+
+Du kennst die Marktlage nicht: Der A350 ist AFAIK der bisher
+erste Player mit solch einem Wandler. Die anderen Player haben nur
+20-Bit-Wandler. 
+Ob der DAC wirlich so revolutionär ist, weiß ich nicht; jedenfalls
+ist es eines der beworbenen Features, also wird schon was dran sein.
+
+Leider kein echtes NTSC. Ob das tatsächlich ein Nachteil ist?!
+
+Ich halte es trotzdem für erwähnenswert. Es gibt einem das gute Gefühl,
+ein hochwertiges Gerät erworben zu haben. :-) 
+
+Wieso nicht? Was willst du denn noch alles haben?
+
+Einen Firewire-Ausgang wäre in der Tat nicht schlecht. ;-)
+
+Keine Ahnung - wie gesagt, ich habe hier keinen Gerätepark!
+Es zwingt dich doch keiner, einen A350 zu kaufen; wenn du schon
+einen AC3-Dekoder hast ist es vielleicht auch gar nicht sinnvoll.
+Siehe oben - es _kann_ aber eine feine Sache sein. Deshalb solltest
+du es nicht so niedermachen.
+
+Nochmal: Konkrete Fragen, konkrete Antworten.
+
+Ride on, Urban.
+---
+Urban Dünn, Jauchshofen, Germany * E-Mail: Jeeszdjka.Kwzrb@tpkkkq.kp
+Join the campaign: One Less Car *** Mach mit bei: Ein Auto Weniger

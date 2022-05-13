@@ -1,0 +1,3 @@
+: D2-MAC hat genauso viele Zeilen, ist aber digital.
+MAC heist multiplexed analog components ist also analog und nicht
+digital.

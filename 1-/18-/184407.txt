@@ -1,0 +1,33 @@
+Hi,
+
+ich muss zwar zugeben, keine Erfahrungen damit zu haben, aber ich bin
+selbst ziemlich dicht vor einer Kaufentscheidung und habe deshalb einige
+Zeit die Diskussion dazu verfolgt:
+
+(1) Es gab bis jetzt nicht einen Fall (den ich gelesen haette), wo es
+    nicht funktioniert haette.
+
+(2) Grundlegende Logik spricht dafuer, dass das immer klappt (denn die
+    Player sind in der internen Schaltung nur zu unterscheiden, wenn 
+    sie _ausgeschaltet_ sind).
+
+(3) Mir sind einige Web-Pages ueber den Weg gelaufen, in dem eine,
+    100%ige Kompatibilitaet _garantiert_ wird.
+
+(4) Die einzige Garantie-Einschraenkung, die ich kenne, ist die mit der
+    "Spannungs-/ Frequenz-Abfrage", was jedoch %$##$#@ ist, da aus den
+    Netzteilen dasselbe rauskommt und sie wenigstens bei Playern dieser
+    Generation keinen Ausgang haben, der Auskunft darueber gibt, welche
+    Spannung anliegt.
+
+Fuer mich sieht das alles in allem mehr als sicher aus.
+
+ULF,
+
+ --Carsten Massimo Most
+
+-- 
+Anfaenger sollten sich die Gruppen  nm.ngzbfwjs.vcfkf und 
+                                    hx.qganuuuo.twgccsnot ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in wh.test und mv.xaf.zksu aufgehoben.

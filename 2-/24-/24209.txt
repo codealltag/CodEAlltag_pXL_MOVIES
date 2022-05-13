@@ -1,0 +1,29 @@
+Es existiert bereits ein aehnliches Programm, dass Musikstuecke
+auf Aehnlichkeit zu anderen, erfolgreichen Musikstuecken ueber-
+prueft und Erfolgschancen ausrechnet.
+
+Sieht nach einem Trittbrettprogramm aus, das sich im Filmge-
+schaeft platziert. Aber wie Matthias schon anmerkte, eine
+Treffsicherheit von 37 Prozent ist ein bisschen schlechter
+als Muenzenwerfen.
+
+Allerdings muss man auch anmerken, dass bisher das Verhaeltnis
+von gewinnbringendem zu floppenden Filmen bei einer Produktions-
+firma ca. 1:10 ist. Da waere ein 1:2-Verhaeltnis natuerlich
+schon mal ein Fortschritt (wenn es sich wirklich um eine genaue
+Berechnung handeln sollte).
+
+... Fortschritt aus der Sicht einer Produktionsfirma natuerlich.
+Dass da die Kreativitaet frueher oder spaeter floehten geht, ist
+klar, aber die wird dann von kleinen Filmschmieden uebernommen.
+Aehnliches sieht man ja auch im Computerspielebereich, wenn man
+UKNI mit den kleinen Produzenten vergleicht.
+
+
+Gruesse, Adrian
+-- 
+Adrian Häderle                E-Mail: tglqfijx@allbkfszxne.hd
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

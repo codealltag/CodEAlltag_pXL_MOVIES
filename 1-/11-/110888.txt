@@ -1,0 +1,10 @@
+Vor allem, weil er _vor_ dem Article-Checker noch richtigerweise in
+plain text postete, danach ging Content-Type: multipart/alternative
+wieder los. GRH!
+
+Gruß,
+Emil
+-- 
+"Also zur Zeit merke ich nur eine dramatische Abnahme Deiner
+Hirndichte." Leopold Andre zu Tuvok in
+<Iz9P7.6953$EW1.43580@pkdx.nsglyr.hy>

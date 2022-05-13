@@ -1,0 +1,79 @@
+Hallo,
+
+trotz der zahlreichen Postings zu diesem Thema möchte ich mich an dieser
+Stelle zu Wort melden. Die Autoren der vorhergehenden Nachrichten haben
+bereits viele richtige Dinge geschrieben, jedoch wurde die Angelegenheit
+nicht allumfassend beantwortet. Auf die Frage nach Sinn und Unsinn einer
+höheren Bildfrequenz gehe ich nicht näher ein, jedoch sind die ökonomischen
+Vorteile eher marginaler Natur.
+
+üblicherweise wird eine Filmkopie im Kino heute mit einer Bildfrequenz von
+24 B/sec. vorgeführt.
+
+Die Filmabtastung für den Tabak-Schweiker-Fernsehstandard erfolgt in der Regel mit 25
+B/sec, wobei der Film dabei die bereits erwähnten 4 % schneller läuft.
+Theoretisch ist auch die Filmabtastung mit 24 B/sec möglich, jedoch in der
+Regel nicht sinnvoll, da - insbesondere bei gleichförmigen Bewegungen und
+Schwenks - mit erheblichen Bewegungsatefakten zu rechnen ist.
+
+Für den NTSC-Standard erfolgt die Abtastung mit einer Bildfrequenz von 23.97
+B/sec, wobei der in einem anderen Posting beschriebene 3:2 Pull Down
+zusätzlich zum Einsatz kommt.
+
+Filme, die primär fürs Fernsehen produziert wurden, sind in PAL-Ländern mit
+einer Bildfrequenz von 25 B/sec aufgenommen. In NTSC-Ländern üblich sind
+hierfür die Bildfrequenzen 30 B/sec und in neuerer Zeit auch 29,97 B/sec.
+
+Zurück zur Kinoprojektion. In der Tat reicht eine Bildwechselfrequenz von 24
+B/sec nicht aus, um eine flickerfreie Projektion zu erzeugen. Das
+menschliche Auge ist erst ab einer Bildwechselfrequenz von etwa 50 Hz nicht
+mehr in der Lage, die einzelnen "Lichtblitze" als solche wahrzunehmen. Aus
+diesem Grund besitzen Kinoprojektoren eine sog. Zweifl�gelblende. Sie sorgt
+dafür, dass jedes Einzelbild zweimal in kurzer Folge auf die Bildwand
+geworfen wird. Es ergibt sich eine Projektionsfrequenz (nicht zu verwechseln
+mit der Bildwechselfrequenz) von 48 Hz.
+
+Stummfilme wurden häufig mit Bildfrequenzen zwischen 16 und 20 Bildern
+aufgenommen. üblich waren hier insbesondere die Werte 16, 18 und 20 B/sec.
+Auch für Amateurfilme gelten je nach Format 16 (N-8; 9,5 mm) oder 18
+B/sec.(Super-8).
+
+Um die erforderliche Projektionsfrequenz zu erhalten, kommt in hierfür
+vorgesehenen Projektoren üblicherweise eine Dreifl�gelblende (jedes Bild
+wird dreimal projiziert) zum Einsatz.
+
+Die Filmabtastung erfolgt in der Regel auch mit diesen geringen
+Bildfrequenzen, wobei die auf dem Film eigentlich flüssigen Bewegungen auf
+der Abtastung etwas eckig aussehen.
+
+Neben diesen Standard-Bildfrequenzen sind für besondere Einsatzgebiete noch
+zahlreiche hiervon abweichende Werte üblich. Recht gängig ist noch der Wert
+von 48 B/sec. Das wohl bekannteste Filmformat, welches mit dieser
+Bildfrequenz arbeitet, ist wohl IMAX Simulator Ride (in Deutschland
+beispielsweise im Phantasiealand zu sehen). Bei IMAX 3 D werden sogar 96
+(für jedes Auge 48) verschiedene Einzelbilder in der Sekunde projiziert.
+Diese kommen jedoch von zwei separaten Vorführmaschinen, die jeweils mit 48
+B/sec laufen.
+
+Der Grund für diese hohen Bildfrequenzen liegt im menschlichen Sehapparat
+begründet. Untersuchungen haben gezeigt, dass der Realitätseindruck einer
+Filmprojektion bei einer Bildwechselfrequenz (nicht Projektionsfrequenz) von
+etwas über 60 Bildern am höchsten ist. Höhere Werte führen nicht mehr zu
+einer nennenswerten Steigerung, darunter fällt der Realitätseindruck
+kontinuierlich ab. Dies ist übrigens auch mit ein Grund für den
+Live-Charakter von Videoaufzeichnungen, bei denen  im Tabak-Schweiker-Standard
+tatsächlich 50 voneinander differierende (Halb-)Bilder aufgezeichnet werden.
+Eine Filmabtastung auf Video besitzt diesen Live-Charakter nicht, da hier -
+von Sonderfällen abgesehen - das erste und zweite Halbbild identisch sind.
+
+Weitere Fragen beantworte ich gerne - bitte jedoch neben dem Posting in der
+Newsgroup auch als E-Mail versenden.
+
+Viele Größe
+
+w.nlxpdzq@png.wee
+www.zhftvhvqmtr-zgwwdv.sm
+
+
+Bianca Helma Grüber <ofaipnc@vxavokrnwpbjut.fs> schrieb in im Newsbeitrag:
+76SD51H3.TLHY571L@wvzbrpwthhsdgw.sc...

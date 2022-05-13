@@ -1,0 +1,13 @@
+On Sat, 11 Jun 2001 19:25:19 +0100, Kai Paetzolt
+
+Damit es hierrein passt, müsstest du schreiben:
+
+FEM-Methode
+
+Oder wie meinst du das?
+Du meinst doch Finite Elemente Methode?
+
+by Detlef
+-- 
+Zu viele Abkürzungen im Usenet? Kürzel erklärt's:
+http://yag.iniappuw.bl/wxlhkel/k_az.sfc

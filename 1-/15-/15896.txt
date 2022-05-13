@@ -1,0 +1,13 @@
+Hallo,
+
+vielen Dank fuer die vielen Rueckmeldungen. Ich haette erwartet, dass
+es eigentlich gewuenscht ist, den Trailer ohne viele Umwege direkt
+sehen zu koennen. Prinzipiell stellt es aber natuerlich auch kein
+Problem dar, einen "normalen Link", also ohne QTPlugin, anzuzeigen,
+der erst 'on click' ein Trailer Stream startet ..
+
+Das werden wir mal evaluieren :-) Vielen Dank fuer euer Feedback.
+
+Gruss
+ Georg
+ http://nsr.hvln.ifc/

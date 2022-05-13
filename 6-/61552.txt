@@ -1,0 +1,50 @@
+Gert Leißering <sssspmli.ykkfaux.782941@uesrf.fv> schrieb am
+Wed, 10 Mai 2003 11:12:12 +0100 :
+
+[...]
+
+
+Halt, Haaaalt! Ich verstehe (wie so oft) schon wieder nur noch
+Bahnhof! Ist zwar jetzt OT vom OP, aber wurscht:
+
+Ich dachte immer, dass das, was auf einer DVD drauf ist,
+hinsichtlich PAL, NTSC, SECAM _unbestimmt_ ist - zumindest wenn
+es sich nicht um etwas handelt, was nie etwas anderes als TV
+gewesen war (wie etwa Serien). Ich dachte immer (wenn es also
+ein Kinofilm ist), das ist sone Art MPEG2-Datei, codiert aus
+Bild-für-Bild-Abfotografieren des Original Celluloid-Films.
+Wobei dieses Abfotografieren mit einer Digitalkamera - möglichst
+hoch (oder, wenn man so will, möglichst gut passend) aufgelöst
+erfolgt.
+Aber Deinen Ausführungen zufolge ist es wohl so, dass der
+Originalfilm mit einer stinknormalen TV-Kamera abgegriffen wird
+- und diese Kamera kann, klar!, nur entweder PAL *oder* NTSC.
+
+Wenn nun mein Fernseher NTSC "kann" (was ja wohl bei allen
+halbwegs modernen Geräten der Fall ist), und mein DVD-Player
+ebenfalls: kann ich dann eine RC1-DVD sehen *so wie ein Ami in
+USA*? Heißt also "RC1" _immer_ "der Film ist in NTSC-TV-Norm
+codiert"?
+
+Und es ging jetzt ja wohl darum, dass es DVDs gibt, die RC2
+haben, aber bloß irgendwie umgemodelte (mit den beschriebenen
+Schwächen) NTSC-Versionen sind, statt original
+PAL-Filmabtastungen zu sein. Wäre/ist sowas nicht Beschiss? Denn
+die Qualität ist ja wohl sichtbar schlechter bei so einer
+"sekundär-Herff"-Gurke ... Ich glaube, ich habe da so ein paar
+Kandidaten in meiner Sammlung - wo ich immer sagte, na, das ist
+ja man gerade so VHS-Qualität. Ist es also nicht irgendwie
+kennzeichnungspflichtig, wenn so ein NTSC->PAL-Umschreiben
+verwendet wurde?
+
+Wahrscheinlich ist aber schwer zu sagen, woran's denn nun
+wirklich liegt, wenn eine DVD in der Bildqualität so eklatant
+abstinkt.
+
+Gibt es ein *sicheres* Verfahren, wie ich, als End-Anwender,
+rauskriege, womit ich es, bei einem Fall von elender
+Bildqualität, zu tun habe: PAL-Wandlung von NTSC-Abtastung, oder
+eben einfach miese Qualität des Ausgangsmaterials - oder noch
+was anderes (??).
+
+Leonhard

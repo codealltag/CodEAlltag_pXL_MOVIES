@@ -1,0 +1,36 @@
+Hallo !
+
+Die Länge hat der Konstrukteur gewusst, er hat sich ja auch lang und breit
+über den Würfel ausgelassen. Und wenn sie mit Hilfe ihrer Schritte die ca.
+Abmessung eines Raumes rausfinden kann, dann braucht sie die Länge des
+großen Würfels nur durch die Länge eines Raumes dividieren und siehe da -
+die Anzahl der Räume. Aber alles in allem ist das sowieso gänzlich
+schwachsinnig, da sie total vergaß, die Breite/Länge der Schotts
+mitzurechnen :) ...
+
+wirklich
+
+Räume in der Breite x Räume in der Höhe x Räume in der Tiefe x 6 Seiten ?
+... aber ich kann mich gar net erinnern, dass sie das ausgerechnet hat, sie
+hat doch nur die Anzahl der Räume berechnet, oder ?
+
+
+2 x 2 = 4
+2 ist ein Faktor, 4 das Produkt.
+
+3 x 3 x 3 = 3 hoch 3 = 27
+3 ist ein Faktor, 27 das Produkt.
+
+Was sie dann da zum Schluss berechnet hat, war mir nimmer klar (davor schon,
+Primzahlen, logo). Immer dann, wenn die faktorielle Zerlegung in
+Primzahlenketten mehr als eine gewisse Anzahl von Faktoren übersteigt, isses
+eine Falle oder wie ?
+
+Primzahlen sind Zahlen, die man nicht mehr teilen kann (in natürliche Zahlen
+(Menge N aller Zahlen = Zahlen ohne Komma (1,2,3)). Das wären also (1 ist
+nicht in der Menge aller Primzahlen): 2,3,5,7,11,13,17,19,23 usw. IMHO.
+Gerade Zahlen größer 2 sind automatisch keine Primzahlen.
+
+Größe
+
+Werner

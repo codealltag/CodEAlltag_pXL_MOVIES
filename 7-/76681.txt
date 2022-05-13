@@ -1,0 +1,13 @@
+Mondlandungsl�ge, ick hör dir trappsen...
+
+Zu der Frage "bis zu welcher Grenze wird simuliert" habe ich mal die
+interessante Theorie gelesen, nach der alles was gerade nicht mit
+jemand interagiert auch nicht berechnet wird (wie in Videospielen in
+denne nur gerendert wird was im Gesichtsfeld des Spielers ist).
+
+Oder anders gesagt: wenn ein Baum umfällt und niemand ist da um es zu
+hören es, gibt es nicht nur kein Geräusch sondern es gibt auch keinen
+Baum...
+
+Gruss
+Carlos

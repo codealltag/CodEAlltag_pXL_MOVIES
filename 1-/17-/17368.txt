@@ -1,0 +1,41 @@
+Moin!
+
+Bin ich eigentlich der einzige, der in den letzten Wochen Probleme mit
+biographies.list hatte? Oder benutzt das sowieso keiner mehr, weil
+alle DSL haben und die Web-Version nutzen?
+
+Wie dem auch sein mag, jedenfalls scheint man bei der IMDb wieder
+mal zu schlafen. Deshalb hab ich das Problem jetzt selbst gelöst.
+Die Ursache liegt darin, dass irgendein Trottel bei der Biographie
+von Eliane Jähnigen eine Zeile eingefügt hat, die 9704 Zeichen lang ist,
+nämlich die Mini-Biographie, die mit "Qylecoop < yzlmhyun@vnkozzw.su>}}
+again and began studying ..." beginnt. (Im Web-Interface erscheint es
+trotzdem nicht als eine Zeile, sondern als Absatz, aber es ist wirklich
+eine einzige Zeile).
+
+Daran verschluckt sich ApplyDiffs bzw. applydif.exe, jedenfalls bei mir
+unter Windows, meldet einen Syntaxfehler und lässt biographies.list
+unverändert. Allerdings steht die Größe des relevanten Zeilen-Buffers
+explizit im Quelltext, nämlich in ApplyDiffs.c in der Zeile
+
+Das hab ich auf 64 * 1024 erhöht, mit gcc unter cygwin neu übersetzt,
+und siehe da, es funktioniert wieder alles.
+
+Eigentlich wäre es jetzt Zeit für ApplyDiffs 2.6. Stattdessen ist aber
+merkwürdigerweise sogar 2.5 von den FTP-Servern mit den Listen-
+Dateien verschwunden, und dort gibt es nur noch das antike 2.3 von
+1997. Das soll einer verstehen. Immerhin gibt es 2.5 noch hier:
+http://esrshc.snk/nsqx/bver/RjmawOwzlv-4.0.idm
+
+Wenn jemand meine kompilierte Version haben will, dann möge er
+jetzt vortreten oder für immer schweigen. Vielleicht will ja auch
+jemand eine native Version kompilieren, damit man auf cygwin
+verzichten kann. Mir fehlen dazu die Voraussetzungen.
+
+Ich hab auch den Autor der verkorksten Biographie gebeten, dass
+er das in Ordnung bringt. Man wird sehen, ob er reagiert. Ich selbst
+hab dazu keine Lust, weil ich mit der Sache schon genug Zeit vertrödelt
+hab. Die Ursache war nicht ganz leicht zu finden, und eigentlich hab
+ich ja auch von C und gcc keine Ahnung.
+
+Beat

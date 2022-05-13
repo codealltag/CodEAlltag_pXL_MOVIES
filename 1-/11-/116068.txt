@@ -1,0 +1,32 @@
+Weder noch. Die Checksummen fehlen aufgrund einer
+internen Systemumstellung, was leider erst bemerkt wurde,
+als die diffs schon draussen waren.
+Die aktuellen diffs werden wieder CRC Checksummen haben.
+
+Das Problem ist mittlerweile bekannt.
+
+Alle Leute, die die diffs einspielen konnten, brauchen sich keine
+Sorgen zu machen und koennen weitermachen wie bisher.
+
+Es scheitern alle Programme, welche das Tool 'applydiffs' verwenden,
+da sich dieses an den CRC Werten orientiert. Eine aktualisierte Version
+von applydiffs wird spaetestens mit den naechsten diffs auf den
+FTP Servern erhaeltlich sein.
+
+Dieses neue applydiffs hat eine Kommandozeilenoption '-force' mit
+deren Hilfe sich die diffs einspielen lassen ohne auf die CRC Werte
+zu achten. Diese Option muss dann fuer alle diffs verwendet werden, bei 
+denen die entsprechende Fehlermeldung erscheint und fuer die diffs in den 
+darauffolgenden beiden Wochen (011102, 011109 und 011116). Es empfiehlt 
+sich, eine Sicherungskopie von den Daten anzulegen, damit nicht die ganze
+Datenbank erneut heruntergeladen werden muss.
+
+Wer das Programm 'applydiffs' nicht selber kompilieren moechte oder
+kann, sollte sich an den Autor seines Datenbankprogramms wenden.
+
+Mit freundlichen Gruessen
+Waldemar Ribka
+
+-- 
+Internet: lpuu@ysmwd.lo
+WWW: http://dgvf.vbhpz.fc/xzkj

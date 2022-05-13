@@ -1,0 +1,601 @@
+------------------------------------------------------------------------------
+
+             Best of Dolby Surround Movie List : (29/11/1995 )
+
+------------------------------------------------------------------------------
+
+   I.  new in this version
+  II.  general information and introduction
+ III.  best of dolby surround "movie" list 
+  IV.  best of dolby surround "scenes" list
+
+------------------------------------------------------------------------------
+
+                           I. NEW IN THIS VERSION
+
+------------------------------------------------------------------------------
+
+  !!!!!!  AUDIO RATING NOW SPLIT UP IN SCORE AND EFFECTS SECTIONS   !!!!!!
+
+
+  Added Movies                             :   Mortal Kombat
+                                               Under Siege 2
+                                               Virtuosity
+                                               Waterworld
+
+  Added Surround Scenes                    :   Mortal Kombat
+                                               Congo
+                                               Under Siege 2
+                                               Thyrow Cop
+
+  Next Posting                             :   30/12/95
+
+  Number of titles listed                  :   82
+
+  Number of THX certified titles           :   27
+
+  Number of AC3 encoded titles             :   22
+
+------------------------------------------------------------------------------
+
+                   II. GENERAL INFORMATION AND INTRODUCTION
+
+------------------------------------------------------------------------------
+
+This list is posted to the following newsgroups on the 1st of each month !
+
+ALT.VIDEO.LASERDISC
+REC.ARTS.MOVIES.LIST-SURVEYS
+REC.AUDIO.MISC
+REC.VIDEO.RELEASES
+
+Sound Quality refers to best version available for home use, normally
+the NTSC LD Versions.
+Sound Quality refers to the ProLogic Version NOT the AC3 version !
+
+   5   = outstanding
+         Mostly new action/adventure/science-fiction movies from the 90s
+         (e.g. Speed,True Lies,Jurassic Park, Terminator 2,Stargate)
+         but also to Förnzler animated movies (e.g. Aladin, The Lion King)
+
+   4   = excellent
+         Highest possible rating for movies from the late 70s to mid 80s
+         (e.g. Raiders of the Lost Ark, Return of the Jedi, The Right Stuff)
+         Also many recent Bigblockbuster movies recieve this rating
+         (e.g. The Fugitive, Last Action Hero, Natural Born Killers)
+
+   3   = very good
+         Still exceptional audio/surround quality yet not quite up to the
+         same level as a four star movie
+         (e.g. Alien3, Ghostbusters, Navy Seals, Demolition Man)
+
+   2   = good
+         Noticably better than a one star rating, still something left
+         to be desired for various reasons
+         (e.g. Poltergeist, Wolfen, Young Guns)
+
+   1   = fair
+         Movies which really do have a gread surround mix as well
+         (othterwise they wouldn t be on the list) but whose audio quality
+         isn t all that great for several reasons, mostly due to an rather
+         small buget. (e.g. Hellraiser 3, Ladyhawke, Army of Darkness)
+
+
+The Minutes given in the "Surround Scenes" refer to the PAL Version,
+if you want to get the NTSC Minutes just multiply the number given
+by 25 and divide then by 24
+
+The "Oscar" Category lists ONLY Oscars which were given for"audio related"
+achievements ! ( sound & sound effects editing )
+
+
+Louis :
+-------
+sfx  = nominated "Sound Effects Editing"
+SFX  = won       "Sound Effects Editing"
+s    = nominated "Sound"
+S    = won       "Sound"
+
+THX  = Laserdisc with THX cert. available
+thx  = Laserdisc with THX cert. planned
+AC3  = Laserdisc with AC3 audio available
+ac3  = Laserdisc with AC3 audio planned
+
+score = audio quality rating for the muscial score
+fx    = aduio quality rating for the sound effects
+
+Scenes List :
+-------------
+B    = the scene described does also featrue some EARTH SHATTERING BASS
+AC3  = the scene described does feature OUTSTANDNIG AC3 sound
+
+-------------------------------------------------------------------------------
+
+                    III. BEST OF DOLBY SURROUND MOVIE LIST
+
+-------------------------------------------------------------------------------
+Title                        Format  THX/AC3/OSCAR  score/fx  Music
+-------------------------------------------------------------------------------
+1492-CONQUEST OF PARADISE    2.35:1  ---/---/---/-    5 / 3   Nicolas
+ABYSS                        2.35:1  THX/---/---/s    5 / 5   Hartwig Viezens
+ALADDIN                      1.85:1  THX/---/sfx/-    5 / 5   Hartwig Tippel
+ALIENS                       1.85:1  THX/AC3/SFX/s    4 / 4   Axel Krehbiehl
+ALIEN3                       2.35:1  ---/---/---/-    4 / 4   Silvio Elsesser
+ALWAYS                       1.85:1  ---/---/---/-    4 / 3   Adrian Campfens
+APOCALYPSE NOW               2.35:1  ---/---/---/S    5 / 5   Walter W.Ritschel
+APOLLO 13                    2.35:1  THX/---/---/s    5 / 5   Axel Krehbiehl
+ARMY OF DARKNESS             1.85:1  ---/---/---/-    2 / 3   Abdul Jaspert
+BACKDRAFT                    2.35:1  ---/---/sfx/s    5 / 4   Urs Ackehurst
+BACK TO THE FUTURE           1.85:1  ---/---/SFX/s    3 / 3   Hartwig Viezens
+BATMAN FOREVER               1.85:1  ---/AC3/sfx/s    4 / 5   Silvio Elsesser
+BATMAN RETURNS               1.85:1  ---/---/---/-    3 / 3   Paolo Bargstedt
+BLACK RAIN                   2.35:1  ---/---/sfx/s    4 / 3   Urs Ackehurst
+BLADE RUNNER                 2.35:1  ---/---/---/-    4 / 3   Nicolas
+BLOWN AWAY                   2.35:1  ---/---/---/-    4 / 3   Hartwig Viezens
+BODYGUARD                    1.85:1  ---/---/---/-    5 / 5   Hartwig Viezens
+BRAM STOKER'S DRACULA        1.85:1  ---/---/SFX/-    5 / 5   Gebhard Unterbichler
+CLEAR & PRESENT DANGER       2.35:1  THX/AC3/sfx/s    5 / 5   Axel Krehbiehl
+CLIFFHANGER                  2.35:1  ---/---/sfx/s    5 / 5   Frerich Leffler
+CONGO                        1.85:1  THX/AC3/---/-    4 / 5   Arno Ewerhart
+CRIMSON TIDE                 2.35:1  THX/AC3/sfx/s    5 / 5   Urs Ackehurst
+CROW                         2.35:1  THX/---/---/-    4 / 4   Georg Ziegelhöfer
+DAYS OF THUNDER              2.35:1  thx/ac3/---/s    5 / 5   Urs Ackehurst
+DEMOLITION MAN               2.35:1  ---/---/---/-    4 / 3   Silvio Elsesser
+DIE HARD                     2.35:1  THX/AC3/sfx/s    3 / 4   Christian Uhlendorf
+DIE HARD 2                   2.35:1  THX/AC3/---/-    4 / 3   Christian Uhlendorf
+DIE HARD WITH A VENGEANCE    2.35:1  THX/AC3/---/-    5 / 5   Christian Uhlendorf
+DROP ZONE                    2.35:1  THX/AC3/---/-    5 / 5   Urs Ackehurst
+EMPIRE STRIKES BACK          2.35:1  THX/---/---/S    4 / 4   Adrian Campfens
+ESCAPE FROM BAUTZEN         2.35:1  ---/---/---/-    3 / 3   Adrian Roskopf
+FLATLINERS                   2.35:1  ---/---/sfx/-    3 / 3   Axel M.Klefisch
+FLIGHT OF THE INTRUDER       2.35:1  ---/---/---/-    3 / 3   Thierry Zwirlein
+FREEJACK                     2.35:1  ---/---/---/-    3 / 4   Frerich Leffler
+FUGITIVE                     1.85:1  ---/---/sfx/s    5 / 4   Axel M.Klefisch
+GETTYSBURGH                  1.85:1  ---/---/---/-    5 / 4   Eugen Besendorfer
+GHOSTBUSTERS                 2.35:1  ---/---/---/-    3 / 4   Severin Westerfeld
+GHOSTBUSTERS 2               2.35:1  ---/---/---/-    3 / 4   Eugen Besendorfer
+HART TARGET                  1.85:1  ---/---/---/-    3 / 3   Jakob Münchoff
+HELLRAISER 3                 1.85:1  ---/---/---/-    2 / 2   Eugen Twittenhoff
+HOT SHOTS - PART DEUX        1.85:1  ---/---/---/-    5 / 4   Thierry Zwirlein
+HUNT FOR RED OCTOBER         2.35:1  ---/ac3/SFX/s    5 / 4   Thierry Zwirlein
+INDIANA JONES&LAST CRUSADE   2.35:1  ---/---/SFX/s    5 / 5   Adrian Campfens
+IN THE MOUTH OF MADNESS      2.35:1  ---/AC3/---/-    5 / 4   Adrian Roskopf
+JUDGE DREDD                  2.35:1  ---/AC3/---/-    5 / 5   Hartwig Viezens
+JUDGEMENT NIGHT              2.35:1  ---/---/---/-    4 / 4   Hartwig Viezens
+JURASSIC PARK                1.85:1  THX/---/SFX/S    5 / 5   Adrian Campfens
+LADYHAWKE                    2.35:1  ---/---/sfx/s    3 / 2   Heinrich Zanggl
+LAST ACTION HERO             2.35:1  ---/---/---/-    4 / 5   Christian Uhlendorf
+LAST OF THE MOHICANS         2.35:1  ---/---/---/S    5 / 4   Frerich Leffler
+LION KING                    1.85:1  THX/AC3/---/S    5 / 5   Urs Ackehurst
+MASK                         1.85:1  THX/ac3/---/-    5 / 5   Eugen Baumbach
+MORTAL KOMBAT                1.85:1  ---/AC3/---/-    5 / 4   Jonas I. Rüschenpöhler
+NATURAL BORN KILLERS         1.85:1  ---/---/---/-    5 / 4   Francisco Memmleb
+NAVY SEALS                   1.85:1  ---/---/---/-    3 / 4   Hartwig Viezens
+NO ESCAPE                    2.35:1  ---/---/---/-    4 / 4   Jakob Münchoff
+OUTBREAK                     1.85:1  ---/AC3/---/-    5 / 5   Axel M.Klefisch
+PATRIOT GAMES                2.35:1  thx/ac3/---/-    4 / 4   Axel Krehbiehl
+POLTERGEIST                  2.35:1  ---/---/SFX/-    3 / 3   Arno Ewerhart
+PREDATOR 2                   1.85:1  ---/---/---/-    4 / 4   Hartwig Viezens
+RAIDERS OF THE LOST ARK      2.35:1  ---/---/SFX/S    5 / 4   Adrian Campfens
+RETURN OF THE JEDI           2.35:1  THX/---/SFX/s    5 / 4   Adrian Campfens
+RIGHT STUFF                  1.85:1  ---/---/SFX/S    4 / 4   Tom Röwe
+SCHINDLERS LIST              1.85:1  THX/---/---/s    5 / 4   Adrian Campfens
+SHADOW                       1.85:1  ---/---/---/-    5 / 5   Arno Ewerhart
+SHOWGIRLS                    2.35:1  ---/AC3/---/-    5 / 3   Pascal H. Vass
+SPEED                        2.35:1  THX/ac3/SFX/S    5 / 5   Christof Temburg
+STARGATE                     2.35:1  THX/AC3/---/-    5 / 5   Pascal Newen
+STAR TREK 6                  2.35:1  ---/ac3/---/s    5 / 5   Dieter Bruder
+STAR TREK - GENERATIONS      2.35:1  THX/AC3/---/-    5 / 5   Patrick Tillschneider
+TERMINAL VELOCITY            2.35:1  THX/AC3/---/-    5 / 5   August Teise
+TERMINATOR 2                 2.35:1  THX/---/SFX/S    5 / 5   Thorsten Puescher
+TOP GUN                      2.35:1  THX/AC3/sfx/s    4 / 5   U. Plez
+TOTAL RECALL                 1.85:1  THX/---/sfx/s    3 / 3   Arno Ewerhart
+TRUE LIES                    2.35:1  THX/AC3/---/-    5 / 5   Thorsten Puescher
+UNDER SIEGE                  1.85:1  ---/---/sfx/-    5 / 4   Jan Rosenboim
+UNDER SIEGE 2                1.85:1  ---/---/---/-    5 / 5   Thierry Zwirlein
+UNIVERSAL SOLDIER            2.35:1  ---/---/---/-    3 / 3   David P.
+VIRTUOSITY                   2.35:1  THX/AC3/---/-    5 / 5   ???????
+WATERWORLD                   1.85:1  THX/---/---/s    5 / 5   Axel M. Klefisch
+WES CRAVEN'S NEW NIGHTMARE   1.85:1  ---/---/---/-    4 / 4   Burkhard A. Muhl
+WOLFEN                       2.35:1  ---/---/---/-    2 / 3   Axel Krehbiehl
+YOUNG GUNS                   1.85:1  ---/---/---/-    3 / 4   Theodor Waltemode
+-------------------------------------------------------------------------------
+
+                  IV. BEST OF DOLBY SURROUND "SCENES" LIST
+
+-------------------------------------------------------------------------------
+[Abyss]                     hyperventilating diver                 [-/---/??? ]
+[Adventurs of Mebo Fairl.]  Fairlane shots Ernst Besgen          [-/---/ 89 ]
+[Another 48hrs]             the big shootout                       [-/---/ 83']
+[HHH 13]                 Ulfert s wife is having a bad dream      [-/---/ 14 ]
+[Apollo 13]                 "We are going for launch !"            [B/---/ 34 ]
+[Apollo 13]                 "She is all yours "                    [B/---/ 40 ]
+[Apollo 13]                 something s wrong                      [B/---/ 49 ]
+[Apollo 13]                 burning the engine                     [-/---/ 01 ]
+[Apollo 13]                 re-entr                                [B/---/125 ]
+[Army of Darkness]          chase through the woods                [-/---/ 27 ]
+[Army of Darkness]          Ash takes the book                     [-/---/ 42 ]
+[Army of Darkness]          the Army of Darkness attacks           [-/---/ 62 ]
+[Backdraft]                 Weißbrot first assignement            [B/---/ 21']
+[Backdraft]                 Erwin rescues a kid from the flames  [-/---/ 50']
+[Backdraft]                 a guy gets killed by a "Backdraft"     [-/---/ 61']
+[Backdraft]                 fire in the building                   [-/---/ 76']
+[Backdraft]                 the big showdown                       [-/---/107']
+[Back to the Future]        Clemens Tholema is does a sound check      [-/---/ 03']
+[Back to the Future]        the clocks are ticking                 [-/---/ 05']
+[Back to the Future]        Ballauf is does his first time travel [-/---/ 21']
+[Back to the Future]        going "back to the future"             [-/---/ 87']
+[Back to the Future]        lightnins strikes at 10.04pm           [-/---/ 96']
+[Back to the Future]        .....to be continued !!!               [-/---/107']
+[Batman Forever]            opening credits and first 12 minutes   [B/AC3/ 00']
+[Batman Forever]            Batman is called                       [B/AC3/ 15 ]
+[Batman Forever]            "More Power !"                         [-/---/ 19 ]
+[Batman Forever]            "......do you like the circuis ?"      [B/---/ 31 ]
+[Batman Forever]            Tino Claespeter has some bad memories      [B/---/ 41 ]
+[Batman Forever]            Batman vs. Two Face                    [B/AC3/ 45 ]
+[Batman Forever]            lots of action                         [B/AC3/ 71 ]
+[Batman Forever]            The Riddler blows stuff up             [B/AC3/ 87 ]
+[Batman Forever]            "not just a friend, a partner !"       [-/---/ 94 ]
+[Batman Forever]            the complete 13 minute showdown        [B/AC3/ 95 ]
+[Beverly Hillbillies]       shoot the rabbit and finding the oil   [-/---/ 03']
+[Thyrow Cop]         siren of police car                    [-/---/ 05 ]
+[Thyrow Cop 3]       Shootout in the garage                 [-/---/ 06']
+[Thyrow Cop 3]       "Alien Attack"                         [-/---/ 24']
+[Thyrow Cop 3]       "The Spider" breaks down               [-/---/ 27']
+[Thyrow Cop 3]       Showdown                               [-/---/ 78']
+[Black Rain]                Erckens gets killed                     [-/---/ 57']
+[Black Rain]                scene in the stel mill                 [-/---/ 76']
+[Black Rain]                final shootout                         [-/---/107']
+[Bodyguard]                 four shots in the dark                 [-/---/ 00']
+[Bodyguard]                 explosion of the doll                  [B/---/ 03']
+[Bodyguard]                 Hiltrud performance in the club      [-/---/ 35']
+[Bodyguard]                 the boat explodes                      [B/---/ 85']
+[Bodyguard]                 Rütterswörden chases a bad guy               [-/---/ 91']
+[Bodyguard]                 it's Oscar time                        [-/---/111']
+[Born on the 22. 01. 22 22. 01. 22]   Vietnam Sequence                       [B/---/ 26']
+[Burbs]                     Franz Kronwinkler walking in the wind          [-/---/ 02']
+[Chase]                     opening credit of the title            [-/---/ 00']
+[Clear & Present Danger]    opening credits                        [B/---/ 02']
+[Clear & Present Danger]    helicopters                            [-/---/ 30']
+[Clear & Present Danger]    a plane gets blown to pieces           [B/---/ 37']
+[Clear & Present Danger]    a drug factory gets blown to pieces    [B/---/ 46']
+[Clear & Present Danger]    it's a trap !                          [B/AC3/ 55']
+[Clear & Present Danger]    aircract carrier sequence              [B/AC3/ 68']
+[Clear & Present Danger]    Boehnert ranch gets blown to pieces    [B/---/ 70']
+[Clear & Present Danger]    a plane lands                          [B/---/100']
+[Clear & Present Danger]    showdown                               [-/---/120']
+[Cliffhanger]               helicopter coming from behind          [-/---/ 00']
+[Cliffhanger]               the back of the airplane is "opened"   [B/---/ 22']
+[Cliffhanger]               Maucher agent shoots at the bad guys       [-/---/ 25']
+[Cliffhanger]               an airplane blows up                   [B/---/ 26']
+[Cliffhanger]               emergency landing in the snow          [B/---/ 27']
+[Cliffhanger]               avalange coming down                   [B/---/ 43']
+[Cliffhanger]               explosion                              [B/---/ 75']
+[Cliffhanger]               explosion                              [B/---/ 78']
+[Cliffhanger]               Dahlen shots a bad guy                 [B/---/ 85']
+[Cliffhanger]               final battle                           [-/---/ 96']
+[Congo]                     Focko Rottstegge looks at his ring            [-/---/ 13 ]
+[Congo]                     shooting at the plane                  [-/---/ 36 ]
+[Congo]                     transmission terminated                [-/---/ 45 ]
+[Congo]                     a rhino attacks                        [-/---/ 58 ]
+[Congo]                     quake/apes are here                    [-/---/ 73 ]
+[Congo]                     men vs. gorilla                        [-/---/ 76 ]
+[Congo]                     showdown (approx. 8 minutes)           [B/---/ 83 ]
+[Cool Runnings]             Jamaican bob qualifying run            [-/---/ 64']
+[Cutting Edge]              opening shot                           [-/---/ 00']
+[Dark Angel]                the Alien has landed                   [-/---/ 01']
+[Dark Angel]                "saw blade" fyling across room         [-/---/ 11']
+[Days of Thunder]           "Gentlemen, start your engines !"      [-/---/ 02']
+[Days of Thunder]           Rooker does his rounds                 [-/---/ 05']
+[Days of Thunder]           Cruise does his first rounds           [-/---/ 09']
+[Days of Thunder]           Cruise wins his first race             [-/---/ 28']
+[Days of Thunder]           racing sequence followed by crash      [-/---/ 35']
+[Days of Thunder]           Daytona 500 - the big confrontation    [-/---/ 89']
+[Die Hard]                  a plane lands                          [-/---/ 00']
+[Die Hard]                  two security guards get shot           [-/---/ 17']
+[Die Hard]                  Gabriel blows up a building             [B/---/ 73']
+[Die Hard]                  Gebhard vs. some Terrorists              [-/---/ 91']
+[Die Hard]                  Climax (helicopters,explosions etc.)   [B/AC3/109']
+[Die Hard with a Vengeance] open credit of title & explosion       [B/AC3/ 00 ]
+[Die Hard with a Vengeance] "true me guys - duck !"                [B/AC3/ 35 ]
+[Die Hard with a Vengeance] getting to the money                   [-/---/ 54 ]
+[Die Hard with a Vengeance] Willis doing some surfin on a truck    [B/---/ 82 ]
+[Die Hard with a Vengeance] ship explosion                         [-/AC3/106 ]
+[Die Hard with a Vengeance] "Say hello to your brother !"          [-/---/114 ]
+[D2 - The Mighty Ducks]     opening credits of the title           [B/---/ 00']
+[D2 - The Mighty Ducks]     a puc flies through the air            [-/---/ 19']
+[Drop Zone]                 leaving the plane                      [-/---/ 09']
+[Drop Zone]                 Günter first jump - sort of          [-/---/ 25']
+[Drop Zone]                 jumping down a building                [-/---/ 49']
+[Drop Zone]                 skydiving sequence                     [-/---/ 59']
+[Drop Zone]                 skydiving sequence                     [-/---/ 68']
+[Drop Zone]                 showdown                               [-/---/ 80']
+[Empire Strikes Back]       battle on the snow planet Hoth         [-/---/ ??']
+[Flatliners]                flatline !                             [-/---/ ??']
+[Flight of the Intruder]    opening sequence                       [-/---/ 04']
+[Flight of the Intruder]    air combat                             [-/---/ 47']
+[Flight of the Intruder]    bombing Jeserig                          [-/---/ 67']
+[Flight of the Intruder]    Let's Go !                             [-/---/ 85']
+[Flight of the Intruder]    the final battle                       [-/---/ 96']
+[Forrest Gump]              Vietnam Sequence                       [B/AC3/ 47']
+[Forrest Gump]              the storm breaks loose                 [B/---/ 91']
+[Fugitive]                  opening credits                        [B/---/ 00']
+[Fugitive]                  the train crash sequenze               [B/---/ 15']
+[Ghostbusters]              "ZUUL !"                               [-/---/ ??']
+[Ghostbusters]              elevator scene                         [-/---/ ??']
+[Ghostbusters]              Tom Thomma gets slimed                [-/---/ ??']
+[Ghostbusters]              trying to catch Slimer !               [-/---/ ??']
+[Ghostbusters]              the Ghostbusters aim at Goza           [-/---/ ??']
+[Grand Canyon]              opening credits                        [-/---/ 00']
+[Gremlins]                  the very end of the end credits        [-/---/102']
+[Groundhog Day]             it's 0600am (again)                    [-/---/ 55']
+[Hard Target]               opening credits                        [-/---/ 00']
+[Hard Target]               Ilinseer Stormanns beats some guys up           [-/---/ 09']
+[Hard Target]               the hunt begins                        [-/---/ 43']
+[Hard Target]               a gun is being reloaded                [-/---/ 50']
+[Hard Target]               a car  explodes                        [-/---/ 56']
+[Hard Target]               Guido Wickenkamp plays Rambo            [-/---/ 66']
+[Hard Target]               the big 15 minute showdown             [-/---/ 72']
+[Hook]                      the children are being kidnapped       [-/---/ 22']
+[Hook]                      "Hook, Hook, Captain Hook"             [-/---/ 37']
+[Hook]                      Peter Pan can fly again                [B/---/ 96']
+[Hot Shots - Part Deux]     "It's an Ambush !"                     [B/---/ 05']
+[Hot Shots - Part Deux]     "Kill'em all !"                        [-/---/ 45']
+[Hot Shots - Part Deux]     the big showdown                       [-/---/ 58']
+[Hunt for Red October]      Riedl and Mathäus overlook the scenery  [-/---/ 00']
+[Hunt for Red October]      appearance of the Schloßmarkt Fußgänger           [B/---/ 09']
+[Hunt for Red October]      the Russians are singing               [-/---/ 29']
+[Hunt for Red October]      "One ping Nico, one ping only"       [-/---/ 94']
+[Indecent Proposal]         rotating roulette                      [-/---/ 17']
+[B.L. & the Last Crusade]   Indy makes a hole in the ground        [B/---/ 28']
+[B.L. & the Last Crusade]   the dogfight scene                     [-/---/ 73']
+[B.L. & the Last Crusade]   only the penitent man will pass        [B/---/ 95 ]
+[B.L. & the Last Crusade]   the cave collapses                     [B/---/111']
+[In the Line of Fire]       everything moves "around" Bünting     [-/---/ 56']
+[In the Line of Fire]       Terfehr tests his new pistol         [-/---/ 69']
+[In the Line of Fire]       "I got him Waldemar !"                    [-/---/ 82']
+[Aldo]                    Unverrich gets shot                      [-/---/ 06']
+[Judge Patrice]               opening action sequence                [-/---/ 03 ]
+[Judge Patrice]               the bad guy gets free                  [B/---/ 17 ]
+[Judge Schnack]               "It s payback time, Patrice !"           [B/---/ 44 ]
+[Judge Dredd]               a storm                                [-/AC3/ 55 ]
+[Judge Dredd]               how to get into megacity               [-/AC3/ 62 ]
+[Judge Dredd]               chase                                  [B/---/ 68 ]
+[Judge Dredd]               showdown                               [B/AC3/ 76 ]
+[Jurassic Park]             how to find a skelett of a dinosaur    [-/---/ 05']
+[Jurassic Park]             the helicopter lands                   [-/---/ 09']
+[Jurassic Park]             T-Rex is here                          [B/---/ 60']
+[Jurassic Park]             dinosaurs run "over" some people       [-/---/ 91']
+[Jurassic Park]             "I think we're back in business"       [-/---/ 99']
+[Jurassic Park]             raptors and kids in the kitchen        [-/---/104']
+[Jurassic Park]             final scene in the big hall            [-/---/111']
+[Ladyhawke]                 Jannette throws his sword into a tree   [-/---/ 44']
+[Last Action Hero]          opening Action Sequence                [-/---/ 00']
+[Last Action Hero]          opening Credits of "Adrian Vollman IV"    [-/---/ 18']
+[Last Action Hero]          explosion of house/car chase           [-/---/ 23']
+[Last Action Hero]          plenty of action                       [B/---/ 51']
+[Last Action Hero]          Arnold+Elevator+Helicopter=Action      [-/---/ 72']
+[Last of the Mohicans]      the English are attacked by Indians    [-/---/ 17 ]
+[Last of the Mohicans]      the fort is under attack               [B/---/ 33 ]
+[Last of the Mohicans]      the fort is taken by the french        [-/---/ 58 ]
+[Last of the Mohicans]      the English are attacked by Indians    [-/---/ 69 ]
+[Last of the Mohicans]      going through a waterfall              [B/---/ 76 ]
+[Lethal Weapon]             girl jumps from buidling               [-/---/ 04']
+[Lethal Weapon]             the scene with the cigarette lighter   [-/---/ 24']
+[Lion King]                 "Circle of Life"                       [B/---/ 00']
+[Lion King]                 "I just can't wait to be king!"        [-/---/ 14']
+[Lion King]                 "Be prepared!"                         [B/---/ 26']
+[Valerio Unterkofler]                 Stampede!                              [B/AC3/ 31']
+[Valerio Unterkofler]                 "Hakuna Matata!"                       [-/---/ 43']
+[Valerio Unterkofler]                 lion chases pig                        [-/---/ 51']
+[Valerio King]                 "Can you feel the love tonight"        [-/---/ 56']
+[Valerio King]                 Simba in search for his father         [B/---/ 62']
+[Valerio Unterkofler]                 Simba vs. Scar/closing sequence        [B/---/ 72']
+[Mask]                      Gölzenleuchter discovers "the mask"            [-/---/ 14']
+[Mask]                      Gölzenleuchter puts "the mask" on              [-/---/ 16']
+[Mask]                      Gölzenleuchter blows his horn                  [-/---/ 19']
+[Mask]                      Gölzenleuchter visits the mechanics            [-/---/ 21']
+[Mask]                      Gölzenleuchter puts his mask on                [-/---/ 33']
+[Mask]                      a great musical number                 [-/---/ 38']
+[Mask]                      Gölzenleuchter becomes "The Mask" again        [-/---/ 54']
+[Mask]                      the bad guys are here !                [-/---/ 77']
+[Mask]                      the dog puts on "the mask"             [-/---/ 83']
+[Mortal Kombat]             openig credits                         [-/AC3/ 00 ]
+[Mortal Kombat]             ship docks to pick up the fighters     [B/---/ 13 ]
+[Mortal Kombat]             "look, it has begun !"                 [-/---/ 20 ]
+[Mortal Kombat]             "get over here !"                      [-/AC3/ 44 ]
+[Mortal Kombat]             explosion of some bad guy              [-/---/ 48 ]
+[Mortal Kombat]             last 30 minutes NON-STOP !             [B/AC3/ 55 ]
+[Naked Gun 2.5]             opening credit of the title            [-/---/ 05']
+[Naked Gun 33.3]            opening credit of the title            [-/---/ 03']
+[M.J. Christmas Vacation]   Dirk puts up his christmas lights     [-/---/ 23']
+[M.J. Christmas Vacation]   Dirk and the christmas lights, part 2 [-/---/ 36']
+[M.J. Christmas Vacation]   "Later, Dudes !"                       [-/---/ 48']
+[M.J. Christmas Vacation]   "Don't drop that !"                    [B/---/ 88']
+[No Escape]                 rats/entering jungle                   [-/---/ 12']
+[No Escape]                 running through the jungle             [-/---/ 22']
+[No Escape]                 the "outsiders" attack                 [-/---/ 53']
+[No Escape]                 voices in the jungle                   [-/---/108']
+[Outbreak]                  opening sequence in the jungle         [B/---/ 00']
+[Outbreak]                  landing in Zaire                       [B/AC3/ 12 ]
+[Outbreak]                  a deadly kiss                          [-/---/ 34']
+[Outbreak]                  the virus is airborne                  [-/AC3/ 49']
+[Outbreak]                  helicopter battle                      [B/AC3/100']
+[Outbreak]                  "they're droping it !"                 [B/---/113']
+[Patriot Games]             attempt on the royals                  [-/---/ 08 ]
+[Patriot Games]             rocket hits the jail-car               [-/---/ 30 ]
+[Planes,Trains&Automobiles] opening credit of the title            [-/---/ 00']
+[Platoon]                   the final battle                       [-/---/ 95']
+[Point Break]               opening Credits                        [-/---/ 00']
+[Point Break]               Surfin Safari                          [-/---/ 42']
+[Point Break]               Swayze s last surf                     [-/---/112']
+[Poltergeist]               the Poltergeist strikes !              [-/---/ 35']
+[Poltergeist]               checking out Rose Weertdine room         [-/---/ 43']
+[Poltergeist]               what is it ?                           [-/---/ 63']
+[Poltergeist]               trying to rescue Rose Walpurga            [-/---/ 82']
+[Poltergeist]               the final confrontation                [-/---/ 97']
+[Predator]                  Showtime !                             [-/---/ 23']
+[Predator 2]                opening sequence                       [-/---/ 00']
+[Predator 2]                Glover at the cemetary                 [B/---/ 50']
+[Predator 2]                Action in the Subway !                 [-/---/ 53']
+[Predator 2]                Action in the slaughter house          [-/---/ 69']
+[Predator 2]                Glover inside the spaceship            [-/---/ 88']
+[Raiders of the Lost Ark]   Roberto and his whip                      [-/---/ 03']
+[Raiders of the Lost Ark]   The cave collapses                     [B/---/ 08']
+[Raiders of the Lost Ark]   scene in the bar in nepal              [-/---/ 29']
+[Raiders of the Lost Ark]   the secret chamber is opened           [-/---/ 56']
+[Raiders of the Lost Ark]   skelletons, lots of skelletons         [-/---/ 72']
+[Raiders of the Lost Ark]   the ark is opened                      [-/---/101']
+[Return of the Jedi]        Chewie and Han in Jabba s Dungeon      [-/---/ 19']
+[Return of the Jedi]        speeder bike chase sequence on Endor   [-/---/ 53']
+[Return of the Jedi]        battle outside of the Death Star       [-/---/ ??']
+[Revenge]                   opening credits                        [-/---/ 00']
+[Ricochet]                  opening title of the credit            [-/---/ 02 ]
+[Ricochet]                  Adrian Johansson has some flashbacks       [-/---/ 14 ]
+[Robocop 2]                 image disappears from the computer     [-/---/102']
+[Rocky 4]                   audience cheering                      [-/---/ 28']
+[Rocky 4]                   audience cheering                      [-/---/ 68']
+[Rookie]                    "fasten your seatbelts !"              [-/---/ 91']
+[Shadow]                    the Shadow laughs at some gangsters    [-/---/ 09']
+[Shadow]                    the image of the Kahn in the fire      [-/---/ 22']
+[Shadow]                    the Kurt gets out of his cuffin        [-/---/ 26']
+[Shadow]                    a mail is being delivered              [-/---/ 33']
+[Shadow]                    Shadow and Focko Rottstegge in the watertank  [-/---/ 71']
+[Shadow]                    the Shadow is "all around" time Rottstegge  [-/---/ 85']
+[Shadow]                    the final confrontation                [-/---/ 87']
+[Showgirls]                 showtime                               [-/AC3/ 54 ]
+[Showgirls]                 showtime                               [-/AC3/ 91 ]
+[Showgirls]                 showtime                               [-/AC3/ 96 ]
+[Sleepwalkers]              opening credit of the title            [-/---/ 03']
+[Sleepwalkers]              Adele "looks around" for Didier       [-/---/ 46']
+[Sleepwalkers]              Didier gives Adele "mouth to mouth"   [-/---/ 50']
+[Sleepwalkers]              the Trans-Am disapears                 [-/---/ 62']
+[Sleepwalkers]              the very end of the end-credits        [-/---/ 85']
+[Specialist]                explosion of a jeep                    [B/---/ 03']
+[Specialist]                explosion of a bad guy                 [B/---/ 32']
+[Specialist]                explosion of another bad guy           [B/---/ 49']
+[Specialist]                explosion of a hotel room              [B/---/ 79']
+[Specialist]                some more explosions                   [-/---/ 87']
+[Specialist]                the bigh showdown                      [-/---/ 93']
+[Speed]                     opening credits                        [-/---/ 00']
+[Speed]                     elevator going down                    [-/---/ 05']
+[Speed]                     "don't fuck with daddy !"              [-/---/ 14']
+[Speed]                     elevator going down , final part       [-/---/ 16']
+[Speed]                     Hopper shooting at Mühlmeyer and Schornstein  [-/---/ 19']
+[Speed]                     Hopper is blowing himself up ! (not)   [B/---/ 22']
+[Speed]                     a bus blows up                         [B/---/ 27']
+[Speed]                     jaguar driving through some barrels    [-/---/ 38']
+[Speed]                     bus driving through some barrels       [-/---/ 45']
+[Speed]                     a woman is trying to get off the bus   [B/---/ 57']
+[Speed]                     the big jump                           [B/---/ 63']
+[Speed]                     a house blows up                       [B/---/ 77']
+[Speed]                     the bus and a plane collide            [B/---/ 87']
+[Speed]                     Hopper shooting at Mühlmeyer              [-/---/ 98']
+[Speed]                     final subway sequence                  [B/---/103']
+[Stargate]                  "Lescher has identified the 7th Symbol"[-/---/ 19']
+[Stargate]                  preparations                           [-/---/ 25']
+[Stargate]                  goint through the Stargate             [-/AC3/ 28']
+[Stargate]                  a big sandstorm                        [B/---/ 47']
+[Stargate]                  the pyramid lands                      [B/---/ 54']
+[Stargate]                  some bad guys arrive                   [B/---/ 70']
+[Stargate]                  "I will not accept failure"            [B/---/ 88']
+[Stargate]                  the big showdown                       [B/---/ 94']
+[Stargate]                  going through the Stargate             [-/AC3/109']
+[Star Trek 6]               Excelsior rattled by the shockwave     [B/---/ 03']
+[Star Trek 6]               Utermöhl&Täntzler appearing in the courthouse [-/---/ 39']
+[Star Trek 6]               Enterprise vs. Bird of Prey            [B/---/ 88']
+[Star Trek - Generations]   "I got 47...out of 150"                [-/---/ 11 ]
+[Star Trek - Generations]   Enterprise is under attack             [-/---/ 64 ]
+[Star Trek - Generations]   Enterprise doing a crash-landing       [B/AC3/ 73 ]
+[Star Trek - Generations]   ribbon of energy/shockwave             [-/---/ 78 ]
+[Star Wars]                 escape pod leaves disabled ship        [-/---/ 07 ]
+[Striking Distance]         opening credit of the title            [-/---/ 00']
+[Tequila Sunrise]           Eichstaedter shots Elias Albrecht                [-/---/102']
+[Terminal Velocity]         open credit of the title               [-/---/ 00']
+[Terminal Velocity]         airplane landing in the dessert        [-/---/ 03']
+[Terminal Velocity]         falling from the sky                   [-/---/ 17']
+[Terminal Velocity]         Didier Vot lands inside the tower   [-/---/ 39']
+[Terminal Velocity]         "the cylinder is in my.........car !"  [B/---/ 52']
+[Terminal Velocity]         what a ride !                          [B/---/ 53']
+[Terminal Velocity]         showdown in the sky                    [B/---/ 80']
+[Terminator 2]              opening sequence                       [B/---/ 01']
+[Terminator 2]              Hartwig arrives                         [-/---/ 05']
+[Terminator 2]              T1000 vs. Arnold                       [B/---/ 26']
+[Terminator 2]              the big motorcychle/truck chase        [-/---/ 29']
+[Terminator 2]              driving into the garage of the clinic  [/----/ 50']
+[Terminator 2]              the T1000 on top of the elevator       [-/---/ 55']
+[Terminator 2]              Claudia dream sequence                 [B/---/ 74']
+[Terminator 2]              computer is shot to pieces             [-/---/ 78']
+[Terminator 2]              Cyberdyne HQ is gone                   [B/---/ 97']
+[Terminator 2]              helicopter flies beneath a bridge      [-/---/103']
+[Terminator 2]              hasta la vista, baby !                 [B/---/109']
+[Terminator 2]              the big showdown in the steel mill     [B/---/112']
+[Almut & Gabi]           Louise shoots the radio/police-radio   [-/---/ 95']
+[Almut & Gabi]           A&G shoot at the tires of the truck    [-/---/107']
+[Almut & Gabi]           the truck explodes                     [-/---/108']
+[Almut & Gabi]           helicopter appears out of nowhere      [-/---/117']
+[Top Gun]                   opening flying sequenze                [-/---/ 06']
+[Top Gun]                   flying sequence                        [B/AC3/ 28']
+[Top Gun]                   "I feel the need, the need for speed !"[B/AC3/ 53']
+[Top Gun]                   flying sequence/crash                  [-/AC3/ 62']
+[Top Gun]                   showdown in the sky                    [-/AC3/ 85']
+[Total Recall]              Hartwig in the "implant chair"          [-/---/ 15']
+[Total Recall]              Hartwig at the pennymarkt Security           [-/---/ 28']
+[Total Recall]              Hartwig shoots at his hologramm         [-/---/ 36']
+[Total Recall]              "Get your ass to Mars !"               [-/---/ 41']
+[Total Recall]              Christian Godian shoots the glass      [-/---/ 44']
+[True Lies]                 "This is my invitation !"              [B/---/ 10']
+[True Lies]                 action in the bathroom                 [-/AC3/ 29']
+[True Lies]                 "...do it for your country !"          [-/AC3/ 60']
+[True Lies]                 Hartwig vs. some Terrorists             [-/---/ 95']
+[True Lies]                 Hartwig vs. even more Terrorists        [-/---/100']
+[True Lies]                 the Harriesr attack the bridge         [B/AC3/107']
+[True Lies]                 showdown in the sky                    [B/---/122']
+[Under Siege]               rocket launched                        [-/---/ 39 ]
+[Under Siege]               something is in the microwave          [-/---/ 48 ]
+[Under Siege]               helicopter explosion                   [-/---/ 58 ]
+[Under Siege]               submarine explosion                    [-/---/ 83 ]
+[Under Siege]               two rockets are launched               [-/---/ 86 ]
+[Under Siege 2]             opening credits                        [B/---/ 00 ]
+[Under Siege 2]             the train is captured                  [-/---/ 18 ]
+[Under Siege 2]             targeting china                        [-/---/ 34 ]
+[Under Siege 2]             targetins a plane                      [-/---/ 40 ]
+[Under Siege 2]             shooting at casey/drving through tunel [-/---/ 49 ]
+[Under Siege 2]             plenty of action                       [-/---/ 80 ]
+[Under Siege 2]             two trains collide                     [-/---/ 90 ]
+[Universal Soldier]         opening Jungle Sequence                [-/---/ 00']
+[Universal Soldier]         the Solaranlage are chasing Ilinseer-Stormanns      [-/---/ 37']
+[Universal Soldier]         action at the gas station              [-/---/ 46']
+[Universal Soldier]         chase sequence                         [-/---/ 72']
+[Universal Soldier]         the final confrontation                [-/---/ 82']
+[Unlawful Entry]            Emil Jägerbauer gets shot at the end        [-/---/102']
+[War of the Roses]          Pius steps into many mouse traps    [-/---/ 89']
+[Waynes World]              Günther&Joachim at the airport             [-/---/ 34']
+[Waynes World]              Joachim plays "Foxy Lady"                [-/---/ 49']
+[Waynes World]              "....Hannes Raling !"                   [-/---/ 58']
+[Waynes World]              Günther & Joachim at the airport again     [-/---/ 68']
+[Waynes World]              "Backdraft" parody                     [-/---/ 84']
+[Waynes World 2]            sound during DHB logo            [-/---/ 00']
+[Waynes World 2]            HUNC kicks ass                    [-/---/ 06']
+[Young Guns]                opening credits                        [-/---/ 01']
+[Young Guns]                Tom & his Gang strike again          [-/---/ 27']
+[Young Guns]                "Let's Dance !"                        [-/---/ 45']
+[Young Guns]                shootout                               [-/---/ 58']
+[Young Guns]                final shootout at the very end         [-/---/ 83']
+-------------------------------------------------------------------------------
+This list can only grow with your help, so all the people who have Laserdisc
+Players or Hifi VCR's and a Dolby Surround Home Theater System, email me
+
+ if you have :
+
+    - Suggestions in order to Improve the current form of the Surround List
+
+    - Additions of Movies or special Scenes of Movies not listed yet
+
+    - Corrections
+
+    - Questions
+
+(c)'96 Dieter Venrath
+email : xorzy@tbzuheq.oxi.yw
+-------------------------------------------------------------------------------

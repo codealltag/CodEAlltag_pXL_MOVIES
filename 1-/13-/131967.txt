@@ -1,0 +1,35 @@
+Die imdb Schreibweise ist imho die weltweit eindeutige, und wird deshalb
+zu Datennormalisierung von praktisch allen größeren Filmdatenbanken
+verwendet. Vor kurzem wechselte auch die deutsche Haumer zu diesen
+Namen.
+
+Die Sonderzeichen sind nur eine kleines und vernachlässigbare (URI)
+Beschränkung. In der imdb Suche braucht man zb. keine %xx codes oder +
+für Space.
+Also "Rambo: First Blood Part II (1986)"
+
+Das ganze ist auch eineindeutig und umkehrbar. 
+zb in perl
+sub hex2html {
+  # Convert %XX from hex numbers to alphanumeric
+  (my $s = shift) =~ s/\+/ /g;
+  $s =~ s/%(..)/pack("c",hex($1))/ge;
+  return $s;
+}
+
+Das braucht man aber nicht. über eine einfach suchform auf einer
+privaten html seite kann man sich selbst behelfen:
+<FORM ACTION="http://www.imdb.com/M/title-substring" METHOD="GET">
+<INPUT NAME="title"></FORM>
+
+/M/title-exact ist übrigens schneller und eindeutig.
+oder den lokalen imdb client installieren.
+(ich hab ihn irgendwo für win32 als binary)
+
+Leider wechseln die Namen ab und zu, oder sind auch wirklich ab und zu
+falsch (vor allem bei Fernost oder österreichischen Filmen :) 
+aber das ist mir lieber als beliebige Verleihtitel�nderungen oder andere
+private Richtlinien.
+-- 
+Victor Felden
+http://exhwy.dh-tqna.oc.si/rfjz/xrumjq/iwej/

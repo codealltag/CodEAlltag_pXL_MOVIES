@@ -1,0 +1,7 @@
+Scroll-Lock drücken, dann gibt es den Textcursor. Die Schnell-Variante:
+Strg+A, Strg+3 pro Gesamtumstellen des Textes, reicht üblicherweise aus,
+da die geROTteten und ungeROTteten Absätze sich nicht sehr oft
+abwechseln.
+
+So long,
+Ingmar O. Seyl

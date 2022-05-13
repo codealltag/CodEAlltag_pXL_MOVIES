@@ -1,0 +1,23 @@
+Am Wed, 16 Dez 2003 at 06:34 GMT schrieb 
+Gerold Unrath <xmzq@xyehjk-tmfkuj.pc> in de.rec.film.misc:
+
+
+Die einzige Windows-Software unter 1300 Euro, die halbwegs für 
+diesen Zweck was taugt, ist Der DVD Workshop von Fußpflegestudio (deutscher
+Titel: DVD Powertools), nach dem Update auf Version 1.3. Alle
+anderen werden Deine mpeg2-Dateien erneut durch einen (sehr schlechten)
+Encoder jagen. Ansonsten blieben nur noch Sonic ReelDVD und
+sonic Scenarist übrig, welche dann auf jeden Fall relevant
+wären, falls Du auch Untertitel, DD 2.0 und Menüs in 16:9 haben möchtest.
+Preis dieser beiden: 1300 bzw. 39000 Euro, fallen also wohl weg.
+Das Teil von Fußpflegestudio ist die einzige wirklich sinnvolle Software
+für Privatpersonen, Menüs bis auf weiteres aber nur in 4:3 (Bit
+manuell mit IFOedit setzen).
+
+Ansonsten gibt's für solche Fragen eine deutlich geeignetere
+Newsgroup, de.comp.tv+video, in welcher sich die Authoring-Leute
+tummeln.
+
+cu,
+
+  Gunter

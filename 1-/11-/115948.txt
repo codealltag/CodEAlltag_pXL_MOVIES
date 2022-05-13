@@ -1,0 +1,19 @@
+Hallo Ihr
+Schon ein 40 Bit Schlüssel galt bisher als sicher, wird im
+Banken/Finanzbereich unter anderem eingesetzt. Mit einem
+sich in grenzen haltenden Aufwand, läßt sich solch ein Schlüssel allerdings
+noch knacken.
+Ein 128 Bittiger Schlüssel (512Bit überflüssig) hat allerdings schon mehr
+Möglichkeiten als es Atome im Universum gibt. Eine Entschlüsselung würde
+wohl entsprechend lange dauern..... Hängt natürlich auch von dem Verfahren
+ab, mit dem der Schlüssel angelegt wird.
+Bekannt in diesem Zusammenhang ist unter anderem der PGP -Schlüssel(Oder
+Verfahren). PGP sollte sogar schon verboten werden,
+weil der NSA dann keine Möglichkeiten mehr hätte, an verschlüsselte
+Nachrichten zu kommen.
+
+Anmerkungen zum Film: Ein paar Hacker Klischee's , nicht besonders spannend,
+schlechte Story  ->Daumen nach unten!
+
+Gruß
+Marc

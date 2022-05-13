@@ -1,0 +1,39 @@
+On Wed, 28 Jan 2001 20:01:55 +0200, Marc Middelschulte
+<Btlqiuqyj.Cyfzbmkz@mbc.dy> wrote:
+
+[PDF anstelle von HTML]
+
+  Ich meine nicht wegen der Größe. Ich meine wegen PDF. Entweder mache
+ich Webseiten, oder PDF-Dokumente. Aber wenn letzteres, dann bestimmt
+nicht via http und irgendwelche skurrilen, proprietären Plugins.
+
+Und bei dem "nur Text" wäre ich vorsichtig :-) Warte mal ab, wenn wir
+in Gefilde vorstoßen, in welchen die meisten Filme *nicht* verschollen
+sind. Oder gar Filmbesprechungen.  
+
+
+Jo, aber man muß es denjenigen nicht auch noch hinterhertragen.
+
+
+Im Prinzip schon. Aber um wirklich einigermaßen an ein brauchbares
+Handling derartig konzeptionierter Seiten ranzukommen, muß man auch
+bei CSS schwere Geschütze auffahren. Das beginnt bei einer festgepinnten
+Fontgröße u.�., damit man davon ausgehen kann, daß die einzelnen Seiten
+auch wirklich die gleiche Zeilenanzahl haben und sich mehrere Grafiken
+auf einer Seite nicht etwa überlappen, nur weil jemand 500 Zeichen in
+einer Zeile unterbringt. Und wenn es derart ans Eingemachte geht, muß
+man sehr genau abwägen und überlegt zur Sache gehen - sonst hat man wieder
+eine Seite mehr im Netz, die hirnlos zugeballert ist ... und dann kann 
+man wirklich gleich PDF auf dem Webserver parken ;)
+
+
+Tja, dann schraube mal Deine Auflösung hoch und mache Dein Browserfenster
+größer. Und schon sieht's bekloppt aus. Nur via HTML ist sowas nunmal
+nicht zu verwirklichen. 
+
+
+Ich habe noch ein SDtarwriter-Dokument. Aber das rücke ich nicht raus ;)
+
+cu,
+
+  Paolo

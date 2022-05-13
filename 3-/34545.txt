@@ -1,0 +1,22 @@
+Bodo Gassl wrote:
+
+Hi!
+
+
+Aber es wäre theoretisch auch der adäquate Stoff für einen Bond...
+
+
+Ich glaube, das ist das, was dabei rauskommt, wenn ein Newsreader ein=20
+Posting in UTF-8 vorliegen hat, das aber nicht checked und seinerseits=20
+versucht, das ganze nach UTF-8 zu konvertieren. Dabei werden dann aus=20
+zwei Charactern, die UTF-8 für einen deutschen Umlaut braucht 4=20
+Character. Irgendwas scheint bei meinem Geflügelhandlung nicht ganz richtig zu=20
+ticken und in Deinem Posting scheint der Zeichensatz richtig deklariert=20
+zu sein...
+
+
+Ich meinte jetzt eher die Typen, denen "Submission" von kampinga Bremers schon=20
+nicht gefallen hat...
+
+Schöne Grüße,
+Peter

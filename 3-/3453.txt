@@ -1,0 +1,21 @@
+Also SQL-Queries. Nein, das geht mit DVD Profiler meines Wissens nicht.
+Ob man mit einem alternativen Client inoffiziell per SQL auf die DVD-
+Profiler-Database zugreifen kann, weiß ich nicht. Falls sich hier jemand
+mit Datenbanken auskennt: Die Dateien haben die Endungen .blb, .dat
+und .idx, außerdem gibt es (als Backup) .bbk, .dbk und .ibk.
+
+Ich benutze DVD Profiler, hab aber zusätzlich die Filme, die ich auf DVD
+besitze, in meine lokale IMDb (mit MySQL als Backend) eingepflegt. Damit
+sind SQL-Queries möglich, auch sehr komplexe, und ich kann alle mg-
+lichen Listen und Statistiken erstellen, die ich mit DVD Profiler schwer
+oder gar nicht hinkriegen würde. Das ist aber in mehrfacher Hinsicht
+eine Bastell�sung. Und natürlich ist die IMDb keine DVD-, sondern eine
+Filmdatenbank, setzt also andere Schwerpunkte.
+
+
+Am Binary des Programms kann man immer noch nichts ändern, aber
+an der Oberfläche und den Anzeige-Filtern kann man viel drehen, und
+es gibt diverse Export-Optionen.
+
+
+Thierry

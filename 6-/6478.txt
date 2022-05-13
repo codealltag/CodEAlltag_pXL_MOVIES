@@ -1,0 +1,15 @@
+Charly Braunschmid wrote: 
+
+Ach so. Jetzt sehe ich, was ihr meint. Mein Newsreader ist so
+schlau, auf Konfiguration bei Betreffwechseln den angezeigten
+Diskussionsstrang abzubrechen und einen neuen aufzumachen[1], genau
+wegen solcher Vorfälle, die wohl häufig genug sind.
+
+
+In diesem Fall genehmigt.
+
+	-is
+
+.slrnrc: set new_subject_breaks_threads 3
+-- 
+seal your e-mail: http://inc.edmmn.nqk/

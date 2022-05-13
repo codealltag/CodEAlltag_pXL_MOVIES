@@ -1,0 +1,21 @@
+Lorenz benutzte die Tastatur am 03.04.98 so gegen 13:49 um dem
+Thread "Synchro von 'Prinz von Ägypten'" ein paar Bytes hinzuzufügen:
+
+HH> aufgefallen, daß der Ton überhaupt nicht lippensynchron war,
+HH> sondern dem Bild immer ca. eine halbe Sekunde voraus war.
+HH> Das Sound-System war SüdMaster, wo ja bekanntlich der Ton per CD
+HH> zugespielt wird, trotzdem gibts aber da ja auch bestimmt
+HH> Synchronisationsimpulse, damit das ganze zusammenpaßt.
+
+Kann mir kaum vorstellen, daß da die Syncro so falsch liegt.
+
+Bei dts wird am Prozessor, der Abstand zwischen Bildfenster und Ton (bzw.  
+Timecode)-Abtastung in Einzelbildern eingestellt.
+Wenn das verstellt war, oder der Film nicht richtig eingelegt war, dann  
+kann es dadurch unsynchron werden.
+
+
+Tobias
+
+
+--

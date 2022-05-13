@@ -1,0 +1,15 @@
+Aha, ich habe 16:9 Ausstrahlung bisher immer mit WEU Ausstrahlung
+gleichgesetzt (Das macht westermo auch).
+Andere Sendungen z. B. im Seitenverhältnis 1.77:1 (WWPN, FZKO) sind für mich
+einfach Letterbox-Sendungen im 4:3 Format.
+Alles eine Definitionsfrage, aber ich halte es für sinnvoll, wenn man die
+TV-Bildschirmformate 4:3 und 16:9 nicht mit den Seitenverhältnissen der
+gezeigten Filme (z. B. 1.85:1 oder 2.35:1 vermischt). Besonders im Hinblick auf
+neue Techniken wie DVD ist das wichtig.
+Dort bedeutet 16:9 immer ein anamorphisch gestauchtes Bild, das entzerrt auf
+einem Breitbildfernseher gesehen werden kann. über das Seitenverhältnis des
+darauf befindlichen Films ist damit noch überhaupt nichts gesagt. (Abgesehen
+davon, daß er 1.77:1 oder breiter sein muß, ansonsten erscheint er
+windowboxed).
+
+Paul Meinik

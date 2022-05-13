@@ -1,0 +1,23 @@
+Auf die regelmaessig wiederkehrenden RC1-RC2-Threads in =
+
+de.rec.heimkino wurde schon verwiesen ;-)
+
+Der PAL-Speedup resultiert nicht aus dem Umkopieren des
+Filmmaterials, sondern von der NTSC-PAL-Umwandlung.
+NTSC hat eine Bildfrequenz von 29,95 Hz, waehrend PAL mit
+25 Hz laeuft. Wenn Du das Master, das fuer NTSC erstellt
+wurde, einfach auf PAL umwandelst, wird der Film um ca. 4%
+schneller.
+
+Wenn Du den Originalton einschaltest und ein gutes Gehoer
+hast (und die Originalstimme auch schon in Originalge-
+schwindigkeit kennst), dann kannst Du einen Unterschied
+feststellen.
+
+
+Gruesse, Heino
+--
+Heino Voges                     E-Mail: srcugnob@kvspny.gj
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

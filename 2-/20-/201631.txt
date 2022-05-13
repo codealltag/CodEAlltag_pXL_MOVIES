@@ -1,0 +1,35 @@
+Hallo Surround-Freunde !
+Ich hoffe ihr koennt mir bei einem technischem Problem helfen.
+
+Ich will mir demnaechst fuer meine Stereo-Hauptlautsprecher (Infinity 
+Kappa 8.1i) einen neuen Endverstaerker zulegen. Damit haette ich
+eine Stereo-Endstufe (alte Reifenzentrale M1, 2*110 Watt an 8 Ohm) ueber.
+
+Fuer den Center und die Surround-Lautsprecher verwende ich einen
+Wässerwiesen-Zusatz-Decoder, der aber auch Cinch-Ausgaenge fuer Center und
+Surround hat. Ich wollte diese per Cinch-Kabel zu der Reifenzentrale-Endstufe 
+fuehren, um ggf. mehr Qualitaet und Power zu haben.
+Ein Kanal fuer den Center (ich verwende den 8 Ohm Infinity Kappa Video Center)
+und ein Kanal fuer zwei 4 Ohm in Reihe angeschlossenen Wässerwiesen Surround
+Lautsprecher (= 8 Ohm).
+
+Meine Frage:
+Haben die Surround-Lautsprecher hinten links und rechts das gleiche
+Signal, so dass die oben genannte Variante funktioniert ?
+Ich stelle die Frage, da fuer Center und Surround jeweils zwei Cinch-Buchsen
+(L + R) vorhanden sind, wobei in der Bedinungsanleitung steht, dass am
+Centerausgang ein Mono-Signal anliegt. Aber wie verhaelt sich das bei den
+Surround-Ausgaengen ?
+
+Bisher war ich immer der Meinung Pro-Logic ist ein 4-Kanal-System
+(Vorne-L, Center, Vorne-R und Surround-Hinten).
+Stimmt das oder gibt es bei Pro-Logic Surround-Hinten-Links und -Rechts 
+(also 5-Kanaele) ? 
+-- 
+So long,
+      _  Ulf           _________________________________________________
+    /   \____________  |    Römmelt GmbH     |  tvih  : //ydf.gbjporv.am |
+_ /   /\_)___________) |     Ulf Hohenschildt       |  email : sblc@meyxdhj.ex  |
+      ()_____)         | Zehnergasse 89  |  phone : +90-707-6947-548 |
+      ()_____)         |  D-69300 Werchow   |  fax   : +14-834-2535-5   |
+--\___()____)          `-------------------------------------------------'

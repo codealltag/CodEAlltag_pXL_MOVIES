@@ -1,0 +1,22 @@
+H! Kinofilme werden weder in Pal noch in NTSC, sondern: 
+TATAA! auf Film gedreht!
+
+Die werden dann erst irgendwann viel viel später nach Pal oder NTSC
+konvertiert, z.B. für die VHS-Kassette, oder von Deinem DVD-Player,
+wenn er die DVD abspielt.
+
+Es gibt keinen NTSC-Slowdown, da nach NTSC konvertierte Filme 
+mit der gleichen Geschwindigkeit ablaufen wie der Kinofilm.
+Bei Pal-Transfers von Film-Material hast Du heutzutage eigentlich 
+immer Pal-Speedup (es wurde hier auch schon von Ausnahmen 
+berichtet, bei denen angeblich eine Geschwindigkeitsanpassung 
+gemacht wurde, aber sowas geht immer auf Kosten der Bildqualität).
+
+Gruß,
+	Dennis
+
+-- 
+Dennis Herper, mailto:ggnpuy.ienwn@epw.hw
+   "I'd rather laugh with the sinners than cry with the saints
+    Sinners are much more fun...   And only the good die young"
+                                                     -- Arthur Rupert

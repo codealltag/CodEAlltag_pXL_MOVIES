@@ -1,0 +1,80 @@
+DIVX ist eigentlich nicht das selbe wie PPV. Eine Unverschämtheit
+     ist es dennoch, keine Frage.
+
+     Es läuft dabei auf folgendes hinaus: Du kaufst  Dir  einen  Film.
+     Die  Disc  ist billiger als heutzutage, kostet Dich vielleicht 10
+     Mark.
+
+     Wenn Du die Disc zum ersten Mal in Deinen  Player  einlegt,  wird
+     ein Code übermittelt. Daraufhin kannst du Dir den Film ansehen -2
+     Tage lang, dann  nicht  mehr.  Du  kannst  dann  nochmal  6  Mark
+     ausgeben  und  einen  neuen Code kaufen, mit welchem die DVD dann
+     wieder eine Woche benutzt werden kann -  und  so  weiter  und  so
+     fort.  Gegen  Zahlung eines entsprechend größeren Betrages kannst
+     Du die Disc auch gleich für  einen  längeren  Zeitraum  oder  für
+     immer  freischalten.  Die  von  mir  hier  genannten  Preise sind
+     Beispiele, die auf den Angaben beruhen, die  in  den  USA  häufig
+     benutzt  werden  -  dort  spricht man von einem Kaufpreis von $5,
+     Verlängerung zu $3, Freischalten für $35 (also  letztendlich  $40
+     im  günstigsten  Fall).  Aus den $35 kann auch weniger werden, so
+     daß der Gesamtpreis niedriger wird, ganz klar. Die beiden anderen
+     Werte dürften realistischer sein.
+
+     Auf den ersten Blick sieht dieses Vorhaben gar nicht so  schlecht
+     aus  - bei Blindk�ufen kann man eigentlich nur davon profitieren,
+     man kann den Film quasi Probesehen und  setzt  nicht  gleich  den
+     vollen  Preis  in  den Sand. In der Praxis hat das allerdings ein
+     paar Haken. Man braucht einen speziellen Player. Der Player hängt
+     am  Telefonnetz  und  die  Buchungen sowie der Transfer der Codes
+     läuft zwischen diesem Player und der Zentrale statt. Man muß also
+     neue  Hardware  kaufen,  aber  das ist noch nicht das schlimmste.
+     Damit der Timeout einer Disc auch wirklich greift,  wird  die  ID
+     der   Disc   in  einem  FlashROM  gespeichert,  ebenso  sämtliche
+     übermittelten Codes. Das hat den Effekt, daß man das Ausleihen an
+     Freunde  vergessen  kann, ebenso den Kauf eines neuen Players, da
+     die Discs hierfür nicht für einen bestimmten Kunden, sondern  für
+     einen bestimmten Player freigeschaltet werden.
+
+     Den Kram zu hacken,  wie  es  letztendlich  bei  Macrovision  und
+     Region Codes praktiziert wird, kann man eigentlich vergessen. Das
+     FlashROM zu löschen bringt überhaupt nichts, dann löscht man auch
+     die ID des Players und er macht gar nichts mehr. Auslesen und neu
+     schreiben  wäre  die  einzige  Alternative,  aber  nicht   weiter
+     praktikabel,  da  man  dies bei jeder neuen Disc neu machen darf.
+     Sollten DVD's irgendwann mal kopierbar  sein,  wären  die  Karten
+     wieder  offen  -  letztendlich  muß  sich  auf  der  Disc ja eine
+     Prüfsumme für die einzelnen Codes befinden, der Schwarzmarkt wird
+     sich freuen.
+
+     Es  ist  ziemlich  offensichtlich,  daß  Befürworter   von   DIVX
+     letztendlich Videotheken aufs Korn genommen haben - hier verdient
+     man an einer verkauften Kopie letztendlich  nur  einmal,  mittels
+     DIVX  dauernd. Anzunehmen, daß Leuten wie MLCO auch noch andere
+     Dinge  prima  gefallen  dürfte  -  Wow,  wir  können   "Hercules"
+     verkaufen,  ab  dem Jahr 2000 geben wir keine Verlängerungen mehr
+     raus bzw. Freischaltungen laufen ab, 2001 kommt er ins  Kino  und
+     2002  muß  man  die  Disc komplett neu kaufen. Würde Leo Ihlefeldt
+     bestimmt auch praktizieren ;) Aber das ist hypothetisch.
+
+     Genauso könnte man auch weitergehen und anprangern, daß hier über
+     die  eigenen  Sehgewohnheiten  Buch  geführt  wird. Frei nach dem
+     Motto "Der hat schon zum zehnten Mal diese  Horrorfilme  geguckt,
+     wir sollten mal vorsichtshalber die Kripo vorbeischicken". Ebenso
+     wäre gewährleistet, daß man nur das sieht,  was  man  auch  sehen
+     darf   (man  denke  an  eingezogene  Filme  wie  "Texas  Chainsaw
+     Massacre"). Irgendwer  hat  neulich  auch  angeprangert,  daß  es
+     wieder  ein typisches Beispiel für die Wegwerfgesellschaft werden
+     könnte - die Mülleimer würden vor lauter  weggeworfener  $5-Discs
+     überquellen.
+
+     Bedenklich finde ich, daß, wenn DIVX zur Realität  werden  sollte
+     und  der  Anwender  das  mitmacht (und das wird er), diese Praxis
+     auch in anderen Bereichen ausgeübt  werden  könnte.  Ullsperger  würde
+     sich  wohl  die  Hände  reiben - man stelle sich vor, Win95 würde
+     nach einem Jahr den Betrieb verweigern, bis man  das  Update  für
+     149.-  auf  jeden Fall gekauft hat. Da VOLVO-Benutzer anscheinend
+     sowieso nichts dagegen  haben,  daß  ISDN-Hardware  selbstständig
+     einmal pro Monat eine Verbindung zu einer 0190-Nummer aufbaut und
+     Daten übermittelt, wäre das gar nicht mal allzu utopisch.
+
+                   - André Ziechner, Voice: +39-843-5653951 -

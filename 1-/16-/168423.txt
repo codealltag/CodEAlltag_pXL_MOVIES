@@ -1,0 +1,43 @@
+Hallo,
+
+einige kleine Anmerkungen zur FAQ, die mir gleich aufgefallen sind:
+
+--- Ausschnit ---
+
+Um Breitwand-Filme zu drehen wurden Verfahren mit wohlklingenden
+Namen wie Cinemascope, �Techniscope�, Vista-Vision, Todd-AO,
+�Technirama�, Cinerama, Panavision usw. verwendet. Alle Verfahren
+unterscheiden sich in Details, haben aber eines gemeinsam: Sie sind
+harte (hard) Breitwand-Formate und das projizierte Bild hat ein
+breiteres Seitenverhältnis als 1,33:1 (obwohl das verwendete
+Filmmaterial weiterhin das Format 1,33:1 hat). Einige sind bis zu
+2,8:1 groß.
+
+Hart heißt, daß auf den Film genau der Bildausschnitt aufgezeichnet
+wird, den man später auch im Kino sieht. Da das Filmmaterial (35
+mm) aber immer ein Seitenverhältnis von ca. 1,33:1 hat, bleiben
+zwei Möglichkeiten für die Aufzeichnung des breiteren Formats:
+
+a) Ein Teil des Films (oben und unten) wird nicht belichtet und
+bleibt schwarz.
+
+b) Der breite Bildausschnitt wird verzerrt auf den Film aufgezeichnet;
+das nennt man dann eine anamorphische Aufzeichnung; sie wird weiter
+unten detailiert beschrieben.
+
+--- Ausschnitt Ende ---
+
+
+1) Was ist mit 65/70mm ?? (TODD-AO/DEL/JCB) ??
+
+2) Das Filmmaterial selbst hat gar kein Seitenverhältnis (vielleicht
+35mm zu einige 100 - 1000 m ?), es ist eben die Art es zu nutzen
+(hochkant, quer, aka Vistavision, Technirama !!??)
+
+3) Cinerama verwendete c) mehrere Kameras/Filme/Projektoren parallel !!
+
+
+Gruß
+
+
+Jean-Luc

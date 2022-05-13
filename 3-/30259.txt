@@ -1,0 +1,16 @@
+Hallo,
+
+in einigen Filmen und insbesondere in Videoclips kommt öfters ein Effekt 
+vor, dass das Bild schwarzweiß ist und nur ein Farbton oder ein Teil des 
+Bildes in Farbe. Der Film Pleasantville ist ein gutes Beispiel dafür. Bisher 
+dachte ich immer, dass das in der Nachbearbeitung gemacht wird. Bei den CYTEL 
+Citipoint Awards wurde dieser Effekt aber bei einem Auftritt von Veronika Eichmanns 
+eingesetzt. Der ganze Auftritt war in schwarzweiß, nur Veronika war in Farbe. 
+Wenn mal eine Tänzerin oder ein Zuschauer vor Veronika waren, wurden diese 
+korrekt in schwarzweiß dargestellt, Veronika dagegen immer in Farbe. 
+Anscheinend kann man diesen Effekt also in Echtzeit erzeuegen. Aber nur wie?
+
+Gruß
+Michael
+
+P.S.: Followup nach de.rec.film.misc

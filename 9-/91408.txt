@@ -1,0 +1,14 @@
+Wir müssen die Spoiler in gpg-verschlüsselte Dateianhänge packen, deren
+Paßwort man auf Anfrage per Mail erhalten kann ;-)
+
+Ich will hier gar keine Lanze für ROT-13 brechen, auch wenn's vielleicht
+so aussah. Ein paarmal drückt man eben die Taste zum Entschlüsseln, und
+wenn es zu nervig wird, springt man eben zum nächsten Artikel. Was
+solls? Viel verpaßt man ja nicht.
+
+Tschüs,
+Tom.
+
+-- 
+It's not like I hate every single person in the world.
+I just can't relate to 99.9% of humanity.

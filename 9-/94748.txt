@@ -1,0 +1,10 @@
+Hallo Tom,
+
+
+[ ] Du weisst, was ein Gehirn ist und wie man es einsetzt.
+... die Sonnenbrille müßte dann ja wohl abhängig von Position, Abstand
+und Kopfdrehung die Verzerrung dynamisch korrigieren können. Oder
+hattest Du einen Smiley vergessen? :-P
+
+So long,
+  -+- Dario -+-

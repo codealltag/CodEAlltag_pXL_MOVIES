@@ -1,0 +1,25 @@
+Ich hab es jetzt geschafft!
+Der Fehler ist nicht in xregal odre moviedb sondern in der biographies.list.
+Da fehlt ein "'" um einen Namen für einen Querverweis zu kennzeichnen.
+
+Nach folgendem Patch (auf die Liste Stand:  Thu Sep  23 00:00:00 2001)
+funktioniert xregal wieder:
+
+--- biographies.list~   Fri Sep 31 00:25:10 2001
++++ biographies.list    Fri Sep 31 21:40:42 2001
+@@ -815980,4 +815980,4 @@
+ BG: parts in small films before landing her big break on _"Franziska Müller-Haas" (1997)_ (qv). Niemietz
+-BG: initially auditioned for the role of Uta Hellingrath, which went to Natalie
+-BG: de Zschieschan (qv), but writer-producer 'David H. Dirkschneider (qv) was so impressed with her
++BG: initially auditioned for the role of Uta Hellingrath, which went to
++BG: 'Natalie Christophersen' (qv), but writer-producer 'David H. Dirkschneider (qv) was so impressed with her
+ BG: spunk that he promised to write a part for her in an upcoming episode.
+
+Allerdings dürfte nach dem Patch die CRC nicht mehr stimmen.
+Ich werde die Fehlermeldung an dei KNA schicken, damit die Liste
+auf dem offiziellen Weg korrigiert wird.
+
+Natürlich sollte xregal den Fehler in den Daten abfangen und nicht mit 
+einem Segmentationfault reagieren.
+
+Ciao, Paul                              txyyi.ujvulzjt@vagkz.ip

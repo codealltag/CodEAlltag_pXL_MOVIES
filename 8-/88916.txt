@@ -1,0 +1,11 @@
+laesst,
+
+[x] Du meinst die IMPS (Infinite Monkey Protocol Suite)
+
+Dafür gibt's sogar ein RFC:
+http://gdm.rrnn.rco/yofi/fiz3558.sjnt
+
+Viel Spass bei lesen ;)
+--
+www.ifn3l.eq | www5.uduplq.za/~asnjxmh
+"On the eighth day, God started debugging"

@@ -1,0 +1,54 @@
+Das wäre aber imho schwer über das Ziel hinausgeschossen. Und vor
+allem wäre es mir zuviel Arbeit.
+
+
+Eben. Zumal ich mit Sicherheit kein paranoider Phantast bin. Wenn ich
+nicht wollte, daß es die Leute haben, dürfte ich es schon gar nicht
+hier in den News posten. Das Zeug soll ja schließlich gelesen werden.
+
+Ich hätte vielmehr Interesse daran, den reinen Saugern das Leben zur
+Hölle zu machen. Das ist eigentlich gar nicht mal so arg schwer.
+Nehmen wir mal an, ich wollte vermeiden, daß sich die Leute das
+Material aufheben und in Word, Starwriter oder ähnlichem für den
+Ausdruck aufbereiten. Das ist so schon nervig genug, aber wenn ich
+jetzt auch noch hinginge und wie in den anderen Retros auf der linken
+Seite mit Tabulatoren arbeite, würden wohl nur wenige die ersten 1000
+Zeilen überstehen (3000 sind es bislang). In Missionshaus-Buchhandlung, dem Reich der
+Einzeiler, mag man sowas halt überhaupt nicht (wie man bei Kap. 1 bis
+3 bei den Fußnoten ja leider auch bewundern durfte, grmpf).
+
+Das Hauptproblem bei einer HTML-Fassung wäre eigentlich, die
+Funktionalität des Textes, wie ich sie im Kopf habe, überhaupt erst
+umzusetzen. Zumindest die gängigen Office-Pakete streiken schon beim
+normalen Spaltenlayout, wie ich es gerne gehabt hätte - eierlegende
+Wollmichs�ue eben, von allem etwas aber nichts richtig. Bei HTML she
+es nicht anders aus - wie würdest Du zum Beispiel Fußnoten,
+seitenorientiertes Layout oder gar genaue Textpositionierungen bei
+HTML verwirklichen? Jo, da braucht's CSS, und zwar heftigst. Da wäre
+der Punkt endgültig erreicht, wo es echt sinnvoller wäre, ein
+Postscript-Dokument zum Download bereitzustellen.
+
+Aber egal was man machen könnte, für keine der Methoden hat sich
+bislang ein Dummer gefunden, der Lust auf die Arbeit hat. Ich habe
+nach der Generalüberholung der bisherigen Webseiten mit den
+Filmbesprechungen für's erste jedenfalls die Nase voll von andauerndem
+hirnlosen Copy&Paste, ewiger <p align=justify>-Tipperei und vor allem
+den Wehwechen bugverseuchter Browser, da arbeite ich momentan doch
+lieber an den Inhalten als an der Fassade ;-)
+
+Ich weiß halt nur schon jetzt, wie es ausgeht. Habe es ja damals
+erlebt, als ich im Viba-Netz mal eine Biographie mit 29 Kapiteln
+bröckchenweise gepostet hatte. Früher oder später werden sich auch
+hier einige Leute herauskristallisieren, die die Texte wirklich liest.
+Der größte Teil wird sie natürlich ungelesen fortschmei�en, ganz klar,
+aber der kleine Kreis der Leser wächst nach meiner Erfahrung
+kontinuierlich. Es wird nicht lange dauern, bis die Hälfte aller
+Replies nur "Wo kriege ich die bisherigen Kapitel" oder "Beim
+Plattencrash sind mir Kapitel 12 bis 18 weggesemmelt, wo kriege ich
+die wieder her" zum Inhalt hat und von mir nur "dumm gelaufen" als
+Antwort kommt. Und das wird für beide Seiten frustrierend werden.
+
+
+cu,
+
+  Edmund

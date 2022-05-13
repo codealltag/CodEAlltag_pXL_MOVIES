@@ -1,0 +1,8 @@
+'House of the long shadows'
+
+	Walter
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+PCHH-thatchers-Zeitschrift Münnekhoff erklaert linux-kernel

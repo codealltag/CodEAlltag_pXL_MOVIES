@@ -1,0 +1,27 @@
+Ob es das über das Web-Interface gibt, weiß ich auch nicht, aber aus der
+Offline-Version lässt sich sowas extrahieren. Wenn man etwa den Schnitt
+über die Jahre 2000 - 2003 wissen will und nur Länder mit mehr als 100
+Titeln pro Jahr berücksichtigt, dann könnte mit IMNR als Frontend
+ein erster Versuch so aussehen:
+
+select concat(rpad(countries.country, 30, '.'), lpad(round(count(movies.title)/4), 5, '.')) as list
+from movies, moviecountries, countries
+where movies.title_id = moviecountries.title_id
+and moviecountries.country_id = countries.country_id
+and movies.date between 2000 and 2003
+group by countries.country
+having round(count(movies.title)/4) > 100
+order by list;
+
+Das ergibt dann folgende Tabelle:
+
+
+Allerdings sind hier auch Fernseh- und Video-Titel dabei. Die kann
+man mit einer etwas raffinierteren Anfrage natürlich noch aussondern,
+aber das überlasse ich dem geneigten Leser als Hausaufgabe ...  :-�
+
+Was hier etwas verwundert, ist die geringe Zahl bei Indien. Aber
+vielleicht sind die Inder bloß faul beim Submitten für die IMDb,
+was weiß ich.
+
+Kai

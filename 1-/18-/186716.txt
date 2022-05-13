@@ -1,0 +1,81 @@
+Ich schlage vor, folgenden Text in xb.wqi.ekqvq einzubringen. Kommentare
+folgen in einem separaten Posting.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Subject: 1. RfD: de.alt.heimkino.misc
+
+Wir schlagen die Einrichtung der Gruppe
+
+	fs.nww.klguofew.etwy	Filmkunst im Wohnzimmer.    
+
+vor.
+
+Charta:
+=======
+
+Diese Gruppe wurde für jede Art von Diskussionen zum Thema Heimkino
+eingerichtet, insbesondere Laserdiscs, DVD-Videos und vorbespielte
+Videobänder sowie alle Geraete, die man zu deren Wiedergabe braucht.
+Technische Diskussionen, die für den interessierten Laien nicht mehr
+verständlich sind, gehören jedoch nach de.rec.tv.technik, Diskussionen,
+die sich nur mit dem Inhalt eines Films beschäftigen, sollten nach
+de.rec.film.misc umgeleitet werden.
+Wie üblich sind auch hier Markt-Postings nicht gestattet, jedoch werden
+private Angebote von gebrauchten Geräten und Datenträgern geduldet, wenn
+sie sich im Rahmen halten, da die Erfahrung zeigt, daß hieraus 
+interessante Diskussionen entstehen können.
+
+
+Begründung:
+===========
+
+(1) Warum eine eigene Gruppe?
+
+Ausreichernder Traffic zum Thema Heimkino ist insbesondere in 
+de.rec.film.misc zu beobachten. Laut <8552cu96.53509960@ytfu.ve-boeeri.hc>
+handelt es sich um wenigstens 28% der dort geposteten Artikel, andere
+Zählungen kommen zu ähnlichen Ergebnissen. Das Problem ist jedoch, daß 
+dieser vorhandene Traffic in keiner Gruppe wirklich zu Hause ist: In
+de.rec.film.misc ist der technische Aspekt von Heimkino fehl am Platz,
+in de.rec.tv.technik ist der inhaltliche Aspekt von Heimkino nicht
+richtig aufgehoben (Medien können dort nicht diskutiert werden) und 
+de.rec.tv.misc ist sehr stark auf Fernseh-Sendungen ausgerichtet. Die
+Heimkino-Freunde sitzen überall wenigstens halb vor der Tür, da sich die
+Diskussion von Inhalt und Technik in der Praxis oft nicht trennen lassen.
+
+
+(2) Warum der Gruppenname?
+
+Es ist abzusehen, daß der Traffic im Heimkino-Bereich anwachsen wird, da
+das Medium DVD nun auch in Europa gestartet ist. Daher wird sich wohl
+mittelfristig eine Aufspaltung der Gruppe als sinnvoll herausstellen.
+Um in diesem Fall keine Gruppenleiche zu erzeugen, soll die Hauptgruppe
+schon jetzt *.misc genannt werden.
+
+Die neue Heimkino-Hierarchie nicht nach *.tv.* oder *.film.* zu schieben
+war mehrheitlicher Wunsch in de.rec.film.misc.  Heimkino hat für die
+meisten Heimkino-Freunde sehr wenig mit Fernsehen zu tun, höchstens ein
+*.film.*-Einordnung scheint einigermaßen akzeptabel. Da es so eine
+Hierarchie jedoch in de.alt.* nicht gibt, ist diese Diskussion auch
+hinfällig.
+
+
+(3) Warum Verkaufspostings in der Gruppe?
+
+Verkaufspostings regen gelegentlich Diskussionen an, die ohne sie nicht 
+stattgefunden hätten. Außerdem ist hier auch die Nachfrage von Seiten 
+der Heimkino-Freunde gegeben, daß diese Verkaufspostings nicht in einer
+Markt-Gruppe verschwinden, so lange der Traffic nicht für eine separate
+Marktgruppe reicht. Ferner werden Markpostings im Heimkino-Bereich lange
+nicht so schnell obsolet wie die Mehrheit der Postings nach uc.hfdnd.*.
+Daher ist das Haltezeit-Argument in diesem Fall hinfällig.
+
+
+Proponenten:
+============
+
+Ihno Samu Ekhoff		uoc@tmv.qsp
+Fabrice Zims               MCnxfbdzfxeb@w-jxicbs.sz
+Klaas Unsleber			Xciovvhfs@etqvfqeu.ibjh.bg
+
+... wer will noch in die Liste?

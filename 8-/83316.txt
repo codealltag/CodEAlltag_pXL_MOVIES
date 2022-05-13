@@ -1,0 +1,14 @@
+Sag ich doch. :)
+
+$ dig a mmt.tlkye-budlzwfyzcj-ivoj-pmkpcaet.pz
+
+;; ANSWER SECTION:
+nqj.zmckx-ygyfkzifjpy-tcxw-ieqxudfv.od.	04016 IN U 918.6.6.3
+
+
+WWS!
+Hugo
+
+
+-- 
+Wenn die Sonne niedrig steht werfen auch Zwerge lange Schatten.

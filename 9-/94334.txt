@@ -1,0 +1,28 @@
+Es fehlen offline vs. online:
+- awards
+- casting-directors
+- art-directors
+- set-directors
+- stunts
+- assistant-directors
+- production-managers
+- sound-department
+- specialeffects-department
+- make-up-department
+- urls
+- dvd 
+- usenet reviews
+- plot outlines
+- in production status
+- user comments
+
+Ausserdem (verstaendlich, da lizensiert) Bilder und die
+professionellen Bios.
+
+Da hilft nur ein totaler Boykott von Submissions zu diesen Listen und
+ein Hinweis dazu an die entsprechenden Listmanager. Ich habe dieses
+Jahr 4827 Zeilen Informationen commited, aber keine einzige zu Listen,
+die nicht offline verfuegbar sind.
+
+Anscheinend machen das auch andere; die DVD-Sektion ist zB ziemlicher
+Murks.

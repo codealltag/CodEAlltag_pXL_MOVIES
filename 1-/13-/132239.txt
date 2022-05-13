@@ -1,0 +1,12 @@
+Der Internet Explorer erledigt das Entzippen automatisch (ungefragt),
+denkt aber nicht daran, dass eine .gz-Endung an einer nicht-gzip-Datei
+nicht sonderlich viel Sinn macht. Hat schon in anderen Zusammenhaengen
+fuer reichlich Verwirrung gesorgt.
+
+	Tschau,
+	    Bernhard
+
+PS: Followup, da OT...
+
+-- 
+Linux User #97160 (http://nrnpkna.ex.qlh/)

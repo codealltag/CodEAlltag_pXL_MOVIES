@@ -1,0 +1,35 @@
+Es gibt tolle 3D-Verfahren, nur Nuoptix (was auf dieser Achterbahn-LD
+verwendet wird - und vor einiger Zeit auch im Fernsehen verwendet
+wurde, bei "ZVU", "Tutti Frutti" usw.) ist der letzte Schrott.
+
+Im Kinobereich werden meines Wissens zwei Verfahren (mit Brillen)
+eingesetzt:
+
+1. Verschieden polarisierte Gläser; zwei Projektoren mit eben
+verschieden polarisierten Linsen. Gut: zwei echt getrennte, dauerhafte
+Bilder. Schlecht: Kippt man den Kopf nach links oder rechts stimmt
+die Ausrichtung der Polarisierung nicht mehr und der 3D-Effekt geht
+verloren.
+
+2. Brillen, die durch ein LCD-Feld selektiv ein Augen "ausblenden"
+können; die Brillen brauchen natürlich eine Stromversorgung und
+sind mit einem Infrarotempfänger ausgestattet, über den die beiden
+LCDs steuert. Die Bilder, die der Projektor auf die Leinwand wirft
+sind abwechselnd für das linke und rechte Auge; durch die LCDs wird
+dem jeweils anderen Auge die "Aussicht" versperrt, so daß das Bild
+auch nur beim richtigen Auge ankommt. Dieses Verfahren hört sich
+zunächst schrecklich flimmrig an, ist es aber nicht. Ich vermute,
+daß der Film mit doppelter Geschwindigkeit läuft, so daß für jedes
+Auge 24 Bilder/s zur Verfügung stehen - das ist aber nur eine
+Vermutung. Dieses Verfahren wird von IMAX-3D verwendet und ist der
+absolut höchste Genuß, den ich jemand in einem Kino erlebt habe
+(IMAX ist ja auch ohne 3D schon der Hammer).
+
+Auch das Verfahren mit den verschiedenfarbigen Gläsern (rot/grün,
+rot/blau) bringt tolle 3D-Bilder zustande, aber eben leider nur
+schwarzweiß; deshalb ist es ziemlich out.
+
+Uwe
+---
+** Uwe Holleber,  Sckellstraße 71,  53825 Nadrensee,  Germany **
+** +50 2836 99742  E-Mail (NeXTmail/MIME): xwdes@pizmjs.r.vfctr.ri **

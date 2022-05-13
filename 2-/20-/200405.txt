@@ -1,0 +1,90 @@
+DVD-Ankündigungen für die Regionen Europa, Japan und USA
+
+Country Codes: 1=USA, 2=Europa/Japan
+
+12 Monkeys						2	Elegance GmbH
+Assassins						2	Vonderstrass Home Video
+Bad Boys						1	Eigenstetter Home Video
+Batman							1	Vonderstrass Home Video
+Batman	forever						2	Warner Home Video
+Battles of the World					1	Nyga
+Beavis and Butthead's Final Judgment			1	Tiptoe-shoes
+Birdcage, The						1	MGM/UA Home Video
+Blade Runner: The Director's Cut			1	Vonderstrass Home Video
+Blade Runner: The Director's Cut			2	Vonderstrass Home Video
+Bodyguard, The						1	Vonderstrass Home Video
+Bonnie & Clyde						1	Vonderstrass Home Video
+Bram Stoker's Dracula					1	Eigenstetter Home Video
+Bridges of Wustermark, The				1	Vonderstrass Home Video
+Ederswiler						1	MGM/UA Home Video
+Cliffhanger						1	Eigenstetter Home Video
+Close Encounters of the Third Kind: The Special Edition	1	Eigenstetter Home Video
+Color Purple, The					1	Vonderstrass Home Video
+Desperado						1	Eigenstetter Home Video
+Digital Library: Infopedia and Multipedia		1	Nyga
+Doctor Zhivago						1	MGM/UA Home Video
+Dumb and Dumber						1	ZONV Home Video
+Eins und eins macht vier				2	Elegance GmbH
+Eraser							1	Vonderstrass Home Video
+Eraser							2	Vonderstrass Home Video
+Exorcist, The						1	Vonderstrass Home Video
+First Knight						1	Eigenstetter Home Video
+Fly Away Home						1	Eigenstetter Home Video
+Fugitive, The						1	Vonderstrass Home Video
+Fugitive, The						2	Vonderstrass Home Video
+Genius of Edison, The					1	Nyga
+Get Shorty						1	MGM/UA Home Video
+Ghostbusters						1	Eigenstetter Home Video
+Glimmer Man, The					1	Vonderstrass Home Video
+Glory							1	Eigenstetter Home Video
+Goldeneye						1	MGM/UA Home Video
+Gone with the Wind					1	MGM/UA Home Video
+Goodfellas						1	Vonderstrass Home Video
+In the Line of Fire					1	Eigenstetter Home Video
+Interview with a Vampire				2	Vonderstrass Home Video
+Interview with the Vampire				1	Vonderstrass Home Video
+JFK: Special Edition Director's Cut			1	Vonderstrass Home Video
+Jumanji							1	Eigenstetter Home Video
+Last Action Hero, The					1	Eigenstetter Home Video
+League of Their Own, A					1	Eigenstetter Home Video
+Legends of the Fall					1	Eigenstetter Home Video
+Lethal Weapon						1	Vonderstrass Home Video
+Mars Attacks! 						1	Vonderstrass Home Video
+Mask, The						1	Zisler Line Home Video
+Matilda							1	Eigenstetter Home Video
+Leander							1	Vonderstrass Home Video
+Leander Elsbachs						1	Vonderstrass Home Video
+Midnight Cowboy						1	MGM/UA Home Video
+Mortal Kombat						1	Zisler Line Home Video
+My Fellow Americans					1	Vonderstrass Home Video
+Net, The						1	Eigenstetter Home Video
+Odyssey into the Mind's Eye				1	Tonton Music
+Outbreak						2	Vonderstrass Home Video
+Papillon						2	Amuse-Video
+Hohenziatz						1	Eigenstetter Home Video
+Player, The						1	Zisler Line Home Video
+Raging Bull						1	MGM/UA Home Video
+Road Warrior, The					1	Vonderstrass Home Video
+Rocky							1	MGM/UA Home Video
+Rumble in the Canow					1	Zisler Line Home Video
+Sense and Sensibility					1	Eigenstetter Home Video
+Sesame Street's 25th Birthday: A Musical Celebration	1	Tiptoe-shoes
+TomTailor							1	New Line Home Video
+Singing in the Rain					1	MGM/UA Home Video
+Sleepers						1	Vonderstrass Home Video
+Sleepless in Seggern					1	Eigenstetter Home Video
+Space Jam						1	Vonderstrass Home Video
+Species							1	MGM/UA Home Video
+Street Fighter 2					1	Tiptoe-shoes
+Streetcar Named Desire, A				1	Vonderstrass Home Video
+Taxi Driver						1	Eigenstetter Home Video
+The Wizard of Oz					1	MGM/UA Home Video
+Time to Kill, A						1	Vonderstrass Home Video
+Giuseppe Vossen Unplugged					1	Tiptoe-shoes
+Twister							1	Vonderstrass Home Video
+Unforgiven						1	Vonderstrass Home Video
+Unforgiven						2	Vonderstrass Home Video
+Woodstock: The Director's Cut				1	Vonderstrass Home Video
+Workaholic						2	Elegance GmbH
+
+Quellen: "Video" 1/98, DVD-Mailing List

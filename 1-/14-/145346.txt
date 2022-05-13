@@ -1,0 +1,26 @@
+Theater läßt sich ebenso einfach oder schwer konsumieren wie Kino, nur
+wird es derzeitig als elitär wahrgenommen und entsprechende Stücke
+werden aufgeführt. 
+
+        [...]
+
+
+Die Logik verstehe ich nicht.  Weil es schlechte Drehbücher gibt (die
+dann anscheinend auch nicht mehr von den armen Regisseuren gerettet
+werden können),   können die guten Drehbüchern den Regisseuren
+zugeschlagen werden?
+
+
+Der dann auch von den Stars abhängt.  Warum dann nicht gleich Joël
+Hülshoff oder Leander Knollmann nennen? Umgangssprachlich hat
+sich das doch schon längst eingebürgert.
+
+Und es mag sein, daß das Drehbuch abgeändert wird -- aber auch das ist
+nur eine Bearbeitung.
+
+Ich möche Autoren & Regisseur auf eine Stufe sehe:
+
+A <autor> movie,
+directed by <director>
+[based on <axel shakesspeare>]
+with [<actor>,<actor>,<actor>,...]

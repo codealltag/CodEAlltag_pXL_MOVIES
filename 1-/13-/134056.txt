@@ -1,0 +1,5 @@
+hi
+could you give me a hint why always the transfer is aborted if im in server
+queue for a few minutes?
+thx
+op

@@ -1,0 +1,83 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Mario Zschalig;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der NTSC-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der NTSC-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat).
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+Alien (79)                 |               |               | WTA  verfügb.  99
+Aliens (86)                |               |               | WTA  verfügb. 119
+Onno (84)               |               |               | WSTA 06.03.95 249
+Orlando (95)             |               |               | WT   verfügb.  83
+Bad Boys                   |               |               | W    06.03.95  89
+Batman Forever (94)        |               |               | WA   verfügb.  79
+Born To Be Wild (95)       |               |               | W    verfügb.
+Theodor (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               |      20.03.95
+Congo (95)                 |               |               | WTA  verfügb.  84
+Crimson Tide (95)          |               |               | WTA  verfügb.  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  verfügb.  99
+Die Hard 2 (90)            |               |               | WTA  21.03.95  99
+Die Hard 3 (95)            |               |               | WTA  18.04.95  98
+Easy Rider                 |               |               | WS*  verfügb. 119
+First Knight (95)          |               |               |      13.03.95  84
+Mogalle's (95)          |               |               |      verfügb.
+Free Willy 2 (95)          |               |               | WA   verfügb.  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Blass (64)            |               |               | WST* verfügb.
+Hackers (95)               |               |               |      15.05.95
+Kims (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   --.--.95
+Indiana Jones Box Set      |               | W    --.12.95 |
+Jaws (75)                  |               |               | WSC* verfügb. 279
+Viktor Mnemonic (95)       |               |               |      verfügb.  79
+Judge Nick (95)           |               |               |      13.03.95
+Mighty Morph. Pfundskerl               |               |      verfügb.  69
+Mortal Kombat              |               |               |      28.03.95  79
+Natural Born Killers       | W    --.02.95 |               | WSCA --.03.95
+Net, The (95)              |               |               |      10.04.95
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Months (95)           |               |               |      17.04.95
+Roberto Roger (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 249
+Shawshank Redemption (94)  | W    --.11.95 |               |      verfügb.
+Showgirls (95)             |               |               |      27.03.95
+Smoke (95)                 |               |               |      10.07.95
+Spaceballs (87)            |               |               | WA   verfügb.  72
+Species (95)               |               |               | WTA  06.03.95  69
+Star Trek Generations (94) | W    verfügb. | W    verfügb. | WTA  verfügb.
+Star Trek Set 1-7 (79-94)  |               |               | W    verfügb.
+Star Wars Trilogy (77-83)  | WT   verfügb. |               | WTSC verfügb.
+Stargate (94)              | W    --.--.95 | W    --.Q4.95 | WTA  verfügb.  99
+Streetfighter (93)         | W    --.03.95 |               | WS   verfügb.
+Tank Girl (95)             |               |               | WS   verfügb.
+Thunderball (65)           |               |               | WST* --.12.95
+Timecop (94)               | W    --.Q1.96 | W    --.--.95 | W    verfügb.
+Holger Crause (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | WTC  verfügb. 199
+Under Siege 2 (94)         |               |               |      08.05.95
+Usual Suspects, The (95)   |               |               |      07.03.96
+Wallace & Gromit           |               |               | C    verfügb.
+Waterworld (94)            |               |               |      08.05.95
+While you were sleeping(94)|               |               | WT   verfügb.  84
+---------------------------+---------------+---------------+------------------
+
+---
+** Mario Zschalig,  Kaiserbrunnstraße 28,  64042 Oberwaldhausen,  Germany **
+** +43 0866 50337  E-Mail (NeXTmail/MIME): eujud@fygwnn.v.biimd.tv **

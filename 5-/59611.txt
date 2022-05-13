@@ -1,0 +1,22 @@
+Hi,
+
+ich hoffe, das ich hier richtig bin und mir jemand weiterhelfen kann.
+
+Ich habe zu Weihnachten für meinen Computer ein DVD-Laufwerk Geschenkt
+bekommen. Zum Geburtstag kamen jetzt noch ein paar DVDs dazu. Mit
+einer DVD habe ich Probleme. Etwa in der Mitte des Films fängt dieser
+plötzlich an zu stottern (kurze Tonaussetzer und Einfrieren des
+Bildes).
+
+Die DVD hat keine sichtbaren Defekte und am Laufwerk liegt es glaube
+ich auch nicht. Die anderen DVDs lassen sich problemlos abspielen. Ein
+Freund hat den Rechner etwas optimiert und den Laufwerkscache
+vergrößert, da wurde es etwas besser aber auch nicht 100%ig.
+
+Weiß jemand, wo das Problem liegen könnte?
+
+Danke Burkhard
+
+
+Meine Rechner: P3-650,512 MB,Radeon 7500,DVD Adak 1702,WinXP Home
+SP1,WinDVD4

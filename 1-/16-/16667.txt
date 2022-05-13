@@ -1,0 +1,20 @@
+Das ist mir schon bekannt, bin auch nicht mehr ganz neu im Kornatz, das
+Posting des OPs war zwar nicht ganz ernst, aber zumindest aus meiner
+Sicht kein rumtrollen.
+
+Aber mir kommt gerade eine Idee:
+Wenn man sich ein Skript bastelt, was alle News-Beiträge über einen
+Bayes-Filter kontrolliert, und diesen Filter mit Trollpostings
+füttert, könnte man auch Zitate der Trolle erwischen.
+Das Füttern kann über ein Killfile erfolgen, das alle Beiträge von
+Trollen dem Filter zum Training gibt. 
+Hm, ich hab ein Projekt für den nächsten Urlaub.
+
+
+MFG, Carlos
+
+
+-- 
+Five exclamation marks, the sure sign of an insane mind.
+
+Carl Hoffner: Reaper Man

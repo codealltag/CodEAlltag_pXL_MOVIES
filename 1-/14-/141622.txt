@@ -1,0 +1,6 @@
+On Fri, 05 Jun 2000 15:45:31 +0200, Bruno Plank
+
+Das habe ich schon versucht. Ich bin bis zum 15.05. zurückgegangen,
+aber es kommt immer wieder die Fehlermeldung "Wrong Diffs".
+Laut checkcrc.exe sind meine list-Dateien auch alle vom 28.05. Die
+DIFFs müssten also die Passenden sein.

@@ -1,0 +1,37 @@
+Hallo Carlos,
+
+
+Heiner! Allerdings setzt ein Savepoint vorraus, daß bestimmte Parameter 
+zurückgesetzt werden. Das Programm "Freundin" lässt solche Änderungen 
+gar nicht zu. Schlimmer noch: Es ist nicht möglich, ein bereits in der 
+Registry gespeichertes Datum zu löschen: Was das Programm einmal 
+gespeichert hat, bleibt bis zur totalen Formatierung des Systems 
+erhalten. In unregelmäßigen Abständen sorgen diese Daten dafür, daß 
+"Nachtragend Professional 55.3" gestartet wird (im günstigeren Fall 
+"Vorhaltungen für Fortgeschrittene", das so lustige Audio-Files wie "Du 
+schläfst ja sogar beim Sex ein!" abspielt. Erst wenn man ein lustiges 
+Ratespiel durchgestanden hat, erfährt man, daß man wohl vor ein paar 
+Jahren in der Sylvesternacht stockbesoffen einen Systemabsturz hatte).
+
+
+Am meisten nervt mich, wenn die KI mit Standardantworten wie "Ich weiß 
+nicht!" reagiert. Noch schlimmer sind Phrasen wie "Du weit genau, was 
+los ist!", weil die Hardware bei Auswahl dieser Antwortoption einen Bug 
+zu haben scheint, der sich darin äußert, daß das unausgereifte Modell 
+jegliche Interaktion mit dem Spieler einstellt. Manchmal hilft dann der 
+Einsatz von "Blumen 1.0" oder "Data Thebuss' 'Entschuldigungen für 
+vollkommen Ahnungslose'". Richtig schlimm wird es allerdings erst, wenn 
+das OS sich durch unsachgemäße Behandlung von Vorbesitzern den Virus 
+"Neurose 4.x" eingefangen hat.
+
+
+Klar. Die Antwort war jedoch ziemlich kryptisch: "Was willst Du von 
+einer Rippe schon erwarten?"
+
+Größe
+Albert
+-- 
+When there's no more room in hell the dead will surf the web
+http://huhme.fghuoot.dm/ctpsfdn
+Home of the "dagwars"
+"Jugendschutz und Zensur" - (fast) alle Fragen geklärt

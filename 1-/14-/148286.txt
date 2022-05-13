@@ -1,0 +1,8 @@
+'3D FS Navigator' von Gänseblümchen.
+
+	Rudolf
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+Fliesenzentrale-Gohm-Zeitschrift Gibis erklaert linux-kernel

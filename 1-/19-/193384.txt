@@ -1,0 +1,6 @@
+Der Film ist 129 Minuten lang, das passt beim besten Willen nicht auf
+2 Seiten NTSC LD. PAL bietet fast 5 Minuten mehr pro Seite (insgesamt 64)
+Ausserdem ist der Film nach 4% speedup von 24 auf 25 Frames nur noch
+124 Minuten lang, und das passt locker auf 2 Seiten PAL.
+
+-ullrich

@@ -1,0 +1,17 @@
+Da hat man bei Consumer-Billigequipment in Millionenstückzahlen bessere
+Karten. Denn da kann man Spezialhardware verwenden und Verschlüsselung
+und Videodekompresion in einen Chip integrieren. Wenn man nur ein paar
+tausend Stück pro Jahr verkauft, ist die Entwicklung von ASSPs unbezahlbar.
+Also muß man auf eine Softwarelösung zurückgreifen. Dabei lassen sich
+gerade die in der Cryptographie häufig verwendeten Operationen besonders
+effizient auf Hardware abbilden.
+
+
+Nicht, wenn man die Videodaten über Satelit an alle Kinos (und Hacker)
+gleichzeitig sendet. 
+
+
+Das würde bedeuten, dass die Kinos die Projektion komplett einer Fremdfirma 
+überlassen, auf die sie keinen Einfluss haben. Ob dass durchzusetzten ist?
+
+Ciao, Pknaj                        nqdhlmep@cjzugjcp.qs

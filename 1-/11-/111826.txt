@@ -1,0 +1,9 @@
+Siehste. Haste wenigstens etwas bekommen. Noch nicht gekauft? Sollte
+knappe 20 EUR kosten.
+
+Benedikt
+-- 
+Ein Scorefile ist eine Datei mit Regeln, die es einem Newsleser er-
+laubt, Postings mit bestimmten Bewertungen zu versehen. Der Newsreader
+kann dann die Artikel in einer Newsgroup nach ihrer Bewertung
+sortieren und so dem Leser die wichtigsten Postings zuerst vorlegen.

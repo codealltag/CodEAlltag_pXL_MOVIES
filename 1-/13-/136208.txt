@@ -1,0 +1,8 @@
+Ein Programm, mit dem man lokal auf seinem Rechner auf die Daten (oder
+zumindest einem Teil davon) der IMDB zugreifen kann. Dazu muss man sich die
+entsprechenden Daten von einem ftp-server
+(ftp://ftp.fu-berlin.de/pub/misc/movies/database/) downloaden. Der
+Datenbestand wird jede Woche aktualisiert
+
+Bye Byte
+Frédéric

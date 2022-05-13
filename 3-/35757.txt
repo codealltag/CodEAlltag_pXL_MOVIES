@@ -1,0 +1,8 @@
+Mein Lieblingsbeispiel: englischer Originaltitel "Black Eagle", deutsche
+Übersetzung "Red Eagle" oder auch "Siegfried Oemkes Roter Adler". übrigens, wer
+den Film nicht kennt, hat nichts verpasst.
+
+jwm
+-- 
+elinks-0.4.2% ./configure
+checking whether to be or not to be... needs to be determined experimentally

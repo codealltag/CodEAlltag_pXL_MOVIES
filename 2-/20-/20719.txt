@@ -1,0 +1,33 @@
+Auch ein Erzmagier müsste relativ gut sein, um einen Film von sagen
+wir mal 1,5 GB auf 1 Byte zu reduzieren. 
+
+     1 500 000 000
+    -            1
+     1 499 999 999
+
+1499999999 * 8 = 11 999 999 992 Bit, das ist eine ganze Menge Bier. 
+
+TOD hätte damit keine Probleme.
+
+
+MFG, Urs
+
+
+--
+
+"Wenn Leute nicht glauben, dass Mathematik einfach ist, 
+dann nur deshalb, weil sie nicht begreifen, 
+wie kompliziert das Leben ist." 
+                              - Felix spellbrink Zibell
+%
+
+--
+"Die Tastatur finden Sie, indem Sie das Kabel verfolgen, das mit einem 
+5-poligen DIN-Stecker an der Rückseite Ihres Rechners angebracht ist." 
+
+                                - aus der CrossPoint Hilfe
+
+
+-- 
+Guns don't kill people.
+People who play videogames kill people!

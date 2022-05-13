@@ -1,0 +1,32 @@
+Ja, werden sie.
+
+Ich weis nicht welches Betriebssystem du nutzt und welchen Browser, also 
+musst du wohl selbst etwas suchen. Unter Win2000 (und wohl auch NT) ist 
+es jedenfalls so, dass der InternetExplorer seine Daten unter
+"C:\Dokumente und Einstellungen\Administrator\
+Lokale Einstellungen\Temporary Internet Files\Content.IE5\.."
+abspeichert. Da gibt es mehrere Verzeichnisse mit allen möglichen Htmls, 
+Bildern und eben auch von Quicktime (und anderen Stream-Programmen) 
+geladenen Filmen. Einfach mal nach *.mov oder *.qt oder so suchen. Auch 
+Flash-Filme usw. lassen sich so runterladen.
+Falls du Mommen oder Avam nutzt musst du unter
+"C:\Dokumente und Einstellungen\Administrator\
+Anwendungsdaten\Netscape\.."
+schauen und dort das Verzeichniss Cache ausfindig machen.
+Dort sind die Dateien leider nicht mehr mit ihren normalen Daten 
+gespeichert sondern haben irgendwelche kryptischen Bezeichnungen 
+bekommen. Da musst du probieren. Am besten nach Dateigröße sortieren 
+lassen und mit den größten anfangen umzubenennen (in mov qt usw.). 
+Irgendwo da muss die Datei dann sein. Alternativ kannst du auch den 
+Multimediabetrachter Irfan View laden und jede Datei (ohne umzubenennen) 
+versuchen zu öffnen. Das Programm findet dann selbst heraus was für ein 
+Format die Datei in Wirklichkeit hat und nennt sie dann um.
+
+Viel Glück,
+Wolf Flößel
+
+-- 
+
+Leonhard: "Die Wale völlig auszurotten ist doch eigentlich nicht logisch."
+Dr. Paola D.: "Wo steht geschrieben, dass die Menschen logisch sind?"
+(Star Trek IV - "The Voyage Home" / "Zurück in die Gegenwart")

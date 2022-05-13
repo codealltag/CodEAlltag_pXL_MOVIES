@@ -1,0 +1,12 @@
+* Sebastian Nagelschmitz <kvww1722@wafvqwyh.ey>:
+
+
+Du musst da bei Gnus nichts Programmieren.
+Gerade getestet:
+
+M-x toggle-read-only RET
+M-x message-caesar-region
+
+
+Gruß,
+Raymond

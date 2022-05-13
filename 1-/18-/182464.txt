@@ -1,0 +1,20 @@
+In article <65IE50I9.5073D7WV@qsvhmdi.ax.oizie.ew>,
+Oh je.
+Jetzt musst Du erst mal zeigen, dass fuer eine Materiewelle (das ist ja nu kein
+Licht) ueberhaupt gilt, dass die Ausbreitungsgeschwindigkeit (was immer das 
+sein soll) mit zunehmender Materiedichte abnimmt.
+Korrekter muesstest Du die quantenmechanische Wechselwirkung zwischen der
+Zustandsfunktion des Kometen und deiner Staubwolke ausrechnen.
+
+Letztlich kannst Du Dir das alles sparen. Fuer Teilchen deren Masse gross
+gegen das Plancksche Wirkungsquantum ist (also praktisch alles was schwerer
+als ein Atom ist) ist die klassische (u.U. relativistische) Mechanik 
+schon richtig.
+
+Das einzige was von Deiner Idee uebrigbleibt: wenn man den Kometen sehr weit
+weg von der Erde aus der Bahn ablenkt, dann genuegt eine kleine Korrektur
+(aber auch nur wenn man die Bahn und das Zusammentreffen ueberhaupt so genau
+ausrechnen kann...)
+
+Ben
+.

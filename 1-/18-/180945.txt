@@ -1,0 +1,39 @@
+Hallo,
+
+
+Zwei Leute haben berichtet, dass es im Cinemaxx Buschmühl diese
+Ausfaelle gebe. Es waere interessant zu wissen, ob es in anderen
+Kinos, die den Film auch in DTS spielen, auch diese Ausfaelle
+gab.
+
+
+DTS-Ton faellt aus, wenn
+1. das Lesegeraet verschmutzt ist oder
+2. die Timecode-Spur verschmutzt oder defekt ist.
+
+Ich erinnere mich, dass es vor ein paar Monaten - den Film
+weiss ich nicht mehr - schon mal eine Kopie gab, deren
+DTS-Spur richtig kaputt war. Wenn man sie auf dem Film an 
+den Problemstellen angeschaut hat, sah man, dass sie ploetzlich
+duenner wurde, dann ganz verschwand und irgendwo ein paar Meter
+spaeter wieder auftauchte.
+
+
+Der Timecode beschreibt die Stelle auf der CD, an der der Ton
+zum Film gespeichert ist. Wenn man also z.B. 5 min des Filmes
+herausschneidet und woanders wieder einfuegt, dann stimmt
+der Ton trotzdem dauerhaft mit dem Bild ueberein.
+
+Gespeichert ist der Code, der wie Morsecode aussieht, auf der 
+linken Seite des Filmes, zwischen Lichtton und Bild.
+
+Weitere Infos zum Thema finden sich uebrigens hier:
+http://xdgh.m.qprfj.pj/tc/su_lpj_dna.fmkm (Vorsicht: Grosse Bilder!)
+
+Gruss
+  Thorsten
+-- 
+=================================================================
+Thorsten Auberlen
+E-Mail: jdykq.skvlnl@orspscs.uzq-eevkdrdqz.gr
+Homepage: http://zypmav.wev.uxp-rtzztahcw.sf/~hyv41754/xkct.ysvo

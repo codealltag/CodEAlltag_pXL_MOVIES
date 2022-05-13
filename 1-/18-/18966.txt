@@ -1,0 +1,61 @@
+:eek
+
+:)  	Lch
+:D 	Großes Grinsen 	Großes Grinsen
+;) 	Wink 	Wink
+:p 	Zunge rausteckend 	Zunge rausteckend
+:( 	Frown 	Frown
+:cool 	Cool 	Cool
+:lol 	LoL 	LoL
+:rolleyes 	Augen rollen 	Augen rollen
+:mad 	Böse 	Böse
+:freak2 	Freak 	Freak
+:freak 	Freak 	Freak
+:evillol 	Evil lol 	Evil lol
+:king 	König 	König
+:o 	Erstaunt 	Erstaunt
+:eek: 	EEK! 	EEK!
+:confused 	Verwirrt 	Verwirrt
+:hammer 	Hammer 	Hammer
+:skull 	Totenkopf 	Totenkopf
+:stacheln 	Aufstacheln 	Aufstacheln
+:schluck 	Anstoßen 	Anstoßen
+:sauer 	Sauer 	Sauer
+:daumen 	Daumen hoch 	Daumen hoch
+:heul 	Heul 	Heul
+:cheerlead 	Cheerleading 	Cheerleading
+:smokin 	Smokin 	Smokin
+:kuss 	Kuss 	Kuss
+:heilig 	Heilig 	Heilig
+:jumpin 	Jumpin 	Jumpin
+:zunge 	Zunge 	Zunge
+:bussi 	Bussi 	Bussi
+:streichel 	Streicheln 	Streicheln
+:PCangry 	Sauer auf den Computer 	Sauer auf den Computer
+:stock 	Stock 	Stock
+:alien 	Alien 	Alien
+:love 	Liebe 	Liebe
+:vernasche 	Vernaschen 	Vernaschen
+:frech 	Frech 	Frech
+:baby 	Baby 	Baby
+:grr 	Grrrr 	Grrrr
+:affe 	Monkey 	Monkey
+:streiten 	Streiten 	Streiten
+:sex 	Sex 	Sex
+:kotz 	Kotzen 	Kotzen
+:verwandlu 	Verwandlung 	Verwandlung
+:headshot 	Kopfschuss 	Kopfschuss
+:volllol 	Voll lol 	Voll lol
+:heuldoch 	Heul doch 	Heul doch
+:watt 	Wie jetzt 	Wie jetzt
+:n8 	Gute Nacht 	Gute Nacht
+:schaf 	Schaf 	Schaf
+:mussweg 	Ich muss weg! 	Ich muss weg!
+:utxloc 	UT Xloc 	UT Xloc
+:utenforce 	UT Enforcer 	UT Enforcer
+:utripper 	UT Ripperwhore 	UT Ripperwhore
+:utmachine 	UT Machinegun 	UT Machinegun
+:utplasma 	UT Plasmawhore 	UT Plasmawhore
+:utglob 	UT Globwhore 	UT Globwhore
+:utflack 	UT Flackwhore 	UT Flackwhore
+:utrocket 	UT Rocketwhore 	UT Rocketwhore

@@ -1,0 +1,28 @@
+On Sun, 16. 04. 23 12:08:35 GMT, Helmuth Oetgens
+
+Der Recorder sucht sich automatisch die Einstellung mit dem höchsten
+Signalpegel. Bei Hifi-Recordern wird dazu üblicherweise das Audio-
+signal herangezogen, da dieses die höheren Frequenzanteile aufweist,
+und damit kritischer ist.
+
+
+Die beiden Kanäle werden per Frequenzmodulation auf zwei Träger modu-
+liert, und dann mit auf die Schrägspur aufgebracht. Dazu befinden sich
+auf der Kopftrommel zwei eigene Köpfe mit einem anderen Neigungs-
+winkel, um die gegenseitige Beeinflussung von Video- und Audiospur zu
+minimieren.
+
+
+Auf der Randspur ist grundsätzlich nur Mono-Ton. Recorder, die nur
+diese Spur abtasten können, sind immer Mono-Recorder. Stereorecorder
+nehmen den Ton in der Tat auch nochmal dort auf, um die Kompatiblität
+zu wahren.
+
+
+Simultan.
+
+
+Das muß ein Problem der konkreten Aufnahme sein.
+
+
+Heribert

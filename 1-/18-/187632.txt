@@ -1,0 +1,5 @@
+Lade dir von ftp://ftp.fu-berlin.de/pub/misc/movies/database/ die
+Datei jkkryo-qrr-fptnzi.voux.nl herunter. Das stehen eine ganze Menge
+Title drin.
+
+Pierre

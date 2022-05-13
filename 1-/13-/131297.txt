@@ -1,0 +1,25 @@
+Sowas habe ich mal was gemacht.
+
+% cat `find projekte/imdb2html -iname "*.pl" `  | wc -l
+   3586
+
+Ich habe ziemlich viel Code programmiert und habe die Datenbank mit
+Hashfiles simuliert. Der Code war nicht besonders schnell (P200), aber
+das fertige Programm ließ sich sehen. Nachteile:
+
+- der Code ist lange nicht mehr gepflegt worden.
+- keine SQL Unterstützung.
+- es hat nur(!) ein HTML-Interface. Das Problem daran ist, daß das GKE
+  Team mir die Weiterverbreitung verboten hat, weil dann jeder einen
+  GKE Server aufmachen könnte und dieser Wildwuchs ist unerwünscht.
+
+(Projekt wurde dann dank Flatline auch eingestellt.)
+
+
+Das Problem ist, daß das Einlesen wirklich lange dauert, weil die
+Listfiles ja auch immer länger werden. Perl ist zwar gut und sehr
+mächtig, was dieses Stringgeschichten angeht, aber so *richtig* schnell
+ist es nicht.
+
+-- 
+So long... Fuzz

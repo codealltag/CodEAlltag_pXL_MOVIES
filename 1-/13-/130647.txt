@@ -1,0 +1,44 @@
+Ein paar...
+
+1. Das Publikum macht 30% des Filmes aus.
+2. Die bauliche Lage des Kinos macht weitere 20% aus.
+3. Die am Kiosk verkauften Snacks machen 50% aus.
+4. Deine Freunde machen die restlichen 90% aus.
+
+Daraus folgt:
+1. Geh nie an den folgenden Tagen ins Kino: Freitag, Samstag, Sonntag,
+Montag, Dienstag, Donnerstag, da dort mit fortschreitender Tageszeit die
+Zahl der Pointenverrater, Lautsprecher, Mobiltelefonierer und
+Filmnichtversteher exponentiell ansteigt.
+
+2. Geh nie in ein Kino, das über einer Diskothek gebaut worden ist
+(Wenn, wie gestern bei meinem Besuch von "2001" geschehen, während der
+vielen lautlosen Szenen die wummernden Vengaboys-Bässe aus der
+untenliegenden Disco zu hören sind, nimmt das dem Film irgendwie etwas
+von seinem Reiz).
+
+3. Wenn jemand neben dir Popcorn isst und blubbernde Softdrinks
+schlürft, führe folgenden Algorithmus aus:
+
+begin
+a := Wert der Kleider des Nachbarn;
+b := Muskeln des Nachbarn;
+c := Güte des Films
+if (a+b) > c then umsetzen("Auf diesem Platz gibt es schlechtes Karma")
+else rempeln("Meine motorischen Störungen sind unkontrollierbar");
+end
+
+4. Menschenfeinde und passionierte Knoblauchesser müssen so glücklich
+sein: keine Freunde, die "Fight Club" schlecht finden, keine
+Freundinnen, die "An der blauen Donau" in "2001" zum Lachen finden (der
+gestrige Besuch war eher traumatisierend...), keine Kumpels, die einem
+Schrottfilme empfehlen, keine Kameraden, die "Saving Private Ryan" und
+den unsäglichen "Stalingrad" "The Thin Red Line" vorziehen, keine
+Kommilitonen, die "Tron" vergöttern und für Videoabende "Stigmata" und
+"Haunted Hill" ausleihen... ach ja :)
+
+Größe,
+Theo
+-- 
+"E-mail is for geeks and pedophiles." (Philipp Fritzke)
+++ http://yzb.a-ofam.ms/kxqxpwiih/as_dtwlx/ ++

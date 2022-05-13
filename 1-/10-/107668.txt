@@ -1,0 +1,19 @@
+Zur Erklärung:
+Situation: man sieht auf einen Display einen Punkt blinken.
+Also Lock im Sinne von "lock on target" auf Deutsch käme dem ICD 
+"Ziel erfasst" oder "ich habe eine Peilung"  am nächsten. Ein
+einfaches "ich habe ihn" wäre auch OK gewesen. 
+Aber "Ich habe ein Schloß" ? Was soll das heißen ? 
+Ich bin Burgbesitzer ? Ich habe ein Vorhängeschloß dabei ?
+Absolut sinnlos.
+Das meinte ich. Schloß hat im deutschen 2 Bedeutungen und beide sind
+unpassend. Hier wurde einfach jedes Wort einzeln im Duden
+nachgeschlagen. Und so eine Arbeitsweise als synchronisieren zu
+bezeichnen ist etwa so als würde ich als Programmierer arbeiten wollen
+weil ich mal ein 64er Listing abgetippt habe.
+
+Menschen machen Fehler, und in der wochenlangen Arbeit einer
+Filmsynchronisation sind wohl zwangsläufig immer Fehler, aber manchmal
+greift man sich einfach an den Kopp.
+
+Frerich

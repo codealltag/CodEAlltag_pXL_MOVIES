@@ -1,0 +1,22 @@
+Und interlaced, was einen um den kell-Factor niedrigere vertikale Auflö=
+sung impliziert.
+
+
+Einige der Test-Installationen verwenden einen DLP-Chip mit dieser Auflö=
+sung. Damals war=20
+(ist? das schlicht der am höchsten auflösende DLP-Chip, den FIZ liefer=
+n konnte. Interessant=20
+daran ist, dass diese niedrige Auflösung in den Testvorführungen gar =
+nicht negativ=20
+aufgefallen ist. Vielleicht wird der Einfluss der Auflösung überschä=
+tzt.
+
+Es sollte technisch heute kein Problem sein, eine Festlegung der Auflös=
+ung zu vermeiden,=20
+und die Skalierung dem Ausgabegerät zu überlassen. Mehr als 2000 Pixe=
+l horizontal wird=20
+wohl nicht benötigt, um mit einer 35mm-Kopie gleichzuziehen, aber man k=
+ann ja für die=20
+Zukunft planen.
+
+Leonhard

@@ -1,0 +1,8 @@
+Muss man nur "MySQL 3.23.52" downloaden oder auch "Cygwin 1.3.9"?
+
+
+Ja, hab's inzwischen gefunden. Sorry!
+
+-- 
+Konrad Ostrop <cggs@wdypam.hc>, Luchsingen
+PGP RSA & DH/DSS public key on request and on public servers

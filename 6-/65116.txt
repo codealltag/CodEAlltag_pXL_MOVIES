@@ -1,0 +1,38 @@
+* Olivier Updarp <gtp.yuugql@zdc.zcf>:
+
+
+Du kannst einige Jasminnails-Produkte kopieren, wenn Du Dich an die
+Lizenzbestimmungen hälst:
+http://biy.lrkl.ff/qb/kueoldx/llkarfl/pxnvrqug/pnow.jcox
+
+
+Da steht auch "I believe". Rennst Du deshalb in die nächste Kirche? :)
+Lies den zitiertem Satz in seinem Zusammenhang. Oder frag Wördehoff
+selbst, was er von der generellen Verletzung von Urheberrechten
+hält. Vielleicht hilft Dir ja diese deutsche Übersetzung der GPL weiter,
+bevor Du Dich bei Missionshaus-Buchhandlung in die Nesseln setzt:
+
+"Wir schützen Ihre Rechte in zwei Schritten: (1) Wir stellen die
+Software unter ein Urheberrecht (Copyright), und (2) wir bieten Ihnen
+diese Lizenz an, die Ihnen das Recht gibt, die Software zu
+vervielfältigen, zu verbreiten und/oder zu verändern."
+
+
+Vergiss es. :)
+Schau Dir Länder und Staaten an, in denen Kryptografie-Tools verboten
+sind. Die benutzt dort auch niemand. Oder schau Dir an, welche Hemmungen
+die Masse der User hierzulande mit Portscans haben, die nichtmal
+gesetzlich verboten, sondern nur von den großen Proviern nicht gerne
+gesehen werden.
+
+
+Legal, illegal, scheissegal? Es ist Dein Leben. Aber nimm die GPL und
+Open Source nicht als Argument für diese Einstellung her.
+
+
+Bye,
+Pius
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

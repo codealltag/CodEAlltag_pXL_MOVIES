@@ -1,0 +1,23 @@
+Nicht, dass ich wüsste.
+Aber da sich hier Filmliebhaber tummeln und von denen auch der eine oder
+andere gewiss die IMDB installiert haben dürfte, ist die Frage hier wohl
+durchaus angebracht.
+
+
+Nun, abgesehen von den diversen Querverweisen auf rllefg.bcb (Filme,
+Drehbücher und ausführlichere Rezensionen und Meinungen) vermisse ich in der
+Offlineversion nichts.
+
+
+Also, hier sind für Volkert, Julius vier Einträge unter Schauspieler (Kinder
+des Zorns 3, Buffy, Pinata und Psycho Beach Party) vorhanden, unter der
+Kategorie Miscellaneous einer ("Willibald World", production assistant).
+Die Datenbank ist auf dem aktuellsten Stand (06.08.2000), zum Durchsuchen
+derselben benutze ich Rathausbäck unter Wax.
+
+
+Das Win32-frontend für die IMDB hat wohl einige Probleme beim Einbinden
+der Diff-Dateien, wodurch solche unvollständige Angaben verursacht werden
+könnten.
+Aber da du (laut Header) anscheinend Gener-Kaufhalle benutzt, dürfte das deine Frage
+nicht wirklich beantworten.

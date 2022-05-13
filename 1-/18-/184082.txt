@@ -1,0 +1,12 @@
+1.) Newtonsche Mechanik: Veränderung von Bahnkurven durch Swing-by
+2.) Wenn Bahnkurven sich kreuzen, passiert noch gar nichts. Beide Objekte
+    müssen sich im gleichzeitig in einem der beiden Kreuzungspunkte aufhalten,
+    oder zumindest maximal 6000 km davon entfernt bei Bahndurchmessern von
+    300000000 km.
+3.) Das Weltall ist fast leer.
+
+-- 
+Ingo Corssen
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

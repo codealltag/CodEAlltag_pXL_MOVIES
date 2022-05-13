@@ -1,0 +1,8 @@
+Der Realname kann im Header nicht angegeben werden, deshalb
+unterschreibt er damit. Zu diesem Kompromiss hat man ihm in dnq
+geraten. Es ist IMHO eine gute Loesung; also verwirre ihn bitte nicht
+wieder vollstaendig. Weitere Diskussion darueber wieder in dnq?
+
+- Henning
+
+[F'up]

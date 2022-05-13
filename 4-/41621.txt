@@ -1,0 +1,5 @@
+"-- " ohne die Anführungszeichen leitet die Signatur ein (das Leerzeichen
+ist wichtig), die selbst nicht länger als vier Zeilen sein sollte.
+
+Es folgen bestimmt noch ausführlichere Infos ;)
+Benedikt

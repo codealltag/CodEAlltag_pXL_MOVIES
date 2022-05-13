@@ -1,0 +1,9 @@
+"Francesco Stockerl" <tvid@imccbfye.cr> wrote:
+
+Kleiner Hinweis: Oelschläger hat sein Posting als "quoted-printable" 
+gekennzeichnet, was zur Folge hat, dass Dein OE keine Zitat-
+Zeichen ('>') einfügt. Das müsstest Du per Hand nachholen, um 
+seinen Text als Zitat kenntlich zu machen.
+
+Gruß,
+Mario

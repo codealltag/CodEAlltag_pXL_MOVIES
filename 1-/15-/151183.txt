@@ -1,0 +1,16 @@
+It was the Wed, 24 Jun 2000 22:11:59 +0100...
+
+Nicht unbedingt. "Größter anzunehmender Unfall" ist ein technischer
+Euphemismus, der ausdrückt: "Für soviel übernehmen wir die
+Verantwortung, was schlimmer ist, kriegen wir nur mit Gottes Hilfe
+gebacken, wenn überhaupt."
+
+Super-GAU heißt also elegant: "Das ist *so* schlimm, verlangt nicht
+von uns, dass wir das in den Griff kriegen."
+
+mawa
+-- 
+Level 3 - Network Layer
+    User has a major package that may make it to the distros in the
+future, or submits major context diffs for obscure kernel problems.
+                                                        -- John Fußangel

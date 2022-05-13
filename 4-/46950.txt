@@ -1,0 +1,11 @@
+Man muss es ja nicht als "Upload" definieren, sondern als zur
+Verfügung stellen von Netzinfratruktur, wie es ISPs auch mit
+Proxyservern machen. Die speichern da auch Urheberrechtlich
+geschütztes Material und verbreiten es an ihre Kunden weiter, um
+die Originalanbieter Trafficmäßig zu entlasten.
+
+Wieso ist das einem ISP erlaubt und einem Tauschbörsennutzer
+nicht?
+
+-- 
+Vittorio

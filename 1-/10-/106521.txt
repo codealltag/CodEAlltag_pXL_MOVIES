@@ -1,0 +1,10 @@
+[...]
+
+X-Newsreader: TIN [UNIX 1.3 unoff BETA 970709; sun4m SunOS 5.7]
+Hui.
+edit ~/.signature und ersetze "-----" durch "-- ", oder (zumindest bei
+nicht steinzeitlichen tins), loesche diese Zeile und aktiviere
+sigdashes=ON.
+
+fwq6 ngqa.
+                ku nelly

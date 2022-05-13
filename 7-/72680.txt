@@ -1,0 +1,15 @@
+Mit viel üben kann man vieleicht mit nem Akustik-Koppler ne Verbindung
+im 1000er Baud Bereich aushandeln (vieleicht auch mehr).
+Aber mit nem Handy, wo alles digital übertragen wird?!?
+Sprich: da entscheidet nicht eine Tonfolge über den Geb�hrtarif, geschweige
+denn das man von nem Clientteil diese Gebühr setzen kann.
+
+Merke: Nicht alles was fiept, piept und in der Sonne
+       funkelt ist dann auch kostenlos.
+
+Valerius
+
+P.S. Wobei Paranoiker und Leute mit gefährlichem Halbwissen sagen könnten:
+"Die Töne werden ja in bits umgewandelt und mit einem geschickten Buffer-Overflow
+wird aus den Daten der Programmcode, welcher an geschickt platzierter Stelle den Tarif
+vom Gerät ändert" Aber das mit nem Kaugummipapier machen???

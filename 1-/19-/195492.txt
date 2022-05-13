@@ -1,0 +1,28 @@
+Nabend Valerio,
+
+doaisobs@yzr.bjezsagkwn.civ-jjrdefmd.nb (Valerio Issel)  schrieb am 13.04.97 04:17
+in /DE/REC/FILM/MISC
+
+
+Ich habe es natuerlich auch auf meinem Gunnemann Fernseher getestet und ich  
+habe im Normalfall natuerlich die Helligkeit beim Projektor und Fernseher  
+mit DVD, LD, etc. so eingestellt, dass das schwarz auch wirklich schwarz  
+erscheint, das versteht sich von selbst.
+Wenn ich aber zum Testen den Helligkeitsregler am Fernseher aufreisse,  
+werden die schwarzen DVD Balken zu Grau. Wenn sie schon richtig mittelgrau  
+sind, sind die vom VL220 generierten Balken aber noch schwarz, somit kann  
+man doch mit Gewissheit sagen, dass die schwarzen Balken des VL220  
+"schwaerzer" sind als die "schwarzen" Balken eines DVD Players, somit der  
+dort generierte Schwarzwert heller sein muss, als ein absolutes Schwarz.  
+Wohlgemerkt, ich sage nicht, dass der VL220 ein echtes RGB taugliches  
+0,0,0 Signal zum Fernseher uebertraegt, nur, dass das Signal dunkler ist  
+als der Schwarzwert bei DVD.
+
+Ich weiss jetzt nicht so recht, was du mit der Test LD bezweckst, denn ich  
+sprach ausschliesslich von DVD und irgnoriere das jetzt einfach mal.
+Wenn du willst, kann ich aber gerne den VL220 mal an einen Lahrensmühle Player  
+haengen und auch dort das Schwarz ueberpruefen, kein Problem, ich bin  
+sicher, auch das ist nicht besser als bei DVD, denn DVD _ist_ dunkler als  
+LD, erst recht mit Macrovision Signal <g>
+
+MfG, Olivier

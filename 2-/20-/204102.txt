@@ -1,0 +1,5 @@
+Die Jahreszahlen in der IMDb geben das Jahr der ersten oeffentlichen
+Vorfuehrung ("first public screening") an, nicht das Produktionsjahr.
+
+Demnach sollte 1989 als Produktionsjahr stimmen, der Film wurde aber
+erst 1992 im Kino/TV gezeigt bzw. auf Video herausgebracht.

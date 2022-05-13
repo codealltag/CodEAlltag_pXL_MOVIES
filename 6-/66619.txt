@@ -1,0 +1,23 @@
+On Fri, 12 Sep 2003 16:25:54 +0100, Ivo Zschenker
+Darum stand da das Wörtchen "theoretisch". Man könnte wahrscheinlich
+sogar praktisch eine Schaltung bauen, die, von einer
+Taschenlampenbatterie geladen, einen _kurzen_ 1.21 GW-Impuls erzeugt.
+Wenn nicht, berufe ich mich auf "theoretisch".;-)
+
+
+Gefordert waren nur 1,21 GW. Wenn der Blitz auch mehr liefert, ist das
+für die Betrachtung IMHO unerheblich.
+
+
+Die Frage ist, wie hoch die Spannung sein muss. Wenn Samuel mit der
+Dampfmaschine der Lok einen Generator antreibt, wird die Spannung
+nicht so immens hoch sein. Andererseits, darf sie auch nicht zu
+niedrig sein, sonst bräuchte es ewig grosse Kondensatoren.
+AFAIR ist die passenden Formel E=1/2CxU^2 (bin aber nicht ganz
+sicher).
+Dann bräuchte es bei einem 380 Volt-Generator immerhin 400 Farad. Das
+ist nun nicht gerade wenig. Bei doppelter Spannung würden 100F
+reichen. 380V sollten für einen MP-Kondensator eigentlich kein Problem
+sein. Wie auch immer: Doc Zangs wird schon wissen was er tut.
+
+cu  gp

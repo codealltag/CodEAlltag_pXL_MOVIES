@@ -1,0 +1,30 @@
+Bei Video hast Du rotes, grünes und blaues Licht mit dem die Farbe
+gemischt wird. Wenn z.B. Rot und Grün leuchten, sieht das Resultat
+Gelb aus, wenn alle drei leuchten kommt Weiss heraus. Da Licht der
+drei Grundfarben addiert wird, spricht man von additiver Farbmischung.
+Besonders gut kann man das bei einem Farbfernseher sehen. Wenn man
+ganz nah an die Röhre dran geht, sieht man die Leuchtpunkte in den drei
+Grundfarben.
+
+Bei substraktiver Farbmischung hat man dagegen weisses Licht als
+Grundlage. Dort werden dann Filter verwendet, die das Licht einer
+bestimmten Farbe absorbieren (= vom weissen Licht substrahieren). 
+Das verbreitetste Beispiel ist der Vierfarbdruck. Hier werden 
+Farbstoffe verwendet, die jeweils eine der drei Grundfarben Rot, Grün
+und Blau absorbieren. Das übrigbleibende Licht ist dann Cyan bzw. Magenta
+oder Gelb. Wird Cyan und Magenta übereinander gedruckt, schluckt das Cyan
+rotes Licht und Magenta grünes Licht, so dass nur noch Blau übrig bleibt. 
+Beim Druck wird als vierte "Farbe" noch Schwarz verwendet um einen guten 
+Hell-Dunkel-Kontrast hinzubekommen.
+Moderner Farbfilm funktioniert ganz ähnlich. Es gibt verschiedene
+Farbschichten übereinander, die jeweils das Licht einer bestimmten 
+Farbe herausfiltern (oder eben nicht). Sind an einer Stelle alle Schichten
+durchlässig, kommt ad weisse Licht durch, sind alle Schichten für ihre
+jeweilige Farbe undurchlässig, bleibt das Bild schwarz. Allerdings werden 
+AFAIK beim modernen Farbfilm erheblich mehr als drei oder vier Farbschichten 
+verwendet um eine möglichst gute Farbwiedergabe zu bekommen.
+
+Ciao, Xaqmx                               pxzpbkzz@qtuvphvq.lz
+
+Zuletzt gesehen:
+Once Upon a Time in America, Das Jahr der ersten Küsse, Gi la testa

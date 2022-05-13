@@ -1,0 +1,52 @@
+Hallo,
+
+ich habe einen Film in zwei Sprachen
+(deutsch und ungarisch), aber im deutschen
+Audio-Track sind einige wenige Sekunden
+ungarisch. Beim Authoring habe ich gedacht,
+daß es eine gute Idee sei, zwei PCGs zu
+erstellen, eine mit dem gesamten Film, die
+andere soll nur den Teil enthalten, der
+wirklich deutsch ist.
+Folglich habe ich den Film in drei Teile
+zerschnitten:
+  part1.mpg (deutsch und ungarisch)
+  part2.mpg (ungarisch in beiden Tracks)
+  part3.mpg (deutsch und ungarisch)
+part2.mpg ist sehr klein, während part1.mpg
+und part3.mpg ziemlich groß sind. Ich habe mit
+Videredo framegenau geschnitten.
+
+Fürs Authoring verwende ich Zellbeck Pro
+PGC1 enthält alle drei Stücke, PGC2 nur
+part1.mpg und part3.mpg.
+Danach ersetze ich diese in DVDRemake durch
+ihre Gegenstücke in PGC1, damit jene Zellen
+wiederverwendet werden. Bis dahin ist es OK.
+
+Jetzt kommt mein Problem. Zellbeck zwingt mich
+zum Demuxen in Elementary Streams, wenn mehr
+als ein Audio-Track vorliegt. Anschließend
+remuxet es die Streams beim Kompilieren selbst
+wieder. Beim Abspielen ist jedoch der Übergang
+von part1.mpg zu part2.mpg und von part2.mpg
+zu part3.mpg alles andere als glatt.
+Möglicherweise geht die Audio/Video Synchronisation
+verloren, vielleicht fehlen auch einige Frames.
+
+Wie kann ich das verhindern? Gibt es irgendeine
+Authoring-Software, die gemuxte Dateien
+(Program-Streams) mit mehr als einem Audio-Track
+akzeptiert? (Wenn ich einen ac3 Audio-Stream habe,
+dann lehnt Zellbeck auch Program-Streams ab,
+aber dann nehme ich TDA, welches das akzeptiert
+und tausche die VOBs anschließend aus. Gibt es
+irgendeine Software, die so etwas mit zwei oder
+mehr Audio-Tracks kann?
+
+Irgendeine andere Idee? Muxen und wieder Demuxen
+mit NSW helfen auch nicht, es wird sogar
+schlechter, da ProjectX die letzten 3 (oder so)
+Frames verschluckt.
+
+TIA Alfons

@@ -1,0 +1,75 @@
+Ich sehe HDTV in weitere Ferne denn je. Die digitalen Verfahren werden IMHO
+eher dazu eingesetzt, zu Gunsten der Quantität die Qualität zu reduzieren
+(man sehe sich die 1...2 MBit/s-Kanäle von DF1 an).
+
+Auch bei der DVD-Einführung wurde nicht auf eine variable Bildauflösung
+geachtet. Ich sehe für die nächsten 10 Jahre eher, daß man auf Homecomputern
+3D-Graphiken mit Auflösungen weit jenseits der Fernsehaufl�sung huschen
+sieht als daß es Wege in Richtung HDTV geben wird.
+
+Für die Wiedergabe von HDTV benötigt man erst einmal hochauflösende Fernseh
+displays. Ein möglicher Zugang wäre die 100-Hz-Technik, die mit 31.25 kHz
+Zeilenfrequenz arbeitet. Neben dem 625-Zeilen 2*50 Hz-Modi wäre dort ein
+etwas flimmernder 1250-Zeilen-Modi mit 2*25 Hz oder was dazwischen, sagen
+wir mal 937 Zeilen mit 2*33.3 Hz möglich. In zweiter Generation wäre dann
+ein Erhöhen der Zeilenfrequenz möglich, dann müßten auch höher auflösende
+Bildröhren benutzt werden. High-End-Geräte würden dann auch 1250 Zeilen mit
+2*50 Hz darstellen, dabei wäre eine Zeilenfrequenz von 62.5 kHz
+erforderlich.
+
+Auf diese Art und Weise hätte man geringen Aufwand erst einmal HDTV-fähige
+Displays in größerer Stückzahl. Es nützt nichts Spezialfernseher für 10000
+DM herzustellen, die dann <0.1% der Nutzer haben, es gibt dann keinen
+Anreiz, Bildquellen für HDTV zu produzieren.
+
+Womit wir beim zweiten Problem sind, die Bildquellen. Als Quellen kommen
+sowohl Fernsehquellen wie auch Konserven in Frage. Wichtig wäre, daß die
+Bildgenerierungsger�te an die Fähigkeiten der Displays angepaßt werden
+können. Egal, ob 16:9, 4:3, 2*25 Hz, 2*30 Hz, 2*33.33 Hz oder 2*50 Hz, 15,6
+kHz, 31.2 kHz, 62.5 kHz: man stellt die möglichen Parameter ein und schließt
+das Display an, es wird das optimal mögliche Bild generiert.
+
+Die Digital-TV-Dekoder könnten so gebaut werden, daß sie neben 4:3, 15.6 kHz
+und 2*25 Hz auch andere Displays ansteuern können. Es wären keine zusätzli
+chen Geräte notwendig, diese Features hätte jedes Gerät, es ist durch
+Großserie für wenige DM Aufpreis produzierbar. Diese Standardgeräte brauchen
+ja nur die etwas erhöhten Auflösungen bearbeiten können (keine 62.5 kHz,
+16:9, 2*50 Hz). Was die Standausrüstung ist, würde vom Kunden und vom
+Fortschritt der Technik abhängen.
+
+Die Kodierung von TV-Kanälen und DVD Plus müßte so sein, daß man je nach
+geforderter Auflösung Bilder mit verschiedener Auflösung generieren kann.
+Leider ist das DVD-Form in keinster Weise in dieser Richtung vorbreitet. Die
+verwendete Kodierung ist für MIV-Verfahren ziemlich gut geeignet, daher ist
+dieser verfehlte Ansatz schade.
+
+Beispiel: Spielfilm in 16:9
+
+NTSC-Fernseher				=> 15.75 kHz, 2*30 Hz,  640x360 Pixel
+NTSC-Fernseher mit Bildstauchung	=> 15.75 kHz, 2*30 Hz,  848x480 Pixel
+mit 120 Hz-Technik			=> 31.5  kHz, 2*60 Hz,  640x360 Pixel
+					=> 31.5  kHz, 2*40 Hz,  960x540 Pixel
+					=> 31.5  kHz, 2*30 Hz, 1280x720 Pixel
+mit 120 Hz-Technik und Bildstauung	=> 31.5  kHz, 2*60 Hz,  640x480 Pixel
+					=> 31.5  kHz, 2*40 Hz,  960x720 Pixel
+					=> 31.5  kHz, 2*30 Hz, 1280x960 Pixel
+High-End-NTSC				=> 63    kHz, 2*60 Hz, 1280x720 Pixel
+mit Bildstauung				=> 63    kHz, 2*60 Hz, 1280x960 Pixel
+
+PAL-Fernseher				=> 15.62 kHz, 2*25 Hz,  768x432 Pixel
+PAL-Fernseher mit Bildstauchung		=> 15.62 kHz, 2*25 Hz, 1024x576 Pixel
+mit 100 Hz-Technik			=> 31.25 kHz, 2*50 Hz,  768x432 Pixel
+					=> 31.25 kHz, 2*33 Hz, 1152x648 Pixel
+					=> 31.25 kHz, 2*25 Hz, 1536x864 Pixel
+mit 100 Hz-Technik und Bildstauung	=> 31.25 kHz, 2*50 Hz,  768x576 Pixel
+					=> 31.25 kHz, 2*33 Hz, 1152x864 Pixel
+					=> 31.25 kHz, 2*25 Hz, 1536x1152 Pixel
+High-End-PAL				=> 62.5  kHz, 2*50 Hz, 1536x864 Pixel
+mit Bildstauung				=> 62.5  kHz, 2*50 Hz, 1536x1152 Pixel
+
+
+-- 
+Juan Dröscher
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

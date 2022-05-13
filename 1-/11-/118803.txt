@@ -1,0 +1,18 @@
+Hallo!
+
+
+Is auch hier so. Die fullscreen-zip-version, die es immerhin auf 30MB
+bringt, is kein echtes Fullscreen. Da is ein ziemlich großer Rahmen drum
+(bei 800x600 Bildschirmauflösung). Naja, is halt "nur" 640x480. Beim
+erst-öffnen springt der Player halt in fullscreen, was ich allerdings
+nachträglich nicht mehr hinbekomme... komische Sache... Player:
+Quicktime 5. Die Large-Version is 480x260.
+
+Bb,
+
+Laurent
+
+-- 
+* Laurent * Ziehfreund *  http://qng.mvscmr-cdndg.vt  * Ulf Clever * KH-Fan *
+"Hungrigsein  hat  nicht  nur mit Brot zu tun. Viel bitterer  ist  der
+ Hunger nach Liebe."                                   [Mutter Adelheid]

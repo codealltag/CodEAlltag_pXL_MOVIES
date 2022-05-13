@@ -1,0 +1,70 @@
+hmm...also ich finde in deutschsprachigen newsgroups schade, dass
+immer vieeel offtopic diskutiert wird oder nur an den anderen posts
+rumkritiesiert.
+
+schaut euch mal die 250 post in alt.movies zu matrix reloaded.
+wirklich, zum teil brilliante theorien.
+
+um es gleich vorweg zu nehmen. NEIN, ich hätte nicht annähernd ein
+solches theortikum wie folgendes zustande gebracht. hoffentlich bringt
+dieses copy-in eine richtige diskussion zu stande.
+
+cu
+dieter
+
+[found @alt.movies ->"Matrix Reloaded": The Architect's comments
+summarized]
+<bof>
+This post was the closest to my own thinking. Essentially, I think
+we should look at the Matrix as Windows 95 v. 1. The longer you leave
+the system up, the more unstable it becomes, until you can either
+reboot it or let it crash. The ZFS monitors the system for errors,
+the Agents are anti-virus software - they can slow the inevitable
+crash, even control it somewhat, but the errors in the OS mean the
+system's going down eventually.
+ Neo and the rebels are the system errors. All humans can detect the
+falseness of the Matrix, but the rebels are the ones that reject it.
+Leave them unattended and they will create more and more errors until
+the system crashes - it's no coincidence that they're all former
+hackers. The Agents can kill the weaker ones, but by creating Zion and
+letting them leave, you have a way of lessening the impact of the
+strongest - they're less trouble in Zion than in the Matrix, at least
+for a while.
+ Eventually an exceptionally strong rebel will emerge, and sap
+enough system resources and generate enough errors to slow the system
+until it's almost unusable. (Note the destructive power of Neo in the
+Matrix, and the fact that defections have sextupled since he joined
+Fridolin and the crew.) Or it may be that the rebels simply grow
+strong enough to pose a serious threat and The One just is their
+leader. Either way...
+ Using the Oracle, Keymaker, Seraph and others, you can guide the
+Anomaly somewhat. You can save the system settings, shut down and
+reboot, getting another stable system. And to prevent an uprising from
+Zion, you destroy the city and leave it with 23 inhabitants. They
+provide an outlet for the .1% of humans that reject the Matrix, but
+are now too small to pose a serious threat, and the Matrix is up and
+running without much more than a universal deja vu for the humans.
+ Or you can let the anomaly run rampant until the system crashes,
+perhaps rendering it unbootable due to corrupted files, or only
+bootable in "Safe Mode." (This is analogous to the sacrifices the
+Architect said they were willing to make. If the Matrix crashes, the
+majority of the billions of humans will be lost and leave them with a
+barebones, crippled system for quite a while, I suspect).
+ What happens in "The Matrix Reloaded" is that, for the first time,
+The One has chosen to let Windows crash and install Linux, i.e.
+attempted to save Zion rather than bargain with the Architect and save
+billions of (enslaved) lives.
+
+ Sub-theory: the rebels are the portion of the human population with
+some level of psi ability, weak but real. Inside the Matrix, a weak
+telekinetic is amazing because he or she is manipulating electrical
+impulses rather than physical matter - so the rebels kick ass once
+they've freed their minds. In the real world, their powers are not
+strong enough to perform such tricks. Neo appears to have more
+developed or stronger psi abilities, and I suspect that he's the first
+with the power to use them in the real world as well as the Matrix. As
+the Merovingian noted, he's stronger than the previous Ones. Impacting
+the real world is more taxing, as we've seen - but do-able.
+ That's my theory and I'm sticking to it!
+ Winfried
+<eof>

@@ -1,0 +1,6 @@
+Hi
+
+Ich muss mich korrigieren, es handelt sich nicht um einen Compiler, sondern
+um eine IDE
+
+peter

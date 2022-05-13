@@ -1,0 +1,49 @@
+Tachs,
+
+Gibts es so was ueberhaupt? 
+Ich versuche mir gerade zu ueberlegen, bei welchen Filmen, in denen
+Computer vorkommen (und das nicht nur als Hintergrunddeko im Buero und
+der Polizeiwache), diese auch realitaetsnah eingesetzt werden.
+
+Normalerweise sieht man ja Sachen wie:
+- GUI mit bunter Weltkarte (Integration mit Spionagesatelliten) mit 
+  stufenlosem Zoom auf ein paar Zentimeter zur Ueberwachung
+- die selbe Weltkarte dient als Hintergrund zur Rueckverfolgung eines
+  Anrufs / einer Mail innerhalb von 23 Sekunden ueber 4 Satelliten
+- noch bunteres GUI mit Passwortabfragefenstern, die als JPG mind.
+  100KB gross sind
+- Auf einem Monitor erscheinende Schrift wird immer von piepsenden
+  Geraeuschen a la Tastatur(beeps|klicks) begleitet
+- Cracker dringen von aussen innerhalb von 18 Sekunden in ein hoch
+  geheimes System ein ... und das natuerlich auch wieder mit bunten
+  GUIs und mittels Umgehung oder Ausschaltung des Passwortfensters
+- Datenuebertragungen jeglicher Art (insbesondere ueber Telefon oder 
+  gleich Handy) haben einen scheinbaren Durchsatz jenseits der 100 MBit
+- ...
+
+Am schlimmsten finde ich selber dann aber so Aktionen, basierend auf
+dem fundierten Halb^WViertel^WAchtelwissen der Filmemacher zum Thema IT:
+- IP-Adressen der Form 840.w.n.x
+  (naja, als unsigned integer waers dann wieder witzig ... :)
+- Posten in Newsgroups fuehrt zu sofortiger Antwort :)
+  (oder habe ich gluecklicherweise doch genuegend von MI 1 verdraengt?)
+- Das Druecken der ESC-Taste loest den Virus aus
+- Dieses Kaestchen kann alle bekannten Kryptosystem innerhalb von 10
+  Minuten knacken.
+
+
+Gibt es denn ueberhaupt Filme, in denen sich mal jemand _ernsthaft_
+Gedanken darueber gemacht hat, was herkoemlicherweise mit einem Computer
+funktioniert und wie das dann aussieht?
+
+Momentan faellt mir dazu gerade mal "23" ein - oder habe ich etwaigen
+Schwachsinn da auch schon wieder vergessen?
+
+*seufz*
+Hoffend,
+-msz
+-- 
+PASCAL
+   What if there's no afterlife? Suppose this is all we get.
+HOBBES (with a content smile)
+   Oh, what the heck. I'll take it anyway.

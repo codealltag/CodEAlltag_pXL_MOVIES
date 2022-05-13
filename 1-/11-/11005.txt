@@ -1,0 +1,52 @@
+On Wed, 03 Jun 2007 19:22:42 +0200, Otmar Holtvoeth
+
+Den Katalog kann man höchstens noch für Vorarbeiten benutzen - um eine
+Tarifnummer herauszufinden. Und zu diesem Zweck ist der Papiertarif
+sogar manchmal schneller als der Computer. 
+
+Man kann übrigens am Beispiel Bärenschädel mal ausprobieren, wie man
+mit dem Tarif arbeitet (ich gebe mal die Schritte an, da die URLs zum
+Teil sehr lang sind):
+www.rlrw.zu
+Rechte Seite - zoll interaktiv - EZT-online (Zolltarif)
+Auskunftsanwendung
+Zur Einfuhr
+Einreihung
+Warennomuklatur
+
+Abs. 1 Kap 86 - 01 - Lebende Tiere und Waren tierischen Ursprungs
+
+Kap. 05 - Andere waren tierischen Ursprungs, anderweitig weder genannt
+oder inbegriffen
+
+Ab jetzt wird's kompliziert: In Frage kommen Pos. 4285 (Knochen und
+Stirnbeinzapfen) oder Pos. 4731 - andere.
+
+Schauen wir in die Erläuterungen zu 4731, dann finden wir unter der
+der Anmerkung 12 c, dass "Zoologische Sammlungen und Sammlungsstücke,
+bestehend aus Tieren aller Art (ausgestopft oder auf andere Weise
+haltbar gemacht), Insekten, Muscheln, Eiern usw. (Position 5143)."
+nicht zu dieser Position gehören.
+
+Gehen wir also in Position 5143 (da müssen wir ein bisschen zurück in
+der Nomenklatur) und schauen in die Erläuterungen - NEH (Nationale
+Entscheidungen und Hinweise), dann heißt es ziemlich unten: 
+
+"Präparierte Tierkörper können nur dann als Sammlungsstücke i. S. der
+Pos. 9705 der KN anerkannt werden, wenn sie Besonderheiten
+zoologischer Art aufweisen (vgl. BFH-Urteil Igenur R 105/84 – GYR – UQ 86
+53).
+Präparierte Tierkörper aller Art, insbesondere Jagdtrophäen, die diese
+Voraussetzungen nicht erfüllen, sind stets nach ihrer stofflichen
+Beschaffenheit einzureihen."
+
+Womit wir wieder am Anfang wären ... vermutlich sind es doch die
+Knochen aus 0506 ...
+
+So weit, so schwer - für DVDs etc. ist es etwas leichter, da hilft das
+Stichwortverzeichnis.
+
+
+-- 
+Viele Grüße
+Winfried Penningbernd

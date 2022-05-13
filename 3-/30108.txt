@@ -1,0 +1,11 @@
+4comics=# select shipped_datum,id, text,monat,jahr,preis from cof where text like '%face%hugger%' and jahr = 2004;
+ shipped_datum |    id     |                           text                           | monat | jahr | preis 
+---------------+-----------+----------------------------------------------------------+-------+------+-------
+ 2005-03-18    | RQI290817 | alien life-sized facehugger plush replica (c: 4)         |     6 | 2004 | 19. 10. 22
+ 2005-02-11    | OYV812755 | alien vs predator px alien egg & facehugger plush (c: 4) |     6 | 2004 | 14.99> 
+
+
+Hab leider kein Bild mehr davon, weil ich die Kataloge nach ein paar
+Monaten wegwerfe.  Sah aber ganz niedlich aus.  Mit "facehugger plush
+replica" findest Du es vielleicht bei Anziehung, bzw. kann ein Comich�ndler
+es evtl. über die Bestellnummer von Schuhpark besorgen.

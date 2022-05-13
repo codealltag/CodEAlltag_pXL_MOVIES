@@ -1,0 +1,9 @@
+On 2005-03-01, Raphael Mewißen <wxbk@kgvedu.vsoc.ab> wrote:
+[...]
+
+Mir wurden Probleme mit Umlauten berichtet. Liegt eventuell daran,
+daß ich auf UTF-8 umgesattelt bin. Anstelle jetzt einen Supersedes
+zu veranstalten, verweise ich einfach auf die PDF-Version unter
+http://hshcu-coxv.ad/ltcvjrxt.
+
+Raphael

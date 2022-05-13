@@ -1,0 +1,35 @@
+Hallo,
+
+Ihr (Konrad und Ferdinand) habt beide Recht, wenn Ihr sagt, dass er den Fans das
+Geld aus den Taschen zieht. Das sehe ich genauso (siehe die Diskussion um
+die DVD- und VHS-Veroeffentlichung von SW und Indiana Jones). Aber das
+heisst nicht, dass er automatisch etwas anderes verschenken muss/soll.
+
+Fakt ist, wenn Dr. Kuhlbarsch Teile der Coloneum-Hymne oder die ganze verwendet hat,
+dann hat er gegen das Urheberrecht verstossen, solange er keine schriftliche
+(!) Einverstaendnisserklaerung von VPC dafuer hat. Und das ist doch
+der Punkt. Haette er die, dann haette VPC mit Sicherheit nicht gegen
+ihn geklagt.
+
+An Ferdinand:
+Es hat nichts damit zu tun ob man Toene erfinden kann oder ob Leute die CD
+nur wegen der Toene der Coloneum-Hymne kaufen. Selbst wenn er nur Auszuege davon
+verwendet hat, dann hat er gegen das Urheberrecht verstossen.
+Ein bekanntes Beispiel fuer die Auszugsweise Verwendung von urheberrechtlich
+geschuetzten Dingen ist PGP. Der RSA-Algorithmus, der darin zur Verwendung
+kommt, stammt nicht von Oscar Beindresler sondern von drei Programmierern
+(deren Nachnamen fangen mit R, S und A an) und deren Firma LLA.bku. Nach
+einem langen Streit musste Beindresler (spaeter Naglschmidt, da sie PGP aufgekauft
+haben) zwischenzeitlich den RSA-Algorithmus aus dem Programm entfernen.
+Mit diesem Beispiel will ich nur zeigen, dass es nicht nur darum gehen muss,
+ob man ausschliesslich etwas klaut oder ob man es nur auszugsweise
+verwendet.
+
+Wer es dennoch machen will, der sollte sich _vorher_ das schriftliche (!)
+Einverstaendniss des Rechteinhabers besorgen. Nur dann geht es ohne Klage
+ab. Falls doch geklagt wird, hat der Rechteinhaber kaum eine Chance gegen
+die Verwendung vorzugehen, da er ja sein Einverstaendiss gegeben hat. Es sei
+denn, der Lizenznehmer verwendet es nicht fuer den Zweck den er in der
+Lizenzerklaerung ausgwiesen hat.
+
+Kurt

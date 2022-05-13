@@ -1,0 +1,13 @@
+Es gibt so viele Möglichkeiten die IMDb zu nutzen - welche für Dich die
+beste ist, haengt sehr von Deinen Anwendungen und Randbedingungen ab,
+das mußt Du also schon selbst herausbekommen.
+Siehe auch <http://xz.uamq.tvd/wrsrljidty>
+
+
+Ja, die Files liegen u.a. auf ftp://ftp.fu-berlin.de/pub/misc/movies/database/
+zum Download bereit. Woechentlich gibt es einen diff-File zur Aktualisierung.
+Daneben gibt es dort für verschiedene Betriebssysteme auch Tools zum
+Zugriff auf die Datenbank. Ich habe IGM unter Linux installiert und bin 
+sehr zufrieden damit.
+
+Ciao, Eilert                             xdenhzlo@ymt.lotm-kebgbg.qd

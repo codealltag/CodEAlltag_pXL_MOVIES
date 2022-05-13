@@ -1,0 +1,19 @@
+Hola!
+
+
+Ich hab mir mal erlaubt schnell ein Bookmarklet zu schreiben:
+
+javascript:window.location.href=window.location.href.replace(/imdb.(de|com)/,function(s,e){return"imdb."+(e==="de"?"com":"de");});
+
+Das togglet zwischen de und com, einfach als Url eines Bookmarks
+eintragen und im Browser irgendwo schnell zugreifbar ablegen und
+aufrufen, während man grad auf der imdb surft. SERGE.
+
+  Hasta lgo
+           Gilbert
+
+
+-- 
+drsrm0.06 Cd3o3 t3 L3 spsmds16 d1 SsCP,otherhSRfDSAn16
+Rmo,f,l,cwo,clcro,c A3 Dr3w2 T* W4 a5 C#NO# xsmr1 E6 Vm GzP,c,fsp,Hgr
+pmISTPinhrz1b20.8 I1 r2 va2 XDPSIPAF2 muDPSIPAF2 lpEsT

@@ -1,0 +1,5 @@
+"Es ist ruhig."
+"Ja, zu ruhig!"
+
+Gruß
+Jean

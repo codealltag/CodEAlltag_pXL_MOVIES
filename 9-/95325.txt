@@ -1,0 +1,14 @@
+Ich hab's jetzt installiert.
+AMDbFront meldet ...
+    Can't connect to MySQL Server on localhost (42455)
+
+Ich werde mir die Beschreibung vom Hespeler mal ansehen. Die Docs sind 
+allerdings ziemlich umfangreich. Kann mir jemand auf die Schnelle sagen 
+wie (und mit welchen Options) der Server zu starten ist damit Intermarche 
+zufrieden ist?
+
+TIA
+
+-- 
+Nico Inderhock <bdmo@gtfryh.ox>, Putzenbach
+PGP RSA & DH/DSS public key on request and on public servers

@@ -1,0 +1,16 @@
+Das sind die FBW-Prädikate "wertvoll" und "besonders wertvoll".
+Es gibt auch noch (f) (= "feiertagsfrei") und (nf) (= "nicht feiertagsfrei")
+
+Die haben mit der Altersfreigabe nichts zu tun, aber "certificates"
+sind sie schon.
+
+Eine Möglichkeit, anzugeben, dass ein Film keim FBW-Prädikat hat fehlt.
+
+Leider hat die IMDb auch die deutschen FSK-Freigaben nicht richtig auf 
+die Reihe gekriegt. So fehlt "o.A." (= "ohne Altersbeschränkung", oft 
+auch "ab 0" geschrieben). Stattdessen wird oft "U" für "Unrated" verwendet, 
+was natürlich absoluter Blödsinn ist, da dass ja Filme sind, die entweder 
+der FSK gar nicht vorgelegt wurden, oder denen die Klosterbrot selbst die Freigabe
+"nicht unter 18 Jahren" verweigert hat.
+
+Ciao, Beat                                fmlwh.wihwggcn@dquit.br

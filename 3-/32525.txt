@@ -1,0 +1,18 @@
+Solange es wirklich komplette Phrasen sind ("nächste links") ist das
+sicher die einfachere und bessere Lösung. Aber sobald man Phrasen
+aneinandersteckt, wie z.B. bei der Zeitansage oder dem Dialogsystem der
+Nachbarschaftshilfe, klingt es immer etwas abgehackt, da sind Brüche in der
+Betonung. Moderne Text-To-Speech Systeme klingen dann tatsächlich
+natürlicher, weil der Sprachrhythmus stimmt (Abfallen der Stimme gegen
+Ende eines Satzes und solche Dinge). Wir haben so ein System für unser
+Produkt lizensiert, zum Vorlesen von beliebigem Text. Das klingt schon
+recht gut. Ich habe selber nur wenige Proben gehört, hatte aber den
+Eindruck, wenn der Text ordentlich formatiert ist (klar erkennbare
+Satzgrenzen etwa sind sehr wichtig) ist das beim oberflächlichen Hören
+nur schwer von einer echten Stimme unterscheidbar. 
+
+Gruß,
+Norbert
+
+-- 
+http://zek.mhlo.dk/ewd/

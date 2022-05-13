@@ -1,0 +1,26 @@
+Beim Stummfilm gab es so ziemlich alles zwischen 16 und 24 B/s.
+
+
+Nein. Bei 24 B/s wäre wegen der dazwischen notwendigen Dunkelpause
+das Flimmern viel zu stark. Deshalb wird jedes Bild zwei- (bei manchen 
+Projektoren auch drei-) mal gezeigt. Die Helligkeit schwankt also mit
+48 Hz (bzw. 72 Hz bei Dreifl�gelblende). Diese Frequenz ist gerade etwas
+schneller als die Trägheit des durchschnittlichen menschlichen Auges 
+Es kann die Hell- und Dunkelphasen nicht mehr trennen und sieht so einen
+flackerfreien Mittelwert aus Hell und Dunkel.
+
+
+Traditionell wird das Licht mit einer Flügelblende gesteuert. 
+Das ist im Prinzip eine runde Scheibe, bei der einzelne Sektoren fehlen,
+so daß sich 2 (oder 3) "Flügel" ergeben. Diese Scheibe dreht sich im 
+Lichtgang. Ist ein "Flügel" im Lichtgang, ist das Bild dunkel, ist keiner 
+im Lichtgang, fällt das Licht auf die Leinwand. Als Faustformel gilt
+50% "Flügel", 50% "Loch", d.h. nur die Hälfte der Zeit fällt Licht 
+auf die Leinwand.
+
+
+Genau.
+
+Ciao, Goufr                             acymwhvb @ sbpnyhdz.py
+
+Zuletzt gesehen: Distler Discos nibus 17ß Un iaggio chiamato amore

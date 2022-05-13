@@ -1,0 +1,26 @@
+Keineswegs.
+
+
+Vielleicht stellst Du Dir das doch ein bisschen zu einfach vor. Dass
+Die Handhabung von Kopien bzw. das Kopieren selbst einfacher wird,
+dürfte auf der Hand liegen (Verlustfreie Kopiertechnik).
+Zum Kopierschutz: Das Format, in welchem dann ein Kinofilm digital
+vorliegt, ist ja ein proprietäres, das ausschliesslich von sauteuren
+professionellen Maschienen verarbeitet werden kann. Ganz im Gegensatz
+zur DVD, deren Format mit der weltweit verbreiteten DVD-Software
+kompatibel sein muss. Logisch, dass da irgendwann einer die Software
+und damit den Schlüssel knacken musste.
+Und selbst wenn jemand an die teuren Geräte herankommt um den
+Schlüssel zu entziffern: Was soll er mit dem Datengigant anfangen?
+Abspielen lässt es sich zu Hause nun mal nicht.
+übrigens wäre auch die Datenrate viel zu gross: Postulieren wir mal
+eine Bildgrösse von 1000x2000 Pixel, das macht 2 Mio pro Bild (gute
+digitale Fotokameras machen schon bis zu 4 Mio). Eine DVD hat pro Bild
+nur 720x576=414720. Demnach erhöht sich die Datenrate um das
+Achtfache. PCs können das bis auf Weiteres nicht verarbeiten und vor
+allem wirst Du kein Speichermedium finden, das dafür geeignet wäre
+(übrigens könnte die tatsächliche Datenrate noch weit höher liegen, da
+auf DVD ja schon dramatisch komprimiert wird, wenn auch optisch sehr
+gut).
+
+Angelo

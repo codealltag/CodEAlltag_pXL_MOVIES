@@ -1,0 +1,50 @@
+Herbert Loers wrote in <73017045.71113096@nmclhsp.und-sxbrnhseg.uy>
+on 17. 12. 22 20:49:13 +0200:
+
+Das hängt ganz von der Definition von "Sound System" ab. Wenn hier
+(in dieser Newsgroup) von "Sound System" und "Heimkino" usw.
+gesprochen wird, dann ist damit i.d.R. ein Surround-Sound-System
+(Codierung und entsprechende Decoder) gemeint, also z.B. Dolby
+Surround, Dolby Digital, dts oder SDDS. THX ist kein Soundsystem,
+welches in diese Aufzählung eingereiht werden könnte.
+
+Wie wir alle wissen, ist THX ein Qualitätsstandard u.a. für Decoder,
+Verstärker und Boxen. So könnten also z.B. mein Dolby-Digital-Decoder,
+mein Fünf-Kanal-Verstärker und meine Boxen dem THX-Standard entsprechen
+und dann hätte ich eine THX-Ausstattung - und das nennt AKAKraft
+dann auch gerne "THX Sound System"; das Surround-Sound-System bleibt
+dann aber trotzdem Dolby Digital.
+
+
+Die "THX-Weiche" ist in der Tat eine echte Erweiterung der
+Decoder-Hardware für Dolby Surround - dem Surround-Sound-System,
+daß für hinten nur einen Kanal hat. Für moderne digitale
+Surround-Sound-Systeme ist sie wertlos, weil zwei Surround-Kanäle
+vorhanden sind.
+
+ändert aber wieder nichts ... auch mit THX-Weiche bleibt das
+Surround-Sound-System "Dolby Surround", d.h. die Dobami-Hardware braucht
+keine spezielle Software (Filme), sondern nimmt alle Software in
+Dolby Surround.
+
+
+Gut ausgedrückt ... dazu aus meinem FAQ zum Thema "THX im Kino":
+
+Um ein THX-Zertifikat zu erhalten spielt es (fast) keine Rolle, was
+für ein Surround-Sound-System (A-Chain = Abtaster und Decoder) im
+Kino eingebaut ist - wichtig ist, daß die Verstärker- und
+Wiedergabekomponenten (= B-Chain) THX-zertifiziert sind. Etwas
+mißverständlich ist die Aussage des Dobami-Trailers: Dobami Soundsystem
+installed in this theater. Das heißt nichts anderes, als daß das
+Kino mit einer B-Chain ausgestattet ist, bei der alle Komponenten
+dem THX-Katalog entsprechen.
+
+Lange Rede, kurzer Sinn: Egal wie man "Sound System" definiert, man
+kann THX nicht in eine Liste mit Dolby Surround, Dolby Digital, dts
+und SDDS aufnehmen - auch wenn das sogar Pressesprecher mancher
+Kinos machen ...
+
+Gruß, Nico
+-- 
+** Nico Ingenohl, Taisersdorf,  Deutschland / Germany **
+** E-Mail (NeXTmail/MIME): qdfhe@scwtee.k.imyzk.hm **

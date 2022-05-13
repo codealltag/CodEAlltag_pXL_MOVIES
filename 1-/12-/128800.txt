@@ -1,0 +1,21 @@
+Meistens schon... ;-) Aber auch das mit den foot und inches.
+
+Das metrische System legt einfach nur fest welche Einheiten ich
+verwende (z.B. Meter). Das dezimale sagt aus, wie ich diese
+Zahlen darstelle (zu welcher Basis), d.h. dass ich die Zahl nach
+der 9 als "10" schreibe. Z.B. die Groesse 25 Meter koennte ich 
+auch im Binaersystem so darstellen: 11001 Meter, wobei ich immer 
+noch das metrische System verwende. Wenn ich hingegen von ungefaehr 
+75 Fuss spreche verwende ich zwar noch immer das dezimale System 
+aber nicht mehr das metrische.
+
+Bei jener Marsmission gab das Messgeraet ja die Zahlen im imperialen
+System aus (oder wie das auch immer heist), aber wahrscheinlich
+waren die Zahlen im binaeren System dargestellt (zwischen
+Computern). Der Steuerrechner nahm die Daten auch im Binaersystem
+entgegen, interpretierte sie aber im metrischen System, was der
+Sonde nicht so gut tat.
+
+Hoffe ein wenig geholfen zu haben...
+Fabio, immer noch genervt von der Rechnung mit den ganzen
+Nanobarns heute...

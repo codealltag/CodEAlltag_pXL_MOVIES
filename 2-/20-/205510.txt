@@ -1,0 +1,17 @@
+Hallo,
+
+SS> Oder ist ein einfacher/guenstiger das ganze in Mpeg/Motion Jpeg/AVI/ FLI
+SS> zu wandeln und dann per Video/framegrabberkarte mit Videoausgang aufzu-
+SS> zeichnen ?
+
+ Mit der miroDC1 (in der clip-Version im Moment fuer  ca. 900,- DM) kann man
+Motion JPEG-AVI-Dateien in 25fps PAL (oder 30fps NTSC) Vollbild ausgeben.
+
+ Bei haeufigerem Gebrauch m.E. guenstiger als ein Einzelbildrekorder.
+
+ Details zur Karte bete ich auf Anforderung gerne `runter - oder auf der CeBIT
+angucken.
+
+ Gruss, Malecki.
+
+-- q_rleetj@sxgo.s-bvaj.xm

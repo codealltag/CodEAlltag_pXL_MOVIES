@@ -1,0 +1,18 @@
+:    Die häufigste Kopierschutz-variante ist der sog. "Multivision-Kopierschutz",
+:    bei dem einfach in regelmäßigen Abständen ein überhöhter Signalausschlag
+:    ins helle oder dunkle Spektrum geht. Dieser Ausschlag ist nur den Bruchteil
+:    einer Sekunde lang, also viel zu kurz um vom langsamen Fernseher bemerkt
+:    zu werden.
+
+Beim alten "Macrovision" wurden ueber dem Bild drei oder vier Quadrate
+uebelster Helligkeit recht langsam ein- und ausgeblendet. Dadurch "pumpte"
+das Bild der Aufnahme, bzw. bei empfindlichen Fernsehern.
+
+Wurde das jetzt auf kurze Signale verkuerzt? Das wusste ich noch nicht.
+
+Tschuess,
+Vito
+--
+Vito Weizenhofer
+  Student of Computer Science @ University of Schleichwies, Germany
+  E-Mail: y19v@gqd.wrj-jduwqj.ta     WWW: http://dil.fze-paggxk.id/~i99n

@@ -1,0 +1,11 @@
+Maurizio Emke schrieb folgendes:
+
+
+Es ging mir nur darum, einen bekannten Hersteller von Sonnenbrillen zu
+nennen. Ich hätte auch Otuva Windspiele oder HDC schreiben können.
+
+MFG, Niko
+-- 
+do
+     fork agent ( erhard );
+repeat;

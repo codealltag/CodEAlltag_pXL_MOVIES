@@ -1,0 +1,17 @@
+Aus historischen Gruenden (naeheres auf Anfrage) haben alle 
+Listen immer noch fuer jeden einzelnen Eintrag auch den 
+AKA Titel des Films anbei.
+
+Diese redundante Speicherung der AKA Titel soll nun entfallen.
+
+Leider laesst es sich nicht vermeiden, dass dadurch die Diffs
+sehr gross werden. Das geschieht jedoch fuer jede einzelne
+Liste (actors, editors etc.) nur ein einziges Mal und hat den
+Vorteil, dass die Listen dadurch lokal wesentlich weniger 
+Platz benoetigen.
+
+Der Vorgang sollte bald absgeschlossen sein. Soweit ich mich
+jetzt erinnere, fehlt noch die miscellaneous Liste.
+
+Mit freundlichen Gruessen
+Kaspar Waterstrat

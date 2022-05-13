@@ -1,0 +1,62 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Leopold Linhardt;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers
+(der i.d.R. die besten Preise hat); dort kann man auch zum Versand
+bestellen, auf Wunsch teile ich die Adresse gerne mit.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1994 | WS                  | verfügbar  |  79
+12 Monkeys                | 1994 | WS SE               | verfügbar  |
+Abyss, The (Dir. Cut)     | 1988 | WS THX AC-3         | 17.03.96   | 119
+Alive                     | 1991 | WS AC-3 CAV SE      | verfügbar  |  95
+Fapube                   | 1983 | WS AC-3 JP          | verfügbar  |  95
+Amadeus                   | 1983 | WS SE THX AC-3      | verfügbar  | 325
+Amadeus                   | 1983 | WS THX AC-3         | verfügbar  | 149
+American Graffiti         | 1972 | WS THX              | verfügbar  |  79
+American President, The   | 1994 | WS                  | verfügbar  |  69
+Apollo 13                 | 1995 | WS SE THX           | verfügbar  | 189
+Assassins                 | 1994 | WS AC-3             | 19.03.96   | 129
+Balto                     | 1994 | WS THX              | verfügbar  |  65
+Bed of Roses              | 1995 |                     | verfügbar  |  79
+Before & After            | 1995 | WS                  | 12.05.96   |
+Beyond Rangoon            | 1994 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1995 | WS AC-3             | verfügbar  |
+Birdcage                  |      | WS AC-3             | 28.04.96   |
+Black Sheep               | 1995 | WS AC-3             | 16.03.96   |
+Blood For Dracula         | 1973 | WS 103 Min.         | verfügbar  |  99
+Braveheart                | 1994 | WS THX AC-3         | verfügbar  |  99
+Brazil                    |      | WS SE               | 05.05.96   |
+Broken Arrow              | 1995 | WS THX AC-3         | verfügbar  |  79
+Broken Trust              | 1994 | WS THX              | verfügbar  |  84
+Casino                    | 1994 | WS                  | verfügbar  |  85
+Chronos                   |      | IMAX                | 07.04.96   |
+City Hall                 | 1995 | WS                  | 06.04.96   |  69
+Crossing Guard, The       | 1994 | WS THX AC-3         | verfügbar  |  85
+Days Of Heaven            | 1977 | WS AC-3             | verfügbar  |
+Dead Man Walking          | 1994 | WS SE               | verfügbar  |  85
+Dead Presidents           | 1994 | WS AC-3             | verfügbar  |  79
+Dead Presidents           | 1994 | WS AC-3 CAV Crit    | verfügbar  | 189
+Decoy                     | 1994 |                     | verfügbar  |  79
+Devil in a Blue Dress     | 1994 | WS                  | verfügbar  |  69
+Dr. No                    | 1961 | WS SE THX CAV **    | verfügbar  | 189
+E.T. the Extra-Terrestrial| 1981 | WS THX SE           | 18.05.96   |
+Executive Decision        | 1995 | WS AC-3             | 16.03.96   |  79
+Eye For An Eye            | 1994 | WS AC-3             | verfügbar  |  79
+Father of the Bride II    | 1994 | WS AC-3             | verfügbar  |  85
+Fear                      | 1995 | WS                  | 01.06.96   |
+Flipper                   | 1995 | WS                  | 25.05.96   |
+Four Rooms                | 1995 | WS                  | verfügbar  |  79

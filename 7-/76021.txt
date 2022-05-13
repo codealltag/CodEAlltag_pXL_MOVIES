@@ -1,0 +1,12 @@
+Gottfried Reckweg schrieb folgendes:
+
+
+Kein Klassiker, aber IMHO auch ein sehr schöner Western:
+
+Schneller als der Tod.
+
+MFG, Leonhard
+-- 
+do
+     fork agent ( olivier );
+repeat;

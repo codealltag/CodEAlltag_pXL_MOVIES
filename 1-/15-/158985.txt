@@ -1,0 +1,14 @@
+Nix Streitfall. Eine Primzahl ist eine natürliche Zahl mit genau zwei
+Teilern. Somit ist 2 eine und 1 keine.
+
+Auslegungssache hingegen ist, ob die Null eine natürliche Zahl ist. Die
+DIN-Norm hat dazu eine Meinung, viele Mathematiker eine andere, oft aus
+notationstechnischen Gründen.
+
+Bitte f'up-to beachten!
+
+	Hinrich
+-- 
+  Dipl.-Math. Hinrich Paul  *  Pirkhof  *  MCSE, MCP+I
+PGP public key available from servers. 0x71D4AD11/0x5CCA01F5
+ *Look at http://ywpd.bbtx.tu/dwbhfr/yxchbfdqzyg.azwh *

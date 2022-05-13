@@ -1,0 +1,11 @@
+Es wird eine Loesung fuer folgende Situation gesucht:
+
+Per (ja, leider) VHS-Recorder (LMJ) werden die IN/OUT-Marken fuer die Texte
+angefahren und sollen dann *irgendwie* in eine lesbare Textdatei
+ruebertranskopiert werden ;-)
+
+Kennt irgendjemand irgendeine Loesung?
+
+Vielen Dank fuer die Aufmerksamkeit,
+
+Andre Unferfert

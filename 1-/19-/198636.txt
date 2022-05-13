@@ -1,0 +1,28 @@
+Hi Otmar Corte !
+
+Du schriebst zum Thema Re: Videoschnitt am PC
+in /DE/REC/FILM/MISC:
+
+CO> 64 m ram und massig festplattenplatz: auf alle fälle scsi, und
+CO> möglichst 'media' festplatten, (ich hab leider nur 4GB, was gerade für
+CO> 30 min. Video in S-VHS qualität reicht)
+
+Laut Herget unterstuetzt Video for Windows doch sowieso nur Dateien bis max.  
+1 GByte (11/96, S.208 "Problemfall Video for Windows"). Da faellt dann bei  
+Kompressionsfaktor 10:1 für S-VHS-Qualitaet schon nach 7 Minuten die  
+Klappe. Das war fuer mich bis jetzt Grund genug, davon die Finger zu  
+lassen, weil ich schon gerne mehr als einen Videoclip zusammenschneiden  
+moechte :-(
+
+Hat sich da inzwischen etwas geaendert?
+
+Waere direkt ein Grund, mich wieder ernsthaft mit der Anschaffung einer  
+Videoschnitt-Karte zu befassen. Ob die Como MovieWave schon im Handel ist?
+
+
+Bye!
+
+           Kaspar
+
+naql@zwkmegl.wfada-csky.no
+(PGP key per Empfangsbestaetigung)

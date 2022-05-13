@@ -1,0 +1,18 @@
+Es geht hier um die TOP-Liste.   Und da steht gleichen oben dick und fett:
+
+"note: for this top 250, only votes from regular voters are considered."
+
+f(x) = if x > n return 1 else return 0 
+
+ist nat�r�och auch eine gewichtung :-)
+
+
+Sorry, sie ist nicht nur "nicht vollkommen repräsentativ" sondern
+wirklich nicht-repräsentativ.
+
+
+Darum verwendet man für repräsentative Umfrage auch keine
+Web-Abstimmungen, sondern Umfragen innerhalb ausgewählter Gruppen.
+
+Wobei ich die "TOP 250er liste" der Vielnutzer der igros eh
+interessanter finde als die TOP 250 der gesamten Bevölkerung.

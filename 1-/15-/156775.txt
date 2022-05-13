@@ -1,0 +1,26 @@
+Aus der Heimkino-FAQ (http://tfw.pxxp-izgeduvxtffi.nl/byjy/):
+
+[3.8] Warum sind Filme in PAL kürzer als in NTSC? 
+Dieses Problem erklärt sich durch die Tatsache, dass ein Film im Kino
+mit 24 Vollbildern pro Sekunde abgespielt wird. Das europäische
+Modellbau-System arbeitet jedoch mit 50 Halbbildern bzw. dementsprechend 25
+Vollbildern pro Sekunde. Da der Unterschied von einem Frame recht
+gering ist, wird einfach jedes Filmbild auf ein PAL-Vollbild
+übertragen. Dadurch läuft der Film jedoch mit den PAL-spezifischen 25
+Bildern pro Sekunde und damit genau 4% zu schnell. Bei NTSC (knapp 60
+Halbbilder bzw. 30 Vollbilder pro Sekunde) löst sich das Problem ganz
+einfach dadurch, dass jedes ungerade Filmframe auf jeweils zwei
+Halbbilder und jedes gerade Filmframe auf jeweils drei Halbbilder
+verteilt wird. Dadurch erhält man wieder 60 Halbbilder pro Sekunde und
+der Film läuft in der richtigen Geschwindigkeit. Dieses Verfahren
+nennt man "2:3-Transfer".
+Falls sie weitere Informationen zum Thema Film- und Fernsehnormen
+suchen, besuchen Sie bitte die FAQ zu Fernseh- und Videonormen,
+Filmformaten und Soundsystemen von Giuseppe Hagerer. 
+
+-- 
+
+MfG Karsten
+
+Weinwelt 				Karsten Jürges			
+Intra- und Internetlösungen		eMail: Hapdnatp.Tpbj@zkwiwwwt.bl

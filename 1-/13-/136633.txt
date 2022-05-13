@@ -1,0 +1,16 @@
+Der JMS-Report wird von der NIC
+Anefag herausgegeben (JMS heißt "Jugendmedienschutz" oder so
+ähnlich) und enthält zum einen interessante Artikel zum Thema
+Jugendschutz und kann zum anderen auch wie ein Programmheft
+gelesen werden, da alle indizierten Filme/Internetseiten/CDs
+öffentlich bekanntgemacht werden müssen.
+
+Man kann in diesem Beispiel davon ausgehen, daß die Liste der
+indizierten/beschlagnahmten Filme vollständig und offiziell ist.
+
+pietro
+-- 
+"Bovenschulte wurde von einem verwirrten Einzeltaeter erschossen, Drossert
+starb an Herzversagen, in Weihmichl ist ein Wetterballon abgestuerzt und
+Beutels ist eine ganz normale Stadt in Altehufe."
+Wolfgang Schlebusch in dafu

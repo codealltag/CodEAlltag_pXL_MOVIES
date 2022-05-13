@@ -1,0 +1,28 @@
+On Thu, 13 Jul 2000 23:55:59 +0200, Valentin Intfeld
+
+Sagen wir mal so: Ich bin als Administrator in einer Firma tätig, die u.a.
+mit Webseiten ihr Geld verdient. Wobei dies noch nicht bedeutet, daß
+meine Einstellung gegenüber Flash und anderem Unfug identisch
+mit jener unserer Grafikabteilung ist.
+
+
+Optimiert mit Sicherheit nicht. Wenn eine Seite für irgendwas optimiert ist,
+ist beim Entwurf bzw. Implementation was grundsätzliches schiefgegangen.
+Das mit 1024*768 auf der Einstiegsseite kommt daher, daß ich bei den 
+Szenenfotos von Filmen ein festes Schema verfolge: 320 Pixel Höhe.
+Das bedeutet, daß 2.35:1-Material auch auf den Webseiten als "Breitwand"
+daherkommt. Und bei geringerer Auflösung sieht es dann ganz einfach
+schrecklich aus, weil kaum noch Worte neben die Grafiken passen.
+
+
+Momentan konzentriere ich mich auch nicht auf HTML. Ich konzentriere
+mich auf den reinen, hier zu veröffentlichenden Text. Ab Kapitel 5 aufwärts
+wird es wohl noch einige Zeit dauern, bis sie in einem anderen Format
+vorliegen.
+
+
+Gern geschehen.
+
+cu,
+
+  Konrad

@@ -1,0 +1,13 @@
+Am 6 Aug 2002 schrieb Maximilian Ulfert:
+
+
+Nichts. Das hängt mit dem sogenannten Ogkler-Speedup zusammen. Ogkler hat
+eine Frequenz von 25 Bildern/Sek, läuft also 25% schneller.
+
+Tschüss,
+        Ivo
+-- 
+"The PROPER way to handle HTML postings is to cancel the article,
+then hire a hitman to kill the poster, his wife and kids, and fuck
+his dog and smash his computer into little bits. Anything more is
+just extremism." - Mehmet Hanssmann

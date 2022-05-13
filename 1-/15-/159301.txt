@@ -1,0 +1,56 @@
+Leider nein, was momentan gut ist oder nicht, da hab ich keinerlei 
+Erfahrung.
+
+
+Ich meinte eigentlich folgendes: Wenn Du Film & Ton gleichzeitig
+schneidest, bekommst Du spaeter beim Ansehen des fertigen Films 
+ueblicherweise bei jedem Bildschnitt auch den Tonschnitt mit, weil
+die Geraeuschkulisse unterschiedlich ist, die Ton'farbe' und eben
+auch unter Umstaenden, wenn man beim Aussteuern nicht aufgepasst hat,
+Unterschiede in der Lautstaerke.
+
+
+Super! Dann kannst Du folgendes machen: Eine Kamera bleibt die ganze
+Zeit auf den Referendar ausgerichtet. Und bleibt einigermassen statisch 
+(also, nur die Schwenks, die noetig sind, keine Nahaufnahmen, keine 
+Zoomfahrten). Die andere Kamera richtet sich auf die Schueler - hier
+sind 
+ein paar Schwenks und Nahaufnahmen vielleicht ganz gut.
+
+Beim Schnitt gehst Du dann folgendermassen vor: Du nimmst als Basis 
+den Film mit dem Referendaren und schneidest die Aufnahmen der Schueler
+dazwischen, soll heissen, wenn ein Schueler (auf dem Film der zweiten
+Kamera) etwas sagt und auf dem ersten Film ist er nur von hinten drauf,
+dann schneidest Du hier den Film der zweiten Kamera drueber, so dass 
+Du im Film den Schueler von vorne siehst. 
+
+Und jetzt kommt der Clou: Die Schnitte des zweiten Films machst Du
+ohne Ton. Damit bleibt der Eindruck einer konstanten Geraeuschkulisse
+erhalten und die oben erwaehnten 'Aussteuer-Spruenge' stoeren nicht
+(weil es keine gibt). So, jetzt solltest Du das Richtmikro nicht nur
+an die zweite Kamera montieren, sondern auch gleich an die erste 
+Kamera anschliessen :o). Dann hast Du beide Spuren gleich abgemischt (?)
+bereits auf dem Film der ersten Kamera. Wenn Du zwei Mikros nicht 
+gleichzeitig an die Kamera anschliessen kannst, muesste man dann ein
+Mischpult nehmen und dann den gemischten Output an die erste Kamera
+anschliessen. Oder: man nimmt den Ton voellig getrennt auf, dann 
+wird's allerdings mit der Synchronisation haarig: Das Tonband muss mit
+der Kamera synchronisiert werden und/oder muss einen Timecode mit auf 
+das Band speichern, der dann beim Schnitt wieder ausgewertet werden
+kann.
+(Das geht jetzt aber wirklich ins Geld).
+
+
+Ja, denke ich schon auch.
+
+
+Naja, die Person wartet im Allgemeinen nicht darauf, dass Du die Kamera
+auf sie richtest, um auf sich aufmerksam zu machen.
+
+
+Ok, dann gehen vielleicht meine gestalterischen Vorschlaege oben
+(Schwenks, 
+Nachaufnahmen, etc.) doch etwas weit :o)
+
+Trotzdem viel Spass, 
+	Vinzenz

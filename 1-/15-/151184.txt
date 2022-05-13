@@ -1,0 +1,57 @@
+It was the Thu, 26 Nov 2000 00:46:37 +0100...
+
+Quatsch. Du hast doch hoffentlich sowas wie
+_Friedlich_in_die_Katastrophe_ gelesen? Oder kennst du einfach nur ein
+paar Schlagwörter? GAU ist, was bei der Planung des Reaktors an
+Unfällen berücksichtigt worden ist.
+
+Was ein GAU ist, hängt vom Reaktortypen ab. Bei jedem Kraftwerk sind
+die GAU-Situationen, die bei der Planung des Ganzen berücksichtigt
+wurden, anders. 
+
+Ein GAU ist zum Beispiel bei einem stinknormalen Druckwasserreaktor
+der Bruch einer Kühlwasserleitung im Primärkreislauf oder das
+gleichzeitige Versagen mehrerer Kühlwasserpumpen, ein
+Ventilschaltfehler oder etwas Gleichwertiges, also das plötzliche
+Versagen der Prim�rk�hlung im Ganzen. Ein Super-GAU ist es z.B., wenn
+nicht nur die Leitung bricht oder die Pumpen ausfallen, sondern auch
+noch alle Notkühlsysteme versagen. Oder die Reaktorschnellabschaltung
+verklemmt. Dann verschmilzt das Core, frisst sich evtl. durchs
+Containment und es kann zur Wasserstoffexplosion kommen.
+
+"Diese Notkühlung wäre beispielsweise notwendig, wenn eines der zum
+Reaktor führenden dickwandigen Druckwasser- oder Dampfrohre
+schlagartig abreißt und das Kühlwasser abströmt. Ein solcher Unfall
+wird gewöhnlich als GAU [...] bezeichnet." (Ohm, Friedlich in die
+Katastrophe)
+
+
+Bricht (klassisches GAU-Szenario) eine Prim�rk�hllleitung, wird der
+Reaktor schnellabgeschaltet (Einfall der Regelstäbe). Trotzdem
+entwickelt er noch immer eine enorme Hitze. Das Core kann, sofern es
+jetzt nicht schnell gekühlt wird, innerhalb von weniger als einer
+Minute auf Schmelztemperatur kommen. Daher wird der Reaktorkern
+entweder mit Kühlwasser gesprüht oder geflutet. Beim GAU tritt, anders
+als beim Super-GAU, sofern alles planmäßig läuft, keine Strahlung aus.
+
+Sogar eine Kernschmelze ist unter gewissen Umständen beherrschbar. Der
+Europäische Druckwasserreaktor ist z.B. so konzipiert, dass bei einer
+Coreverfl�ssigung das Core nicht unkontrolliert ausbricht, sondern
+durch den Reaktordruckbehälter durchschmilzt und (frag mich nicht, ob
+innerhalb oder außerhalb des Containments) in einem gekühlten
+Betonbecken zur Ruhe kommt. Das ist natürlich ziemliches Wunschdenken.
+Versuche, bei denen so etwas getestet wird, sind nur schwer in der
+Öffentlichkeit durchzusetzen -- ich will auch keinen Simulator in der
+Nachbarschaft stehen haben, der eine Kernschmelze simuliert!
+
+Theoretisch muss selbst eine Coreverschmelzung in Zukunft keineswegs
+immer ein Super-GAU sein. Schon in heutigen Reaktoren kann eine
+Teilcoreverschmelzung, wenn auch mehr schlecht als recht, beherrscht
+werden.
+
+jochen
+-- 
+We must not forget that these ridiculous and tyrannical laws were not
+imposed [...] -- they were voted by [...] free agreement [...] -- and
+that their mores were even more austere and puritanical than their
+laws.             -- Ulfert Knipp, Democracy in America, 1839

@@ -1,0 +1,14 @@
+Mauro Uebelein <odywemns@vnwwc.lz-rpggfy.rd> wrote:
+[ROT13 sucks]
+
+Ich wuesste nicht, wie das gehen sollte. - Rechtschreibpruefung
+mit und ohne ROT13 drueberlaufen lassen und jeweils die Variante mit
+weniger Fehlern waehlen?
+
+
+Ich komme selten in Verlegenheit, aber mein Editor - vim - kann rot13
+(de)kodieren. (g?)
+
+
+Ich auch.
+            cu viola

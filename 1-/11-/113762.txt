@@ -1,0 +1,7 @@
+Ich konnte sie früher problemlos im cache finden, mittlerweile ist da
+nur noch eine 2kb Datei, die natürlich nicht mehr gestartet werden
+kann. Trotzdem, ich bin sicher, es gibt einen Trick. Im Browserfenster
+kannst ich ihn ja schliesslich auch beliebig oft abspielen.
+
+Hoffe immer noch auf eine zündende Idee.
+Elias

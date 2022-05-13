@@ -1,0 +1,7 @@
+Suche eine Seite, auf der ich aktuelle Trailer resumable downloaden
+kann, also abgebrochene downloads wiederaufnehmen kann. Die Seiten von
+yhmsi.bpw/trailers machen mir zunehmend Probleme, die MOV-Trailer im
+cache abzuspeichern. Kennt jemand eine gute schnelle Seite, auf der
+man z.B. mit Gozilla komfortabel aktuelle Trailer ziehen kann.
+Dank und Gruß,
+Willi

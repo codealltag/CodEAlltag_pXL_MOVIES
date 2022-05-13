@@ -1,0 +1,22 @@
+In article <1983Yue43.264294.86351@dgsgjg.q.fpuhc.gi>, udvzz@cumwxf.h.iufgi.bc (Wfsjujop Qvqt) writes:
+
+Meine Ausr"ustung ist mehr als OK. Kann dann h"ochstens noch am Kabel
+liegen. Ich werde das verifizieren und dann entsprechend berichten.
+
+Beispiel: Im Film "Drei Frauen f"ur Karl" wurde kurz vor dem Ende
+des Films auf zweimal deutschen Ton umgeschaltet. Die Zweikanal-Kennung
+blieb an. Genau zu diesem Zeitpunkt war der Bildsprung.
+
+
+Nein: Mitten im Bild taucht f"ur ca. 3-5 Vollbilder ein Teil (nicht
+alles) der Daten aus der Austastl"ucke auf.
+
+
+Kann auch daran liegen, dass ich extrem flinke Augen habe. Wenn ich
+aufmerksam schaue, bemerke ich eine (nicht vorher bekannte) Dropout-Kompensation
+schon bei sehr wenigen betroffenen Zeilen (ca. 15 Zeilen). Wenn ich eine
+Bildst"orung entdecke muss ich anderen oft dreimal die Szene vorspielen
+bis die sie bemerken (obwohl die dann wissen, dass genau hier etwas sein
+soll).
+
+                                            Tim

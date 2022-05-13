@@ -1,0 +1,22 @@
+Größtes "Verschleißteil" am Projektor sind die Xenonkolben. 
+Für die ist wirklich nur die Brenndauer entscheidend (und der 
+eingestellte Strom). Deren Verschleiß pro Film würde also um 4% 
+reduziert. Bei älteren Projektoren kommt noch die Tonlampe hinzu.
+Für die gilt das gleiche. (Moderne Tonabnehmer verwenden LEDs oder
+Laser - die sollten weitgehend verschleissfrei sein.)
+
+Der Grossteil des Stroms für die Projektion wird ebenfalls in den 
+Xenonkolben, den angeschlossenen Gleichrichtern und den Verstärkern
+der Tonanlage verbraten.
+
+
+Falsch. s.o.
+
+Dazu kommen noch andere Dinge, die von der Dauer der Vorstellung abhängen:
+Personalkosten, Betriebskosten für Klimaanlage und Beleuchtung etc.
+
+Zudem kann man bei kürzeren Vorstellungen die Uhrzeiten "zusammenschieben"
+und so mehr Zuschauer gewinnen oder gar noch eine zusätzliche Vorstellung
+einschieben. 
+
+Ciao, Patrik                   rurommpv@sovimw.iftzkhh.jq

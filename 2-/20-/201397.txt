@@ -1,0 +1,34 @@
+Hallo!
+
+Ich stehe vor einem kleinen Problem, ich überlege mir ob ich mir nicht noch
+einen LD Player zulege.
+
+Das Problem ist nur, ich habe einen Sidon DSP-A3090 und der hat nur einen
+einzigen AC-3 RF Eingang.
+
+Wenn ich mir nun einen LD Player mit AC-3 RF Ausgang zulege habe ich
+warscheinlich ein Problem wenn ich mir einen DVD Player zulege, da die
+meisten sicherlich auch nur einen RF-Ausgag haben.
+
+Da aber der Sidon auch die AC-3 Signale über die optischen Eingänge
+aktzeptiert, und er davon ja etwas mehr hat, frage ich mich ob es nicht
+einen LD Player gibt der das AC-3 am optischen Ausgang anliegen hat.
+
+Einfacher wäre es natürlich wenn es sone kleine Black Box gäbe die das Signal
+wandelt. Wie in der Netzwerktechnik ein Tranciever, der von Coax RG58 auf LWL
+wandelt.
+
+Oder gibt es schon Informationen ob es DVD Player mit einem optischen AC-3
+Ausgang gibt? Der Holzwerkstatt hat dieses anscheint nicht.
+
+Eine weitere Frage die ich mir stelle ist, am allgemeinen Modell des Sidon
+gibt es einen PAL/NTSC Umschalter. Wozu ist der? Kann es da Probleme geben
+wenn ich eine PAL Version des Verstärkers habe und ein NTSC Signal
+durchschleifen will?
+
+Mfg.
+
+Gerald Dendorfer
+ /\_\    __    * BBS Analog: +33 2968 67417 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +77 1616 04952 **  /\_\   \/_/
+        \/_/   * Voice:      +03 9480 01163 *   \/_/

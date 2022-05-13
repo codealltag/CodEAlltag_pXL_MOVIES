@@ -1,0 +1,6 @@
+Richtig, die Namen sind mittlerweile einigermassen "standardisiert".
+Knifflig wird es nur, wenn der Link in einer QuickTime-Animation mit Flash
+ist. Der Kram ist zlib-komprimiert in dem mov. Ich habe mir ein Minitool auf
+Basis der zlib geschrieben, mit dem ich diesen Teil entpacken kann.
+
+Dennis

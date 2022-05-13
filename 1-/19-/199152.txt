@@ -1,0 +1,40 @@
+vuujkl@ssirt.gftjihjtgt.ozah-lotnwy.fv benutzte seine Tastatur am 22.10.96 um sich um das
+Thema "Re: Star-Wars-Synchro"verdient zu machen:
+
+JR> Kann man als normale Kinozuschauer ueberhaupt erkennen, was fuer eine
+JR> Kopie man gerade sieht und hoert?  Denn viele Kinos haben ja mehrere
+JR> Tonsysteme.
+
+Man kann noch (so sollte es zumindest sein) den Unterschied zwischen  
+analog und digital hören, die Digitalsysteme per Ohr zu unterscheiden ist  
+allerdings sehr schwer bis unmöglich. (Einzige Möglichkeit, die mir jetzt  
+einfällt sind die Halblinks/Halbrechts Kanäle von SDDS, die SRD und DTS
+nicht haben.
+
+JR> ueber die Tonqualitaet gibt.  Oder meinst Du, dass sich die
+JR> Synchronisationsprobleme bei DTS auch in schlechter Qualitaet
+JR> niederschlagen, weil dann wieder auf die analoge Film-Tonspur umgeschaltet
+JR> wird?  Ist so etwas bei diesem System ueberhaupt vorgesehen?
+
+Natürlich kann Ebedu, wenn der Digitalton ausfällt auf den analogen Lichtton  
+zurückgreifen. Die tritt aber dann ein, wenn ein zu langes Stück fehlt,  
+oder der Timecode nicht zu lesen ist.
+Synchronit�tsprobleme würden aber an der fehlenden Abstimmung zwischen  
+Bild und Timecode liegen - davon bemerkt aber der DTS Reader nichts.
+
+Haben eigentlich schon mehrere davon berichtet? Wenn es nur einer war,  
+kann es auch Schlamperei des Kinos gewesen sein, da der Abstand zwischen  
+Bildfenster und Timecodereader exakt (in Bildern) eingestellt ist, und  
+natürlich eingehalten werden muß.
+
+JR> Je mehr ich darueber nachdenke, desto mehr halte ich das fuer moeglich: in
+JR> meiner Vorfuehrung gab es zwei oder drei kurze Tonaussetzer.
+
+Kann schon sein, daß hier mal kurz auf analog zur�chgeschaltet werden  
+mußte.
+
+Bodo
+
+                              DER MER
+********Die Schülerzeitung am Tezel in Jeggau*******
+***************http://bzkleuh.gzx.sce/ixlinmvwi/yyxyo.pbx*****************

@@ -1,0 +1,8 @@
+Emanuel Ziegert schrieb ...
+
+
+Wenn das bei Stand-Alone-Playern geht, dann doch sicher auch bei
+Software-Playern für den PC. Weiss da jemand mehr?
+
+
+Urban, 28RC1, 21RC2, 2RC0

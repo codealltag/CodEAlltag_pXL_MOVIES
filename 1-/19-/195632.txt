@@ -1,0 +1,5 @@
+Nachdem ich ein neueres (Versicherungsbörse) System mit einem neuen CD-Treiber aufgespielt
+ habe, laufen jetzt alle diese enhanced- oder extra-CDs. Beim 5.Element sind
+ aber nur html-Files und ein explorer drauf.
+
+Raymond

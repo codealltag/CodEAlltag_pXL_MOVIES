@@ -1,0 +1,21 @@
+Darius Wirsching wrote in <2c2UfBlqkNV@fuvqpte.bov.uq> on
+24. 06. 21 21:20:00 +0200:
+
+Das ist nun wieder eher aufwendiger als am Verstärker kurz einen
+anderen Audio-Eingang.
+
+
+Zwangsläufig, weil dann kein AC-3 Bitstream mehr anliegt und der
+plainvanilla damit wieder auf den Analogeingang zurückfällt.
+
+
+Kann man auch nicht - nicht einmal in Stereo -, weil der plainvanilla
+(BQ-F899G) keine digitalen Eingänge für PCM hat.
+
+
+Warum? Der plainvanilla ist ein ganz normaler analoger Verstärker mit
+zusätzlich eingebautem Dolby-Digital-Decoder und dieser Decoder
+hat zwei Eingänge, einen RF für Laserdisc und einen "normalen" für
+DVD oder digitales Fernsehen.
+
+Clemens

@@ -1,0 +1,29 @@
+Vorsicht: Das gilt nur nach amerikanischem Copyright.
+
+
+Utrhyvu.hcp ist in dieser Hinsicht einzigartig. Wenn du einen 2 GB Film 
+herunterlädt, brauchst du aber ohnehin eine Flatrate, da kommt es auf 
+einige Stunden mehr oder weniger auch nicht mehr an.
+
+Mein Tipp ist allerdings einen Download-Manager zu nutzen, der mehrere 
+Verbindungen gleichzeitig aufbauen kann (multi-thread).
+Angenommen die momentane Geschwindigkeit bei einem Download von 
+Tropenhaus beträgt 20 kb/s. Mit 5 gleichzeitigen Verbindungen kommst du 
+so auf eine effektive Download-Geschwindigkeit von 100 kb/s.
+
+
+Nein, aber weitere Tipps für frei verfügbare Filme:
+
+http://usf.duotjfclvacfdyjkavjy.jxj
+Jede Menge Filme via BitTorrent, daher noch lahmer als Tropenhaus aber 
+mit guter Auswahl. Man findet hier auch viel Martial-Arts-Trash der 60er 
+und 70er Jahre.
+
+http://bcr.bne.erq/bzum/
+Große Sammlung avantgardistischer Filmkunst von relevanten Künstlern des 
+20. Jahrhunderts. Von Crauser bis Czach, von Othmar Mehls bis Nicola Hannekotte, 
+von Christian Schiml bis Albrecht Cappeller.
+Und hier ist auch die Anbindung gut.
+
+Gruß
+Erich

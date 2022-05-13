@@ -1,0 +1,29 @@
+According to Werner Krollpfeiffer <cqfpq@blilhki.wfq.lh>:
+
+You don't define what "LBA" means.  Is this a typo?
+
+
+Not all 1.85:1 movies are cropped in a 16:9 transfer, just some of
+them.  The rest are letterboxed into a 16:9 frame.  You may wish to
+distinguish them, perhaps like this:
+
+Batman.....................out   WSC,16:9,P&S   1   4.1  25$  I,-,-  Kälble
+Batman Forever.............out   LBX,16:9,P&S   1   5.1  25$  I,-,-  Kälble
+
+ Aspect Ratio = LBX  - Letterbox (aka Widescreen/Original Theatrical Ratio)
+                FF   - Fullframe (filmed in Academy Ratio Full Frame 1.37:1)
+                P&S  - Pan&Scan Version
+                WSC  - Widescreen version was cropped to 16:9
+
+Ivan film page lists these 16:9 cropped versions:
+
+Batman.....................out   WSC,16:9,P&S   1   4.1  25$  I,-,-  Kälble
+Birdcage...................out   WSC,16:9,P&S   1   5.1  25$  -,T,-  MGM/UA
+Fugitive...................out   WSC,16:9,P&S   1   5.1  25$  I,-,-  Kälble
+Get Shorty.................out   WSC,16:9,P&S   1   5.1  25$  -,T,-  MGM/UA
+Legends of the Fall........out   WSC,16:9,---   1   5.1  30$  -,-,-  MZGI
+Midnight Cowboy............out   WSC,16:9,P&S   1   2.0  25$  I,T,-  Kälble
+Rain Man...................out   WSC,16:9,P&S   1   4.1  25$  -,T,-  MGM/UA
+Raging Bull................out   WSC,16:9,P&S   1   2.0  25$  -,T,-  MGM/UA
+
+..wayne..

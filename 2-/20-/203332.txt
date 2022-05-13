@@ -1,0 +1,29 @@
+In article <3mkgo0$zj@irfw20.aao.rxxx.bt> rka.bhqno@v-roygqu.fy (Oshny Fmohq)
+writes:
+
+[...]
+
+Du weit auch sonst offenbar nichts über das Netz. Man quotet zum Beispiel
+nicht komplette Artikel, sondern nur die Teile, auf die man sich direkt
+bezieht.
+
+
+Darauf, daß ihnen i.A. der Rechner, auf dem sie das machen, gehört (lokale
+Löschung) bzw. auf weitgehenden Konsens des Netzes (Fremdcancel technisch
+definierten Spams (Multipost) oder Velveetas (Crosspost)).
+
+[...]
+
+Nicht jeder kann es sich leisten, News per NNTP zu lesen. Bei UUCP geht obiges
+zum Beispiel nicht.
+
+[...]
+
+Genau _das_ ist _nicht_ Aufgabe von Sysadmins, sonden nur von Moderatoren
+moderierter Newsgroups. Die Aufgabe von Sysadmins ist es, die Technik
+funktionsfähig zu halten. Und dazu gehört auch Canceln von Spam. Die Inhalte
+brauchen die Sysadmins nicht zu interessieren.
+
+Sorry für die nochmalige massive Crosspost. Followup set.
+
+Valentino

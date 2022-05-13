@@ -1,0 +1,37 @@
+Das wäre aber abhängig davon, wie in der Matrix die "Erinnerung" eines 
+jeden Individuums realisiert ist: Variante A - das Gedächtnis eines 
+jeden wird in den Matrix-Rechnern vorgehalten und beim Zugriff des 
+jeweiligen Gehirns auf ein Erinnerungsfragment werden die Daten in 
+Echtzeit aus dem Speicher geholt und in das anfordernde Gehrin 
+geschrieben. Oder (Variante B) - was ich aus Gründen der 
+Systemarchitektur für besser halte - die Erinnerung liegt ganz 
+"klassisch" im Gehrin der einzelnen Menschen.
+
+Der Film legt letzteres nahe, da sich Neo ja an seine alten Erlebnisse 
+("In dem Laden da drüben gibts klasse Nudeln") erinnern kann.
+
+Das hätte allerding zur Folge, dass man "Massenmanipulationen" z.B. im 
+angesprochenen Sinne der nachträglichen Entfernung eines kompletten 
+Individuums aus der Erinnerung aller nur sehr schwer durchführen könnte. 
+Man müsste dann bei jedem einzelnen Menschen die entsprechenden 
+Informationen im Gehirn durch neue ersetzen. Und dabei das Dateisystem 
+konsistent halten... *g*
+
+Oder man greift für einen solchen Fall dann halt doch auf meinen 
+Güterzug zurück und entsorgt die betreffende Person "realit�tskompatibel".
+
+
+Toll, stell Dir mal vor Du lebst so friedlich vor Dich hin, plötzlich 
+verschwindet die Realität und Du erblickst eine gigantische System-Meldung:
+
+Megacycle V2 Build 1251 kernel booting                   [done]
+kernel panic, no root fs found on device 01:02        [error]
+
+
+Nur Nudeln... :-) Energetisch ist diese ganze Story von der menschlichen 
+Batterie eh Unsinn. Man bekäme mehr 'raus, wenn man die eingesetzte 
+Nahrung direkt in Energie umwandeln würde.
+
+Gruß
+
+Arne

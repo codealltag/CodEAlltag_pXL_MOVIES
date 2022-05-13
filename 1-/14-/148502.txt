@@ -1,0 +1,25 @@
+Das ist auch logisch. Der Defibrillator dient _nicht_ dazu, das Herz
+wieder zum Schlagen zu bringen; im Gegenteil, er ruft einen
+Herz_stillstand_ hervor.
+
+Das ist dann (und nur dann) sinnvoll, wenn das Herz flimmert, sprich, die
+einzelnen Zellen dort nicht mehr koordiniert zusammenarbeiten, um zu
+"pumpen", sondern unkoordiniert erregt werden, so daß keine
+Auswurfleistung mehr zustandekommt. Dieser Zustand läßt sich weder durch
+externe Herzmassage noch durch Medikamente sicher beenden, sondern _nur_
+durch Defibrillation. (Daher ist diese Maßnahme wichtig.) _Danach_ können
+(und müssen!) dann Herzmassage und medikamentöse Wiederbelebungsmaßnahmen
+einsetzen.
+
+Sprich: Herzmassage etc. pp. immer, Defibrillation nur bei Herzstillstand
+durch Flimmern (nicht dadurch, daß das Herz gar nicht mehr schlägt (sog.
+"Asystolie") - das will man gerade erreichen!), dann aber als erstes.
+Logischerweise findet sich _vor_ der Defibrillation im EKG eine Linie mit
+mehr oder weniger groben unregelmäßigen Zacken oder Wellen (und nicht
+etwas eine gerade Linie!), _danach_ dann eine gerade Linie (Asystolie).
+Der normale Herzschlag, gekennzeichnet durch die regelmäßige Abfolge der
+typischen EKG-Komplexe, setzt dann erst später wieder ein - seltenst
+(praktisch nie) einfach von selbst, im Normalfall durch Medikamente (und
+die Herzmassage, natürlich, damit ein Notkreislauf erhalten bleibt).
+
+-thh

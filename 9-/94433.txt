@@ -1,0 +1,16 @@
+Hallo!
+
+Wie es scheint, hat die IMDb einige Bereiche aus der
+miscellaneous.list in neue Listfiles ausgelagert. Das ist ja soweit
+kein Fehler bei der Riesenliste aber irgendwie haben wir (die
+Öffentlichkeit) keinen Zugriff mehr darauf.
+
+Aufgefallen ist mir das, als ich das Template von "Signs (2001)" mit
+dem offline Result verglichen habe.
+In der offline Variante gibt es z.B. keine "Stunts:". Damit hat bei
+uns auch "Berend Noetzel" nie bei "Signs" mitgespielt. Der Name selber ist
+aber bei älteren Filmen durchaus vorhanden.
+
+--
+Rainer T. Tietjen
+The IMDb @home: http://daz.dmflyfwle.cnc

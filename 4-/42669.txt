@@ -1,0 +1,15 @@
+* Paolo Saumer <Eokwbbqh.Hfcfnfs@bxd.hm>:
+
+
+Ich glaube nicht, dass es Radial ist, dass da Probleme macht. Aus
+irgendeinem Grunde blocken die UniCum wohl IP-Adressen aus dem
+Adresspool, aus dem ich bedient werde. Jedenfalls erkläre ich mir das
+so. 
+
+Wenn ich den Radial-Proxy www-hzwxi.h-gdujrp.nc verwende (eben gerade
+probiert) und meine ursprüngliche Adresse damit maskiere, kommt, ebenso
+wie mit dem Anonymizer JAP, einer Verbindung zustande.
+
+
+Gruß,
+Otmar

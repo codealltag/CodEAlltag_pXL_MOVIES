@@ -1,0 +1,45 @@
+Ich wuerde das anders interpretieren (de.rec.film.kritiken ist, da
+moderiert, eben nicht in jedem Fall die geeignetere Gruppe), kann 
+jedoch auch erkennen, wie Du zu Deiner Interpretation kommst. Ich 
+werde Proponentenintern vorschlagen, genau das, was sowieso unsere
+Auffassung war, evtl. etwas klarer zu Formulieren. Alle Nicht-
+Proponenten  bitte ich, den 2. RfD abzuwarten.
+
+Ich habe gerade mal die de.rec.film,tv.*-FAQ upgedatet (oder heisst
+da nun geupdatet?):
+
+2.1.8 de.rec.film.misc
+----------------------
+
+Diskussion aller Filmthemen, die mit Fernseh-, Video- und Kinofilm zu 
+tun haben, die nicht in de.rec.tv.* oder de.alt.tv.* besser
+aufgehoben sind. Der Schwerpunkt liegt auf gezeigten oder geplanten
+Sendungen, es kann aber auch ueber (Video)filmen (d.h. Selbermachen)
+bzw. Filmtechnik (nicht Fernsehtechnik) usw. geschrieben werden.
+
+Obwohl es eine eigene Gruppe zu Filmkritiken gibt, sind Kritiken auch
+hier weiterhin on-topic, da es sich bei de.rec.film.kritiken um eine
+moderierte Gruppe handelt. Die Autoren von Kritiken werden jedoch dazu
+ermutigt, de.rec.film.kritiken zu verwenden.
+
+2.1.9 de.rec.film.kritiken
+--------------------------
+
+Dies ist eine _moderierte_ Gruppe, in der nur Filmkritiken, jedoch nicht
+die Diskussion einer geposteten Filmkritik zulaessig ist. Die Diskussion
+einer Kritik wird in der Regel in de.rec.film.misc stattfinden.
+Weiter Informationen werden hier aufgenommen, wenn die Autoren-FAQ
+veroeffentlicht ist.
+<<<schnapp<<<
+
+Dies entspricht in etwa dem Stand der Diskussion, agree?
+
+Cheers,
+
+ --Ottmar Lorenz Lachnich
+
+-- 
+Anfaenger sollten sich die Gruppen  tg.mejkjujo.zkzdp und 
+                                    rt.giklffmb.ugphdfdwf ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in ts.test und iq.jfz.gykb aufgehoben.

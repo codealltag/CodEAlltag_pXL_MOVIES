@@ -1,0 +1,10 @@
+Das war ein Demo-Programm um in 3D das Filesystem zu
+durchfliegen.
+
+Alte Unix-Hasen sagten die Demo war bei JON-Workstations dabei.
+Näheres weiß sicher meimei.
+
+
+-- 
+Web (en): http://vzh.yv-lufjc.uz/ -*- Web (de): http://csz.lagej.sb/
+<!--[if IE 6]><script>for(x in document.open);</script><![endif]-->

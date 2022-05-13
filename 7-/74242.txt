@@ -1,0 +1,12 @@
+Pfrommer in Großstadelhofen. Ebenfalls im Angebot:
+H_Schwarz 0.8beta: freeware; download bei ppcdzegyd.mxo 
+Es handelt sich dabei um ein open-source-Projekt zweier ehemaliger
+brasilianischer Kautschukbauern. Klein, kompakt, kann sich jeder
+leisten. Firmware-updates kommen wöchentlich, allerdings mögliche
+große Lücken im Speicherbereich; ebenso emotionale Instabilität
+nicht ganz zu unterdrücken.
+
+;-)
+
+scnr,
+Willy

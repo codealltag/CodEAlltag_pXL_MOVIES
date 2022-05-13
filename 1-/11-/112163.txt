@@ -1,0 +1,14 @@
+So geht's natürlich auch...
+
+
+Nein, OTPR ist ein Win32-Konsolenprogramm. Das sieht nur optisch
+wie ein DOS-Programm aus. Damit man nicht mit der Kommandozeile
+rummachen muß, gibt es Olivle als GUI.
+
+
+Hab ich auch so gemacht, und er hat auch englisch geantwortet.
+
+
+Ja.
+
+Raymond

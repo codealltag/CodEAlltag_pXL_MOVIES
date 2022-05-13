@@ -1,0 +1,19 @@
+* Winfried Denzlein tat kund und zu wissen:
+
+
+Kettenhemden waren die Standardr�stung römischer Legionäre im 1. Jhdt. Dann
+wurde bei den normalen Legionären langsam der Schienenpanzer eingeführt, bei
+den Hilfstruppen und den Reitern aber blieb das Kettenhemd.
+Dass dann wieder auf Kettenhemden zurückgewechselt wurde, hängt wohl damit
+zusammen, dass die Reparatur von Schienenpanzern schwieriger ist und
+kompliziertere Ersatzteile erfordert, deren Nachschub nicht mehr
+sichergestellt werden konnte.
+
+Gruß,
+Raimund
+
+-- 
+Have you ever noticed that the Klingons are all speaking unix?
+"Grep ls awk chmod."   "Mknod ksh tar imap."
+"Wall fsck yacc!"     (that last is obviously a curse of some sort)
+        -- Andreas  Dürrwang

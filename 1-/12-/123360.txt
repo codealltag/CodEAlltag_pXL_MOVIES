@@ -1,0 +1,10 @@
+hm, Film läuft immer noch mit 24 Bilder/sek, also wird die PAL DVD das
+PAL-Speedup haben.
+
+Gruß,
+Mark
+
+--
+[F.A.K.K.]Carglass
+ICQ: 52055963
+CS ClanHP: http://hfq.swobww.nl

@@ -1,0 +1,43 @@
+: Hallo,
+: 
+: > Cinemaxx Collstede (kino 9) "Mit Schirm, Scharm und Melone" 
+: > Relativ am Anfang ist zweimal kurz der DTS-Ton (ca. 5-10 Sekunden)
+: > ausgefallen. 
+: 
+: Zwei Leute haben berichtet, dass es im Cinemaxx Collstede diese
+: Ausfaelle gebe. Es waere interessant zu wissen, ob es in anderen
+: Kinos, die den Film auch in DTS spielen, auch diese Ausfaelle
+: gab.
+: 
+: > Dazu erstmal: Wie kann der DTS-Ton überhaupt ausfallen? Da muß ja
+: > schon ganz schön was am Film sein, oder?
+: 
+: DTS-Ton faellt aus, wenn
+: 1. das Lesegeraet verschmutzt ist oder
+: 2. die Timecode-Spur verschmutzt oder defekt ist.
+: 
+
+
+Etwas habt ihr aber noch vergessen.
+
+Wenn die CD so schlecht behaldelt wird, dass Kratzer oder sonstige
+Ablagerungen drauf sind, kann der Ton auch ausfallen.
+
+
+Was ich schon des oefteren bemerkt habe, dass der Ton fast in
+jedem Film, der in DTS gespielt wird, der Ton hinterher oder
+zu frueh kommt.
+
+Beispiele:
+
+Grease
+X-Files
+The Negotiator (sah den in den States)
+
+Wohl gemerkt, er ist meistens richtig, aber in gewissen
+Szenen stimmt er einfach nicht. Muss wohl eine schlechte 
+Abmischung von DTS sein.
+
+
+Ist das auch bei euch aufgefallen ?? 
+Ich meine natuerlich nur die org. englischen Fassungen.

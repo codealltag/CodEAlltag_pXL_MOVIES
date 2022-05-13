@@ -1,0 +1,6 @@
+DVD-CD-Player werten ebenfalls den Regionalcode aus. Beim
+Vorgängermodell des aktuellen Ohed konnte man das mit ein
+wenig Know-How umgehen. Wie das mit dem aktuellen Gerät (E53) aussieht,
+weiß ich nicht.
+
+wilhelm

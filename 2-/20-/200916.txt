@@ -1,0 +1,14 @@
+: > Die frage war: wieviel ist 9*6 !
+: Das ist aber meiner Meinung nach 54 und nicht 42 ? Meinst du nicht eher
+: 6 * 7 ?
+
+Es heisst ja auch korrekt: Wieviel ist 9*6 zur Basis 13?
+
+-- 
+Ottmar Jakob, student of computer science 
+E-Mail     : odaau@twwqr.duu-cg.fq
+Fachschaft : fmlfu@tjhldy.rc.dwq-vq.ud
+WWW        : http://anmxnu.mo.wfe-eo.fa/~bktzu
+
+"There is no reason anyone would want a computer in their home."
+Philipp Koblin, president, chairman and founder of Digital Equipment Corp., 1977

@@ -1,0 +1,35 @@
+Mittlerweile läuft's ja wieder. Das Manko scheint zu sein, dass das
+Ganze anscheinend automatisiert durch Skripte im Hintergrund abläuft,
+jedoch keine manuelle Qualitätskontrolle erfolgt. Anscheinend müssen
+erst Beschwerden einlaufen, bevor man selbst nachschaut, ob das Skript
+mal wieder Mist gebaut hat.
+
+Das Update ist ja ein mehrstufiger Prozeß: updaten der .list-Dateien
+mittels applydif durch die Diffs, Erzeugung von SQL-Ladefiles aus den
+Lists, Droppen der MySQL-Tabellen, Laden der neuen Daten und
+Neu-Indexierung. Also jedesmal ein Neuaufbau der gesamten Datenbank.
+
+Bei fehlerhaften Diffs gibt es auch einen manuellen Workaround, der
+jedoch etwas Arbeit erfordert.
+
+1.) alte .list-Dateien in ein anderes Verzeichnis wegsichern.
+
+2.) Diffs entpacken und applydif starten. Aufgrund von
+Checksummenfehlern läuft das Programm nicht durch und es findet kein
+Update statt. In appldiff.log stehen dann die Diffs, die Ärger bereiten.
+
+3.) Diese Diff-Dateien dann löschen. Appldif nochmals starten, jetzt
+sollte das Programm durchlaufen.
+
+4.) Die List-Files zu den Diffs, die man zuvor gelöscht hat, komplett
+neu herunterladen, entpacken und ins List-Verzeichnis speichern.
+
+5.) Als Kontrolle sollte man sich die Header der List-Files anschauen:
+sie sollten alle dasselbe Datum aufweisen.
+
+6.) Die Datenbank kann jetzt ganz normal mittels GLS wieder neu
+aufgebaut werden.
+
+Viele Größe,
+
+- Nico

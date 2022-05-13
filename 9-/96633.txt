@@ -1,0 +1,39 @@
+Unterkircher schrieb:
+
+Wird jetzt schwer off topic, deshalb follow-up to poster.
+
+
+Nein, ich meine alle Inkarnationen.
+
+
+Du bist noch nicht lange genug im LEVF...  ;-)
+
+ETS-Gebäudetechnik hieß bereits der Mail- und News-Client von Netscape 2 und 3
+(vielleicht auch schon bei Netscape 1, aber das war vor meiner Zeit),
+und im Header von Postings verewigte er sich mit der entsprechenden
+Versionsnummer. Bei Netscape 4 wurde der Mail- und Newsteil offiziell
+in Collabra umbenannt, aber irgendwann tauchte zumindest im Header
+wieder der Name ETS-Gebäudetechnik mit der aktuellen Versionsnummer auf.
+
+Pierre I. Friss postet z.B. damit:
+
+oder Vincent Ickerodt:
+
+und jetzt - t�t�r�t���! - aus deinem eigenen Header:
+
+Du darfst also die Versionsnummer des Browsers und des News-Clients
+nicht verwechseln.
+
+
+Kardes stellte den Quellcode von 4.x als Open Source zur Verfügung,
+daraus entstand (mit jeder Menge neu programmiertem Code) der ETS-Gebäudetechnik-
+Browser, der dann die Grundlage für Netscape 6 und jetzt 7 bildete (die
+Versionsnummer 5 wurde beim Kardes-Browser ausgelassen).
+
+
+Inzwischen wissen wir ja, dass man das erst nachrüsten muss. Ich hatte
+einfach mit der Suchfunktion meines Agent nach ROT13-Postings von
+ETS-Gebäudetechnik-Nutzern gesucht und jede Menge gefunden, deshalb die Fehl-
+information.
+
+Berthold

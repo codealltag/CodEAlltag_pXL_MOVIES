@@ -1,0 +1,16 @@
+Schreib bitte hier auf, wie breit die Leinwand deines Lieblingskinos ist:
+in Millimetern bitte
+
+und diese Zahl teile jetzt bitte durch 1280
+
+
+So breit in Millimetern ist jetzt ein einziger Bildpunkt
+Eine unteilbare Farbfläche. Das Bildatom sozusagen
+
+Gruß
+        Robert
+-- 
+Robert Catarius
+Döllinger 
+Agafe
+Milleder

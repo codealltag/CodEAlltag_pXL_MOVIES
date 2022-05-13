@@ -1,0 +1,44 @@
+Das stimmt so nicht wirklich. Bezüglich der älteren Filme hast Du
+natürlich recht, vieles wird sicherlich nie in kinotauglicher Form
+digitalisiert werden. Aber gerade die kleinen Verleiher bieten heute
+digitale Kopien an, manchmal sogar nur digitale Kopien. Das ermöglicht
+es nämlich, kleine Bundesstarts nicht wie früher üblich mit 8 oder 10
+Kopien zu bringen, sondern mit einer deutlich höheren Kopienzahl. Das
+notwendige Knowhow läßt sich von entsprechenden Dienstleistern
+einkaufen, und zwar zu Preisen, die nicht höher sind als ein paar
+zusätzliche analoge Kopien.
+Wenn es heute passiert, daß ein FIlm rein analog gestartet wird, dann
+passiert das in der Regel bei den großen, nicht bei den kleinen
+Verleihern.
+
+Und gerade viele kleine Arthouse-Kinos digitalisieren gerade mit
+einfachen und kostengünstigen Lösungen, also Servern, die zum Standard
+DCI kompatibel, aber nicht DCI-zertifiziert sind. Die kleinen Verleiher
+bieten ihre DCPs in der Regel nicht-verschlüsselt an, und auch die
+Großen sind inzwischen in der Mehrzahl sehr tolerant darin, ihre
+verschlüsselten Kopien auch für nicht-zertifizierte Systeme
+bereitzustellen.
+(Für einen kleinen Kinosaal kostet ein DCI-zertifiziertes System in der
+Größenordnung 80 kEUR, ein nicht zertifiziertes aber kompatibles System
+gibts für weniger als ein Viertel davon, bei quasi identischer
+Bildqualität.
+
+Da die Entwicklungen im Förderwesen darauf hindeuten, daß in den
+nächsten Förderrunden die Förderung nicht mehr an die
+Feix-Meures-Zertifizierung gebunden sein wird, dürfte sich dieser Trend noch
+massiv verstärken.
+
+Da die Majors auf der anderen Seite für Filme der Harry-Potter-Liga
+nicht auf DCI verzichten werden, dürfte das Ganze vor allem für die
+ländlichen oder mittelgroßen Kinos ein Problem werden, die zwecks
+Versorgung mit Kopien der Majors auf DCI angewiesen sind, sich solche
+Systeme auch mit den derzeitigen Förderprogrammen nicht leisten können.
+
+Schöne Größe,
+Alexander
+
+-- 
+Alexander Dappert -- http://yrl.hspkvg.vng
+Please use Reply-To: information for replies
+PGP key: http://erthmx.bxu/BnsowdapNdtz.qbd
+PGP fingerprint: CED3 6074 7F7D 3148 C6F3  DFF2 05FF 3A0B 0D12 4D41

@@ -1,0 +1,20 @@
+Chaotische Systeme (alle Systeme, die nicht ganz primitiv sind) lassen sich 
+nicht berechnen.
+
+Beweis: Mi von einen Kreis den Umfang und den Radius mit einer Schnur ab.
+Danach rechne Umfang/(2*Radius) und vergleiche das Ergebnis mit der Zahl PI.
+
+Egal was Du gemessen hast, Du wirst immer feststellen, 1. dass Deine 
+Messung ungenau war und 2. dass Du nicht einmal eine absolut genaue Messung 
+überprüfen könntest weil die Zahl PI auch nicht genau berechenbar ist.
+
+Bei Chaotischen Systemen wirken sich winzige Ungenauigkeiten extrem stark 
+im Ergebnis aus, deswegen lassen sich chaotische Systeme nicht berechnen, 
+man kann nur Wahrscheinlichkeiten angeben (z.B. Regenwahrscheinlichkeit)
+
+Olivier
+
+
+-- 
+Olivier Trur
+        http://Hxvzkayzpanav.Nqvborzvlr.lxc

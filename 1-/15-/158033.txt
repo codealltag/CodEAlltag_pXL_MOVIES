@@ -1,0 +1,20 @@
+Da gibt's mehrere Möglichkeiten:
+a) ZoneSelector (kostenlos) http://jdibed.zzj/clshdlhhkkbe/
+b) RemoteSelector (Shareware) http://pcb.ijbrxxoulieu.psl/
+c) gepatchte DLL http://boj.rzmhauzb.zmy
+
+Alle drei Möglichkeiten bieten uneingeschränkte Wahl des RC und
+macrovision-off. Die gepatchte DLL ist die komfortabelste Möglichkeit,
+da man dann kein Programm im Hintergrund laufen lassen muss. Nachteil
+hier ist aber, dass hiermit manche Titel, deren RC-Abfrage ziemlich
+"tricky" ist, nicht funktionieren (z.B. Alien, Scream Coll.Ed.). Ich
+habe die DLL und ZoneSelector installiert. ZoneSelector muss ich dann
+nur noch bei o.g. Filmen starten.
+
+Größe
+-- 
+Folkert Unverfert
+Germany, Planet Earth, funkycut Way
+
+   ** Last night fear knocked on my door. **
+** Dora answered... There was no one there. **

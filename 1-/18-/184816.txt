@@ -1,0 +1,17 @@
+Hello!
+
+
+Ein Videoverstaerker tut genau dass, was es soll, dass Signal
+verstaerken! Da wird nix getrenn oder neu generiert, dass, was
+Du beschreibst, ist ein Decoder, und KEIN reiner Verstaerker...
+
+
+Aua! An der Synchronisation 'herumgespielt' hat nur Macrovision-1,
+der heutige Macrovision-6 bringt mit einem falschen signal
+(an der hinteren Schwarzschulter) den automatischen Helligkeits-
+ausgleich durcheinander. TVs haben keinen solchen, und haben
+deshalb -meist- keine probleme mit 'Crapo-Vision'. 
+
+Macrovision-1 hat SEHR grosse probleme gemacht (bei schlechten
+Equipment ist das Bild durchgerollt usw), wurde nur SEHR kurz
+verwendet.

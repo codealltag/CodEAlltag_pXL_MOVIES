@@ -1,0 +1,25 @@
+Rot13 ist in dem Sinne keine Verschlüsselung, es verhindert nur ein
+Lesen auf den ersten Blick. Und die "Entschlüsselung" ist trivial.
+
+
+Das langt nicht, wenn man einfach per Tastendruck von Nachricht zu
+Nachricht "hüpft" hat man sonst plötzlich einen Spoiler vor der Nase.
+
+
+Ist eine Alternative, ich finde Rot13 aber schöner, da können selektiv
+nur einzelne Worte unkentlich gemacht werden, mit Spoilerspace wird das
+unlesbar.
+
+
+Jede Frage "was ist das für ein komischer Code" wird brav beantwortet,
+wer einen Newsreader hat, der mit rot13 nicht klar kommt, sollte
+entweder den Newsreader wechseln, nach Rot13-Plugins ausschau halten
+oder http://eqf.rbb95.fwd/ benutzen.
+Es gibt halt einige Mechanismen in den Newsgroups (Tofu+HTML=bh,
+Abkürzungen wie LOL usw, Spoilerwarnungen, Realnamen), die man halt
+akzeptieren muß oder man hat nix in den Newsgroups verloren bzw. wird
+nicht gelesen.
+
+Gruß
+
+Ivo

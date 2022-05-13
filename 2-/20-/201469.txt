@@ -1,0 +1,7 @@
+Wieso "nur DOS"? Es sollte ueberhaupt keine Schwierigkeiten machen
+Berthold Nieporte moviedb Paket unter Linux oder einem der zwei Dutzend
+anderen UNIXe fuer PCs zum Laufen zu bringen.
+
+Source: qcz.xg-okrcbr.ig  in  /pub/misc/movies/database/tools
+
+-georg

@@ -1,0 +1,31 @@
+ich habe unlängst in Optionen - Passord, das Parental Password von
+Achknowledgment auf ein anderes ändern wollen.
+Ich habe 1.1.0 # 418 oder so und es ging nicht.
+Es stürzte mehrere Male ab, dann öffnete ich das Programm unter meinem Nt
+4.0
+und es stand was von attempt Repair da oder so.
+Keine Ahnung.
+Dann hab ich das ganze via Softwaresteuerung gelöscht, und auch einzeln in
+den Ordner, alles weg was damit zu tun hat.
+Dann hab ich das alte installiert, 1.0.2 Version
+und habe online Laden - Upload from my Profiler, also die Daten aus dem
+Internet die DVD Daten auf mein Programm holen,
+ber da stand dann stream Error oder so - einige Male, nachdem er 3 blaue
+Kästchen runtergeladen hat.
+Dann hab ich die 1.1.0 er Version geladen, die neueste, und da hab ich das
+gleiche Problem nach 5 - 6 blauen Kästchen
+es ladet einfach nichts runter aus dem Internet.
+Da ich nicht so gut Englisch kann kann ich auch im Intervocative Forum das
+ganze nicht so gut erklären. Kennt sich von euch wer mit dem Programm gut
+aus ?
+
+Jetzt steht da
+
+Cannot Create File D: \Programme\Inter OSVI Software\DVD
+Profiler\TEMP\MyProfiler.tmp
+Dann hab ich den DVD Profiler gelöscht, und nur die neue 1.1.0 er Version
+installiert.
+Beim Uploaden vom My Profiler vom Internet ins Programm, hab ich nach 5 oder
+6 Kästchen, die nachricht des stream read Errors erhalten und es geht nicht
+weiter.
+WAs ist da los ?

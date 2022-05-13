@@ -1,0 +1,23 @@
+Hallo,
+
+ich bin auf der Suche nach einer Online-Datenbank mit DVDs. Es reicht, wenn
+deutsche DVD drin sind, kein HC, keine Importe, etc
+
+Das Problem: Zum Abfragen/suchen habe ich nur die EAN.
+
+Ergebnis meiner bisherigen Recherche:
+Soccx: nett, aber mit deren ASIN komme ich nicht weit, die EAN gibt es
+nicht/selten bei DVD
+jjy.mk: keine API
+
+Kennt jemand noch eine Möglichkeit?
+
+Eigentlich bräuchte ich ja eine Verbindung EAN <-> ASIN, aber das kann ich
+wohl vergessen bzw. muss es für den Einzelfall selbst zusammenbauen (zB
+suche nach EAN -> Titel -> suche nach ASIN)
+
+Darf auch kostenpflichtig sein, dann aber nur pro Abfrage.
+
+Gruß
+
+Günther

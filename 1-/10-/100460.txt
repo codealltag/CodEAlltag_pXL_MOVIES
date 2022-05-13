@@ -1,0 +1,27 @@
+Ulfert Knöpp schrieb am Donnerstag, 24. Oktober 2001 18:19:
+
+nee, das ist ein Denkfehler. Die Pixel, die die Videokamera aufnimmt sind 
+nicht quadratisch, sondern breiter als hoch. Im 4:3 Modus etwa 1.09:1 und 
+im 16:9 Modus etwa 1.45:1.
+Die DV Auflösung für PAL ist immer 720x576, wobei rechts und links noch ein 
+Overscanbereich von je 8 Pixeln ist, sodaß der nutzbare Bildbereich 704x576 
+Pixel beträgt. Um auf dem Monitor mit korrekten Proportionen dargestellt 
+werden zu können, müssen diese 704x576 auf 768x576 (4:3) bzw 1024x576 
+(16:9) "gestreckt" werden.
+
+solange die Kamera das Band korrekt lesen kann und keine Aussetzer in Bild 
+und Ton vorhanden sind ist die Qualität die gleiche.
+
+NOEH hat arge Probleme, DV Video auf dem PC Bildschirm in ansprechender 
+Qualität darzustellen. Die beste Qualität sollte man erhalten, indem man 
+das Video nach dem Bearbeiten per DV-In auf die Kamera zurückspielt.
+
+mfG.
+
+Sandro
+
+-- 
+Sandro Eiben                                   _._     _,-'""`-._
+busrba20330@domstbor.ui   Tel: 0500/7862261    (,-.`._,'(       |\`-/|
+Diese Nachricht wurde ohne Zuhilfenahme            `-.-' \ )-`( , o o)
+von Microsoft-Produkten erstellt.              -bf-      `-    \`_`"'-

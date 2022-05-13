@@ -1,0 +1,24 @@
+Hallo Heimkinofreunde,
+
+Nach langer Suche bin ich leider zu keinem vernünftigem Ergebniss
+gekommen.
+Ich bin sicher das Ihr mir weiterhelfen könnt.
+Folgendes:
+
+Für verschiedene Seminare benutzen wir einen Beamer für die
+Präsentationen. Die werden direkt von Laptop1 eingespielt ( 1 Meter
+entfernung), mein Arbeitsplatz befindet sich 20 Meter entfernt. Von
+dort aus werden zwischendurch Videos und Bilder eingespielt mit
+Laptop2. Im moment funktioniert das mit einem 20 Meter S-Video Kabel.
+Die Qualität ist nicht sehr überzeugend, deshalb suche ich eine andere
+Lösung. Wäre das acuh mit RGB Kabel umzusetzten? gibt es Software oder
+Hardware um das S-Video Signal zu Verstärken? Welche Tips habt ihr?
+
+
+Beamer: Video,S-Video,RGB Eingang
+Laptop1: S-Video, RGB Ausgang
+Laptop2: S-Video, RGB Ausgang
+
+
+Danke für die Hilfe
+Claudio Kleine-Beek

@@ -1,0 +1,12 @@
+Man wird für diese Applikation die Bewegtbildkompression sicherlich
+nicht von Scratch aus neu erfinden sondern auf bekannte Algorithmen
+zurückgreifen. 
+
+Eine standardisierte Formatkonvertierung, die auf bekannten Algorithmen 
+basiert und bei der Eingangs- und Ausgangsdaten bekannt sind -
+da ist doch klar, was passiert. 
+Selbst wenn da eine Organisation hinter steht, die das genaue Format
+geheimhalten will, warum sollte sie wesentlich mehr Erfolg als bei
+DeCSS haben?
+
+Ciao, Kesdz                          xlrjrzie@enwzotvd.sw

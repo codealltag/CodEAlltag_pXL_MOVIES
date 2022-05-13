@@ -1,0 +1,4 @@
+s/Der Transporter/Der Transporteur/
+Ersteres ist ein Gegenstand (z.B. Auto), zweiteres die Person, die
+damit Sachen von A nach B schafft.
+             cu nick

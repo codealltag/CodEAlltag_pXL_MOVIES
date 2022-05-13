@@ -1,0 +1,13 @@
+Quicktime ist ein "Container" analog zu AVI, mit was encoded wurde,
+steht damit nicht fest.
+MPEG4 kann z.B. im "Container" *.mov genauso wie in einem *.AVI
+enthalten sein.
+
+Deine Aussage ist: Ebedu ist sinnig, WEM proprietär und unsinnig.
+Es lebe der Wettbewerb.
+
+
+DivX ist ein de/encoder
+
+
+reagrds, Luca

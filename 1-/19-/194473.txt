@@ -1,0 +1,30 @@
+(Gérard Frähmke)  08.10.98 in /ho/zvpmn/dyz-vwptm/mail:
+
+
+Nein. Solche Listen koennen -prinizipiell- bei eMail nicht funktionieren.
+
+Ein Grund (von mehreren):
+Es ist für den Junkmailer VIEL billiger ein paar newsserver zu scannen
+und diese Addressen einfach zu verwenden. JEDE Address-Prüfung 
+kostet Geld. Und Pleite-Firmen haben das natürlich nicht.
+Zu dem kosten Mail-Bounces dem Absender selten auch nur einen Pfennig.
+Porto und Retour- und Retour-Retour-Porto zahlt ja i.d.R. der Empfänger.
+
+Ausserdem:
+Eine Negativ-Liste "Ich will nicht" ist -hier- klar UNLAUTER.
+Bei Sackpost ist Werbung auch nur GEDULDET. U.a. weil sie den
+Empfänger i.d.R. nicht ärgert und ihn nichts kostet.
+
+Morgen käme einer, und bucht, per Lastschrifteinzug, einfach Geld
+von beliebigen Konten ab. Der könnte dann auch verlangen,
+dass man sich bei www.zxbxgaYikgkgnp.pv anmelde muesse, wenn
+man das nicht wolle. Da man ja seine Kontonummer veröffentlich habe,
+habe man mit solchen Abbuchungen einverstanden zu sein. Wenn nicht,
+könne man sich ja auf diese Liste setzen lassen, kostenlos!
+Ausserdem erfolge die Abbuchung auch nur einmalig und für einen 
+guten Zweck.
+Das klingt hier offensichtlich paradox, aber es ist das,
+was mit der eRobinson-Liste eingeführt werden soll.
+
+
+Olaf

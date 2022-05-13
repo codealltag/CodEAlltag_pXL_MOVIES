@@ -1,0 +1,10 @@
+Siebelt Rückerl wrote in <5iu9n5$ep7$3@vphs.xigpvblvhl.fck-yytizg.ft>
+on 20. 09. 21 19:31:54 +0200:
+
+IMHO könnte man Macrovision schon auf LDs packen, würde aber nichts
+bringen, weil fast jeder Player einen Time Base Corrector (TBC)
+eingebaut hat und dieser den Macrovision-Schutz sofort wieder
+aufhebt - wie er es auch in entsprechenden Videorecordern mit TBC
+tut. :-)
+
+Henrik

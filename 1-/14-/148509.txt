@@ -1,0 +1,70 @@
+hierbei
+
+-----------------
+Ich habe mich vielleicht etwas ungünstig ausgedrückt. Ich meinte folgendes:
+
+Nach dem Einschnitt des zusätzlichen Filmbildes differiert der TC auf dem
+Film zur CD um - 1 Frame. Beispiel:
+
+Film                        CD
+00:00:00:01           00:00:00:01        Film und CD laufen synchron
+00:00:00:02           00:00:00:02
+Fremdbild              00:00:00:03        Im Film erscheint das
+eingeschnittene Bild, CD lauft weiter
+00:00:00:03            00:00:00:04        CD um 1 Bild asynchron
+00:00:00:04            00:00:00:04        CD regelt nach (Ton mit
+00:00:00:04 wird 2 x abgetastet)
+00:00:00:05            00:00:00:05        Film und CD laufen synchron
+
+Die Tabelle zeigt, daß der CD-Ton bei TC 00:00:00:04 zweimal wiedergegeben
+werden muß, um die Synchronität wiederherzustellen.
+
+
+es
+ 1/4
+-----------------------------
+Bei Ausfall oder fehlerhaftem TC laufen CD und Projektor einige Zeit (den
+genauen Wert kenne ich nicht) unverkoppelt weiter. Aufgrund der
+Gleichlaufeigenschaften der verwendeten Geräte sind unter normalen Umständen
+keine sichtbaren Asynchronitäten zu erwarten.
+
+Wenn der TC wieder einwandfrei gelesen werden kann, steuert die Elektronik
+eventuell doch auftretende Abweichungen unmerklich nach. Erst wenn der TC
+über einen längeren Zeitraum hinweg unleserlich bleibt, schaltet das Gerät
+auf den Lichtton um. Soweit der Normalfall.
+
+Im hier diskutierten Fall spielt der durch den Einschnitt des fremden
+Bildmaterials erzeugte TC-Ausfall nur eine untergeordnete Rolle, da die
+Maschinen ja auch ohne Synchonsignal einige Zeit problemlos weiterlaufen
+können. Der Grund für die Asynchronität liegt tiefer.
+
+Hier wieder das Zahlenbeispiel:
+
+Anzahl der Filmbilder        TC Wert
+1                                        00:00:00:01    TC wird gelesen
+2                                        00:00:00:02
+3 (Fremdbild)                     ----                Korrekturschaltung
+ermittelt den TC 00:00:00:03
+4                                        00:00:00:03    TC wird gelesen -
+Korrekturschaltung ermittelt Differenz
+
+Die Maschine führt hier eine eigentlich für sie unlogisch erscheinende
+Korrektur durch: Der Abstand zwischen zwei vollen Sekunden-Timecodewerten
+beträgt normalerweise 24 Bilder. Plötzlich liegen die zwei vollen
+Sekundenwerte jedoch 25 Bilder auseinander (da ja ein  uncodiertes Bild
+hinzugekommen ist). Unter normalen Umständen ist dies unmöglich.
+
+Tritt dieses Problem durch den Einschnitt zahlreicher Bilder in kurzen
+Abständen mehrfach auf, wird die Maschine diese unlogischen Werte  u.U. als
+Lesefehler interpretieren (obwohl es natürlich keiner ist) und ihn
+ignorieren . Da die CD noch einige Zeit unverkoppelt weiterläuft, kommt es
+zur oben beschriebenen Asynchronität, die sich an jeder Klebestelle um ein
+Bild verschlimmert. Wenn der "Lesefehler" lange genug andauert, schaltet das
+Gerät auf den Lichtton zurück. Dieser ist zwar jetzt wieder synchron, aber
+durch die unorthodoxe Bearbeitung tatsächlich gestört.
+
+Alles klar?
+
+Viele Größe
+s.neudeck@gmx.net
+www.hkyqkqanuqk-fzsajs.rk

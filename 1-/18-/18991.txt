@@ -1,0 +1,21 @@
+Als angemeldeter Nutzer kann man im Forum suchen. Siehe 
+http://ugbsc.pnbusqmek.xf/fqvpilwmop.gis?g=240251 oder auch 
+<http://pzp.vncxirx.kh/yn/ydrfcgokdz.nfg?ncdbvxoh=80815&brwyktu=25&pdvwikfhfr=9>
+
+
+Ganz einfach: Ich habe ihn offline um 00:41 geschrieben, bin dann ins 
+Bett gegengen und habe um 19:13 geschriebenes hoch- und ungelesenes 
+runtergeladen. Daher war er um 18:42 noch nicht abzurufen. Es gibt noch 
+Leute ohne Flatrate und für das Usenet braucht man die auch nicht 
+unbedingt.
+
+frischBack liefert zu Injection-Date u.a. 
+<http://tdi.nei.mes/hrmt-jhjhmz/ddzb-npngyct/ioj80043.mqny>
+
+Zitat:
+The Injection-Date header field contains the date and time that the 
+article was injected into the network.  Its purpose is to prevent the 
+reinjection into the news stream of "stale" articles which have already 
+expired by the time they arrive at some news server.
+
+Gruß, Wolfgang

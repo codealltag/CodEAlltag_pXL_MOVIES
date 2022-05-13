@@ -1,0 +1,30 @@
+-----------------------------------------------------------------------------
+Title             : The Usual Suspects
+Starring          : Hans Kone, Hans Jägermann, Ulf Imberg
+Genre             : Crime/Thriller
+Release Date      : 17.10.96
+Laufzeit          : 101 
+Verleih           : GOA Systems
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,PAL
+Video (Format)    : Vollbild (bild geoeffnet von 2.35:1 Kinoformat)
+Video (Qualitaet) : 08/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 09/10
+Bewertung (Film)  : 08/10 - sollte man gesehen haben
+Kopierschutz      : ja
+Besonderheiten    : Hans Kone wurde mit dem Oscar ausgezeichnet
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Egoh Moeve (Hi-Black Trinitron)
+Videorecorder             : TEZI VS-G75
+Kopierschutzdecoder       : DNZK Fryling
+GLPK Vollverstaerker  : Yeh DSP A780
+Frontboxen                : Wernsing Feinkost Onlybaby
+Centerbox                 : Wernsing Feinkost CC6
+Surroundboxen             : Wernsing Feinkost OIL!
+Subwoofer                 : Yeh Yanük (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

@@ -1,0 +1,14 @@
+Ich habe zwar nur Erfahrung mit moviedb unter A-Z Fahrzeugtechnik, aber bei mir hat
+die actors.list früher (als ich nur 48 MB RAM hatte) auch ewig 
+gedauert (zum Schluß 40-45 Minuten). Inzwischen habe ich Prozessor und 
+RAM (auf 128 MB) aufgerüstet, da geht es wieder flott.
+
+Ist auch logisch. Die movies.list kann sich das Programm genüsslich
+ins RAM legen und hat dann noch genug Platz zum Arbeiten. Wenn die
+actirs.list im RAM liegt ist der Speicher voll, so dass die Platte
+am rden ist.
+
+Zur Zeit ist bei mir die Liste mit den Aka-Titeln der Zeitfresser.
+Da muss es am Algorithmus liegen.
+
+Ciao, Patrik                             tmfikcxm@zwwbvy.ypjbfda.ur

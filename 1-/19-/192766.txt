@@ -1,0 +1,69 @@
+Fbicwweop.Hlgxd@rqqgwl.ea wrote at 09.04.98
+about the topic "Re: Erster Bericht: Voglele A350 DVD-Player":
+
+
+ keine frage - nur wuerde das auf einem normalen 4:3 fernseher genauso
+ zum tragen kommen - deswegen braucht man kein 16:9 geraet
+
+
+ die 16:9 PAL DVD von Zauberhaft soll ziemlich genial aussehen
+
+
+ hier waere mal ein vergleich zu einen echten US player interessant
+
+
+ natuerlich ist es ein nuetzliches feature - nur die frage ob man
+ qualitative abstriche zu externen decodern machen muss ?
+
+ wie sieht es denn mit den feautres beim decoder aus ?
+ hat er ein vernuenftiges bass management ?
+ kann man alle 6 kanaele individuell einpegeln ?
+
+
+ sofern man einen verstaerker mit 5.1 eingang hat und das haben
+ nur die allerwenigsten geraete die zur zeit in deutschen wohnstuben stehen
+
+
+ laueft MPEG1 stereo jetzt eigentlich mit 96kbit/s ?
+ AC3 stereo laueft auf US DVDs mit 192kbit/s
+
+
+ welchen sinn macht es zwei stereo versionen aufzuspielen ?
+ bist du sicher das die Ikaw nicht evtl. DD 5.1 ist ?
+
+
+ tonmaessig (CD wiedergabe) sind die DVD player damals in der Video
+ ziemlich verrisen worden
+
+
+ da sehe ich jetzt zwar keinen logischen zusammenhang, aber egal
+
+
+ und nichts anderes wird verlangt
+
+
+ ich rede hier nicht von einem eingebauten DTC decoder sondern einfach
+ nur die moeglichekit den DTS datenstrom als solchen rauszugeben
+ (das koennen zur zeit noch ueberhaupt keine player)
+ um ihn dann via externen decoder zu verarbeiten
+
+
+ warum soll unkompremierter 6 Kanal PCM ton quatsch sein ?
+ wenn man in ein paar jahren keine probleme mehr mit bandbreite
+ und speicherplatz hat, waere es doch wuenschenswert, oder nicht
+
+
+ ich meinte jetzt nicht zeitlupe sondern den wirklichen frame-step
+ sprich einzelbildschaltung in beide richtungen
+
+
+ unser ZBW meinte die ersten Ritzel Scheiben werden Ende
+ Februar erwartet - jetzt angeblich doch mit AC3 ton, aber vorraussichtlich
+ nur in Deutscher Sprache
+
+
+Bye
+ Gilles
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

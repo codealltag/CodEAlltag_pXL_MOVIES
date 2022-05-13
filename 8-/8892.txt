@@ -1,0 +1,15 @@
+"Philippe Huisinga" <xlq.phx@dymxlfz> schrieb im Newsbeitrag 
+news:empye6$s7l$58$6@pvgk.w-pmfrhr.spg...
+
+Danke für das Angebot. PM ging raus, kam aber mit
+
+Action: failed
+Status: 5.5.0
+Diagnostic-Code: smtp;550-5.1.1 user unknown
+550 5.1.1 Unknown recipient.
+
+zurück. Magst Du mir trotzdem verraten wo ich den Film leihen kann?
+
+Vielen Dank!
+
+Lilly

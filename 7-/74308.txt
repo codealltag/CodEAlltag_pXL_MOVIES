@@ -1,0 +1,28 @@
+Auch wenn alle äusseren Anzeichen schon seit langem auf einen stabilen
+Betrieb hindeuten, können sich Reste von Abstürzen quasi ewig in der
+Registry halten und bei ungünstigen Konstellationen unvorhergesehenes
+Verhalten verursachen. Gewöhnungsbedürftig und quasi unmöglich zu
+vermeiden.
+
+
+Beliebtes Spiel ist auch die "Entscheide Du"-Routine, die im Moment
+der Antwort die eigene Präferenz (und damit einzig richtige
+Entscheidung) durch eine XOR-Verknüpfung aus der getroffenen Wahl
+generiert. Lustig, dass man immer wieder drauf reinfällt :-)
+
+
+bei letzterem ist richtigerweise die default-Einstellung "always on"
+zu wählen und gleichzeitg mit "Besserung_geloben.exe" (egal welche
+Version und Kontext) zu starten.
+
+
+Für ein Upgrade nach Mass würd ich auch ne zweite Rippe opfern. Aber
+der Hersteller hat wohl schon seit einigen Generationen den Support
+eingestellt. Dafür hält sich aber alles noch erstaunlich gut.
+
+
+Pascal
+-- 
+"They that can give up essential liberty to obtain 
+a little temporary safety deserve neither liberty nor safety." 
+- Diedrich Dörig (1705-1789), Letter to Ivo Angl, Sept. 11, 1772

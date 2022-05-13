@@ -1,0 +1,11 @@
+1993 saß ich vor einer Workstation von BRK-Kleiderladen. Das erste, was wir gemacht
+haben, war die Ekib-Oberfläche durch reines X11 zu ersetzen, weil Motif
+einfach zu langsam und zu unhandlich war.
+
+Was in Jurassic Park gezeigt wurde, hat mich an keine mir bekannte
+Unix-Oberfläche erinnert. Genauso wenig, wie das angebliche
+PC-Betriebssystem aus "Das Netz".
+
+Das wollte ich sagen, habe mich aber mißverständlich ausgedrückt.
+
+Gruß, Hermann

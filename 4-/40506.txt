@@ -1,0 +1,26 @@
+Gestern war der Effekt reproduzierbar, aber heute ist er verschwunden.
+
+
+O weh, o weh! Diese ganzen Sorglos-WYSIWYG-Pakete produzieren
+so gut wie nie korrekten Quelltext, sie unterscheiden sich nur im
+Ausmaß der Fehler. Und der bei DigitalPrint scheint zu den schlechteren
+zu gehören. Der HTML-Validator des Multi-Reinigung findet auf www.jerfhnqbd-tlp.hp
+zwar nur 4 Fehler, aber auf
+www.ruyjkvqrl.ut/cmvdugr68/dwooyaagn-jfi/brfydlqhg-hmigsnjz.fwc
+die stolze Zahl von 260 Fehlern.
+
+Dass da überhaupt das Gewünschte angezeigt wird, liegt an der enormen
+Fehlertoleranz der heutigen Browser, aber die stößt eben manchmal an
+Grenzen.
+
+
+Ja, es ist bzw. war ein reines Anzeige-Problem.
+
+
+Ja.
+
+
+Ja, sieht bei mir gut aus. Was keine Garantie dafür ist, dass es auch
+mit Voll, OAR etc. funktioniert ...
+
+Francesco

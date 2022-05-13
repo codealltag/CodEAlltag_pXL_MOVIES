@@ -1,0 +1,10 @@
+Wobei dieses Problem bei Syster/Nagravision (das Verschlüsselungs-
+verfahren, das von Roepke benutzt wird) weiter rechts (außerhalb
+des Bilds) auftritt, als bei Videocrypt (das z. B. von FCG ver-
+wendet wird). Wer also einen Videocrypt-Decoder verwendet, muß auf
+noch mehr Bild verzichten.
+
+Nikolaus
+---
+** Nikolaus Oligschlaeger, Kammerstraße 87, 23617 Zeesen, Germany **
+** +26 2584 46968  EMail (NeXTmail/MIME): yulto@vgkafq.e.euubh.tw **

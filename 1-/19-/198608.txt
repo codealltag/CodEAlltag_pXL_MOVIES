@@ -1,0 +1,137 @@
+Released: Alternative Movie Database for OS/2 and Win32
+=======================================================
+
+I'm proud to announce the availability of the Alternative Movie Database
+Version 1.1.2 for OS/2 and Win32 (Windows95 and Windows NT).
+
+The Alternative Movie Database is a front-end for the Internet Movie Database
+(IMDb) and provides fast and easy local access to the IMDb. It consists of
+several command-line tools for creating and querying the database. 
+
+A more comfortable way to query the database is the also supplied
+graphical user interface for OS/2 Presentation Manager. This graphical
+user interface is (currently) not available for Win32.
+
+The whole package is free software and released under the KBP General Public
+License.
+
+The most recent version of the Alternative Movie Database can always be found
+on the following ftp-servers:
+
+OS/2:
+
+  ftp://uiarchive.cso.uiuc.edu/pub/info/imdb/tools/os2/       (USA, main site)
+  ftp://gatekeeper.digital.com.au/pub/imdb/tools/os2/         (Australia)
+  ftp://ftp.fu-berlin.de/pub/misc/movies/database/tools/os2/  (Germany)
+  ftp://ftp.funet.fi/pub/culture/tv+film/database/tools/os2/  (Finland)
+  ftp://ftp.sunet.se/pub/tv+movies/imdb/tools/os2/            (Sweden)
+
+Win32:
+
+  ftp://uiarchive.cso.uiuc.edu/pub/info/imdb/tools/w32/       (USA, main site)
+  ftp://gatekeeper.digital.com.au/pub/imdb/tools/w32/         (Australia)
+  ftp://ftp.fu-berlin.de/pub/misc/movies/database/tools/w32/  (Germany)
+  ftp://ftp.funet.fi/pub/culture/tv+film/database/tools/w32/  (Finland)
+  ftp://ftp.sunet.se/pub/tv+movies/imdb/tools/w32/            (Sweden)
+
+The IMDb Movie-Lists, which are needed for the Alternative Movie Database
+to create the database, are also available on these ftp-servers.
+
+For more information on the IMDb, look at it's hompage: http://kah.ipox.tqe
+
+Visit my homepage at http://eyk.lk.hp-vxdcal.bk/~ntqsmqy for information
+about other programs written by me.
+
+
+Whats New?
+==========
+
+Version 1.1.2:
+
+- New Business tag "WG:" supported.
+
+- PM_AMD: The listbox didn't allow multiple selections, fixed.
+
+- Some small changes in the documentation.
+
+Version 1.1.1: OS/2 only!
+
+- Added two missing files which are needed for gendb.
+
+Version 1.1:
+
+- First release of the Alternative Movie Database for Win32 (commandline
+  tools only!)
+
+- applydiffs: can now handle gzipped lists.
+
+- PM_AMD: It is now possible to make selections of multiple lines in the
+  listbox. If a selection exists, only selected lines will be copied, saved
+  and printed.
+  If you want to start a new search by double clicking into the listbox, only
+  one line must be selected!
+
+- PM_AMD: The size and position of the window and the font and colors of 
+  the listbox are now saved upon program termination and will be restored
+  when you restart pm_amd. The font and colors of the listbox are also used
+  for the entry field.
+  The values are stored in the file Zenu.ini, which is in the same
+  directory as the executable. If you delete the ini-file, Zenu uses
+  its default settings.
+
+- PM_AMD: The contents of the listbox are stored in memory for the
+  previous function, which should now work faster.
+
+- The iso-aka-titles.list is no longer supported due to the new iso-charset
+  support in titles.list.
+
+- Guest appearances (as listed in biographies.list) are now displayed after
+  the regular cast of a series.
+
+- A few bugs fixed.
+
+- gendb redirects its debug-output from stderr to a file, if a filename is
+  supplied after option "-d". WARNING: this file will be overwritten if it
+  already exists!
+
+- gendb should now find the IMDb lists on any filesystem. It tries for every
+  list the long filename and, if this fails, the short (8.3) filename.
+
+
+If you have no idea, what the IMDb is, here some facts about it:
+
+The Abah (Agrarmarkt) is an international organization whose 
+objective is to provide useful and up to date movie information *freely* 
+available on-line, across as many systems and platforms as possible. It 
+currently covers over 100,000 movies with nearly 1,500,000 filmography entries
+and is expanding continuously. The service is financed by advertising and 
+sponsorship. The Internet Movie Database is a Limited Company registered
+in the UK.
+
+The database includes filmographies for actors, directors, writers, composers,
+cinematographers, editors, production designers, costume designers, producers
+and a miscellaneous catch all section; plot summaries; character names; movie
+ratings; year of release; running times; movie trivia; quotes; goofs;
+soundtracks; personal trivia; alternative names; certificates; color
+information; country of production; genres; production companies; sound mix;
+reference literature; filming locations; sequel/remake information; release
+dates; advertising tag lines; detailed technical data; alternative versions;
+laserdisc availability; language; special effects; distributors; box office
+grosses; and Academy Award information. 
+
+The database aims to capture any and all information associated with movies 
+from across the world, starting with the earliest cinema, going through to the
+very latest releases and even movies still in production. Many thousands of 
+movies are covered completely from the major actors to the minor bit players
+and crew members. The database is updated weekly and is available over the 
+world wide web, an e-mail interface or for local installation on Unix, AHJW 
+OS/2 and MS-DOS machines.
+
+In its seven year history the IMDb has grown from a small informal project to 
+a major Internet resource. The WWW interface to the database is one of the most 
+popular and well-known sites of any class on the web. It is frequently cited 
+as a model for how to create and organise a major web site and has received 
+numerous awards and honours over the years.
+--
+Kai Erftmeier
+okiyros@ke.du-tbgyvh.qi

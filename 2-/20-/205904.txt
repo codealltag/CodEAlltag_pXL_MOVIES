@@ -1,0 +1,20 @@
+Torsten C. Vennebusch schrieb folgendes:
+
+SWS> heute im Ubenu Prospekt gelesen : Motion-JPEG
+SWS>
+SWS> Was ist das ? Ich dachte MPEG is the name of the game ;-) also
+SWS> MPEG waere fuer bewegte Bilder, fuer was ist Motion JPEG ?
+
+Motion JPEG ist ein anderes, beliebtes Verfahren, um Animationen zu
+speichern. Hierbei werden die einzelnen Bilder im JPEG-Verfahren gepackt.
+Es entsteht also nicht so ein kompletter Datenstrom wie bei MPEG.
+
+Motion JPEG hat gegenüber MPEG einige Vorteile. Es ist z.B. einfach
+möglich, jedes Bild direkt anzufahren bzw. eine Animation rückwärts
+abzuspielen, was bei MPEG schwierig bis unmöglich ist.
+
+Der Nachteil davon ist natürlich, daß die Kompressionsrate nicht so hoch
+liegt wie bei MPEG.
+
+--
+Noah Verhuven

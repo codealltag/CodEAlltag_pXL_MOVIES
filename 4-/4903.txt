@@ -1,0 +1,17 @@
+Nuja, ich war etwas zu pauschal: Es gibt mehrere Varianten der
+Polfilter-Technik, darunter auch welche mit zirkular polarisiertem
+Licht. Da spielt dann die Kopfneigung keine Rolle mehr. Das gilt auch
+für RealD, was wohl die derzeit generell verwendete
+Passivbrillen-Technik ist. Klappt auch gut. Allerdings braucht man dafür
+eine polarisationserhaltende Leinwand - die man dann auch regelmäßig
+abstauben sollte, damit nur die Leinwand und nicht der Staub das Bild
+reflextiert. Und das ist wohl manchmal ein Problem.
+
+
+Hihi, ja, das ist unvermeidbar: Die Stereoskopie gibt Bildgröße *und*
+Bildabstand vor - und damit "errechnet" das Gehirn auch automatisch eine
+absolute Objektgröße, die im Fall eines Shuttles natürlich etwas unter
+den Erwartungen zurückbleibt ;-)
+
+
+         Eilert

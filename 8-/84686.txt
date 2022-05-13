@@ -1,0 +1,6 @@
+Beim Chatten erscheinen die Nachrichten des Gegenübers nicht im Ganzen,
+sondern jeder Buchstabe kommt einzeln an, als würde man es selbst
+tippen.
+
+MfG
+Philipp

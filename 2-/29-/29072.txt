@@ -1,0 +1,217 @@
+NG-Statistik drfm für den November 2005
+basierend auf ngstat von Erwin Bellers.
+
+18/08: 2494 postings  +20.02%
+
+19/08: 2645 postings   +6.05%
+20/08: 2541 postings   -3.93%
+21/08: 2041 postings  -19.68%
+22/08: 2242 postings   +9.85%
+23/08: 1720 postings  -23.28%
+24/08: 2227 postings  +29.48%
+12/09: 1811 postings  -18.68%
+13/09: 1576 postings  -12.98%
+14/09: 1074 postings  -31.85%
+15/09:  658 postings  -38.73%
+16/09: 1142 postings  +73.56%
+
+17/09: 1425 postings  +24.78%
+
+
+Die meisten Artikel innerhalb 1 Stunde:
+    23 Artikel zwischen 02.11.2005 16:01:50 und 02.11.2005 17:01:49
+
+Die meisten Artikel innerhalb 24 Stunden:
+   123 Artikel zwischen 02.11.2005 10:23:56 und 03.11.2005 10:23:55
+
+Die artikelst�rkste Nacht war am 04.11.2005:
+    11 Artikel zwischen 0:00 Uhr und 6:00 Uhr
+
+Der kürzeste Zeitabstand beträgt 3 Sekunden,
+    vom 27.10.2005, 15:51:16 bis 27.10.2005, 15:51:19
+
+Der längste Zeitabstand beträgt 10:22:50 Stunden,
+    vom 05.11.2005, 23:09:00 bis 06.11.2005, 09:31:50
+
+Die schnellste Antwort gab es in 25 Sekunden von Hinrich Ulm
+    auf news:otsiagn0zg.6pb.noquqj.oyhhmegzn@vbjuqypqc.hfakh.tpr
+    vom 20.10.2005, 08:30:50 bis 20.10.2005, 08:31:15
+
+Die späteste 1. Antwort gab es nach 27 Tagen, 21:43:22 Stunden
+    von Olaf Liebaug auf news:4x3bbfFzqjz2V5@xtuknyyzre.gee
+    vom 13.10.2005, 12:27:49 bis 10.11.2005, 10:11:11
+
+Das älteste unbeantwortete Initialposting im Juni ist vom 16.10.2005, 11:05
+    news:75x44wq7$7$08279$679r39mr@uteg.vlgd.js von pingm
+
+
+Autoren mit den meisten Postings (1425 Postings)
+
+ Pos | Anz | FUp |  Lin | Avg | KByte | Autor                 | Diagramm
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+   1 |  76 |  71 | 1795 |  23 | 152.9 | Hinrich Vögtle         |  5.3%  xxxxx
+   2 |  61 |  51 | 1382 |  22 | 124.0 | Albrecht Kerschke         |  4.3%  xxxx
+   3 |  58 |  84 | 1198 |  20 | 130.4 | Luca Elfers          |  4.1%  xxxx
+   4 |  55 |  47 | 2262 |  41 | 139.4 | Hero Prieme        |  3.9%  xxxx
+   5 |  34 |  33 |  854 |  25 |  67.0 | Dieter Kluever        |  2.4%  xx
+   6 |  33 |  25 |  600 |  18 |  51.0 | orlando lampke          |  2.3%  xx
+   8 |  31 |  26 |  936 |  30 |  70.1 | Viktor Vuellers         |  2.2%  xx
+   9 |  26 |  25 |  522 |  20 |  43.6 | Ernst Eicholt      |  1.8%  xx
+  11 |  23 |  24 |  663 |  28 |  45.9 | Sandro Lamoth            |  1.6%  x
+  14 |  22 |  18 |  621 |  28 |  45.7 | Urban Würtenberg      |  1.5%  x
+  16 |  21 |  16 |  392 |  18 |  34.9 | Hinrich Althenne           |  1.5%  x
+  18 |  19 |  19 |  629 |  33 |  50.7 | Dominik Unterwurzacher          |  1.3%  x
+  19 |  18 |  12 |  321 |  17 |  30.5 | Ivano Mommertz       |  1.3%  x
+  20 |  17 |  14 |  820 |  48 |  49.4 | Dina Waldhans      |  1.2%  x
+  21 |  16 |  22 |  309 |  19 |  28.1 | Niklaus Elsholz        |  1.1%  x
+  23 |  15 |  26 |  476 |  31 |  34.2 | Edouard Zimber         |  1.1%  x
+  25 |  14 |  10 |  370 |  26 |  27.8 | Gerard Kirschmann            |  1.0%  x
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor                | FUp | Avg. | Artkl | Self | SupS | Diagramm
+-----+----------------------+-----+------+-------+------+------+------------
+   1 | Luca Elfers         |  84 | 1.45 |    58 |      |      |  6.5%  xxxx
+   2 | Hinrich Vögtle        |  71 | 0.93 |    76 |      |      |  5.5%  xxxx
+   3 | Albrecht Kerschke        |  51 | 0.84 |    61 |      |      |  3.9%  xxx
+   4 | Hero Prieme       |  47 | 0.85 |    55 |      |      |  3.6%  xx
+   5 | Dieter Kluever       |  33 | 0.97 |    34 |      |      |  2.6%  x
+   6 | Edouard Zimber        |  26 | 1.73 |    15 |      |      |  2.0%  x
+   8 | Ernst Eicholt     |  25 | 0.96 |    26 |      |      |  1.9%  x
+  10 | Sandro Lamoth           |  24 | 1.04 |    23 |      |      |  1.9%  x
+-----+----------------------+-----+------+-------+------+------+------------
+
+
+Autoren mit den meisten Threads (94 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Tuvok                |   5 |    16 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+-----+----------------------+-----+-------+---------------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (94 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Ulf Lüddeche          |   1 |   244 | 17.1%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Jonas Rieskamp         |   1 |   156 | 10.9%  xxxxxxxxxxxxxxxx
+   3 | Hinrich Vögtle        |   4 |   134 |  9.4%  xxxxxxxxxxxxxx
+   4 | Hans Fietz            |   2 |    89 |  6.2%  xxxxxxxxx
+   5 | Salvatore Unteutsch        |   1 |    63 |  4.4%  xxxxxx
+   6 | Hinrich D. Fiddrich     |   1 |    58 |  4.1%  xxxxxx
+-----+----------------------+-----+-------+---------------------------------
+
+
+Threads mit den meisten Postings (1425 Postings)
+
+ Pos | Anz | Threads                          | Gründer      | Diagramm
+-----+-----+----------------------------------+--------------+--------------
+   1 | 244 | HitchHikers Guide To The Galaxy  | Ulf Lüddeche  | 17.1%  xxxxxx
+   2 | 156 | Kino am Ende?: DVD übertrifft Kin| Jonas Rieskamp | 10.9%  xxxx
+   3 |  87 | Wird das  Popcorn billiger?      | Hans Fietz    |  6.1%  xx
+   4 |  63 | Kopierschutz im Kino?            | Salvatore Uffenbrink  4.4%  x
+   5 |  58 | Batman Begins                    | Hendrik  4.1%  x
+   7 |  48 | 42 Tage fuer The Hitchhiker's Gui| Hinrich Vonderhagen  3.4%  x
+   8 |  43 | Anhalter Abspann                 | Urs Unterbrink  |  3.0%  x
+  10 |  40 | Punkte                           | Valerius Riggers |  2.8%  x
+  11 |  37 | [Egafa] "Krieg der Welten" Maulkor| Ulfert Eifels  2.6%  x
+  12 |  32 | S: Webseiten über (schlechte) Syn| Jürg Rohkohl |  2.2%
+  13 |  30 | Zwei glorreiche Halunken         | Daniel |  2.1%
+  14 |  29 | FSK muss sparen                  | Hinrich Vonderhagen  2.0%
+  16 |  19 | Europa von Otto nebelsieck Pfau        | Pasquale Zelte  1.3%
+-----+-----+----------------------------------+--------------+--------------
+
+
+Verwendeter Newsreader (Alle Postings, 1425 Postings)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+ 255 | Forte Agent                    | 17.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 219 | Beautytrend                        | 15.4%  xxxxxxxxxxxxxxxxxxxxxxxxx
+ 121 | Mozilla Thunderbird            |  8.5%  xxxxxxxxxxxxxx
+ 113 | Bibedo Outlook Express      |  7.9%  xxxxxxxxxxxxx
+ 110 | /keine Angabe/                 |  7.7%  xxxxxxxxxxxx
+  90 | Gnus                           |  6.3%  xxxxxxxxxx
+  75 | tin                            |  5.3%  xxxxxxxx
+  67 | mutt-ng devel (Linux)          |  4.7%  xxxxxxx
+  67 | 40tude_Dialog                  |  4.7%  xxxxxxx
+  58 | JUV                           |  4.1%  xxxxxx
+  54 | slrn                           |  3.8%  xxxxxx
+  52 | Xnews                          |  3.6%  xxxxxx
+  43 | KNode                          |  3.0%  xxxxx
+  42 | jnuqcq.ufowiy.aib              |  2.9%  xxxx
+  15 | CrossPoint                     |  1.1%  x
+  10 | FUPC M2                       |  0.7%  x
+   9 | MacSOUP                        |  0.6%  x
+   9 | mutt-ng                        |  0.6%  x
+   7 | Pan                            |  0.5%
+   4 | MesNews                        |  0.3%
+   2 | VSoup                          |  0.1%
+  <2 | 3 weitere...                   |
+-----+--------------------------------+-------------------------------------
+1425 | GESAMT (24)                    |
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(36 Autoren)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+   6 | Beautytrend                        | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | Forte Agent                    | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   5 | /keine Angabe/                 | 13.9%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | Beautytrend Thunderbird            | 11.1%  xxxxxxxxxxxxxxxxxxxx
+   2 | Bibedo Outlook Express      |  5.6%  xxxxxxxxxx
+   2 | tin                            |  5.6%  xxxxxxxxxx
+   2 | Xnews                          |  5.6%  xxxxxxxxxx
+   2 | Gnus                           |  5.6%  xxxxxxxxxx
+   2 | 40tude_Dialog                  |  5.6%  xxxxxxxxxx
+   1 | mutt-ng devel (Linux)          |  2.8%  xxxxx
+   1 | jnuqcq.ufowiy.aib              |  2.8%  xxxxx
+   1 | JUV                           |  2.8%  xxxxx
+   1 | slrn                           |  2.8%  xxxxx
+   1 | KNode                          |  2.8%  xxxxx
+
+
+Postingverteilung über den Monat (1425 Postings)
+
+ Tag | Anz | Diagramm
+-----+-----+----------------------------------------------------------------
+   1 |  47 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx
+   2 |  50 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   3 |  46 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx
+   4 |  56 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   5 |  37 |  2.6%  xxxxxxxxxxxxxxxxxxx
+   6 |  32 |  2.2%  xxxxxxxxxxxxxxxx
+   7 |  27 |  1.9%  xxxxxxxxxxxxx
+   8 |  24 |  1.7%  xxxxxxxxxxxx
+   9 |  22 |  1.5%  xxxxxxxxxxx
+  10 |  14 |  1.0%  xxxxxxx
+  11 |  10 |  0.7%  xxxxx
+  12 |  39 |  2.7%  xxxxxxxxxxxxxxxxxxxx
+  13 |  40 |  2.8%  xxxxxxxxxxxxxxxxxxxx
+  14 |  37 |  2.6%  xxxxxxxxxxxxxxxxxxx
+  15 |  96 |  6.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  16 |  58 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  17 |  51 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxx
+  18 |  53 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+  19 |  45 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx
+  20 |  58 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  21 | 111 |  7.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  22 |  80 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  23 | 104 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  24 |  21 |  1.5%  xxxxxxxxxx
+  25 |  13 |  0.9%  xxxxxx
+  26 |  27 |  1.9%  xxxxxxxxxxxxx
+  27 |  56 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  28 |  30 |  2.1%  xxxxxxxxxxxxxxx
+  29 |  65 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  30 |  76 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+HTH ;-)
+Christof
+-- 
+"I've got a slug." - "Does it talk?"

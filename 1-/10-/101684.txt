@@ -1,0 +1,6 @@
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Der von Dir gewählte Abstraktionsgrad ist zu niedrig. Ab einem
+bestimmten Abstraktionsgrad ist *alles* identisch. 
+
+Gruß,				Sascha

@@ -1,0 +1,12 @@
+Es gab da mal ein Programm, dass es erlaubte, Radio(klassisches über
+Wireless, kein Stream) aufzuzeichnen und daraus dann die MP3s zu den
+Liedern zu erstellen. War ganz praktisch, die Schnittmarken holte sich
+das Programm aus dem Internet, lief alles automatisch. Nur wenn es
+keine Marken gab, musste man die selbst setzen und dann eben
+hochladen. 
+
+Dasselbe sollte sich auch für TV realisieren lassen.
+
+MFG; Gérard Bigl
+-- 
+Veni, Vidi, Vetinari

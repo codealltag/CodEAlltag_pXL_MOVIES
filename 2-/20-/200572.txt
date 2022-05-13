@@ -1,0 +1,18 @@
+Diese Versionen wurden mit einem anderen diff erstellt und muessen
+mit dem Programm "Applydiffs" in die Listen eingearbeitet werden.
+Dieses Programm existiert genauso fuer die Unix-Variante der IMDb.
+Insofern sind das keine speziellen dr3irausch-Versionen sondern einfach
+spezielle Diff-Varianten, die allerdings (soweit ich weiss) nicht
+mit den PC-Programmen benutzt werden koennen. Die fertig erstellten
+Listen sind dann wieder identisch. Lediglich die Methode des
+Updates ist etwas anders. Diese diff-files sind deutlich kleiner
+als die "echten" diff-files.
+
+gruss
+ kaspar
+
+--
+Kaspar Hupfloher, 33628 Uttenthal, Feisterweg 9    ///
+Internet: uolydi@yrgz.acxofpshnh.hqhk-mdbkkx.cx     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/381/22 :-)  \XX//

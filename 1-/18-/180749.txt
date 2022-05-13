@@ -1,0 +1,16 @@
+Wenn Premiere die 18er-Fassung gezeigt hat, dann ist da auch nichts
+geschnitten. Es ging um die 16er-Fassung.
+
+
+Doch. Außerdem enthält sie redundante Information ("This Mail..")
+
+
+--<Leerzeichen><Zeilenumbruch>
+
+statt:
+
+
+-- 
+Renato: "Sag' mal, hast Du sie noch alle ?" 
+Stefano: "du kennst mich wohl noch nicht... sonst würdest du das nicht fragen" 
+			      	   <Stefano Eckhof zu Renato Großnick in dcoulm>

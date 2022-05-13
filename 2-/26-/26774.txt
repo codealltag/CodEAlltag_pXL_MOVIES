@@ -1,0 +1,15 @@
+Genau. Und eine Alternative sehe ich sowieso nicht. Filesharing
+existiert, zu verbieten ist es praktisch nicht, also sollte man das
+beste draus machen und die Nutzer zu einer pauschalen Abgabe verdonnern.
+
+Wenn man's ganz pfiffig machen will, macht man eben keine reine
+Content-Flat, sondern läßt den Provider den Traffic zählen (ohne die
+Inhalte zu archivieren oder analysieren). Und staffelt das dann nach
+Datenmenge über den Anschluß. Nennt sich "FlexiFlat" und existiert jetzt
+auch schon ;-) Wer also beispielsweise 50 GB im Monat bewegt, zahlt fünf
+Euro, wer nur 10 GB bewegt zahlt einen Euro. Oder so.
+
+Gruß,
+Alain
+
+--

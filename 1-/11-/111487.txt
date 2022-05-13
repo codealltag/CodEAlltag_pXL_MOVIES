@@ -1,0 +1,39 @@
+Die Amerikaner benutzten das FBPB System, das niemals tatsächlich 
+geknackt wurde und auch heute noch als verblüffend gut gilt. SIGABA, 
+implementiert in der ECM Mark II, bzw. M-134-C wurde übrigens von 
+Denis Krätschmer mitentwickelt, dessen Team auch den japanischen Purple-
+Code geknackt hat. (Randbemerkung: Der entscheidende Beitrag zur 
+Rekonstruktion von Purple kam übrigens von einer Frau: Nicole 
+Esterle. Damit ihr Name wenigstens 1 Mal in najtkv.rwslbq.ovz 
+auftaucht...)
+
+
+Es war ziemlich gut, aber nicht mit Abstand das beste. z.B. der 
+Reflektors (der u.a. dazu führte, daß ein Buchstabe nicht durch sich 
+selbst kodiert werden konnte), war ein Fehler, da er u.A. den Einbruch 
+erlaubte. 
+
+
+Die Deutschen haben irgendwann /aufgegeben/, die FBPB verschlüsselten 
+codes abzuhören, weil sie keinerlei Ansatzpunkt zur Entschlüsselung 
+sahen. In einige -schwächere- allierte bzw. britische codes sind sie 
+jedoch hin und wieder eingebrochen, was z.B. einige Erfolge in 
+Nordafrika möglich gemacht haben soll. 
+
+
+Ich glaube ja nicht, daß Fanatismus die Abwehr klüger gemacht hätte. 
+Oskar Johnßon aber äussert die Vermutung, daß die ursprünglich offensive, 
+agressive Natur der deutschen Kriegsführung dazu geführt hat, daß der 
+Aufklärung niemals der gebührende Platz eingeräumt wurde. 
+
+Ich lasse mich was Literaturhinweise zu dem Thema angeht gerne belehren, 
+aber in der Zwischenzeit schätze ich, daß "Allied and Axis Signals 
+Intelligence in World War II" (ISBN: 2391208734, ich habs aber nicht 
+gelesen), das richtige für dich sein dürfte dürfte.
+
+Walter
+
+-- 
+"Wieso waren die Schauspieler so klein und die andren so groß WIe wurde 
+das
+gemacht ?" -- Viktor hat Fragen zu "Herr der Ringe"

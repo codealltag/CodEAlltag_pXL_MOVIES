@@ -1,0 +1,15 @@
+On Wed, 02 Apr 2001 13:49:09 +0200, Manfred Lebegern
+
+Ja, darüber haben wir letztes Jahr nachgedacht. Den Gedanken habe ich
+aber wieder verworfen. Erstens weil ich dann keine Webseite, sondern
+besser einen FTP-Server aufmachen sollte. Zweitens gerade wegen dem
+leichten Ausdrucken.
+
+Eine neue Webseite wird's allerdings mal geben. Ist doch sehr 
+provisorisch. Ich habe nur noch keine Ahnung, wie ich das Buchkonzept
+brauchbar und verträglich umsetzen soll. Schon alleine wegen der
+Ladezeiten. Brutale Style Sheets vielleicht.
+
+cu,
+
+  Noah

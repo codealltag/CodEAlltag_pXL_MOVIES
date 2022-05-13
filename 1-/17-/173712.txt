@@ -1,0 +1,20 @@
+Nur mal so: Wie ermittelst Du diese Punktzahlen, praktisch auf's Prozent
+genau? Fuer mein System habe ich die Einteilung
+100 %: absolutes Meisterwerk
+85 %: sehr gut
+70 %: gut
+50 %: Durchschnitt, kann man gucken oder auch nicht
+30 %: schlecht
+15 %: sehr schlecht
+0 %: absolut gigagrottenschlecht
+gewählt. 0 und 100 stellen Extrema dar, 50 ist die Mitte und dazwischen
+jeweils zwei Stufen zur differenzierenden Wertung. Also insgesamt sieben
+Skaleneintr�ge.
+Manchmal weiss ich bei mir schon nicht genau, wie ich einen Film eintakten
+soll, daher wuerde mich wirklich mal interessieren, wie Du das machst
+(spezielle Technik -> abzuhakene Liste? :-) )
+
+SB
+--
+Ceterum censeo Carthaginem esse delendam.
+(Reinhold Volkmar Ingolf)

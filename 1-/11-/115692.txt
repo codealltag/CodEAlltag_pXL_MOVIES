@@ -1,0 +1,8 @@
+Danke, aber ich hab inzwischen ein Linux aufgesetzt, das
+sowieso schon lange bei mir rumlag. So konnte ich mich
+jetzt endlich mal aufraffen...
+
+Zuerst mit patch als Zwischenlösung, jetzt mit dem neuen
+ApplyDiffs. Funktioniert tadellos.
+
+Berthold

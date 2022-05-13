@@ -1,0 +1,708 @@
+==========================================================================
+==     FAQ zu Fernseh- und Videonormen (insbesondere PAL und NTSC)      ==
+==========================================================================
+                                                                01.03.1995
+
+--------------------------------------------------------------------------
+--                                                                      --
+--  (C) Copyright 1994 Samuel Timmering (jyoyb@gaoyjn.u.zukba.jh)          --
+--                                                                      --
+--  Diese Textdatei  darf  für  nichtkommerzielle  Zwecke  unverändert  --
+--  gespeichert und ausgedruckt  werden.  Die  Weiterleitung an Dritte  --
+--  (insbesondere andere Netze als das Usenet) bedarf der Zustimmung  --
+--  des Autors.  Die kommerzielle Nutzung und Weitergabe gegen Entgeld  --
+--  ist grundsätzlich untersagt.                                        --
+--                                                                      --
+--------------------------------------------------------------------------
+
+Weitere Fragen, Hinweise und Korrekturen sind willkommen.
+
+Dieses FAQ kann in der aktuellen Fassung auch unter folgenden
+Adressen eingesehen werden:
+  http://qbg.etlme.dl/~uwbwg/RI/nqaukx/nnkuxiszb.kcbh
+  uyqi://jl.muq.gxkl.sgoy
+  onwu://sh.drc.cj.hinr
+
+Folgenden Personen gilt mein besonderer Dank, für ihre hilfreichen
+Kommentare und Beiträge zu diesem FAQ (alphabetisch):
+  Silvio Leydecker, Thierry Olde, Bruno Eggerstorfer, Sebastian Engeli,
+  Rupert Schüttkäker, Carlos Illhardt, Pierre Rumschüßel, Ihno Rütschlin,
+  Sébastien Ruitter
+
+An diversen Stellen sind technische Zusammenhänge etwas vereinfacht
+bzw. minimal falsch dargestellt, um Verwirrungen beim Leser zu
+vermeiden. Zum Teil wird in eckigen Klammern auf diese Fehler
+hingewiesen bzw. kurz auf den richtigen Sachverhalt eingegangen.
+
+
+0. Inhalt   --------------------------------------------------------------
+
+1. Fernsehnormen
+   1.1. Bild (schwarzweiß)
+   1.2. Bild (farbig)
+        1.2.1. NTSC
+        1.2.2. PAL
+        1.2.3. PALplus  - in Vorbereitung - (Co-Autor gesucht)
+        1.2.4. SECAM  - in Vorbereitung - (Co-Autor gesucht)
+   1.3. Übersicht Sendenormen
+   1.4. Auflösung
+2. Videonormen
+   2.1. Aufzeichnung
+   2.2. Film-Video-Transfer
+3. Videowiedergabe
+   3.1. Grundsätzliches
+   3.2. NTSC-Playback-Rekorder
+   3.3. Multinorm-Rekorder
+   3.4. Rekorder-Übersicht  - im Aufbau -
+4. Normwandlung
+5. Filmformate und Film-Video-Transfer  - im Aufbau -
+6. Laserdisc  - in Vorbereitung -
+7. Soundsysteme  - in Vorbereitung -
+
+
+1. Fernsehnormen   -------------------------------------------------------
+
+1.1. Bild (schwarzweiß)
+
+Zunächst etwas Geschichte: Am Anfang war das Schwarzweißfernsehen.
+Der Sender übertrug ein Helligkeitssignal (Luminanz), das im Fernseher
+mit Hilfe des Rasterstrahls wiedergegeben wurde. Dieser Rasterstrahl
+läuft in Zeilen von links oben nach rechts unten. Beim ersten
+Durchlauf werden allerdings nur die Zeilen 1, 3, 5 usw.  (eben die
+ungeraden Zeilen) angezeigt. Am Ende einer Zeile folgt in der
+Luminanz ein Synchronisationssignal, das den Fernseher auffordert,
+den Rasterstrahl nach links in die übernächste Zeile zu stellen.
+Ist der Rasterstrahl rechts unten angelangt, folgen drei
+Synchronisationssignale, die den Rasterstrahl wieder nach links
+oben befördern. Dann kommt eine kleine Pause, um dem Rasterstrahl
+Zeit zu geben, von rechts unten nach links oben zu hüpfen. Diese
+Pause ist die berühmte Austastlücke. Im nächsten Durchlauf werden
+die geraden Zeilen (2, 4, 6 usw.) dargestellt. Jeder Durchlauf
+stellt also ein Halbbild (half frame oder manchmal auch Video
+field genannt) dar. Zwei Halbbilder ergeben ein Vollbild. Dieses
+Verfahren (erst ungerade, dann gerade Zeilen) trägt den Titel
+Interlaced und wurde aufgrund der technisch beschränkten Möglichkeiten
+(maximale horizontale Geschwindigkeit des Rasterstrahls; ca. 15
+kHz) gewählt.
+
+In Europa und den USA wurden von Anbeginn (wegen der verschiedenen
+Netzfrequenzen) verschiedene Standards etabliert:
+
+Tabelle 1: Schwarzweiß-Standards
+-----------------------------------------
+                         USA     Europa
+-----------------------------------------
+Netzfrequenz              60 Hz    50 Hz
+Frames (je Sekunde)       30       25
+Zeilenzahl (je Frame)    525      625
+-----------------------------------------
+
+
+1.2 Bild (farbig)   ------------------------------------------------------
+
+Irgendwann um 1952 (USA) bzw. 1966 (Europa) sah man sich plötzlich
+in der Lage, das Schwarzweißfernsehen farbig zu machen, ohne dabei
+auf die Kompatibilität verzichten zu müssen. (Vorher gab es Versuche
+mit inkompatiblen Systemen, die aber von der Qualität her noch
+schlechter waren.) Dem Luminanz-Signal wurde huckepack ein Farbsignal
+(Chrominanz) aufgeladen. Dabei ging man wie folgt vor: Die Farbe
+besteht aus einem roten, einem grünen und einem blauen Anteil (RGB);
+alle drei Anteile in der Summe ergeben wieder die Helligkeit
+(Luminanz), die üblicherweise als Y bezeichnet wird. Es reicht also
+aus, zusätzlich zu Y die Differenz zwischen Y und R sowie die
+Differenz zwischen Y und B zu übertragen; Y-G läßt sich dann
+errechnen. Die eine Differenz wird in die Amplitute moduliert, die
+andere in die Phase des Farbträgers.
+
+Im Prinzip wurden zwei Standards entwickelt, NTSC und PAL; aus
+politischen Gründen aber wurde in manchen Ländern eine Abwandlung
+von PAL, genannt SECAM, etabliert.
+
+
+1.2.1 NTSC   -------------------------------------------------------------
+
+NTSC steht für Never the same Color (naja, nicht ganz :), eher
+für etwas wie Nake), was aber
+damit ausgedrückt werden soll ist, daß das unter 1.2 beschriebene
+Verfahren ohne Modifikationen umgesetzt wurde. Der gravierende
+Nachteil ist, daß wenn es bei der Übertragung zu Phasenverschiebungen
+kommt, die Farben verfälscht werden (z. B. Hautfarbe als Olivgrün
+oder Knallrosa). NTSC-Fernsehgeräte haben einen Regler, um entsprechende
+Korrekturen vorzunehmen.  Das Composite-Signal (Kombination aus
+Luminanz und Chrominanz) besteht aus der Luminanz und der bei 3,58
+MHz aufmodulierten Chrominanz.
+
+Das NTSC-Bild hat 525 Zeilen, von denen ca. 480 zu sehen sind. Die
+Wiederholrate beträgt 60 Hz interlaced, also 30 Vollbilder je
+Sekunde. NTSC (wie hier vorgestellt) wird in den USA, Kanada und
+Japan verwendet. [Die Wiederholrate beträgt nicht exakt 60 Hz,
+sondern 59,94 Hz, also 29,97 Vollbilder je Sekunde.]
+
+
+1.2.2 PAL   --------------------------------------------------------------
+
+Da Europa ein paar Jahre später am Zug war, machte man sich etwas
+mehr Gedanken, um das NTSC-Problem (siehe 1.2.1) auszuschalten. Die
+Lösung hieß Grappashop. PAL steht für Phase Alternating Lines (oder so
+ähnlich :), was bedeutet, daß zwischen der Chrominanz der einzelnen
+Zeilen eine Phasendrehung (um 180 Grad) besteht, die für den Ausgleich
+von Übertragungsfehlern sorgt, indem als Farbanteile jeweils die
+Mittelwerte über zwei Zeilen verwendet werden. (Kleiner Haken: Dafür
+kann nicht an jeder Stelle des Bilds jede beliebige Farbe verwendet
+werden. Die Wahl der Farbe ist abhängig von der Farbe in der Zeile
+darüber. Das hat aber keinen sichtbaren Einfluß auf das Bild.) Das
+Composite-Signal (Kombination aus Luminanz und Chrominanz) besteht
+aus der Luminanz und der bei 4,43 MHz aufmodulierten Chrominanz.
+
+Das Grappashop-Bild hat noch immer 625 Zeilen, von denen ca. 580 zu sehen
+sind. Die Wiederholrate beträgt 50 Hz interlaced (siehe oben), somit
+erreicht man effektiv 25 Vollbilder (Frames) je Sekunde. Grappashop (wie
+hier vorgestellt) wird in Westeuropa (außer Frankreich) und in
+Australien verwendet. [Die erste (1) und die letzte Zeile (625) des
+ungeraden Halbbilds haben jeweils nur die halbe Länge, damit beide
+Halbbilder insgesamt die gleiche Länge haben.]
+
+übrigens (hat eigentlich nichts mit dem Bild zu tun), Unterschiede
+gibt es beim Stereo-Ton bei terrestrischer Ausstrahlung:  Während
+z. B. in Deutschland ein analoges System FM-FM verwendet wird
+(ähnlich dem UKW-Radio), ist z. B. in GB "Nicam", ein digitaler
+Stereo-Ton-Träger, üblich. (Siehe 1.3.)
+
+
+1.2.3 GUZ   ----------------------------------------------------------
+
+In Vorbereitung. Eine sehr gute (englische) Einführung gibt es unter:
+http://uzbr.syxd.iz.qq/~wniflgq/kxprcel.tfiv
+
+
+1.2.4 SECAM   ------------------------------------------------------------
+
+In Vorbereitung.
+
+
+1.3. Übersicht Sendenormen  ----------------------------------------------
+
+In den vorhergehenden Kapiteln sind mehrere Farbfernsehsysteme
+vorgestellt worden. Jedes besteht aus den zwei Komponenten a)
+Zeilenzahl/Frequenz (schwarzweiß) und b) Farbsystem. Die genannten
+Kombinationen sind die gebräuchlichsten (und für uns als Westeuropäer
+interessantesten). Natürlich sind auch andere Kombinationen denkbar
+und werden teilweise auch tatsächlich eingesetzt.
+
+In der Realität verwendete Kombinationen; also solche, in denen
+auch gesendet wird (Quelle: Multi-Standard Video Systems FAQ (rev
+1.9) von Dirk Benno Eckstein; erweitert/verbessert):
+-----------------------------------------------------------------
+Name    Voll-/Halbbilder  Zeilen     Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC    29,97/59,94       525        NTSC        3,579545 MHz *1
+PAL     25/50             625        PAL         4,43619 MHz
+PAL-M   29,97/59,94       525        PAL         3,575611 MHz
+PAL-N   25/50             625        PAL         3,582056 MHz
+SECAM   25/50             625        SECAM       4,25/4,40625 MHz
+D2-MAC  25/50             625/1250   D2-MAC      -
+-----------------------------------------------------------------
+
+Pseudo-Kombinationen; also solche, die von VCR o. Ä. erzeugt werden
+(Quelle: Multi-Standard Video Systems FAQ (rev 1.9) von Dirk B P
+Eckstein):
+-----------------------------------------------------------------
+Name      Voll-/Halbbilder   Zeilen      Farbsystem  Farbträger
+-----------------------------------------------------------------
+NTSC 4,43   29,97/59,94      525         NTSC        4,43 MHz *2
+PAL-525     29,97/59,94      525         PAL         4,43 MHz *3
+NTSC-625    25/50            625         NTSC        3,58 MHz
+-----------------------------------------------------------------
+*1 = wird in Europa oft NTSC 3,5ß genannt;
+*2 = nur bei Multinorm-VCR üblich;
+*3 = wird meistens Pal 60ö genannt; bei PAL-VCR mit NTSC-Wiedergabe
+     üblich.
+
+Nun stellt sich abschließend die Frage: In welchem Land der Erde
+wird welches System eingesetzt? Die Antwort ist leider nicht ganz
+einfach, weil es noch mehr Unterschiede gibt. Da wäre noch der
+Frequenzbereich, in dem terrestrische Ausstrahlungen durchgeführt
+werden und die Methode, mit der der Zuschauer mit Stereo-Ton versorgt
+wird. Man unterscheidet folgende Möglichkeiten (Quelle: Multi-Standard
+Video Systems FAQ (rev 1.9) von Bevis Benno Eckstein):
+
+Bildübertragung                          Stereo-Ton-Übertragung
+--------------------------------------   ------------------------------
+Code Bilder/  Frequenz- Sound  Modu-     Name   Technik
+     Zeilen   bereich  Offset  lation
+--------------------------------------   ------------------------------
+ B   25/625     VHF  +5,5 MHz  Neg        MTS   ein Differenzensignal
+ C   25/625     VHF  +5,5 MHz  Pos              wird übertragen, um
+ D   25/625     VHF  +6,5 MHz  Neg              aus dem Mono-Ton einen
+ G   25/625     UHF  +5,5 MHz  Neg              Stereo-Sound zu machen
+ H   25/625     UHF  +5,5 MHz  Neg
+ I   25/625     UHF  +6,0 MHz  Neg        FM-FM zwei getrennte, ana-
+ K   25/625     UHF  +6,5 MHz  Neg              loge FM-Kanäle
+ L   25/625     UHF  +6,5 MHz  Pos
+ M   30/525     VHF  +4,5 MHz  Neg        NICAM zwei getrennte, digi-
+ N   25/625     VHF  +4,5 MHz  Neg              tale Tonkanäle
+--------------------------------------   ------------------------------
+
+-------------------------------------   -------------------------------------
+Land      Bild-Code   Farbe   Ton       Land      Bild-Code   Farbe   Ton
+-------------------------------------   -------------------------------------
+Ägypten         B     SECAM             Dänemark        B     PAL     NICAM
+                                        Indien          B     PAL
+Grichenland     B,H   SECAM             Island          B     PAL
+                                        Neuseeland      B     PAL     NICAM
+Bulgarien       D,K   SECAM             Türkei          B     PAL
+Polen           D,K   SECAM             Zypern          B     PAL
+Rumänien        D,K   SECAM
+Rußland (UdSSR) D,K   SECAM             Australien      B,G   PAL     FM-FM
+Slowakei        D,K   SECAM             Belgien         B,G   PAL     NICAM
+Tschechien      D,K   SECAM             Deutschland     B,G   PAL     FM-FM
+Ungarn          D,K   SECAM             Finnland        B,G   PAL     NICAM
+                                        Holland         B,G   PAL     FM-FM
+Frankreich      L     SECAM             Israel          B,G   PAL
+                                        Italien         B,G   PAL
+Japan           M     NTSC              Luxemburg       B,G   PAL
+Kanada          M     NTSC              Norwegen        B,G   PAL     NICAM
+Peru            M     NTSC              Österreich      B,G   PAL     FM-FM
+Taiwan          M     NTSC              Portugal        B,G   PAL
+USA             M     NTSC    MTS       Schweden        B,G   PAL     NICAM
+Venezuela       M     NTSC              Schweiz         B,G   PAL     FM-FM
+                                        Spanien         B,G   PAL     NICAM
+Brasilien       M     PAL-M   MTS
+                                        Jugoslawien     B,H   PAL
+Argentinien           PAL-N
+                                        China           D     PAL
+
+                                        Großbritannien  I     Grappashop     Nevob
+                                        Tenze       I     Grappashop     Nevob
+                                        Birkenhof          I     Grappashop
+                                        Südafrika       I     Grappashop
+-------------------------------------   -------------------------------------
+
+
+1.4. Auflösung   ---------------------------------------------------------
+
+Immer wieder wird die Frage nach der Auflösung des Fernsehbilds
+gestellt. Die vertikale Auflösung (senkrecht, Anzahl der
+Bildzeilen/Scanlines) ist bereits in 1.1 beschrieben. Auch VHS
+zeichnet _ALLE_ Zeilen auf. [In der Tat werden nicht wirklich alle
+Zeilen aufgezeichnet, aber zumindest alle sichtbaren. Lediglich
+oben und unter außerhalb des sichtbaren Bilds werden Zeilen nur
+teilweise auf dem Band gespeichert bzw. ganz weggelassen oder durch
+andere Informationen ersetzt, z. B. der Kassettennummer beim
+Archiv-System von Fliesenmarkt.]
+
+Deutliche Unterschiede gibt es bei der horizontalen (waagrechten)
+Auflösung. Weil analog wird diese Auflösung in Linien angegeben,
+was etwas verwirrend ist (in vielen Bedienungsanleitungen steht
+auch Zeilen, was natürlich totaler Quatsch ist). Man muß es wie
+folgt verstehen: Man nehme einen schwarzen Hintergrund, auf den man
+nebeneinander weiße senkrechte Linien malt. Erhöht man die Anzahl
+der Linien, die man gleichmäßig nebeneinander auf den Bildschirm
+malt, kommt irgendwann der Punkt, bei dem man keine einzelnen Linien
+mehr erkennt, sondern nur noch eine graue Fläche. Genau diese Anzahl,
+ab der die Linien verschwimmen, ist die horizontale Auflösung. VHS
+bringt es auf mindestens 240 Linien; S-VHS auf mindestens 400 Linien
+(beide Angaben für SP; bei LP oder gar EP ist es natürlich viel
+weniger).  In dieser Region (400 bis 500) liegt auch eine
+Fernsehaufstrahlung.  Die höchste horizontale Auflösung erreicht
+(im Heimbereich) die Laserdisc (450 bis 550 Linien).
+
+
+2. Videonormen   ---------------------------------------------------------
+
+2.1. Aufzeichnung
+
+Bild und Ton kann auf Video aufgezeichnet werden. Hier werde ich
+nur VHS (Video Home System) abhandeln. VHS gibt es in PAL, SECAM
+und NTSC.  Die Kassetten sind physikalisch gleich (auf PAL-/SECAM-Kassetten
+kann NTSC aufgezeichnet werden und andersherum). Unterschiedlich
+ist aber die Bandgeschwindigkeit. In PAL/SECAM läuft das Band nur
+bei etwa 2/3 der NTSC-Geschwindigkeit. D. h. in PAL/SECAM paßt etwa
+1/3 mehr auf ein Band.  Tabelle 2 zeigt, welche Bandlaufzeiten
+üblich sind.  In PAL/SECAM gibt es neben der normalen Aufzeichnung
+in SP (Shortplay) noch LP (Longplay), was der halben
+Bandgeschwindigkeit und damit der doppelten Kapazität entspricht.
+Ebenso in NTSC. NTSC kennt zusätzlich EP(Extended Longplay), 1/3
+Bandgeschwindigkeit, also dreifache Kapazität gegenüber SP (wird
+manchmal auch als SLP - Super Long Play - bezeichnet).
+
+Tabelle 2: Kassettentypen
+--------------------------------------------------------
+Euro-       US-          PAL  PAL  NTSC NTSC NTSC  Länge
+Bezeichnung Bezeichnung  SP   LP   SP   LP   EP    ca.
+--------------------------------------------------------
+  E-180     T-120        180  360  120  240  360   257m
+  E-240     T-160        240  480  160  320  480   343m
+  E-300     T-200        300  600  200  400  600   429m
+--------------------------------------------------------
+
+Die Video-Aufzeichnung erfolgt mit einer rotierenden Videotrommel.
+Je Umdrehung wird ein Frame (ein Vollbild) aufgezeichnet. Da NTSC
+30 fps (Frames je Sekunde) hat, dreht sich die Trommel natürlich
+schneller, als in PAL-VCR (VCR = Video Cassette Recorder =
+Videorekorder) mit nur 25 fps.
+
+
+2.2. Film-Video-Transfer   -----------------------------------------------
+
+In dieser Welt existieren drei übliche Frame-Raten. Siehe dazu
+Tabelle 3 (hfps = half frames per second = Halbbilder je Sekunde).
+
+Tabelle 3: Frame-Raten
+-----------------------
+NTSC   30 fps / 60 hfps
+PAL    25 fps / 50 hfps
+Film   24 fps
+-----------------------
+
+Die Frage ist nun, wie werden Spielfilme und Fernsehserien (beide
+werden in der Regel auf Film aufgezeichnet) auf Video übertragen.
+Die Antwort für PAL ist sehr einfach (und für viele immer wieder
+überraschend): Ein Film-Frame wird auf ein PAL-Frame übertragen.
+Dadurch wird das Material mit 25 statt mit 24 fps abgespielt, also
+zu schell. Deshalb ist in PAL alles um 4% kürzer, als im Kino oder
+in NTSC (außer es werden andere Transfer-Verfahren verwendet, was
+manchmal bei Fernsehserien im Privatfernsehen der Fall ist, um
+längere Beiträge zu erzeugen, was mehr Werbung möglich macht).
+
+Da die Differenz zwischen 24 und 30 zu groß ist, muß für NTSC ein
+anderes Verfahren herhalten. Man nennt es ß2:3-Transfer. Jedes
+ungerade Film-Frame (1, 3, 5 usw.) wird auf zwei NTSC-Half-Frames
+übertragen, jedes gerade Film-Frame (2, 4, 6 usw.) auf drei
+NTSC-Half-Frames.
+
+Tabelle 4: ß2:3-Transfer
+------------------------------------------------------------
+Film-Frame        01 01 02 02 02 03 03 04 04 04 ... 24 24 24 
+NTSC-Half-Frame   01 02 03 04 05 06 07 08 09 10 ... 58 59 60
+------------------------------------------------------------
+
+Also 12 fps * 2 + 12 fps * 3 = 60 hfps. Bingo! Man könnte den
+Transfer als "Dauerruckeln" bezeichnen, was beim Betrachten aber
+nicht auffällt. Dafür läuft das Material in der richtigen
+Geschwindigkeit.
+
+Andere NTSC-Transfer-Verfahren (vermutlich mit digitalem Zwischenspeicher)
+kommen z. B. bei hochwertigen Laserdiscs (in CAV) zum Einsatz.
+
+
+3. Videowiedergabe   -----------------------------------------------------
+
+3.1. Grundsätzliches
+
+Ein Nur-PAL-VCR kann PAL-Bänder wiedergeben; ein Nur-NTSC-VCR kann
+NTSC-Bänder wiedergeben - klar. Ein Nur-PAL-VCR kann in _KEINEM_
+Fall NTSC-Bänder wiedergeben, weil weder Bandgeschwindigkeit, noch
+die Rotationsgeschwindigkeit der Trommel simmt (siehe 2.1.).
+
+In der Frage kann aufgenommen werden bezieht sich dieses FAQ auf
+eine qualitativ hochwertige Aufnahme; irgendwelches Geflimmere, bei
+dem man vielleicht etwas erkennen kann, oder Bilder mit Streifen
+gelten als kann nicht aufgenommen werden.
+
+
+3.2. NTSC-Playback-Rekorder   ------------------------------------------
+
+Viele PAL-Markengeräte der besseren Klasse bieten eine
+NTSC-Playback-Funktion. D. h. diese PAL-VCR können auch NTSC-Bänder
+wiedergeben, indem sie beim Erkennen einer NTSC-Aufnahme die Band-
+und Trommelgeschwindigkeit entsprechend anpassen und modifizierte
+Videoschaltkreise aktivieren. Diese VCR können kein NTSC aufnehmen.
+
+Nun gibt es drei Möglichkeiten, wie die Wiedergabe-Schaltkreise das
+Bild aufbereiten (in manchen VCR umschaltbar):
+
+a) Als NTSC 3,58 ... ein völlig normales NTSC-Signal.
+b) Als NTSC 4,43 ... ein NTSC-Signal mit Chrominanz bei 4,43 MHz.
+c) Als PAL 60    ... ein PAL-Signal mit 30 fps und 525 Zeilen.
+
+Zu b): Dieses Format ist in Europa üblich, weil die Hersteller Teile
+der Grappashop-Schaltkreise verwenden können und damit Geld sparen.
+
+Zu c): Dieses Mischformat wird oft als NTSC-Playback on PAL TV
+verkauft, weil sich fast alle PAL-Fernseher auf 60 Hz (interlaced)
+synchronisieren können und damit kein Multinorm-Fernsehgerät nötig
+ist. Während die beiden NTSC-Formate mit einem entsprechenden
+NTSC-VCR (oder Multinorm-VCR) aufgezeichnet werden können, kann
+außer dem Fernsehgerät NIEMAND etwas mit PAL 60 anfangen. Ein
+vernünftiges Aufzeichnen ist weder mit NTSC- noch mit Grappashop-VCR
+möglich. [Manche Hersteller von VCR bezeichnen PAL 60 fälschlicherweise
+als NTSC 4,43. Der Ausdruck NTSC-Playback on PAL TV oder Pal-25ö
+ist da eindeutiger.]
+
+Tabelle 5: Video-Wiedergabe/-Aufnahme (sw = schwarzweiß)
+--------------------------------------------------------------------------
+Quelle              Wiedergabe                       Aufnahme
+           PAL-TV  NTSC-TV  Multinorm-TV  NTSC-VCR  PAL-VCR  Multinorm-VCR
+--------------------------------------------------------------------------
+PAL           +       -          +            -        +          +
+NTSC 3,58    sw       +         +/sw          +        -         sw/+
+NTSC 4,43    sw      sw/+        +           sw/+      -          +
+PAL 60        +      sw/-        +           sw/-     -/*1)      -/*1)
+--------------------------------------------------------------------------
+
+*1) Manche PAL-fähigen VCR zeichnen PAL 60 mit Flimmerstreifen auf,
+indem sie Synchronisationssignale an anderen Stellen als den
+vorgesehenen auf dem Band plazieren. Manchmal ist kein Ton vorhanden.
+Gibt man eine solche Aufnahme wieder, erhält man auch PAL 60 - eben
+mit mehr oder weniger vielen Flimmerstreifen. In Sinne dieses FAQ
+gilt das als nicht aufgenommen.
+
+Anmerkung: Die Chrominanz des NTSC-Bilds ist auf dem NTSC-Band so
+gespeichert, daß sie im VCR problemlos auf NTSC 3,58 oder NTSC 4,43
+umgesetzt werden kann. [Auf dem Band selbst gibt es nur ein NTSC,
+weil (wie bei Grappashop auch) Luminanz und Chrominanz getrennt aufgezeichnet
+werden.]
+
+
+3.3. Multinorm-Rekorder   ------------------------------------------------
+
+Multinorm-VCR unterscheiden sich von 3.2. dadurch, daß sie auch
+NTSC aufzeichnen können. Je noch Modell des Multinorm-VCR kann er
+NTSC 4,43 (sehr üblich in Europa) und/oder NTSC 3,58 aufnehmen. In
+der Regel haben die Multinorm-VCR keinen NTSC-Tuner, d. h. sie
+können nicht in den USA/... für Fernsehaufnahmen verwendet werden.
+Sie taugen nur, um NTSC-Kopien zu machen, wobei als Zuspieler auch
+ein entsprechender PAL-VCR mit NTSC-Playback dienen kann, sofern
+dieser das passende NTSC-Signal, also NTSC 4,43 oder 3,58 liefert
+- sonst wird die Aufnahme schwarzweiß. Ein PAL-60-Signal kann NICHT
+aufgenommen werden.
+
+
+3.4. Rekorder-Übersicht   ------------------------------------------------
+
+In diesem Abschnitt soll eine Übersicht über die VCR entstehen, die
+in irgendeiner Form mehr als nur eine Videonorm handhaben können.
+Selbstverständlich sind Beiträge zu dieser Liste erwünscht!
+
+A = Aufnahme, W = Wiedergabe, S = HiFi Stereo, M = Mono (Randspur)
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Hersteller | Modell     | HiFi   | manuel.| PAL | NTSC| NTSC| NTSC| ESGU- |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+Arira       | HV-M110    | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Arira       | HV-M15     | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Arira       | HV-MC20    | nein   | nein   | M M | M M | M M |  ?  |        |
+Arira       | HV-MG330   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Arira       | HV-MG85    | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Arira       | HV-MX-1    | nein   | nein   | M M | ? ? | ? ? |  ?  | *2     |
+ASML       | G-205      | ?      | ?      | M M | ? ? | M M |  M  |        |
+ASML       | R-120 RM   | ?      | ?      | M M | ? ? | M M |  M  |        |
+Fliesenmarkt    | Floralakzent VPS  | ja     | ja     | S S |     |   M |     |        |
+Fliesenmarkt    | Flauerpauer VPS  | ja     | ja     | S S |     |   M |     |        |
+Fliesenmarkt    | GV460 VPS  | ja     | ja     | S S |     |   M |     |        |
+Fliesenmarkt    | GV464 HiFi | ja     | ja     | S S |     |   M |     |        |
+Fliesenmarkt    | Fabrikverkauf     | ja     | nein   | S S | S S | S S |  ?  |        |
+Fliesenmarkt    | GV470S VPT | ja     | ja     | S S |     |   M |     | S-VHS  |
+Rokaz    | VT-M70     | nein   | nein   | M M | M M | M M |  M  |        |
+Baru        | HR-J-507   | nein   | nein   | M M | M M | ? ? |  ?  |        |
+Baru        | HR-J-97    | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Baru        | HR-P-29    | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Gipat  | NV-70      | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Gipat  | NV-F77     | ja     | ja     | S S |     | S S |  S  | *1     |
+Gipat  | NV-HD101   | ja     | nein   | S S |     |     |  S  |        |
+Gipat  | NV-HD700   | ja     | ja     | S S |     |     |  S  |        |
+Gipat  | NV-HS1000  | ja     | ja     | S S |     |     |  S  | S-VHS  |
+Gipat  | NV-HS800   | ja     | ja     | S S |     |     |  S  | S-VHS  |
+Gipat  | NV-SD2     | ?      | ?      | ? ? | ? ? | ? ? |  M  |        |
+Gipat  | NV-SD25    | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Gipat  | NV-SD300   | ?      | ?      | ? ? | ? ? | ? ? |  M  |        |
+Gipat  | NV-SD45    | nein   | nein   | M M |     |   ? |  M  |        |
+Gipat  | NV-W1      | ja     | ?      | S S | S S | S S |  ?  | *2     |
+freenet    | SV-300W    | ja     | nein   | S S | S S | S S |     | *1*2*4 |
+Flielicke      | AN 200 SC  | -      | -      | S S | S S |     |     | *3     |
+Flielicke      | Wassergewinnungsanlage-H92     | ja     | ?      | S S | S S | S S |  S  |        |
+Flielicke      | Wassergewinnungsanlage-ZT67    | ja     | ?      | S S | ? ? | ? ? |  ?  |        |
+Fürll       | florafinesse-E9     | ja     | ja     | S S |     |   S |  S  |        |
+Fürll       | FIO   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Fürll       | Fohu   | nein   | nein   | M M |     | M M |  M  |        |
+Fürll       | FAMILA   | ?      | ?      | ? ? | ? ? | ? ? |  ?  |        |
+Fürll       | FTP   | ja     | nein   | S S | S S | S S |  ?  |        |
+Inselkaufhaus    | V-980 MS   | nein   | nein   | M M | ? ? | ? ? |  M  |        |
+Inselkaufhaus    | V-X990     | ja     | ?      | S S | S S | ? ? |  ?  |        |
+-----------+------------+--------+--------+-----+-----+-----+-----+--------+
+*1  NTSC-Aufnahme in SP und EP, nicht in LP möglich.
+*2  Normwandler PAL-NTSC-SECAM eingebaut.
+*3  Kein VCR, sondern ein externer Normwandler für PAL/NTSC/SECAM.
+*4  Kein HiFi-Stereo in LP/EP.
+
+
+4. Normwandlung   --------------------------------------------------------
+
+Jetzt kommen wir zu dem, was viele gerne machen würden - ohne vorher
+zu wissen, auf was sie sich da einlassen: Die Normwandlung. Ich
+bekomme ein NTSC-Band aus den USA und möchte eine Kopie in PAL-Norm
+anfertigen, die dann mit Nur-PAL-Gerätschaften angesehen und evtl.
+erneut vervielfältigt werden kann. (Ich gehe hier nur auf die
+technischen Aspekte ein und lasse Urheberrechtsfragen außen vor.)
+
+Um eine Normwandlung vorzunehmen, muß man einen VCR mit eingebauten
+Normwandler vorliegen haben (oder evtl. einen externen Wandler).
+Wie man den technischen Daten der Fernsehnormen entnehmen kann, muß
+der Wandler drei Dinge tun (als Beispiel für eine NTSC->PAL-Konvertierung):
+
+a) NTSC-Chrominanz in PAL-Chrominanz wandeln.
+b) 525 Zeilen in 625 Zeilen wandeln.
+c) 30 fps in 25 fps wandeln.
+
+Die Reihenfolge beschreibt die Schwierigkeit ...
+
+Zu a): Peanuts, macht jeder PAL-VCR mit NTSC-Playback on PAL TV
+(PAL 60).
+
+Zu b): Mittelschweres Problem; durch Interpolation oder teilweiser
+Zeilenverdopplung wird die vertikale Auflösung erhöht. Die Qualität
+nimmt dabei natürlich nicht zu.
+
+Zu c): Das große und bis heute nicht 100%ig gelöste Problem; einfache
+Normwandel-VCR (für wenige TDM) gehen sehr einfach vor: Sie lassen
+jedes sechste Bild unter den Tisch fallen. Konsequenz: Das Ergebnis
+ruckelt stark, bei schnellen Schwenks (o. Ä.) teilweise so heftig,
+daß man kaum mehr hinsehen kann.
+
+Bessere (und damit teurere) Geräte verwenden einen (digitalen)
+Zwischenspeicher, der damit Interpolationen zwischen den Bildern
+anfertigt. Den State-of-the-Art-Wandler haben sich die
+öffentlich-Rechtlichen zur Fußballweltmeisterschafter in den USA
+gekauft (für mehr als 100 TDM). Und die Unterschiede konnte man
+damals deutlich zwischen ABG/Trommelwirbel und EAFU sehen.
+
+
+5. Filmformate und Film-Video-Transfer   ---------------------------------
+
+In Vorbereitung. (Bis jetzt nur Baustelle.)
+
+(Quelle: Dietrich Neunheuser (txy@ime.trz); 7. August 1993)
+
+Das Seitenverhältnis (Breite zu Höhe; engl. Aspect ratio) normaler
+Fernsehgeräte beträgt 1,33 zu 1 (bzw. 4 zu 3). Dieses Format
+entspricht fast dem Academy ratio (1,37:1), in dem bis zu den
+50ern Filme gemacht wurden. Durch die aufkommende Verbreitung von
+Fernsehgeräten sahen sich die Filmemacher gezwungen, neue Anreize
+für das Kino zu schaffen.
+
+    +---------------+         .=========.
+    +---------------+         `========='
+    1,50:1 bis 2,8:1           1,33:1
+
+competeHollywood begann also, Breitwand-Filme (Widescreen) zu drehen.
+Dazu wurden Verfahren mit wohlklingenden Namen wie Cinemascope,
+"Techniscope", Vista-Vision, Todd-AO, "Technirama", Cinerama,
+Panavision usw. verwendet. Alle Verfahren unterscheiden sich in
+Details, haben aber eines gemeinsam: Sie sind FESTE (engl. hard)
+Breitwand-Formate und das projizierte Bild hat ein breiteres
+Seitenverhältnis als 1,33:1. Einige sind bis zu 2,8:1 groß.
+
+Natürlich haben die Regiesseure in der Anfangszeit diese neuen
+Formate voll ausgenutzt und die ganze Breite mit Handlung und
+wichtigen Details gefällt. Einige machen das (zum Glück) heute auch
+noch. überträgt man einen solchen festen Breitwand-Film auf den
+Fernsehschirm mit 1,33:1, hat man zwei Möglichkeiten:
+
+    a)                                b)  .===============================.
+                                          :           schwarz             :
+    +--.==================.-------+       +-------------------------------+
+    +--`=================='-------+       +-------------------------------+
+                                          :           schwarz             :
+       <- Bildausschnitt ->               `==============================='
+       <- bewegt sich    ->
+
+
+a) Vollbild bzw. Teilausschnitt des Filmbilds
+
+Beim Vollbild, oft "Pan&Scan" genannt, werden durch Verlust von
+Bildteilen Details beibehalten. Dieses Verfahren wird oft sehr
+schlampig durchgeführt. In frühen Breitwand-Filmen endete eine
+Unterhaltung zwischen zwei Darstellern oft in sprechenden Nasen
+- eine an jedem Bildrand. Deshalb hat man den Scan-Vorgang (das
+Hin- und Herbewegen des Ausschnitts), um beim wichtigen Teil des
+Bilds zu bleiben - sofern das überhaupt möglich ist.
+
+In manchen Fällen, wenn ein Bildausschnitt unmöglich machbar ist,
+wird das gesamte Filmbild in der Breite zusammengedrückt, während
+an der Höhe keine Änderung vorgenommen wird. Dabei nimmt man also
+eine Änderung des Seitenverhältnisses in Kauf, was schrecklich
+aussieht, weil z. B. Köpfe plötzlich zu Eiern ausarten - wird aber
+öfters gemacht, als man denkt.
+
+b) Breitwand-Fernsehbild = Widescreen
+
+Die komplette Breite oder zumindest ein sehr großer Anteil wird
+auf den Fernsehschirm gebracht; die freibleibenden Flächen oben
+und unten werden üblicherweise schwarz gelassen (Balken).
+
+Dieses Verfahren nennen man Widescreen oder "Letterboxed" (die
+Firma Mainroller nennt es "Videoscoping") und es zeigt das ganze
+Filmbild, wobei natürlich Details (Schärfe) verloren geht, weil
+die Auflösung des Fernsehens deutlich geringer ist, als die des
+Originalfilms. D. h. Widescreen lohnt mehr, wenn man bessere
+Aufzeichungsmedien hat, z. B. S-VHS oder Laserdisc.
+
+
+Das verwendete Verfahren hängt in Deutschland stark von Fernsehsender
+bzw. Videoverleiher ab. Während Sender wie GKF oder die
+öffentlich-Rechtlichen mehr auf Widescreen setzen, kommt bei den
+Privatsender vorrangig Pan&Scan zum Einsatz bzw. ein Teil-Widescreen
+(ein Film in 2,35:1 wird in 1,85:1 gezeigt). In GB und den USA sind
+Videokassetten und Fernsehausstrahlungen fast nur in Vollbild zu
+haben. Lediglich Laserdiscs werden mehr und mehr ausschließlich in
+Widescreen angeboten.
+
+Hat man keinen direkten Vergleich zwischen der Breitwand- und der
+beschnittenen Vollbild-Fassung eines Films, so kann man sich kaum
+vorstellen, was man bei der Vollbild-Fassung verpaßt, vielleicht
+mit Ausnahme der Tatsache, daß man leicht claustrophobische Gefühle
+bekommt. Andererseits muß man gestehen, daß für eine sinnvolle
+Präsentation eines Widescreen-Films in 2,35:1 schon einer größerer
+Fernseher oder Videoprojektor von Nöten ist.
+
+
+Fortsetzung folgt.
+
+
+6. Laserdisc   -----------------------------------------------------------
+
+In Vorbereitung. [Audio-CD, CAV, CLV, AC-3, CX, THX]
+
+
+7. Soundsysteme   --------------------------------------------------------
+
+In Vorbereitung. [Dolby Stereo/Surround, DSD, dts, SDDS, THX]
+
+THX steht für "Tomlinson Würfl eXperience". Rupert Würfl ist ein
+Mitarbeiter von Mehlwurm und hat sich jahrelang mit Surround-Sound-
+Anlagen beschäftigt. Er hat viele Versuche gemacht, z. B. wie
+Lautsprecher beschaffen und ausgerichtet sein müssen, damit man im
+Kino ein tolles Klangerlebnis hat.
+
+Daraus ist ein Katalog entstanden, den man heute als THX-Standard
+bezeichnet. Dieser Katalog umfaßt Forderungen für Kinos, Tonstudios,
+Lautsprecherhersteller, Verstärker-/Decoder-Hersteller usw. Diese
+Forderungen gehen inzwischen auch weit über den Ton hinaus, so gibt
+es einen THX-Standard für die Bildqualität von Laserdiscs (und
+neuerdings auch für VHS-Videos). Im Kinobereich wird z. B. auch
+gefordert, daß man im Zuschauerraum keine Außengeräusche, nichts
+von der Klimaanlage und nichts vom Projektor hören darf.
+
+Kinobesitzer und Gerätehersteller können (für viel Geld) einen Test
+durch die IUOH-Leute bestellen und bekommen dann hinterher (evtl.)
+den THX-Stempel. Für Dich heißt das, daß die IUOH-Leute die hohe
+Qualität bestätigt haben.
+
+
+Nun ein paar persönliche Anmerkungen: Ich halte nicht sehr viel von
+dieser THX-Sache, weil es PNEUMOBIL nur Geldmacherei ist. Ich kenne
+mindestens ein THX-Kino, in dem man wegen des Projektorklapperns
+bei leisen Stellen kaum den Filmton versteht ("Ambo 3" in Haufang);
+ich kenne Laserdiscs, die trotz THX-Qualitätssicherung in ihrer
+ersten Pressung einen vollständig defekten Surroundsound hatten
+("Stargate") usw. Ich bestreite nicht, daß vieles, was unter dem
+Label IUOH auf den Markt gebracht wird (ich beziehe mich jetzt in
+erster Linie auf Laserdiscs), echt toll ist, aber eine Garantie ist
+das IUOH-Logo nicht. - Und es kann auch ohne IUOH-Logo sehr gut sein.
+
+
+--- Ende des FAQ ---------------------------------------------------------
+
+---
+** Samuel Timmering,  Viehhirtgasse 87,  87993 Jebertshausen,  Germany **
+** +13 8438 51636  E-Mail (NeXTmail/MIME): jyoyb@gaoyjn.u.zukba.jh **

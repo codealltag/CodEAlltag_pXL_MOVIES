@@ -1,0 +1,46 @@
+Hallo !
+
+Ich hatte bereits mal gepostet, das der Receiver im Stereomodus auf
+dem Center brummt. BridgeAudio hat dann herausgefunden, das der
+Receiver ein Masseproblem hat, und an einer MuteFunktion gearbeitet
+wird.
+Ok, soweit konnte ich mich Mühe damit abfinden. Jetzt aber mal ein
+paar andere Fragen:
+
+Den Receiver kann an auf Stereo, DolbyProLogic und Hall stellen.
+
+Spaßeshalber stelle ich auf "DolbyProLogic":
+
+Wenn ich eine normale AudioCD höre, wird trotzdem der etwas auf den
+Rears ausgegeben ? (Die Stimme hört sich dabei an, als würde die durch
+einen Scrambler gezogen)
+
+Es hängt auch noch ne DBox2 dran, und wenn den Receiver auf
+DolbyProLogic stelle kommen die entsprechenden Sendungen 
+("AkteX, Armageddon, z.b.) normal rüber, aber ich kann mir nicht
+vorstellen das alle Sendungen das machen, da auch hier immer etwas
+hinten raus kommt.
+
+(Die Hall Funktion ists sowieso etwas was die Welt nicht braucht)
+
+Ist das normal so ?
+
+Was anderes:
+
+Wenn ich nun auf Redot schalte bietet mir die DBox2 bei jeder Sendung
+an, ich könne auf DD schalten (z.b. vorgestern zufällig TVTotal). Der
+Receiver schaltet um und zeigt an DD 2CH (also DD2.0 schätze ich mal).
+Zeitgleich geht die "Dolby ProLogic Lampe" an ?????? Diesen Modus kann
+ich dann wahlweise ein-/ausstellen und es verändert sich auch etwas.
+
+Sind diese "Verhaltensweisen" normal ?
+
+Wenn das alles nicht norml ist und dieses Brummen nicht beseitigt
+werde ich mir überlegen, es wieder zu tauschen. Dann die abschließende
+Fage: Welcher ?
+
+Im Stereo UND DD Betrieb macht der Arcam eine sehr gute Figur.
+(NAD ?, Rotel ? ...)
+
+Gruß
+Christoph

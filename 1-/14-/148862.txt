@@ -1,0 +1,31 @@
+Die Begründung kann nicht stimmen. 
+Die üblichen Mehrkanaltonformate haben AFAIK die nutzbare Bildfläche
+beim 35mm-Film nicht angetastet. 
+
+Damals war "Mehrkanalton" auf 35mm wohl fast immer 4-Kanal-Magnetton. 
+Dabei wurden drei Magnetstreifen auf den Film geklebt. Ein breiter 
+an der Stelle der Lichttonspur (er bot Platz für zwei Tonkanäle) und
+zwei schmale außerhalb der Perforation mit je einem Tonkanal.
+
+Der Stereo- (und Dolby-Stereo-) Lichtton nimmt auch nicht mehr Platz 
+ein, als Mono-Lichtton. Statt einer breiten Tonspur gibt es zwei
+schmale Spuren direkt nebeneinander. Das hat den Vorteil, das die
+Kopie mit dem herkömlichen Mono-Lichtton kompatibel ist. Alte
+Mono-Tonteile haben einen langen Abtastschlitz, der die Summe der
+beiden Stereokanäle abliest, während Stereotonteile zwei kuerzere
+Abtastschlitze direkt neben einander haben und so die Kanäle getrennt
+abtasten.
+
+Meine Vermutung:
+Bei fast allen anamorphischen Verfahren hat der Anamorph einen
+Spreizfaktor von 1:2, d.h. wenn die Höhe unverändert bleibt wird
+die Breite um den Faktor 2 gedehnt. Nimmt man nun das damals übliche
+Academy-Format von 1:1.37 für die Bildfläche ergibt sich ein 
+Seitenverhältnis von 1:2.75. Das ebenfalls weit verbreitete Bildforamt
+von 1:1.33 ergibt mit dem Anamorphoten 1:2.66.
+Später hat man dann den Bildstrich, den man bei Einführung des Tonfilms
+verbreitert hatte, wieder minimiert um den ganzen Film zu nutzen. 
+Die nutzbare Bildfläche hat beim 35mm-Tonfilm das Seitenverhältnis 1:1.18. 
+Um den Faktor 2 gespreizt kommt dann 1:2.35 heraus. 
+
+Ciao, Alberto                                tihpyazy@dckjyl.vgnimoc.ou

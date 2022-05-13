@@ -1,0 +1,8 @@
+Ein Spoiler wird dann gesetzt,wenn man will,daß die/der Empfänger einen
+Teil der Mail erst lesen kann,wenn man weiter runter scrollt.Das ist
+z.B. sinnvoll wenn du Neuigkeiten verbreiten willst,die mancheiner gar
+nicht wissen will.Wenn der Betreffende versehentlich die Mail
+anklickt,fällt ihm der Text sofort ins Auge-die Überraschung ist
+futsch.Deswegen der Spoiler.
+
+Winfried

@@ -1,0 +1,10 @@
+Wie schon hier erwähnt, fehlen einige Datensätze (Arwards z.B.). Als ich
+angefangen habe eine Flatrate zu nutzen, habe ich den ganzen Krempel
+wieder von der Platte geschmissen. Es müssten aber so ca. 500MB für die
+reine Datenbank plus 100MB für die komprimierten Datensätze gewesen
+sein. 
+
+Größe
+Kay
+-- 
+Der phantastische Film von 1894 bis 1969: http://nkh.vqbtjvzqbmghho.ie

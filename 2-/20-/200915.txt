@@ -1,0 +1,5 @@
+Irgend jemand ist auf die geniale Idee gekommen, die Daten mit gzip zu
+komprimieren, und schwups... waren's nur noch 40MB. Ausgepackt und fertig
+installiert belegt die IMDB bei mir nicht mehr als 125 MB.
+
+-heimo

@@ -1,0 +1,148 @@
+Daniel Janowitz schrieb:
+
+Mittlerweile haben sich schon einige zu obigem geäußert. Es geht hier
+nicht um den vermeintlichen Filmfehler zwischen links und rechts,
+sondern um die Kombination der zwei Befehle die ich auch Einzeln für
+gefährlich und wenig sinnvoll halte:
+
+a) Volle Kraft zurück
+b) Ruder hart irgendwohin
+
+Ein kleines Sportboot hat einen Außenbordmotor oder wenn es ein
+Innenborder ist, einen Z-Antrieb. Die Richtungsänderung nach links oder
+rechts geschieht dadurch das der Motor (der Z-Antrieb) geschwenkt wird.
+
+Vorteil: Man braucht kein Ruder(blatt), Ruderwirkung auch beim
+Stilliegen des Bootes.
+Nachteil: Ist aufwendig zu bauen, mechanisch empfindlich und kann, als
+Hauptnachteil, nur relativ kleine Antriebsleistungen übertragen.
+
+   Aus diesen Gründen haben richtige Schiffe diese nicht! Weil die
+Schraube fest auf der Welle sitzt spricht man hier von "starrer
+Wellenanlage".
+Nachteil: der "Radeffekt" und man benötigt ein Ruderblatt.
+Letzteres funktioniert nur wenn an ihm Wasser vorbeiströmt.
+
+Zu a):
+Ein Frachtkahn der Europaklasse hat eine Masse von 1000t plus X. So
+eine Kiste (und erst recht ein Ozeandampfer) hat ein ganz erhebliches
+Beharrungsvermögen. Will man nun aus voller Vorwärtsfahrt aufstoppen so
+würde ein Laie genau diesen Befehl geben: "Volle Kraft zurück".
+
+Nun passiert vollgendes: Das Schiff führt vorwärts und die Schraube
+erzeugt eine Wasserströmung in umgekehrter Richtung. Um die Schraube
+herum gibt es physikalisch gesehen hierdurch einen erheblichen
+Unterdruck. Die Folge: Die Schraube kavitiert.
+Das heißt übertrieben gesprochen: sie rotiert nicht mehr in Wasser
+sondern ist von "Wasserdampf"  umgeben. Bis die Kavitation aufgrund der
+sich allmählich reduzierenden Strömungen zusammenbricht ist die
+Bremswirkung sehr gering.
+
+Ein Profi vermeidet das Kavitieren indem er zum Aufstoppen die
+Schraube erst in niederen Drehzahlen rückwärts gehen lässt und mit sich
+vermindernder Geschwindigkeit des Schiffes die Drehzahl erhöht.
+Dieses Vorgehen erzeugt eine wesentlich höhere Bremswirkung als das
+Gedankenlose "Volle Kraft" (Einmal ganz davon abgesehen das ein Profi
+alles tun wird das er nicht in diese Situation kommt).
+
+Zu b)
+Wie schon oben geschrieben: Ein Ruderblatt funktioniert nur wenn an ihm
+Wasser vorbeist�mt.
+
+Das Schiff führt vorwärts und so strömt auch das Wasser am Ruderblatt
+vorbei. Hierdurch kann das Blatt seine volle Kraft entfalten und das
+Schiff ist problemlos zu steuern.
+
+Durch den Befehl "Volle Kraft zurück" laufen die Schrauben in voller
+Geschwindigkeit rückwärts. Am Ruderblatt passiert nun folgendes:
+Einerseits strömt das Wasser von vorne nach hinten, andererseits wird
+durch die Schrauben aber Wasser entgegen der Fahrtrichtung angesaugt
+und erzeugt eine Gegenströmung.
+
+  In dem Maße wie das Schiff langsamer wird, wird die Gegenströmung
+wirksamer. In der Übergangsphase heben sich beide Stömungen auf. Das
+Ruder ist ohne Wirkung. Dieser Zustand dauert an, bis wieder eine
+"eindeutige" St�mungsrichtung am Ruderblatt angreift.
+
+In der Zwischenzeit (zwischen keiner Ruderwirkung und allmählich wieder
+einsetzender Wirkung bei Rückwärtsfahrt) tritt der Radeffekt ein. Je
+nach Drehrichtung der Schraube[1] wird die Kraft der noch / wieder
+vorhandenen Ruderwirkung verstärkt / geschwächt.
+   In dieser Phase ist das Schiff von der Besatzung nicht zu
+beeinflussen, es folgt ausschließlich den von der Physik vorgegebenen
+Kräften. Ein nicht bewußt zu kontrolierendes Schiff ist die
+unangenehmste Situation in die die Besatzung kommen kann.
+
+   Bei freier Wasserfläche ist das kein Problem, man hat ja Platz um
+sich treiben zu lassen. Passiert das aber in einem Gewässer mit
+Hindernissen (andere Fahrzeuge, Hafenmauern, Eisberge) hat der
+Schiffsführer ein Problem....
+   "Nicht alles was hinkt ist auch ein Vergleich" sagt man. Aber
+trotzdem: Stelle dir einmal vor du geräts mit deinem Auto bei 100km/h
+auf Glatteis ins Schleudern und kannst 2 bis 3 Minuten nichts tun außer
+zu beobachten wie du einer Betonmauer immer näher kommst.....
+
+Die oben erwähnten Kommandos werden vom Regiseuren der betreffenden
+Filme immer gern genommen. Haben sie doch "Action" zur Folge.
+  Es wird Ausdrucksvoll am Maschienentelegraf herumgerissen. Das
+Steuerruder wird auf minutenlang auf 200 Umdrehunge pro Minute
+gebracht. Ein wildes Herumgerenne setzt ein in dem man malerisch in
+Zeitlupe zeigen kann wie jemand auf die Schnauze fällt... Blut spritz,
+es darf geflucht werden. Aber mit der Realität haben sie nur wenig bis
+gar nichts zu tum.
+   Ich werfe es dem Carp vor, daß er diesem billigen Effektgehasche
+nicht wiederstehen konnte. Diese zwei Sätze versauen mir den ganzen
+Titanicfilm.
+
+Noch ein Wort zur historischen Titanic: Die Reederei Ikal wollte
+damals das beste Schiff der Welt haben. Und so ein Schiff bemannt man
+dann nicht mit Anfängern oder Diletanten.
+Ganz bewußt wollte die Reederei für ihr bestes Schiff auch die beste
+Mannschafft die für Geld zu bekommen ist.
+   Ich kann mir nicht vorstellen, daß derartige Spitzenkräfte solche
+Befehle gegeben haben. Allein der [Name des historischen Kapitäns
+vergessen] fuhr sein ganzes Leben zur See, dies kann man wörtlich
+nehmen. Die Titanic sollte vor der zur Ruhesetzung, sein leztes
+Kommando werden (auch ohne die Katastrophe). Er wußte also wie sich ein
+Schiff verhält und von seinen Offizieren vermute ich das Gleiche.
+
+
+Zum anderen Beispiel: "Alle Mann! Rauf auf die Brassen!"
+
+Um ein Segelschiff vernünftig zu fahren, sollten die Segel immer
+optimal im Wind stehen.Auf jeden Richtungswechsel des Windes oder
+Kurswechsels des Schiffes muß reagiert werden. Dieses "Einstellen" der
+Segel (trimmen) ist die Hauptbeschäftigung der Mannschafft.
+
+Die großen rechteckigen Segel sind an waagrechten Stangen (Rahen)
+aufgehängt. Die Rahen werden mit Hilfe von Flaschenzügen oder
+Seilwinden in den Wind gedreht. Dieses Drehen oder Trimmen nennt man
+brassen.
+
+"Rauf auf die Brassen" ist genauso sinnvoll wie................
+Mir fällt kein Beispiel ein.
+
+Stell dir einmal einen Film vor, in dem es um Autorallies geht.
+Die Kamera ist in einem Auto. Durch die Windschutzscheibe sieht man
+vorausfahrend den schärfsten Konkurenten unseres Teams. Das Gaspedal
+ist bis zum Bodenblech durchgetreten aber trotzdem kommen wir dem
+Vorausfahrenden nicht näher.
+
+In dieser Situation kommt es zu folgendem Dialog:
+Fahrer. "Wir müssen jetzt das Letzte rausholen!"
+Zum Beifahrer gewandt:
+"Kletter 'mal nach vorne und stell dich auf den Luftfilter!"
+
+"...stell dich auf den Luftfilter!" Hülst du das in dieser Situation
+für einen sinnvollen Dialog? Wie kann das >> auf den Luftfilter
+stehen<< die Geschwindigkeit des Autos steigern?
+Merkst du etwas?
+
+In diesem Sinne: Ahoi
+
+MfG
+   Clemens
+
+[1] Einmal abgesehen vom Sonderfall von 2 gegenläufigen Schrauben
+PS: ich möchte noch auf die Wortmeldungen des Fabrice Diez zu diesem
+Thema hinweisen.

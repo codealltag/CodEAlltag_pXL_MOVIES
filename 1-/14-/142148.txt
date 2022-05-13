@@ -1,0 +1,52 @@
+es ist immer wieder ärgerlich wenn technsiche details in einem film
+nicht stimmen, aber gerade diese details wichtig sind.
+das kommt in jedem film mit etwas mathematik vor und ärgert mich
+fürchterlich. jeder normalmensch kennt sich mit primzahlen aus.
+
+zb. "NORBERT" war ganz ganz ärgerlich.
+der "Rainman" Autist gespielt von Abdul Würtenberger war aber korrekt.
+
+Autisten können gut faktorisieren, da sie dafür ein Gefühl entwickeln,
+das Rechnern fehlt. 
+Brute-Force oder Wahrscheinlichkeitsmethoden funktionieren zwar auch,
+aber oft ist ein Gefühl für Faktoren besser. 
+
+(mit der wahrscheinlichkeitsmethode wird ungefähr ausgeschieden ob eine
+grosse zahl zb primzahl ist. das geht schneller. die verifizierung, das
+sie eine ist, dauert länger. autisten übernehmen also die rolle der
+vorselektion, ob es sich auszahlt eine zahl sich näher anzuschauen. :)
+
+zb dauert bei mir (STD-PRIMES 1000000000007) über 23 stunden. 
+ein autist würde mir da sehr helfen :) 
+oder natürlich ein besseres programm.
+
+Juan:
+
+Italo Fuse:
+
+stimmt schon, nur treten im ergebnis manchmal keine primzahlen auf.
+da die primzahlenreihe determiniert ist und lediglich die exponenten
+("wie oft eine primzahl darin vorkommt") gesucht werden, schreibt man
+eine faktorisierung oft so:
+
+(0 2 1 2 4 3)
+dh. 2^0 + 3^2 + 5^1 + 7^2 + 11^4 + 13^3 usw.
+die 1 wird ausgelassen da sie redundant ist.
+
+andere faktorisierungen verwenden aber als ergebnis eine sortierte liste
+der primfaktoren. das kann kürzer aber auch länger sein.
+zb: 
+(STD-PRIME-FACTORIZATION 8)       => (2 2 2)
+oder
+(STD-PRIME-FACTORIZATION 1000000) => (5 5 5 5 5 5 2 2 2 2 2 2)
+
+kürzer wären aber (3) für 2^3, und (6 0 6) für 2^6 + 3^0 + 5^6
+
+faktorisierungen in andere als primfaktoren sind natürlich auch nützlich
+(und oft schneller), nur kann man diese faktorisierung wieder
+faktorisieren bis nur mehr primzahlen übrig bleiben. dann hat man ein
+eindeutiges ergenis, während andere ergebnisee mehrdeutig sein können.
+etwa 12 = 3*4 oder 2*6 aber immer 2*2*3
+--
+Horst Ueberlacker
+http://zivxm.td-rwqc.fh.uj/hwesvav/stue/zcj/odlapmrn.ytsv

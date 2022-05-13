@@ -1,0 +1,6 @@
+Man kann ja die IMDB auch offline nutzen. Es gibt fuer Windows, Unixe
+und meinen Amiga Tools, die die Listen auswerten koennen. Man muss nur
+jede Woche die Diffs aufspielen, aber das habe ich auch automatisiert.
+
+-- 
+mailto:get.rzmkr@icm.iwt � http://xny.fw-fnjycae.cm/~sbxo/ � DQB welcome

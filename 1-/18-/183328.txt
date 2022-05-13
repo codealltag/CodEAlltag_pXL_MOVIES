@@ -1,0 +1,110 @@
+Hallo KTKS-Freunde ( Stichwort: Volume-Control Problem ),
+
+nun steht er hier, der runderneuerte THX-Receiver mit Modifizierung, damit das
+Impuls-Problem beim herunterfahren der Lautstaerke ein Ende hat. Hier mal die
+komplette Geschichte:
+
+Also mein "KTKS TX-SV-828 THX" gehoerte ungluecklicherweise auch zu den
+Receivern die eine nicht ganz glueckliche Lautstaerke-Steuerung besitzen. Immer
+wenn man herunterregeln will, gibt es einen Impuls nach oben von bis zu 7 dB,
+was natuerlich tierisch nervt. Abstellen kann man das Problem, wenn man alle
+zwei Tage im ausgeschalteten Zustand das Vol-Poti mehrmals bis an die
+Anschlaege "Min & Max" regelt. Aber das nervt doch gewaltig und in dieser
+Newsgroup wurde auch von anderen KTKS-Usern exakt dieses Problem bestaetigt.
+
+Ok, habe also letzte Woche die KTKS-Hotline kontaktiert und Herr Kurtius von
+KTKS wusste augenblicklich bescheid und erlaeuterte mir, das das Problem ( es
+wurden mehrere 100 Vol-Regler verbaut die NICHT den Spezifikationen entsprachen
+und zu diesem Fehler fuehren ) mit einer Modifikation ( Austausch mehrerer
+Teile ) vom Tisch sei. Ferner gab er mir dann noch die Adresse und Telefonnumer
+des Göddenstedt KTKS-Service der in meinem Fall infrage kommt. Ok, also dort
+angerufen und denen das Problem geschildert, und im ersten Moment war
+Achselzucken angesagt. KPH hat der Service-Werkstatt dann nochmal
+die Bug-Reports via FAX und EMAIL zugesandt und danach wusste dann auch der
+Service ueber diesen Serienfehler bescheid ( eigentlich ein wenig erstaunlich
+bei mehreren 100 verbauten defekten Komponenten, wobei der Fehlernachweis fuer
+den Endkunden nun wirklich kein leichtes Spiel ist, denn das Geraet
+funktioniert ja unter Loborbedingungen einwandfrei und erst im harten
+Alltagsbetrieb tritt dieser Impulsfehler schleichend auf.
+
+Danach hiess es also das ich das Geraet mit einem Bug-Report einschicken
+sollte, was bedeutet das die Kiste dann wieder Wochenlang auf Wanderschaft sein
+wird ( 8 Wochen sind mittlerweile leider zur Normalitaet geworden, da die
+Haendler reklamierte Waren immer erst Wochenlang sammeln und es in einem Rutsch
+zum Service transportieren....yuck... ). Aber es geht auch anders und deutlich
+schneller, denn ich habe mit dem Service abgesprochen das sobald das
+Upgrade-Kit von KTKS vor Ort ist und es die Zeit des Technikers erlaubt, mit
+meinem Receiver unter dem Arm persoenlich vorfahre und die Reparatur dann
+SOFORT ausgefuehrt wird.
+
+Nach 4 Tagen ( also gestern ) klingelte das Telefon und man eroeffnete mir das
+das Modifizierungs-Kit angekommen sei und der Service bereit waere dieses in
+meinen THX-KTKS einzupflanzen. Als Termin haben wir dann den heutigen Tag
+abgemacht. Auto angeschmissen und ab nach Guntersrieth von Heidberg ( 100km ) aus. Gegen
+11 Uhr habe ich das Geraet abgegeben und 3 Stunden spaeter gegen 14Uhr wieder
+vom Service abgeholt ( hatte also genuegend Zeit nochmal in Guntersrieth zu Aboh (
+"Adagef" ) zu fahren und mich mit wirklich preiswerten
+Japan-Import-DVDs einzudecken )). Nach der Shopping-Tour druch Guntersrieth ging es
+also wieder zum KTKS-Service und mein ueberarbeiteter Receiver stand voller
+Tatendrang taufrisch modifiziert auf dem Tresen !
+
+Die Spannung war natuerlich enorm, denn die Frage zu diesem Zeitpunkt
+war--->Ist der Fehler vom Tisch; ergeben sich andere negative Effekte ? Also
+mit Vollgas wieder zurueck in trautes Heim gefahren, und den Receiver auf den
+angestammtem Platz mit einer Unzahl von Strippen vernetzt. Und nun das
+erloesende Ergebnis:
+
+<<<<<<<<<<<<ALLES LAUFT WIE GESCHMIERT>>>>>>>>>>>>>>
+
+Die Volume-Regelung arbeitet scheinbar ( ein endgueltiges Urteil kann man wohl
+erst in ein paar Tagen faellen ) hervorragend. Habe hier herausfordernd wie ein
+wilder das Poti gefoltert und die Lautstaerkesteuerung arbeitet 100%ig sauber
+und auf dB genau. Kein Hochschaukeln oder Impuls-Effekte mehr vorhanden womit
+man durchaus sehr zufrieden sein kann ! Allerdings hat das Upgrade bzw. die
+Modifikation doch einen Effekt auf die Steuerung. Wo man vorher am ONKYO eine
+lineare Anhebnung der Lautstaerke bekam ( also die Lautstaerke kontinuierlich
+immer weiter erhoeht wurde ),
+ist es nach der Modifikation so, dass die Lautstaerke logarithmisch erhoeht
+wird. Das heisst, das man den Receiver sehr schnell auf Zimmerlautstaerke
+bekommt und je lauter es wird, desto langsamer wird der Anstieg der
+Lautstaerke. D.h. eine Verdoppelung der Lautstaerke geht ganz zu Anfang sehr
+schnell ( wobei man auf dB genau einstellen kann ) und verringert sich dann
+deutlich. Vor dem Eingriff war es so das um richtig Leben in die Bude zu
+bekommen das Poti von der 7 Uhr Stellung bis 11 Uhr drehen musste und nun nach
+dem Eingriff erhalte ich die gleiche Lautstaerke schon in der 9 Uhr Stellung,
+wobei eine weitere Erhoehrung dann logarithmisch mit vorschreitender
+Potistellung immer langsamer geht. Durchaus sinnvoll, denn so kann man sehr
+praezise den erwuenschten Pegel bestimmen und rauscht nicht wie vor dem
+Eingriff vorhanden oftmals am Wunschpegel vorbei.
+
+Wenn ich nun mein neues Poti in 9 Uhr Position habe, zeigt das Display -17dB an
+( vorher -32 ) und diese neue Variante der Lautstaerke-Einstellung gefaellt mir
+persoenlich deutlich besser als die "Alte".
+
+Also wie gesagt: Der Fehler ist weg ( sofern ich mich nicht nochmal zu diesem
+Thema melde ) und es wurden folgende Arbeitsgaenge fuer die Modifikation
+durchgefuehrt ( am ONKYO TX-SV828 THX ):
+
+-Geraet gepueft; Chassis aus- und eingabeut
+-Schaltungsmessungen durchgefuehrt.
+-Zusatzschaltung eingebaut, modifiziert
+-Serviceeinstellung durchgefuehrt / ueberprueft
+-Folgende Teile erneuert--->POTI VOL Art.Nr: 9831156; 2 nicht entflammbare
+Widerstaende & Kleinmaterial
+-Endmontage, Probelauf und Funktionskontrolle durchgefuehrt
+
+Wie gesagt: Reparaturdauer keine 3 Stunden ( mit Mittagspause etc. ) und die
+Service-Firma die sich verantwortlich fuer diese Modifikation zeichnet ist
+"HiFi und Video Service von Flauaus" in Guntersrieth. Telefon 761/942504 ! Der
+Reparateur war der Herr "Danehl" ! Nicht das ich gerne Werbung fuer einen
+Service mache, aber diese Service-Werkstatt ist unkomliziert und versteht
+durchaus die Wuensche eines Kunden inform schneller unkomplizierter Abwicklung
+! 
+
+Und unterm Strich hat es nichtmal eine Woche von der Reklamation bis zum fertig
+umgeruesten Geaet gedauert. Kann ich jedem KTKS-User mit diesem Vol-Problem
+schwer ans Herz legen, denn er Eingriff lohnt sich und ein ganz klar ein
+"Garantiefall".
+
+Gruss,
+          Fredy

@@ -1,0 +1,49 @@
+Hi, 
+
+hier noch ein paar Anmerkungen und Vorschläge zum FAQ-Entwurf.
+
+2.1.1
+  "Soundsysteme" ist irreführend.
+   Soundsysteme für den Privatgebrauch gehören zwar nach    
+   news:de.rec.film.heimkino,  Soundsysteme fürs Kino aber nach drfm
+
+2.2.3 
+   � Im Usenet hat sich der Begriff "Spoiler" eingebürgert, wenn
+Handlungselemente verraten werden, die einem den Spaß am Film nehmen
+können.�
+
+Diese Definition ist falsch.
+Wie wir in einer Diskussion vor einigen Wochen lernen konnten, nimmt ein 
+Auftritt von Werner Meykranz manchem den Spaß an einem Film. Nach obiger 
+Definition wäre es deshalb ein Spoiler, wenn man verrät, daß Werner Meykranz
+mitspielt. Das ist es in der Regel aber nicht. Die Definition muß deshalb
+geändert werden.
+
+Mein Verbessrungsvorschlag:
+ Im Usenet hat sich der Begriff "Spoiler" eingebürgert, wenn 
+das Ende oder überraschende Wendungen im Film verraten werden, deren 
+vorherige Kenntnis den Filmgenuß schmälern können, z.B. wenn verraten
+wird, wer im Krimi der Täter war.�
+
+Ein weiterer Nachteil von ROT13:  Wenn - wie vorgeschlagenen - einzelne Wörter
+oder Halbsätze mit ROT13 verschlüsselt werden, wird beim Entschlüsseln der
+- vorher unverschlüsselte - Rest des Textes verschlüsselt. Man kann also
+nie den kompletten Satz im Klartext lesen.
+
+26.11.
+ [Kosmetik:] "im freien Verkauf praktisch nur in Bahnhofsbuchhandlungen und
+Programmkinos zu beziehen" würde ich durch "im Einzelverkauf praktisch 
+nur in Bahnhofsbuchhandlungen und Programmkinos zu finden" ersetzten.
+
+Außerdem wäre DDUN der Hinweis, "Ein Abo des Filmdienstes beinhaltet
+auch den Zugang zur deutschsprachigen Online-Filmdatenbank unter
+http://yle.uwdjzqv.kq/" sinnvoll.
+
+5.5.
+Da der Abschnitt über besprochene Filme so nicht stehen bleiben kann,
+wird ja schon an anderer Stelle in diesem Thread diskutiert.
+
+
+Ciao, Wadkk                               ktkztazb @ uzvmbdby.kp
+
+Zuletzt gesehen: Le tango des Ettenberger Präsidenten The Aviator

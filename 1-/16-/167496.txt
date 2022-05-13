@@ -1,0 +1,64 @@
+On Mon, 18. 07. 22 22:33:41 +0200, "tanja.gaedicke"
+
+Mittlerweile habe ich wegen der Retrospektiven-Reihe Erfahrung mit der
+eigenhändigen Klauerei von Standbildern und kompletten Sequenzen
+gesammelt.
+
+Also: Als TV-Karte kommt eine Hammann PCTV zum Einsatz. Ist mittlerweile
+um die hundert Mark zu haben (jedenfalls kostete sie das neulich in
+der Radiowerbung des Haro). An Eingängen hat sie HF,
+Composite und S-VHS zu bieten. Ich selbst benutze ersteren (mein
+Gothaer-Player hat keinen Ausgang für S-VHS, extra ein Kabel kaufen will
+ich nicht und per Composite gibt's nunmal recht wenig Ton). Für Demos
+von hiermit angefertigten Standbilder am besten einfach kurz auf der
+Webseite vorbeischauen, u.a. sind die Bilder der dort vorzufindenden
+drei Stauth damit angefertigt. Die URL lautet
+http://bxiug.mtwd.dj/sihxmobg/mxxcwj/ihslk.uyho
+
+Die Anfertigung von Screenshots ist mittelprächtig. Als Software kommt
+das Microsoft'sche Vidcon32 zum Einsatz. Recht bescheidene Software.
+Reagiert nur zeitverzögert auf Eingaben, zwischen dem Auslösen des
+Grabbens und dem resultierenden Bild können durchaus schonmal eine
+Handvoll Frames liegen. Mit ein wenig Übung bekommt man das jedoch
+hin. Für den explodierenden Kopf aus "Dawn of the Dead", welcher
+insgesamt eine Laufzeit von 4 oder 5 Frames vorweisen kann, brauchte
+ich ein knappes Dutzend Versuche. Ein gutes Standbild ist hier
+wirklich ein Segen. Schlimmer ist hier, daß ich bei Vidcon32 oftmals
+beim gegrabbten Frame eine Rotverschiebung um einige Zeilen nach oben
+feststellen konnte - fällt z.B. bei den Bildern zu "2001" hier und
+dort auf, man beachte den schmalen Farbstreifen am unteren Bildrand.
+Das ist ein definitives Softwareproblem, welches meiner Erfahrung nach
+nur bei gegrabbten Bildern auftritt, die laufende Anzeige des Bildes
+ist einwandfrei. Naja, beim aktuellen S.u.S.E. 6.1 sind ja Treiber und
+Software für die Karte dabei, könnte ich ja mal ausprobieren.
+
+Für das Grabben kompletter Sequenzen (z.B. Trailer) ist Vidcon32
+absolut unbrauchbar. In bester CSMH-Manier ist nach 2 GB Filel�nge
+Schluß (es gibt allerdings eine Software namens "VideoStudio 3.0" von
+Agakas, welche die 2 GB-Grenze überspringt, aber die hat einen Haufen
+weiterer Einschränkungen, die sie nur zur Spielerei verkommen lassen).
+Hierzu wäre es nicht schlecht, geeignetere Betriebssysteme ins Auge zu
+fassen und SCSI sollte sowieso Pflicht sein. Für einen Trailer von 2
+oder 3 Minuten in 320*240 reicht's, doch dann dauert es eben nicht
+mehr lange, bis die typische FAT-Partitionsgröße überschritten ist. An
+Prozessorleistung reicht ein 200 MHz-Pentium locker, solange Windows
+stillhält und SCSI im Einsatz ist.
+
+Ich habe allerdings den BT848-Chip im Verdacht, ausgesprochen
+miserabel zu sein. Ich muß es noch genauer überprüfen, aber ich habe
+den Eindruck, als ob der blaue Kanal mitunter ziemlich verhunzt wird,
+was in einer nicht 100% farbechten Wiedergabe enden kann. Ich hatte
+schon Fälle, in welchen Rot und Grün einwandfrei waren, Blau hingegen
+nur eine diffuse Masse, das zugrundeliegende Signal war jedoch in
+Ordnung. Bleibt abzuklären, inwiefern die Karte von Motormarkt den BT848
+und auch Vidcon32 benutzen. Ich habe mir die Hauppage nie angesehen.
+
+Am besten wäre es wohl, wenn Du Dir einfach die Screenshots unter der
+angegebenen URL ansiehst und dann entscheidest, ob es für Deine Zwecke
+reicht oder nicht. Im Großen und Ganzen bin ich eigentlich in Hinsicht
+auf Standbilder recht zufrieden mit der Karte, auch wenn ich bisher
+nur gemeckert habe ;)
+
+cu,
+
+  Mario

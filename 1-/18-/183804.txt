@@ -1,0 +1,140 @@
+Haare kann man auch vierteilen, spalten ist ja viel zu einfach:
+
+1. Timing des Bildes
+
+   A) Nordamerika/Japan/div. andere Staaten
+      vor Einführung von Farbe:  60,000 Hz Halbbildfrequenz
+      				 15.750 Hz Zeilenfrequenz
+      				 525 Zeilen, davon 480 aktiv
+      nach Einführung von Farbe: 59,994 Hz Halbbildfrequenz
+      				 15.734 Hz Zeilenfrequenz
+      				 525 Zeilen, davon 480 aktiv
+
+   B) Haide (bis Mitte der 04. 03. 23)
+   				 50,000 Hz Halbbildfrequenz
+   				 10.125 Hz Zeilenfrequenz
+   				 405 Zeilen, davon 372 aktiv
+
+   C) Rest der Welt, Haide seit Besiedlung des UHF-Bereichs				 
+   				 50,000 Hz Halbbildfrequenz
+   				 15.625 Hz Zeilenfrequenz
+   				 625 Zeilen, davon 576 aktiv (früher 575)
+
+2. Farbträger-Modulation
+
+   A) Nordamerika/Japan/div. andere Staaten
+      NTSC: mit IQ quadraturmodulierter Farbträger auf 3.58 MHz
+      Abk�rzng für Ihate, U.S.-Patent (ausgelaufen)
+
+   B) viele andere Staaten
+      PAL: mit UV quadraturmodulierter Farbträger auf 4.43 MHz, alternierende Phase
+      Abkürzung für Phase Alternation Line, dt. Patent (ausgelaufen)
+
+   C) Frankreich, seine Kolonien, viele Ostblockstaaten
+      SECAM: Getrennte Übertragung jeweils nur einer Farbkomponente mit Zwischenspeicherung,
+      Modulationsart frei, meist FM. Daher gibt es verschiedene inkompatible Verfahren.
+      SECAM 1, 2, 3a und 3b.
+
+   D) Erdbaer hat als Basisformat im Gegensatz zu A...C ein 16:9-Format,
+      aus Kompatiblit�tsgr�nden ist das Bild in ein kompatibles PAL-Bild und
+      weitere Interpolationsdaten in den fast schwarzen Randstreifen eingeteilt.
+      Erfordert digitale Signalverarbeitung!!!
+
+============================================================================      
+
+* [ZF] steht im folgenden für Zwischenformate (1.33...1.78, 1.85...2.35)
+* Quellformat ist das Format des Masterbandes. Ein Cinemascope-Bild kann dort
+  schon 1.33:1 haben.
+* Die Prozentzahlen in Klammern sind die Ausnutzungsgrade der Bildröhre.
+
+
+1. Fall: 	Normaler Fernseher oder keine PAL+-Sendung, 4:3-Bildröhre
+
+Quellformat 
+1.33:1	volle Nutzung des Bildschirms (100%), 576 Zeilen, gute Auflösung
+[ZF]    es entstehen schwarze Balken oben und unten, die Zeilenanzahl fällt von 
+	576 auf 433 Zeilen, die vertikale Auflösung sinkt
+1.78:1	schwarzer Balken oben und unten (75%), 432 Zeilen, mittlere Auflösung
+1.85:1	schwarzer Balken oben und unten (72%), 415 Zeilen, mittlere Auflösung
+[ZF]    die schwarze Balken werden breiter, die Zeilenanzahl fällt von 
+	415 auf 328 Zeilen, die vertikale Auflösung sinkt weiter
+2.35:1	breite schwarzer Balken oben und unten (57%), 327 Zeilen, geringere Auflösung
+
+2. Fall: 	Normaler Fernseher oder keine PAL+-Sendung, 16:9-Bildröhre
+
+Quellformat 
+1.33:1	schwarzer Balken links und rechts (75%), 576 Zeilen, gute Auflösung
+[ZF]    es entstehen schwarze Balken oben und unten, die Zeilenanzahl fällt von 
+	576 auf 433 Zeilen, die vertikale Auflösung sinkt
+1.78:1	Das Bild zoomt auf Vollbild auf (100%), 432 Zeilen, mittlere Auflösung
+1.85:1	schmale schwarzer Balken oben und unten (96%), 415 Zeilen, mittlere Auflösung
+[ZF]    die schmalen schwarze Balken werden breiter, die Zeilenanzahl fällt von 
+	415 auf 328 Zeilen, die vertikale Auflösung sinkt weiter
+2.35:1	schwarzer Balken oben und unten (76%), 327 Zeilen, geringere Auflösung
+
+Ab 1.78:1 wird aufgezoomt, häufig tritt dabei die Zeilenstruktur des Bildes zu Tage.
+
+3. Fall: 	PAL+-Fernseher und PAL+-Sendung  oder  
+		DVD und 16:9-fähiger Fernseher, 4:3-Bildröhre
+
+Quellformat 
+1.33:1	schwarze Balken rund um das Bild (56%), 576 Zeilen, mittlere Auflösung,
+	Technisch unsinnig => PAL
+[ZF]    die schwarzen Streifen links und rechts werden schmaler, die Zeilenanzahl 
+	bleibt konstant bei 576 Zeilen, die horizontale Auflösung steigt
+	Für das Aussenden von Formaten im Bereich 1.62:1...1.78:1 für Nutzer von PAL+/DVD
+	sinnvoll, sonst unsinnig => PAL
+1.78:1	schwarzer Balken oben und unten (75%), 576 Zeilen, gute Auflösung
+1.85:1	schwarzer Balken oben und unten (72%), 554 Zeilen, gute Auflösung
+[ZF]    die schwarze Balken werden breiter, die Zeilenanzahl fällt von 
+	554 auf 437 Zeilen, die vertikale Auflösung sinkt
+2.35:1	breite schwarzer Balken oben und unten (57%), 436 Zeilen, mittlere Auflösung
+
+4. Fall: 	PAL+-Fernseher und PAL+-Sendung  oder
+		DVD und 16:9-fähiger Fernseher, 16:9-Bildröhre
+
+Quellformat 
+1.33:1	schwarzer Balken links und rechts (75%), 576 Zeilen, mittlere Auflösung,
+	Technisch unsinnig => PAL
+[ZF]    die schwarzen Streifen links und rechts werden schmaler, die Zeilenanzahl 
+	bleibt konstant bei 576 Zeilen, die horizontale Auflösung steigt
+	Für das Aussenden von Formaten im Bereich 1.62:1...1.78:1 für Nutzer von PAL+/DVD
+	sinnvoll, sonst unsinnig => PAL
+1.78:1	Vollbild (100%), 576 Zeilen, gute Auflösung
+1.85:1	schmale schwarzer Balken oben und unten (96%), 554 Zeilen, gute Auflösung
+[ZF]    die schmalen schwarze Balken werden breiter, die Zeilenanzahl fällt von 
+	554 auf 437 Zeilen, die vertikale Auflösung sinkt
+2.35:1	schwarzer Balken oben und unten (76%), 436 Zeilen, mittlere Auflösung
+
+Was ich noch bemerken wollte: 1:2.35 im Fernsehen halte ich genauso für
+Unsinn wie 1:1.33 bei einem Cinemascope-Film. Bei 1:1.33 fehlt die Hülfe des
+Bildes, der Teil ist dafür akzeptabel durchgezeichnet, bei 1:2.35 hat man
+zwar das ganze Bild, man erkennt aber so gut wie gar nichts mehr. Was nützt
+mir eine Landschafts-Totale, wenn ich Anette Lilienbecker nicht mehr von
+Eckhard Weidhase unterscheiden kann. Man sollte sich in der Mitte treffen,
+nicht in eines der Extreme verfallen.
+
+Gegenmeinungen? Wenn ja, bitte erst mal den Fernseher aufschrauben und die
+Bildbreite und -höhe nachstellen. Das war der erste Akt, als ich ein
+Fernsehbild auf einem Computermonitor (15,6 kHz-fähig !) ansah, und mich
+wunderte, daß die Senderlogos halb in der Mitte des Bildes sind. Schon
+mitbekommen, daß viele Fernseher nicht mal 80% des Fernsehbildes darstellen
+???
+
+Hat jemand bis hierher alles gelesen ?
+
+HDTV ist wohl leider auch für immer gestorben:  2048*1152 trum ...
+
+Das Konzept von DVD ist hinreichend unflexibel, daß ich keine Chancen sehe,
+daß sich da die nächsten 15 Jahre was tut. Eher wird wohl in 3D-Spielen in
+2048*1536*24 bit mit 60 Frames pro Sekunde mit 150 Millionen gerenderten
+Polygonen pro Bild (nicht pro Sekunde!!) auf einem 21"-Monitor gerendert,
+als sich da was tut. Eher werden wir wahrscheinlich dann 500 HOT-TV-Kanäle
+auf einer Bandbreite von 1 GBit/s mit entsprechender Qualität haben.... 
+Seufz....
+
+-- 
+Ivan Feuchthofen
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

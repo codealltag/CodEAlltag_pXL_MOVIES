@@ -1,0 +1,6 @@
+Warum? Arbeitet NTSC denn mit 24 Bildern/sec ? (Unter dem hier genannten
+"Pal-Speedup" verstehe ich, dass man die 24B/s auf Fernseh-25B/s
+beschleunigt??)
+
+
+Thierry

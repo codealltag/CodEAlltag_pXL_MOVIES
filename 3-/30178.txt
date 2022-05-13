@@ -1,0 +1,26 @@
+Das ist doch das kleinste Problem.
+Soweit ich sehe, bestehen die Muster aus einem Kreis von Punkten, die
+entweder vorhanden oder nicht vorhanden sind. Bei n Punkten kannst Du so
+2^n eindeutige IDs generieren (abzüglich Prüfsummen etc. pp.).
+
+
+Ich bin mir sicher, daß jede Filmkopie irgendeinen eindeutigen Code hat.
+Der wird im Zweifelsfalls vom Kopierwerk festgelegt. Und da noch einen
+auf der Kopie hinterlegten Code zuzuordnen, ist doch kein Problem.
+
+
+Dazu werden die Verleihe schon die notwendige Manpower haben ;-)
+
+
+Das ist richtig -- wahrscheinlich läuft das nach der Methode "'ne
+bessere Methode ist uns nicht eingefallen, aber versuchen kann man's ja
+mal."
+
+Schöne Größe,
+Sandro
+
+-- 
+Sandro Nack
+Please use Reply-To: information for replies
+PGP key: http://fyszivmqa.sbobin.eu/BlbwiymsMtpw.tcg
+PGP fingerprint: CED3 6074 7F7D 3148 C6F3  DFF2 05FF 3A0B 0D12 4D41

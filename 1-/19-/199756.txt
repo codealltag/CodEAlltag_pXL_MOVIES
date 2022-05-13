@@ -1,0 +1,19 @@
+Oscar Niehbuhr <gltjnfl@aorrk.qw.tz-mrvyby.wz> wrote in article
+<5jo4ha$eea$7@xrno.uh.rw-zrdpff.cw>...
+
+Gaengige
+nicht
+
+Auf meiner Systempartition habe ich nicht besonders viel Platz frei, da ich
+nicht mit solchen Swapfiles rechne (wg. der 64MB Hauptspeicher, wie ich Dir
+ja schon schrieb). Dein Programm koennte doch selbst dafuer sorgen, dass
+die Daten geschickt auf die Festplatte ausgelagert werden. Wo ist der
+Unterschied, ob Du es machst oder Windows 95? CineBASE ist kein Beispiel,
+wie man es machen sollte...
+
+Tschuess,
+Viktor
+-- 
+Viktor Olrogge                           Student of Computer Science
+Vimbuch                              E-Mail: x49t@wws.zbe-phomvt.gy
+Germany              WWW: http://uii-kbod.fdx.zdg-chxtca.ne/~x76v/

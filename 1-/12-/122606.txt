@@ -1,0 +1,17 @@
+[...]
+Umsonstladen.
+
+Warum? Die Behauptung war:
+
+(ist Trottel)    =>      (kann es am Subject erkemnnen.)
+
+Du (und ich) koennen es nicht am Subject erkennen, daraus
+folgt, dass wir keine Trottel sind (denn sonst koennten wir es ja am
+Subject erkennen.)
+
+A folgt B  <=>  (nicht B) folgt (nicht A)
+
+        SCNR cu charles
+-- 
+Uptime: 10 seconds  load average: 0.00, 0.00, 0.00
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

@@ -1,0 +1,7 @@
+Ich möchte ein paar Filme die als
+Video-DVD (BUP-,IFO- und
+VOB-Dateien) auf Festplatte vorhanden
+sind, als AVI-Datei konvertieren.
+
+Kann mir jemand sagen mit welchem Programm
+das möglich ist ?

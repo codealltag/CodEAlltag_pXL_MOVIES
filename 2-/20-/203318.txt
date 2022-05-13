@@ -1,0 +1,10 @@
+Dieses Verfahren wird meist mit nur einem Projektor und einer 
+Spezialoptik verwendet. Auf dem Film sind zwei Bilder nebeneinander.
+Diese sind wie bei CS seitlich komprimiert. Bei der Projektion wir
+das Bild wird dann mittels Anarmorphot wieder auf das normale 
+Seitenverhaltnis gebracht. Anschliessend werden die beiden Bilder durch 
+Prismen getrennt, unterschiedlich polarisiert und uebereinander auf eine
+Silberleinwand projeziert. (Die ueblichen Perlmut-Leinwaende wuerden
+das Bild selbst polarisieren und damit den Effekt zu nichte machen.)
+
+Ciao, Tino                                 uslhrfpg@uhz.tddz-topsuv.xj

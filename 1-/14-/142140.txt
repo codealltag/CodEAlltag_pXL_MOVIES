@@ -1,0 +1,8 @@
+Kleine Korrektur: drei. Gezählt werden (wie auch im Film) nur die von einander
+verschiedenen Teiler, hier 2,3,7.
+
+
+Gruss, Fabian
+
+-- 
+NewsGroups Suchen, lesen, schreiben mit http://vbclggj.fqa.mr

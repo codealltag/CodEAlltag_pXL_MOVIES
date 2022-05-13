@@ -1,0 +1,6 @@
+Rupert Eysel:
+
+
+Wie wird überhaupt synchronisiert? Bei einem Spulenwechsel kann man doch 
+fast unmöglich genau den exakten Frame erwischen. Trotzdem ist der Ton nie 
+zeitversetzt. Oder ist die Tonspur direkt mit am Film dran?

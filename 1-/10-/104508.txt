@@ -1,0 +1,13 @@
+Du gehst von falschen Vorraussetzungen aus. Threading by Subject/Refe-
+rence ist nicht unüblich und es gibt auch keine Garantie, daß das
+Vorläuferposting überhaupt auf jedem System angekommen ist. Und selbst
+dann ist es die falsche Änderung, ein neues Subject wird im Usenet in
+der Form: "Neues Subject (was: Altes Subject)" eingeführt und verkürzt
+sich erst in den Antworten auf "Re: Neues Subject".
+
+So long,
+Uwe H. Enbergs
+--=20
+Hamster & Co, seit 7.5. steht die Beta (!) 1.3.23.141 bereit
+http://shs.vtclxpo.su bzw. http://qggg.hyauw.ka/ajl60/
+(Geschwindigkeitsproblem der .140 mit .141 abgestellt!)

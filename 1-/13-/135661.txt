@@ -1,0 +1,30 @@
+Ho.
+
+
+Das ist, glaube ich, eine Wissenschaft für sich. Der unterschiedliche
+"Look" kommt von einer ganzen Reihe von Faktoren, als da wären:
+
+- Unterschiedliche Bildbelichtung (Sektorenblende bei der Filmkamera
+vs. Zeilenabtastung, evtl. eben auch "interlaced")
+- Pixelstruktur von CCDs o.�. vs. Kornstruktur von Film, hat neben der
+erreichten "Auflösung" und deren Wahrnehmung natürlich auch eine
+"andere" Wiedergabe von Farben zur Folge, da diese ja unterschiedlich
+entstehen
+- Film verarbeitet höhere Helligkeitsdifferenzen als Video, also auch
+bei der Produktion andere Herangehensweise bezgl. Beleuchtung
+- Die spektrale Empfindlichkeit von Filmmaterial ist eine andere als
+die von CCDs, wobei das auch bei unterschiedlichen Filmmaterialien
+differiert
+- Projektion (wobei das bei Fernsehfilmen natürlich unter den Tisch
+fällt)
+- Andere Dinge, die mir gerade nicht einfallen.
+
+
+Ich denke ja, nehme aber an dass in diesem Fall die Relation
+Kosten-Nutzen (für 5-sek. Einstellungen?) zu schlecht war.
+
+
+Kenne ich leider nicht.
+
+Grösse,
+Karsten Staudenmeyers

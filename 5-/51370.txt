@@ -1,0 +1,4 @@
+Scheint Differenz in Tagen zwischen Datum1 und Datum2 zu sein.
+
+Gruß,
+Pietro

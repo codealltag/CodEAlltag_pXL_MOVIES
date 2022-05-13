@@ -1,0 +1,10 @@
+On Sat, 14. 04. 22 00:33:33 +0100, Ben Isenborth
+
+Du fährst zuwenig Auto, genauso kommt mir das nämlich oft vor.
+
+Gruß/Regards
+Paolo Iseni
+-- 
+Heimkino FAQ -> http://ahw.sgdurgrp-svw.ry
+
+DOS Tip 17: Add DEVICE=FNGRCROS.SYS to CONFIG.SYS

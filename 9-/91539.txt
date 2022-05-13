@@ -1,0 +1,38 @@
+Hallo!
+
+
+Hm, dafür müßten sie aber spezielle Kopien haben, denn wie gesagt - 
+einen speziellen Timecode für Untertitel gibt es auf 35mm Kopien nicht 
+(Timecode hat nur das DTS-System). Denkbar wäre natürlich, das ganze 
+mit dem AC3-Signal zu synchronisieren, doch dazu müßte erstens der 
+komplette AC3-Stream als Kopie vorhanden sein (Festplatte, CD etc.) und 
+zweitens setzt das voraus, daß überhaupt Digitalton auf der Kopie 
+vorhanden ist. Gerade kleinere Filme, wie sie bevorzugt auf Festivals 
+gezeigt werden, besitzen ja häufig keinen Digitalton.
+Daher würde mich das wirklich interessieren, wie die auf dem Festival 
+eingesetzte Technik funktioniert. Es muß jedenfalls etwas sein, daß 
+unabhängig von der Filmkopie funktioniert. Wenn spezielle Kopien dafür 
+angefertigt werden müßten, könnte man auch gleich Uts hereinlasern 
+lassen.
+Oder es ist ganz primitiv: Notebook an Beamer, manueller Start der 
+Untertitel bei Filmstart und sie laufen einfach durch. Dumm, wenn dann 
+zwischendurch der Projektor anhalten sollte. ;-) Daher muß das schon 
+noch etwas ausgefeilter sein. Kennst Du jemanden vom Festival und 
+könntest ihn fragen?
+
+
+Vor allem wäre es völlig unnötig, da in "normalen" Kinos eben 
+Mainstreamware gezeigt wird und die hat (wenn sie nicht sowieso deutsch 
+synchronisiert ist) eben englischen Ton und/oder feste deutsche 
+Untertitel. Alle drei Kopiengattungen sind bei den entsprechenden 
+Filmen leicht zu beschaffen.
+
+
+Werde nächstes Jahr mal versuchen, vorbeizuschauen.
+
+Gruß
+Joachim
+
+-- 
+Eric Neudert: "Of course I'm home. I'm always home. I'm uncool." 
+(Almost Famous)

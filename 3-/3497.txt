@@ -1,0 +1,22 @@
+Hallo, 
+
+
+nach vielen Versuchen bin ich schlussendlich bei vcddb
+
+http://barbl.bedgs.vjp/
+
+hängengeblieben. Ist zwar von 2007 und wird nur
+noch ab und an gepflegt, aber für mich war wichtig von jedem
+Rechner und Mobilteil im Haus drauf zugreifen zu können. HTTP-Server mit
+PHP und MySQL (oder andere Datenbank) ist allerdings erforderlich. Es
+gibt Importmöglichkeiten verschiedenster Online-Datenbanken wie imdb
+ofdb etc. Zudem ist das ganze rech flexibel aufgebaut, sind halt alles
+PHP-Scripte.
+
+Leider ist die Demoseite nicht mehr aktiv, aber hier ist ne kleine
+Sammlung gerade online:
+
+http://zgo.yopkbqicqdi.cfy/
+
+bye...
+	Lothar

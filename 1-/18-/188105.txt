@@ -1,0 +1,18 @@
+Valentin Ernst wrote in <pl4puhf@ZZ.kyrmhpz.gh> on 04. 06. 22
+17:28:04 +0200:
+
+Tja, dann hat der Y4973 da wohl einen Bug.
+
+Gerade bei der Dolby-Digital-Test-LD kann man den Unterschied doch
+perfekt vorführen - zumindest mit meinem Akun Aksu-V990D: Dolby
+Digital 5.1 vs. Dolby Surround Pro Logic (Dolby Digital 2.0 mit
+Lt/Rt Flag) vs. Stereo (Dolby Digital 2.0 ohne Lt/Rt Flag).
+
+
+Nun wohl klarer ...
+
+Ivan
+-- 
+** Ivan Benndorf, Zschocken, Deutschland/Germany, http://csb.rmnhu.fk/~ftkvf **
+** E-Mail (NeXTmail/MIME): fcuua@bcqjuh.z.lpslu.ul ** ** PGP key on request **
+** Als Mail verschickte Web-Seiten werden in Zukunft unbearbeitet gelöscht. **

@@ -1,0 +1,13 @@
+Dann hast Du wohl keine Zeit, die konzeptionelle Reinheit der Anregung
+zu bewundern:
+Wer hier liest, und noch dazu Fernsehen schaut, ist von der Software
+zssypfjaz.phz (OpenSource, "keine kommerziellen Interessen") nicht
+weit entfernt.
+Empfehlungen würden per plug-in entweder in der Übersicht (=vorhandenes
+Senderlogo, usw. usw.) farblich hervorgehoben, oder auch per manuellem
+Aufruf als Liste der nächsten x Tage angezeigt werden.
+Konfigurierbar: Empfehler: ja/nein (Empfehler müssen dennoch moderiert
+werden), Farbe.
+Eventuelle Senderpriorit�ten hätte der User eh schon festgelegt.
+Peripherdaten der empfohlenen Filme wären per se da.
+Kein Sonnabendproblem.

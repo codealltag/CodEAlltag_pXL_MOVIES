@@ -1,0 +1,22 @@
+Ja, im Augenblick 750. Am Jahresanfang waren es noch 400.
+
+Er wird durch eine mathematische Formel(siehe unten unter den Top 250)
+nach unten gezogen. Im Prinzip werden 750 Stimmen mit einer Wertung von
+6.9 hinzugerechnet, worunter Filme mit wenig Stimmen leiden.
+
+Weiss ich auch nicht.
+
+Ausserdem gibt es noch die Modifizierung der Wertung durch
+Berechnung eines "Weighted Average", d.h. gewichteter Durchschnitt.
+
+Ein merkwürdiger Fall ist der Film "Central do Brasil", bei dem
+formal eigentlich keine Manipulation erkennbar ist. Er hat nämlich
+mehr als 4500 Stimmen, wovon mehr als 72% Zehner sind. Die übrigen
+Stimmen verteilen sich normal. Trotzdem wird das arithmetische
+Mittel von 9.2 auf 8.2(weighted) runtergek�rzt. In Charts erscheint der
+Film oft mit 8.5 rating.
+Manipuliert hier die IMDB?
+
+
+Gruß
+-Claudio

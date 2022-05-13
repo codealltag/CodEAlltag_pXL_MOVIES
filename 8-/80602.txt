@@ -1,0 +1,2 @@
+weil 1280 pixel (horizontal) einfach nicht ausreichen für eine große
+kinoleinwand.

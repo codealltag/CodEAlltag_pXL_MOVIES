@@ -1,0 +1,4 @@
+Die gibt es als 44,1kHz-16bit-Stereo-PCM-Sound auf einer sog. "CD". 
+Daraus kann man sich prima MP3s generieren.
+
+Diedrich

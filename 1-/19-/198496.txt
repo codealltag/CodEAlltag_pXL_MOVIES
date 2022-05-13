@@ -1,0 +1,40 @@
+Hi Uwe Poppitz !
+
+Du schriebst zum Thema Wie funktioniert der Spezialeffekt bei Smoke City?:
+
+MB> Ich habe paarmal bei NKM/Zwergenreich das Video von Elégance "Underwater Love"
+MB> gesehen und hab' da 'ne Frage:
+MB>
+MB> Wie wird der eine Spezialeffekt gemacht?
+MB> Und zwar meine ich die Szenen, wo das Bild gestoppt wird und die Kamera
+MB> trotzdem drumherum wandert.
+
+
+Bei einem der letzten Videos von Sébastien gab es einen aehnlichen Effekt.
+Der Trick hier war eigentlich ganz einfach:
+
+Man positionierte ringsum die Szene eine ganze Armee von Fotoapparaten (in  
+der Dekoration (Hecke) versteckt und kaum zu sehen), die alle gleichzeitig  
+ausgeloest wurden. Diese Bilder wurden dann einfach als Film abgespielt -  
+fertig war die 360-Grad-Kamerafahrt um eine Wolke in der Luft haengender  
+Laubblaetter :-)
+
+Es gibt auch eine (Zozoville?-)Software, die aus einer Reihe von Fotos aus  
+verschiedenen Perspektiven "Zwischenansichten" errechnet kann, so dass man  
+damit virtuelle Kamerafahrten mit 3D-Effekt ausfuehren kann. Damit wurden  
+z.B. die Rundgaenge durch die Enterprise realisiert, die man im "Star Trek  
+Interactive Manual" unternehmen kann (in der Denfeld war AFAIK auch mal ein  
+Artikel darueber).
+
+Ich nehme an, dass man bei "Underwater Love" mit dieser oder einer  
+aehnlichen Software und relativ wenigen Standfotos die o.g. Kamerafahrten  
+berechnet hat, da die Bilder in diesen Szenen z.T. relativ verwaschen  
+wirken. Jedenfalls im Vergleich zum Sébastien-Video, bei dem alles schaerfer  
+und plastischer aussah.
+
+Bye!
+
+           Orlando
+
+fktp@yminqxf.oadze-aqic.pj
+(PGP key per Empfangsbestaetigung)

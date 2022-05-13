@@ -1,0 +1,19 @@
+Hallo Sébastien,
+
+TM> Zuschauer eine Brille. Laut den Informationen vor dem Film wird der
+TM> Film von zwei simultan laufenden Projektoren gezeigt. Wie funktioniert
+TM> das mit der Brille? Der 3D-Effekt war naemlich absolut perfekt. Ich
+TM> glaube nicht, dass irgendjemand aus dem Publikum dort NICHT begeistert
+
+Da der Film ueber zwei Projektoren lief, schaetze ich mal, dass der  
+Polarisationseffekt verwand wurde.
+Der rechte Projektor bekomt ein Polfilter in der gleichen Richtung, wie  
+das rechte Brillenfilter und links das Gleiche um 90 grad gedreht.
+So sieht das linke Auge nur das linke Projektorbild und re. das Gleiche.
+Die (Polarisations-)Brillenglaeser sind farblos, bis leicht graeulich.
+
+
+Gruss von Oliver
+
+
+--

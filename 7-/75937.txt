@@ -1,0 +1,12 @@
+Leander P Höweler schrieb folgendes:
+
+
+"Mein Name ist Mehmet, Leopold Grueber"
+
+SCNR
+
+MFG, Tom
+-- 
+do
+     fork agent ( heinrich );
+repeat;

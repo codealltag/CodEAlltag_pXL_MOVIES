@@ -1,0 +1,11 @@
+Onno *Nino* Klewes wrote:
+...
+
+Dazu muss ich aber anmerken, dass für einen Mathematiker 1 genauso
+unbestritten keine Primzahl ist wie 2 eine ist. Nur die Frage, ob 0 eine
+natürliche Zahl ist, ist ein wenig umstritten, wobei vor allem die
+Informatiker die 0 als natürlich betrachten, manche Mathematiker eben
+nicht. Letztendlich ist das Definitionssache, und je nach Anwendung ist
+es nützlich, sie mitzubetrachten oder eben nicht.
+
+Tschüss, Guido

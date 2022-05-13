@@ -1,0 +1,102 @@
+Falsch.
+
+Ich zitiere aus den Chartas:
+
+---8<---
+de.rec.tv.technik       Geraete und Technik fuer Fernsehen und Video.
+
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+---8<---
+
+Aus dem ersten Abschnitt ist klar ersichtlich, daß er sich auf Geräte
+bezieht. Fällt in diesem Kontext also weg, da es sich nicht um ein
+Gerät handelt.
+
+Ebenso der zweite Abschnitt, es handelt sich weder um einen Artikel
+zur Norm noch um den Standard. Diskussionen über Inhalte von
+DVD/LD/VHS-Releases, angefangen beim Film an sich bis hin zu seiner
+Präsentation, ist über die Technik-Gruppe gemäß Charta in keinster
+Weise abgedeckt.
+
+---8<---
+de.rec.film.misc        Filme, Serien, TV, Video, Kino.
+
+gb.wwg.qcde.piup dient als Diskussionsforum für alle
+Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+Sendungen liegt, kann auch über (Video)filmen (d.h.
+Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+Interpretation von Filmwerken. Für technische Aspekte von Heim-
+kinosystemen existiert die Gruppe de.rec.tv.technik.
+---8<---
+
+Primär Inhalte, wenn auch *alle* Filmthemen. Fernseh- und Videofilm
+werden nicht ausgegrenzt, ebensowenig die damit verbundene Technik.
+Wie die Charta von de.rec.tv.technik zeigt, gelten Inhalte von Discs
+nicht als technischer Aspekt und wären im Gegensatz zu
+de.rec.film.misc nicht durch die dort gültige Charta zulässig.
+
+Deine Aussage
+
+
+ist somit definitiv falsch, wie durch die Charta von de.rec.film.misc
+schriftlich und eindeutig belegt.
+
+---8<---
+de.rec.tv.misc  TV/Video/Sat Themen.
+
+gw.gpc.di.eghq ist eine Gruppe, in der TV- und Video-bezogene
+Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert.
+(Programmstruktur einzelner Sender; Diskussion über Serien,
+Shows und Dokumentationen; Empfehlungen und Diskussion
+von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+Medienrecht; Sender anderer Länder (via SAT))
+---8<---
+
+Da die Charta von de.rec.film.misc filmtechnische Aspekte
+(Paradebeispiel wären Diskussionen über DTS hier ausgesprochen subtil
+zu handhaben) explizit zuläßt, existiert die "speziellere Gruppe" und
+dementsprechende Postings wären dort gemäß Charta unerwünscht.
+
+
+Korrekt, wenn auch in diesem konkreten Fall nicht realistisch (imho),
+da keine definitiv geeignete Gruppe existiert. Wenn Dich die (äußerst
+spezifischen) Verkaufsangebote nerven, steht es Dir frei, einen Ivan
+anzustrengen. X-posts in de.markt.* wären eine Möglichkeit, aber
+meiner Meinung nach überflüssig und letztendlich lediglich blanker
+Unsinn, um die Egos korinthenkackender Netzsherrifs zu befriedigen
+(es ist niemand persönlich gemeint, noch hat sich niemand dieses
+Prädikat verdient).
+
+
+Sorry, daß ich diesen ignoriert habe. Nach meiner Auffassung dreht es
+sich hier primär um de.rec.film.misc im allgemeinen und nicht um eine
+allgemeine Regel. Ebenso denke ich nicht im Traum daran, jetzt extra
+fq.tsw.wacxisidyg zu subscriben - wenn Du nicht wünschst, daß
+Antworten in der gleichen Newsgroup erscheinen wie in jener, in welche
+Du gepostet hast, dann spare Dir bitte obige Kombination und verzichte
+auf das eigenmächtige Crossposten. Deine Forderung ist für mich
+absolut nicht nachvollziehbar - zumal de.rec.tv.technik noch sehr jung
+ist, die Charta wurde mit diesem expliziten Einschränkungen zu dieser
+Sache erst kürzlich mit überragender Mehrheit angenommen -, und
+anstelle zu *fordern*, wären hier in punkto de.rec.tv.* eine Bitte
+oder besser noch eine Anfrage wesentlich angebrachter gewesen, als
+herumzupoltern wie der Elefant im Porzellanladen und Chartas
+umzudichten.
+
+just my two cents.
+
+cu,
+
+  Ihno

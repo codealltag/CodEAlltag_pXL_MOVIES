@@ -1,0 +1,23 @@
+Wir halten zunächst fest: du bist Nichtraucher und hast in N Filmen
+mitgespielt.
+
+Daniel Isenburg schrieb/wrote/escribiö:
+
+Hier muss gelten, dass N größer ist als Null, denn sonst wäre diese
+Aussage in sich sinnlos, da du dann in jedem Film sowohl geraucht (du
+hast in Null Filmen geraucht) als auch nicht geraucht hättest (da du in
+Null Filmen geraucht hast, hast du eben nicht geraucht), was nicht
+möglich ist. Also: N > 0
+
+
+Hier wäre eine Anzahl von Null Filmen nicht unlogisch, denn wenn du in
+keinem Film mitgespielt hast so hast du demzufolge auch in keinem Film
+geraucht. Also zunächst N >= 0. Da aber beide obigen Aussagen bzw.
+Listen auf dich zutreffen sollen, führt das zu N > 0, was aber wiederum
+zu einem Widerspruch führt, da du dann in jedem Film sowohl geraucht
+(Liste 1) als auch nicht geraucht hättest (Liste 2).
+
+Du kannst also unabhängig von der Zahl der Filme, in denen du mitgemacht
+hast, nur in eine der beiden Listen eingetragen werden.
+
+Mark

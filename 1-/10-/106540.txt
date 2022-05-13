@@ -1,0 +1,17 @@
+: > PS: Dein tin fabriziert kaputte Sigs. Ausserdem sind die länger als 4
+: > Zeilen, das ist nicht schön.
+
+: Gar nicht schön sind auch die obskuren Doppelpunkte als
+: Quotingzeichen...
+
+Hallo Carlos,
+ich muss mich wahrscheinlich endlich von meinem tin verabschieden und mich
+vom PC aus im usenet zu schaffen machen. Der tin liegt hier zentral bei den
+Unix-Admins und jedesmal, wenn ich das tinrc umkonfiguriere, wird es mir
+beim naechsten Aufruf wieder auf die default-Werte zurueckgesetzt. Ich nehme
+mal an, dass er neu compiliert werden muss, aber das lohnt sich natuerlich 
+garnicht mehr. Es ist nur reine Bequemlichkeit von mir, dass ich ihn noch
+nutze, da ich am Arbeitsplatz notgedrungen sehr wenig Zeit habe, und mein
+Hauptaktionsplatz eben meine Sun ist.
+Naja, vielleicht poste ich mal wieder mehr von zuhause .. :-)
+Ciao, Elsa

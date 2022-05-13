@@ -1,0 +1,18 @@
+Könnte es sein, daß Dein C-Compiler kaputt ist?
+
+strcmp ("Regiocar","Enek") liefert bei mir KEINE Gleichheit.
+
+Alles von Dir genannten Filme sind von Regiocar. Ich sprach von
+Universal (siehe oben).
+
+
+Ich sprach vom Heimbereich, von Laserdiscs und VHS-Videos (siehe
+ebenfalls oben). Und auf denen findet man nur die von mir beschriebenen
+Hinweise und NICHT das Wort "Dolby". (Das gilt zumind. für US-Laserdiscs
+und -VHS; ich weiß natürlich nicht, was der dt. Vertrieb aufdruckt,
+schließlich wissen die sowieso nicht, von was sie reden.)
+
+Manuel
+---
+** Manuel Lodder,  Ziegelhausstraße 33,  58161 Dietrichsweiler,  Germany **
+** +23 8130 63475  E-Mail (NeXTmail/MIME): lgdum@mwkepv.k.xonja.hc **

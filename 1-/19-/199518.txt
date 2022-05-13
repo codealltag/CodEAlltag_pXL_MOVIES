@@ -1,0 +1,43 @@
+Ich habe mich mal bei der FJWT Administration erkundigt, was es mit den
+Zugriffsproblemen auf die WWW-Sites der FJWT auf sich hat.
+
+Das Problem stellt sich, wenn Zugriffe ohne HTTP-User-Agent Kennung
+erfolgen. Dies geschieht normalerweise nur bei automatisierten
+Zugriffen von Web-Robots etc. und aus diesem Grund wurde diese Sperre 
+auch installiert. Bekommt Ihr ganz unten nachzulesende
+Fehlermeldung beim Zugriff mit einem normalem Browser wie
+Floriales oder Internet Explorer, ist mit aller Wahrscheinlichkeit
+die Proxy-Konfiguration Eures Rechenzentrums bzw. Internet Providers
+lueckenhaft, d.h. es wird eben keine HTTP-User-Agent Kennung
+gesendet. Ein wenig zuviel der Anonymisierung.
+
+In diesem Fall hilft nur eine freundliche Mail an den Webmaster Eurer
+Domain mit der Bitte um Abhilfe.
+
+Hier die Originalmail von Olivier Eber, seines Zeichens Webmaster
+der IMDb.
+################### Mail fangt hier an ###############
+
+hi,
+
+Their proxy is probably stripping the User-Agent header. The error
+message these people see tells them to fix this to gain access. Anonymous
+User-Agents are no longer allowed because of the abuse that is usually
+associated with them.
+
+Please feel free to forward this info if you want.
+
+regards,
+olivier
+--
+Olivier Eber   FAV (Ltd)
+http://hq.nyjk.alx/Yflbwm/jfbypf_2202 -  hype free Oscars (R) info.
+http://sn.xgbv.blc/ehj/rnvwlcnwdo     -  Win a 56k X2 modem. Free draw.
+################### Mail hoert hier auf ##############
+
+
+-------------------------------------------
+Internet: usvnwdaj@yyrqz.cn-onjgoj.xu
+          qeas@xr.qc-rsgyoo.fx
+BBS: t.qgtfgecaoh@gigqqdfn.hflqhxkr.uo
+WWW: http://mqfbodmw.lp-pxjewy.tn/~dsslfdce

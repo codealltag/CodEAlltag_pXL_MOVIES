@@ -1,0 +1,36 @@
+Wir wäre es, wenn Du Dich mal informieren würdest, bevor Du hier
+Leute zur Sau machst, die völlig recht haben??
+
+Der Originalautor (Vittorio Oligschläger) hat kein Wort über NTSC verloren,
+sondern nur über PAL. Und in PAL werden Sendungen, die rsprünglich
+auf Film aufgezeichnet sind (also bei 24 Bildern/s) mit 25 Bildern/s
+wiedergegeben, also zu schnell. Das kann man sowohl an der Tonlage,
+als auch an der Laufzeit feststellen. (Auch Fernsehserien, wie z.
+B. Star Trek, werden auf Film ausgezeichnet. Es gilt also nicht
+nur bei Spielfilmen.)
+
+Wie Du richtig bemerkst, hat man bei NTSC größere Probleme, die
+Differenz zwischen 24 und 30 Bildern/s zu überwinden. Deshalb wird
+in NTSC das 2:3-Verfahren verwendet, d. h. ein Film-Frame wird
+abwechselnd auf zwei bzw. drei Video-Frames übertragen. Folgende
+Gleichung verdeutlicht, daß die Rechnung aufgeht:
+
+12 Film-Frames * 2 + 12 Film-Frames * 3 = 60 Video-Frames
+
+Wenn Du einen NTSC-Playback-VCR und einen entsprechenden Film hast,
+dann kannst Du das auch problemlos mit der Einzelbildschaltung
+verifizieren: Zweimal das gleiche Bild, dann dreimal das gleiche
+Bild, dann wieder zweimal usw.
+
+Wenn Du einen solchen VCR hast und den gleichen Film in NTSC und
+PAL, dann kannst Du sie auch mal nebeneinander laufen lassen und
+a) den Unterschied in der Tonlage anhören, sowie b) die unterschiedliche
+Laufzeit überprüfen.
+
+Sage nicht immmer, was Du weit,
+aber wisse immer, was Du sagst.               (Verfasser unbekannt)
+
+Jean-Claude
+---
+** Jean-Claude Ueberschaar, Wolfauweg 77, 38424 Honrath, Germany **
+** +43 4858 26678  EMail (NeXTmail/MIME): yewrp@qijpqr.b.zulkw.fk **

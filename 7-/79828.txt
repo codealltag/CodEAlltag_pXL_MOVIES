@@ -1,0 +1,6 @@
+Zu 99%. Übung macht den Meister.
+-- 
+"Regular ist rekursiv.
+Ein User ist ein Regular,
+wenn er von den Regulars als Regular angesehen wird."
+  -Günter Auanger in fn.msk.uchkhsed.drqjap

@@ -1,0 +1,23 @@
+Das haengt von verschiedenen Sachen ab: 
+- Von dem, was der Mensch in der Blue/Green/wasauchimmerbox an 
+  Kleidung traegt oder in der Kulisse steckt. Nachdem viele Leute halt
+  was Blaues tragen oder leuchtend blaue Augen haben, musste man sich
+hier 
+  was einfallen lassen. Vor allem Lichteinfluesse waren bei der Bluebox 
+  gefaehrlich - wenn blaue Reflektionen auf dem Objekt erschienen
+(Himmel)
+  musste der Key nachgerechnet werden.
+- Von dem, was die Software an Farben keyen (wegrechnen) kann: Es gibt
+  wesentlich mehr Gruen-Toene, die man isoliert betrachten kann als 
+  Blau-Toene (Farbentheorie).
+
+Frueher hat man sich auf Blau versteift, aber Gruen geht technisch
+genauso, hat aber in der Anwendung Vorteile.
+
+Gerhard
+
+[Hm ... mein Newsserver hat keine Gruppe de.comp.tv+video - F'up
+geloescht :o( ]
+
+-- 
+    Gerhard Schreib                                       krwezuym@bup.rx

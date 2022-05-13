@@ -1,0 +1,5 @@
+Am "coolsten" war mal ein Film, wo "Hacker" irgendwas auf dem Outdoor-Shop 
+"entschlüsselten" oder "scannten". Sie haben einfach irgendeine 
+ausführbare Datei als Textdatei über den Screen laufen lassen.
+
+(SHOW/PRINT/CANCEL Dialog)

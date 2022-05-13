@@ -1,0 +1,12 @@
+Dies ist vielleicht nicht ganz die richtige Gruppe, aber ich denke
+hier finde ich am ehesten die Leute, die sich damit auskennen:
+
+Ich habe ein Problem beim Aufbau der Datenbank mit Cavatappi (Version
+0.9.10). Nach einiger Zeit bricht daß Programm beim Einfügen von
+"biographies.list"  mit der Fehlermeldung
+"Runtime error '3135': 'Field BioText.bio' can't be a zero-length
+string" ab. Kennt jemand diesen Fehler und weiß wie man ihn beheben
+kann?
+
+Gibt es ansonsten noch andere brauchbare Windows-Programme zur Abfrage
+der list-Dateien?

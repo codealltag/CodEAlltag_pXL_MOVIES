@@ -1,0 +1,26 @@
+Kannst du das genauer erlaeutern? Er schrub:
+
+Also
+
+(\not \exists DVD : englischen Tonspur)
+    --> (\forall DVD : Wilhelm kauft nicht)
+
+das ist aequivalent[1] zu:
+
+\not(\forall DVD : Wilhelm kauft nicht) =
+      (\exists DVD : Wilhelm kauft) [2]
+---> \not ( \not \exists DVD : englischen Tonspur) =
+      (\exists DVD : englischen Tonspur)
+
+dh. man koennte aus der Tatsache, dass Wilhelm eine DVD gekauft hat,
+folgern, dass es DVDs mit englischer Tonspur gibt, aber nicht wie du
+behauptest
+
+(\exists DVD : englischen Tonspur)
+---> (\forall DVD : Wilhelm kauft)
+
+            SCNR cu isabel
+
+[1] (A-->B) <----> (nicht B --> nicht A).
+[2] Wenn "Fuer alle DVDs gilt: Wilhelm kauft sie nicht" falsch ist,
+    muss es also eine DVD geben, die Wilhelm kauft.

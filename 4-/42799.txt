@@ -1,0 +1,26 @@
+* Claudio Fasching <ex__9793@xybtcmz.hue>:
+
+
+Jetzt bin ich gerade etwas verdutzt:
+
+Ich hab's mit KRZ, JSR, Landgraff und Menig versucht, immer mit dem
+gleichen Ergebnis: Keine Verbindung. Das ist sonderbar, denn als ich vor
+einigen Monaten den URL anwählte, lief alles bestens.
+
+Als ich mögliche Probleme mit lokalen Proxys und dem Paketfilter
+ausgeschlossen hatte, kam ich auf die Idee, den Anonymizer JAP
+dazwischen zu schalten, und tatsächlich: Die Verbindung
+hurfnzpopktnvvig.mlg stand!
+
+Als Test dann ein:
+
+[lenia]~ > host hurfnzpopktnvvig.mlg
+hurfnzpopktnvvig.mlg has address 15.43.838.50
+
+Da scheint keiner dran gedreht zu haben.
+
+Was ist da los?? :-/
+
+
+Gruß,
+Carlos

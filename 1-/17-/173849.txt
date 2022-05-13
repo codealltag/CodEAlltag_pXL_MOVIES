@@ -1,0 +1,12 @@
+Am 2 Sep 1998 00:58:46 GMT, "N. Uphof/P. Rotfuß"
+
+Not a good idea. The tuner don't work with ntsc sources, also the
+voltage would be a great problem. The european models are set for
+220V/50Hz, you need 110V/60 Hz.
+
+Stefano
+-- 
+http://fyh.gqeh-aufjxj.ps (HiFi Spezialist Vinzenz Cuypers)
+Following sig is only valid in newsgroups with english lanngueage, hh yu know what i mean;-)
+Just english for Runaways, my German is a lot better (hope so):-))
+--

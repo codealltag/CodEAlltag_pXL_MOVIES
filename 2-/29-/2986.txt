@@ -1,0 +1,17 @@
+Falls Du mit "die reine Datenbank" die Listfiles für die Offline-Version
+der IMDb meinst: Die sind natürlich immer noch verfügbar. Allerdings
+enthalten sie nicht die kompletten Listen, z.B. fehlen die Awards. Ich
+komme trotzdem in mindestens 90% meiner Anfragen damit aus und
+bevorzuge die Offline-Version schon wegen ihrer augenschonenden
+optischen Schlichtheit.
+
+Mit dem Wechsel im Erscheinungsbild der Web-Version hat das aber
+wenig zu tun, deshalb ergibt deine Formulierung "mit der alten Software"
+in diesem Kontext wenig Sinn. Um mit den Listfiles etwas anzufangen,
+muss man sie erst in ein Datenbank-artiges Format konvertieren, z.B.
+in eine EBF-Database, und dann mit einem passenden Frontend
+abrufen. Dieses Frontend ist üblicherweise kein Browser, obwohl man
+das mit so Zeug wie PHPMyAdmin vielleicht hinkriegen könnte.
+
+
+Valerius

@@ -1,0 +1,24 @@
+Frerich Vorderstraße schrieb in de.rec.sf.startrek ueber "Re: Synchrostimmen von
+Vonderweiden und Schuettpelz":
+
+
+Nicht  richtig.   50 Hz vom Computer kann man mit 24 Hz vom Kino nicht
+vergleichen.   Bei  50  Hz  zeigt  TV  nur 25 volle Bilder, also quasi
+gleich viel.
+
+Beim  Computer  bzw.  TV wird das Bild durch den Rasterstrahl erzeugt,
+dh.   es  wird effektiv immer nur ein Punkt der Maske beleuchtet.  Bis
+der Strahl rechts unten angekommen ist, ist im Vergleich zu links oben
+schon eine ziemliche Zeit vergangen.
+
+Beim  Kino  bzw.   Film wird das komplette Bild auf einmal gezeigt und
+nur durch die relativ kurze Dunkelphase beim Bildwechsel unterbrochen.
+Dh.   man sieht für relativ lange Zeit das komplette Bild, während man
+beim  TV  effektiv  nie ein komplettes Bild sieht.  Der Eindruck eines
+vollständigen  Bildes  entsteht beim TV nur durch das nachleuchten der
+Röhre bzw.  der Trägheit des Auges.
+
+
+-- 
+Bis dann...
+		Fredy Ulmann

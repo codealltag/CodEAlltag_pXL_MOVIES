@@ -1,0 +1,33 @@
+Hallo,
+
+dieses hier *snip*
+
+
+stimmt leider nicht ganz. �� 932-934 BGB ermöglichen den sog. "gutgläubigen
+Erwerb" von Eigentum, d.h. Du kannst Eigentümer werden, wenn ein
+Nichteigentümer Dir die Sachen übereignet, obschon er nicht dazu berechtigt
+ist (z.B. mangels Eigentum, gibt aber noch andere Fälle der Berechtigung
+trotz Nichteigentums). Eine Ausnahme gilt nur in den Fällen, die � 935 BGB
+vorsieht, nämlich wenn die Sachen abhanden gekommen sind, d.h. gestohlen
+wurden oder der Besitzer sonst irgendwie den unmittelbaren Besitz
+(=faktische Verfügungsgewalt) unfreiwillig verloren hat.
+
+In Concreto: Da der Filmverleih sich hier wissentlich seines unmittelbaren
+Besitzes begeben hat und nur mittelbarer Besitzer des Plakats war (z.B.
+Leihverhältnis), scheidet ein Abhandenkommen aus - � 935 BGB ist nicht
+einschlägig, ein gutgläubiger Eigentumserwerb ist möglich.
+
+Der Haken ist nur die Gutgläubigkeit: der Erwerber darf nicht wissen, dass
+die Sache im Eigentum des anderen steht - und hier war ein deutlicher
+Hinweis auf die Eigentümerposition des Verleihs. Insofern also doch kein
+Eigentumserwerb mangels Gutgläubigkeit.
+
+Aber in allen anderen Fällen, also wenn der Erwerber gutgläubig ist, ist ein
+Eigentumserwerb auch vom Nichteigentümer möglich. Ist komisch, aber zu
+Gunsten des Geschäftsverkehrs so geregelt. Der nichtberechtigte Verkäufer
+ist natürlich regresspflichtig (aus � 816, � 687 II, � 989, � 990, � 823
+BGB).
+
+Just my 2cents,
+
+Hugo

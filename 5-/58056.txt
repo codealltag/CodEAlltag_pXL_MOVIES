@@ -1,0 +1,12 @@
+Das Abschneiden erfolgt schon beim Erstellen der database-Files.
+Unter dbs/*.* sind nur noch 254 oder 255 Zeichen gespeichert.
+Das Abschneiden ist notwendig, weil in diesen Files die Stringlänge in
+einem einzigen Byte gespeichert wird.
+
+Deshalb genügt es in diesem Fall nicht, einfach eine Konstante 
+hochzusetzen, um die volle Character-Angabe zu bekommen. Man müßte
+tief in die Eingeweide der Datenbank-Engine einsteigen und sie aufbohren.
+
+Ciao, Yznic                                ebpwiowm @ buxzohsr.sl
+
+Zuletzt gesehen: Don Quichotte Uptown Girls Don Quichotte

@@ -1,0 +1,31 @@
+Hi Fredi,
+
+
+doch!! Der Trick ist, die "hohen" Karten (also Zehn, As) zu zaehlen und den
+Umstand auszunutzen, das das Verhalten des Kartengebers genau festgelegt ist
+(meines Wissens so, dass bis zum Wert von einschliesslich 16, der Geber
+noch eine Karte ziehen *muss*).  Wenn also schon viele hohe Karten gefallen
+sind, sind die Chancen fuer den Spieler zu gewinnen anders, als wenn noch
+fast alle hohen Karten im Spiel sind (und von den hohen Karten gibt es ja
+immerhin 2*6=12 Stueck). Man kann das Ganze natuerlich noch verfeinern,
+indem man auch die Haeufigkeit der anderen Kartenwerte mitzaehlt; es gibt
+da komplett ausgearbeitete Wahrscheinlichkeitstabellen drueber (auch in
+Buchform bei uns zu kaufen - such einfach mal nach BlackJack).
+
+
+Genau! Denn z.B. hat beim BlackJack der Spieler die Moeglichkeit seinen
+Einsatz zu verdoppeln (wenn er denkt bzw. weiss, dass seine Chancen im
+Augenblick besser sind), die Bank dagegen nicht!
+
+Meines Wissens kommt man mit einem BlackJack-System (vorausgesetzt man
+macht beim Kartenzaehlen keine Fehler und kann die Wahrscheinlichkeiten
+schnell genug in der auswendig gelernten Tabelle abrufen ;-) auf einen
+Erwartungswert von etwa 54%. Damit ist BlackJack das *einzige* Spiel im
+Spielcasino, wo man im Mittel tatsaechlich etwas gewinnen kann!!!!
+
+
+Ciao - Georg
+-- 
+                     Georg Gehrz  ~~~~  carekauf  """` 
+wdotd@yylqetyjup.ltr-syaffzxar.wk  -OO-  Jenckestraße                 (_   )
+phone +96-031-559-0793, fax -4454  |()|  99311 Jastorf / Germany   |-'/

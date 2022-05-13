@@ -1,0 +1,22 @@
+Stpt.
+
+
+Das mit der Klangregelung bei nur manchen Boxen ist soweit auch
+einleuchtend, aber z.B. der Center hat AFAIK -3dB bei um die 70Hz. Gefüttert
+mit "richtigem" Bass dürfte da drunter nicht mehr viel bei rumkommen.
+Momentan habe ich mich so eingerichtet:
+
+Front L/R: Large
+Rest: Small
+Übergangsfrequenz auf Sub: 80Hz
+Sub: Both
+
+Die Übergangsfrequenz von 80Hz passt IMO am besten zu den anderen
+Lautsprechern (und small müsste doch heißen, dass alles ab 80Hz und drunter
+an den Sub "geroutet" wird (natürlich mit einer bestimmten
+Flankensteilheit), large=nichts geht an den Sub). Würde ich z.B. auch die
+Surrounds auf large stellen, was passiert dann mit den dortigen
+Tieftonanteilen? Die sind doch dann wech, weil vom LS nicht reproduzierbar,
+richtig?
+
+-Mathias

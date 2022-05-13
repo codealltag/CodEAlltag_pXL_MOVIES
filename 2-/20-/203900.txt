@@ -1,0 +1,31 @@
+: Das ist auch noch ein Thema über das ich etwas verwirrt bin. Ich könnte mir
+: gut vorstellen das der Decoder im DVD Plaver eingebaut ist und 6 Cynch
+: Buchsen an der Gehäuserückseite sind.
+
+Das weiss ich auch noch nicht.
+
+: Es kann sich nicht jeder einen MPEG Decoder extra hinstellen wenn er einen
+: DVD Player kauft, ist glaube ich etwas viel verlangt.
+
+Nicht unbedingt. Aehnlich ist es bei Dolby AC-3 und DTS.
+
+: Oder ist im DVD Player dann ein MPEG-1 Decoder eingebaut um wenigstens den
+: normalen Stereo Ton zu bekommen und ein weiterer Digitaler Ausgang für den
+: MPEG-2 Decoder?
+
+Ein MPEG-I Decoder ist hundertprozentig eingebaut, sonst wuerde man
+naemlich gar keinen Ton haben. Der Player wird sicherlich zwei Cinchbuchsen
+fuer das normale Stereosignal haben.
+
+: Wie ich meine, man bekommt nirgends Informationen über das System wie es in
+: Europa eingesetzt wird. Alle schreiben nur über AC-3.
+
+Gegen das Totschweigen von MPEG-Audio bei der DVD habe ich ueberhaupt
+nichts. ;)
+
+Tschuess,
+Tobias
+--
+Tobias Utermark
+  Student of Computer Science @ University of Grünstaude, Germany
+  E-Mail: y19l@dmx.xit-eespsr.we     WWW: http://vri.lsu-vijlem.jk/~x74v

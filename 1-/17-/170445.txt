@@ -1,0 +1,18 @@
+- Worauf bezieht sich denn nun die angegebene Filmlänge? Auf die
+Videofassungen oder die Kinofassungen? Das scheint ja, zumindest bei
+PAL-Videos, ein durchaus wichtiger Unterschied zu sein.
+
+- Wo finde ich in der imdb Angaben zum originalen Bildformat der
+Kinoversion? Was interessiert mich das Soundsystem, das Format ist mir
+viel wichtiger.
+
+Außerdem frage ich mich, was mit dem Ton passiert, wenn ein Kinofilm
+auf PAL-Video schließlich 4% kürzer ist? Dann müßte doch bei
+Videofilmen der Ton eigentlich verzerrt sein, weil er ja, passend zur
+Bildgeschwindigkeit, ebenfalls um 4% beschleunigt werden müßte, um zu
+den Bildern zu passen. Wie wird das unterbunden?
+
+Schon jetzt vielen Dank für Antworten.
+
+Gruß,
+Ullrich

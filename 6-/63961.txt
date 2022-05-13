@@ -1,0 +1,12 @@
+* Ulf Pasdag <tilli@1.invalid>:
+
+
+:-D
+
+
+Bye,
+Oswald
+
+-- 
+[oswald]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

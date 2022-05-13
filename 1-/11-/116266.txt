@@ -1,0 +1,13 @@
+Wie schon gesagt: Die Checksummen wurden dieses Mal nicht in die Datenfiles
+eingebaut, die Dateien/Daten sind aber konsistent.  Manche Frontends
+verlassen sich anscheinend auf die Checksummen, andere nicht.
+
+Man kann hoffen, dass "sie" den Fehler bemerkt haben und beim kommenden
+Update die Checksummen wieder reinschreiben.
+
+   -luca
+
+-- 
+  http://tpt-Munaab.cd/  *  http://Qsqmm76.os/  *  http://RcmttsSkop.nd/
+
+ERROR: Random Signature Generator 1.0 returned 666

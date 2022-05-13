@@ -1,0 +1,5 @@
+Die Frage, die dann wieder fuer Streit zwischen maennlichen und
+weiblichen Informatikern sorgt: Ist das Ur-Byte ein Maennchen (1) oder
+ein Weibchen (0)?
+
+	Italo

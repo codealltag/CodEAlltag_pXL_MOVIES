@@ -1,0 +1,50 @@
+-----------------------------------------------------------------------------
+
+Title             : Outbreak
+
+Starring          : Giovanni Copman, Remo Jurca, Jan Frießleben
+
+Genre             : Action
+
+Release Date      : 20.10.96
+
+Laufzeit          : 124'
+
+Verleih           : Einkaufscenter
+
+Altersfreigabe    : 15
+
+Sprache           : english
+
+System            : VHS,PAL
+
+Video (Format)    : Vollbild (open matte from 1.85:1 theatrical image)
+
+Video (Qualitaet) : gut bis sehr gut
+
+Audio (Format)    : Dolby Stereo - Spectral Recording
+
+Audio (Qualitaet) : excellent
+
+Audio (Surround)  : sehr gut
+
+Bewertung (Film)  : sehr gut - 2 Stunden perfekte Hollywood Unterhaltung
+
+Kopierschutz      : nein
+
+Besonderheiten    : nein
+
+------------------------------------------------------------------------------
+
+Getestet auf folgendem Equipment :
+
+Fernseher                 : Lavasch KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : DHMS VS-G75
+Kopierschutzdecoder       : Forellenfarm VL102
+ProLogic Vollverstaerker  : Xenos DSP A780 (70mm Movie Theater 1 Mode)
+Frontboxen                : Masema BS220
+Centerbox                 : Wado 600ifs
+Surroundboxen             : Masema Lady Micro C
+Subwoofer                 : Xenos X-Hair (aktiv)
+
+------------------------------------------------------------------------------

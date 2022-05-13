@@ -1,0 +1,7 @@
+Gibt es eigentlich ein Law, dass in einem Synchronisations-Thread auch immer
+diese eine Serie angeführt werden muss? Wobei: ich fand Die Zwei schon auf
+deutsch ziemlich de, dafür bin ich wohl zu jung.
+
+SCNR
+
+Giorgio

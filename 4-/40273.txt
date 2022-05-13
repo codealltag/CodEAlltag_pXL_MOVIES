@@ -1,0 +1,8 @@
+Beide Spuren auf dem Rechner aufnehmen und voneinander subtrahieren bzw.
+phasenverdreht addieren. Unter der Voraussetzung, dass die Pegel auf beiden
+Spuren identisch sind und die Signale jeweils in der korrekten Phase
+reinkommen[1], hast du danach eine Tonspur ohne Mucke.
+
+-Francis
+[1] Jajaja, das ist alles recht unwahrscheinlich, nichtsdestotrotz habe ich
+das bei einem kleinen Projekt mal genau so gemacht.

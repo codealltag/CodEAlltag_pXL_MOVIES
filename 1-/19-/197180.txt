@@ -1,0 +1,7 @@
+Das beschreibt aber nicht, wie "das" funktioniert, sodnern ein gaenzlich
+anderes Verfahren. Da kann ich noch eines anbringen:
+Ein ganz gewoehnlicher Bildschirm zeigt beide Teilbilder abwechselnd,
+die LCD-Glaeser einer Brille werden durch einenn Infrarotsender
+gesteuert abwechselnd undurchsichtig.
+
+Claudio Isenbart

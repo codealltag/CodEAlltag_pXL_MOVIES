@@ -1,0 +1,31 @@
+tkbuzj.whfvqvuc@sjkri.zersgau.mn wrote at 29.08.96
+about the topic "Re: Laserdisc: Poltergeist (Dolby Digital)":
+
+
+ 1. natuerlich waere es wuenschenswert das bei allen filmen die double
+    layer technick eingesetzt wird - allein schon um keinen sidebreak
+    bei filmen von ueber 135 minuten laufzeit zu haben
+
+ 2. die 133 minuten beziehen sich auf einen film der entweder das komplette
+    4:3 oder das komplette 16:9 bild (bei anamorphen discs) ausfuellt
+    alle filme die nur 4:3 letterbox oder 2.35:1 innerhalb des 16:9 frames
+    sind haben tw. schwarz balken welche natuerlich keinen speicherplatz
+    einnehmen - dadurch geht die datenrate bei solchen versionen nach oben
+
+ 3. die 133 minuten beziehen sich zusaetzlich auf drei 5.1 tonspuren
+    ( = 1152kb/s )
+    nur ganz wenige DVDs nutzen wirklich diese menge, die meisten haben
+    einen oder zwei 5.1 tracks und dann evtl. noch einen 2.0 track
+
+ 4. ich kann nur dazu stellung nehmen was ich mit meinen eigenen augen
+    gesehen habe - und bei einem film wie IN THE LINE OF FIRE der mit
+    130 minuten (2.35:1 innerhalb 16:9 frames) auf 1! seite platz findet
+    sehe ich die gleiche schaerfe und detailzeichnung wie bei SEVEN
+    der 127 minuten laueft und auf 2! seiten encoded ist und dazu nur
+    4:3 letterbox ist und sommit noch mehr schwarze balken im bild hat
+    bei SEVEN duerfte die rate wirklich bei. 8-9mbit/s liegen im schnitt
+    waerend sie bei IN THE LINE OF FIRE bei 4mbit/s liegen sollte
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+Was heisst schon "aus Kompatiblitaetsgruenden"? Es hat doch jeder
+AC-3-Decoder auch einen optischen/koaxialen Digitaleingang nach
+S/P-DIF, oder?
+
+Wenn also die CD-Spieler den Datenstrom nicht verhunzen, bevor er
+ueber Digital-Out ausgegeben wird, muesste es mit jedem AC-3-Decoder
+und jedem CD/LD-Player mit Digital Out funktionieren.
+
+Eine CD mit frequenzmoduliertem AC-3 koennte man nur mit einem
+LD-Player, der noch dazu einen AC-3-RF-Ausgang besitzen muss,
+abspielen.
+
+- Hermann
+
+---
+
+Hermann "Noah" Hündgens
+klmonptg@pvwvfqkchz.un-ignkjczi.wl
+Ride more roller-coasters!

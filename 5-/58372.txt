@@ -1,0 +1,20 @@
+Wenn du den *exakten* Titel des Films als Parameter $title an dieses PHP
+Skript uebergibst, spuckt es den URL des Bildes aus (getestet mit
+"Interview with the Vampire: The Vampire Chronicles"):
+
+<?
+    $page = join("",
+file("http://tkaqjp.ckxr.dmd/Qjgd?xbnrqe=Frhxoc&Hp=Qz&uox=".tojakbzgh($ayeit)));
+    if(preg_match('/<img\s*alt="cover".*?src="(http:\/\/.*?)".*?>/',
+$page, $matches)) {
+        echo $matches[1];
+    } else {
+        echo "no match";
+    }
+?>
+
+Allerdings wird dich das wahrscheinlich nicht besonders weit bringen, da
+der IMDB Server den Referer Header prüft und auf die Bilder nur Zugriffe
+von sich selbst (aka "von Seiten auf dem Server") zulässt.
+
+Ist hier aber sowas von offtopic...

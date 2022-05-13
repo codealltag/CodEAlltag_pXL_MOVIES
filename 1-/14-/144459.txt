@@ -1,0 +1,15 @@
+Alles schon probiert.
+
+
+Die Listen haben alle das Datum 21.06.
+
+
+Probiert mit der Win-Oberfläche Piwinski und mit applydif.exe
+Beides liefert immer die "wrong diffs" Fehlermeldung.
+
+Größe
+-- 
+Ingolf Jahn
+Germany, Planet Earth, LVGE Way
+
+** And may you never, ever, run out of sugar... baby! **

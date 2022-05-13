@@ -1,0 +1,16 @@
+Aus Programmcode, das ist etwas anderes als reine Daten.
+
+Ich will auf folgendes hinaus: wenn Patrizia einen Hubschrauber fliegen
+will, dann bekommt sie das Wissen, wie das zu tun ist. Die
+Interpretation dieses Wissens wird aber ihr selbst überlassen.
+
+Ein Programm (im Fall der Agenten also eines mit KI) müßte das Gehirn
+übernehmen, daß ist IMHO etwas anderes.
+
+
+Wenn ich jetzt noch wüßte, was genau verschlüsselt war.
+
+Cédric
+-- 
+"We are Opgen-Rhein of Joedecke. RFC ist futile. You will be hypertexted."
+[Oscar Feldbusch in dsnu]

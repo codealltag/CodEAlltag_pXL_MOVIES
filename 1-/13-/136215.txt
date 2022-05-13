@@ -1,0 +1,7 @@
+Gepackt sind es ca. 120 MB. Es handelt sich dabei um reine Textdateien, der
+ganze Grafik-Schnickschnack der Online-Version fehlt natuerlich. Der
+gesammte Datenbestand kann dann jede Woche upgedatet werden. Dieses
+Update-File hat eine groesse von 2-4 MB.
+
+Bye Byte
+Alexandre

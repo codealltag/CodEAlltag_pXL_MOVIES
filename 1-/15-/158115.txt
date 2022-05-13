@@ -1,0 +1,40 @@
+On Mon, 28 Jun 2000 01:13:09 +0100, Samu Pösl
+
+Das ist richtig und kann ich bestätigen. doch bei IMDB 95 ist es ein
+endloses Geschraddel, bei welchem man schon Angst um die Platte
+bekommen kann. Ich habe den Eindruck, daß hier für jede einzelne Zeile
+aus dem List-File die komplette Serie interner Datenbanken, welche auf
+einer NKCJ-DLL beruhen, durchgearbeitet wird. Zeile lesen, n Files
+öffnen, seek, schreiben, File schließen, nächste Zeile lesen, usw. Es
+handelt sich definitiv um eine Kollektion mehrerer Hash-Tabellen, evt.
+sogar mehrere Dutzend, welche nunmal für jeden Eintrag einzeln ergänzt
+werden. Ist nur eine Vermutung, aber da die Platte schlichtweg
+durchläuft und der resultierende Datenbestand trotz Komprimierung mehr
+als das doppelte des unkomprimierten ASCII-Bestandes des List-Files
+ausmacht, scheint hier wirklich die Hölle abzugehen. Außerdem steigt
+der Zeitaufwand nicht linear zur Zeilenzahl des jeweiligen List-Files,
+was vermuten läßt, daß bei jedem Eintrag ein öffnen der jeweiligen
+Tabelle fällig wird. Daher dauern vor allem die langen Datenbestände
+wie actors.list extrem lange, bis sie in den Bestand integriert sind.
+
+
+Mit Sicherheit. Zumal es auch schon vorkam, daß ich danach einzelne
+List-Files komplett wegschmeißen und neu vom FTP holen konnte. Auch
+werden einzelne diffs öfter mal schlichtweg vergessen, bei einem
+folgenden Versuch dann aber doch bearbeitet. Man kann nie davon
+ausgehen, daß der Datenbestand vollständig ist. Das Programm reagiert
+z.B. auch sehr empfindlich auf Strings, die eine bestimmte Länge
+überschreiten und ist anscheinend auch vollständig auf 8 Bit Integer
+aufgebaut (vorzeichenbehaftet natürlich). Und wenn sich mal ein Fehler
+in die Datenbank eingeschlichen hat, ist der Ofen sowieso aus. Der
+jeweilige Teil wird dann nicht mehr gepackt und das Programm weigert
+sich, Zugriff auf die Datenbank zu erteilen, bevor alles gepackt wurde
+-> alles neu. Da war anscheinend jemand am Werk, der wohl meinte,
+Programmieren lernen zu müssen, Delphi o.�. ausgepackt hat und dann
+irgendwann die Lust verlor.
+
+Aber jetzt wird's wohl wirklich ein wenig off-topic ;-)
+
+cu,
+
+  Gernot

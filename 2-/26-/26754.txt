@@ -1,0 +1,18 @@
+The whisper of Mirko M Olischläger resounds through the universe:
+
+
+Wie viele hättest du gerne?
+Eine DVD kann maximal "nur" 8 Tonspuren enthalten und 32
+Untertitelspuren. Und nimmt man mal an, dass diese alle in DD 5.1
+encodiert sind, dann benötigen die Tonspuren bei 384kbit/s ganze
+3Mbit/s von den insgesamt 9.8Mbit/s. Sind die Spuren mit 448kbit/s
+encoded so sind es schon 3.5Mbit/s.
+
+(Eine Full Rate DTS Spur hat 1.5Mbit/s und eine Half Rate Spur
+folglich 0,75Mbit/s)
+
+by Eugen
+-- 
+It may be the warriors who get the glory, but it's the
+engineers who build societies.
+B'Elanna Kampmann in Voyager S7E10 "Flesh and Blood Part II"

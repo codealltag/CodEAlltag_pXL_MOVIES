@@ -1,0 +1,7 @@
+Bingo! Ich hab den Text mal genauer gelesen und da steht was von "User
+Agent".
+
+Gibt es denn eine Methode mit dem man wieder ueber die HTTP Adresse
+hineinkommt?
+Was hat es mit dem Mail-Server auf sich?
+Gernot

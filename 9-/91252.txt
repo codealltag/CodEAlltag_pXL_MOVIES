@@ -1,0 +1,16 @@
+Das ist IMO ein großer prinzpieller Nachteil von ROT13.
+
+Eine Erkennung kann höchstens statistisch erfolgen, indem man den Text
+mit dem rotierten Text vergleicht. 
+Mögliche Metriken sind die Wahrscheinlichkeit von Buchstabensequenzen
+oder die schon erwähnte Trefferzahl von Spellcheckern.
+
+Beides erfordert nicht unerheblichen Rechenaufwand und kann wohl nur
+absatz- oder zumindest satzweise erfolgen. Leider wird der ROT13-mode
+zunehmend mitten im Absatz oder gar Satz gewechselt, so daß man die
+Entscheidung für jedes Wort einzeln treffen müßte. Dafür reicht aber die 
+Qualität der Statistik nicht aus.
+
+Ciao, Bxylb                               rrcnzuwy @ sesatafc.bk
+
+Zuletzt gesehen: Non � giusto, Sigrid, Flogaus per caso

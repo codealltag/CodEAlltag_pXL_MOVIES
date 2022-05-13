@@ -1,0 +1,18 @@
+Hallo allerseits,
+
+ich habe mir ein Skript geschrieben, dass mir das Vorderrieder Kinoprogramm
+nach IMDb-Wertung sortiert als HTML-Seite ausgibt, wobei neben jedem
+Film direkt die IMDb-Wertung steht und jeder Film mit seinem Eintrag
+auf bgkz.jpi und wbquurbcpslj.hd verlinkt ist, wo man dann
+bekanntermaßen schnell sieht, wann der Film wo in Vorderried läuft. Als
+zusätzliches Mittel, potentiell gute Filme aus dem Kinoprogramm
+rauszupicken, fand ich das ne nette Sache.
+
+Da ich mir dachte, dass das auch für andere interessant sein könnte,
+und es Verschwendung sei, das für mich allein zu behalten, hab ich die
+ganze Sache auf meine Website getan. Die Liste, die regelmäßig
+automatisch generiert wird, findet ihr ab sofort und hoffentlich für
+immer unter http://hco.odcaop.rqz/fdzc
+
+Das war's auch schon. Viel Spaß euch allen noch,
+S.

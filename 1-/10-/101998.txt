@@ -1,0 +1,42 @@
+Ja. Bietet eigentlich ein schönes Gesprächs-Thema, dieser Sulla.
+
+
+*PATSCH*
+
+Ws? Noch da? Noch ein Versuch:
+
+        PPPPPP    AA    TTTTTT   SSSS     CCCC  HH  HH
+ **  **  PP  PP  AAAA     TT    SS  SS   CC  CC HH  HH   **  **
+  ****   PP  PP AA  AA    TT    SSS     CC      HH  HH    ****
+******** PPPPP  AA  AA    TT     SSS    CC      HHHHHH  ********
+  ****   PP     AAAAAA    TT       SSS  CC      HH  HH    ****
+ **  **  PP     AA  AA    TT    SS  SS   CC  CC HH  HH   **  **
+        PPPP    AA  AA    TT     SSSS     CCCC  HH  HH
+
+
+Immer noch da?
+
+Naja, das sollte reichen:
+
+
+PPPPPPPPPPPPP        AAAAAAAAAAAA      TTTTTTTTTTTTTTTTTTT       SSSSSSSS            CCCCCCCC      HHHH         HHHH   !!!!!
+PPPPPPPPPPPPPP      AAAAAAAAAAAAAA    TTTTTTTTTTTTTTTTTTTTT     SSSSSSSSSS         CCCCCCCCCCCC     HHH         HHH     !!!
+PPP         PPP    AAA          AAA   T        TTT        T    SSS      SSS      CCCC        CCC    HHH         HHH     !!!
+PPP          PPP   AAA          AAA            TTT            SSS               CCC                 HHH         HHH     !!!
+PPP          PPP   AAA          AAA            TTT            SSS              CCC                  HHH         HHH     !!!
+PPP         PPP    AAA          AAA            TTT             SSSS            CCC                  HHH         HHH     !!!
+PPPPPPPPPPPPPP     AAA          AAA            TTT              SSSSSSSS      CCC                   HHHHHHHHHHHHHHH     !!!
+PPPPPPPPPPPP       AAA          AAA            TTT               SSSSSSSSS    CCC                   HHHHHHHHHHHHHHH     !!!
+PPP                AAAAAAAAAAAAAAAA            TTT                     SSSS    CCC                  HHH         HHH     !!!
+PPP                AAAAAAAAAAAAAAAA            TTT                       SSS   CCC                  HHH         HHH
+PPP                AAA          AAA            TTT                       SSS    CCC                 HHH         HHH     !!!
+PPP                AAA          AAA            TTT            SSS       SSS      CCCC        CCC    HHH         HHH    !!!!!
+PPP                AAA          AAA            TTT             SSSSSSSSSSS         CCCCCCCCCCCC     HHH         HHH    !!!!!
+PPPP              AAAA          AAAA          TTTTT             SSSSSSSSS            CCCCCCCCC     HHHH         HHHH    !!!
+
+
+cu
+	H'*grummel*'E, fup2p
+-- 
+BOFH #35:
+working as designed

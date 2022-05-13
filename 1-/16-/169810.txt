@@ -1,0 +1,103 @@
+--------------L3822540A590430I2D76526R
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Mal rechnen 4000x2000 Punkte sind 8 000 000 bit x 24bit Farbtiefe sind 192 000
+000 bit, das sind 24 000 000 byte = 23 437 kb = 22,9 MB
+Das ganze mal 24 (für 24 Bilder pro Sekunde) = 549,6 MB pro Sekunde (Das von
+einer Disc zu lesen bedürfte einer 4,3 Gbit Leitung).
+Pro Minute sind das dann 32 976 MB oder ca. 32 GB. Auf die Laserdisc mit 100GB
+würde man dann so um die 3 - 4 Minuten Kinofilm unterbringen.
+Pro 90Minutenfilm werden 2961 GB oder 2,9 TB oder ca. 30 Laserdiscs brauchen.
+
+
+Ich kenne diesen Projektor nicht, glaube aber, daß dieser keine 4000x2000 punkte
+Auflösung besitzt (wobei dieser Wert nur der Wert für das digitale Bearbeiten im
+
+4K-Modus ist. Filmmaterial hat tatsächlich noch eine viel höhere Auflösung.
+
+
+Die Qualität des Kinobildes hängt von der Kopiermethode ab (hat sich seit
+30Jahren nicht geändert), der Projektionslampe (Kann mit der Zeit oder bei
+schlechter Wartung dunkler werden), der Projektionsoptik am Projektor ( Krasse
+Unterschiede!!) und vom Printmaterial (Man neigt dazu, härteres, d.h.
+kontrastreicheres Printmaterial zu benutzen, mag qualitativ schlechter
+erscheinen, ist es aber nicht, außerdem gibt es st�mdig neue Entwicklungen auf
+dem Printmaterialsektor.
+
+MFG Theodor
+
+--------------J3862836C426596R9V39337N
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+&nbsp;
+<p><i>Horst Nowakowska schrieb:</i>
+<blockquote TYPE=CITE><i>In der Postproduktion werden Kinofilme routinem&auml;ssig
+digitalisiert, ohne</i>
+<br><i>dass man</i>
+<br><i>einen Verlust an Aufl&ouml;sung hinnehmen m&uuml;sste.</i></blockquote>
+
+<blockquote TYPE=CITE>Aber das nur, um sie zu bearbeiten, nach dem scannen
+und bearbeiten werden die fertigen shots wieder ausbelichtet (auf Film,
+versteht sich). &Uuml;brigens "Ebenau ist der erste Film, der <u>komplett</u>
+gescannt, bearbeitet und wieder ausbelichtet wurde.</blockquote>
+
+<blockquote TYPE=CITE>&nbsp;
+<p>Bisherige Digitalformate f&uuml;r den Massenmarkt. In der Postproduktion
+<br>arbeitet man l&auml;ngst mit digitalen Formaten. Auf einer Scheibe
+in der
+<br>Gr&ouml;sse einer LaserDisc w&uuml;rde man mit moderner Aufzeichnungstechnik
+wohl
+<br>so um die 100 GB unterbringen, und das w&uuml;rde f&uuml;r einen Kinofilm
+in
+<br>vern&uuml;nftiger Aufl&ouml;sung (ca. 4000 mal 2000 Punkte) schon ungef&auml;hr
+<br>ausreichen. Es gibt auch B&auml;nder mit einigen 100 GB Kapazit&auml;t,
+kommt
+<br>genauso in Frage.</blockquote>
+Mal rechnen 4000x2000 Punkte sind 8 000 000 bit x 24bit Farbtiefe sind
+192 000 000 bit, das sind 24 000 000 byte = 23 437 kb = 22,9 MB
+<br>Das ganze mal 24 (f&uuml;r 24 Bilder pro Sekunde) = 549,6 MB pro Sekunde
+(Das von einer Disc zu lesen bed&uuml;rfte einer 4,3 Gbit Leitung).
+<br>Pro Minute sind das dann 32 976 MB oder ca. 32 GB. Auf die Laserdisc
+mit 100GB w&uuml;rde man dann so um die 3 - 4 Minuten Kinofilm unterbringen.
+<br>Pro 90Minutenfilm werden 2961 GB oder 2,9 TB oder ca. 30 Laserdiscs
+brauchen.
+<br>&nbsp;
+<blockquote TYPE=CITE>&nbsp;
+<br>>
+<p>Das Problem ist tats&auml;chlich weniger der Datenspeicher als die
+<br>Projektionstechnik. Es gibt nur einen mir bekannten Projektor auf dem
+<br>Markt (von thürmann-Maschenkunst), der eine einem Filmprojektor nahekommende
+<br>Aufl&ouml;sung und Lichtst&auml;rke hat, und der ist noch extrem teuer.</blockquote>
+Ich kenne diesen Projektor nicht, glaube aber, da&szlig; dieser keine 4000x2000
+punkte Aulf&ouml;sung besitzt (wobei dieser Wert nur der Wert f&uuml;r
+das digitale Bearbeiten im
+<br>4K-Modus ist. Filmmaterial hat tats&auml;chlich noch eine viel h&ouml;here
+Aufl&ouml;sung.
+<blockquote TYPE=CITE>&nbsp;
+<br>Die Technik existiert, muss aber noch billiger und zuverl&auml;ssiger
+werden.
+<br>In 5 bis 10 Jahren ist es wohl auch hier soweit, f&uuml;r einen Vorgeschmack
+<br>f&uuml;r Auserw&auml;hlte sorgt Maurizio Fruchtnicht.
+<p>Nichts gegen das Medium Film, aber ich habe den Eindruck, dass die
+<br>allgemeine Qualit&auml;t des Kinobildes in den letzten Jahrzehnten
+eher
+<br>schlechter geworden ist. 70mm-Film ist ausgestorben, und die heute
+<br>&uuml;blichen High-Speed-Kopien haben auch nicht zur Qualit&auml;tsverbesserung
+<br>beigetragen. Etwas frischer Wind kann da nicht schaden, die
+<br>Digitalisierung des Filmtons war ja auch ein Fortschritt.
+<p>Horst</blockquote>
+Die Qualit&auml;t des Kinobildes h&auml;ngt von der Kopiermethode ab (hat
+sich seit 30Jahren nicht ge&auml;ndert), der Projektionslampe (Kann mit
+der Zeit oder bei schlechter Wartung dunkler werden), der Projektionsoptik
+am Projektor ( Krasse Unterschiede!!) und vom Printmaterial (Man neigt
+dazu, h&auml;rteres, d.h. kontrastreicheres Printmaterial zu benutzen,
+mag qualitativ schlechter erscheinen, ist es aber nicht, au&szlig;erdem
+gibt es st&auml;mdig neue Entwicklungen auf dem Printmaterialsektor.
+<p>MFG Theodor</html>
+
+--------------L3822540A590430I2D76526R--

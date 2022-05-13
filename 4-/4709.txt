@@ -1,0 +1,23 @@
+Hier war alles normal.
+Scheint wohl von Röhrenfernseher zu Röhrenfernseher verschieden zu se=
+in.
+Ich spekulier mal völlig wild -- und ohne technischen Sachverstand ;) -=
+-=20
+drauflos:
+[spekulation]
+bei einigen Röhrenfernsehern könnte es sein, dass der Moduswechsel vo=
+n=20
+16:9 (heute scheinbar standard...) auf 4:3 nicht richtig erkannt, bzw.=20
+das Schaltsignal nicht korrekt ausgewertet wird. Da mein TV trotz 4:3=20
+Format auch nen 16:9 Modus hat[1], würde er das Signal erkennen und=20
+entsprechend korrekt 4:3 Vollbild anzeigen -- was er ja tut/tat.
+[/spekulation]
+
+Gruß
+- Vito -
+
+
+[1] nicht wirklich brauchbar, weil das Bild vertikal ein wenig zu stark=20
+gedehnt ist.[2]
+[2] Nein! nicht bis an den oberen und unteren Bildschirmrand! Fast 16:9=20
+eben.

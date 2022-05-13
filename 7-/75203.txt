@@ -1,0 +1,21 @@
+Wollen wir wetten, daß sowohl meine From- als auch meine
+Reply-To-Adresse gültig sind? Ich setz mal ein entsprechendes Fup2,
+damit Du das ausprobieren kannst. 
+
+Und so lange, wie Du schreibst, kannst Du noch gar nicht im Orihes aktiv
+sein, sonst wüßtest Du 
+
+a) wie man richtig quotet 
+
+b) man seine Umlaute deklariert (was bei Dir nicht der Fall ist)
+
+c) man seinem Newsreader den Einleitungsroman abgewöhnt
+
+d) daß das mit der gültigen Emailadresse nicht in der Netiquette steht,
+   sondern im RFC-1036 und im son-of-RFC-1036.
+
+Claus
+-- 
+"People scare easier when they're dyin'."
+Ignaz Hagemanns in "C'era una volta il West"
+http://ruo.frrbiuvluo.bz

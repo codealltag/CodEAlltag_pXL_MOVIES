@@ -1,0 +1,58 @@
+Auch wenn der Thread schon etwas älter ist: Aus neorologischer Sicht 
+sind Daten und Programme gleich. Das, was man unter "Daten" versteht, 
+sind eigentlich Assoziationen.
+
+Ein einfaches assioziatives neoronales Netz (von den Neuronen haben wir 
+AFAIK einige Milliarden im Gehirn) hat e "Eingabeneuronen" und a 
+"Ausgabeneuronen". Sämtliche Eingabeneuronen sind mit sämtlichen 
+Ausgabeneuronen verbunden, es gibt also e * a (synaptische) 
+Verbindungen. In diesen synaptischen Verbindungen (genauer gesagt in 
+den Stärken der Verbindungen) sind die Assoziationen gespeichert.
+
+ E E E E E E E E E E
+
+ A A A A A A A
+
+10 Eingabeneuronen, 7 Ausgabeneuronen, 70 (7*10) Verbindungen
+
+Du kannst jetzt an die 10 Eingabeneuronen ein Muster anlegen, und 
+(abhängig von den Verbindungen) bekommst du auf den 7 Ausgabeneuronen 
+eine Assoziation zum Ursprungsmuster. Pro Netz können mehrere 
+Assoziationen gespeichert werden, aber nicht unbegrenzt viele.
+
+Erweitert man dieses assoziative Netz um eine Zwischenschicht, so kann 
+man schon etwas komplexere Dinge als simple Assoziationen machen (z.B. 
+XOR-Operationen o.�.). Das sieht dann so aus:
+
+ E E E E E E E E E E
+
+ Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z Z
+
+ A A A A A A A
+
+10 Eingabeneuronen, 16 Zwischenneuronen, 7 Ausgabeneuronen, insg. 272 
+(10*16 + 16*7) Verbindungen, davon 160 (10*16) zwischen E und Z und 112 
+(16*7) zwischen Z und A.
+
+Wenn man die Komplexität weiter erhöht und den Informationsfluss nicht 
+auf eine Richtung (E -> Z -> A) beschränkt, bekommt man etwas, das wir 
+"Programm" nennen würden, das also kompliziertere logische Operationen 
+durchführen kann. Und irgendwann erreicht man sogar ein "Bewusstsein".
+
+Der Unterschied zwischen "Daten" und "Programm" liegt damit nur noch in 
+der Komplexität. Wenn man Daten ins Gehirn übertragen kann, kann man 
+auch Programme übertragen.
+
+Daher behaupte ich, um wieder zur Matrix zurückzukommen, dass der 
+Operator (oder wer auch immmer) auf der Nebukadnezar Informationen in 
+die Gehirne der Menschen transferieren kann, die von dort aus an die 
+Matrix angeschlossen sind, und dass Agenten ihr komplettes Bewusstsein 
+in jeden beliebigen Menschen, der im Glibber liegt, kopieren können.
+
+Das erscheint einigermaßen logisch.
+
+Viele Größe,
+Wolfgang Andreaßon
+
+-- 
+http://pql.naoad.rl/

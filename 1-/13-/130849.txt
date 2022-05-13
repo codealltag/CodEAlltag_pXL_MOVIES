@@ -1,0 +1,41 @@
+Falsch. Das Bild auf dem Film ist nur ca. 2 1/2 mal so groß. 
+Beim üblichen 70mm Film ist das Bild 5 Perforationslöcher hoch
+(gegenüber 4 bei 35mm).  Das Bild auf dem Film ist deshalb nur 
+ca. 2 1/2 mal so groß. Daraus ergibt sich auch ein anderes 
+Seitenverhältnis von 2.2:1 (gegnüber 1.2:1 bei 35mm). 
+70mm wird in diesem extremen Breitwandformat ohne Anamorphot projeziert.
+
+BTW: Für die Aufnahme wird 65mm Film verwendet. Die restlichen 5mm 
+     sind für die Magnetstreifen mit dem Ton reserviert.
+
+
+Nein. Nicht ganz. 
+Wie beschrieben hat 70mm Film ein Seitenverhältnis von 2.2 :1.
+Dieses ist bei 35mm Film nicht üblich. Auf 35mm wird der Film deshalb
+als Cinemascope mit dem Bildformat 2.39:1 gezeigt. Beim Umkopieren auf 
+35mm Film wird daher oben und unten etwas vom Bild abgeschnitten. 
+Bei der Projektion schneiden viele Kinos anschließend wieder etwas an 
+den Seiten ab, da sie volles Cinemascope gar nicht projezieren können. 
+Damit kommst Du dann zwar häufig wieder auf ein Seitenverhältnis 
+von 2.2:1 (oder noch schlechter), aber Du bekommst halt nur die 
+Bildmitte des ursprünglichen Filmns gezeigt.
+
+
+Hinzu kommt noch der Anamorphot, der das Bild bei der Projektion des
+35mm Films seitlich um den Faktor 2 spreizt. Der führt zu leichten
+(oder wenn er nicht richtig justiert ist auch größeren) Verzerrungen.
+
+Ein weiterer großer Unterschied besteht beim Ton.
+Wie oben geschrieben hat 70mm Film 6-Kanal-Magnetton.
+Früher war dies der Grund, warum viele Filme auf 70mm aufgeblasen wurden.
+Seit es Digitalton gibt, sind die Vorteile gegenüber 35mm Film aber
+deutlich geschrumpft. Aber der 6-Kanal-Magnetton sieht eine andere 
+Anordnug der Kanäle vor, die sich nur mit voll ausgebautem SDDS,
+aber nicht mit DTS oder Dolby Digital emulieren läßt.
+
+Seit ein paar Jahren gibt es aber auch 70mm Film mit Digitalton (DTS).
+Dann kann man auf die teuren und empfindlichen Magnetstreifen verzichten.
+Ich vermute, dass dann die bei DTS für 35mm übliche Kanalanordnung 
+verwendet wird.
+
+Ciao, Arnold                          yijoz.anrduuut@weehn.zs

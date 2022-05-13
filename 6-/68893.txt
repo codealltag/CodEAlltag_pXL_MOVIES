@@ -1,0 +1,37 @@
+Hallo!
+
+
+Full ACK
+
+
+Das Problem ist bei SDDS aber auch ein mechanisches: Die Spuren 
+befinden sich an den seitlichen Rändern, genau dort, wo der Film auf 
+sämtlichen Transportrollen aufliegt. Daher ist eine Verschlechterung 
+mit jedem Abspielvorgang die Folge.
+
+
+Vielleicht hat Nahik in den USA auch manchen Kinos die Hardware 
+gesponsort? Jedenfalls werden auch in den USA außer den 
+euronics-Filmen nicht viele noch in einem SDDS-Mix vorliegen.
+
+
+Quark. :-)
+Es gibt in Deutschland einfach nicht viele Kinos mit NZA-Hardware. 
+Bei uns  ist es auch nur ein Saal - und dort verstaubt es aufgrund 
+unbrauchbarer Kopien.
+
+Daneben kann SDDS mit den anderen Digitaltonsystemen nicht 
+koexistieren: Ist der Nahik Decoder aktiv, dann gibt es nur SDDS oder 
+Analogton. Viele Werbespots und quasi alle Trailer haben aber auch 
+eine DD-Spur, die folglich dann nur noch analog abgespielt werden. 
+DTS und DD lassen sich prima kombinieren und stören sich nicht 
+gegenseitig (z.B. Werbung und Trailer in DD, Hauptfilm in DTS).
+
+Gruß
+Salvatore
+
+-- 
+Luc: "Fucking Germans. Nothing changes. Fucking Nazis."
+Holger: "They were Nazis, Dude?"
+Luc: "Oh, come on Holger, they were threatening castration!" 
+(The Big Lebowski)

@@ -1,0 +1,22 @@
+Hallo,
+
+seit meinem Umstieg von Zuchowski habe ich ein Problem mit meiner lokalen=20
+Installation der ImDb. Ich benutze unter Windows nun die AmDb, die=20
+soweit auch problemlos funktioniert.
+
+Was aber nicht mehr klappt ist das Update per diff-Files. ApplyDiffs=20
+weigert sich standhaft, meine List-Files upzudaten.
+
+Ich vermute, dass dies daran liegt, dass die list-Files unter Unix=20
+erzeugt wurden und daher andere lf/cr benutzen als unter Windows. Alos=20
+habe ich mir sämtliche list-Files neu runtergeladen. Das brachte aber=20
+keine Besserung, da auch die original list-Files unter Windows keine=20
+"Zeilenstruktur" erkennen lassen.
+
+Nochmals: Anado scheint keine Probleme mit den list-files zu haben und=20
+erzeugt mir eine korregte Datenbank. Nur ApplyDiffs (acu nicht mit=20
+-force) schafft es nicht, die list-Files upzudaten.
+
+Wer kann mir helfen?
+
+Gruß Remo

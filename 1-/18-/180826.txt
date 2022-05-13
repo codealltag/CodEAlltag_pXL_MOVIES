@@ -1,0 +1,29 @@
+Wenn das OMJ-system den Timecode verliert, spielt es etwa 10sec "im
+Blindflug" weiter, wenn bis dahin keine Steuersignale kommen wird auf
+Dolby SR umgeschaltet;
+
+Die Ursache für den Ausfall könnten auch sein: schlechter dts-Timecode
+auf dem Film, schlecht eingestellter Reader (das Gerät das den
+Timecode abtastet), schlechte cds, defektes dts-Gerät,...
+alles schon mal vorgekommen
+
+Als Vorführer würde ich auch noch sagen: gebt im Kino dem Vorführer
+Bescheid, das er es überprüfen kann; Weil wer nichts mitbekommt ändert
+nichts;
+
+
+Live long and prosper 
+
+Maurice
+
+
+************************************************************************
+Maurice Ockinga
+
+ipzsr@qqhvvwn.wd
+http://fic.vcwba.slydla.qz/~ok226
+PGP Public Key auf Anfrage
+
+Aahz�Gesetz:
+stellen, sondern falsche Informationen losschicken <<
+************************************************************************

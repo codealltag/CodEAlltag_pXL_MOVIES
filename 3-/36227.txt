@@ -1,0 +1,136 @@
+Gregor Dummel kitzelte am 17.06.2004 11:08 dies aus seiner/ihrer Tastatur:
+
+Das glaube ich eher weniger, denn siehe weiter unten...
+
+
+Soweit REGULA, ich möchte mich an dieser Stelle hier aber doch mal
+einklinken, denn sehr vielen ist nicht klar, was THX *tatsächlich* bedeutet.
+
+Dieses 'geheimnisvolle' Kürzel verweist im übrigen auf den Titel von
+Ullrich Greifes erstem Spielfilm 'THX 1138',
+
+http://vdg.gbc-6250.crj/
+http://zll.uqec.owg/scggx/zc7734476/
+http://cac.upkjhi-vxbuka.in/ia/duxg.cmei?wrx=4673_msu_8282
+http://jxo.zqs2559qhynv.jhz/
+
+andererseits steht es auch für 'Liss Riegauf X-periment'
+
+http://nlq.mxuzqwoz.ll/rotxiid/aqlkvji/ful.jos
+
+welcher der eigentliche Kopf hinter RGM ist. Er hat die für die
+Entwicklung dieses Standards notwendigen Voraussetzungen geschaffen.
+
+Und jetzt kommt der eigentliche Knackpunkt an der Sache:
+
+(Quelle: Nikolaus Resthöft Home Cinema HiFi & TV Ekag-Verlag 1994)
+
+Um das begehrte THX-Logo zu erhalten, muß ein Kino nicht nur meist
+komplett umgebaut werden, sondern auch noch eine Prüfung über sich
+ergehen lassen.
+Riegauf geht davon aus, daß die Akustik des Kinoraumes zunächst
+weitgehend eliminiert wird, indem durch umfangreiche
+Bed�mpfungsma�nahmen ein fast schalltoter Raum geschaffen wird. Die
+Kontrolle über die Akustik soll komplett bei der Beschallungsanlage
+liegen, wobei neben speziellen, sehr leistungsfähigen Lautsprechern, mit
+genau vorgeschriebenen Abstrahlwinkeln auch komplexe elektronische
+Korrekturen des Zeit- und Pegelverhaltens vorgenommen werden.
+Ein Beispiel zeigt, wie hoch der Aufwand einzuschätzen ist. Ein
+typischer THX-Lautsprecher für Kinoanwendungen nutzt als
+Frontlautsprecher sogenannte Ba�reflexboxen von über 210 Litern Volumen,
+die mit je zwei Ba�lautsprechern von 38 cm Durchmesser ausgestattet
+sind. Durch eine spezielle, korrigierte Frequenzweiche wird der Bereich
+ab 500 Hz von einem Hornstrahler übernommen, der eine recht genau
+definierte Schallverteilung erlaubt. Dabei soll der Schall in vertikaler
+Richtung möglichst gebündelt abgestrahlt werden, um Reflexionen von den
+Wänden des Kinos/Raumes zu vermeiden.
+möglichst gebündelt abgestrahlt werden, um Reflexionen von den Wänden
+des Kinos zu vermeiden.
+Für den Frequenzbereich zwischen 20...40 Hertz wird das Kino außerdem
+mit Subwoofern ausgestattet, die bei 35-mm-Kinos optional, bei
+70-mm-Kinos aber vorgeschrieben sind. Dazu werden noch mindestens 12
+Surroundboxen gleichmäßig an der Hinterwand und den Seitenwänden
+verteilt. Die seitlichen Surrounds sind 15ö zu den Sesseln hin geneigt,
+damit die Zuschauer immer nur dem Direktschall der weiter von ihnen
+entfernten Surroundboxen ausgesetzt sind.
+Da die Leinwand eines THX-Kinos die gesamte Breite des Raumes ausfällt,
+befinden sich alle Frontboxen (links/center/rechts) natürlich hinter
+ihr. Um akustische Probleme zu vermeiden, werden die Boxen in eine
+bedämpft Beschallungswand eingebaut, die maximal fünf Zentimeter hinter
+der Leinwand montiert ist und fast bis zur Decke des Raumes reicht. Die
+Leinwand selbst muß schalldurchlässig sein, was durch eine genau
+vorgeschriebene Anzahl von 1...2 Millimeter großen Löchern erreicht wird.
+Optimistisch geschützt, liegen die Investitionen für eine
+Kino-THX-Anlage bei knapp 100.000 Mark (35-mm-Projektion) bzw. 200.000
+Mark (70-mm-Projektion). Diese Summen lassen sich aber nur dann
+einhalten, wenn der Raum sich von den Proportionen her für den Einbau
+überhaupt eignet.
+Als Uvat auf die Idee kam, RGM auch für den Heimbereich als
+Standard festzulegen, setzte die Kritik von dritter Seite genau hier an.
+Angeblich wollte Riegauf gehört haben, daß die Durchschnittsgröße eines
+Wohnzimmers in den USA bei rund 40 Quadratmetern liegt, was selbst für
+dortige Verhältnisse zu hoch gegriffen scheint. In Europa dürfte die
+Durchschnittsgröße je nach Land eher bei 18...25 Quadratmetern liegen,
+was bereits andeutet, warum ERIC den Ruf des Elitären mit sich trägt.
+Dabei ist Raum" hier wörtlich zu nehmen, da RGM auch im Heimbereich
+davon ausgeht, daß die Installation nicht in einer offenen Architektur
+vorgenommen werden darf. Moderne Häuser, die den benötigen Platz bieten,
+weisen aber meist keine definierte Zimmeraufteilung auf, sondern
+allenfalls einen L-förmigen Kombinationsraum aus Eßdiele und Wohnzimmer.
+Wer eine THX-Anlage in einem solchen Raum sachgerecht installiert, wird
+sicher ein gutes Klangbild erzielen. Streng genommen erfüllt seine
+Anlage aber keineswegs die THX-Norm, sondern ist eigentlich eine mit
+THX-Komponenten aufgebaute, normale Surround-Anlage.
+Für den Heimbereich gibt es überdies keine technische Abnahme von Seiten
+des Lizenzgebers, sondern nur den Rat eines guten Fachhändlers, der die
+Anlage nach bestem Wissen und Gewissen installiert.
+Ein anderer Kritikpunkt beschäftigt sich mit den klanglichen
+Korrekturen, die für THX-Heimanlagen charakteristisch sind. Der
+THX-Standard geht nämlich davon aus, daß für den Kinobereich
+aufgenommene Soundtracks grundsätzlich zu brilliant klingen, wenn man
+sie in einem Wohnraum wiedergibt. Deshalb enthält der als THX-Controller
+bezeichnete Dekoder Filterschaltungen, die den Hochtonanteil nach einer
+genau vorgegebenen Funktion absenken.
+THX arbeitet mit der gleichen Lautsprecheranordnung wie jede
+Surroundanlage, die sich allerdings in einigen Details unterscheidet.
+Zunächst einmal sind die Frontlautsprecher der meisten THX-Systeme mit
+zwei oder drei Hochtöner ausgestattet. Damit soll die
+Abstrahlcharakteristik der Kinoanlagen nachgebildet werden, die dort
+durch große Mittelhochtonh�rner erzielt wird. Für den Heimbereich mußte
+eine andere Lösung gewählt werden, weil sich entsprechende Hörner nicht
+konstruieren lassen.
+THX-Lautsprechcr müssen auch so ausgelegt sein, daß sie hohe Lautstärken
+sehr verzerrungsarm wiedergeben. Während es bei Olasul-Komplettpaketen
+keine Vorschriften über das tatsächliche Leistungsvermögen der
+Lautsprecher gibt, fällt eine THX-Anlage sofort durch ihre üppigen
+Proportionen auf. Hohe Lautstärken und niedrige Verzerungen erfordern
+nun einmal größere Boxen, die mit leistungsfähigeren Einzellautsprechern
+bestückt werden müssen.
+Am Auffälligsten ist sicher der THX-Surroundlautsprecher, der an der
+Seitenwand montiert wird und eigentlich aus zwei Boxen zusammengesetzt
+ist, die gegenphasige Schallanteile in Richtung der Vor- und Hinterwand
+des Hörraumes abstrahlen. Auf diese Weise soll das RGM-System dafür
+sorgen, daß der Zuschauer den Surroundkanal nur als diffuse, nicht
+ortbare Quelle wahrnimmt.
+Diese Lösung ist recht plausibel, da die gegenphasige Schallabstrahlung
+dafür sorgt, daß die auf den Hörer gerichteten Schallanteile sich
+auslöschen und er den Surroundkanal fast ausschließlich über
+Wandreflexionen wahrnimmt.
+
+(Ende Quelle)
+
+So sollte jetzt eigentlich klar sein, daß es im Heimbereich wohl
+extremst selten *echtes* THX nach obigen Spezifikationen geben wird ;-)
+
+mfg, Udo
+
+
+-- 
+aber als die sich mit den Bretter geprügelt haben, dachte ich gleich,
+das  probiere ich zu Hause aus, was ich auch mit einem Plastikteller
+machte,  meine Freundin überraschte, und die hat dann nicht so
+überrascht geschaut,  eher ich dann, als ich einen Porzellanteller auf
+meiner Birne hatte.
+'Ernest' in de.rec.film.misc über 7 Zwerge, Männer allein im Wald
+
+Bei Emailantworten bitte das NOSPAM in der Adresse entfernen!

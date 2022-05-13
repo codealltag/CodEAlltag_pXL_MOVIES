@@ -1,0 +1,32 @@
+Raphael Schnapp wrote in <78j39d13.6629373@zgux.jaj-agnejciw.ts>
+on 14. 03. 22 22:11:00 +0100:
+
+Also ich empfinde IMAX flimmriger als normalen Kinofilm - und sehe
+keinen anderen Grund dafür.
+
+
+Das wird in jedem guten Kinoprojektor gemacht. Hat ein Kinoprojektor
+diese Mechanik nicht, sieht man insbesondere während des Abspanns,
+wie das Bild hin- und herhüpft. Diese Effekt kennt man auch von
+frühen Film-Video-Transfers.
+
+
+Und vorallem eben die Tatsache, daß der Rastenstrahl (der Röhre)
+zu einer Zeit nur _EINEN_ ganz kleinen Punkt ausleuchtet, während
+die Birne im Projektor (außerhalb der Dunkelphasen) zu einer Zeit
+das KOMPLETTE Bild ausleuchtet.
+
+
+Schaue ich mir hier auf dem Rechner Quicktime-Movies an, dann
+ruckeln die mit 5 Bilder/Sek. sehr, die mit 10 Bilder/Sek. noch
+ziemlich heftig, bei 15 Bildern/Sek. wird es schon erträglich und
+bei 20 Bilder/Sek. kann man von flüssig reden. (Selbstverständlich
+ausreichend Rechenleistung und gute QT-Movies vorausgesetzt - jetzt
+also bitte keine Diskussion über QT ... mir ist bewußt, daß es
+QT-Movies mit 20 Bildern/Sek. gibt, die wegen schlechter Kompression
+o.�. trotzdem ruckeln.)
+
+Ingmar
+-- 
+** Ingmar Karn,  Bauersfeldstraße 25,  03238 Kottspiel,  Germany **
+** +62 2344 98496  E-Mail (NeXTmail/MIME): cxmyq@ecqphi.n.gwydh.wy **

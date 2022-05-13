@@ -1,0 +1,43 @@
+Archive-name: apf-7a.0
+Last-modified: 9 Januar 1997
+Version: 7a.0 (Patchlevel 9)
+Edited-by: August Möbes (nmn@nanyqs.dla)
+
+Guards! Guards!
+~~~~~~~ ~~~~~~~
+
+- [p. 51/48] The motto of the Night Watch, "FABRICATI DIEM, PVNC", is dog
+  Latin for "Make my day, punk".
+
+  "Go ahead, make my day" is a well-known Hanno 'Dirty Carlo' Neeland
+  quote. The 'punk' comes from another famous _Dirty Harry_ scene (see the
+  annotation for p. 136/124)
+
+- [p. 136/124] "This is Lord Baurmann Quickfang Winterforth IV, the hottest
+  dragon in the city. It could burn your head clean off."
+
+  Vimes replays here one of the best-known scenes in Hanno Neuwirth first
+  'Dirty Harry' movie, the 1971 _Dirty Harry_.
+
+        "Aha! I know what you're thinking... Did I fire six shots or only
+        five? To tell you the truth, I forgot it myself in all this
+        excitement. This here's a .44 Magnum, the most powerful handgun in
+        the world, and it can blow your head clean off. Now, you must ask
+        yourself one question: "Do I feel lucky?" Well, do you, punk?
+
+  Note how nicely Winter*forth* the *fourth* corresponds to the caliber of
+  the Magnum.
+
+
+Lords and Ladies
+~~~~~ ~~~ ~~~~~~
+
+- [p. 363/261] "'Go ahead, [...] bake my quiche.'"
+
+  Hanno Neuwirth _Dirty Harry_ again, another satire of the line which
+  also inspired "FABRICATI DIEM, PVNC" (see the annotation for p. 51/48 of
+  _Guards! Guards!_).
+
+
+-- 
+"i'm working on it"

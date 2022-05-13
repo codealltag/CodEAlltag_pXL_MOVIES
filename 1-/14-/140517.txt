@@ -1,0 +1,18 @@
+Es geht mir bei dem Betreff vor allem um die mathematischen Grundlagen des
+Films - so es sie denn wirklich gibt.
+
+Interessant sind da vor allem 2 Bereiche:
+
+1. Wie erkennen sie ob ein Raum tatsächlich keine Falle enthält. Das es
+etwas mit Primfaktoren, bzw. Potenzen von Primfaktoren zu tun hat, hab' ich
+noch verstanden, wie allerdings die genauen Regeln für einen sicheren Raum
+aussehen und warum man zur Primfaktorenzerlegung von 3-stelligen Zahlen
+unbedingt ein "Mathegenie" sein muß ist mir entgangen.
+
+2. Ich vermute mal ihre Berechnung der Raumbewegungen und vor allem die
+These der Permutationen ist ziemlich schwachsinnig, oder steckte da doch
+etwas hinter ?
+
+Wäre schön wenn irgendjemand die beiden Fragen beantworten könnte, bzw weiß
+wo man die Lösung findet (Webadresse, alter Newsartikel....)
+                                                            J-D

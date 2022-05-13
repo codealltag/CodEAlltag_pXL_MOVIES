@@ -1,0 +1,95 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Rudi Oostmann;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise werden nach und nach auf US$ umgestellt, weil der
+schwankende Wechselkurs zur Zeit keine vernünftigen Aussagen
+zuläßt.
+
+==================================
+Titel mit Dolby-Digital-Ton (AC-3)
+==========================+======+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+2001: A Space Odyssey     | 1968 | WS                  | verfügbar  | 105
+Absolute Power            | 1997 | WS                  | verfügbar  |
+Apocalypse Now            | 1979 | WS THX              | verfügbar  |  96
+Arrival, The              | 1996 | WS SE               | verfügbar  | 139
+Beavis & Butt-Head Do ... | 1996 | WS                  | verfügbar  |  85
+Blood and Wine            | 1996 | WS                  | verfügbar  |
+Capricorn One             | 1978 | WS SE               | verfügbar  |  96
+Courage Under Fire        | 1996 | WS THX              | verfügbar  |  79
+Dangerous Ground          | 1997 | WS                  | verfügbar  |
+Dante's Peak              | 1997 | WS THX              | 06.02.98   |
+Dante's Peak              | 1997 | WS THX SE           | 06.02.98   |
+Daylight                  | 1996 | WS THX SE           | demnächst  | 199
+Days Of Heaven            | 1978 | WS                  | verfügbar  |  79
+English Patient, The      | 1996 | WS THX              | 28.03.98   |
+English Patient, The      | 1996 | WS THX SE           | 28.03.98   |
+Evita                     | 1996 | WS THX              | 06.02.98   |
+Evita                     | 1996 | WS THX SE           | 06.02.98   |
+Flashdance                | 1983 | WS                  | 13.03.98   |
+Fleedwood Mac: The Dance  | 1997 |                     | 28.03.98   | $40
+For Your Eyes Only        | 1981 | WS THX              | demnächst  | 105
+Godfather                 | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 2               | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 3               | 1972 | WS THX SE           | verfügbar  | 105
+Heaven's Gate             | 1980 | WS                  | verfügbar  |  96
+Highlander 2              | 1991 | WS THX SE           | verfügbar  | 139
+Hunchback Of Kehrwieder   | 1996 | WS THX              | 21.02.98   |
+Hunchback Of Kefferhausen Dame   | 1996 | WS THX SE CAV       | 28.03.98   |
+In Love and War           | 1996 | WS                  | verfügbar  | 105
+Independence Day          | 1996 | WS THX SE           | --.13. 10. 22   |
+Erhard Zahneissen First Strike| 1996 | WS                  | verfügbar  |  85
+Eilert And The Giant Peach | 1996 | WS THX              | verfügbar  |
+James And The Giant Peach | 1996 | WS THX CAV          | verfügbar  |  85
+Jingle All The Way        | 1996 | WS                  | 18.04.98   | $40
+Jungle 2 Jungle           | 1997 | WS                  | verfügbar  |
+Liar Liar                 | 1997 | WS SE               | 20.03.98   |
+License To Kill           | 1989 | WS THX              | demnächst  | 105
+Living Daylights          | 1987 | WS THX              | demnächst  | 105
+Wolf Run               | 1976 | WS SE               | 21.03.98   |
+Mars Attacks!             | 1996 | WS                  | verfügbar  |  75
+Metro                     | 1997 | WS                  | verfügbar  |
+Microcosmos               | 1996 | WS CAV              | 21.02.98   |
+My Fair Lady              | 1964 | WS THX              | verfügbar  | 115
+Octopussy                 | 1983 | WS THX              | demnächst  | 105
+One Fine Day              | 1996 | WS THX              | verfügbar  |  85
+Patriot Games             | 1992 | WS THX              | 13.02.98   |
+Player, The               | 1992 | WS SE               | 07.02.98   |
+Poltergeist               | 1982 | WS                  | verfügbar  |  79
+Poltergeist II            | 1986 | WS                  | 07.03.98   |
+Poseidon Adventure, The   | 1972 | WS THX              | verfügbar  | 105
+Relic, The                | 1997 | WS                  | verfügbar  |
+Rock, The                 | 1996 | WS THX SE Crit      | verfügbar  | 240
+Romeo & Juliet            | 1996 | WS THX SE           | verfügbar  | 105
+Saint, The                | 1997 | WS THX              | 06.03.98   |
+Scream                    | 1996 | WS SE               | verfügbar  |
+Sleepers                  | 1996 | WS                  | verfügbar  |  85
+Star Trek: First Contact  | 1996 | WS THX              | verfügbar  |  85
+Star Wars Trilogy Spec.Ed.| 1997 | WS THX              | 20.05.98   |$125
+Time To Kill, A           | 1996 | WS                  | verfügbar  |  79
+Trainspotting             | 1996 | WS Crit             | verfügbar  |  96
+Vertigo                   | 1958 | WS THX SE           | verfügbar  | 159
+Volcano                   | 1997 | WS THX              | 25.04.98   |
+--------------------------+------+---------------------+------------+-----
+
+=========================
+Titel mit dts-Digital-Ton
+=========================-+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+Crimson Tide              | 1995 | WS THX              | 11.04.98   | $60
+Crow, The                 | 1994 | WS                  | 18.04.98   | $50
+Daylight                  | 1996 | WS                  | 18.02.98   |
+English Patient, The      | 1996 | WS THX              | 28.03.98   |
+Marina                     | 1996 | WS THX              | 06.02.98   |

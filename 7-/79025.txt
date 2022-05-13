@@ -1,0 +1,3 @@
+Theo kann direkt nur den Mutanten steuern, in dessen Nähe er ist.
+
+Folkert Nar

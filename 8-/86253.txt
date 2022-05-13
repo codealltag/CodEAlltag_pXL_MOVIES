@@ -1,0 +1,9 @@
+Hallo,
+
+wie kann ich am besten DVD-fertige (Audio 48 kHz, etc.)
+mpeg2-Dateien (im TV mit WinDVR2 aufgenommen)
+in (DVD-)VOB-Dateien umwandeln, damit sie auf DVD-R gebrannt
+und am StandAlone-DVDPlayer abgespielt werden können?
+
+mfg
+Fritz

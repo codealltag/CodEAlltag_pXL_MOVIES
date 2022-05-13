@@ -1,0 +1,12 @@
+JFTR: in Tron wurde in der Tat erstmals massiv CGI verwendet - nur eben 
+nicht für Menschen und interaktive Objekte, sondern ausschlüßlich für 
+Totalen und in Szenen, in denen keine Menschen auftauchen (Kampf von 
+CLUs Panzer, Lightcycle-Rennen, Verfolgungsjagd, Sark's Carrier, etc.). 
+Das Bit ist übrigens ebenfalls CGI :).
+
+Die erste CGI, die ein CGI-Objekt vor echtem Hintergrund darstellt, 
+findet sich übrigens in "The Last Starfighter" (der hierzulande 
+praktisch unbekannt ist) - das Space Car bei seinem Start von der Erde 
+ist ein CGI-Effekt, die Landschaft ist real.
+
+Carsten

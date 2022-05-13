@@ -1,0 +1,7 @@
+ä,Cb+q/
+
+Ich würde mal auf 'nen japanisches Encoding tippen. Aber welches hat der
+Mensch nicht dazugesagt. Und das wo mime extra ein Content-Type-Feld
+dafür vorgesehen hat...
+
+  Udo

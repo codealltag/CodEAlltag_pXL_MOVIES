@@ -1,0 +1,52 @@
+hm
+Ich wollt eigentlich auf Java hinaus ^^
+
+
+int a = 5;
+heist, es Wird die ganze Zahl 5, die nach 4 und vor 6 kommt den
+symbolischen namen a zugewiesen.
+D.h. wenn ich in dieser konkreten umgebung von a spreche (nicht A)
+dann mein ich 5.
+
+
+ja.
+Aber nicht deren Umsetzung auf konkrete Computersysteme
+
+
+nochmal zu dem Beispiel:
+Gehen wir mal von der Annahme aus, das alles in Bin�rschreibweise
+codiert wird (Betonung liegt hierbei auf CODIERT)
+
+101 bedeutet 5 weil 1*2^2+0*2^1+1*2^0 = 5 ist
+0101 genauso wie 0*2^3+1*2^2+0*2^1+1*2^0 = 5 ist und 00000101
+0*2^7+0*2^6+0*2^+5+0*2^4+0*2^3+1*2^2+0*2^1+1*2^0 = 5 ist
+
+Das is univrsell, daran kann man nix rüttel, das gilt auch am
+anderen Arsch des Universums. Es liegt nur jetzt am Auge
+(oder anderswertige Sehorgane) des Betrachters, wieviele
+Elemente von Nullen und Einsen ich als EINE Zahl zusammenfasse.
+Besteht die Zahl aus 8 Zeichen? 16 Zeichen? 32 Zeichen? usw.
+
+Kurz: Nutze ich auf meinem System 16bit für Ganzzahlen und
+will diese Zahl auf einem System ausgeben, welchges nur 8bit
+Zahlen kennt, so hab ich plötzlich 2 ganze Zahlen.
+
+Toll.
+
+Nun, lieber Salvatore, wirst du sicherlich sagen "aber die Mathematik
+ist doch universell". Ja, das ist sie auch, nur dann müssten die
+Computersysteme die ganzen Zahlen auch in ihrer Allmächtigkeit
+darstellen können, was da heist, das für jede poplige Ganze Zahl
+schonmal unendlich viel Speicherplatz reserviert werden muss
+(aus 1 wird dann 10^nesupergrosseZahl viele Nullen gefolgt von ner 1)
+
+Ach ja, um auf den "ich verputz ein Alien Rechner zum Frühstück" Virus
+zurück zu kommen, falls es diesen wirklich geben sollte, dann hätten
+sicherlich schon längst paar gelangweilte Coder sämmtliche irdischen
+Computersysteme dieser Welt abgeschossen.
+
+Warum ham'ses ned? Richtig. Weil selbst die irdischen
+Computersystem zu verschieden sind. Und das trotz der
+"all universell" Mathematik, welche zuminderst für Terra allg. gültig ist.
+
+Fabio, abschweifend ^_^

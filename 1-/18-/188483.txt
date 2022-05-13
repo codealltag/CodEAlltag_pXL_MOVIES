@@ -1,0 +1,63 @@
+Es tut mir leid euch nochmal belästigen zu müssen, es gibt aber leider
+immer wieder Leute die entgegen besserem Wissen auf meinen Hinweis mit
+Flames reagieren und behaupten die Gruppe sei nicht Regelkonform
+eingerichtet worden - die Gruppe wurde gemäß den Regeln eingerichtet!
+Durch keine Regel gedeckt ist hingegen der Löschversuch der Gruppe durch
+drei Personen, möchte man die Gruppe wieder löschen so muß der Vorschlag
+zur Löschung ein formales Verfahren durchlaufen, das hat er nicht getan.
+
+
+Die Einrichtung der Gruppe erfolgte in voller Übereinstimmung mit Teil 10
+der Regeln '<21. 07. 21> Einrichtung von Usenet-Gruppen in "de.*"' (findet
+sich in zq.zwiaqoxl.czdgt), aus den Regeln:
+
+Das sind die einzigen Regeln die für de.alt.* existieren, jemand der
+andere Regeln anführt wie "Sollte Interesse an einer solchen Gruppe sein,
+muessten Interessierte für Traffic in existierenden Gruppen sorgen
+(iu.xmf.jquev.wywc)." kennt entweder die Regeln nicht oder hat sich seine
+eigenen Regeln gemacht.
+
+Der Vorschlag für die Einrichtung der Gruppe erfolgte am 24 Mai 1997,
+der Vorschlag wurde ausgiebig Diskutiert, es gab insgesamt 8 Leute die im
+Sinne der Regeln "Einwände" gegen die Gruppe hatten, diese "Einwände"
+lassen sich zu zwei "Einwänden" zusammenfassen:
+
+1. Die Gruppe ist falsch eingeordnet.
+
+   Allerdings waren die Leute auch auf Aufforderung nicht bereit zu sagen,
+   wo den die Gruppe richtig eingeordnet sei, es existiert in de.alt.*
+   keine Hierarchie unter die man Bühnentanz einordnen könnte.
+
+2. Für die Gruppe besteht kein Bedarf, es ist kein Traffic vorhanden.
+
+   Allerdings hatte ich eine Liste im 150 Postings zu dem Thema aus 25
+   Newsgroups in vf.fkk.wqlmo vorgelegt, und auf den Servern auf denen die
+   Gruppe ur.zvq.xwqwkri+zmqk jetzt existiert gibt es Interessenten und
+   Postings.
+
+Nach dem die Diskussion abgeflaut war habe ich am 4. Juni (also mehr als
+die in den Regeln geforderte Mindestzeit von einer Woche) eine
+Zusammenfassung der Diskussion gepostet, angesichts dessen das der
+"Einwände" nur von 8 Personen kamen und die Einwände offensichtlich an den
+Tatsachen vorbei gingen, gemäß den Regeln festgestellt daß "der Protest
+nicht allzu heftig war" und eine Controlnachricht "newgroup" verschickt
+(das ist eine "Bitte" an Newsadministratoren die Gruppe einzurichten). Auf
+diese Controlnachricht, haben drei Leute insgesamt vier Controlnachrichten
+"rmgroup" (das ist eine "Bitte" an Newsadministratoren die Gruppe zu
+löschen) versand, was durch die Regeln s.o. nicht gedeckt ist. Nun muß
+jeder Newsadministrator selbst entscheiden die Gruppe einzurichten oder
+nicht, er wird sie in der Regel einrichten wenn ihn ein Nutzer darum
+bittet.
+
+Die Hinweise die ich versende sind nicht meine Idee, sondern sind in der
+Diskussion ausdrücklich gefordert worden, mein Argument das diese Hinweise
+sehr viele Newsgroups betreffen wurde nicht akzeptiert. Ich wurde in
+ok.alt.admin sogar aufgefordert Diskussionen zum Thema Tanz in Newsgroups
+zu starten, in denen das Thema laut Charta völlig Off-Topic ist, Kommentar
+aus de.alt.admin: "wurde das dort angeflamed? Nein - dann gehe genau dort
+hin". Ich kann also jetzt die Empörung nicht verstehen, mein Hinweis geht
+nur in Newsgroups in denen auch etwas zum Thema Tanz gepostet wurde, und
+er geht nur einmal dort hin, es macht keinen Sinn das ganze durch Flames
+künstlich zu verlängern.
+
+--

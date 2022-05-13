@@ -1,0 +1,237 @@
+Organization: German Volunteer Votetakers
+MIME-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+1. CfV zur Einrichtung der Gruppe:
+==================================
+de.rec.film.heimkino	Filmerlebnis im Wohnzimmer.    
+
+Charta:
+
+Diese Gruppe dient Diskussionen jeder Art zum Thema Heimkino,
+insbesondere Laserdiscs, DVD-Videos und vorbespielte Videobänder sowie 
+alle Geräte, die man zu deren Wiedergabe braucht.
+
+Technische Diskussionen, die für den interessierten Laien nicht mehr
+verständlich sind, und Diskussionen, die sich nur mit dem Inhalt eines
+Films beschäftigen, sollten in eine passendere Gruppe umgeleitet werden.
+Vor dem ersten Posten in diese Gruppe sollten, wie im Usenet üblich, 
+die relevanten FAQs gelesen werden.
+
+Status:
+
+Die Gruppe ist unmoderiert.
+
+
+Für den Fall, daß diese Gruppe eingerichtet wird, wird über folgende
+Charta-Änderungen abgestimmt:
+====================================================================
+al.gao.navo.svvn
+----------------
+
+ALT:
+
+al.gao.navo.svvn	Filme, Serien, TV, Video, Kino.
+
+Charta:
+
+al.gao.navo.svvn dient als Diskussionsforum für alle
+Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+Sendungen liegt, kann auch über (Video)filmen (d.h.
+Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+Interpretation von Filmwerken. Für technische Aspekte von Heim-
+kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+NEU:
+
+de.rec.film.misc	Alles, wofuer es keine spezielle Filmgruppe gibt.
+
+Charta:
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten 
+und der Interpretation von Kinofilmen sowie deren Schauspielern
+und Crews. Es kann jedoch auch über die Produktion von Filmen (auch 
+eigenen Filmen und Videofilmen) bzw. Filmtechnik usw. geschrieben 
+werden. Fernsehthemen sollten in eine geeignetere Gruppe gepostet 
+werden.
+
+
+wb.jpa.mi.qchl
+--------------
+
+ALT:
+
+wb.jpa.mi.qchl	TV/Video/Sat Themen.
+
+Charta:
+
+wb.jpa.mi.qchl ist eine Gruppe, in der TV- und Video-bezogene
+Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert.
+(Programmstruktur einzelner Sender; Diskussion über Serien,
+Shows und Dokumentationen; Empfehlungen und Diskussion
+von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+Medienrecht; Sender anderer Länder (via SAT))
+
+NEU:
+
+wb.jpa.mi.qchl	TV/Video/Sat-Themen.
+
+Charta:
+
+In der Gruppe sollen TV- und Video-bezogene Themen diskutiert 
+werden. Sie ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert. 
+(Programmstruktur einzelner Sender; Diskussion über Fersehfilme,
+Serien, Shows und Dokumentationen; Diskussion fernsehspezifischer
+Aspekte von Kinofilm-Ausstrahlungen (geschnittene Szenen, Position
+der Werbeblöcke, ...); Empfehlungen und Diskussion von/über 
+Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer; Medienrecht; 
+Sender anderer Länder (via SAT))
+
+
+wa.ljm.sd.technik
+-----------------
+
+ALT: 
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+Charta:
+
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+NEU:
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen, Video und Heimkino.
+
+Charta:
+
+Diese Newsgruppe dient der Diskussion über Geräte zur Bildaufnahme, 
+-empfang und -wiedergabe, insbesondere Fernsehgeräte, Projektoren,
+AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen, Videorecorder, 
+LD-Player, DVD-Player und Camcorder sowie der zugrundeliegenden Normen
+und Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, 
+Teletext, Macrovision etc.). 
+Diskussionen mit inhaltlichen Aspekten sollten in geeigneteren Gruppen
+geführt werden.
+
+Proponenten:
+============
+Otmar Ingolf Giesecke             iko@tlx.kxm
+Ewald Ploemacher               ujesltnrlxc@pgd.jy
+Jörn Doescher                      Gakgecdwg@gdirwnhq.trtn.tk
+
+
+Modalitäten
+===========
+Die Stimmen müssen bis zum <Datum> eingehen.  Ausschlaggebend
+ist hierbei das *Eintreffen* der Stimme, nicht das Absendedatum!
+Bitte benutze den Wahlschein, der am Ende dieses CfV angebracht
+ist. Wahlberechtigt ist jede natürliche Person, die in der Lage
+ist, E-Mail an die Abstimmungsadresse zu schicken.
+
+Es gelten die derzeitigen Wahlregeln, die in uj.dyvwflsp,
+ta.nvuwpveg.ijeotnkxe, ci.jngqy.qvbv.syiiev und vk.aqv.uujzi
+veroeffentlicht sind.
+
+Wie gewählt wird
+================
+Trage in die Felder des Wahlscheins unten Deine Stimme (JA, NEIN
+oder ENTHALTUNG) ein und schicke den Wahlschein dann an den
+Vote-Account <yl-ibzw@gxjklzr.nusntf.wk> (Reply-To:-Header ist gesetzt.)
+Es werden nur Stimmen berücksichtigt, die per Mail an diesen Account
+gerichtet sind.  öffentliche Stimmabgaben (Postings) sind ungültige
+Stimmen und werden nicht berücksichtigt.
+
+Deine Entscheidung bedeutet dabei:
+
+JA         - Ich bin für diesen Vorschlag.
+NEIN       - Ich bin gegen diesen Vorschlag.
+ENTHALTUNG - Ich enthalte mich oder ich ziehe meine Stimme zurück
+
+             Enthaltungen gelten nicht im Sinne einer gültig
+             abgegebenen Stimme; sie dienen vornehmlich dazu,
+             eine zuvor abgegebene Stimme zurückzuziehen.
+
+Der Wahlleiter wird auf Deine Stimme mit einer persönlichen
+Bestätigung via E-Mail reagieren. Wenn Du innerhalb von ein paar
+Tagen nichts hörst, versuche es noch einmal.
+
+Solltest Du Deine Meinung ändern, so wähle einfach
+neu. Willst Du dabei Deine Stimme annulieren, so entscheide
+ENTHALTUNG. Gehen mehrere Stimmen ein, gilt die jeweils zuletzt
+abgeschickte (Date:-Eintrag der Mail).
+
+Bitte beachte, daß die Stimme Deinen echten Namen enthalten
+muß, kein Pseudonym. Sollte Dein Newsreader den Namen nicht
+automatisch im From:-Header eintragen, trage ihn bitte nochmal im
+Wahlzettel ein.  Andernfalls ist Deine Stimme ungültig.
+
+In der Mitte der Wahlperiode wird ein zweiter CfV gepostet, der
+eine Auflistung aller Personen enthält, von denen bis zu diesem
+Zeitpunkt eine gültige Stimme eingegangen ist.
+
+Die Ergebnisse der Wahl werden nach Ablauf der Wahlfrist
+öffentlich gepostet, wobei jede einzelne Stimme, zur Kontrolle
+für alle, aufgelistet wird. Solltest Du begründete Bedenken gegen
+die Veröffentlichung Deines Realnamens haben, melde Dich bitte beim
+Wahlleiter (Carsten Ospeld <kxl@modzddr.rujugj.xz>).
+
+
+Sonderregeln
+============
+Wie in beiden RfDs angekündigt, werden die Abstimmungen über die
+Chartaänderungen nur dann ausgewertet, wenn die Newsgruppe 
+tb.qor.pthm.onmaitfc in dieser Abstimmung angenommen wird.
+
+
+-=-=-=-=-=-= Alles vor dieser Zeile löschen =-=-=-=-=-=-
+
+Wahlschein für die Einrichtung von de.rec.film.heimkino und die
+Chartaänderungen von de.rec.film.misc, de.rec.tv.misc und
+de.rec.tv.technik
+
+Dein Realname, falls nicht im From:-Header:
+
+Wenn Du keinen Real-Namen veröffentlicht haben willst, wende Dich
+mit einer Begründung an den Wahlleiter Carsten Ospeld
+<kxl@modzddr.rujugj.xz>
+
+[    Deine Stimme    ]  Abstimmungsgegenstand
+----------------------------------------------------------------------
+[                    ] ju.heg.updb.heimkino - Einrichtung
+
+Sollte de.rec.film.heimkino angenommen werden, so werden folgende
+Abstimmungspunkte relevant:
+
+[                    ] de.rec.film.misc - Chartaaenderung
+[                    ] de.rec.tv.misc - Chartaaenderung
+[                    ] er.rec.tv.technik - Chartaaenderung
+
+-=-=-=-=-=-= Alles nach dieser Zeile löschen =-=-=-=-=-=-
+
+
+-- 
+Carsten Ospeld (GVV)      IRC: Ygydew       wifvzt@lkrcpgi.qrppxm.oz
+GVV-bezogene Mails an:                           kxl@modzddr.rujugj.xz
+
+-- 
+Fertige Artikel für qr.igqhd.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <hwwzqglvk@uehp.by> (vertrauliche Ein-
+sendung) oder <gbrinj@hllk.vo> (zur Kontrolle öffentlich; beides keine
+Diskussionslisten!). Weitere Informationen: <URL:http://tmz.wnoj.ba/>

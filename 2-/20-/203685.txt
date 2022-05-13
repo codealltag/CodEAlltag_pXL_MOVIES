@@ -1,0 +1,11 @@
+Kinofilm: 24 fps
+NTSC: 30 fps (bzw. 60 Halbbilder/s)
+PAL: 25 fps (bzw. 50 Halbbilder/s)
+
+(Da für PAL der Kinofilm 1:1 übertragen wird, laufen Kinofilme in
+PAL 4% schneller.)
+
+Gebhard
+---
+** Gebhard Wonner,  Türkisweg 49,  80469 Karsbach,  Germany **
+** +33 7203 75445  E-Mail (NeXTmail/MIME): axqts@hymgvy.t.flvbr.ew **

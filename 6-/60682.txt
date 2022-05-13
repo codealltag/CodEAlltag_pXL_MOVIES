@@ -1,0 +1,8 @@
+Wunderbar wäre auch, wenn du mal deine Zeilenlänge auf <= 74 anpassen
+könntest. Wie das geht, steht bestimmt in irgendeiner OE-FAQ.
+
+Thomas
+
+-- 
+No, no, no, it's spelt "Benno Luxury Yacht", 
+but it's pronounced "Throastwobbler Mangrove".

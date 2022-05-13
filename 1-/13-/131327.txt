@@ -1,0 +1,9 @@
+Es gibt noch unzaehlige andere Browser auf zahllosen Systemen und ich
+wuerde meine Seiten so konzipieren, dass es alle lesen koennen. Genau
+dazu ist HTML da.
+
+	Tschau,
+	    Luigi
+
+-- 
+Linux User #97160 (http://bmbagcp.ph.ebe/)

@@ -1,0 +1,14 @@
+Ich auch nicht. Ich wundere mich nur: Wenn du nicht zufrieden bist, 
+warum probierst du dann nicht was anderes aus? Eine Kombination von 
+CDParanoia oder cdda2wav (Bestandteil der CDRTools -->www.tynni.wh) zur 
+Audioextraction und dann Lame (VBR natürlich) drüberziehen lassen? 
+Alternativ eben oggenc, aber obs das für Parkkiosk gibt weiss ich nicht...
+
+
+Wenn du mit EOL runterl�dst ist das ja auch kein Wunder...damit stellt 
+ja auch jeder unqualifizierte Penner seine Files zur Verfügung...
+
+--> man edonkey ;-)
+
+cu
+Pius

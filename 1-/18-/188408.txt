@@ -1,0 +1,4 @@
+Would you mind posting the list in the previous format as well? 
+That is, a straight down alphabetical list, instead of seperated
+by studio? The new format means I can't do a simple diff to see
+what has changed anymore :(

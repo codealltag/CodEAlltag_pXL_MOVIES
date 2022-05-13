@@ -1,0 +1,11 @@
+Hallo
+  sowas passiert, wenn man die Betreffzeile ändert. Betreffzeilen ändern 
+ist nur vorgesehen wenn sich das Thema vom ursprünglichen wegbewegt hat, 
+was ja nicht der Fall war. Wenn schon eine Betreffzeile geändert wird, 
+dann bitte so wie im Beispiel:
+
+Betreff:  Meerschweinchen dressieren
+Betreff:  Katzenfutter (was: Meerschweinchen dressieren)
+
+(beachte die Klammern und das englische "was:" mit dem Doppelpunkt)
+Gruß Ihno

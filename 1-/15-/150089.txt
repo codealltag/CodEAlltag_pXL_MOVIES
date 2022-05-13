@@ -1,0 +1,23 @@
+Ich habe eher die Furcht, dass das alles schlimmer wird. Es waere
+eine Loesung denkbar, bei der per ISDN ein Film requested wird, der dann
+mit in dem Satellitenstreamfeed gepumpt wird mit einem individuellen
+Decryption-Key, der fuer jede View eben neu beantragt wird (beim Re-
+quest). Der Verleih weiss somit immer genau wie oft ein Film gezeigt
+wird. Die Endphase ist dann wohl ein Detektor, der zaehlt wieviele Perso-
+nen im Kinosaal sitzen (Schalter in den Sitzen).
+Denn immerhin wird daraus der Verleihpreis berechnet (prozentuale
+Eintrittspreisbeteiligung, meistens um die 43%). (*)
+
+Durch die hohen Kosten solcher Anlagen wird es nur die grossen Kinos
+begeistern koennen, immerhin ist das ja sicher das, was die grossen
+Verleihe wollen. Sie haetten dann das komplette Angebot in der Hand, die
+kleineren waeren endlich weg.
+
+(*) ist der berechnete Preis niedriger als der vom Verleih festgesetzte
+    Mindestpreis (Mindestgarantie) dann gilt letzterer natuerlich.
+
+-- 
+Unix, Didier Staib, Obernkirchenstraße 68 /\ 15 .rtsnietS ,regneiG lacsaP ,xinU
+Networx            30351 Weenzen /  \ kcwjaveB 41784            xrowteN
+& WWW         kcnmxdc@esvpgoy.zl /    \ di.dmmdntu@fhbfqbh         WWW &
+    T: +96 0638 08264, F: 38038 /      \ 03097 :F ,90725 1947 25+ :T

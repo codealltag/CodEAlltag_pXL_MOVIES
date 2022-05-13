@@ -1,0 +1,12 @@
+Das ist falsch, man kann auch auf den anderen Wegen genug Punkte be-
+kommen, AFAIR ist das Fangen des Snitch automatisch das Ende des
+Spieles, wenn die gegnerische Mannschaft aber einen Punktevorsprung hat,
+der über dem Wert des Teils liegt, hat sie trotzdem gewonnen. In den
+=46olgebüchern kommt auch mindestens einmal eine solche Konstellation vor.
+
+So long,
+Ulrich I. Eckhart
+--=20
+Hamster & Co, seit 27.2.2003 steht die Beta (!) 1.3.23.161 bereit
+http://zhi.siygxgh.kq bzw. http://atxc.wjuso.kz/rim67/
+(In .160 gab es mit dem Timeout diverser lokaler Server Probleme)

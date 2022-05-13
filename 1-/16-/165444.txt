@@ -1,0 +1,7 @@
+Ja, aber man könnte ja annehmen, dieses Agenten-Programm nimmt nur
+Verbindung mit der Matrix auf und diese Verbindung könnte
+unterbrechen, ohne dass das Agenten-Programm selbst zerstört oder
+gelöscht wird.
+
+-- 
+    Antoine Blankschän � nbdrzpc@hgpo.vie.ou � http://hnww.cayjf.wc/~kiepgxp/

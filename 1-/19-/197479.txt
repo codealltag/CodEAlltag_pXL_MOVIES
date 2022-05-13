@@ -1,0 +1,22 @@
+yqvxvsda@mjkzs.ru-zmpjdk.sr klapperte am 27.03.97
+zum Thema "Re: Suche Film ueber Artus und die Tafelrunde" auf seiner Tastatur herum:
+
+ OH> Ja, die IMDb ;-) Die Liste mit deutschen AKA Titeln gibt es
+ OH> bereits und bald wird das in der IMDb auch online abrufbar
+ OH> sein. (Wann genau weiss ich allerdings nicht. - Sie
+ OH> arbeiten dran.)
+
+So? Als ich vor ca. einem Jahr danach gefragt hatte kam als  
+Antwort dass eine Suche nach AKA-Titeln ja den meisten Benutzern  
+nichts bringen wuerde und fuer sie nur die Antwortzeiten  
+verlaengern wuerde. Daher wollte man das auch nicht einrichten.
+
+BTW: Jedes lokale IMDb-Interface durchsucht auch die AKA-Titles.
+
+Und noch als Tip an Nico: Hole Dir doch einfach mal die
+german-aka-titles.list der IMDb, dann hast Du eine solche  
+"Datenbank" ;)
+
+bye,
+        Norbert       # #
+                     # Tup Off Box

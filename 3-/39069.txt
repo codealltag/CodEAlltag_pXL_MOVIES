@@ -1,0 +1,6 @@
+Computer (Star Trek IV) *)
+
+SCNR,
+	Wolf.
+
+*) Dieter spricht in die Maus

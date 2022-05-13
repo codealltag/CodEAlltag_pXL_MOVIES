@@ -1,0 +1,10 @@
+Ich fand ihn trotzdem cool. Wenn Du's uebrigens so siehst, dann zieh
+Dir Reality-TV rein und keine Spielfilme mit erfunderner Story. Dann
+hast Du's so realistisch wie's nur geht.
+
+/Francisco
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

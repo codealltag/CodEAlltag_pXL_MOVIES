@@ -1,0 +1,21 @@
+: Wo ist für den Anwender der Unterschied? (Der normale Leser dieser
+: Gruppe dürfte weder gerade dabei sein, sich einen LD-Player zu
+: bauen, noch ein Interesse an Richtlinien für die Herstellung eines
+: LD-Masters haben.)
+
+Es geht im Prinzip erstmal darum, dass es falsch formuliert ist. Dadurch
+wird naemlich der Eindruck erweckt, die Dolby Digital Daten sind, aehnlich
+wie bei einem Modem, akustisch moduliert und eben als Toene gespeichert.
+Deshalb darf sich mancher zu Recht fragen, wozu man denn dann einen extra
+Ausgang braucht, wenn das Signal doch auf dem rechten Analogtonkanal ist.
+Und das ist es eben NICHT.
+
+Also: Vermeidung einer FAQ.
+
+Tschuess,
+Alex
+-- 
+Alex Bartscheer
+ Student of Computer Science @ University of Teichwolframsdorf, Germany
+   E-Mail: y60n@gai.cso-yceexd.fp
+     WWW: http://izs-yegl.fvk.znp-dnvssc.lz/~m48v/

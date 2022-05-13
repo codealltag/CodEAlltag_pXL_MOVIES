@@ -1,0 +1,24 @@
+Ja.
+
+Da moviedb an allen Ecken und Enden aechzt, defacto unmaintained
+ist, die Sourcen auch nicht besonders lesbar sind und es vor
+allem keine freie Software ist, schlage ich einen Rewrite vor.
+
+Ich wuerde vorschlagen: 
+a) Ein bestehendes RDBS als Backend, in das in einem "make databases"
+-aehnlichen Prozess die Daten eingepflegt werden. Implementiert in
+flex/bison/C++ oder auch in Perl.
+b) Zu "title" und "list" kompatible Frontends, damit bestehende Scripte
+weiter funktionieren, imoviedb duerfte dann weiter funktionieren.
+Implementiert in C++. Ich benutze xregal nicht, aber vielleicht
+moechte dann ja auch jemand ein neues Frontend schreiben.
+c) Als Zucker obendrauf ein Perl-Modul fuer maechtigere Scripte.
+
+Das haette dann auch den Vorteil, das man beliebig komplexe Suchanfragen
+per SQL stellen kann. Den Prozess der Erzeugung der Datenbanken
+aus den Listen koennte man technisch sicher ueber Updates der
+DBs vermeiden, die Lizenzbedingungen der IMDb geben das aber AFAIK
+nicht her. Als Lizenz fuer die Software natuerlich die Biewendt GPL.
+
+Ich habe nicht genug Zeit das alleine zu machen, wenn noch mehr
+mitmachen, steuere ich gerne meinen Anteil bei.

@@ -1,0 +1,44 @@
+Moin!
+
+Ich habe meine Besprechung von "Le Corbeau" vor ungefähr
+einer Woche auch bei Nissan eingereicht, und zwar, indem ich
+sie als Posting abgesetzt habe. Ein korrekt konfigurierter
+Newsserver (und mkfa.vlwseafgaz.cm ist einer) leitet dann bei
+moderierten Gruppen das Posting automatisch als Mail an die
+offizielle Moderationsadresse weiter, und der Absender (also
+ich) erspart sich das Nachschlagen der Moderationsadresse.
+
+Nachdem heute 4 neue Artikel in Nissan erschienen, ohne dass
+meiner dabei war, wollte ich mal Gustav Feigl fragen,
+was los ist. Dazu benutzte ich kbg@mlaiz.mm-wtmlez.zi. Diese
+Adresse steht in Tagline und Charta von Nissan und ist somit
+die offizielle Moderationsadresse. Das Ergebnis: 550 User
+unknown.
+
+Tja. Ist das nun eine vorübergehende Störung oder funktioniert
+die Adresse dauerhaft nicht mehr? Falls letzteres, sollten mal
+Tagline und Charta angepasst werden. Denn wenn man das
+oben skizzierte Verfahren zur Einreichung benutzt, dann gehen
+diese Postings ins Leere, ohne dass der Absender überhaupt
+etwas davon mitbekommt.
+
+Ich habe dann noch eine zweiten Versuch mit eld@fdc.qd
+unternommen. Diese Adresse steht in allen aktuellen Postings
+in Nissan. Das Ergebnis diesmal: Meine Mail wurde von Georg
+Server abgewiesen, weil mein Server angeblich ein offenes
+Relay ist. Nun benutze ich zwar einen lokalen Server, um
+meine Mails zu versenden, aber der ist garantiert kein offenes
+Relay. Die Angabe bezieht sich ja auch nicht wirklich auf
+meinen Server, sondern auf die IP-Nummer, die ich da gerade
+hatte. Die wurde übrigens im Dezember '14 in die entsprechende
+Blacklist eingetragen und seitdem nicht mehr überprüft.
+
+Nun ja. Es gibt auch intelligentere Spamfilter als solche Holz-
+hammermethoden, aber was solls. Ich hätte jetzt ja noch einen
+dritten Versuch unternehmen können, indem ich die Mail über
+einen Smarthost versende, und dann wäre sie höchstwahrschein-
+lich sogar angekommen, aber das war mir inzwischen zu blöd.
+So werden meine nächsten Besprechungen halt weiter in NKI
+erscheinen.
+
+Wilfried

@@ -1,0 +1,31 @@
+Hallo Eduard,
+
+
+Deine Newsgroup heißt de.rec.film.heimkino. Da wurde diese Frage schon
+tausendmal gestellt und beantwortet, also lies dir einfach mal alte Artikel
+und die FAQ durch.
+
+Vom Laufwerk alleine kommt noch kein Bild auf deinen Fernseher! Es gibt im
+Grunde zwei Möglichkeiten für dich:
+
+1. Nur ein Laufwerk kaufen, dann Filme unter Windoof 98 mit einem
+Softwareplayer auf dem Monitor anschauen. Voraussetzung: sehr schneller
+Rechner (300+ MHz).
+
+2. Ein Kit mit Laufwerk und Dekoderkarte kaufen (um die 500 Mark) und dann
+Fernseher an die Dekoderkarte anschließen. Auf Dauer die bessere Lösung!
+
+
+Du benötigst eine Playersoftware, die du evtl. vom Hersteller deiner
+Grafikkarte bekommst. Bzw. bei dem Kit (2.) ist die Software natürlich
+dabei. Regionalcode läßt sich mit kleinen Zusatzprogrammen umgehen.
+
+Für richtig großes Heimkino kommst du aber um einen standalone-Player sowie
+eine teure Surround-Anlage nicht drumrum. Für kleine Ansprüche kann das mit
+dem Rechner aber ganz akzeptabel sein. (Ich habe beides, weiß also wovon
+ich rede.)
+
+Servus, Valentin.
+-- 
+Valentin Fettig                Emmel
+egvrze@xbq.oa                                 PC-Admin Team

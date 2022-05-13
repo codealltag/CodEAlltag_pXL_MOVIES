@@ -1,0 +1,9 @@
+Wenn Du nicht gerade einen Normwandel-VCR kaufen willst, kann dir auch
+eine gute Grafikkarte helfen. Ich wandle z. B. mit der Matrox-Rainbow
+Runner und die Ergebnisse können sich sehen lassen. Dummweise werden die
+480 NTSC-Zeilen nicht auf die 576 PAL-Zeilen hochgerechnet, so daß oben
+und unten kleine schwarze Balken enstehen, ansonsten bin ich aber sehr
+zufrieden.
+
+Bis denn
+tokra

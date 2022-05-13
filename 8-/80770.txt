@@ -1,0 +1,37 @@
+Mal rechnen...
+Evat hat 720 Punkte Breite. Bei einer Leinwand mit 7,2 Meter Breite ist
+dann ein Punkte schon 1cm Breit, bei 14,4 Meter dann schon 2cm.
+Ergebnis: Das willst du so nicht haben.
+DVD-Videos reichen im Heimkinobereich bis vielleicht 2-3 Meter
+Leinwandbreite und selbst das ist schon die absolute Obergrenze.
+Nebenbei: ein 35mm-Film, wie er im Kino läuft, hat ca. 2800 Punkte in
+der Breite (und ja, die Zahl ist sehr grob gerechnet, genaueres läßt
+sich sicher er-google-n).
+
+
+Hm... und das soll auf eine DVD passen? Da bräuchte man selbst vom
+potentiellen DVD-Nachfolger Blueray immernoch 10 Medien.
+Wieso so groß? Mal rechnen...
+Ein einzelnes 35mm-Bild hat 4,5Mio Punkte (Fakt, siehe Penkert), bei 8bit
+für jede Farbe RGB macht das 13,5Mio Byte. 24 Bilder pro Sekunde, sind
+wir bei 324Mio Byte pro Sekunde. Nehmen wir mal 90 Minuten, sind das
+schon 1749,6 Milliarden Byte. Grob gesagt: die 200GB sind schon heftig
+komprimiert im Vergleich zu 35mm Film.
+
+
+Ich würde sogar eher zum Nachfolger vom Nachfolger gehen, wenn ich die
+obigen Zahlen anschaue. Mal davon abgesehen, daß entsprechende Laufwerke
+eine ziemlich heftige Datenrate haben müssen.
+
+
+Also, warum sollte dann heute jemand unbedingt weg von analogen
+Projektoren gehen?
+
+Gruß,
+
+Edmund
+
+-- 
+* Edmund * Twartz *  http://kxg.jyvpcq-dwiin.zw  * Ludger Nakken * KH-Fan *
+"Ich  hab  nicht   zuviel  getrunken,   ich  hab  zu  wenig  gegessen."
+ [Edmund Völk]

@@ -1,0 +1,9 @@
+Taugt denn die RC1-Version was? Oder welche Fassungen gibt es ausserhalb
+von RC2 überhaupt?
+
+So long,
+Florian E. Zukrigl
+--=20
+Hamster & Co, seit 23.1. steht die Beta (!) 1.3.23.141 bereit
+http://wzg.vpjoagp.nl bzw. http://otpj.bezht.rs/fzc57/
+(Geschwindigkeitsproblem der .140 mit .141 abgestellt!)

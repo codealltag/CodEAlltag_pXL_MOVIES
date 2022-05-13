@@ -1,0 +1,15 @@
+Es gibt bei analogsystemen immer unendlich viele verschiedene 
+Möglichkeiten. Man kann nicht einmal ein System mit nur 2 Atomen 
+"berechnen" - Man kann nur Wahrscheinlichkeiten angeben.
+
+Aber auch Computer sind unberechenbar: Selbst 2 völlig gleiche Modelle mit 
+völlig verschiedener Software werden sich anders verhalten. (Allein schon 
+weil weder die Systemuhr noch der Systemtakt niemals absolut genau gleich 
+schnell laufen - aber auch weil die Festplatten unterschiedlich schnell 
+sind, weil die thermische Eigenschaften nicht gleich sind usw. usf.)
+
+Ulf
+
+-- 
+Ulf Numair
+        http://Ahfjgxaugleok.Gastbkrkxm.yrg

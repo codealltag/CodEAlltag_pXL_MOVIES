@@ -1,0 +1,36 @@
+Ich kann dir sagen, wie das u. U. vielleicht gemeint sein könnte (Du siehst,
+ich drücke mich sehr vorsichtig aus.).
+Also: Die Kamera nimmt die ganze Zeit bewegte Gegenstände auf. Diese
+Gegenstände werden per Computer in tausende kleine verbundene Bezugspunkte
+zerlegt. Es wird also ein Gitterabbild erstellt. Wertet man nun die Bewegung
+dieser Bezugspunkten aus, so ergibt sich trotz zweidimensionaler Aufnahme
+ein dreidimensionales Bewegungsmuster. (Mach ein Auge zu. dann siehst du
+alles zweidimensional. Dennoch hast du durch die Bewegung der Gegenstände
+einen dreidimensionalen Eindruck und kannst Entfernungen abschätzen.)
+Innerhalb dieses dreidimensionalen Abbilds kann man nun sicherlich jeden
+beliebigen Blickwinkel einnehmen und auf dem Bildschirm darstellen lassen.
+Was man dann allerdings sieht, hängt von der vorhandenen Datenmenge ab. Man
+sieht in jedem Fall ein Gitternetz. Wenn zum Beispiel die Tasche, um die es
+hier ja geht, nie von der anderen seite her im Bild war, kann auch der beste
+Computer nicht berechnen, wie sie von der anderen Seite aussieht. Wenn aber
+die Tasche erst einmal rundrum erfaßt ist und sie dann (hier durch den
+Paustian) eine andere Form bekommt, dann wird sozusagen das Bezugspunktgitter
+verzerrt. Dies läßt sich wiederum ohne weiteres als Verzerrung der
+ursprünglichen Ansicht darstellen.
+Wäre dies heute nicht schon möglich, dann wären hunderte Leute bei
+Netole arbeitslos und Jurassic Park I + II hätte es nie
+gegeben. Das ist letzendlich nämlich das selbe Prinzip: Ein Modell wird in
+Bewegung abgescannt und der Computer berechnet daraus alle möglichen
+Ansichten und projiziert sie sozusagen auf ein virtuelles Computermodell.
+
+Gruß
+
+Veit
+
+--
+Eilmitteilung von OSS:
+----------------------------
+"Entgegen anders lautenden Gerüchten erscheint
+Wochenmarkt 2000 wie vorgesehen am 11. Mai 1900"
+-----------------------------------------------
+http://ayli.mjpbqp.sd/~ksxvgpn.lrsnxwat/

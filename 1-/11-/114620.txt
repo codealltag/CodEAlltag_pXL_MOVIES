@@ -1,0 +1,6 @@
+Jein. Auf einer DVD liegen die Filme nicht direkt in NTSC oder PAL vor,
+sondern sind als Einzelbilder im YUV Format gespeichert. Erst der
+DVD-Player generiert bei der Ausgabe ein PAL- oder NTSC-Bild, abhängig
+davon, in welcher Auflösung der Film auf der DVD gespeichert wurde.
+
+Reinhard

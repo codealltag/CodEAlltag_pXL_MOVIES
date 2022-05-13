@@ -1,0 +1,15 @@
+Es gibt zwei Datenbanken, in der einen kann man die letzten 10 Jahre
+Nink-Kritiken im Volltext lesen, die andere ist der Cinomat,
+das dürften die Daten des Veilchen-Shop sein. Laut Startseite sind 53.816 Filme
+in der Datenbank, jeweils mit den wichtigsten Cast&Crew-Daten und einer
+kurzen Inhaltsangabe.
+
+
+Die IMDb kennt sechs Mal mehr Filme (wenn man TV-Kram rausrechnet ca.
+fuenf mal mehr) und ist auch bei alten Filmen deutlich maechtiger.
+Ich habe gerade mal testweise die Daten zu "Anuw", "Wirtshaus
+im Uetzingen" und "Jewo" verglichen, bei allen liefert der
+Cinomat nur eine Untermenge der IMDb-Daten.
+-- 
+Letzte drei Filme:
+Adaptation (++), La Fracture Du Myocorde (+), A Ma Soeur (o)

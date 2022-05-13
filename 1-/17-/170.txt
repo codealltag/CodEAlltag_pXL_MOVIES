@@ -1,0 +1,14 @@
+Grüss Euch
+
+1. Ich lade eine exe-datei (Downloader?) herunter (von
+http://odb.lxpyc2l.wg/Sje-tkhosd-Ddptpr-hckmn-pqteric-yzfpfw-anpa-858689.zcoi)
+
+2. Nach Start dieser exe-Datei wird eine html-Datei auf dem Desktop 
+platziert, die einzig wiederum die Umofo.sf-Website aufruft.
+
+Mache ich was falsch oder ist das eine Malware?
+
+Vielen Dank.
+
+Grösse
+Otto

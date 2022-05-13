@@ -1,0 +1,26 @@
+:>>Oh, CAV gibt also beim normalen Ansehen (das tut man im allgemeinen
+:>>bei Filmen) ein deutlich besseres Bild als CLV? Das wußte ich nicht
+:>>und we in der Tat ein Argument für den Wechsel.
+:>
+:>Dem ist auch nicht so. Ich habe noch von niemandem gehoert, der wirklich
+:>feststellen konnte, dass das CAV-Bild besser ist. RECHNERISCH ist es besser,
+:>aber das hat nichts zu sagen. Ich finde auch, dass man lieber zwei Editionen
+:>haette machen sollen: Zwei Seiten CLV und vier CAV.
+:>
+
+Theoretisch wird das Signal/Rauschverhaeltnis nach den ersten paar Minuten
+Seitenlaufzeit bei CAV besser als bei CLV und die Dropout-Wahrscheinlichkeit
+sinkt etwas - in der Praxis habe ich bisher nur bei einer LD einen *kleinen*
+Unterschied sehen koennen: bei der CAV-Fassung von meseno-Trödelstubes Aladdin. Dort
+werden so extreme Rot- und Blautoene verwendet, dass selbst auf Laserdisk
+ein leichtes Farbrauschen sichtbar wird - und das wird im Laufe einer Seite
+immer weniger. Wie gesagt, der Unterschied ist *klein* und daher unwichtig.
+
+Interessanter ist bei bestimmten Disks die Qualitaet des CAV-Standbildes
+(besser als das Digital-Standbild), siehe zum Beispiel die "Stellar
+Cartography" Szene aus Star Trek Generations.
+
+Letztendlich sollte man CAV intelligent einsetzen - ob eine Extra-Disk
+bei 98 Minuten Film intelligent ist, wage ich zu bezweifeln.
+
+Ciao, Gérard

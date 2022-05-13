@@ -1,0 +1,19 @@
+Die Starts von computergestuerten Marsch-Flugkörper müssen aber noch per
+Hand initiert werden (zum Glück), dann können sie Gelände erkennen (sich
+orientieren) und irgendwo einschlagen. Wenn sie wirklich intelligent
+wären, würden sie entweder sich weigern zu sterben B-) oder sie würden
+Ziele selber auswählen. Minenroboter gehen da schon eher in die
+Richtung, weil sie teilweise selbstständig arbeiten können. Ein Prinzip,
+welches bei Marsdronen auch schon erprobt ist (vielleicht auch von dir
+abgekupfert ist), da dort eine direkte Steuerung aufgrund des "Lags"
+nicht mehr möglich ist.
+
+Aufklärungsdrohnen sind aber auch relativ dumm. Intelligent wäre es,
+wenn sie die Ziele an die Marsch-Flugkörper durchgeben würden, die dann
+automatisch starten würden... Je länger ich darüber, desto weniger
+möchte ich intelligente (wie man den Begriff auch immer definieren
+möchte, da gibt es ja bis heute keine "Definition" von)
+Kriegsmaschinen. B-(((
+
+-- 
+So long... Fuzz

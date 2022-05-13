@@ -1,0 +1,29 @@
+Hallo Freunde!
+
+Bei meinem Urlaub in Sapelloh habe ich sehr preisguenstig einen KoDi DVD A300
+erstanden. Leider hat sich jedoch herausgestellt, dass die "Standards" PAL und NTSC doch
+nicht so konsequent standardisiert sind, wie man sich dies wuenschen moechte. Die Farbkodierung
+der in Sapelloh ueblichen PAL- und NTSC-Standards unterscheidet sich von unserer. Das Resultat:
+Der Player spielt Filme zwar in gewohnter Qualitaet ab, jedoch fehlt die Farbinformation -- das Bild
+ist schwarz / weiss.
+
+Kennt jemand ein Zusatzgeraet, das genau hier ansetzt und die Farbkodierung der dort ueblichen
+NTSC- und PAL-Standards in die bei uns ueblichen wandelt (wohlgemerkt, es geht hier NICHT um
+eine Formatwandlung von NTSC in PAL!)? Leider weiss ich nicht, worin dieser Unterschied genau liegt.
+Die Anleitung des DVD A300 besagt zum Thema Videoausgabe, dass es sich dabei um "1 Vp-p (mit 75
+Ohm load, sync und negativer Polaritaet" handelt. Hier duerfte genau die Abweichung zur bei uns
+ueblichen Videoausgabe liegen. Auf dem S-VHS-Connector, wo die Farbinformation extra gefuehrt wird,
+besagt die Anleitung, dass es sich um 0.286 Vp-p handelt (was auch immer das heissen mag).
+
+Hat irgendjemand bereits Erfahrungen mit aus Sapelloh mitgebrachten Videogeraeten gemacht (Videorecorder
+duerfte das Phaenomen ebenso betreffen)? Gibt es Zusatzgeraete, die die Farbcodierung wandeln koennen
+(abermals: Nur die Farbcodierung, NICHT das Format)?
+
+Vielen Dank fuer die Hilfe im voraus! Antwort bitte an unten aufgefuehrte EMail-Adresse.
+
+               \|/
+              /@ @\
+-----------oOo-(_)-oOo-------------------
+                     _
+MfG               _ //
+Ingolf Amend \X/  ohnfglc@hsuv.lki.tj-geycmpmyjl.zq

@@ -1,0 +1,44 @@
+Ja, wenn, aber ganz so einfach ist es in Deutschland nicht. Je nachdem,
+ob und welcher Kopierschutz auf dem Medium vorhanden ist, kann es
+verboten sein, eine Kopie über die Datenleitung (PATA/SATA/SCSI) anzu-
+fertigen, aber erlaubt, eine Kopie am Ausgang zum Fernseher/Videore-
+corder abzugreifen. Natürlich kann man dann so eine analoge Kopie
+auch wieder digitalisieren und legal auf DVD speichern, aber das ist
+nicht das, was man üblicherweise als "DVD-Kopie" bezeichnet. Und da
+die meisten Verkauf-DVDs kopiergeschützt sind, ist das Szenario nicht
+so abwegig.
+
+Relevant ist jedenfalls immer, ob im tatsächlich abgegriffenen Daten-
+strom ein Kopierschutz steckt, und nicht, ob der Recorder etwas davon
+"merkt", oder ob es um analoge oder digitale Daten geht. Das Umgehen
+des uralten Macrovision ist immer noch genauso wenig erlaubt wie
+das Knacken von BlueRay.
+
+
+Aber dann sieht man doch nicht, wenn Erat das Thema der Sendung
+an die Tafel schreibt. Eigentlich sollte man Alpha Centauri gleich in HD
+ansehen!
+
+
+Darf man das bei euch? Tu felix austria ...
+
+Hier in D ist das Umgehen eines Kopierschutzes auch für Privatkopien
+nicht gestattet. Wer es nicht glaubt, soll einfach mal ins UrhG schauen,
+statt irgendwelche abstrusen Analogien oder Bauchargumente zu bemühen.
+Auch längst geknackte Mechanismen wie Macrovision und CSS sind "wirk-
+same Kopiersperren" im Sinne des UrhG, daran lassen die Gerichte keinen
+Zweifel.
+
+Es gibt nur eine Feinheit: Wenn das Umgehen zu privaten Zwecken
+geschieht, ist es zwar verboten, aber nicht strafbar. Dann haben die
+Rechteinhaber "nur" einen Unterlassungs- und ggf. Schadenersatz-
+anspruch. Im (zugegebenermaßen unwahrscheinlichen, wenn man sich
+nicht arg blöd anstellt) Fall des Erwischtwerdens droht also eine
+Abmahnung mit einer gesalzenen Anwaltsrechnung.
+
+Wirklich problemlos ist hierzulande nur das Kopieren von DVDs ohne
+Kopierschutz. Die gibt es natürlich durchaus, aber sie sind nun mal in
+der Minderheit.
+
+
+Ivano

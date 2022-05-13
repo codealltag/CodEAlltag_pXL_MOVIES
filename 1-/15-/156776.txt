@@ -1,0 +1,5 @@
+Jemand, der so lange im Netz rumschwirrt, sollte wissen, dass seine Signatur
+falsch abgetrennt ist. Anstatt "--" bitte "-- ".
+
+Regards,
+Sven

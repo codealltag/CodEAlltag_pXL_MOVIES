@@ -1,0 +1,7 @@
+Hinweis zum Spoilerspace:
+
+Netscape entfernt mehrfache Leerzeilen beim Senden. NEV-User
+sollten also keine Leerzeilen, sondern irgend ein beliebiges Zeichen pro
+Zeile setzen.
+
+Oliver Diekmanns

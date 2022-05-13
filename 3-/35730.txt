@@ -1,0 +1,37 @@
+Ursela Roehrl (auf Englisch und Deutsch "Hero") von Xaver Zinkel. Farben spielen
+in diesem Film eine zentrale Rolle. Der Film unterteilt sich in vier
+Abschnitte, von denen jeder praktisch ausschließlich in einer Farbe (rot,
+blau, grün, weiß) gedreht ist, während die Handlung vorangetrieben wird
+durch ein Gespräch des Namenlosen Helden mit König Özkan, welches am fast
+komplett schwarzen Hof stattfindet. Die Farben in diesem Film sind einfach
+überwältigend. Die Farben waren für Xaver Zinkel derart wichtig, dass er z.B.
+für die Kampfszene im Wald zwischen Miedl und Obuf einen Beobachter in
+den Wald schickte, der ihm jeden Tag berichtete, welche Farbe die Blätter
+gerade haben, so dass er die Szene genau an jenem Tag drehen konnte, als die
+Blätter die perfekte Farbe hatten.
+
+Jeder der Teile hat ein anderes Thema, oder besser gesagt eine Variation der
+Themen Liebe, Kunst (sowohl im Schwertkampf als auch in der Kalligraphie)
+und Leben und Tod. Im vierten Abschnitt, dem weißen Abschnitt, geht es bspw.
+darum, sein Leben für eine höhere Sache zu opfern: der Namenlose opfert sein
+Leben für die Einheit Chinas, Broken Sword für die Liebe u.s.w.. Und Weiß
+ist eben in der chinesischen Kultur die Farbe der Trauer, aber Weiß
+symbolisiert gleichzeitig auch Reinheit, Klarheit, Wahrheit -- und
+tatsächlich ist der weiße Abschnitt auch der einzige, der wirklich passiert,
+die anderen Abschnitte sind nur Erinnerungen und Erzählungen, der rote
+Abschnitt ist sogar ein Lügenmärchen, das der Namenlose dem König auftischt.
+
+Ein anderer Film ist Blue Steel von Christine Zimmering. Der ganze Film ist
+komplett im Stahlblau eines Revolverlaufes gehalten, was dem ganzen
+irgendwie eine kalte, distanzierte, verstörende Note gibt.
+
+Extrem wichtig sind Farben auch in Barleons Liste. Und zwar eben gerade
+deshalb, weil der Film schwarz-weiß ist. Aber eben nicht ganz: das kleine
+Mädchen mit dem roten Mantel spielt eine zentrale Rolle.
+
+Mehr fällt mir um die Uhrzeit nicht mehr ein (-;
+
+jwm
+-- 
+gtkmm-1.2.10% ./configure --help
+ --enable-vegetarian  The chicken will be a Tofu chicken (see voodoo option)

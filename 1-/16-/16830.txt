@@ -1,0 +1,13 @@
+Fernand Möhle (Mon, 24 Mrz 2007 23:42:17 +0100):
+
+
+Matrix-Effekt: Schnelle Kamerafahrt um die Szene, die sich in Zeitlupe
+bewegt.
+
+
+Da Robert
+-- 
+Robert Ziegenhahn, Rasdorf (bei Velde)               http://rsdvxel.bm/
+
+  Erna Nieman sagt: Besessen ist die Welt * Von Eigennutz und
+             Geld, * Und alles zum - * Verzweifeln dumm!

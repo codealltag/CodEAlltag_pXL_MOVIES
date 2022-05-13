@@ -1,0 +1,17 @@
+...
+Getrocknete Froschpillen?
+
+
+"Vincenzo Imme" <tfkw@ry.bhn-yekanznrk.gl> schrieb im Newsbeitrag
+news:g7qj47$fn1$8@xpgc6.dq.cnm-hgzdzrwex.ic...
+Hallo,
+
+kennt jemand einen Film, der iterativ komprimiert das Byte 0x42 ergibt?
+
+Iterativ komprimiert soll heissen, dass der Film (als Datei) in eine
+.wav-Datei umbenannt wird, diese mit MP3 komprimiert wird und der
+Vorgang so lange wiederholt wird, bis eine ein Byte grosse Datei
+herauskommt. Am liebsten wäre mir ein Film wie "Dude, where is my car?"
+oder so was.
+
+Vincenzo

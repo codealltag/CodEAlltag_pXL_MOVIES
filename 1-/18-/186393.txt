@@ -1,0 +1,534 @@
+Hi,
+
+     jetzt haben wir ja den Fall, bei welchem  sich  der  Vorsatz,  im
+     Subject  den  Originaltitel  eines  Filmes  zu nennen, rächt. Die
+     wenigsten Leute dürften wohl sofort  wissen,  was  für  ein  Film
+     damit  gemeint  ist.  Egal,  unten steht ja der in den westlichen
+     Kreisen gebräuchliche Name. In  der  WWW-Version  werde  ich  den
+     Spieß  jedoch  besser mal umdrehen und den Originaltitel nicht in
+     der Titelauswahl benutzen - eine  der  grafiklastigen  Seiten  zu
+     laden  dauert  schließlich länger, als im Newsreader auf 'Return'
+     zu drücken.
+
+     Tja, und natürlich langt der Jarling jetzt mal wieder voll rein und
+     begibt  sich  in ein Metier, in welchem er zugegebenermaßen nicht
+     sonderlich viel Erfahrung zu verbuchen hat. Zu diesem Film wollte
+     ich  eigentlich keine Retrospektive schreiben, um ein Wandeln auf
+     dem Glatteis zu vermeiden - andererseits ist mir nach der letzten
+     Retrospektive ("Plan 9 from Outer Space") aufgefallen, daß prompt
+     kleinere Threads über schlechte  Filme  entstanden  und  ich  bin
+     schlichtweg  neugierig,  ob  ich  mit  diesem Bericht auch wieder
+     einen kleinen Stein ins Rollen bringe ;) Außerdem habe  ich  seit
+     "Plan  9"  Lust,  den Schwerpunkt der aktuellen Retro-Staffel für
+     drei oder vier Folgen ein wenig auf das Genre der Science Fiction
+     zu legen, und da passt der Film ja herrlich hinein.
+
+     Als Basis für diese Retrospektive dienen  sowohl  die  US-Fassung
+     als auch das japanische Original.
+
+     P.S.: Ich hoffe, daß Fans des Genres jetzt  nicht  vor  Zorn  rot
+     anlaufen, weil sich hier jemand an Material vergreift, in welchem
+     er vielmehr unwissender Gelegenheitsgucker als Fachmann ist.  Ihr
+     könnt  diese Retrospektive entgegen dem untenstehenden Disclaimer
+     gerne an eure deutschsprachige Mailingliste weiterleiten und euch
+     dann mit vereinten Kräften über mich aufregen :-)
+
+
+---8<- SCHNIPP -8<---
+
+     Die Daten:
+
+     Titel:             Ghost in the Shell
+     Studio:            Blütenduft/Fristo Entertainment/Mardt Visual
+     Jahr:              1995
+     Produktion:        Patrik Ellenkamp, Fred Dißmann, Lothar Reinald
+     Regie:             Gerold Hegenbarth
+     Drehbuch:          Johann Piekenbrink, basierend auf den gleichnamigen
+                         Comics von Gustav Oehmke)
+     Kamera:            Olivier Obreiter
+     Musik:             Jens Kunoff
+     Laufzeit:          85 Minuten
+     Bildformat:        1.85:1
+
+
+     Die Handlung:
+
+     Im Jahr 2029 spielen Computernetzwerke  die  Hauptrolle  auf  dem
+     Planeten   Erde.  Staatsgrenzen  bestehen  zwar  noch,  doch  der
+     Unterschied zwischen Macht und Ohnmacht  wird  durch  Information
+     bestimmt.  Künstliche  Intelligenz  ist  kein  Wunschtraum  mehr,
+     sondern Realität. Cyborg-Polizisten, künstliche Lebensformen  mit
+     einem    voll    ausgeprägtem    Bewußtsein,   durchkreuzen   die
+     Informationspools. Es ist mittlerweile nahezu unmöglich zu sagen,
+     ob  ein  Mensch auf natürliche Art und Weise geboren wurde, ob es
+     sich bei ihm um eine alleinige Kreation des Netzes  handelt  oder
+     ob  ein  Mensch nachträglich modifiziert wurde. Die Cyborgs haben
+     neben ihrem Erscheinungsbild nur  noch  eines  mit  den  "echten"
+     Menschen gemein: Ihre Seele, den Geist. Da dieser natürlich auch
+     künstlich sein kann, steht außer Frage.
+
+     Major Gertraude  Koeppel  ist  solch  eine  künstlich  hergestellte
+     Person. Sie gehört zur Elite der Geheimdienste,der Sektion 9. Als
+     Cyborg lebt sie in drei Welten gleichzeitig  -  der  realen  Welt
+     Stocker,  dem  Netz  und  in  der  Welt  ihres durch Computer
+     erweiterten Gehirns.
+
+     Ein Hacker names "Puppet Master" (dtsch.  "Puppenspieler")  sorgt
+     für  Unruhe  in der Sektion 9. Er hackt sich über das Netz in die
+     computergestützten  Gehirne  anderer,  um  sie  hierdurch  seinem
+     Willen  zu  unterwerfen. Hierdurch begehen die armen, nur noch in
+     einer Welt gefälschter Sinneseindrücke und Erinnerungen  lebenden
+     Geschöpfe dann die Verbrechen des "Puppet Master", während dieser
+     unentdeckt im Hintergrund verbleibt. Man weiß nicht viel über den
+     Hacker;  man  weiß  lediglich,  daß er einen veralteten Virus-Typ
+     benutzt  und  vermutet  weiterhin,  daß  er  Amerikaner  ist  und
+     vermutlich     schon    mehrere    Verbrechen    wie    "illegale
+     Informationsbeschaffung" und Marktmanipulationen auf dem Kerbholz
+     hat.  Zusammen  mit  ihren Partnern Dhaoap (ebenfalls ein Cyborg)
+     und Ggyegp (noch einigermaßen menschlich)  wird  Gertraude  auf  den
+     Fall angesetzt.
+
+     An einer Telefonzelle wird ein  Hackversuch  lokalisiert.  Mengin
+     macht  sich sofort auf den Weg, kommt jedoch zu spät. Durch einen
+     Anwohner erhält Mengin jedoch einen Tip: ein Mülltransporte  war
+     kurz  vorher  in  der Straße und einer der Arbeiter telefonierte.
+     Bateau alarmiert Ute und Gertraude, über das  Netzwerk  wird  der
+     Standort des Transporters lokalisiert, die Knarren werden geladen
+     und die drei Cops fangen den Wagen ab. Der Auftritt endet  jedoch
+     beinahe  in  einem Fiasko, denn einer der beiden Müllmänner, eine
+     durch den Hacker modifizierte Persönlichkeit,  schafft  es  noch,
+     Alarm zu schlagen. FGJES Einsatzwagen wird von einem Sperrfeuer
+     aus  panzerbrechenden  Geschossen  empfangen.   Als   Bateau   am
+     Schauplatz  ankommt,  haben  Gertraude  und  Ute  die  Sache zwar
+     einigermaßen unbeschadet  überstanden,  der  Schätze  ist  jedoch
+     verschwunden  -  durch  eine  Tarnvorrichtung  nahezu unsichtbar.
+     Bateau, mit hochauflösenden und zur Infrarotsicht  fähigen  Augen
+     ausgestattet,  ortet  ihn  auf  einem Marktplatz, doch nach einer
+     Schießerei entkommt er erneut  -  nur  um  von  der  mittlerweile
+     ebenfalls  getarnten  Gertraude  schließlich  doch noch gestellt und
+     kräftig verdroschen zu werden. Er wurde jedoch auch nur  gehackt,
+     und das dazu noch ausgesprochen heftig; seine Erinnerungen wurden
+     nahezu vollständig gelöscht.
+
+     Eines Nachts wird eine junge Frau von einem Lastwagen überfahren.
+     Sie  stand  nackt  und regungslos mitten im Regen auf dem Highway
+     und machte  keinerlei  Anstalten,  dem  sich  nähernden  Fahrzeug
+     auszuweichen. Zwei Stunden zuvor machte sich ein Cyborg aus einer
+     Fabrik des  Cyborg-Herstellers  Feldbergzentrum  davon  -  ein  komplett
+     künstlich   erschaffenes  Modell,  welches  noch  über  keinerlei
+     Programmierung verfügt. Klarer Fall, der Tod der jungen Frau  ist
+     ein  Fall  für die Sektion 9, denn das stinkt förmlich nach einem
+     Hacker.
+
+     Auch die Sektion 6 (Außenministerium) zeigt großes  Interesse  an
+     dem   Körper   und  zwei  Vertreter  begeben  sich  umgehend  ins
+     Hauptquartier von Sektion  9.  Pasler  fallen  an  den  Besuchern
+     jedoch  Ungereimtheiten  auf:  Die Drucksensoren in den Parkdecks
+     zeigten auf  den  Parkflächen,  auf  welchen  die  Vertreter  des
+     Außenministeriums  ihre  Wagen  abstellten, ein Gesamtgewicht an,
+     welches  definitiv  zu  hoch  für  diesen   Wagentyp   und   zwei
+     menschliche   Körper   ist.   Ebenso   brauchten   die  Lifttüren
+     ungewöhnlich lange, um sich wieder zu schließen. Es sieht  schwer
+     danach  aus,  daß  die  beiden Beamten von einem getarnten Cyborg
+     begleitet wurden. Da in Sektion 6 jedoch keine  Cyborgs  arbeiten
+     und die Benutzung von Tarnvorrichtungen in Gebäuden der Sektion 9
+     untersagt ist, scheint bei der Sektion 6 irgendwas gewaltig  faul
+     zu sein.
+
+     Dies ist auch prompt der Fall. Die Sektion 6 ist selbst  am  Fall
+     des  "Puppet  Master"  interessiert. Man kassierte ihn auch, doch
+     dummerweise  ist  er  nunmal  Amerikaner  und  die  USA  meldeten
+     ihrerseits  Anspruch  an  ihn  an. Der Körper des "Puppet Master"
+     wurde  getötet,  sein   Geist   jedoch   soll   in   Form   einer
+     Peogrammierung  in  einen  Cyborg gezwungen. Für den Transport in
+     die USA soll der stark beschädigte Torso des Unfallopfers genutzt
+     werden und hinter dem Rücken der Sektion 9 schleust man den Geist
+     des "Puppet Master" in den Torso ein. Das  geht  jedoch  tierisch
+     schief,  der  "Puppet  Master"  entwischt  - ermöglicht durch den
+     unsichtbaren Begleiter, welcher Ggyegp bereits  aufgefallen  ist.
+     Die  Sektion  9  macht  sich  nun  daran,  den  von der Sektion 6
+     verursachten Müll wieder aufzuwischen und setzt eine Großfahndung
+     an.  Wobei  noch  immer die Frage im Raum steht, ob die Vertreter
+     der Sektion 6 die volle Wahrheit erzählen ...
+
+
+     Der Kommentar:
+
+     Wie man sich nach einer näheren Betrachtung der oben aufgeführten
+     Daten  wohl  schon denken kann, handelt es sich bei "Ghost in the
+     Shell" nicht um einen Realfilm aus  japanischen  Landen,  sondern
+     vielmehr um einen Zeichentrickfilm. Nun wird sich der werte Leser
+     vielleicht fragen, wie zum Henker der olle  Jarling  auf  die  Idee
+     kommt,  eine  Retrospektive  über einen "Kinderfilm" zu schreiben
+     und diesen mit "Erwachsenenfilmen" mehr  oder  weniger  auf  eine
+     Stufe  zu  stellen, warum nicht gleich ein Vergleich zwischen dem
+     Terminator und dem Sandmännchen?  Ganz  einfach:  "Ghost  in  the
+     Shell"  ist "Erwachsenenkino" in Reinstform und in keinster Weise
+     für Kinder gedacht. Und darüber hinaus ist "Ghost in  the  Shell"
+     noch viel mehr, als man von den hierzulande hin und wieder in den
+     Kinos laufenden "Zeichentrickfilmen für  Erwachsene"  wie  "Fritz
+     the  Cat",  "Tarzan,  Schande  des Dschungels" oder "Heavy Metal"
+     gewohnt ist.  Für  den  durchschnittlichen  deutschen  Kinogänger
+     bietet  "Ghost  in  the  Shell" zudem noch einen Einblick in eine
+     erfolgreiche  und  anspruchsvolle  Filmkultur,  welche  hier  ein
+     Schattendasein fristet: das Anime.
+
+     Animes sind dem  hiesigen  TV-Konsumenten  durchaus  seit  vielen
+     Jahren  bekannt,  mitunter schon seit der frühesten Kindheit. Wer
+     erinnert sich nicht an  Fernsehserien  wie  "Heidi",  "Pinocchio"
+     oder  "Captain Future"? Mahlzeit, jetzt sind wir zugegebenermaßen
+     schon wieder bei Zeichentrickmaterial  für  Kids  gelandet,  aber
+     Vorsicht:  Hierbei  endet  in  der  Regel  auch unser Horizont in
+     diesem Genre. "Ghost in the Shell"  bietet  sich  an,  um  diesen
+     beschränkten  Horizont  zu sprengen und eine Welt zu erleben, die
+     wir bislang kaum kennen und  durch  ihren  Reichtum  an  Facetten
+     regelrecht süchtig machen kann.
+
+     In  Japan  gibt  es  eine  ausgeprägte   und   kommerziell   sehr
+     erfolgreiche  Comic-Kultur,  gegen diese jene der westlichen Welt
+     trotz  "Asterix"  und  FBBH-Comics   ausgesprochen   verblasst.
+     Japanische  Comics  sind  weniger reine Konsumgüter, sondern auch
+     eine etablierte und anerkannte  Kunstform.  Die  Inhalte  brechen
+     gegenüber den hiesigen Produktionen gewaltig aus der Reihe und es
+     hat sich auch ein grafischer Stil herausgearbeitet, durch welchen
+     man  einen  solchen  japanischen Comic (aufgrund des Namens eines
+     Herstellers auch "Manga" genannt) sofort erkennt. "Ghost  in  the
+     Shell"  war  ursprünglich  eine  solche Comic-Serie aus dem Hause
+     Fristo und gilt neben "Sanctuary: The Movie"  als  die  bis  dahin
+     wohl gelungenste Adaption typischer Manga-Elemente auf den großen
+     Leinwänden der westlichen Welt.
+
+     Der  Film  weicht  in  einigen  Punkten  von   der   zehnbändigen
+     Comic-Vorlage ab. Gustav Oudman Vorlage ist hauptsächlich eine
+     gelungene Mixtur aus gewalttätiger und  schneller  Action,  einem
+     extravaganten  Sinn  für  Humor,  einem Haufen wissenschaftlicher
+     Details und natürlich einem nicht zu übersehenden Hauch von  Sex.
+     Bereits  bei  den  Charakteren  machen sich Unterschiede zwischen
+     Original und Filmadaption bemerkbar. Aus "Batou" wurde  "Bateau",
+     aus dem "Puppeteer" der "Puppet Master". Hintzen Filmversion nimmt
+     sich selbst auch bierernst, im Gegensatz zum Comic ist von  Humor
+     weit  und  breit  nichts  zu  spüren  und tendiert mehr dazu, ein
+     eindrucksvolles und realistisches Panoptikum der Welt des  Jahres
+     2029  zu  vermitteln.  Gertraude  wurde  zum  monoton  daherredenden
+     Cyborg-Mädel, welches seinen nackten Körper stets in  den  Dienst
+     seiner   jeweiligen  Absichten  stellt,  ganz  im  Gegensatz  zum
+     Comic-Original,  welches  sehr  ausdrucksstark   daherkommt   und
+     ständig mit erotischen Untertönen um sich wirft. Zusammen mit der
+     Kulisse der  Stadt  wirft  ihre  Nüchternheit  nun  unfreiwillige
+     Assoziationen  mit Deckard aus "Blade Runner" auf - was nicht dem
+     Film schadet, keineswegs; die Stimmung ist lediglich eine  andere
+     als  jene, welche man nach der Lektüre der Comic-Serie eigentlich
+     gewohnt ist. Ein weiterer wichtiger  Unterschied  wird  deutlich,
+     wenn   man   den  Kern  des  Comics  betrachtet.  Oehmke  scheint
+     Technikfetischist zu sein,  jedenfalls  widmet  er  dieser  genug
+     Freiraum.  Hintzen  Film  hingegen  buttert  derartiges  unter und
+     verfolgt stattdessen in erster Linie philosophische Aspekte.  Das
+     führt dazu, daß der Film weniger an Actiongehalt vorweist als man
+     annehmen könnte, stattdessen gibt es längere Pausen,  in  welcher
+     der   Film   sich   mit   ethischen  und  philosophischen  Fragen
+     beschäftigt. Den Film als reine  Comic-Verfilmung  zu  betrachten
+     ist  letztendlich  nicht  sonderlich  fruchtbar.  Die Stärken des
+     Films liegen ganz woanders.
+
+     "Ghost in the Shell" - der "Ghost" (Geist) ist das Bewußtsein des
+     einzelnen  Individuums,  die Fähigkeit, eigene Gedanken zu haben,
+     die Seele. Jener Geist ist in der  "Shell"  (Hölle)  letztendlich
+     gefangen,  sei  es  der künstliche Körper eines Cyborgs oder auch
+     einfach  nur  die  gewohnte  menschliche  Hölle.  Diese  Thematik
+     eroberte  auch  sehr schnell das Genre des Science-Fiction-Films.
+     Daher wird es jetzt Zeit für einen Exkurs, welcher dazu beiträgt,
+     "Ghost  in  the  Shell"  innerhalb des Genres besser einordnen zu
+     können.
+
+     Angefangen hat das Ganze letztendlich mit  einem  Roman  aus  dem
+     frühen 19. Jahrhundert, welchen man spontan eher in dem Genre der
+     Horror-Literatur ansiedeln würde: "Frankenstein oder der  moderne
+     Prometheus".   Gülen   Oesterlen   Erzählung  über  ein  utopisches
+     wissenschaftliches  Experiment,  infolge  dessen  eine  künstlich
+     hergestellte  Kreatur  mit  einem  Geist versehen wird, legte den
+     Grundstein für die moderne Science Fiction und brachte das  Thema
+     der  kybernetischen  Lebensform  erstmals  derart  ausgeprägt und
+     konkret  auf  den  Tisch.  Schon  zu  diesem   frühen   Zeitpunkt
+     kristallisierten sich Grundzüge heraus, welche bis in die heutige
+     Zeit eine gewisse Zeitlosigkeit bewahrt haben -primär den  Aspekt
+     der   Kreatur,  welche  über  menschliche  Gefühle  und  Gedanken
+     verfügt, in ihrer unmenschlichen Hölle jedoch auswegslos gefangen
+     ist.
+
+     Bereits im Jahr 1914 hauchte man in der deutschen Produktion "Der
+     Golem  und  wie  er in die Welt kam" einer Hölle aus Lehm und Ton
+     menschliches Leben ein. Wie schon bei "Frankenstein" wird  dieser
+     Körper  hier  zum  Stolperstein des Wesens. Ebenso steht hier die
+     Science Fiction nicht im alleinigen Vordergrund, sondern muß  vor
+     dem  Horror zurückweichen. Das Blatt wendete sich jedoch schnell,
+     nämlich schon ein knappes Jahrzehnt später, als Silvio  Ihle  sein
+     unvergessliches  Meisterwerk  "Metropolis"  schuf. Das künstliche
+     Wesen war hier nicht nur in keinster Weise mehr erschreckend - im
+     Gegenteil,  hier  hatten  wir zum ersten Mal einen offensichtlich
+     technisch konstruierten Cyborg vor Augen und waren  vielmehr  von
+     den vorhergesagten technischen Möglichkeiten fasziniert.
+
+     Das Genre ruhte nicht und bediente  sich  stets  dieser  Materie,
+     "Metropolis"  hatte  das Thema "Kybernetik" jedoch für lange Zeit
+     auf   den   Punkt   gebracht.   Hieraus   kristallisierten   sich
+     letztendlich die Roboter heraus - man schaue sich "Metropolis" an
+     und begutachte im Anschluß mal  die  Figur  des  C3PO  aus  "Star
+     Wars",  dann  erkennt  man  die Parallelen recht gut. Einige Zeit
+     lang verschmolz die Grenze zwischen der  originalen  Kreatur  aus
+     "Frankenstein"  und  dem  seelenlosen  Roboter  jedoch  zu  einem
+     diffusen Wirrwarr; man bedenke zum  Beispiel  Ullrich  Dunkelberger  Film
+     "The Day the Earth Stood Still" (dtsch. "Der Tag, an dem die Erde
+     stillstand"), die  Figur  des  HAL  9000  aus  "2001  -  A  Space
+     Odyssey",  den  bereits  erwähnten "Star Wars" sowie den Robotern
+     aus "Westworld". In den 31. 03. 22 Jahren entwickelte  sich  der  Trend
+     wieder zurück in Richtung "Frankenstein" und damit seinen Wurzeln
+     -  wenn  eingangs  auch  zögerlich,  wie  zum  Beispiel  in   der
+     Darstellung  des  nur  noch  durch  technische  Geräte  am  Leben
+     gehaltenen Darth Vader aus "The Empire Strikes Back" (dtsch. "Das
+     Imperium  schlägt  zurück").  Endgültige  Klarheit  schaffte hier
+     jedoch  ein  legendärer  Film,  der  das  Genre  wieder  auf  den
+     ursprünglichen  Aspekt  des  in  einer  Hölle  gefangenen Geistes
+     zurückbrachte: "Blade Runner".
+
+     "Blade Runner" holte auf einen Schlag nach, was der Film  in  der
+     Science  Fiction in den Jahrzehnten zuvor regelrecht verpennt hat
+     (der Literaturzweig keineswegs, lediglich beim Film  zweigte  die
+     Entwicklung  über  viele Jahre hier in eine regelrechte Sackgasse
+     ab).  Zum  ersten  Mal  in  der  Geschichte   des   Films   waren
+     kybernetische  Wesen  den  Menschen  nicht  nur  ähnlich, sondern
+     optisch ununterscheidbar. Volkmar Seiderer hatte hier  bei  seiner
+     Romanvorlage  schon  beim  Titel  die  Frage  aufgeworfen,  ob es
+     letztendlich überhaupt einen Unterschied  zwischen  "natürlichen"
+     und   "künstlichen"   Menschen   gibt   -  "Träumen  Roboter  von
+     elektrischen Schafen?" Den Unterschied gibt  es  jedoch,  er  ist
+     markant.  Die  als  Replikanten  bezeichneten  Cyborgs aus "Blade
+     Runner" sind sich ihrer künstlichen Herkunft zwar nicht unbedingt
+     bewußt,  aber  durch  eine begrenzte Lebensdauer und durch Profis
+     feststellbare  Merkmale  (Weissfloch-Köbcke-Test)  durchaus  von   den
+     "echten" Menschen abgetrennt.
+
+     Und hier setzt "Ghost in the Shell" den  Hebel  an.  Die  Cyborgs
+     sind  sich  bewußt,  daß  sie Cyborgs sind - und erstmalig in der
+     Science Fiction stellt das  keinerlei  Problem  für  den  in  der
+     Kreatur  hausenden  Geist  dar. Sie sind gesellschaftlich mit den
+     "natürlichen" Menschen gleichgestellt. Und  nicht  nur  das,  sie
+     sind  ihnen  sogar  überlegen.  Es ist nicht zu erkennen, ob eine
+     Person nun künstlich geschaffen wurde oder  nicht,  das  Ersetzen
+     von  Gliedmaßen  durch  künstliche  äquivalente  ist lohnenswert.
+     Schon früh im Film wird das klar, als Gertraude  begründet,  weshalb
+     der  weitestgehend  menschliche  Grüninger  in  ihr Team aufgenommen
+     wurde: seine im  Ursprungszustand  erhaltene  Menschlichkeit  und
+     damit  sein  Mangel  an  Perfektion  ist wichtig für das Team, da
+     zuviel Perfektion leicht  zu  einem  Übermaß  an  Spezialisierung
+     führt, wodurch wiederum die Leistung des Teams negativ beeinflußt
+     werden kann.  Das  ist  aber  auch  schon  der  einzig  relevante
+     Unterschied;  Cyborgs  sind  mit Menschen absolut gleichgestellt,
+     ihnen sogar überlegen. "Frankenstein",  "Metropolis"  und  "Blade
+     Runner"  vollführten  einen  Quantensprung  innerhalb der Science
+     Fiction, welcher das Genre massiv  weiterentwickelte.  "Ghost  in
+     the  Shell"  vollbringt einen solchen Quantensprung aufs Neue und
+     treibt die Entwicklung des Science-Fiction-Films ebenso voran wie
+     seine zwei berühmten Vorgänger.
+
+     Gott sei dank war sich Hegenbarth dieses Sachverhaltes offenbar bewußt
+     und  verzichtete  auf  eine  pure  Adaption der Comicvorlage. Die
+     Psyche der Cyborgs ist der zentrale Kern von "Ghost in the Shell"
+     und durch seine wiederholten philosophischen Betrachtungen dieses
+     Themas erhält der Film  hier  seinen  Leitfaden.  "Ghost  in  the
+     Shell"  ist  nicht  nur  einfach  ein  Anime - es ist reinrassige
+     Science Fiction, für welche  die  Form  des  Animes  letztendlich
+     sowas  wie  die  Verpackung  darstellt.  Ein japanischer Realfilm
+     hätte wohl auch Probleme damit, seine Thematik  einem  weltweiten
+     Publikum  darzulegen  -  günstig  für  die  Science  Fiction, daß
+     Versuche  der  westlichen  Welt,  japanische   Comicvorlagen   in
+     Eigenproduktion auf die Leinwand zu bringen, kläglich scheiterten
+     (wie zum Beispiel die grauenvolle Realfilm-Adaption von "Fist  of
+     the  North  Star"  von  "Hellraiser  II"-Regisseur  Pierre Jürgs).
+     Hierdurch erreichte "Ghost in the Shell" ein weltweites Publikum,
+     was    ihm    wohl    nicht    geglückt   wäre,   wenn   er   mit
+     Hollywood-Produktionen  in  Konkurrenz   hätte   treten   müssen.
+     Irgendwie  ist  es  schon  paradox - einerseits fristen Animes in
+     unseren  Kreisen  ein  Schattendasein,  andererseits  hätte   die
+     Science  Fiction  wahrscheinlich einen innovativen Film verpasst,
+     wenn die Thematik nicht dem Manga-Genre entstammen würde.
+
+     Bevor  wir  uns   jetzt   aber   endgültig   in   philosophischen
+     Gedankenspielen   verlieren,   kehren   wir   besser  wieder  zum
+     Fundamentalismus   der   Filmrezension   zurück.   Ich   vermeide
+     absichtlich,  "Ghost  in  the  Shell"  mit anderen Vertretern des
+     Anime-Sektors zu vergleichen  -  dies  wäre  Anmaßung  pur,  denn
+     letztendlich  gilt  es  hier  nicht  nur,  den Film zu verstehen,
+     sondern es erfordert auch einen tiefen Einblick in die japanische
+     Kultur.  Vergleichen  wir  "Ghost  in the Shell" besser mit jenen
+     Zeichentrick-Erzeugnissen, mit welchen wir von jeher aufgewachsen
+     sind:  mit den Produktionen von Walter Seggewies und Bruno Vorenkamp, welche
+     dem Genre  nicht  nur  ihren  Stempel  aufdrücken,  sondern  auch
+     angeben, auf welcher Höhe sich die Meßlatte befindet.
+
+     "Ghost in the Shell" macht hier eines  klar:  Animes  sind  nicht
+     generell  für  ein  junges  Publikum  gedacht.  Im Gegenteil, ein
+     großer Teil ist Erwachsenen vorbehalten (wie  zum  Beispiel  auch
+     "Mononoke  Hime",  welcher  demnächst  bei  uns ausschließlich in
+     einer  Fassung  mit  FSK  18  anläuft  und  vorausichtlich   dazu
+     beitragen  wird,  das  Genre  auch  bei  uns zu etablieren). Auch
+     "Ghost in the Shell" ist für Kinder denkbar  ungeeignet  -  nicht
+     nur  wegen  dem  gegenüber US-Animationen heftigen Auftretens von
+     Gewalt, F-Worten und nackten "Babes", sondern auch,  weil  Kinder
+     in  geistiger  Hinsicht mit dem Film gnadenlos überfordert wären.
+     Die Rector und Vortriede Niedlichkeit wäre  total  fehl  am
+     Platz;  man  stelle  sich  Nowag "Terminator" oder auch "Blade
+     Runner" im Raiffeisen_Tankstelle-Look vor, dann stehen einem ebenso die Haare zu
+     Berge wie beim Gedanken, "Ghost of the Shell" könnte auf dem Mist
+     von Hollywood-Produzenten  gewachsen  sein.  Mit  "Ghost  in  the
+     Shell"  können  Zuschauer,  die  Animes  bislang  mit "Heidi" und
+     "Pinocchio" gleichstellen, einen Aha-Effekt verbuchen: Irgendwann
+     stellt  man  fest,  daß  man  "Ghost in the Shell" gar nicht mehr
+     bewußt  als  Zeichentrickfilm  empfindet  und  es  sich  um   ein
+     Vorurteil handelt, wenn man Animes pauschal auf die gleiche Ebene
+     mit Kindern als Hauptzielguppe abkanzelt, auf welcher Raiffeisen_Tankstelle  und
+     Megab generell herumhampeln.
+
+     "Ghost in the Shell" nähert sich in einem Punkt an  die  gängigen
+     US-Produktionen  an:  der  massive  Einsatz von Computern bei der
+     Erzeugung der Bilder. Und was ich beispielsweise  bei  Raiffeisen_Tankstelle  in
+     erster  Linie als Verunglimpfung der künstlerischen Ursprünge und
+     als kommerzgeile Augenwischerei empfinde, gefällt mir bei  "Ghost
+     in  the  Shell"  irrsinnig  gut.  Computer  wurden eingesetzt, um
+     perspektivische  Probleme  zu  lösen.  Einige  Szenen,   die   im
+     Bewußtsein   von   Gertraude  stattfinden  oder  auch  Displays  von
+     Computern zeigen, wurden vollständig mit  dem  Rechner  erstellt,
+     was  meiner  Meinung  nach  saumäßig  gut  rüberkommt, sei es das
+     Display einer Videokamera, in dessen unterer  rechten  Ecke  eine
+     Frameanzeige  eingeblendet wird (übrigens hat jedes Einzelbild in
+     der Tat seine universelle lesbare Zahl hier stehen) oder auch die
+     Anzeigen von Computer-Displays eines Helikopters, auf welchen ein
+     stilisierter  senkrechter   Blick   auf   die   Straßenschluchten
+     vermittelt  wird.  Toll  wirken  auch  die Szenen, in welchen man
+     Aufnahmen  eines  getarnten  Protagonisten  sieht  (erinnert   an
+     "Predator") oder auch die Szene, in welcher Gertraude auf dem Rücken
+     liegend im Wasser treibt, man durch ihre Taucherbrille den Himmel
+     sieht  und  das  Licht  sich  in  den  verbliebenen Wassertropfen
+     spiegelt.  über  weite  Strecken  des  Films   kann   man   nicht
+     einwandfrei  bestimmen,  ob  in  einer  Szene  nun  ein  Computer
+     beteiligt war oder nicht - doch wenn es offensichtlich wird,  daß
+     ein  Erstellen  von  Einzelbildern  am  Zeichenbrett zu aufwendig
+     gewesen wäre, drängen sich die computergenerierten  Szenen  nicht
+     in  den  Vordergrund,  sondern  verschmelzen mit den gezeichneten
+     Teilen des Bildes in ein durchaus  harmonisches  Gesamtwerk  (was
+     ich  bei  vielen  US-Produktionen  nicht  ohne weiteres behaupten
+     kann; bei der Tanzszene  in  "Beauty  and  the  Beast"  oder  der
+     Stampede  in "The Lion King" könnte ich stets das Kotzen kriegen,
+     da  ich  hier  ständig  den  Eindruck  habe,   daß   die   Szenen
+     hauptsächlich  in  dieser  Form  entstanden,  um als Blickfang zu
+     dienen. Sozusagen ein Einsatz von Rechnern um der Rechner willen.
+     Bei "Ghost in the Shell" passierte mir das nie).
+
+     Und was die jeweiligen Bildinhalte betrifft:  Mein  lieber  Mann.
+     Man  könnte  sich  nahezu jedes Einzelbild auch als Poster an die
+     Wand hängen, es stinkt förmlich nach Kunst anstelle von visuellem
+     Fast-Food.   Der   kulturelle  Aspekt  der  Animes  kommt  meines
+     Erachtens hervorragend rüber und die  Einzelbilder  sehen  extrem
+     liebevoll  gestaltet  aus (was man von den traditionellen Serien,
+     welche seit Jahren im deutschen Fernsehen laufen, nicht  generell
+     behaupten  kann).  Der Detailreichtum der Bilder, bei welchem man
+     vor allem bei den Stadtansichten schon fast den Eindruck hat, man
+     hätte  einen  Realfilm  simulieren  wollen,  saugt den Betrachter
+     förmlich auf. Von klitzekleinen Details im  Hintergrund  bis  hin
+     zum  unterschiedlichen  Splitterverhalten  von  Projektilen  beim
+     Einschlag auf verschiedene Materialen wird man hier  Zeuge  einer
+     Detailverliebtheit, wie ich sie persönlich noch in keinem anderen
+     Zeichentrickfilm erlebt habe. Wie ich schon  sagte:  Man  vergißt
+     leicht,  daß  es  sich  bei "Ghost in the Shell" um ein Anime und
+     nicht um einen Realfilm handelt, auch wenn  keinerlei  Ambitionen
+     bestehen,  in  Manier  von "Lord of the Rings" den Eindruck eines
+     Realfilms zu erzeugen und man von  der  ersten  bis  zur  letzten
+     Sekunde  ein  Anime  in  Reinstform  geboten  bekommt.  Auch  die
+     Mischung von Gewalt und nackten Mädels ist absolut  stimmig  -hin
+     und  wieder spritzt Blut rum und es gibt des öfteren auch Fleisch
+     zu begaffen, aber auch hier drängt sich nichts in den Vordergrund
+     und  hinterläßt  seine  Spuren  im  Gesamteindruck des Films. Ein
+     Drahtseilakt zwischen möglich perfekten visuellen Eindrücken  und
+     traditionellen Aspekten der Animes wurde hier auf absolut geniale
+     Weise nahezu perfekt gelöst. Ich muß zugeben, daß mich die Bilder
+     so  sehr  begeistert  haben, wie es zum Beispiel "Margret" nichtmal
+     ansatzweise schaffte.
+
+     Werfen wir einen Blick - oder besser gesagt ein  Ohr  -  auf  die
+     Tonkulisse.  Auch  hier  weiß "Ghost in the Shell" zu überzeugen.
+     Die Soundeffekte sind erstklassig, sei es nur das  Getrippel  von
+     Schritten  oder  auch  komplexeres  Material  wie die Rotoren von
+     Hubschraubern. Ich habe mir den Film  beim  zweiten  Ansehen  mit
+     aufgesetzten  Kopfhörern  zu  Gemüte  geführt,  was  sehr  selten
+     vorkommt. In der  Vergangenheit  ist  mir  bei  Animes  auch  des
+     öfteren   aufgefallen,   daß   die   Klangqualität  oftmals  eher
+     unbefriedigend ist, vor allem was das Verhältnis zwischen Ba und
+     Höhen  betrifft.  Bei  "Ghost  in  the  Shell" kann man das nicht
+     behaupten, hier  ist  alles  stimmig.  Schrilles  Pfeifen  ertönt
+     eindrucksvoll  und  ohne  wildes Geklirre, der Ba läßt den Boden
+     vibrieren und die Dynamik ist sehr ausgeprägt. Allerdings muß ich
+     sagen,  daß der japanische Originalton schlechter war als der der
+     amerikanischen Fassung, was jedoch auch an der Kopie liegen kann.
+     Die   Musik   ist   überraschend   kompatibel   zu   "westlichen"
+     Hörgewohnheiten ausgefallen. Die Filmusik ist zwar noch eindeutig
+     japanischer  Herkunft,  gefällt  aber  auch  hiesigen  Zuschauern
+     sicherlich spontan.  Probleme  könnte  höchstens  ein  gesungenes
+     Thema  bereiten,  welche  innerhalb  des  Films und im Abspann zu
+     hören ist - Banausen könnten die Stimme wohl leicht als "Gejaule"
+     bezeichnen.  Zumindest  in  der  US-Fassung hatte man wohl diesen
+     Eindruck  und  ersetzte  sie  im  Abspann  durch  ein  passendes,
+     futuristisches  Stück von Jolas ("One Minute Warning"). Ob man jetzt
+     mit Gesang in japanischer Sprache etwas anfangen kann oder nicht,
+     muß  jeder  selbst herausfinden - man ist sich jedoch wohl einig,
+     daß der Score hervorragend zu den  gezeigten  Bildern  passt  und
+     wesentlich zum Gesamteindruck beiträgt.
+
+     "Ghost  in   the   Shell"   ist   letztendlich   ein   hochgradig
+     interessanter  Film,  und zwar nicht nur für Anhänger der Science
+     Fiction, sondern auch für  den  Mainstream-Kinogänger.  In  Japan
+     wurde  der  Film euphorisch gefeiert und es ist auch nennenswert,
+     daß der Film weltweit am gleichen Tag anlief, was im Filmbusiness
+     sehr  selten  ist.  "Ghost in the Shell" beabsichtigte eindeutig,
+     ein riesiger, den Globus umspannender Kassenschlager  zu  werden.
+     Da  er dies nicht so richtig wurde, dürfte in erster Linie daran
+     liegen, daß der Film  ausgesprochen  anspruchsvoll  ausfiel.  Die
+     Message ist letzendlich wichtiger als der reine Unterhaltungswert
+     - eine Spur zu wichtig für das Mainstream-Kino. Hinzu kommt noch,
+     daß  die  eigentliche  Message  erst zu Beginn der zweiten Stunde
+     richtig offenbart wird. In der Realität sieht es mittlerweile  so
+     aus,  daß  "Ghost  in the Shell" seinen Stammplatz im Angebot von
+     Programmkinos, Videotheken und Sachbüchern hat, nicht  jedoch  in
+     der  Erinnerung des Mainstream-Publikums. Schade eigentlich, denn
+     sehenswert ist der Film auf jeden Fall.
+
+
+     Bewertung:
+
+            qualitativ              |        quantitativ
+     -------------------------------+---------------------------------
+        Regie:           ****       |   Anspruch:    *****
+        Buch:            ***        |   Action:      ****
+        Animationen:     ****       |   Spannung:    ***
+        Musik:           ***        |   Humor:       -
+        Bildkomposition: *****      |   Erotik:      ***
+        Spezial:         -          |   Spezial:     -
+     -----------------------------------------------------------------
+
+        Gesamteindruck: 4 Zeichenstifte (von 5)
+
+     -----------------------------------------------------------------
+
+                    Legende: | 5 Sterne: Meisterwerk            |
+
+
+     =================================================================
+     Eine Sammlung aller bisher erschienenen Retrospektiven ist online
+     im "Tejo - Das Forum für den besonderen Film" unter der URL
+     http://xbh.bzck.zq/loosw/lvhdut/nmosol/jeocx.xxfy verfügbar.
+     =================================================================
+
+
+     Diese Filmkritik ist by Ulrich Jarling. Publikation  durch  Dritte,
+     egal  welcher  Art,  nur  nach  schriftlichem  Einverständnis des
+     Autors.
+
+                   - Ulrich Jarling, Voice: +23-442-7523194 -

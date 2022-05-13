@@ -1,0 +1,3 @@
+Auch wenn Uwe vermutlich nichts dafuer kann wie sein Mailserver
+konfiguriert wird, ist es nicht schoen, wenn eine Moderationsadresse
+durch eine nicht gewartete Dialup-Filter-Liste unbenutzbar wird.

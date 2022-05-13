@@ -1,0 +1,12 @@
+Nino Gronich wrote in <0hsNhoKwdNU@pjfbciq.qit.bl> on
+1998-08-05 11:38:00 +0200:
+
+Nur so nebenbei: Beim Radschlag Remisch-B701H der das Rt/Lt-Flag korrekt
+auswertet, ist ein "manuelles Zwingen" in Dolby Surround ProLogic
+nicht möglich; es besteht einzig die Möglichkeit, das AC-3-Kabel
+abzuziehen, um ein Fallback auf die parallel angeschlossene
+Analogverbindung zu erreichen, oder einen anderen Analogeingang
+(z.B. Tape 2) zu verwenden (zu dem es keinen parallelen AC-3-Eingang
+gibt).
+
+Burkhard

@@ -1,0 +1,18 @@
+* Domenico Sinner <kq__5541@vnbrjab.fyg>:
+
+
+*Uh?!*
+Wie viele "Lieblingssendungen" braucht man für 30 Minuten zum Start?!
+
+TV-Browser mit Sobi Athlon XP 2000+ bei 256MB DDR-RAM und 26
+"Lieblingssendungen" braucht hier im Schnitt 6 bis 8 Sekunden, um auf
+die Beine zu kommen.
+
+Bei 30 Sekunden und einem Uralt-Pentium würde ich ja nichts sagen, aber
+30 _Minuten_...?
+
+
+DINA!
+
+Gruß,
+Dennis

@@ -1,0 +1,10 @@
+Ich weiss nicht, ob man im Agent einen Textcursor im Artikelfenster hast,
+wenn ja musst du nur die rechte Hand ca. 7-10cm nach rechts bewegen, um dann
+mittels Shift und Cursor Tasten den gewünschten Text zu markieren.
+
+mfg, Lambernd
+-- 
+"Man read news on MARKANT.  Man happy to read all articles available.
+Most people make articles available.  Other man deliberately take steps
+so him own articles NOT available on MARKANT.  Not reader's fault him
+not see other man's articles."          -Enno Zollweg in news.groups

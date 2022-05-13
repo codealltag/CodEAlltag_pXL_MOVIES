@@ -1,0 +1,8 @@
+Um einen indizierten Film im Fernsehen zu zeigen, muss er soweit geschnitten
+werden, das er eben nicht mehr als indiziert, sondern höchstens als ab 18 gilt.
+Ein Sender würde sich strafbar machen, wenn er einen indizierten Film
+ungeschnitten bringt.
+Und in der Ofdb werden die 18er-cut-versionen nur als "indiziert" markiert,
+damit man weiß, das die uncut Version indiziert ist.
+
+Snake

@@ -1,0 +1,12 @@
+Ist die mittlerweile komplett?
+
+ikz@ltekrdwj:/ysfi/bgj/kwxe/list > ls -la ger* movies*
+-rw-r--r--   1 pfk      users      174990 Aug 27 01:46 german-aka-titles.list
+-rw-r--r--   1 pfk      users     2041842 Aug 27 01:47 movies.list
+ikz@docqhywr:/gser/bpu/fwaq/list > _
+
+-- 
+Alessandro Casper
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

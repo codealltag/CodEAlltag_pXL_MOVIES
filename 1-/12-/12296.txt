@@ -1,0 +1,29 @@
+25.04.2007 13:47, Rudolf Lampe:
+
+
+Dass die Erde sich gegenüber der Sonne bewegt und somit auch jedes 
+Raumschiff, das von der Erde aus startet, mag man manchmal vergessen, 
+aber ist eigentlich Allgemeinwissen. Was bleibt, ist abzuschätzen, wie 
+schnell sich die Erde um die Sonne bewegt (relativ zur Sonne).  Hierzu 
+muss man jedoch nur den Abstand Sonne-Erde kennen und kann aus Umfang = 
+2*pi*Radius und der Umlaufzeit (1 Jahr) die durchschnittliche 
+Geschwindigkeit recht einfach ermitteln. Viele haben das sicherlich auch 
+bereits in der Schule mal ausgerechnet. Wenn man aufmerksam ist, kann 
+man noch die Geschwindigkeit abschätzen, die ein startender Flugkörper 
+durch die Erdrotation mitbekommt (hier ist der Radius der der Erde und 
+die Umlaufzeit 1 Tag) - um festzustllen, dass diese verglichen mit der 
+Bahngeschwindigkeit der Erde klein ist. Dass man in der Raumfahrt 
+sogenannte Swing-By-Manöver fliegt um Flugkörper abzubremsen und zu 
+beschleunigen und ähnliche Dinge aus der Raumfahrt erfährt man, wenn man 
+aufmerksam die entsprechenden Berichte über die diversen Raumsonden in 
+Zeitungen liest - da wird das oft insbesondere im Wissenschaftsteil 
+zumindest ansatzweise erklärt. Man muss also nicht Astronomie oder 
+Physik studiert haben, nicht mal das Lesen spezieller Literatur ist 
+nötig - es reicht, wenn man sich ein wenig für solche Fragen 
+interessiert. Davon mal abgesehen, auch wenn ich jetzt dem ein oder 
+andern auf den Schlips trete, bin ich der Meinung, dass das eigentlich 
+jeder wissen sollte, der ein Abitur in der Tasche hat - oder es sollte 
+ihm zumindest wieder einfallen, wenn es jemand anderes erwähnt.
+
+Gruß,
+Mathias

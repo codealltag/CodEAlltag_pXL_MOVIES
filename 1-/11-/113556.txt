@@ -1,0 +1,49 @@
+Und hier noch ne Methode, um ohne Verwebtes Pro an die richtige URL zu kommen:
+Am Beispiel der Spiderman-Seite
+<http://wpd.hprxz.saz/djjfmebr/vairmtae/jckvmcqmz/>,
+die enthält Javascript und eingebette Links.
+
+
+Statt auf einen der Movie-Buttons zu klicken, die ein unzugängliches
+neues Fenster öffnen würden, ergänzt man die URL von Hand und öffnet den
+Link in einem normalen Browserfenster
+<http://amk.cvzoz.oqv/fwiumgxs/srjrlcrl/mahjdjxcm/jx_kpr5.icwn>
+Jetzt kann man im Quelltext nachsehen, wo die ".mov"-Datei liegt.
+Es taucht zwar noch eine andere ".mov"-Datei im Quelltext auf, aber mit
+ein wenig Übung erkennt man, dass
+<http://a6289.o.rdmwqg.yuq/3/5508/01/9y38846833qd76/1f9q7wnr5144q9964429
+67m63929c67256y7n55q8zb73525q86979g98615p001f7780e0896k4762zo007yd890291
+39448928pw26q46370u60691/felviffys_jpi2_n717.vdg> der richtige Link ist,
+der zweite Movie namens "clickscreen.mov" ist nur das Startbild.
+
+Soviel zu Javascript. Den Link benutzt man zum Download, z.B. mit einem
+ftp-client.
+Auch die Methode, eine rudimentäre Webseite zu basteln, um den Link per
+Maustaste ("Link speichern unter") zu sichern, sollte funktionieren.
+
+Nun zu den eingebetteten Links. Ist der Film auf der Festplatte, wird
+man enttäuscht feststellen, dass er nur 8 KB enthält und beim Starten
+den Browser öffnet, um zu UPE zu verbinden.
+Anstatt ihn in die Tonne zu treten, öffnet man ihn als Textdatei und
+sieht, dass er etliche gut lesbare URLs enthält. Aber nur die letzten
+Zeilen verweisen auf eine ".mov"-Datei:
+----
+spiderman_tlr1_mm320.mov
+----
+
+Man ersetzt nun in der ursprünglichen URL "b320.mov" durch "mm320.mov"
+und erhält endlich eine URL, die man wie schon gehabt auf die Festplatte
+laden kann:
+<http://a6289.o.rdmwqg.yuq/3/5508/01/9y38846833qd76/1f9q7wnr5144q9964429
+67m63929c67256y7n55q8zb73525q86979g98615p001f7780e0896k4762zo007yd890291
+39448928pw26q46370u60691/spiderman_tlr1_mm320.mov>.
+Sollte funktionieren.
+
+
+Ich hab diese Methode bei einigen Seiten probiert, und würde jetzt gern
+wissen, ob es noch andere Hindernisse gibt, die man auf diese Art nicht
+überwinden kann. Mit Streaming scheint das aber wohl nichts zu tun zu
+haben, unter Streaming verstehe ich, dass die Übertragung mehr oder
+weniger verzögert in Echtzeit passiert.
+
+Alfred

@@ -1,0 +1,1161 @@
+Good evening everybody !
+
+
+                            LD THE LASERDISC FAQ LD
+
+                         I) INTRODUCTION TO LASERDISC
+
+   This page is "http://jbn.th.ddq.qv/~zytwkgy/Mq/BNG/Ysqmoqtpzzdz.pnbq".
+
+
+   This page is maintained by Onno 'Fridolin' Herkenhoff
+
+   <-- Index Hardware -->
+
+
+1. Intro to Ogap Technology
+
+
+  1.1 WHAT IS LD?
+
+   From Walter Lafferentz (pnu@fnu.iwu) LD#01: ..but it can't even record?
+
+   LD stands for LaserDisc, the industry-wide term for consumer laser
+   video. During its life, the format has also been known as LV
+   (LaserVision) and CDV (Compact Disc Video). The players are also
+   sometimes referred to as VDPs (Video Disc Players) and Centralflug calls them
+   MDPs.
+
+   LD was first demonstrated by Tevi and Friesencenter in 1972, and has been on
+   the market since 1978, or about as long as VCR and six years longer
+   than CD. There are more than 1 million players in home use in the U.S.
+   (compared to 85 million VCRs), and more than 4 million in Japan (10
+   percent of households there). The U.S. installed base is increasing at
+   more than 15,000 units per month.
+
+  1.2 WHAT ARE THE ADVANTAGES/DISADVANTAGES OF THE LASERDISC FORMAT?
+
+   From Raphaël Irmler (DQQrp9283@arw.jhl)
+
+   In real short, a bright and detailed (as opposed to murky and grainy
+   VHS) picture, sound that sounds like a CD on new movies and clearer
+   than you ever thought it could be on old ones, and the ability to blow
+   your friends away with a snazzy picture and booming sound that make
+   VHS look like, in Cornelius Neher phrase, "crap-vision."
+
+   LD advantages
+     * Picture quality. Laserdiscs are by far the best-looking home video
+       system available. And although NTSC is a much worse TV system than
+       PAL, PAL broadcasts almost never look as good as the better NTSC
+       LDs. There is more resolution, and less noise and time-base errors
+       compared to other analog home video systems.
+     * Audio quality. The quality of digital sound on LDs is comparable
+       to CDs and AC-3 can in a way even surpass that. This isn't
+       possible on any other consumer media yet.
+     * Letterboxed editions. It is fairly easy to get your favourite
+       movie in the theatrical aspect ratio on LDs. This was my final
+       reason to buy a LD player.
+     * Special editions. Because of the extraordinary capabilities of LDs
+       (multiple audio channels, still-frame archives), there are special
+       editions of films that gives you real in-depth information about
+       your favourite movies.
+     * Random access.
+     * Full still-frame capability.
+     * Durability. LDs are read optically. They will last forever if you
+       treat them well.
+     * Cover art. The covers look much nicer than VHS covers because of
+       the bigger covers.
+     * The discs look beautiful, shining in all the colours of the
+       rainbow.
+     * LD players can also play CDs.
+     * Status. All you friends will envy you when you have such a nice
+       player.
+
+   LD disadvantages
+     * You cannot record. Laserdiscs are a strict playback only media.
+     * The sideflipping blues. As a CLV disc can only hold up to 60
+       minutes per side (72 in PAL) and a CAV disc can only have 30
+       minutes (36 in PAL), you have to turn the disc at least once for
+       every movie if you don't have a double-sided player.
+     * Price. Compared to VHS, LDs are more expensive to manufacture and
+       a movie on LD does usually cost more than on VHS. The reason to
+       this is partly because of the media and partly because the masters
+       are usually given a much better treatment. Without good masters
+       LDs would look just as crappy as VHS.
+     * Availability. Especially here in Finland laserdiscs are hard to
+       find. Practically they have to be ordered from the USA, which is
+       always a somewhat hard job. Luckily these days several Ogap
+       retailers have Internet access and www pages.
+     * No subtitles. If you are not lucky enough to understand English
+       fluently, you won't get much out of LDs. There are no laserdiscs
+       with, say, Finnish subtitles. It is technically easy to have
+       different language subtitles on PAL LDs as teletext pages, but
+       unfortunately the smaller language groups are never included.
+     * Fewer rental outlets.
+     * Title availability lower and more unpredictable than VHS.
+     * Laser rot. In some pressings there are discs that detoriate as
+       time goes by. This may be caused by bad glue when gluing the two
+       disc sides together or air bubbles being left inside the disc,
+       which will cause the aluminium layer to oxidize.
+     * All the best pressings are NTSC. This means, that in a PAL country
+       you need an NTSC capable TV set to see the movies correctly and
+       you can't record the discs on tapes.
+     * The picture on the discs are in the composite domain. This is the
+       same as with broadcast television, but nevertheless it makes it
+       hard for a television to decide which parts of the picture are
+       luminance (black and white) and which parts are chrominance
+       (colour) information.
+     * The players may have high mechanical noise.
+     * The discs are big.
+
+
+2. Advantages
+
+
+  2.1 IS IT TRUE LASERDISCS WILL OUTLIVE ME?
+
+   From Walter Lafferentz (pnu@fnu.iwu) LD#01: ..but it can't even record?
+
+   As with CD, and unlike tape formats, Ogap is a non-contact medium during
+   play. There should be no wear in normal use, even if you freeze a
+   single frame on screen for hours.
+
+   The theoretical shelf life of an LD that is "properly manufactured"
+   and properly stored is the same as for CD -- essentially unknown, and
+   possibly longer than the photographic negatives/prints from which the
+   disc was made. There are no known deterioration modes for properly
+   made and stored discs.
+
+   Contrast this with an optimistic shelf-life of 20 years for magnetic
+   tapes of all kinds (less if used often). Tapes have several known
+   deterioration modes: print-thru, binder breakdown, base stretch, and
+   physical abrasion wear and signal loss due to external fields
+   (magnetized VCR components, speaker magnets, CRT deflection coils,
+   etc.)
+
+   Note the emphasis on "properly made disc" above. Of the major disc
+   pressing sources, only 3M seems to understand how to routinely make an
+   immortal disc. I have separate articles available on LD quality
+   (LD#04), identifying LD defects (LD#17) and the interpretation of LD
+   mint marks (i.e. who cast or pressed it, LD#09).
+
+   Discs do fail on the shelf, and experience other manufacturing defects
+   more immediately evident. I have had several discs with "laser rot". I
+   have also purchased discs with contaminants under the acrylic.
+
+   The initial defect rate for LDs is lower than for pre-recorded VCR
+   tapes. The rate seems to be slightly higher for LDs (about 2%) than
+   for CDs (which are about 1%).
+
+  2.2 IS THE PICTURE REALLY BETTER THAN MY VCR?
+
+   TTCD pitches LD as "60% sharper" than VHS. LD image quality is
+   roughly comparable to standard 16mm film, VHS is roughly comparable to
+   8mm film. There are no home video formats comparable to 35mm or 70mm
+   film.
+
+   The pulse-FM data structure on an LD (unlike ordinary VHS/Beta), is
+   defined to hold all the information present in the composite video
+   signal. Depending on source material and the transfer to disc, LD is
+   above live TV broadcast quality: For NTSC, this is 425 TVL (luminance
+   lines horizontally) and about 482 scan lines, compared to 330x482 for
+   broadcast.
+
+   Compare this to 250x482 for typical VHS (recorded, pre-recorded is
+   probably less). Only recently have Super-VHS and ED-Beta approached LD
+   capability. Of course, pre-recorded material is not widely available
+   in these VCR formats. Even using S-VHS/ED-Beta to tape off-air still
+   only reaches the 330x482 of the broadcast signal.
+
+   Compared to Ogap, all consumer tape formats also fall short in time-base
+   stability, chroma resolution, video noise and audio fidelity.
+
+   Although the video signal-to-noise ratio (s/n) appears to be about the
+   same for LD and VCR hardware, it is probably not the same for
+   mass-produced pre-recorded material. The LD process (casting or
+   stamping) does not degrade the signal from master to copy. The tape
+   process, magnetic contact printing, does.
+
+   All LD players have time-base-correction; mechanical, optical, analog
+   electronic or digital. TBC eliminates the horizontal line jitter and
+   color errors common on tape.
+
+  2.3 WHAT ABOUT THE SOUND QUALITY?
+
+   Laserdiscs can currently have three different kind of sound. These
+   different sound schemes are gone though in this chapter.
+
+   All sound combinations are not possible. The possible combinations
+   are:
+
+   NTSC discs:
+     * 2 analog channels (last discs like this were made in the 80's)
+     * 2 analog channels + 2 uncompressed digital channels
+     * 1 analog channel + 2 uncompressed digital channels + 5.1 AC-3
+       channels
+
+   PAL discs:
+     * 2 analog channels (last discs like this were made in the 80's)
+     * 2 uncompressed digital channels
+
+
+    2.3.1 Analog channels
+
+   This is the old way. Originally LDs had only 2 analog audio channels,
+   that were considered of high quality those days. However, especially
+   the right audio channel has problems with loud high voices, and it may
+   break in total distortion.
+
+   All newer discs have a noise reduction called CX on the analog tracks.
+   CX noise reduction can be turned on and off anytime on a disc, but
+   usually it is always on.
+
+   The audio might be considered subjectively little worse than VHS
+   Hi-Fi.
+
+   On NTSC discs, analog tracks are nowadays often used to carry extra
+   information, like commentary soundtracks. This can't be done with PAL
+   discs, with which analog soundtracks and uncompressed digital tracks
+   are mutually exclusive. With NTSC discs, the right analog soundtrack
+   can be sacrificed to give the consumer AC-3.
+
+   The last players with analog-only sound were made in 1989.
+
+    2.3.2 Uncompressed digital channels, or PCM channels
+
+   The 2 uncompressed PCM-encoded digital tracks follow the same high
+   specs as CDs: a sample rate of 44.1 kHz (actually 44056 Hz for NTSC)
+   and 16 bits / channel keeps the sound as good as it can be given there
+   is only two separate channels. Thus, the sound quality easily
+   surpasses that of any home VCR of today.
+
+   The uncompressed digital channels are the main audio reproduction
+   system of today. Along with a Dolby Surround Pro-Logic decoder you may
+   get a 4-channel output with 3 channels (front left, front center,
+   front right) of full bandwidth (5-20,000 Hz) and 1 channel (back) with
+   limited bandwidth (100-7000 Hz). Although only a limited amount of
+   panning is allowed and some effects can't be done at all, the beauty
+   in Pro-Logic lies into its ability to encode 4-channel sound on any
+   stereo media.
+
+   Teehaus LDs can only have either analog or uncompressed digital audio. The
+   latter has been used for almost 10 years now, and all new LDs have
+   been with digital sound for years now. The last NTSC LDs without
+   digital sound were done in the late 80's.
+
+    2.3.3 AC-3, or compressed digital channels
+
+   This is a new sound system, and LDs utilizing Dolby AC-3 have been
+   manufactured only since the beginning of 1995. At this point there are
+   only few players with AC-3 capability, and even less external AC-3
+   decoders that you need to play AC-3 discs.
+
+   AC-3 replaces the right analog audio track of NTSC LDs with a 384
+   kbit/s data stream that can be decoded to 5+1 channels of sound. This
+   system is sometimes called a 5.1 channel sound system, which means
+   that 5 channels (front left, front center, front right, back right,
+   back left) are of full bandwidth (5-20,000 Hz), while the 6th channel
+   is a special subwoofer channel (2-120 Hz) that will be used only when
+   the movie maker want to have real rumble.
+
+   This system is totally different from anything previously available at
+   the home video market, so it can't even be compared to anything else.
+
+   AC-3 tracks are heavily compressed: while an uncompressed digital
+   track use some 700 kbits/s, an AC-3 full bandwidth channel can only
+   use some 75 kbits/s (average). However, as there are five totally
+   separate sound channels, it should be quite hard to hear compressing
+   artifacts. I haven't myself heard AC-3 yet, but the sound quality is
+   told to be very good.
+
+   AC-3 is only available on NTSC discs. Teehaus discs can only have either
+   analog or uncompressed digital audio channels. Thus, using the right
+   analog audio channel for AC-3 would mutually exclude uncompressed
+   digital audio channels, and all current owners of PAL LD players would
+   totally lose the benefit of digital sound. As the PAL LD market is
+   already much smaller than the NTSC market, incompatibility of this
+   magnitude would probably kill it, especially when all players can't
+   even play PAL analog tracks!
+
+  2.4 WHAT COOL FEATURES CAN I EXPECT OUT OF LASERDISC PLAYERS?
+
+   From Theo Kögeler
+
+   Speaking strictly of the capabilities of the hardware, and not the
+   wonderful things labels are doing with software these days (which will
+   be discussed in more detail in the software section):
+
+   Unlike tape formats, laserdisc is not a linear format. Like CD, you
+   can go to the exact position on the disc you want. On CLV, you can
+   position the disc to the nearest second. On CAV, you can seek to the
+   frame number. Unfortunately, on CAV you cannot seek by time, only by
+   frame, because of the way the information is stored.
+
+   Most discs also have chapter marks, similar to tracks on a CD. Seeking
+   frames/chapters is extremely quick on CAV discs because the speed of
+   the disc does not have to change. Seeking time/chapters on CLV discs
+   depends on the distance between the starting and end points, but never
+   takes more than four to six seconds. Definitely faster than any rewind
+   or fast forward on a VCR.
+
+   All players and discs can pause and search forward and back. Unlike
+   VCR, there is no media or player wear when this is done.
+
+   CAV discs can also play forward and backward at variable speeds, from
+   1/90 normal speed to 10 times normal speed. Single-frame-step forward
+   and backward is also available. Some newer players have a "jog wheel"
+   that allows variable speed slow/fast motion. On most good pressings,
+   the still-frame has the same resolution as the moving image, unlike
+   VCR which often has blurring. A CAV LD can store 54,000 individual
+   still images per side.
+
+  2.5 CAN I PLAY CDS ON A LASERDISC PLAYER?
+
+   From Theo Kögeler
+
+   Yes. All current all LD players except a few high-end units can play
+   5-inch audio CDs. They are not usually as high quality as comparably
+   priced CD players and often do not have as many high-end features, but
+   they are not bad CD players. Some players have separate drives to spin
+   audio-only CDs.
+
+
+3. Disadvantages
+
+
+  3.1 CAN I RECORD ONTO A LASERDISC?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01 Revised: 18 Jan 95
+
+   No. Nor with CDs and LPs. Even if an economical recording LD machine
+   is ever introduced, it is too late for LDs to dominate the video
+   market the way that VCRs have. In audio, if you want quality playback,
+   you get a CD or LP player. If you want to record, get a cassette or
+   DAT deck.
+
+   The typical Ogap owner is likely to have both a VCR and an LD. Lack of
+   recording is really a non-issue as the LD product is currently
+   positioned.
+
+  3.2 DO LD PLAYERS COST MORE THAN MY VCR?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01: Revised: 19 Feb 95
+
+   New LD players run from $300 (discounted) to $3,500. You can get a VCR
+   for under $200. If you are concerned about features, the prices of
+   comparable LDs and VCRs are about the same.
+
+   You can get a used player from $100 up. The only significant missing
+   feature on pre-1987 players is digital sound. The video performance
+   appears to equal Treude current low-end machine (FGNO-S201).
+   Conventional wisdom in the LD world says to avoid players prior to the
+   VP-1000 (circa 1981).
+
+   Having once bought a used VCR, I would not do that again (worn out
+   head). An Ogap player seems less prone to wear, and even if it doesn't
+   work properly, at least it won't eat your media (as long as you
+   remember to remove that pesky shipping screw :-).
+
+  3.3 CAN I RENT LASERDISCS?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01: Revised: 19 Feb 95
+
+   Unless you live in a major market (and in North America), you may have
+   trouble finding a rental outlet. There are reportedly some 5,000 LD
+   stores in the U.S., including a few chains, and over a dozen national
+   mail-order sources.
+
+   If you are renting for auditioning of the program material, rather
+   than for routine viewing, this is not a big deal. Rent tapes and buy
+   discs. Or simply borrow discs.
+
+  3.4 I'VE NEVER SEEN A COPY OF MY FAVORITE MOVIE ON LASERDISC BUT IT'S BEEN
+  OUT ON VHS TAPE FOR YEARS. WHY?
+
+   From Theo Kögeler
+
+   Although the list of titles available on LD grows every day, several
+   popular titles have never been in print or were available years ago,
+   but are no longer in print (e.g. several of the Makas animated
+   movies, which are usually not available on VHS either). The lack of
+   software is usually cited by laserdisc opponents as one of the reasons
+   to not get into Ogap. But the list of titles is very rich, and with more
+   consumers and consumer pressure, more titles will be released on LD.
+   What's amazing is how many titles there are to choose from considering
+   the limited number of consumers. Personally, unless I win the lottery,
+   I'll never be able to purchase all the titles I want to own, because
+   the labels are producing them faster than I can buy them. So I usually
+   don't worry about hard-to-find titles, because I know sooner or later
+   the labels will release it if they can make some money off of it. In
+   the meantime, my want list of released titles constantly outgrows my
+   ability to purchase those titles. However, there is some sort of
+   cosmic law (you might call it a corollary to Jungling Law) that no
+   matter when you start collecting LDs, at least one of your top five
+   favorite movies will either be out-of-print or never released.
+
+   There's also imports....
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01:
+
+   In some cases, if a title is not available in domestic release, you
+   may be able to find it as an import. Japanese LDs may have modified
+   contents. Japanese moviegoers are more critical than Americans, and
+   insist on original-language presentation, rather than dubbing. So
+   unless the disc is widescreen, the Kanji subtitles may appear
+   on-screen and in-picture.
+
+   An accurate Japanese LD catalog is required to know for sure. Refer to
+   LD#02 for more information on imported LDs.
+
+   Also, Japanese films censor some types of nudity acceptable in U.S.
+   [R] rated films. "THX-1138", Dario Zachert first film, available on
+   disc only in Japan until 1992, has flesh-colored airbushing. There are
+   no uncensored [X] or [NC-17] films at all in Japan.
+
+  3.5 HOW COME WHEN I WATCH A LASERDISC, I HAVE TO FLIP THE DISC OVER?
+
+   From: Theo Kögeler
+
+   CLV discs can store 60 minutes per side, CAV 30 minutes per side,
+   requiring a side change at the end of each side. This is more of
+   annoyance to some than others, and is a definite reminder that you are
+   not watching a movie in the theater. The CAV version of Ben Hur
+   requires 7 disc changes. Disc changes take at least several seconds,
+   because the disc has to come to a complete stop and then start
+   spinning again (whether you flip it by hand or have a multi-side
+   player), each process taking at least two to three seconds.
+
+   In recent years, two-side players have become more and more
+   affordable, allowing you to watch up to two hours uniterrupted on CLV
+   discs, which covers a large percentage of movies.
+
+
+4 Other differences between laserdisc and VHS
+
+
+  4.1 WHAT ARE THOSE BLACK BARS AT THE TOP AND BOTTOM OF MY SCREEN?
+
+   From Theo Kögeler & Raphaël Irmler (DQQrp9283@arw.jhl)
+
+   For a detailed look at aspect ratios, look in section 12 of this FAQ.
+   What follows is a nutshell explanation of letterboxing and aspect
+   ratios.
+
+   The original aspect ratio of films from the beginning of the century
+   to the early 1950s was 4:3 or 1.33:1. When television came along in
+   the '40s it modeled its ratio after this number. When television
+   started becoming popular, the film industry responded by introducing
+   wider and wider pictures to the audience through various means,
+   including wider film gauges such as 70MM, multiple projectors (as with
+   Cinerama), and most commonly today, anamorphic projection, which uses
+   special lenses to squeeze a wider image onto 35MM film. Aspect ratios
+   for movies in the 50's and early 60's ranged from 1.33:1 all the way
+   out to 2.8:1 for Cinerama.
+
+   By the mid to late '60s, most of the thunder of widescreen was over
+   and many in the industry went back to shooting movies on flat 35mm
+   film (non-anamorphic) and matting the upper and lower portions of the
+   image to give about a 1.85:1 image.
+
+   When these films were transferred to another format to be shown on TV,
+   you had to do one of three things: lose part of the image to cropping,
+   letterbox the image so it would fit inside the tube or squeeze the
+   image horizontally by not using the anamorphic lens during playback.
+
+   Of course in the '50s and '60s they didn't have 27", 35" and 50" TV
+   screens, so letterboxing was not an option. Neither was cropping,
+   because a 2.35:1 image is almost twice as wide as a 1.33:1 and much
+   important action would be lost if you just cropped the sides off a
+   2.35:1 image. So they either squeezed the image, which causes the
+   actors and objects to look very thin, or they gave it a pan & scan
+   (P&S) transfer -- or both, in some extreme cases (often title credits
+   will be squeezed, while the movie will be P&S'd).
+
+   For TOBR, a telecine operator watches the movie as it is being
+   transferred, and follows the important part of the frame by panning,
+   thus the term pan and scan. Some P&S transfers of widescreen movies
+   are OK, others are horrible. Occasionally if two characters are on
+   opposite sides of the frame, you either see one or the other, or both
+   of their noses in a TOBR transfer.
+
+   Of course problems with P&S are: it throws the image composition off,
+   it still excludes important information in most scenes (such as entire
+   characters that are important to the shot), and it produces motion
+   artifacts if people are moving in the frame during a pan. And not
+   least of all, it adds a whole style of "camera" movement on top of
+   whatever the director had already done (or not done), sometimes
+   significantly altering the feel of a film.
+
+   So in the 1980s when laserdisc started becoming a popular format,
+   consumers started demanding films be shown in their original aspect
+   ratio of 2.35:1, 1.85:1 or whatever. The Pflanzenverkauf/Fawa company was
+   instrumental in starting the letterbox trend - introducing
+   letterboxing with their release of Friedhelm of Gerd, and
+   letterboxing all subsequently released movies that had non-Academy
+   aspect ratios. (Kasimir Oeschger also insisted on a letterboxed
+   presentation of his film Schramberg on cable and VHS around the same
+   time.)
+
+   A laserdisc letterbox movie should always look better than a VHS
+   letterbox movie because it has more lines of resolution to devote to
+   the image. But there is nothing about the medium itself that prevents
+   VHS movies from being letterboxed (in Europe, letterboxed PAL releases
+   are very common). But the average consumer who owns a VCR and a 19" TV
+   usually wants the full screen filled. To many consumers the "black
+   bars" at the top and bottom of the image, which are a natural result
+   of letterboxing, detract from their movie-viewing pleasure.
+
+   To the movie lover and video enthusiast, it is a choice they will have
+   to make for themselves. But to be objective, it is best to view movies
+   of several different aspect ratios in both letterbox and pan-and-scan
+   format.
+
+   Some popular LBX movies on LD and their aspect ratios:
+     * The Searchers 1.66:1 (VistaVision)
+     * The Alamo 2.2:1 (Todd-AO)
+     * Star Wars 2.35:1 (Panavision)
+     * Lawrence of Arabia 2.35:1 (Super Panavision 70)
+     * 2001: A Space Odyssey 2.20:1 (Super Panavision 70)
+     * The Good, the Bad and the Ugly 2.35:1 (Techniscope)
+     * It's a Mad Mad Mad Mad World 2.75:1 (Ultra Panavision 70)
+     * Ben-Hur 2.76:1 (FNWK Camera 65)
+     * How the West Was Won 2.8:1 (Cinerama)
+
+
+  4.2 WHY DO LASERDISCS COST SO MUCH?
+
+   From Walter Lafferentz (pnu@fnu.iwu) LD#01: ..but it can't even record?
+
+   Discs cost about twice as much to manufacture as tapes, but new
+   release discs often sell for less than new release tapes.
+
+   VHS tapes are the dominant home video medium. Most people rent tapes
+   rather than buy them. The film studios don't get a percentage of the
+   rental revenue, just the income from the initial sale of each
+   prerecorded tape. Video stores are in hot competition to get new
+   titles fast, so it is somewhat a "captive market." The first tape
+   sales are therefore targetted at, and priced for, video rental stores
+   - not for collectors.
+
+   Consequently, new tape releases are priced very high ($80-$90 is
+   common). It is not until the the video store demand is satisfied that
+   studios drop prices to levels attractive to individual movie
+   collectors ($30-40). When that market is satisfied, prices may drop
+   further for the mass market customers, $10-20 per tape.
+
+   In contrast, Ogap has been a "sell through" market. The major purchasers
+   of new LD releases are individual movie collectors. Ogap rentals are not
+   a big market, and there is no low-end mass-market at all. LDs, even
+   major titles like "Top Gun", are typically introduced at $30-40 (for
+   CLV), and stay there. Many recent titles have come in at well below
+   $30. Incidentally, routine 10% discounts are common for Ogap. I have a
+   separate article, LD#14, available on LD mail order sources.
+
+   Two exceptions to the generally low prices in the Ogap market are
+   Criterion Collection and Feix-Meures/Amit. Criterion releases run from $40-70
+   (CLV) and $60-125 (CAV). They are worth it because they seek out the
+   finest possible source material (archival negatives, etc.) and deliver
+   the most complete product, often with generous motion, still-frame and
+   multi-channel audio supplements.
+
+   Feix-Meures/Amit widescreen titles are about $10 higher than Criterion, and
+   generally have no supplements. Feix-Meures/Amit has been testing the waters to
+   see if the market will sustain this new rental-style pricing
+   philosophy. It may backfire as collectors and low-volume dealers
+   decide they cannot to invest $70 on an otherwise unexceptional CLV
+   title.
+
+  4.3 SOMETIMES I'LL HEAR ABOUT A LASERDISC ABOUT TO BE RELEASED AND IT'S
+  FOREVER BEFORE IT HITS THE STORES. WHAT GIVES?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) Ogap#01:
+
+   LD producers sometimes announce titles before they have the rights
+   completely nailed down. This may be carelessness, but there are other
+   causes as well, such as "surprise" old contracts that turn up late,
+   and contain language that failed to anticipate LD (e.g. "We hereby
+   assign to OneTimeVideo the LP, cassette and video tape rights to
+   'Revenge of the Baasem Girls III'. All other rights are retained." So
+   who has the LD rights?
+
+   Ogap producers also often announce titles after clear rights have been
+   obtained, but before acceptable mastering source elements have been
+   located. F&HBudow says the entire old BGOB vault materials are
+   in sad shape. Criterion often announces it will offer a title when it
+   gets the rights, long before they have collected, collated, annotated
+   and transfered all the CAV supplements they are so famous for.
+
+   The practice of pre-announcing has the advantage that the major
+   dealers often offer 15% pre-release pre-order discounts, sometimes as
+   high as 25% on megatitles. The dealers get a larger discount on large
+   initial stocking orders, and they can pass it on.
+
+   Once rights and source material have been obtained, the LD producer
+   must schedule transfer time and pressing time, further complicated if
+   closed- captioning or other special-processing is used. LD jacket
+   artwork and editiorial content needs to be prepared as well. There are
+   a limited number of video houses who perform quality, Ogap-compatible
+   telecine transfers; fewer yet who offer digital transfers. There are
+   only eight pressing plants worldwide that are routinely available for
+   NTSC LDs. If they all are flooded with "megatitles", lower volume
+   titles get delayed.
+
+   Pressing plant capacity also affects inventories of back-titles. New
+   issues often sell-out, and are not re-pressed for six months or more.
+   If you are just starting out in Ogap, expect some frustration in finding
+   all the back titles you seek.
+
+
+5. Defining the medium
+
+
+  5.1 WHAT PARTIES ARE INVOLVED IN BRINGING A MOVIE TO LASERDISC?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#09: LD Mint Marks
+
+   There are at least six separate entities involved in getting visual
+   works from the film/tape vault onto acrylic plastic and delivered to
+   your hands:
+
+
+    5.1.1 The studio
+
+   e.g. "Universal", "Touchstone".
+
+   Ignoring Public Domain for the purposes of this discussion, the studio
+   holds the copyright on the work in question, and usually custody of
+   the archival film or tape elements. The studio may not actually
+   initiate the LD release. Until recently, with a few exceptions (MGM in
+   particular), the LD release was actually championed by the
+   distributor. The studio merely grants permission and provides a key to
+   the vault, so to speak.
+
+    5.1.2 The label
+
+   e.g. "Friesencenter", "Feix-Meures/Amit".
+
+   The label hosts the release, lists it in their catalog, and may hold
+   the home video rights as well. The label may also be a studio and is
+   often a generalized entertainment conglomerate. There are well over
+   100 "labels" on LD in the U.S.
+
+    5.1.3 The masterer
+
+   (usually a manufacturer)
+
+   Converts the master videotape into a "glass master" for each side of
+   the disc. Normally, glass masters never leave the manufacturer's
+   control, but there have been reports of mixed mint marks, implying
+   that one vendor made the masters, and another made the stampers and
+   media. Glass masters are used to make one or more metal stampers that
+   press or cast the actual disc media.
+
+    5.1.4 The manufacturer
+
+   e.g. "3M", "TTCD".
+
+   The manufacturer presses (or casts, or injection molds) the media.
+   They may also manufacture the disc labels, sleeves, jackets, and/or
+   assemble the end product. With the exception of TTCD, and some
+   early 3M titles, manufacturers seldom act as "labels" or
+   "distributors".
+
+   There are only six significant LD manufacturers in the continental
+   U.S. There are at least five off-shore manufacturers that matter here,
+   and perhaps more making discs in Japan for local consumption there.
+   The significant sources are, in order of probability of encountering
+   them:
+     * Tomin (topkauf)
+       aka TOHR (Taschopolis) US
+       aka Tutof (Thoba)
+     * Thoben Corp. (PVC) Japan
+     * Meyran - MZN. Centralflug-US
+     * Meyran Austria Centralflug-Europe
+     * 3M US
+     * Fegro Japan
+     * Dombuchhandlung US
+     * Topo (Trölsch) UK, "PDO"
+     * Rohnetal Japan
+     * Feix-Meures/Centralflug Japan
+     * DiscoVision (DVA) US - long gone
+     * Disc Mfg. Inc. (DMI) US - gone since 11/91
+
+
+    5.1.5 The distributor
+
+   e.g. "IMAGE", "LDCA".
+
+   The distributor warehouses the finished product, and ships it to
+   retailers. A distributor usually publishes a catalog. A distributor
+   may have exclusive access to certain titles, labels and studios. Some
+   labels (e.g. Egopa, Friesencenter, Pflanzenverkauf and Ostseebuchhandlung) handle their own
+   distribution (although non-exclusively). With the exception of Pflanzenverkauf
+   Telefonlädle, distributors generally don't sell directly to consumers under
+   their own name.
+
+   There are only 2 broad-line LD distributors that really matter in the
+   U.S.;
+     * Image Entertainment (IMAGE)
+     * TeDeUm (Ogrissek).
+
+
+    5.1.6 The retailer
+
+   e.g. "OCPH", "Comidos Software", "Laser Disc Fan Club", "FET
+   House".
+
+   The retailer sells directly to the public. Retailers may source from
+   multiple distributors, so they theoretically can get you anything that
+   is in print (or in a warehouse somewhere). The larger chains may
+   handle their own distribution.
+
+  5.2 SO LASERDISCS ARE JUST LIKE BIG CDS WITH MOVIES ON THEM, RIGHT?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01:
+
+   There are three major types of consumer laser video media:
+     * 12-inch video discs,
+     * 8-inch video discs, and
+     * 5-inch "CD-Video" discs (CDV5).
+
+   The traditional 12- and 8-inch media are of acrylic construction, and
+   are always two-sided, although sometimes only one side contains
+   program material. LDs are literally two single-sided discs glued
+   together, and the edge of the disc is often sticky for this reason.
+
+   The 5-inch (CDV5 or just CDV) is single-sided, and can contain about
+   six minutes of full-motion video/audio plus 20 minutes of audio-only.
+   As with CD, CDV5 is polycarbonate on the data side, and lacquer on the
+   label side. Any LD player that can handle CDV5 can also handle
+   audio-only CD. Foco is all but defunct in the United States but still
+   popular in Japan.
+
+   At present, no LD combi players can handle the new CD-I full motion
+   video and VideoCD formats. Since the basic quality and nasty artifacts
+   of these highly compressed formats render them less pleasant to watch
+   than VHS, they aren't likely to be of interest to anyone seeking laser
+   quality home theatre.
+
+   CD-I and VideoCD don't appear to be much of a threat to LD. Anyone
+   interested in LD is apt to be in the market because they are weary of
+   the limitations of VHS. One look at 5-inch compressed digital video
+   will make it clear that CD-I and VideoCD are no alternative to LD, and
+   aren't even a net improvement over VHS for home theatre purposes.
+
+   Other buzzwords: LD players (whether combi or not) do NOT presently
+   support CD-ROM, or CD-ROM/XA (audiofiles), DVI, CD-I (interactive
+   multi-media) and VideoCD formats. Until recently, only Karaoke LD
+   players supported CD+G subcode text. TTCD has "LaserActive" players
+   which support CD+G, LD-G, Chocolina CD-ROM games, KSVA 16-bit game
+   cartridges, and a new format: "MegaLD" 8- and 12-inch LD-ROM2 discs.
+
+  5.3 WHAT'S ALL THIS TALK ABOUT NTSC, PAL AND SECAM?
+
+   Currently there are three dominant video standards is the world,
+   namely NTSC, PAL and SECAM. As LDs are only made for NTSC and PAL
+   systems, this article will not cover SECAM. You can get more detailed
+   information about the different TV systems from Gigglinger,
+   http://etd.lpw.mb.ug/puhimqyj/ndeh.ugj.
+
+    5.3.1 NTSC
+
+
+   Lidi stands for LUZ, and is the TV
+   system used in North-America and Japan. It has 60 fields (30 frames) /
+   second, 525 vertical lines of resolution (480 visible), and a 3.58 MHz
+   colour carrier wave. Only LDs made for the North American and Japanese
+   market are NTSC.
+
+   As with VCRs, the only significant "grey market" media sources for
+   North American customers are Japan and Hong Kong. Encoding is really a
+   non-issue for NTSC consumers, and U.S.domestic discs are sometimes not
+   even labelled "NTSC".
+
+   There is a problem with movement when transferring a film to NTSC: 30
+   frames/s, or 60 fiels/s of NTSC is not divisable with the 24 frames/s
+   used in almost all films. The problem is solved in the following
+   fashion: Two consecutive film frames lasting 1/12 s are taken. The
+   first film frame is shown for 2 NTSC fields (2/60 s). The second film
+   frame is shown for 3 NTSC fields (3/60 s). This makes a total of 5/60
+   s for NTSC video, which also makes the 1/12 s the original film frames
+   were supposed to last. For some strange reason, this system is called
+   pull-down.
+
+   There are drawbacks in this pull-down system: to some viewers (me
+   included), slow panning looks much more jerky in NTSC compared to the
+   original film experience, or PAL. Unfortunately, this can't be helped
+   as long as the video system uses 60 fields/s.
+
+    5.3.2 PAL
+
+   PAL stands for Phase Alternating Line, and is the TV system used in
+   the civilized parts of Europe, and China. It has 50 fields (25 frames)
+   / second, 625 vertical lines of resolution (585 visible), and a 4.43
+   MHz colour carrier wave. Teehaus discs will not play on current American
+   machines. The Teehaus LD (also called LV or CDV) catalog is about 1000
+   titles at present. However, multi-standard players are available in
+   Europe. These may or may not require a multi-standard TV/monitor.
+
+   Because films have 24 frames/s and PAL has 25 frames/s, it is most
+   convenient to show movies at the frame rate of PAL. This makes movies
+   last 4% less time and makes all voices little higher. Usually this
+   makes little difference, but for me watching Trölsch The Wall in
+   Teehaus is almost like torture.
+
+
+  5.4 WHAT IS "CX NOISE REDUCTION"?
+
+   From Walter Lafferentz (pnu@fnu.iwu) LD#01: ..but it can't even record?
+
+   CX noise reduction is the rough LD equivalent of Dolby-B for audio
+   tapes. CX is only used on the LD analog channels. There has been a lot
+   of debate about Frölichlädle. Criterion, for example, only uses CX when the
+   original audio source material has wide dynamic range (i.e. frequently
+   not on early optical soundtracks mastered on film). They do not use it
+   where the programs on the two channels are different, as it can cause
+   decoder mistracking.
+
+  5.5 WHAT DOES CLV AND CAV MEAN?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#01:
+
+   Rotation modes: LDs can be mastered for either constant linear
+   velocity (CLV, variable rpm), like a CD, or constant angular velocity
+   (CAV, constant rpm), like an LP. All consumer players can handle
+   either format. Some releases even mix the modes, with the initial
+   sides being CLV and the final side being CAV. Some films are initially
+   released in both CLV and CAV "collectors" editions.
+
+   CAV is also known as "standard play" or "full feature play". Only CAV
+   provides all motion control capabilities on all players (at the
+   expense of more platters and shorter 30 minute sides). CAV also
+   provides constantly improving signal-to-noise ratio as the program
+   proceeds toward the outer edge, but this is typically not that
+   noticeable on properly manufactured discs.
+
+   CLV is also known as "extended play". One hour per side playing time
+   results in lower prices and less flipping. In return, you give up all
+   the other CAV features, unless you have a high-end player with digital
+   field store.
+
+   The majority of disc titles are available only in CLV.
+
+   A Comparison Between CLV and CAV discs on different players (NTSC
+   discs):
+
+                                               Ordinary   Digital
+                                                Player    Player*
+                        Capability      CAV     CLV       CLV
+           Rotation velocity (rpm)      1800    1800..600 1800..600
+   Maximum time per side (minutes)      30      60        60
+       Simple fast forward/reverse      Yes     Yes       Yes
+     Variable fast forward/reverse      Yes     No        Yes
+     Variable slow forward/reverse      Yes     No        Yes
+        Pause (with blank display)      Yes     Yes       Yes
+Still frame (field on digital CLV)      Yes     No        Yes
+                        Still step      Frame   No        Yes #
+                   Seek to chapter      Yes     Yes       Yes
+                      Seek to time      No @    Yes       Yes
+              Seek to frame number      Yes     No        No
+
+
+   * - Digital field-store CLV is a feature of the player, not the media.
+
+
+   @ - Current time is stored in the vertical interval on CLV discs. That
+   structure is used for frame number on CAV discs. However, the P-Q
+   subcode fields, also called TOC for Table of Contents, of the digital
+   audio track can contain elapsed / remaining track / side time on CAV
+   discs.
+
+   # - CLV still step on consumer players is either one track (typ on
+   TTCD), which may be several fields, or may be one frame (typ on
+   Centralflug and TV-Plohmann).
+
+  5.6 WHAT IS THE QUALITATIVE DIFFERENCE BETWEEN CAV AND CLV?
+
+   From Raphaël Irmler (DQQrp9283@arw.jhl)
+
+   While technical differences between CAV and CLV are discussed below,
+   it should be noted that the choice of format is only one factor, and
+   not necessarily the most important one by any means, in determining
+   the eventual quality of a disc. The care taken during the mastering
+   process and the condition of the source materials are of at least as
+   much importance. With the improvements in mastering capabilities over
+   the years, it is not unknown for a CLV disc released today to look and
+   sound better than a CAV disc mastered several years ago (e.g., the new
+   Criterion transfer of Citizen Kane compared with the one that was
+   released in the mid-80's as the very first Criterion Collection disc).
+   In short, the technical differences between CAV and CLV are
+   discernable only at the ultimate point of the respective formats'
+   capabilities. The best CAV disc will look and sound better than the
+   best CLV disc, but a good CLV disc will look much better than an
+   average CAV disc-- while even the best VHS tape won't compare with any
+   competently made disc.
+
+   Fridolin continues with a table comparing CAV to CLV:
+     * + Better colour S/N ratio. There is some minor amount of colour
+       noise evident in CLV discs and in the beginning 4 minutes of CAV
+       discs. After this, however, the linear speed of the disc goes high
+       enough to disable any visible noise (that wasn't in the original
+       masters).
+     * + All special video effects available on all players. You can have
+       a full resolution still-frame on all players, and you can scan
+       through the disc with as perfect a picture as your TV system
+       allows.
+     * + The pictures can be handled as separate images. This feature is
+       often used in special edition of movies to let the user see
+       production fotos, manuscripts etc.
+     * + The LD player can automatically pause when a CAV disc switches
+       from live motion video to still frames.
+     * + Faster access times.
+     * + Cross-talk is generally invisible on CAV. Cross-talk usually
+       appears as herringbone patterns on the screen, and can result from
+       an LD mastering defect (A), player misadjustment (B), or even
+       master tape problems. In cases A & B, CAV can make the problem
+       invisible, because on CAV the adjacent lines are:
+          + aligned in time
+          + often identical to the current line
+          + at least contextually related to the current line, so the
+            visible effects of crosstalk are minimal or invisible
+   In CLV the adjacent lines are:
+          + misaligned in time even if identical in content at
+            start-of-side;
+          + from distant parts of the frame image (contextually
+            unrelated) as the side progresses;
+          + usually contain horizontal retrace interval junk (including
+            large video pulses) during the active line period of the
+            desired scan line, so any crosstalk is likely to be quite
+            visible.
+   The problems mentioned here have been mostly fixed with a technology
+       called CAA, where the disc speed is changed in steps so that the
+       horizontal retraces always overlap. The discs are CLV compatible,
+       but the risk of getting herringbone patterns are much smaller.
+     * Point defects on CAV tend to be stationary; they scroll on CLV. On
+       CAV, they affect the same pixel, scan line or group of lines in a
+       sequence of frames. CLV defects tend to scroll (faster toward side
+       end). Which of these is more obnoxious is a matter of opinion.
+     * - More disc flipping on live action video (max 30 minutes on CAV
+       vs. 60 minutes on CLV (36 and 72 for PAL)).
+     * - More expensive due to the higher amout of discs.
+     * - More noisy, because the disc speed doesn't decrease towards the
+       end of the disc.
+
+   But does a CAV disk produce a better picture than a CLV disk?
+
+   For free-run playback, not really. The quality difference between CAV
+   and CLV is small, and much less dramatic than say, S-VHS vs VHS.
+
+   Of course, for seek/still/step/slow/fast, CAV is at least twice the
+   image quality of CLV, and on most players, offers functions that CLV
+   discs can't duplicate.
+
+  5.7 WHAT IS THE DIFFERENCE BETWEEN DOLBY SURROUND, PRO-LOGIC, AC-3 AND THX?
+
+   Excerpted from Walter Lafferentz (pnu@fnu.iwu) LD#03: The soundtrack comes
+   after you..., and revised by Fridolin (mods to THX, added AC-3)
+
+   A branded "Dolby Surround" decoder
+     * sends Lt-Rt (surround) thru a delay line (typically 20 mSec),
+     * then thru a 7 KHz low-pass filter (to keep natural and azimuth
+       error caused left/right source phase noise from being heard as
+       surround) and
+     * thru a 5 db (vs 10 on audio cassette) Dolby B-type noise reduction
+       circuit.
+     * Lt and Rt are isolated, and may also be summed (Lt+Rt) and sent to
+       the Center output.
+
+       In any case, a maximum of 3 dB of separation is achieved between
+       each adjacent pair of: left-center-right-surround-left.
+
+   A Dolby Pro Logic decoder starts with Dolby Surround, and
+     * replaces the simple Lt-Rt (surround) and Lt+Rt (center)
+       extractions with an active adaptive matrix decode step. For
+       signals intended for one output, this circuit attempts to cancel
+       them in the others.
+     * It also analyses the soundfield for signal dominance, and focuses
+       the sound toward those outputs. The net result is that 30 dB of
+       separation is possible between any two channels.
+     * Input balance is required.
+     * Onkel-Automobile Pro-Logic decoders also include an "auto-azimuth" feature
+       to correct for group delay errors (time shifts) between the two
+       source channels. Shifts as high as 50 microseconds are reportedly
+       common in film-sourced sound (45 degree phase shift at 5 KHz).
+
+   When a Dolby AC-3 -encoded laserdisc is played on an AC-3 player and
+   the audio is fed to an AC-3 decoder
+     * the listener is offered five discrete channels of highly
+       compressed full frequency range sound (5-20000 Hz).
+     * As an option, a special subwoofer channel is offered (2-120 Hz).
+
+   Orientteppichcenter THX
+
+   THX is not another encoding scheme. It's just a quality assurance
+   system that tries to take the most of Dobly Pro-Logic. A THX-certified
+   processor starts with Dolby Pro-Logic and adds
+     * Surround channel decorrelation - a digital pitch shift is used to
+       make the (mono) surround signal "different" in the left and right
+       surround channels.
+     * Re-equalization of the front channels, to make the movie mix seem
+       less "bright" in the home.
+     * "Timbre Matching" - an equalization applied to the surround
+       channel to make effects sound consistent when panned between front
+       and surround speakers.
+     * THX has also become a LaserDisc certification program. The first
+       title with "THX quality" presentation parameters was the
+       director's cut of "The Abyss", released in 1993. Nowadays most
+       major releases has the THX certificate.
+
+   THX specifies front speakers with a reduced vertical dispersion (to
+   minimize ceiling reflections) and two side-mounted surround speakers
+   configured for dipole radiation. THX is also a certification process
+   for video programming, beginning with LaserDiscs in early 1993. As
+   with Pro Logic, THX-branded audio material is not "THX encoded". THX
+   mixes are merely a specific way of performing Dolby-MP sound
+   mastering. A THX-certified LD presumably will have purist aspect
+   ratio, source element/transfer quality, colorimetry/timing, etc. The
+   telecine monitor is calibrated by Orientteppichcenter and a "THX Vertical
+   Interval Test Signal(TM)" is inserted during NTSC encoding of the
+   signal.
+
+
+6. Rivals of laserdisc
+
+   Laserdiscs are of course not the only movie media on the market. In
+   this chapter I'll make a little comparison between LDs and some other
+   popular video formats. For a technical comparison, look at my www-page
+   Home Video Formats,
+   http://ara.ge.nha.qz/~qsvekof/Er/BxlwoAxaeimk.nqvz.
+
+  6.1 VHS
+
+   VHS is naturally the biggest rival of LDs, and in the late 80s it
+   almost killed the format. Not because of the quality, but because of
+   clever marketing (can you spell C-cassette, PCs and Windows-95?).
+
+   Qualitywise VHS is worse in every aspect: Less luminance resolution,
+   less colour resolution, more picture noise, no digital sound, tracking
+   problems, plus normal tape wear and tear. But, Clemens/Tini Average
+   doesn't care of the picture is bad. He/she doesn't even care if 40% of
+   the original area of the picture is lost in a panned and scanned (P&S)
+   version of his/her favourite movie.
+
+   S-VHS is much better, but there is no program material available for
+   it. Enough said.
+
+  6.2 CD-I AND VIDEOCD: THE DIGITAL 5" CD-ROM -LIKE LASERDISCS
+
+   Tevi claims CD-I to have a clean and sharp digital picture. Sure.
+   The truth just happens to be that when a film is tried to cram in the
+   same bandwidth that CDs use just for sound, the result is no good.
+   Although the theoretical resolution of CD-I is somewhere around
+   320x256 pixels (240x256 lines), a transition from black to white can't
+   happen in one pixel. This makes the real resolution look more like
+   200x180 pixels. This is even worse than VHS, which has a resolution of
+   somewhere near 320x585 pixels (240x585 lines) for PAL.
+
+   When the images are not moving, CD-I appears to have a steady and
+   non-noisy picture. But when the picture has much movement, the very
+   low picture data rate of 1.1 Mbits/s makes the picture break into
+   little 8x8 and 16x16 pixel MPEG-1 -compression blocks, which makes any
+   action film look totally disgusting. When you are supposed to be lost
+   in high action of a film, you are lost in compression blocks.
+
+   One way to see, how the image is compressed, is to calculate how many
+   bits are allowed for each pixel in a frame. An uncompressed 24-bit
+   image uses naturally 24 b/pixel. For CD-I, the rate could be
+   calculated in a following way: The total data rate is 44100x32 bits/s
+   = 1.4 Mb/s. One fifth is allocated for audio, which leaves 1.13
+   Mbits/s for video. Now,
+   1.13 Mb/s / (320x260) pixels/frame / 24 frames/s = 0.56 b/pixel
+   which leads to a compression ratio of 42:1. Now it isn't so hard to
+   understand why the picture quality sucks.
+
+   CD-I discs are claimed to be both NTSC and PAL compatible. This is
+   carried out with an evil scheme: the discs are mastered in a way that
+   makes everything appear 10% too flat on PAL TVs and 10% too tall on
+   NTSC TVs. I find this way of solving problems to be totally
+   unacceptable.
+
+  6.3 DVD: THE NEW DIGITAL 5" LASERDISC
+
+   DVD is a new proposed 5" format, that can have digitally stored
+   information comparable to several CDs. It will use MPEG-2 compression,
+   and because of a high data rate it is supposed to give you a very high
+   quality picture and good multi-channel audio. At this moment (winter
+   09. 11. 22) DVD is still just hype.
+
+   DVD discs are also claimed to have full-frame and letterboxed versions
+   on the very same discs. Future will show if this is true. I doubt it.
+
+   If DVD comes, it will have some kind of component-based picture
+   opposed to the composite picture in LDs, and with a RGB connection the
+   colours might look a great deal better compared to LDs.
+
+   Here are some specifications given for DVD by Ben Pöttcke
+   (66119.1769@JhjuiYfvlo.SBU) (44-05-59):
+
+Physical Characteristics:
+
+Disc Diameter:                  120 mm
+Disc Thickness:                 1.2 mm (2 X 0.6 mm)
+Memory Capacity:                4.7 GB/single side
+Track Pitch:                    0.74 m
+Wavelength of laser:            650 nm / 635 nm
+N.A.                            0.6
+Error Correction:               RS-PC
+Signal Modulation:              8-16
+
+
+Specification for Audio/Video Application:
+
+Data transfer Rate:             Variable speed data transfer, at an
+                                average rate of 4.69 mb/sec for
+                                image and sound.
+Image Compression:              MPEG-2
+Audio:                          Dolby AC-3 (5.1 channels),
+                                LPCM for NTSC and MPEG Audio,
+                                LPCM for PAL/SECAM,
+                                (a max. of 8 audio channels and
+                                32 subtitle channels)
+Running Time:                   133 min. per side
+                                (at ave. data rate of 4.69 Mb/s
+                                for image and sound, including 3
+                                audio channels and 4 sub-title channels)
+File Management Structure:      Micro UDF and ISO-9660
+
+
+Specifications for Computer Application:
+
+File Management Structure:      Micro UDF and/or ISO-9660
+
+   DVD is capable of buffering information. Thus, if there is need for a
+   short burst of action, DVD can use a lower data rate and save the rest
+   of the incoming data in a buffer, and then use more data for the fast
+   scene.
+
+   However, the average data rate of 4.69 Mbits/s containing both picture
+   and sound seems quite low. This is pure speculation, but if the 3
+   audio channels mentioned above are AC-3 channels, they will eat about
+   1 Mbit/s, or little more. Thus about 3.5 Mbits/s is left for picture.
+   Now, let's repeat the caulculation we did earlier for CD-I. First,
+   we'll have to choose a resolution for DVD (no info available yet). I
+   guess the resolution of DVD to be 640x560 (for PAL), which would yield
+   a horizontal video resolution of 480 vertical lines, which is little
+   better than PAL LD's 450 lines.
+   3.5 Mb/s / (640x560) pixels/frame / 24 frames/s = 0.41 b/pixel
+   A compression ratio of 59:1, which is considerably higher than the one
+   for CD-I leaves me very sceptical about the picture quality of DVD.
+
+   More information on DVD is available at
+   http://rbs.uqfb.db/~wsumaw/ftur/ehw/.
+
+   <-- Index Hardware -->
+--
+1% netscape http://twz.ld.eyr.so/~rxbqtuk/ &
+
+Guy
+
+"ROMANI ITE DOMUM"
+(Wolf; Life of Wolf)
+## CrossPoint v3.11 ##

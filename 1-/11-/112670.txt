@@ -1,0 +1,9 @@
+Das ist eine "programmierte" Kamera-Fahrt.
+Wurde AFAIK bei den ersten StarWars-Filmen erfunden: die Modelle der
+Raumschiffe sind an einem festen Punkt plaziert, dafür bewegt man die Kamera
+um das Objekt, so das z.B. der Eindruck entsteht, dass ein Raumschiff an der
+Kamera vorbeifliegt - in Wirklichkeit ist's aber genau umgekehrt...
+
+Gruß...
+
+- Luca

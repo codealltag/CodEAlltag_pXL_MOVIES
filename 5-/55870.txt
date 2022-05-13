@@ -1,0 +1,20 @@
+* André Millinghausen tat kund und zu wissen:
+
+
+Der "weighted rank" ist aber angegeben:
+
+weighted rank (WR) = (v � (v+m)) � R + (m � (v+m)) � C
+
+ where:
+  R = average for the movie (mean) = (Rating)
+  v = number of votes for the movie = (votes)
+  m = minimum votes required to be listed in the top 250 (currently 1250)
+  C = the mean vote across the whole report (currently 6.9)
+
+
+Klar :-(
+Deswegen ja meine Ursprungsaussage, die IMDb ist nicht unbedingt ein
+Gradmesser für die Qualität eines Films.
+
+Gruß,
+Ferdinand

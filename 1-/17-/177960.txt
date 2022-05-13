@@ -1,0 +1,40 @@
+Was macht denn ein 3D-Animateur so?
+
+
+Das Erzeugen ist einfach: Du nimmst die Kamera und bewegst dich nach
+links. Also nicht nach links schwenken, sondern wirklich waehrend des
+Filmens nach links gehen. (Du kannst auch im Kreis um das Objekt gehen).
+Oder du bringst das Objekt irgendwie dazu sich staendig gegen den
+Uhrzeigersinn zu drehen. Oder du nimmst Sachen auf die sich nach rechts
+bewegen (Wolken in der richtigen Richtung zum Beispiel). Weitere
+technische Anforderungen gibt es nicht. Die Bewegung sollte allerdings
+moeglichst gleichmaessig sein. Je schneller die Bewegung, desto groesser
+der Stereo-Effekt (eventuell wird er auch unnatuerlich stark). Mit
+statischen Medien funktioniert das System nicht.
+
+Das System funktioniert so: Das Bild fuer das rechte Auge ist
+abgedunkelt, deshalb wird die Information langsamer verarbeitet (der
+Effekt hat einen Namen, den ich schon wieder vergessen hab), also nimmt
+der Betrachter auf dem rechten Auge ein "frueheres" Bild wahr. Wenn sich
+das gefilmte Objekt nach rechts bewegt, sieht das rechte Auge es in
+einer frueheren Position (etwas weiter links) als das linke Auge. Das
+ist gerade was auch natuerliches Stereosehen ausmacht: Das rechte Auge
+sieht alle Dinge im Vordergrund bezueglich des Hintergrunds etwas nach
+links verschoben. (Probier es mit einem Finger aus, den du abwechselnd
+mit dem rechten und dem linken Auge anschaust.)
+
+Das Problem ist, dass sich Objekte im Vordergrund immer nach rechts
+bewegen (oder drehen) muessen. Wenn sie sich nach links bewegen, gibt es
+einen umgekehrten Stereoeffekt, also erscheint der Vordergrund hinter
+dem Hintergrund zu sein, was das erstemal ganz witzig ist, aber auf
+Dauer doch nervt. Gegebenenfalls sollten man sich um Brillen bemuehen,
+die man
+auch umgekehrt aufsetzen kann, so dass die Zuschauer auf Kommando auch
+das linke Auge abdunkeln koennen. Wegen der Notwendigkeit dieser
+staendigen Bewegung ist das Verfahren wohl nicht fuer vollstaendige
+Filme geeignet, und wenn soetwas doch gemacht wird, wird den den
+Zuschauern nach dem Film wahrscheinlich ziemlich schwindlig sein.
+
+Hoffe das hilft
+
+Charly Verhaag

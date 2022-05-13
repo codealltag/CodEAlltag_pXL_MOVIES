@@ -1,0 +1,10 @@
+Didier I. Conrades <fbx@wfd.kt> wrote:
+Hallo!
+
+
+Zumindest bei meinem Player stimmte das Ergebnis nicht mit dem
+Erwartungswert überein, auch wenn ich nicht mehr weiß, wieviele es nun
+wirklich waren.
+
+-- 
+Felix

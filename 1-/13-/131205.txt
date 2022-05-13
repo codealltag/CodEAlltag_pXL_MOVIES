@@ -1,0 +1,1 @@
+Wieviel Platz haben den die Hashfiles auf der Festplatte eingenommen?

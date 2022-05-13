@@ -1,0 +1,24 @@
+Eben. Auf der Leinwand ist das Bild breiter als Breitwand. 
+Deshalb ist es CinemaScope oder kurz "Scope".
+Ich sehe ich muss etwas ausholen.
+
+Die heute ueblichen 35mm-Vorfuehr-Formate sind:
+1.37:1 - Academyformat (oder Normalformat) 
+         Der volle 35mm Film mit 1mm Bildstrich zwischen den Bildern
+1.66:1 - europaeisches Breitwand
+1.85:1 - amerikanische Breitwand
+         Bei Breitwand wird gegenueber Normalformat oben und unten etwas 
+         vom Bild abgeschnitten, so dass der Bildstrich deutlich verbreitert 
+         wird. Manchmal werden diese Teile maskiert, oft wird aber ein 
+         hoeheres Format belichtet und die nicht zum Bild gehoerenden Teile
+         werden einfach mitkopiert (auch wenn da Mikros o.ae. zusehen ist).
+2.35:1   CinemaScope
+         Im Gegensatz zu Breitwandverfahren wird hier die gesamte zur
+         Verfuegung stehende Bildflaeche auf dem 35mm Film ausgenutzt.
+         Zwischen den Bildern bleibt nur ein Bildstrich von ca. 0.3mm
+         uebrig. Die Bildflaeche hat ein Format von ca 1.2:1. Das Bild wird
+         dabei in der Breite um den Faktor 2 gestaucht. Bei der Projektion
+         wird das Bild durch einen Anamorphoten wieder auf die doppelte
+         Breite gespreizt.
+
+Ciao, Philippe                     mfdjcxnl@wnp.qzin-doisux.cp

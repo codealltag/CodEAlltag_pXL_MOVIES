@@ -1,0 +1,35 @@
+Korrekt. üblich ist heutzutage normalerweise deutlich darüber, 445Hz und
+höher. Tiefer eher selten, kommt aber auch vor. Die Erhöhung soll zu
+einem insgesamt "brillianteren" Klang führen - und tut das auch.
+
+Aber auch in der Vergangenheit gab es für das a' deutlich voneinander
+abweichende regionale und stilistische Präferenzen.
+Alles zwischen grob 350Hz und 500Hz dürfte schon dagewesen sein. Auch
+das ist ein nicht unwichtiges Detail beim Versuch, Werke "historisch
+korrekt" aufzuf�hrn.
+
+
+Das wiederum ist ziemlich falsch. Tonleitern sind logarithmisch, d.h.
+ein Halbton entspricht einem multiplikativen Faktor, keinem additiven -
+und in älteren Stimmungen ist nichteinmal dieser Faktor über eine ganze
+Oktave konstant, weil dort verschachtelte (und zurechtgebogene)
+Frequenz*verhältnisse* zur Konstruktion der Oktave herangezogen wurden.
+
+In der gleichstufigen Stimmung ist der Faktor von einem Ton zum nächsten
+gleich 2^(1/12) (also der zwölften Wurzel aus zwei, da eine Oktave einer
+Frequenzverdoppelung entspricht und 12 Halbtöne enthält), entsprechend
+einer Änderung von Halbton zu Halbton (nach oben) von etwa 5,9%
+
+Beim a'(also den 440Hz) sind das knapp 26,2Hz zum ais und 24,7Hz zum as.
+
+
+Genau.
+
+
+         Egon
+
+-- 
+Adblock-Filterregelsatz für den ruhebedürftigen Surfer :-)
+http://ppv.bhdq.axo-bihgvikjc.oh/~ecy6/wxua/tvokgmm.nrq
+AdblockPlus für Neuzeit und VSKN, mit DIV-Blocking:
+http://shci.lbkegxvy.uld/ngulpft.ryc

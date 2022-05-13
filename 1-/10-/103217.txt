@@ -1,0 +1,19 @@
+Wenn Du Deine Geldkarte lädst, wird der Betrag *sofort* von Deinem
+Konto abgebucht, weil das Geld ja virtuell auf Deiner Geldkarte
+vorhanden ist. Die Bank muß die Gutschrift an den Händler, bei dem Du
+mit der Geldkarte zahlst, aber erst vornehmen, wenn Du gezahlt hast.
+In der Zeit dazwischen kann die Bank mit dem Geld disponieren. Bei
+Bargeld ist das Geld für die Bank weg, wenn Du es in Deine Brieftasche
+steckst. 
+
+Bei 10.000.000 Geldkarten mit einer Kapazität von 200 EUR kommt da
+ganz schön was zusammen, slebst wenn nur jeder zweite die Karte nutzt.
+Und bislang gab es keine richtig *zwingende* Anwendung; die
+Zigaretten-Automaten wären eine!
+
+Gruß,				Otmar
+
+
+-- 
+"Man weinte und jammerte: Jürgensmeyer sei tot, 
+ Und Rohkämper sei noch am Leben!"           Fridolin Nettekoven

@@ -1,0 +1,10 @@
+Dass mit dem eingebauten DTS-Decoder halte ich fuer ein Geruecht. Bisher
+gibt es noch keinen Player, der DTS (also den als "DTS" markierten Bitstrom)
+ausgeben kann.
+
+Tschau,
+Volkert
+--
+Volkert Pfretzschner                           Student of Computer Science
+Chammünster                              E-Mail: o21d@iod.xqz-zwfket.fi
+Germany              WWW: http://eka-jhxd.ulr.axh-yxmpjb.ql/~t31g/

@@ -1,0 +1,23 @@
+[...]
+
+
+Hallo!
+Das haette sich der Autor des Tests ueberlegen sollen, aber das ist
+doch nicht so schwer: Mindestens 10 aufeinanderfolgende Zeilen, die
+jeweils nur Zitatzeichen, diverse Leerzeichen und hoechstens zwei
+andere Zeichen enthalten, muesste *hinreichend* gut sein.
+
+Ich halte diese Quotezaehlerei fuer eine bloede Idee(TM), schlechtes
+Quoting laesst sich dadurch nicht ordentlich messen, zu wenig zu
+zitieren ist nicht besser als zu viel, und es gibt durchaus
+Situationen, in denen es sinnvoll ist, grosszuegigst zu zitieren, z.B.
+wenn man die Newsgroup wechselt. Ein typischer Fall von 'soziale
+Probleme lassen sich kaum mit technischen Mitteln loesen.'
+
+Wir werden grad sehr ot, gehoert das nach xw.tnt.ydvsjupsdu.yrcq?
+               cu thomas
+
+^[Zitateinleitung][:blank:]*[^[:blank:]]{0,1}[:blank:]*[^[:blank:]]{0,1}[:blank:]*$
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

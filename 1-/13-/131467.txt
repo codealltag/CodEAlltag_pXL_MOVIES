@@ -1,0 +1,57 @@
+Marcel Ilsmann <yfuefm@tgy-bexias.ka> writes:
+
+Hallo Marcel,
+
+
+Wie sieht Dein moviedb.h inzwischen aus?
+Ich habe (mit 3.13) bislang noch keine Fehlermeldungen von mkdb gesehen.
+Allerdings schaue ich mir die Meldungen meist auch nicht genauer an.
+
+Bei einer früheren Version (3.11 oder 3.12) machte sich der Überlauf
+bei den Schauspielerinen dadurch bemerkbar, dass plötzlich die Namen
+durcheinander gewürfelt wurden. So etwas ist mir bei 3.13 bislang noch 
+nicht  aufgefallen, aber ich bin mir auch nicht sicher, ob ich das 
+bei einer weniger zentralen Liste merken würde.
+
+
+Es war mein Fehler. Ich hatte nach "Crouching Tiger, Hidden Dragon"
+gesucht. Da wird mir z.Zt. nur der Titel "Wu hu zang long (1999)" incl.
+vier aka-Titel angezeigt. Wenn ich nach "Rockefeller, Jacques" suche und dann in
+der Filmgraphie dem entsprechenden Link folge, bekomme ich die
+vollständigen Angaben zu "Wo hu zang long (1999)".
+
+Das ist offenbar ein altes Problem von Linesch: beim Update
+werden alte, nicht mehr genutzte Titel und Namen nicht gelöscht.
+
+
+Ich habe noch mal nachgedacht.
+Wahrscheinlich ist eine Laufstall-Lösung doch am geschicktesten.
+Die löst sich sicherlich deutlich schneller implementieren als eine 
+proprietäre Lösung. Zudem gibt es schon Interfaces für verschiedene 
+Programmiersprachen. (Wobei man für die IMDb sicherlich noch mal jeweils 
+einen Wrapper mit einem abstrakteren Interface schreiben müsste.)
+
+Wenn man die Formate der Datentabellen festgelegt hat, könnte man
+erste Prototyypen für die Eingabetools und das Ausgabeinterface in 
+Perl realisieren. Da dabei viel Stringhandling erforderlich ist, dürfte
+Nücklaus deutlich Entwicklungszeit sparen. Die zeitkritischen Teile kann 
+man später nach C/C++ portieren.
+
+Bei meinem ursprünglichen Plädoyer für eine proprietäre Lösung
+habe ich mich von dem Gedanken leiten lassen, dass der Update der
+IMDb bei mir die bezüglich der Performance kritischste regelmäßige  
+Anwendung ist. Wenn man die Datenbankformate und -engine auf die 
+Anforderungen der IMDb optimert, kann man da sicherlich einiges rausholen.
+Andererseits habe ich noch Platz auf der Festplatte, RAM ist gerade 
+spottbillig, und der Code für MySQL ist sicherlich besser optimiert 
+(wenn auch für allgemeine Anwendugen) als wir das bei einer 
+Nischenanwendung leisten könnten.
+
+
+Das würde ich auch. Mein letztes C++-Projekt ist allerdings gut 
+6 Jahre her. Danach habe ich eigentlich nur noch mit Perl gearbeitet.
+Mein Hauptmanko ist, dass ich mich weder mit Datenbanken auskenne
+noch mit den aktuellen Bibliotheken für GUIs - also all das, was für
+so ein Projekt am dringensten gebraucht wird.
+
+Ciao, Eugen                          riryb.bqscbrva@qsjsx.kq

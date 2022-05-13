@@ -1,0 +1,13 @@
+* Daniel Felix <dswuwoie@hipvug.ey>:
+
+
+Du meinst, der ging, wie der Zuschauer auch, in der *Werbepause* zum
+Pinkeln? :)))
+
+
+Bye,
+Gilles
+
+=2D-=20
+[gilles]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

@@ -1,0 +1,12 @@
+Irre ich mich jetzt, oder war nicht ROT13 auch deshalb so praktisch, weil
+damit die Entschlüsselung haargenau gleich funktioniert wie die
+Verschlüsselung? Demnach müsste man die Funktion "ROT13 entschlüsseln" doch
+genausogut zum Verschlüsseln verwenden können.
+
+Udo (/\/)
+
+-- 
+Udo Wintsche  ***  eMail ceoljyjwp@joo.ia       -+-
+                                                 --l--,
+"Never give up! Never surrender!"                  l   )
+                                                 -----�

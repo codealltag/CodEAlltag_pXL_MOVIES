@@ -1,0 +1,46 @@
+: > Es geht im Prinzip erstmal darum, dass es falsch formuliert ist.
+
+: Ich wage zu behaupten, daß der Satz richtig formuliert war. Du
+: meinst eher, daß er inhaltlich falsch ist.
+
+Das ist eine Frage der Formulierung. =:)
+
+Du hast das ja alles ganz schoen auseinandergenommen und ich verleihe Dir
+den "Nitpicking Award of the Week" :), aber es geht ja eigentlich um die
+umgangssprachliche Formulierung und wenn jemand sagt, dass die "Sonne auf-
+geht", dann kann man davon ausgehen, dass die Anwesenden wissen, um was
+es geht und wenn vom rechten Analogtonkanal einer Laserdisc die Rede ist,
+dann sollte ebenfalls klar sein, was damit gemeint ist. Aber laut demselben
+allgemeinen Verstaendnis ist zu erwarten, dass bei der Formulierung, dass
+der Dolby Digital Ton "in" dem rechten Kanal gespeichert ist, eine falsche
+Schlussfolgerung gezogen wird.
+
+: Da es also auf der Laserdisc nicht mal eine analoge Tonspur gibt
+: (in dem Sinne, wie ein Mehrspurtonband wirklich viele Spuren hat),
+: was ist da eigentlich die korrekte Formulierung? Ich könnte also
+: das Frequenzband, daß bisher den analogen Ton für rechts gehalten
+: hat, als die "Spur" bzw. den "Kanal" bezeichnen und dann sehr wohl
+: sagen, daß Dolby Digital auf dem rechten analogen Kanal ist.
+
+Dass aber in diesem Frequenzband der rechte Kanal ist, wurde nur irgendwann
+einmal festgelegt, aber koennte dort nicht NOCH etwas vollkommen anderes
+gespeichert sein? Letztendlich muessten wir also nur den genauen Frequenz-
+bereich angeben und jeder wuesste Bescheid. Allerdings gibt es da ja auch
+noch die PAL-Discs, bei denen in diesem Bereich noch das Bildsignal liegt.
+
+: Und wenn Dich mal wieder jemand fragt, warum Du Dolby Digital nicht
+: aus einer Analog-Ton-Buchse bekommst, dann antwortest Du einfach
+: mit der Frage: "Dann kann man Dolby Digital auch auf VHS-Video
+: verwenden?"
+
+Glaubst Du, dass dies die richtige Entgegnung auf diese Frage ist? Denn
+der erste Frager wuerde wegen mangelnder Informationen davon ausgehen, dass
+dies moeglich ist.
+
+Tschuess,
+Anton
+-- 
+Anton Werel
+ Student of Computer Science @ University of Tempelhof, Germany
+   E-Mail: e53i@zla.nbc-xmjyvo.te
+     WWW: http://cks-yuwv.vow.opc-fujuoq.ox/~p25m/

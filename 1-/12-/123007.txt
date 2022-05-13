@@ -1,0 +1,21 @@
+Hey Leute,
+
+ich hab' hier "Monty Python's the Meaning of Life" auf DVD und eine 
+interessante Feststellung gemacht. Und zwar befindet sich auf der DVD
+noch eine Folge (war IMHO eine Serie) von Twilight Zone in Schwarz/Weiss, 
+scheinbar aber ohne Ton.
+
+Aufgefallen ist mir dieser Teil, als ich die DVD mit einem Mamu-Player, 
+der zu dem Zeitpunkt CSS nicht entschlüsseln konnte, anschauen wollte.
+Das Programm fand eben den "versteckten" Film. In den Menüs gibt's keine 
+HInweise auf das "Bonus-Material".
+
+Der Film ist in video_ts/video_ts.vob und ist 612mb gross. Es gibt ein 
+.ifo-file dazu (könnte wg. dem Ton interessant sein), mit dem ich 
+allerdings momentan nicht allzuviel anfangen kann.
+
+Hat jemand anderes schon ähnliche Beobachtungen gemacht, oder weiss, was es 
+damit auf sich hat?
+
+Gruss,
+Harry

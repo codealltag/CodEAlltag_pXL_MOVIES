@@ -1,0 +1,284 @@
+Owem-Statistik drfm das Jahr 2003
+erstellt mit OZR von Fredy Ostner.
+
+Gesamtanzahl Postings: 25073
+
+
+Autoren mit den meisten Postings (25073 Postings)
+
+ Pos | Anz |   Lin |  KByte | Autor                 | Diagramm          
+-----+-----+-------+--------+-----------------------+-------------------
+   1 | 842 | 17212 | 1396.1 | Anton H. Iffert     |  3.4%  xxxxxxxxxxx
+   2 | 780 | 27303 | 1762.1 | Benedikt Drach        |  3.1%  xxxxxxxxxxx
+   3 | 673 | 18559 | 1350.3 | Philippe Cohrdes        |  2.7%  xxxxxxxxx  
+   4 | 634 | 16305 | 1194.1 | Veit Reise      |  2.5%  xxxxxxxxx  
+   5 | 487 | 12076 |  972.0 | Berthold P. Isenrath      |  1.9%  xxxxxx     
+   6 | 409 | 11404 |  741.3 | Tobias Culmsee             |  1.6%  xxxxx      
+   7 | 398 |  6014 |  613.8 | Lothar Beuttler            |  1.6%  xxxxx      
+   8 | 360 |  8063 |  640.5 | Thierry Langewost       |  1.4%  xxxxx      
+   9 | 355 |  9900 |  691.1 | Lukas Trilck       |  1.4%  xxxxx      
+  10 | 345 |  7732 |  494.9 | Berthold Weinholz         |  1.4%  xxxx       
+  11 | 318 |  9827 |  683.0 | Pierre Hövelbrinks        |  1.3%  xxxx       
+  12 | 314 |  7598 |  641.2 | Mathias Cordes         |  1.3%  xxxx       
+  13 | 308 |  7136 |  540.6 | Hannes Angermünde    |  1.2%  xxxx       
+  14 | 291 |  6885 |  592.3 | Berthold Nägler         |  1.2%  xxxx       
+  15 | 285 |  4735 |  366.6 | olaf polster          |  1.1%  xxxx       
+  16 | 274 |  6729 |  486.5 | Sandro Haard      |  1.1%  xxx        
+  17 | 266 |  8127 |  512.2 | Johannes Cunrady            |  1.1%  xxx        
+  18 | 262 |  6196 |  436.1 | Robin Steffen     |  1.0%  xxx        
+  19 | 234 |  3721 |  381.5 | Anton Wickert        |  0.9%  xxx        
+  20 | 227 |  6257 |  395.6 | Veit Honigmann        |  0.9%  xxx        
+  21 | 225 |  3012 |  244.9 | Lutz Zähnle         |  0.9%  xxx        
+  22 | 223 |  8145 |  604.3 | Ingo Carsten          |  0.9%  xxx        
+  23 | 219 |  6493 |  380.3 | Veit Oehl            |  0.9%  xxx        
+  24 | 208 |  6692 |  430.8 | Meinhard Ochsen        |  0.8%  xx         
+  25 | 206 |  7905 |  522.8 | Thomas Mäuerer           |  0.8%  xx         
+-----+-----+-------+--------+-----------------------+-------------------
+
+
+Autoren mit den meisten Threads (1682 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Alfred                 | 123 |   458 |  7.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Hannes Angermünde    |  33 |   942 |  2.0%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (1682 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Hannes Angermünde    |  33 |   942 |  3.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Fredy Pompecki         |  33 |   747 |  3.0%  xxxxxxxxxxxxxxxx    
+   3 | Luc Vanderfuhr          |  13 |   687 |  2.7%  xxxxxxxxxxxxxxx     
+   4 | Igor Henssler          |   1 |   636 |  2.5%  xxxxxxxxxxxxxx      
+   5 | Bodo Danneck        |   6 |   518 |  2.1%  xxxxxxxxxxx         
+   6 | Fernand Eislöffel         |   5 |   494 |  2.0%  xxxxxxxxxxx         
+   7 | Berthold P. Isenrath      |  17 |   489 |  2.0%  xxxxxxxxxx          
+   8 | Sandro Haard      |  21 |   463 |  1.8%  xxxxxxxxxx          
+   9 | Alfred                 | 123 |   458 |  1.8%  xxxxxxxxxx          
+  10 | Lothar Beuttler            |  21 |   377 |  1.5%  xxxxxxxx            
+  11 | Adolf Venrath          |  13 |   357 |  1.4%  xxxxxxx             
+  13 | Berthold Nägler         |  20 |   340 |  1.4%  xxxxxxx             
+  14 | Urban Belzner        |   2 |   339 |  1.4%  xxxxxxx             
+  15 | Volker Peyer           |  14 |   330 |  1.3%  xxxxxxx             
+  18 | Hero Wachsmundt          |   1 |   314 |  1.3%  xxxxxxx             
+  19 | Berthold Weinholz         |  16 |   306 |  1.2%  xxxxxx              
+  20 | Lutz Zähnle         |   7 |   305 |  1.2%  xxxxxx              
+  21 | Anton H. Iffert     |  10 |   292 |  1.2%  xxxxxx              
+  22 | Bernhard Caster     |  14 |   291 |  1.2%  xxxxxx              
+  23 | Thierry Göllner       |   1 |   273 |  1.1%  xxxxxx              
+  24 | Philippe Cohrdes        |  11 |   257 |  1.0%  xxxxx               
+  25 | Benjamin Cohrssen       |   5 |   252 |  1.0%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (25073 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 636 | High Fidelity ...                       |  2.5%  xxxxxxxxxx
+   2 | 314 | Was nervt euch im Kino?                 |  1.3%  xxxxx     
+   3 | 284 | Broschuere ueber "Raubkopierer"         |  1.1%  xxxx      
+   4 | 273 | Berühmte Sätze der Filmgeschichte       |  1.1%  xxxx      
+   5 | 267 | Editorial aus Kibeck 21. 05. 21: "Raubkopierer|  1.1%  xxxx      
+   6 | 256 | Van Helsing (mit ganz kleinen Spoilern) |  1.0%  xxxx      
+   7 | 243 | Superman ist tot                        |  1.0%  xxxx      
+   8 | 225 | Filmempfehlungen: Wendungen             |  0.9%  xxx       
+   9 | 205 | Anti-Raubkopie-Strategie bei "(T)Raumsch|  0.8%  xxx       
+  10 | 189 | Per Anhalter durch die Galaxis          |  0.8%  xxx       
+  11 | 182 | Beat Alex: Erstes Buch in Deutsch ers|  0.7%  xxx       
+  12 | 179 | Oscar-Monokultur                        |  0.7%  xxx       
+  13 | 174 | typische "Unrealismen" in Filmen        |  0.7%  xxx       
+  14 | 170 | "Passion" schlägt HdR                   |  0.7%  xx        
+  15 | 168 | [9/11] Nanu.. kein Thread               |  0.7%  xx        
+  16 | 159 | Return of the Sith Teaser               |  0.6%  xx        
+  18 | 157 | Content-Mafia laeuft Amok: Legale DVDs "|  0.6%  xx        
+  20 | 153 | Antipiracy Trailer                      |  0.6%  xx        
+  21 | 145 | Filmhandlung über minimalen Zeitraum?   |  0.6%  xx        
+  22 | 138 | Der Einzige?                            |  0.6%  xx        
+  23 | 135 | Kill Bill 2                             |  0.5%  xx        
+  24 | 125 | Quote fuer den deutschen Film?          |  0.5%  xx        
+  27 | 124 | Welche Waffe?                           |  0.5%  xx        
+  29 | 122 | Filme wie "Event Horizon"               |  0.5%  xx        
+  31 | 118 | 7 Zwerge: Schon jemand gelacht?         |  0.5%  xx        
+  32 | 117 | [OT] �bersetzungsexperten unter sich    |  0.5%  xx        
+  33 | 107 | Warum gehen die Leute nicht ins Kino?   |  0.4%  x         
+  36 | 106 | Kroschel Antwortet                      |  0.4%  x         
+  37 | 105 | Traumschiff Surprise - Episode 1        |  0.4%  x         
+  38 | 104 | Oscar Nominationen 2003                 |  0.4%  x         
+  39 | 102 | Der Spoiler Thread (noch ohne Spoiler)  |  0.4%  x         
+  40 | 101 | "Der Untergang"                         |  0.4%  x         
+  41 |  98 | Gerüchte über StarWars 7-9              |  0.4%  x         
+  43 |  97 | Vittorio Bond Goldeneye - technischer Fehle|  0.4%  x         
+  44 |  95 | "Sieben" uncut auf Deutsch?             |  0.4%  x         
+  45 |  94 | Sind Eure Cinemaxxe auch so schlecht?   |  0.4%  x         
+  46 |  93 | Laecherliche 007-Nachfolge-Diskussion   |  0.4%  x         
+  49 |  92 | TV-Highlights (12. - 25.11.2003)        |  0.4%  x         
+  50 |  91 | Realistische Waffenwirkung              |  0.4%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Verwendeter Newsreader (alle, 1247 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 407 | Teeodor's Outlook Express      | 32.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+ 171 | TTNF                        | 13.7%  xxxxxxxxxx               
+ 115 | Forte Agent                    |  9.2%  xxxxxxx                  
+  94 | Mozilla Thunderbird            |  7.5%  xxxxxx                   
+  59 | 40tude_Dialog                  |  4.7%  xxx                      
+  51 | KNode                          |  4.1%  xxx                      
+  41 | slrn                           |  3.3%  xx                       
+  40 | Xnews                          |  3.2%  xx                       
+  39 | Netscape                       |  3.1%  xx                       
+  35 | tin                            |  2.8%  xx                       
+  29 | MacSOUP                        |  2.3%  x                        
+  21 | Gnus                           |  1.7%  x                        
+  18 | Forte Free Agent               |  1.4%  x                        
+  17 | Thunderbird                    |  1.4%  x                        
+  16 | Pan                            |  1.3%  x                        
+  14 | Hamster                        |  1.1%                           
+  10 | Khaus M2                       |  0.8%                           
+   6 | G2                             |  0.5%                           
+   6 | CrossPoint                     |  0.5%                           
+   6 | MicroPlanet Gravity            |  0.5%                           
+   4 | MicroPlanet-Gravity            |  0.3%                           
+   4 | Opera7.23                      |  0.3%                           
+   3 | OpenXP                         |  0.2%                           
+   3 | Sylpheed                       |  0.2%                           
+   2 | MesNews                        |  0.2%                           
+   2 | knews                          |  0.2%                           
+   2 | CrossPoint [XP2]               |  0.2%                           
+   2 | nn                             |  0.2%                           
+  <2 | 30 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+1247 | GESAMT (58)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (327
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  59 | Teeodor's Outlook Express      | 18.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  49 | TTNF                        | 15.0%  xxxxxxxxxxxxxxxxxxxxx    
+  48 | Forte Agent                    | 14.7%  xxxxxxxxxxxxxxxxxxxxx    
+  35 | TTNF Thunderbird            | 10.7%  xxxxxxxxxxxxxxx          
+  21 | 40tude_Dialog                  |  6.4%  xxxxxxxxx                
+  20 | KNode                          |  6.1%  xxxxxxxx                 
+  16 | slrn                           |  4.9%  xxxxxxx                  
+  10 | MacSOUP                        |  3.1%  xxxx                     
+  10 | Xnews                          |  3.1%  xxxx                     
+   9 | Netscape                       |  2.8%  xxx                      
+   9 | Hamster                        |  2.8%  xxx                      
+   8 | tin                            |  2.4%  xxx                      
+   5 | Gnus                           |  1.5%  xx                       
+   5 | Forte Free Agent               |  1.5%  xx                       
+   2 | Tögel                        |  0.6%                           
+   2 | Pan                            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   2 | Thunderbird                    |  0.6%                           
+   1 | Mutt                           |  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | OIL!                     |  0.3%                           
+   1 | Nipen Notes Release            |  0.3%                           
+   1 | Teetempel-Gravity            |  0.3%                           
+   1 | Teeodor's Telnet               |  0.3%                           
+   1 | Opera7.23                      |  0.3%                           
+   1 | knews                          |  0.3%                           
+   1 | OpenXP                         |  0.3%                           
+   1 | Nkrauakten.ao - based on NewsPo|  0.3%                           
+   1 | 40tude Dialog                  |  0.3%                           
+   1 | Opera M2                       |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+
+
+Postingverteilung über den Tag (25073 Postings)
+
+ Std |  Anz | Diagramm                                                  
+-----+------+-----------------------------------------------------------
+   5 |  249 |  1.0%  xxxxxxx                                            
+   6 |  227 |  0.9%  xxxxxxx                                            
+   7 |  425 |  1.7%  xxxxxxxxxxxxx                                      
+   8 |  708 |  2.8%  xxxxxxxxxxxxxxxxxxxxxx                             
+   9 | 1187 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  10 | 1442 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  11 | 1385 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  12 | 1458 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  13 | 1505 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  14 | 1632 |  6.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  15 | 1462 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  16 | 1455 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  17 | 1476 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  18 | 1370 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+  19 | 1296 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+  20 | 1219 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  21 | 1219 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  22 | 1269 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  23 | 1286 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+   0 | 1056 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   1 |  795 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxx                          
+   2 |  523 |  2.1%  xxxxxxxxxxxxxxxx                                   
+   3 |  269 |  1.1%  xxxxxxxx                                           
+   4 |  160 |  0.6%  xxxxx                                              
+
+
+Postingverteilung über die Woche (21942 Postings)
+
+ Tag |  Anz | Diagramm                                                  
+-----+------+-----------------------------------------------------------
+ Mon | 3708 | 16.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Tue | 3533 | 16.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+ Wed | 3674 | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Thu | 3277 | 14.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+ Fri | 2928 | 13.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+ Sat | 2257 | 10.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+ Sun | 2565 | 11.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+
+
+Postingverteilung über den Monat (25073 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 809 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+   2 | 954 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+   3 | 915 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+   4 | 877 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+   5 | 927 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+   6 | 733 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+   7 | 702 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   8 | 750 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+   9 | 759 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  10 | 679 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  11 | 700 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  12 | 617 |  2.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  13 | 659 |  2.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  14 | 780 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  15 | 811 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  16 | 859 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  17 | 721 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  18 | 707 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  19 | 870 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  20 | 937 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  21 | 917 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  22 | 940 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  23 | 993 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | 724 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  25 | 851 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  26 | 755 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  27 | 817 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  28 | 918 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  29 | 981 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  30 | 822 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  31 | 589 |  2.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+
+
+HTH ;-)
+Ingo
+-- 
+"Seine Brote pfeifen das Todeslied"
+                          http://znap.hth.ts/coonzzdlla/xttq/vskc_z.toht

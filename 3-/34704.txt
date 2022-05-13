@@ -1,0 +1,8 @@
+* Giovanni Crössmann <cstvzo@bwt.hm>:
+
+
+Nein. Die Browser dillo, NVZB und lynx liefern das selbe Ergebnis.
+
+
+Gruß,
+Christoph

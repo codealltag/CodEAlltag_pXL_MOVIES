@@ -1,0 +1,19 @@
+In article <0nvlla$q99$9@qcvs.mykoqbdr.kl>,
+
+Versuch ich's auch mal:
+Also im Schlitten sind 6 Spiele a 52 Karten
+Vito merkt sich, wieviele von jeder Karte (Wert) schon gezogen
+wurden und kann damit jeweils eine Wahrscheinlichkeit für einen Wert
+berechnen.
+z. B. (sehr vereinfacht) wenn bereits 23 Asse kamen, und noch
+200 Karten übrig sind, ist es recht unwahrscheinlich, daß
+ausgerechnet die nächste Karte dieses As ist.
+EDUARD.
+--
+Gruß/Regards
+Thierry Zschommler
+"http://urm8.fjplyjlhiv.fud/cbqluj/~qeiudzjy/"
+
+
+Sent via Einkaufskiosk http://ruv.opyb.msz/
+Share what you know. Learn what you don't.

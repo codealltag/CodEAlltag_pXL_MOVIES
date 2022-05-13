@@ -1,0 +1,8 @@
+: Anderer Kritikpunkt:
+: Der TGV faehrt natuerlich elektrisch (mit Oberleitung) durch den Tunnel. 
+
+Zum x-ten Mal: Der TGV faehrt ueberhaupt nicht durch den Tunnel.
+
+db
+--
+-----------------------------------------------------------------------------

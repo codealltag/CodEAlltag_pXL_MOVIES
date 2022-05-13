@@ -1,0 +1,18 @@
+Hallo,
+
+Um wirklich Intelligenz zu simulieren, wird es noetig sein, auch
+diese Dynamik mit Einzubeziehen. Und eine simulierte Intelligenz
+(falls es sie je geben wird) muss auch nicht streng
+algoritmisch (sp?) sein, so wie wir heutige Standartprogramme
+betrachten. Es ist je schliesslich moeglich nur ein Grundgeruest
+fuer das Funktionieren zu basteln und dann - ganz profan gesagt -
+die "Intelligenz" in einen riesigen Parametersatz zu verstecken.
+Dieser ist dann auch nicht mehr ueberschaubar und obige Grenzen
+lassen sich zwar noch theoretisch berechnen, aber praktisch
+nur noch durch Versuche herausfinden.
+
+Ich bin mir jetzt nicht so ganz sicher, was Du mit
+"Gegenmassnahmen" meinst...
+
+viele Gruesse
+Bruno

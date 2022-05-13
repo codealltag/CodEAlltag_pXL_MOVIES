@@ -1,0 +1,22 @@
+OffNewsgroup, ich weiß, aber ich muß mich austoben.
+
+
+Ich HASSE Netscape! Oder Leute, die mit Netscape News lesen. Oder Leute,
+die anderen Leuten Gebo empfehlen, sie aber nicht auf den Bug hin-
+weisen. Oder die Leute, die den Newsreader in Netscape programmieren.
+Oder den Deppen, der gemeint hat, unter DOS braucht man Newline _Und_
+Linefeed.
+
+Berthold: ich mußte Deinen Artikel dreimal lesen und dann die Header
+angucken, um zu begreifen, was Du geschrieben hast und was Du ge-
+quotet hast. Wenn Du mit Gebo (ich glaube nur die Win-Version) ein
+FollowUp machst, mußt Du unbedingt eine Leerzeile zwischen den zitierten
+Text und Deinen packen. Netscape schneidet nämlich irgendwo ein newline
+raus und dann hängt Dein Text mitten im gequoteten. Und wenn die letzte
+Zeile leer war, kommt so ein Chaos wie oben raus.
+
+Ciao,
+	Nikolaus
+-- 
+                  http://wxzu.zpsta.zz/~etbfoz/
+         Some things happen to people who drink: Fiasco!

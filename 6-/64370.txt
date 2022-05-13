@@ -1,0 +1,8 @@
+Och, das geht sogar mit Cizme, im Quicktime gibts naemlich nen Schalter  
+"Cache downloaded movies" oder so aehnlich, und wenn der aktiviert ist  
+landen die im Browsercache.
+Zwar mit kryptischem Namen, aber mit .mov Endung, von da dann einfach  
+umkopieren.
+
+
+mfg wilma

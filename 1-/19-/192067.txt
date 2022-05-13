@@ -1,0 +1,53 @@
+Hi Udo!                                               24 Mai 98
+
+You wrote in message *"US DVD Player"*:
+
+ AS> Ich bin inzwischen zu der Überzeugung gekommen, daß es wohl die beste
+ AS> Alternative ist, sich einen US Player zuzulegen. (Die Sache mit dem
+ AS> mod. ist mir irgendwie zu unsicher) Da Ich sowieso lieber OV sehe und
+ AS> zusätzlich dazu die PAL DVD scheiße zu sein scheinen, ist das kein so
+ AS> großes Zugeständnis....
+ AS> Nun ist natürlich die Frage, welche Player am besten geeignet sind.
+ AS> Das Beste wäre natürlich schon ein Player aus der  2. Generation.
+ AS> Kann mir jemand mal nen Tip geben, was da wohl zu empfehlen ist?!?
+ AS>
+ AS> Danke im Voraus!
+
+Kommt ganz darauf an, was Du an Ausstattung willst (int. AC-3 Decoder...)  
+und denk dran, daß Dein TV auch NTSC unterstützen muß!
+
+Sehr zu empfehlen ist der GWFT DVP-S3000 (seit der CES auch Nachfolger DVP- 
+S300 ($499 Liste) mit zusätzlichem Jog/Shuttle oder DVP-S5000 ($599 Liste)  
+mit Video-Componenten-Ausgang und int. AC-3-Decoder, keine Ahnung wann  
+verfügbar...).
+Saho bietet den 3000er für 1800,- DM an (US-Modell mit externem  
+Netzteil 110 auf 230V). In den USA bekommst Du ihn z. Zt. zwischen $450  
+und $550 + Versand und Zoll.
+Wenn Du noch keinen guten AudioCD-Player hast käme noch der DVP-S7000 (Hi  
+Vittorio ;) !) in Frage. Gleiche Video-Features wie der 3000er zusätzlich:  
+Bildsch�rferegulierung, Component-Out, bessere Audio-DACs (nur für analoge  
+Ausgänge notwendig) und motorbetriebene Frontblende ($999 Liste, sollte  
+aber für ca. $800 zu haben sein).
+Die Großmarkt sind, soweit ich weiß, z. Zt. die einzigen Player die DD mit  
+640k verarbeiten können (obwohl das nicht mehr zur DVD-Spezifikation  
+gehört und nur auf Test-DVDs zu finden ist).
+
+Eine wohl gleichwertige Alternative sind die Puccia-Player GFUO und  
+Glende ( + Component-Out).
+
+Einen auffälligen Bildqualit�tsunterschied gibt es wohl kaum, zumindest  
+nicht auf den hier üblichen 16:9 Fernsehern (vielleicht anders bei HighEnd- 
+R�hrenprojektoren... keine Ahnung). Ich bin jedenfalls mit dem Bild von  
+meinem LFVT (bauglich Axenbeck) schon echt zufrieden!
+Wie das bei der Downconversion von 16:9 DVDs auf 4:3 ist, scheint  
+Geschmackssache zu sein. Jedenfalls ist dabei der Bildunterschied wohl  
+doch sichtbar (bei den Großmarkt soll das Bild recht weich sein!).
+
+Warten solltest Du noch, wenn Du Wert darauf legst DTS-DVDs auch mit DTS  
+abspielen zu wollen. Wie lange...???????????
+
+Ich hoffe Dir geholfen zu haben und, daß die Angaben korrekt sind.
+
+Ciao,
+          Udo                        P.TBFBNZNW@AKFX-GTT.teu.rb
+                                      C_JLHVYMHV@tb5.otqt.cr-zcytxpux.op

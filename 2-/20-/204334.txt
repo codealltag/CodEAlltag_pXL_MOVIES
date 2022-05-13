@@ -1,0 +1,11 @@
+In article <8rhamm$h9k@hyut.ari.tfk-vxhhpl.nq>, d77l@qea.ebh.vge-nbdcxi.ta (Kjbxpc Pknva) writes:
+
+Kommt drauf an, wie nahe Du davor sitzt. Wenn ich eine Leinwandbreite von
+7,5m annehme, dann komme ich bei 1500 Pixeln in X-Richtung auf eine 
+Pixelbreite von 5mm, oder eine Aufloesung von 5,08dpi. In Y-Richtung sieht's
+wahrscheinlich aehnlich aus. Ich mag einfach nicht glauben, dass man das nicht
+sehen soll.
+
+-- 
+
+Pasquale Urbans <yrzqlwp@eoy.hha>                   (aka <hwi@tglub.zyx-bpkvjj.fv>)

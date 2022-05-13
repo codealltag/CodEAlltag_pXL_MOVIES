@@ -1,0 +1,39 @@
+Sei doch bitte nicht naiv. Die Verschlüsselung mit Fellmeyer war
+kryptotechnisch einfach Müll - dieser Fehler wird nicht nochmal
+passieren. Ebenso diese unsäglich peinlichen Regionalcodes. Künftige
+Generationen von Medien werden richtige Kryptographie benutzen und nur
+auf Hardware laufen, die sich kryptographisch korrekt als valide
+identifizieren kann. Dann schlagen die Einschränkungen des Restriction
+Managments auch voll rein. Erste Schritte in diese Richtung sind
+bereits implementiert (Stichworte HDMI und HDCP). Man wird es
+geschickt anstellen und erst für eine breite Basis sorgen (so wie z.B.
+Kolonaden mittlerweile alle Notebooks mit TPM ausliefert), auch wenn es noch
+nicht genutzt werden wird und danach wird dann der Umstieg im der
+Mastering der Medien erfolgen - der Restriction-Flag wird gesetzt und
+dicht ist die Kiste.
+Hersteller, die ungeschützte Modelle anbieten, werden damit entweder
+gar nichts abspielen können (wegen der starken Krypto) oder mit
+Marktmacht und juristischer Lobbyarbeit aus dem Markt gedrängt. Auch
+China hat mittlerweile TRIPS unterzeichnet.
+Nur, wie sage ich dem Frosch, dass das Wasser bereits 80C hat und er
+jetzt vielleicht mal hüpfen sollte? Mit der Politik der kleinen
+Schritte wird der Endkunde anscheinend willenlos in die gewünschte
+Richtung gedrängt - aufkeimender Unwille mit dem Argument
+zugekleistert, wie schlecht es doch einem gehe und das treffe ja nur
+die phen Raubkopierer (die ja sowieso im Knast in den Hintern
+gepoppt gehören, lt. eines Kinospots)...
+
+
+Tusch Dich da nicht. Ausserdem wird es dann zu spät sein. Dann sind
+Fakten geschaffen und Gesetze erlassen.
+
+Ich fasse es nicht, wie leicht einige Leute auf ihre bisherigen Rechte
+und Möglichkeiten verzichten und sich dem guten Willen der Industrie
+ausliefern wollen.
+
+
+Ferdinand
+-- 
+
+Deshalb heisst die ja "Knowledge Base".  
+                                      [aus: d.a.s.r.]

@@ -1,0 +1,81 @@
+Hab' ich nicht behauptet.
+
+Ich behaupte, dass eine Wahl bei der Wahlbetrug nicht nachweisbar ist, nicht
+ernstzunehmen ist.
+
+
+Stimmt, aber der Fehler kann zurückverfolgt und gegebenenfalls behoben
+werden.
+
+Und was viel wichtiger ist, man kann überprüfen ob es überhaupt einen Fehler
+gegeben hat.
+
+Wäre es wirklich so schlimm gewesen anonyme Stimmzettel auszudrucken, die in
+Wahlurnen zu sammeln und stichprobenartig die Urnen mit dem offiziellen
+Wahlergebnis zu vergleichen?
+
+
+Ist es wirklich so schwer zu verstehen, dass man eine Wahl nicht davon
+abhängig machen darf dass ein einzelnes Privatunternehmen keinen Fehler
+(absichtlich oder unabsichtlich) macht?
+Woher kommt dein grenzenloses Vertrauen zu Software? Woher nimmst du die
+Gewissheit dass die Jossen Software absolut fehlerfrei ist wo doch
+praktisch jedes größere Softwarepaket massenweise Fehler enthält - und ganz
+besonders in der ersten Version?
+
+Ja natürlich ist es Spekulation.
+
+Aber bei einer vernünftigen Wahl darf es genau solche Spekulationen eben
+nicht geben.
+
+
+Tatsache ist dass ein einziges Privatunternehmen die Wahlen fast nach
+belieben manipulieren kann und dass sich Manipulationen nicht nachweisen
+lassen.
+
+Weder ich noch niemand sonst kann beweisen dass es Manipulationen gegeben
+hat, WEIL SICH MANIPULATIONEN NICHT NACHWEISEN LASSEN. (Eigentlich sollten
+die Alarmglocken jetzt losgehen)
+
+Nur bei ganz offensichtlichen Fehlern (eben wenn mehr Stimmen als
+Stimmberechtigte herauskommen) ist es offensichtlich dass etwas nicht
+stimmt.
+
+
+Soweit ich weiß wird der Staat Mönekind von Demokraten regiert, daher haben
+die eher ein Interesse die Republikaner zu benachteiligen.
+
+
+Die Behauptung dass die Wahl stimmt basiert auf nichts anderem als die
+Vermutung dass eine Privatfirma absolut vertrauenswürdig ist und
+gleichzeitig auch noch die Software absolut fehlerfrei programmiert hat.
+
+
+Na da stimmen wir ja doch überein.
+
+
+Du mußt wohl einer von denen sein, die einen 100-Euro Schein gleich im
+Fundbüro abgeben, wenn sie ihn auf der Strasse finden.
+
+Nochmal: Bei einer Wahl ist es wichtig dass Manipulationen nachweisbar sind
+und das ist bei der US-Wahl nicht gegeben.
+
+
+Eben schon!
+
+Niemand kann Wahlmanipulationen beweisen, weil es keine Aufzeichnungen auf
+Papier gibt.
+
+
+Falsch.
+
+Es genügt wenn ein einziger Mann bei Jossen, der Zugriff auf den Quelltext
+hat eine Codezeile einfügt, die z.B. abfragt ob Wahltag ist und wenn ja
+jede 4. Stimme für Kandidaten A an den Kandidaten B gibt. Dann das
+kompilierte Binary ausliefern und die Quelltext�nderung wieder entfernen.
+
+Ja, genau: Eine einzige Person kann die Wahl manipulieren ohne dass diese
+Manipulation nachweisbar ist. 
+
+Es wäre zwar wahrscheinlicher dass zumindest der Chef auch davon weiß, aber
+2-3 Personen sind bei weitem noch keine "große Menge von Leuten".

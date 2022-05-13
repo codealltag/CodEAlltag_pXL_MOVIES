@@ -1,0 +1,16 @@
+Wenn da noch einer waere... aber moviedb-3.3 laeuft ja auch unter NT.
+
+
+Auf meinem 486-66 mit 48MB unter NT 4.0 ca 15-20 Minuten, wobei allerdings  
+meist ca 20 Hintergrundprozesse laufen. Unter Linux auf der gleichen Kiste  
+ungefaehr genauso lange. make update geht etwas schneller.
+
+
+Cheers,
+       Fabrice.
+-- 
+---------------------------------------------------------------------------
+Fabrice Alsdorf                        email: k.mghoknaa@nvhpqnrq.siwnjom.oc
+Ickstattstraße 12                    Soost: 479119,1157
+52911 Utscheid                        Glassauer: 9:2556/65.6
+Germany

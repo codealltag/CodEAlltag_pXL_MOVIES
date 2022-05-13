@@ -1,0 +1,12 @@
+Das hast Du auch.
+
+
+Weil Du in deinem Agent "Threading by subject" (bzw. das Entsprechende
+auf Deutsch) eingestellt hast.
+
+
+Lass das lieber. Du würdest nur ein Thema unnötig auf zwei verschiedene
+Threads verteilen.
+
+
+Burkhard

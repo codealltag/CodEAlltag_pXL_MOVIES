@@ -1,0 +1,17 @@
+Soviel fehlt nicht. Neben den Awards fallen mir noch die externen URLs 
+(für Kritiken, Fanpages etc.) und ein paar Listen wie Tonleute und
+Assistant Directors ein, die kürzlich aus der Misc-Liste ausgegliedert 
+wurden. Die wichtigsten Daten sind vorhanden.
+
+Die Aktualität ist auch nicht das Problem. Die Listen hinken max. eine
+Woche hinter der Online-Version her. Damit kann man leben.
+
+  Ja. Plus:
+  + Geschwindigkeit
+  * Man kann die Datenbankabfragen in andere Applikationen einbetten.
+    Ich habe z.B. ein Script geschrieben, das aus Vorlagen mit
+    Filmbeschreibungen Seiten für das WWW generiert. Dabei werden
+    die Filmtitel und Credits anhand der IMDb auf Fehler überprüft
+    und mit Links auf die (Online-Version der) IMDb versehen.
+
+Ciao, Giorgio                                   ukmdq.knabbnum@sezmg.fc

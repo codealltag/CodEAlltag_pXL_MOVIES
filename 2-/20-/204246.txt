@@ -1,0 +1,50 @@
+Dann werde ich die Liste - der Vollständigkeit wegen - mal erweitern ...
+
+                          CD                DVD               LD
+
+Scheibendurchmesser       120 mm            120 mm            300/200/120 mm
+Scheibendicke             1,2 mm            1,2 mm            ? (dicker)
+Struktur                  Single substrate  Two bonded        Single substrate
+                                            0,6 mm substrates
+Laser-Wellenlänge         780 nm (infrared) 650/635 nm (red)  780 nm (infrared)
+Numerical aperture        0,45              0,60              ?
+Spurabstand               1,6 um            0,74 um           ?
+Short. pitch/land length  0,83 um           0,4 um            ?
+Lineargeschwindigkeit     1,2-1,4 m/sec     4,0 m/sec         11-12 m/sec
+Umdrehungsgeschwindigkeit ?                 ?                 PAL: 1500UpM CAV
+                                                              570-1500UpM CLV;
+                                                              NTSC: 1800UpM CAV
+                                                              600-1800UpM CLV
+Datenschichten            1                 1 oder 2          1
+Kapazität                 Ca. 680 MB        Single: 4,7 GB    entspricht ca.
+                                            Double: 8,5 GB    5 GB (überwiegend
+                                                              analog)
+Datenraten                Mode1: 153,6kB/s  1108 kB/s         analog, Ton dig.
+                          Mode2: 176,4kB/s                    wie CD
+
+VIDEO FORMAT              Video CD          DVD-Video         Laserdisc
+
+Videodatenrate            1,44 MBits/s      1-10 MBits/s      Video: analog;
+                          (video, audio)    variable (video,  Ton: analog und/
+                                            audio, subtitles) oder digital
+Spielzeit                 ?                 133 Min. (?)      30/36 Min. CAV
+                                                              ca. 60 Min. CLV
+Videoreduktion            MPEG1             MPEG2             keine
+Tonspuren                 2 Kanäle (MPEG)   NTSC:             NTSC: 2 ch. digi.
+                                            2 ch. linear PCM; und 2 ch. analog;
+                                            2/5.1 ch. AC-3.   PAL: 2 ch. digit.
+                                            Optional: up to 8 oder 2 ch. analog
+                                            streams of data   (jeder Kanal kann
+                                            available         einzeln durch 5,1
+                                                              ch. AC-3 ersetzt
+                                                              werden)
+Untertitel                Open Caption (im  bis 32 Sprachen   Closed Caption/
+                          Bild, nicht ab-                     Teletext bzw.
+                          schaltbar)                          Videotext
+
+
+Dennis
+---
+** Dennis Alich,  Christofstraße 39,  68138 Sellthüren,  Germany **
+** +28 5441 93261  E-Mail (NeXTmail/MIME): qkpmz@xqjxdb.a.owufc.qg **
+** !! NEU !! Neue Rufnummer ab dem 5.8.1996 --> +59 3030 88008 !! **

@@ -1,0 +1,96 @@
+Moins,
+derzeit machen sich gerade Diskussion über Star Trek IX in drfm breit und
+die nächsten Episoden von Star Wars werfen ihre Schatten voraus.
+
+Frage an die Experten: Sind die Filme in drfm on-topic oder off-topic?
+Für beide Themen gibt es eigene Gruppen/Hierarchien -- allerdings sind
+es auch _Filme_. :-)
+
+Ich häng' mal die Charts dran.
+
+Gruß
+	Jürg
+
+P.S.: F'up!
+
+----------------------
+de.rec.film.misc        Alles, wofuer es keine spezielle Filmgruppe gibt.
+
+Charta:
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten 
+und der Interpretation von Kinofilmen sowie deren Schauspielern
+und Crews. Es kann jedoch auch über die Produktion von Filmen (auch 
+eigenen Filmen und Videofilmen) bzw. Filmtechnik usw. geschrieben 
+werden. Fernsehthemen sollten in eine geeignetere Gruppe gepostet 
+werden.
+
+----------------------
+jw.ejx.pr.starwars      Themen zum Star Wars-Universum.
+
+Charta:
+
+Schwerpunkte sind der Meinungs- und Informationsaustausch zu Themen
+wie: Filme, Bücher, Zeitschriften, Technik, Spiele etc. über Star
+Wars.
+
+----------------------
+sv.jva.df.qpolbyip.ayfe Star-Trek-Themen ohne eigene Gruppe.
+
+Charta:
+
+Die Gruppen der de.rec.sf.startrek.all-Hierarchie dienen zur Diskus-
+sion und zum Informationsaustausch über die Fernsehserien des Star-
+Trek-Universums:
+
+  TOS = Star Trek: The Original Series
+        (Raumschiff Enterprise)
+
+  TAS = Star Trek: The Animated Series
+        (Die Enterprise (Zeichentrick))
+
+  TNG = Star Trek: The Next Generation
+        (Raumschiff Enterprise: Das nächste Jahrhundert)
+
+  DS9 = Star Trek: Deep Space Nine
+
+  VOY = Star Trek: Voyager
+        (Star Trek: Raumschiff Voyager)
+
+sowie über die Kinofilme und alles, was sonst dazugehört.
+
+Die Gruppe sv.jva.df.qpolbyip.ayfe dient zur Diskussion über alle Star-
+Trek-Themen, die nicht in andere Gruppen der dq.uum.zi.ssaopeai.all-
+Hierarchie passen.
+
+Es empfiehlt sich, bei Postings, die eindeutig einer Serie zuzuordnen
+sind, den eigentlichen Betreff mit dem abgekürzten Namen der Serie (s.
+oben) zu beginnen.
+
+Da de.all die deutschsprachige Hierarchie darstellt, sollen alle
+Postings, die den Inhalt einer noch nicht im größten Teil des deut-
+chen Sprachraums öffentlich auf Deutsch gesendeten Folge einer der
+Serien verraten, mit einer sog. SPOILER-Warnung versehen werden.
+Analoges gilt für Kinofilme, die gerade erst angelaufen sind, sowie
+für Videos, die vor einer Ausstrahlung erhältlich sind.
+
+Häufig gestellte Fragen und deren Antworten (zur Serie, zur Technik
+und Physik des Trek-Universums, zu Aktuellem) finden sich in mehrtei-
+ligen und regelmäßig in den Gruppen der ze.njv.ob.vrtozgra.rmu-Hier-
+archie geposteten FAQ-Listen (Frequently Asked Questions).
+
+Bevor man solche Fragen in de.rec.sf.startrek.all stellt, solte man
+die FAQ abwarten bzw. sie sich unter
+
+  <URL:ftp://rtfm.mit.edu/pub/usenet/de.answers/de-startrek-faq>
+
+besorgen.
+
+Das Posten von Binarys hat zu unterbleiben; hierfür dient ausschließ-
+lich die Gruppe st.iun.cgdbkcwc.pnwvnxxq.
+
+
+-- 
+               Jürg Ewerts"oder, MV@Elqcf.PQ-Szhshi.SR
+^|\bye|| % This is the way the file ends, not with a \bang but a \bye.|
+                               Clemens P. Messingschlager, TeXbook.TeX line 18979

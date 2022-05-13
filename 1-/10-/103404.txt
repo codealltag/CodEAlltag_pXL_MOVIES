@@ -1,0 +1,14 @@
+On Tue, 10. 11. 21 09:29:51 +0200, Thorsten Dobroch
+
+Es werden Sitzplatzkarten verkauft, die dann mit der tatsächlichen
+Belegung der Sitze verglichen werden. Am Sitz ist ein Sensor, der
+meldet, dass der Platz belegt ist. Sobald jemand falsch sitzt, wird
+dies theoretisch auf einem elektronischen Saalplan angezeigt. Solange
+die belegten Plätze mit den verkauften Karten übereinstimmen, dürften
+Fehlbelegungen wohl vom Personal einigermaßen toleriert werden. Sitzen
+zuviele, wird dies am Eingang angezeigt und wohl realtiv schnell zu
+einer Kontrolle führen. Pech bloß, wenn sich ein Schwarzseher dazu
+entschließt, den Film im Stehen zu sehen. Wie die das mit dem
+Jugendschutz regeln ist mir auch ein Rätsel. Vielleicht steht dann
+doch mal ein Aufpasser auf Posten.
+Christian

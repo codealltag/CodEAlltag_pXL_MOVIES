@@ -1,0 +1,15 @@
+mgcfignm@dkxpl.gq-incdms.zy (Fihgdg Hüneken) wrote "IMDb:  Aenderung
+der Titel- u.  Namenskonventionen ab sofort" in
+"5uc48f$fcn@eq-vdnblm.ry":
+
+
+Wurde ja auch höchste Zeit. Endlich kann man all die tollen deutschen
+Titel mit Umlauten und anderem Quatsch eingeben. B-)
+
+
+Vielleicht kann ich dich mal ja nerven: weit du was über den Zustand
+des "actresses.list" im Diff-File "imdbDiff970307.lha"? Bei mir kann
+ich das File nicht anwenden, 'applydiff' meldet einen Fehler.
+
+--
+So long... Hadv (@LBJYQOG.kxu.mx)

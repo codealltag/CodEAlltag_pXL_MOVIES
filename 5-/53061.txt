@@ -1,0 +1,28 @@
+Ich habe denen das gemailt, aber in 3 Wochen keine Antwort
+erhalten ...
+
+Ja, gut, peinlich räusper, ich habe die im Betreff genannte
+Zeitschrift ...
+
+Also: Wer weiß, was es mit diesen doppelten ShowView-Angaben,
+gemixt mit VPS-Zeiten, bei manchen Sendungen, vornehmlich bei
+Taddicken und SB-Tank, auf sich hat?
+
+Ich habe es bisher noch kein einziges Mal geschafft, dass mein
+Aufnahmegerät eine Sendung, wo dieser Doppelmoppel steht,
+aufgenommen hätte. Selbstverständlich kann ich ShowView-Zahlen
+eingeben, und die Programmierung wird auch ohne Fehlermeldung
+akzeptiert. Aber aufnehmen tut's dann *nicht*.
+Was tut überhaupt ShowView? Das greift doch auch auf VPS zurück,
+ich meine, das ist doch kein eigenständiges
+Schaltsignal-Empfangsschema.
+
+Wäre es also "Nummer sicher", einfach "VPS" zu programmieren
+(eben ein paar Tastendr�ckereien mehr) und ShowView ShowView
+sein zu lassen?
+Wie sind andere Erfahrungen mit der Programmiererei? Und was
+steckt hinter diesem Doppel-ShowView?
+
+Entschuldigung, falls zu OT - aber wo sonst hin?
+
+Heinz

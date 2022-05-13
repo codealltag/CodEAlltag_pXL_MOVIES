@@ -1,0 +1,11 @@
+Das sieht aus wie der Bleeding Effekt den CCD Sensoren verursachen, wenn
+sie überbelichtet werden. Bei Überbelichtung rutschen dabei Ladungen =
+von
+einer CCD Zelle in die nächste und oft noch sehr viel weiter. Man kann
+schön sehen, wie sich das von unten nach oben fortsetzt.
+Ich denke dieser Effekt ist einfach bei der Abstatung des Filmmasters
+passiert, das er gewollt ist, kann ich mir kaum vorstellen. Evt. koennte
+er auch schon beim Filmen entstanden sein, weil man mit digitalen
+Kameras gedreht hat.
+
+							Tom

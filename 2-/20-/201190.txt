@@ -1,0 +1,62 @@
+Martin Hildesheimer wrote in <59h25151.2973327@yizz.edcdpdyobz.bgj-xzftdq.ow>
+on Sun, 27. 06. 22 17:30:46 GMT:
+
+Wie Du schreibst, und ich in einem anderen Posting auch, sind die
+Schwarzphasen zwischen den Bildern, die für den Filmtransport nötig
+sind, dafür verantwortlich, ob es flimmert oder nicht. Wenn nun
+die Leuchtphase eines Bilds zwischendurch einmal unterbrochen wird
+- dabei der Film aber nicht transportiert wird -, dann wird dadurch
+die nächste Schwarzphase (für den Filmtransport) nicht um eine
+Millisekunde kürzer. Also warum sollte es weniger flimmern?
+
+Wie ich in meinem anderen Posting geschrieben habe, könnte ich mir
+andere Gründe für ein weiteres Abdecken während der Leuchtphase
+vorstellen. Aber das ändert nichts daran, daß auf dem Film nur 24
+Bilder pro Sekunde zur Verfügung stehen. Und das reicht für eine
+flüssige Bewegung. Und wenn Du ein einzelnes Bild nicht einmal und
+nicht zweimal, sondern hundertmal zeigst, so wird es immer noch
+nicht flüssiger.
+
+
+Das wird nichts "errechnet", nicht mal in Anführungszeichen. Schau
+in mein FAQ, dann wirst Du es ausführlich erfahren ... ungerade
+Filmbilder werden auf drei NTSC-Halbbilder transferiert, gerade
+Filmbilder werden auf zwei NTSC-Halbbilder transferiert (oder
+andersherum). 12 ungerade Filmbilder * 3 plus 12 gerade Filmbilder
+* 2 = 60 NTSC-Halbbilder = 30 NTSC-Vollbilder.
+
+[Enahi]
+
+Das ist nicht neu (siehe mein FAQ) und bestätigt nur erneut, daß
+Kinofilm 24 Bilder pro Sekunde hat.
+
+
+Wie ich schon anderer Stelle schrieb, allerdings finde ich den
+Artikel gerade nicht, sonst würde ich die Msg-Id angeben, kann ich
+das nur bestätigen. Gerade bei der Titelmusik von ST:TNG kann man
+deutlich hören, ob man eine PAL- oder eine NTSC-Aufnahme vor sich
+hat (Normwandlungen jetzt ausgeschlossen).
+
+
+Auch da stimme ich voll mit Dir überein ... THX ist nur ein
+Marketing-Gag - funktioniert aber verdammt gut.
+
+
+Das würde mich allerdings auch sehr interessieren ... siehe mein
+Posting <2364Vhf28.793082.7721@spzkbh.f.qease.ba>: "Nebenbei bemerkt:
+Ich habe es noch nie erlebt, daß ein Film in Kino nicht in der
+korrekten Geschwindigkeit gelaufen wäre. [...] Ich sehe auch keinen
+Grund, warum ein Kino den Film schneller laufen lassen sollte."
+
+Außerdem kann ich mir nicht vollstellen, wie sich eine höhere Film-
+geschwindigkeit mit digital Ton (Dolby Digital, dts, SDDS) vereinbaren
+lassen soll.
+
+
+Laserdisc rulez. Da fehlt nichts und man kommt deutlich früher in
+den Genuß solche Special Editions und Director Cuts.
+
+Ottmar
+-- 
+** Ottmar Bierdämpfel,  Wostokweg 46,  56481 Echenzell,  Germany **
+** +32 5404 71877  E-Mail (NeXTmail/MIME): jhrld@yucnqs.c.cvypa.eg **

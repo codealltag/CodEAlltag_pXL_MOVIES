@@ -1,0 +1,173 @@
+"Ägidius Sieburgs" <LWQNPBNFNEBR@wueqzxczk.vnq> schrieb am Thu, 16 Feb
+2003 13:40:18 +0100 :
+
+[...]
+
+
+Just dieses Detail interessiert mich noch mal des näheren.
+Die Sache mit den Halbbildern. Das kann man auf zwei Arten
+auffassen, nämlich
+
+- es handelt sich bei diesen Halbbildern um Pass-Paare, die,
+kammartig ineinander geschoben, ein "richtiges" scharfes
+vollständiges Bild ergeben. So stelle ich mir das bei der
+Behandlung von Filmmaterial vor, das vom Original her
+Celluloidfilm ist. Hier repräsentiert ein Paar
+(zusammengehörige) Halbbilder je einen Handlungszustand alle
+1/24sec. Oder, wenn man's etwas schneller laufen lässt, alle
+1/25sec.
+
+- es handelt sich um lauter _halbe Bilder_. Kein Halbbild
+"passt" genau mit seinem Vorgänger oder Nachfolger zusammen -
+Ausnahme Standbild - jedes Halbbild repräsentiert einen
+Handlungszustand alle 1/50sec (PAL) bzw. alle 1/60sec (NTSC)
+
+
+Ersteres schreit geradezu nach "Progressive Scan". Diese
+Technik, so verstehe ich das, macht aus dem 50Hz Halbbildwechsel
+einen 25HZ Vollbildwechsel - was automatisch zu mehr "dunklen
+Pausen" zwischen den einzelnen Bildern führen muss - ganz wie
+bei einem Kinofilmprojektor (also einem für richtige
+Filmstreifen) - wo ich mir aber auch schon erklären ließ, dass
+das bei modernen Projektoren keineswegs mehr so ist, mit viel
+Schwärze zwischen den Bildern und so. Da hat's inzwischen auch
+so Drittelblenden oder wie das heißt. Aber das ist ja jetzt hier
+nicht Thema.
+Wenn also FILM(streifen)material das Original ist (oder eben
+eine Folge von JPG-Dateien), also Bild-nach-Bild, dann verstehe
+ich, dass auf der DVD das auch genau so drauf ist. Der
+DVD-Player weiß nun aber nicht, welcher Typ Bildgerät
+angeschlossen wird. Das ist schade, denn beim Anschluss eines
+Projektors oder eines PC-Monitors könnte ja die ganze TV-mäßige
+Aufbereitung flach fallen! Oder wohl auch wieder nicht, denn
+dann wäre ja wohl wahrscheinlich mit Dateien zu arbeiten, und
+das geht (noch) nicht in der für Film erforderlichen
+Schnelligkeit (und auch die Datenkapazität der DVD setzt da
+Grenzen, denke ich). Deshalb ja auch die ganze Komprimiererei
+einer-, die immer noch "schnelleren" Grafik-Video-Karten für
+Computer andererseits; und die immer kompakteren und (daher)
+fassungsm�chtigeren Speicher.
+Ich schätze mal, ehe nicht ein kontinuierlicher Datenfluss von
+1GB/sec realisiert wird, ist die TV-artige Aufbereitung im
+Heimkinobereich state of the art - ganz abgesehen davon, dass
+nun mal das Bildgerät No.1 nach wie vor "der Fernseher" ist.
+
+
+Auch dazu nochmal eine verst�ndnisvertiefende Nachfrage:
+
+Es ist also in der Realität so, dass eine TV-Zeile sehr wohl
+auch aus diskreten "Pixeln" besteht, jeder "Pixel" so ein
+rot/grün/blau-Dreier, wie man es gut erkennt, wenn man sich das
+Fernsehbild durch eine Lupe betrachtet. Mir ist klar, dass da
+"hinter" keine RGB-Rechnung steckt wie beim PC-Monitor mit
+seiner GraKa, sondern dass es "analog", also irgendwie
+integriert, zugeht. Nichtsdestoweniger bleiben schlussendlich
+diese "Pixel"dreier an der Oberfläche "übrig". davon hat's also
+720. Angenommen, es komme beim üblichen Fernsehbild ein
+Seitenverhältnis von 4:3 zustande, hieße das, dass der vertikale
+Abstand der Dreier voneinander etwas größer sein müsste als der
+horizontale (bei *gleichem* Abstand ergäbe sich für 4:3 eine
+vertikal-Zahl von 540), was mit der Beobachtung überein stimmt,
+dass wir beim Fernsehbild eher *Zeilen* sehen, statt etwa nichts
+derartiges, oder gar Spalten!: Die "Zeilen"zwischenräume sind
+tatsächlich etwas größer als die "Spalten"zwischenräume (die
+Zeilen (als Pixelreihe gesehen) sind glaube ich zudem auch noch
+jeweils etwas gegeneinander verschoben, so dass sich, wenn
+überhaupt, ein schräges Spaltenmuster ergeben könnte).
+
+Bei dieser Auflösung, die man dann ja als fest vorgegeben
+betrachten kann, wäre also eine Pixel-Auflösung am Projektor
+oder Computermonitor von 720x576 (PAL) bzw. 720x480 (NTSC)
+diejenige, welche interpolationsfrei, also wahrscheinlich am
+schärfsten und - und das wäre nicht zu verachten! - am
+*schnellsten* r�berk�me.
+Nun ist aber so eine Auflösung nicht eben sehr
+"vergr��erungsf�hig", deshalb nimmt man dann auch 1024x768
+(Projektor) oder gar 1600x1200 (Monitor) (von den 5:4 Monitoren,
+die hardwaremäßig 1280x1024 haben, soll hier mal gleich gar
+nicht die Rede sein). Da muss doch dann aber krumm- und
+schiefgerechnet werden ("interpolieren") - mit dem Ergebnis,
+dass die Pixel(bzw.Zeilen)Struktur nicht mehr so zu sehen ist
+(bei konstanter Betrachtungsentfernung D)*und* aber auch die
+Schärfe herabgemindert ist. Letzteres fällt aber nicht auf - es
+fiele wahrscheinlich nur auf, wenn man *direkt daneben* zum
+Vergleich die "generische" Auflösung betrachten könnte.
+
+Eine Zeilenverdopplung wäre doch erst dann sinnvoll, wenn am
+Bild-Endgerät auch eine genau doppelte (Pixel)Auflösung zur
+Verfügung stünde: 1440x1152 (PAL) bzw. 1440x960 (NTSC) -
+zumindest der zweite, also vertikale, Wert müsste verdoppelt
+sein, der erste dann eher nur wegen wahrung der 4:3-Proportion.
+übrigens will ich mal hoffen, dass es nicht nur ein einfacher
+Zeilenverdoppler ist, was da bei hochwertigen
+(Röhren)Projektoren am Wirken ist; sondern sowas wie ein
+Zeilen-Splitter, also etwas, was in einer Zeile dann eine obere
+und eine untere Hälfte ausrechnet - die *verschieden* sind!
+(Wie, im einzelnen, das geht, ist jetzt hier nicht wichtig
+(schätze, es hat was mit den jeweiligen Nachbarzeilen zu tun).)
+
+
+Ist das nicht sowas wie "Black Matrix" oder auch "Trinitron":
+Einfach mehr Schwarz dazwischen, und schon findet jeder das Bild
+"schärfer"! :)
+
+
+Was, genau, wäre denn die "Cholera" bei eingeschalteter
+100HZ-Funktion? Ich empfinde das subjektiv erstmal als
+ausgesprochen angenehm. geht da auch Bildschärfe bei flöten?
+
+
+Aha, also Artefakte. Muss ich mal mehr drauf achten, ist mir
+bisher noch nicht störend aufgefallen. Aber wenn keine
+Alternative direkt zum Vergleich daneben steht, gewöhnt man sich
+so sehr schnell an alles mögliche ... man könnte auch sagen:
+Wenn man das Bessere nie sah, weiß man ja nicht, was einem fehlt
+:-|
+
+[...]
+
+
+Ich habe bei meinem Textilpavillon die Wahl zwischen NTSC und PAL60.
+Da auch mein Fernseher ein Textilpavillon ist, ist anzunehmen, dass er
+auch anstandslos "echtes" NTSC annimmt und auch ausgibt.
+
+
+aha, "Halbbilder", Lesart zwo, siehe oben.
+
+
+Es ist also wirklich so, dass nur bei "zusammen gehörenden"
+Halbbilder PS überhaupt sinnvoll ist. Halbbilder, Lesart eins,
+s.o..
+
+
+Na ich bin schon richtig auf meine erste "reine" NTSC-DVD
+gespannt! Bisher habe ich nur mal eine Burkhard Zattler F.C. DVD
+aus USA sehen können, aber das zählt ja nicht richtig, weil ja
+nämlich das MoPyFC-Original ganz gewisslich eine PAL-MAZ ist
+(ist schließlich L! - oder haben die original *gefilmt*???)
+und also die US-NTSC-Version ihrerseits schon eine "Übersetzung"
+ist. Davon abgesehen ging das alles sehr gut und das Bild war so
+gut, wie es das 30 und mehr Jahre alte Originalmaterial eben
+erlaubt. Mein Equipment jedenfalls hat anstandslos mitgespielt.
+(Die MoPyFC-DVD in meinen Nintaus zu stecken und das ganze groß
+zu projizieren habe ich mir aber dann doch erspart ... da warte
+ich mal meine erste USA-Lieferung ab!)
+
+[...]
+
+
+Den Eindruck gewinne ich auch zunehmend. Wenn ich jetzt nur noch
+wüsste, welche im Einzelfall dann die "billig"-Geräte sind ...
+naja, gut, man kann ein klein wenig auch nach dem Preis gehen
+(zB glaube ich, dass ich mit meinem Textilpavillon-Zeug hier so im
+Mittelfeld liege, der Körnereck hingegen hat viel Oberklassiges).
+
+
+Naja, würd' ich *so* nicht sagen. Außerdem bringen ja die "guten
+Geräte"[tm] bei PSEA(RC2) nicht etwa schlechteres Bild als die
+billigen.
+
+Dank auch Dir, wie allen anderen, die hier auf- und erklärend
+wirken.
+
+Carl

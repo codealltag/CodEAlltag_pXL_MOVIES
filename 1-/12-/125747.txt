@@ -1,0 +1,9 @@
+Beim anzeigen von Postings wird bei Dir wahrscheinlich nach 70 Zeichen 
+ein Zeilenumbruch erzwungen. Du kannst es entweder ganz abstellen oder 
+den Wert von 70 auf 100 umändern.
+
+Ist jedoch nur eine Vermutung.
+
+-- 
+Gruß
+Henrik

@@ -1,0 +1,11 @@
+Image based rendering ist ein spezielles Computeranimationsverfahren
+bzw. eine Familie von Verfahren. Bei gewöhnlicher Computeranimation
+müsste die Szene ganz genau in alle Einzelteil am Computer nachgebaut
+werden. Bei Moviestation dienen viele unterschiedliche Fotos aus
+unterschiedlichen Blickwinkeln als Basis um Bilder aus anderen
+Kameraperspektiven zu berechnen. Du siehst also vielleicht 300 Bilder
+bei so einer 12,5 Sekunden langen Bullettime, aber in Wirklichkeit haben
+sie bloss 100 Stück wirklich photographiert und die 200 Zwischenbilder
+kommen aus dem Computer.
+
+                                                Roberto

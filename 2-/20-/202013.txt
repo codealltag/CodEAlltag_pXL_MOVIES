@@ -1,0 +1,17 @@
+Winfried Mittelhaus <iggrkyat@ye-jh.uct.ca> wrote:
+[Netscrap's MIME-Schrott habe ich wegsynchronisiert]
+
+(unter dem Titel "Weisses Gift").
+
+
+Ein anderes Beispiel ist das "Quiller Memorandum".
+
+Die Darstellung der "kommunistischen" Spione dort fand ich schon immer
+recht merkwuerdig, bis ich las, dass dies im Original eine Neonazi-
+Organisation war. Viele Details wurden dadurch ploetzlich 
+verstaendlicher.
+
+-- 
+int m,u,e=0;float l,_,I;main(){for(;1840-e;putchar((++e>912&&941>
+e?60-m:u)["\n)mi.uel@vcx(fyeqhhS mqsydrgJ"]))for(u=_=l=0;79-(m=e%
+80)&&I*l+_*_<6&&20-++u;_=2*l*_+e/80*.09-1,l=I)I=l*l-_*_-2+m/27.;}

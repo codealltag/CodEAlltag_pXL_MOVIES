@@ -1,0 +1,33 @@
+Da die Körnung bei analogem Film bei jedem Frame anders ist, ist ein
+großer Vorteil. Dadurch sieht man keine Rasterung und die empfundene
+Auflösung des Films ist höher, als die der einzelnen Bilder. 
+
+Außerdem wird das "Grieseln" vom Betrachter offenabr auch als sehr angenehm 
+empfunden. Deshalb wird bei digitalen Bildern diese "Grieseln" oft extra
+hineingerechnet (obwohl damit - im Gegensatz zum analogen Film - die
+Auslösung herabgesetzt wird.)
+
+Ein anderes Problem der analogen Projektion ist der Bildstand. 
+Während die Blende des Projektors geschlossen ist, wird der Filmstreifen 
+ruckartig vorwärts bewegt und steht dann während die Blende geöffnet ist.
+Nun wird der Film nicht immer exakt ein Bild vorwärts bewegt. Hier gibt
+es wie bei allen Maschinen (recht geringe) Toleranzen. Zwei aufeinander-
+folgende Bilder werden also nicht exakt über einander projeziert, sondern
+sind meist minimal zu einander verschoben.
+Bei guten Projektoren ist die Verschiebung sehr gering, so daß das Wackeln
+des Bildes nicht sonderlich auffällt und lediglich die Schärfe etwas
+herabsetzt. Zudem gibt es seit ein paar Jahren elektronisch gesteuerte
+Ausgleichsoptiken, die die Bildstandsschwankungen weitgehend kompensieren 
+können. Diese sind aber noch nicht sehr verbreitet.
+
+Anders sieht es bei verschliessenen Projektoren aus. Wenn das Getriebe
+ausgeleihert ist, wackelt das Bild deutlich stärker, so daß es als
+unruhig empfunden wird. Außerdem ist oft die Flügelblende nicht
+richtig mit dem Filmtransport synchronisiert. Dann fällt schon/noch
+Licht auf die Leinwand, während der Film noch/schon bewegt wird.
+Das fällt besonders bei wenigen weissen Stellen in einem ansonsten
+schwarzen Bild auf (also z.B. beim Text im Abspann). Die hellen Stellen
+sehen dann so aus, als ob sie nach oben oder unten "ausbluten" oder
+"verwischt" würden.
+
+Ciao, Bhpif                              qfwmpjex@avfzxlvz.ui

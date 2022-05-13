@@ -1,0 +1,28 @@
+Luigi Fritscher schrieb unter anderem folgendes zum Thema
+"Re: Kopierschutz bei Leihkassetten":
+
+
+Die Stoersignale liegen immer ausserhalb des sichtbaren Bildbereiches,
+also z.B. in der Austastluecke (dort, wo auch der Videotext sitzt).
+Dort kann man dann z.B. dafuer sorgen, dass das ganze Bild nicht
+synchronisiert wird, also durchlaeuft.
+
+Zum anderen koennen Stoersignale vor jeder Bildschirmzeile liegen. Das
+macht zum Beispiel Macrovision. Es verfaelscht die
+Zeilensynchronisation und den Farbtraeger. Das kann ein Fernsehgeraet
+noch kompensieren, aber ein Videorecorder zeichnet dann verzerrte
+Bilder mit schwankenen Farben auf.
+
+Jeder andere, bisher fuer VHS entwickelte Kopierschutz tut aehnliches.
+Aber eben immer nur im unsichtbaren Bereich des Bildes. Die
+naheliegende und simple Loesung ist also, den sichtbaren vom
+unsichtbaren Bildinhalt zu trennen und den verpfuschten unsichtbaren
+Teil, also Synchronisation und Farbtraeger, selbst neu zu erzeugen.
+
+Sowas wird meist unter dem Begriff "Videoverstaerker" verkauft - im
+Prinzip musst du nur darauf achten, dass irgendwo erwaehnt ist, dass
+das Geraet die Synchronisationssignale aufbessert, erneuert,
+verstaerkt, usw. Damit kannst du dann auch jeden VHS-Kopierschutz
+loeschen.
+
+Philipp

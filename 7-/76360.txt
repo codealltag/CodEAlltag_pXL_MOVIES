@@ -1,0 +1,13 @@
+Ja.
+
+
+Eine weitere Möglichkeit wäre, daß BCE auch nur ein Programm ist und
+das das System die möglichen Antworten und deren Folgen berechnet hat
+und sich dann eine Version herausgesucht hat (so wie ein
+Schachprogramm).
+
+Jonathan
+-- 
+Wenn du mal einen Server finden solltest, der die MID überschreibt, so
+schnappe dir das dickste auffindbare Kabel und LARTe den Admin kräftig.
+[Urban Rührnschopf in <vwl.591783.696159.10.Zjbupfx@zcmy.mhogzadc.ph> ]

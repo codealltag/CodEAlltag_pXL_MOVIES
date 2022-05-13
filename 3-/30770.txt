@@ -1,0 +1,260 @@
+[Statistik] cwba, 17/09
+
+NG-Statistik drfm für den Oktober 2005
+basierend auf ngstat von Heino Spillecke.
+
+18/08: 2078 postings  +19.01%
+
+19/08: 2494 postings  +20.02%
+20/08: 2645 postings   +6.05%
+21/08: 2541 postings   -3.93%
+22/08: 2041 postings  -19.68%
+23/08: 2242 postings   +9.85%
+24/08: 1720 postings  -23.28%
+25/08: 2227 postings  +29.48%
+13/09: 1811 postings  -18.68%
+14/09: 1576 postings  -12.98%
+15/09: 1074 postings  -31.85%
+16/09:  658 postings  -38.73%
+
+17/09: 1142 postings  +73.56% (39 Newbies)
+
+
+Die meisten Artikel innerhalb 1 Stunde:
+    22 Artikel zwischen 13.10.2005 16:13:01 und 13.10.2005 17:13:00
+
+Die meisten Artikel innerhalb von 24 Stunden:
+   109 Artikel zwischen 12.10.2005 20:15:26 und 13.10.2005 20:15:25
+
+Die artikelst�rkste Nacht war am 27.09.2005:
+    10 Artikel zwischen 0:00 Uhr und 6:00 Uhr
+
+Der kürzeste Zeitabstand zwischen zwei Artikeln beträgt 6 Sekunden,
+    vom 06.10.2005, 09:50:40 bis 06.10.2005, 09:50:46
+    vom 13.10.2005, 16:22:44 bis 13.10.2005, 16:22:50
+    vom 13.10.2005, 17:06:07 bis 13.10.2005, 17:06:13
+
+Der längste Zeitabstand zwischen zwei Artikeln beträgt 17:10:13 Stunden,
+    vom 21.09.2005, 21:55:40 bis 22.09.2005, 15:05:53
+
+Die schnellste Antwort gab es in 2:10 Minuten von Wolfram Magnußen
+    auf news:5311622703.675151.192695@h03z9051jqu.zjsjqpuiyqny.hxz
+    vom 13.10.2005, 14:12:01 bis 13.10.2005, 14:14:11
+
+Die späteste 1. Antwort gab es nach 14 Tagen, 01:35:34 Stunde
+    von Lukas Ukena auf news:7ic7j0O310i3T5@lwnbcyzmcx.nrr
+    vom 27.09.2005, 16:45:05 bis 11.10.2005, 18:20:39
+
+Die späteste weitere Antwort gab es nach 13 Tagen, 22:11:58 Stunden
+    von Lukas Ukena auf news:s644sl$6ugx$4@lwou-xly-xvqx.tjqi.ti
+    vom 27.09.2005, 20:16:44 bis 11.10.2005, 18:28:42
+
+Das älteste unbeantwortete Initialposting im Mai ist vom
+14.09.2005, 22:13
+    news:oIsrd.8190$_2.430@dleb.pmfbxa.lo von Urban
+
+
+Autoren mit den meisten Postings (1142 Postings)
+
+ Pos | Anz | FUp |  Lin | Avg | KByte | Autor                 | Diagramm
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+   1 |  55 |  64 | 1434 |  26 | 116.0 | Ulf R. Roskop     |  4.8%  xxxxx
+   2 |  43 |  31 | 1035 |  24 |  84.6 | Sebastian Obernhuber         |  3.8%  xxxx
+   3 |  42 |  55 |  987 |  23 |  72.8 | Benjamin Bödicker      |  3.7%  xxxx
+   4 |  38 |  32 |  597 |  15 |  55.7 | Arnold Ingenthron         |  3.3%  xxxx
+   5 |  37 |  25 |  904 |  24 |  67.5 | Simon Nowatschin        |  3.2%  xxxx
+   6 |  35 |  34 |  686 |  19 |  57.6 | Othmar Junglas         |  3.1%  xxx
+   7 |  24 |  35 |  596 |  24 |  52.3 | Sebastian Forstenpointner         |  2.1%  xx
+   8 |  23 |  23 |  655 |  28 |  43.4 | Trude Guttenberger         |  2.0%  xx
+   9 |  21 |  21 |  428 |  20 |  33.9 | Sebastian Papenfus           |  1.8%  xx
+  10 |  20 |  17 |  429 |  21 |  37.1 | Stefan Jockenhöfer     |  1.8%  xx
+  13 |  19 |  20 |  475 |  25 |  37.9 | Hugo Crößmann          |  1.7%  xx
+  14 |  18 |  24 |  359 |  19 |  31.2 | Caroline Böhsl       |  1.6%  x
+  15 |  16 |  23 |  552 |  34 |  34.8 | Beat B Büschgens          |  1.4%  x
+  19 |  15 |  12 |  213 |  14 |  21.4 | Sebastian F. Rübmann      |  1.3%  x
+  20 |  14 |  13 |  424 |  30 |  32.6 | Ulf Ongsiek         |  1.2%  x
+  21 |  13 |   8 |  269 |  20 |  22.3 | Alberto Lindenfelser        |  1.1%  x
+  22 |  12 |  10 |  208 |  17 |  18.8 | Ullrich Bredhauer         |  1.1%  x
+  24 |  11 |   8 |  183 |  16 |  15.3 | Torsten Prantl      |  1.0%  x
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+
+
+Autoren mit wenig Postings (237 Autoren)
+
+ Postings | Autoren | Diagramm
+----------+---------+-------------------------------------------------------
+        1 |      89 | 37.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        2 |      51 | 21.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxx
+        3 |      19 |  8.0%  xxxxxxxxxx
+        4 |      12 |  5.1%  xxxxxx
+        5 |      11 |  4.6%  xxxxx
+        6 |       9 |  3.8%  xxxx
+        7 |      10 |  4.2%  xxxxx
+        8 |       3 |  1.3%  x
+        9 |       5 |  2.1%  xx
+       10 |       2 |  0.8%  x
+       11 |       3 |  1.3%  x
+       12 |       2 |  0.8%  x
+       13 |       1 |  0.4%
+----------+---------+-------------------------------------------------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor                | FUp | Avg. | Artkl | Self | SupS | Diagramm
+-----+----------------------+-----+------+-------+------+------+------------
+   1 | Ulf R. Roskop    |  64 | 1.16 |    55 |      |      |  6.2%  xxxx
+   2 | Benjamin Bödicker     |  55 | 1.31 |    42 |      |    2 |  5.4%  xxxx
+   3 | Sebastian Forstenpointner        |  35 | 1.46 |    24 |      |      |  3.4%  xx
+   4 | Othmar Junglas        |  34 | 0.97 |    35 |    1 |      |  3.3%  xx
+   5 | Arnold Ingenthron        |  32 | 0.84 |    38 |      |      |  3.1%  xx
+   6 | Sebastian Obernhuber        |  31 | 0.72 |    43 |      |      |  3.0%  xx
+   7 | Simon Nowatschin       |  25 | 0.68 |    37 |      |      |  2.4%  x
+   8 | Caroline Böhsl      |  24 | 1.33 |    18 |      |      |  2.3%  x
+   9 | Samu Reißer            |  23 | 2.56 |     9 |      |      |  2.2%  x
+-----+----------------------+-----+------+-------+------+------+------------
+
+
+Autoren mit den meisten Threads (96 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Urban                |   7 |     8 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Sebastian Obernhuber        |   5 |    75 |  5.2%  xxxxxxxxxxxxxxxxxx
+-----+----------------------+-----+-------+---------------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (96 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm
+-----+----------------------+-----+-------+---------------------------------
+   1 | Ulf R. Roskop    |   3 |   341 | 29.9%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Sebastian Forstenpointner        |   3 |   166 | 14.5%  xxxxxxxxxxxx
+   3 | Sebastian Obernhuber        |   5 |    75 |  6.6%  xxxxx
+   4 | Ullrich Vobiller         |   1 |    51 |  4.5%  xxx
+-----+----------------------+-----+-------+---------------------------------
+
+
+Threads mit den meisten Postings (1142 Postings)
+
+ Pos | Anz | Threads                          | Gründer      | Diagramm
+-----+-----+----------------------------------+--------------+--------------
+   1 | 314 | Episode 3                        | Ulf Riesenkampf 27.5%  xxxxxx
+   2 | 156 | Star Wars - Welche Reihenfolge   | Sebastian Fruehe 13.7%  xxx
+   3 |  61 | 42 Tage fuer The Hitchhiker's Gui| Sebastian Oberste-Schlüchting  5.3%  x
+   4 |  51 | Punkte                           | Ullrich Vobiller |  4.5%  x
+   5 |  39 | Juhu!! Die Leon Tin Box ist ersch| Hugo Crößmann |  3.4%
+   6 |  27 | Besten Talk-Filme                | Willi Jungmeier  2.4%
+   7 |  24 | Andere Beispiele für Vermarktung | Ulf R. Riesenkampf  2.1%
+   9 |  21 | Heute Pere "Die Geschichte der Die| Beat Büschgens |  1.8%
+  10 |  17 | Komplette Nachsynchronisation Bl| Dieter Graeper  1.5%
+  11 |  15 | Nilpferde                        | Roland Piepenburg  1.3%
+  12 |  14 | Pentagon "Hundstage"                 | Beat Büschgens |  1.2%
+  14 |  13 | mehrere Synchronisierungen       | Remmer Leissner  1.1%
+-----+-----+----------------------------------+--------------+--------------
+
+
+Kurze Threads (96 Threads)
+
+ Länge | Threads | Diagramm
+-------+---------+----------------------------------------------------------
+     1 |      23 | 24.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     2 |       9 |  9.4%  xxxxxxxxxxxxxxxxxxx
+     3 |      15 | 15.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     4 |       7 |  7.3%  xxxxxxxxxxxxxxx
+     5 |       4 |  4.2%  xxxxxxxx
+     6 |       6 |  6.3%  xxxxxxxxxxxxx
+     7 |       2 |  2.1%  xxxx
+     8 |       5 |  5.2%  xxxxxxxxxxx
+     9 |       1 |  1.0%  xx
+    11 |       5 |  5.2%  xxxxxxxxxxx
+    12 |       1 |  1.0%  xx
+-------+---------+----------------------------------------------------------
+
+
+Verwendeter Newsreader (Alle Postings, 1142 Postings)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+ 255 | Forte Agent                    | 22.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 184 | NKGD                        | 16.1%  xxxxxxxxxxxxxxxxxxxxx
+ 137 | Nosch Outlook Express      | 12.0%  xxxxxxxxxxxxxxxx
+ 109 | Mozilla Thunderbird            |  9.5%  xxxxxxxxxxxx
+ 106 | /keine Angabe/                 |  9.3%  xxxxxxxxxxxx
+  53 | 40tude_Dialog                  |  4.6%  xxxxxx
+  50 | Xnews                          |  4.4%  xxxxx
+  46 | slrn                           |  4.0%  xxxxx
+  43 | mutt-ng                        |  3.8%  xxxxx
+  41 | tin                            |  3.6%  xxxx
+  40 | Gnus                           |  3.5%  xxxx
+  22 | ilbpzb.juullb.ghj              |  1.9%  xx
+  12 | KNode                          |  1.1%  x
+  10 | Rappard-Rahmen                           |  0.9%  x
+   9 | NetAachen                        |  0.8%  x
+   9 | Lato M2                       |  0.8%  x
+   7 | MacSOUP                        |  0.6%
+   6 | Pan                            |  0.5%
+  <2 | 3 weitere...                   |
+-----+--------------------------------+-------------------------------------
+1142 | GESAMT (21)                    |
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(28 Autoren)
+
+ Anz | Newsreader                     | Diagramm
+-----+--------------------------------+-------------------------------------
+   8 | Forte Agent                    | 28.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | NKGD                        | 14.3%  xxxxxxxxxxxxxxx
+   3 | Mozilla Thunderbird            | 10.7%  xxxxxxxxxxx
+   3 | Microsoft Outlook Express      | 10.7%  xxxxxxxxxxx
+   3 | /keine Angabe/                 | 10.7%  xxxxxxxxxxx
+   2 | tin                            |  7.1%  xxxxxxx
+   1 | mutt-ng                        |  3.6%  xxx
+   1 | Gnus                           |  3.6%  xxx
+   1 | Xnews                          |  3.6%  xxx
+   1 | 40tude_Dialog                  |  3.6%  xxx
+   1 | slrn                           |  3.6%  xxx
+
+
+Postingverteilung über den Monat (1142 Postings)
+
+ Tag | Anz | Diagramm
+-----+-----+----------------------------------------------------------------
+   1 |  13 |  1.1%  xxxxxx
+   2 |  16 |  1.4%  xxxxxxxx
+   3 |   9 |  0.8%  xxxx
+   4 |  34 |  3.0%  xxxxxxxxxxxxxxxxxx
+   5 |  13 |  1.1%  xxxxxx
+   6 |  33 |  2.9%  xxxxxxxxxxxxxxxxx
+   7 |  30 |  2.6%  xxxxxxxxxxxxxxx
+   8 |  11 |  1.0%  xxxxx
+   9 |  19 |  1.7%  xxxxxxxxxx
+  10 |   6 |  0.5%  xxx
+  11 |  23 |  2.0%  xxxxxxxxxxxx
+  12 |  17 |  1.5%  xxxxxxxxx
+  13 |  37 |  3.2%  xxxxxxxxxxxxxxxxxxx
+  14 |  26 |  2.3%  xxxxxxxxxxxxx
+  15 |  81 |  7.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  16 |  44 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxx
+  17 |  39 |  3.4%  xxxxxxxxxxxxxxxxxxxx
+  18 |  33 |  2.9%  xxxxxxxxxxxxxxxxx
+  19 |  16 |  1.4%  xxxxxxxx
+  20 |  93 |  8.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  21 |  44 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxx
+  22 |  37 |  3.2%  xxxxxxxxxxxxxxxxxxx
+  23 |  20 |  1.8%  xxxxxxxxxx
+  24 |  70 |  6.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  25 |  75 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  26 |  19 |  1.7%  xxxxxxxxxx
+  27 |  49 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxx
+  28 |  32 |  2.8%  xxxxxxxxxxxxxxxxx
+  29 |  38 |  3.3%  xxxxxxxxxxxxxxxxxxxx
+  30 |  58 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  31 | 107 |  9.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+HTH ;-)
+Norman
+-- 
+"Shut your eyes and you'll burst into flames."
+                                                   Twin Peaks - Log Lady

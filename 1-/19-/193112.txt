@@ -1,0 +1,27 @@
+Hallo!
+
+Irgendwie komme ich nicht mit der Konfiguration des Subwoofers
+klar. Es gibt so ein paar Sachen die mich etwas irritieren.
+
+Ich habe "LBE/BASS Out" auf "Subwoofer" stehen und die "Main
+Speaker" auf "Small". Nun sollten alle Signale unterhalb von 90 Hz
+auf den SW gehen.
+
+Wenn ich aber im Men "Lof Freq. Test" bin und dort auf
+Frequenzen unterhalb 90 Hz gehe kommt immer noch etwas aus dem SW
+den ich an den Main Speakern angeschlossen habe. Wenn ich dan bei
+"Output" "Subwoofer" einstelle ist das Signal auch lauter als auf
+allen anderen Kanälen. Sollte das nicht immer gleich sein, wenn
+die auf den SW Ausgang umgeleitet werden?
+
+Irgendwie habe ich auch das Gefühl, als wenn der Bass Extension
+und Bass Regler keine Funktion mehr haben. Wenn ich den "LFE/BASS
+Out" auf "Both" stelle wird nur der Bass auf den Main Speaker mehr.
+
+Hat das irgendwelche Gründe?
+
+--
+Ulf Oemicke
+
+pt@alqddio.nz
+http://yej.yliyb.if/~yaiplpghu

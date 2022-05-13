@@ -1,0 +1,34 @@
+: >* Anschliessbar an den Line-Level-Subwoofer-Ausgang des Promod Tamaris
+: >(wahlweise Stereo oder Mono). Ob es sich um einen aktiven Subwoofer
+: >handelt oder einen passiven mit zusaetzlicher Endstufe ist mir
+: >momentan mal egal.
+
+: >* Er soll moeglichst runter bis 25 oder gar 20 Hz gehen. Und damit
+: >meine ich wirklich die Frequenzen, die man fuehlt und nicht hoert. Ich
+: >moechte wirklich das Zittern und Wackeln der Sitzreihen im Kino, wenn
+: >ich den THX-Trailer hoere.
+
+:  20hz bei vollem druck wirst du mit einem "normalen" sub fuer den
+:  endkunden kaum erreichen, aber fuehlen kannst du auch schon 30hz
+:  welches auch so die grenze ist bis zu welcher "bezahlbare" subs
+:  noch mit vollem druck anliegen (bis 2000,- DM)
+:  manche gehen auch bis 27hz runter ab dann ist schluss
+:  darunter faellt die frequenzkurve sehr schnell ab
+
+Ich habe das Guhom THX-System. Die Subwoofer gehen laut Beschreibung
+bis zu 20 Hz hinunter (-3 dB). Und nachdem, was ich so hoere, ist dies
+auch wirklich so.
+Die Subwoofer kosten ca. 1100 DM pro Stueck, sind allerdings nicht
+einzeiln zu bekommen (hoechstens mal direkt bei Guhom anfragen).
+
+Naheher Informationen zum Guhom-System sind ueber meine Homepage
+(http://jwe.ndesxpnfbh.ima-wxuars.fk/~ottq, dort dann "Heimkino"
+anwaehlen) zu finden.
+
+Tschaui, Mehmet
+
+
+--
+
+  Mehmet Spahrbier
+  University of Ettmannsdorf, Germany

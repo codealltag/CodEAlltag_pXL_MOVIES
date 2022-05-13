@@ -1,0 +1,9 @@
+Also, um mal wieder die IHW zu bemühen: Soweit ich mich erinnern kann,
+klappt das so ab ca. 1,4 GHz CPU-Takt. In VirtualDub läßt sich bei meiner
+JPFO-Karte auch problemlos Vollformat einstellen, zum Capturen fehlt mir
+aber gerade die Verkabelung.
+
+Sicherlich nicht funktionieren wird das mit einer USB(1)-Lösung, aber die
+hätte Konrad wohl nicht als "Karte" bezeichnet.
+
+Carl

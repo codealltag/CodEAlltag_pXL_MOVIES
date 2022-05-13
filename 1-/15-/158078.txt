@@ -1,0 +1,21 @@
+Da ist mein Amiga ja noch richtig sparsam. Meine Binärdaten sind "nur"
+227349266 Bytes, also sehr viel kleiner.
+
+
+Da habe ich glücklicherweise auf dem Amiga keine Probleme. Zuerst
+werden die Diffs in die Ascii-Dateien eingebunden, und anschliessend
+ausgewertet. Das dauert bei mir ca. 5,5 Stunden. Dann bin ich ja
+noch richtig schnell, und wenn ich soviel Ram wie du hätte wäre er
+noch schneller.
+
+
+Irgendwo weiter oben stand, das einige Filme wo zu viele Stimmen
+bekommen haben.
+
+
+Gruss Kay
+
+Made with Amiga
+
+-- 
+gwdbr@nitak.jyvx.dw

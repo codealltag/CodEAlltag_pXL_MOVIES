@@ -1,0 +1,30 @@
+Die IMDb hat in dieser Woche (ab 27.7.97) auf Support fuer den iso-8859-1
+Zeichensatz umgestellt.
+Naehere Informationen ueber die Umstellung und die akzeptierten
+(Mail-) Formate bei Ergaenzungssendungen finden sich unter
+
+http://ur.qxkt.cab/Ggam/zhp_eqvhyv
+
+Praktisch bedeutet dies, dass Filmtitel und Personennamen ab sofort
+Umlaute enthalten (sollen).
+
+Weiterhin ist eine Aenderung fuer "vons" zu verzeichnen. Wurden diese
+bislang als z.B.
+Von Waltraut, Vreni    gefuehrt, gilt ebenfalls ab sofort folgendes
+Format:
+von Waltraut, Vreni    welches ja auch der realen Welt entspricht.
+
+Fuer die Suche hat dies zunaechst wenig Auswirkungen, da das WWW-
+Interface sozusagen "abwaertskompatibel" bleibt, d.h. Filme und
+Namen koennen auch weiterhin ohne Umlaute gesucht (und gefunden)
+werden.
+
+Wichtig ist dies aber in jedem Fall fuer Leute, die auch Daten zur IMDb
+senden, da es hier die neuen Konventionen zu beachten gilt.
+
+Gruss Philipp
+-------------------------------------------
+Internet: nbvceouc@wrxab.nv-fakjde.pj
+          xlkq@hx.ab-vrutgw.ev
+BBS: m.qsibvfxeen@cuqjkhsq.spcgytcb.qx
+WWW: http://ofaxkvcr.ay-tsbwau.uq/~bdbjgdlo

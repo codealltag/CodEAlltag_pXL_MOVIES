@@ -1,0 +1,11 @@
+Hallo lutz,
+
+die haben dann halt Pech gehabt.:-)
+
+Ist halt immer gut eine aktuelle Datensicherung zu haben, ausserdem
+hat die aktuellste Version von Antivir einen Rootkitschutz was ja auch
+eine gewisse Sicherheit gibt, so man taeglich die Virendatenbank
+aktualisiert.
+
+Gruss
+Eugen

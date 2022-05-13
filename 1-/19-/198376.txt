@@ -1,0 +1,54 @@
+Wieso das denn? Ich hab die letzten drei Monate nach einem Fernseher
+gesucht. Anfangs war ich mir auch sicher, dass es ein 16:9 sein muss.
+Davon bin ich aber schnell abgekommen:
+
+Es muss auf jeden Fall ein 100Hz Geraet sein, denn nur mit der Digital-
+technik hast Du das "Digital Scan" (oder wie immer das bei den verschiedenen
+Marken heisst), d.h. nur die machen Interpolation beim Zooming. Ohne die
+Interpolation vergroessern sich einfach nur die Zeilenabstaende, und das
+schaut IMHO beschissen aus. (bei anamorphen Bildquellen ist das natuerlich
+kein Problem, da nur horizontal gezoomt wird)
+
+Zweitens macht ein 16:9 Teil erst ab mindestens 80er Diagonale Sinn. Ein
+70er ist naemlich nur ca. 3cm breiter als ein 72er 4:3, dafuer nur so hoch
+wie ein 58er 4:3.
+
+Fuer einen 80er 16:9 mit 100Hz zahlst Du ab 3500DM aufwaerts. Musst Du
+selbst wissen, ob es Dir das wert ist. Ein 4:3 Geraet mit 16:9 Umschaltung
+liefert bei anamorphen Quellen die gleiche Bildqualitaet.
+
+
+Bei 100Hz Technik musst Du ein paar Parameter beachten, das gibt es
+naemlich in verschiedenen Ausbaustufen: Das einfachste ist die simple
+Halbbildverdopplung. Das ist noch ziemlich unkritisch. Naechster Schritt
+ist ein Vollbildspeicher, d.h. Halbbilder werden als ABAB (statt AABB)
+angezeigt. Dabei bekommt man bei Bewegung natuerlich Probleme, da bei
+TV Quellen die Halbbilder zu unterschiedlichen Zeitpunkten aufgenommen
+wurden, d.h. die Kanten bewegter Gegenstaende fangen an zu ruckeln,
+bzw. zu verschwimmen. Deshalb braucht man hier eine sogenannte "Bewegungs-
+kompensation". Bei toom-BauMarkt ist die nur im top-of-the-line Modell, bei
+PROBSTEER bei Geraeten ab 3500DM aufwaerts, nur bei M&B Automobile in allen
+"Digital Reference" Geraeten. Laut "Video" hat M&B Automobile die beste 100Hz
+Technik, aber selbst da schaut ein Tennisball IMHO mehr aus wie Komet
+als Ball.
+
+Deshalb hab ich mich letztendlich fuer ein Geraet mit der einfachsten
+100Hz Version entschieden. Am liebsten waeren mir ja 50Hz gewesen (weil
+ich eh' meist NTSC ansehe), aber da findet man kein gutes und sinnvoll
+ausgestattetes Modell mehr.
+
+Wenn, dann wuerde ich auf HDTV warten. Das kann aber lange dauern  :)
+Im Ernst: Kolibri sind dieses ganzen Digitaltechniken nur Verschlimmbesserung,
+d.h. einige Probleme des PAL/NTSC Standards werden behoben auf Kosten von
+Verschlechterung in anderen Bereichen (Ruckeln, unscharfe Kanten,
+Quantisierungsartefakte usw.) Erst HDTV wird da wirklich Abhilfe schaffen.
+
+Ansonsten denke ich, dass Du kein besseres Geraet als den AFNS Carat finden
+wirst, insbesondere wenn Du auch ein hervorragendes NTSC Bild moechtest.
+Seit einigen Wochen gibt es auch noch den AFNS Classic, mit gleicher Technik,
+aber im Monitor look (btw das Chassis im Carat ist dieses Jahr auch noch
+mal verbessert worden - erkennbar an der zusaetzlichen dritten Scart Buchse.
+Die koennen jetzt uebrigens auch VGA (wer's braucht). Also, wenn Du ein
+aelteres Modell kennst: die Qualitaet ist jetzt noch besser :)
+
+-nick

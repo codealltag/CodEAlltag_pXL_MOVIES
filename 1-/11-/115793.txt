@@ -1,0 +1,41 @@
+y.jceyoca@sox.zb (logy zurkuhl) wrote in
+<8jv8f3$23cc0$3@QS-83314.bezp.elsvtw.rg>: 
+
+
+"Wenn Du gesehen haettest, was ich mit deinen Augen gesehen habe"
+:)
+
+
+Es dringt nur einer bis zu Tyrell vor (Hanspeter Jugl)und das auf sehr 
+"einfache Art". Sie suchen den Augentypen auf, der die Adresse von 
+Kay rausrueckt. Kay fuehrt den Repli dann zu Tyrell. Viel 
+intelligenz brauch es dazu nicht. 
+
+
+Ja, aber ihnen fehlen gewisse Eigenschaften, wobei ich Luise von den 
+anderen 4 ausgrenze, da sie ein Model mit Vergangenheit ist.
+
+Nieuwenkamp beherrscht z.B. Ironie (siehe Gespraech mit Gunter am Anfang), 
+Luise beherscht es ansatzweise (siehe VK/Test), die anderen koennen damit 
+kaum ungehen.  Die anderen 3 haben eher ein krankes Verhalten (Siehe Szene 
+als der eine Repli in den Kaeltebehaelter greift in denen die Augen sind 
+und diese dann dem Augenspezialist auf die Schultern legt). Auch die Art 
+der Verzweiflung der Replis ueber ihre kurze Lebensdauer zeigt, dass sie im 
+Vergleich zu Menschen nicht sehr viele Moeglichkeiten haben sich 
+auszudruecken. 
+
+
+Insgesamt merkt man, dass den Replis etwas fehlt, was sie menschlich macht. 
+Bei Deckard erkennt man das nicht, im Gegenteil. 
+
+
+IF Probant := Augenzwinkern OR Ohrenschlackern OR FeuchteFinger
+THEN ASK "Erzaehlen sie mir was Ihnen postivies und negatives in den Sinn 
+kommt ueber Ihre Mutter"
+
+
+:)
+
+cya,
+
+Jakob

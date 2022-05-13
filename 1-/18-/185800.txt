@@ -1,0 +1,11 @@
+Wie findet man das eigentlich über eine Mail-Abfrage raus?
+Eigentlich sollte das doch mit  INDEX ALL <Jahr>  gehen,
+aber da bekomme ich nur eine Fehlermeldung, z.B.:
+
+   Unable to find direct reference to: INDEX ALL 1900
+
+    Please check detail/spelling of request.
+
+Bin ich zu blöd, oder wird dieser Befehl nicht mehr unterstützt?
+
+cu, Didier

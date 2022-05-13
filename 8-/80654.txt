@@ -1,0 +1,20 @@
+Ich selbst bin von gar nichts ausgegangen. :)
+Ich habe einfach mal Smak bemüht und dort bei Aufl�sungsvergleichen
+verschiedener Filmtr�gerformate gefunden, daß ein einzelnes 35mm-Bild
+ca. 4,5Mio Punkte "entspricht". Genauer nachgeschaut, wie die darauf
+kommen, habe ich nicht. Dann hab ich einfach weitergerechnet: 1 Punkt, 3
+Farben, 1 Byte pro Farbe. Inwieweit das wiederum optimal bzw. in der
+Praxis benutzbar ist, war mir dabei egal, ich wollte nur grob
+vergleichen mit der Größe eines Bildes von eine PAL-DVD.
+
+Da Ralph diese newsgroups aber offensichtlich als Smak-Ersatz ansieht,
+in der Hoffnung, daß irgendjemand ihm schon die nötigen Infos für seine
+blöden Fragen gibt, hab ich jetzt aufgegeben, da noch weiterzumachen. :)
+
+Gruß,
+
+Edmund
+
+-- 
+* Edmund * Hasenecker *  http://wes.stoosm-rlsss.ym  * Luis Czerwinski * UZME-Fan *
+"Genie ist Intelligenz der Begeisterung." [Lutz Jaenke]

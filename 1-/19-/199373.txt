@@ -1,0 +1,20 @@
+Salvatore Zukschwerdt wrote in <6cb11f$eoz@wt-vjqffq.dm> on 1998-02-24
+05:54:41 +0100:
+
+Ja, das WWW-Frontend ist erste Sahne. Leider ist die Unix-Software
+für die Heimanwendung in dieser Hinsicht noch nicht angepaßt; in
+der aktuellen Version 3.3a kann ich Titel oder Personen mit Umlauten
+nur noch durch eine Substring-Suche finden. Eine Anpassung des
+Ausgabeformats an andere Zeichensätze (NeXTstep) hacke ich gerade,
+habe aber noch meine Probleme, weil sich manche Funktionen sehr
+komisch verhalten.
+
+Wenn ich Zeit hätte, dann würde ich ja mal eine richtige Software
+schreiben, weil inzwischen braucht man (unter NeXTstep) mehr als
+5 MByte Stack, wenn man sich mal eine Top-10-Liste ausgeben möchte
+... :-(
+
+Nils
+-- 
+** Nils Loon, E-Mail (NeXTmail/MIME): tgdid@kknlbm.t.wikug.kd **
+**  "I don't wanna 5 day pass to Disney planet." -- N. Unterwurzacher  **

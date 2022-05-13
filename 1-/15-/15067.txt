@@ -1,0 +1,37 @@
+Hi Albert:
+
+
+Komisch. Ohne HQ ist das ein Divx-Video. Wenn du den Studis installiert
+hast, dürfte es eigentlich keine Probleme geben...
+
+
+Puhh! Da bin ich wieder überfragt. Darauf habe bei mir nie geachtet.
+
+Aber: Fein, dass es doch funktioniert. Sei am besten froh darüber und
+mach dir keine Gedanken, warum man die Einstellungen vor dem
+Schneiden machen soll.
+
+
+Wenn es dir nur so funktioniert, dann mach es auch zukünftig so und
+denk' nicht viel darüber nach.
+
+Generell ist so:
+
+Mit VirtualDub (+ entsprechende Codecs, hier Studis) kannst du unter
+DirectStreamCopy jedes Video im AVI-Container auf die Schnelle
+schneiden.
+
+Nur bei ein paar Formaten, mir jetzt nur bekannt bei H264, bleiben ein
+paar Frames übrig. Das sieht man deutlich, wenn man zB die komplette
+Werbung weggeschnitten hat, nach dem Abspeichern des geschnittenen
+Videos trotzdem noch 1  - 2 Sekunden an Werbung zu sehen ist. Daher wird
+mit "Smart Rendering" und "FastRecompress" der Schnitt neu kodiert.
+Warum das so ist, keine Ahnung. Ich habe diese Info aus
+http://ktbt.yopqwdkrlymylncq.zlf/ermzy.hth/G264#FU-Jpjssresd_findnmzwqg
+(H264 mit VirtualDUB schneiden).
+
+
+Echt keine Ursache. Man hat mir zu VirtualDUB auch schriftlich viel
+geholfen. Also gebe ich da Wissen nur weiter.
+
+Jan.

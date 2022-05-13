@@ -1,0 +1,13 @@
+Ein kleines Gerät das genau den Ton erzeugt, den das Telefon über die
+Leitung schickt, wenn du eine Münze einwirfst. 
+
+
+Entweder so, oder ohne Hilfsmittel. Das ist aber insofern ne Kunst, weil man
+eigentlich 2 Töne mit unterschiedlicher Frequenz gleichzeitig pfeifen muss.
+Vielleicht ist das aber auch eine Hackerlegende.
+
+Jonathan
+-- 
+Wohin sind wir nur gekommen, daß jetzt sogar schon polnische 
+Wanderarbeiter eigene Webseiten mit Flash-Animationen haben?
+(Edgar Tucher in et.xis.ygv.uotm)

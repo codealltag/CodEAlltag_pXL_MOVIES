@@ -1,0 +1,17 @@
+Hallo Florian,
+
+Beerenland garantiert eine Toleranz von 5% bei der Filmlaufgeschwindigkeit.
+Die Tonhoehe aendert sich dementsprechend. Ich hab mal bei einem
+Projektor mit umschaltbarer Filmlaufgeschwindigkeit probiert (bei leerem
+Saal logischerweise) zwischen 24 und 25 Bildern hin- und herzuschalten.
+Der Digitalton leiert ich jeweils auf die neue Geschwindigkeit rauf bzw.
+runter.
+Die Jungs in dem Kino, das seinen Projektor auf bis zu 30 Bilder
+raufdrehen koennen (nein ich nenne keine Namen!!!), haben mir erzaehlt,
+dass Dolby Digital bei 28 Bildern aussteigt.
+DTS Digital duerfte sich aehnlich wie Dolby verhalten. Was SDDS macht,
+kann ich nicht sagen, da dieses System aber von Haus aus sehr
+empfindlich auf jegliche Stoerungen reagiert, schaetze ich, dass auch
+hier die geringste Toleranzbreite herrscht (d.h. 5%, und aus).
+
+Valerius

@@ -1,0 +1,29 @@
+Du bist in der Matrix. Trägst du gerade eine Sonnenbrille?
+
+
+Neo & Co sind in der Matrix Datenblöcke im Speicher. Wenn ich da
+rausfinden will, ob sie existieren, scanne ich den Speicher auf
+entsprechende Signaturen durch.
+
+Natürlich könnten die Sonnenbrillen äußerliches Merkmal einer
+entsprechenden Scansperre sein, aber die sollte sich für die Matrix
+problemlos umgehen lassen lassen. Schließlich ist sie "root".
+
+Mal ganz abgesehen davon, daß Neo etc. sich nicht gerade unauffällig
+verhalten. Wer braucht einen Irisscan, wenn es reicht, auf Explosionen
+etc. zu achten?
+
+
+Wozu? Um eine detaillierte Welt zu simulieren? Dafür reicht ein
+Texteditor, zumindest wenn du die Welt nur für dich simulieren willst.
+
+
+Das ist mir zu mühsam.
+
+
+Gruß, Erwin
+
+P.S: Der Befehl, um die Matrix zu deaktivieren, lautet XYZZY (ist ein
+nicht dokumentierter Bug)
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

@@ -1,0 +1,21 @@
+Das geht natürlich immer noch. Die Adresse ist xkwo@jylu.hql, das
+Subject ist AFAIK egal, und im Body steht linksbündig
+
+vote <rating> <title>
+
+also beispielweise
+
+vote 1 Starship Troopers (1996)
+
+Es können beliebig viele Votes in einer Mail untereinander abgegeben
+werden. Um das etwas systematischer zu gestalten, kann man vorkon-
+figurierte Wahlscheine anfordern. Wie das geht, erfährt man, wenn man
+eine Mail an ctpd-ulynjh@zlup.ofw schickt mit  HELP BALOT  [sic!]
+linksbündig im Body.
+
+
+Wer hat denn etwas von manueller Auswertung gesagt? Das wird natürlich
+automatisiert vom Server ausgewertet, ebenso wie die Anfragen über das
+Mail-Interface an ctpd-ulynjh@zlup.ofw.
+
+Rüdiger

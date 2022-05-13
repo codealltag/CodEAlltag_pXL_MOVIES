@@ -1,0 +1,25 @@
+Hi,
+
+nachdem ich in tv+video nix gefunden hab, was mir hilft, komm ich hier 
+nochmal mit einer Frage:
+
+Hab ich runtergeladen und installiet!
+wo ist das? Find ich nicht!!!
+
+markieren, sowie "Fast Recompress"
+hab ich gefunden und eingestellt.
+
+und unter "Compression" ffdshow mit H264 als Codec einstellen.
+Find ich auch nicht. Hab zwar den Punkt Compression, aber in der Liste gibts 
+kein ffdshow!
+
+Außerdem hab ich versucht, ein Video reinzuladen, hat 442 MB. Im Mediaplayer 
+läufts normal, in VirtualDUB dauert das ganze Vergnügen nur ca 15 Sekunden, 
+dann ist die Freude vorbei, der Film am Ende. Was ist denn das wieder für 
+ein Problem.
+Ganz abgesehen davon schaut das VirtualDUB gleich aus wie das 
+VideoEditMagic. Und hier hab ich nur gefunden, wie man Anfang und Ende 
+kürzt, aber nicht, wie man dazwischen was rausschneidet, nämlich den 
+Werbeblock. Wie geht denn das?
+
+Danke, Gruß Lorenz

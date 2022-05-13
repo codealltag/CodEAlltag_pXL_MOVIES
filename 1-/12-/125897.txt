@@ -1,0 +1,32 @@
+Das Teil habe ich gerade wieder entsorgt, da es für meine Begriffe ein
+Krampf zu bedienen ist, 2. Nur mit Mühe und ungern mehrere Newsserver
+benutzt.
+
+
+Wenn du meinst? Ich schmeiß gleich mal Lippok an und entscheide nach
+meinen KO Kriterien.
+
+
+Wenn du die hier schon einschränkst, muss ich das nicht ausprobieren
+oder?
+
+
+Den habe ich ja nicht mal unter X11 benutzt.
+
+OK, ich benutze Kumeth. Und zwar weil das bisher das einzige Teil ist, dass
+mich glücklich gemacht hat. Die drei großen Fehldesigns sind mir
+durchaus bekannt.
+1. Quoting Scheiße,
+2. Sig unzulässig
+3. Kann Quoted Printable codierte Nachrichten _�berhaupt_ nicht quoten.
+
+Das macht ihn natürlich nicht zu einem guten Newsreader, aber ich hatte
+wie gesagt bisher keinen besseren unter den Fingern.
+
+Werde mich an der Diskussion _hier_ nicht weiter beteiligen.
+Wer weiter diskutieren will / mir einen Newsreader empfehlen möchte, mit
+dem ich was anfangen kann, kann mir ja ne email schreiben.
+
+Größe,
+
+Lukas.

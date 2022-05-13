@@ -1,0 +1,8 @@
+Korrekt. 
+
+
+Nein, es sind alle Geräte betroffen, die mit Halbleiterbauelementen
+arbeiten. Vorrangig natürlich solche, an die irgendwelche Kabel
+angeschlossen sind, die als Antenne fungieren können.
+
+Roman

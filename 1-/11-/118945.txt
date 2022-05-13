@@ -1,0 +1,2 @@
+Die Anzahl muß prim sein für sicher? Wo wird das erwähnt? Und warum ist dann 
+an drei Stellen die nicht prime 4 sicher?

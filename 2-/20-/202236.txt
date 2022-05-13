@@ -1,0 +1,44 @@
+Also noch mal öffentlich, war gestern auch auf einer KIVS Promo dieser  
+Karte und habe mir das mal angeschaut. Selbst habe ich sie nicht und auch  
+keine erfahrung damit. Das Konkurrenzprodukt, die Fast AV-Master wurde mir  
+neulich ausführlicher vorgeführt, der Mensch (ein Video-Fachhaendler)  
+hatte auch ein bisschen mehr Ahnung als die Miro-Tante gestern. Er kannte  
+auch die Bedürfnisse von Filmemachern und auf was es ankam.
+
+
+Bei der Fast hat ein P90 vollkommen ausgreicht, ich glaube mit 32 MB.Die  
+Ansprueche der beiden Karten duerften in etwa gleich sein. Die Videos  
+liefen darauf ruckfrei, auch auf dem Monitor, was von der Grafikkarte  
+abhaengt. Wird mit GUF geliefert. Bei kleinen Pentiums  
+dauert die Berechnung des Films eben etwas laenger, aber ruckfrei waren  
+sie trotzdem.
+Die Miro lief auf einem P160 mit 32 MB, di Grafikkarte schien nicht so  
+ueppig, da es selbst im Auschnitt (1/4 Bildschirm) etwas geruckelt hat.  
+Die Dame meinte aber, auf dem Videoausgang der Karte kaeme es ruckfrei  
+heraus. Ein Fernseher zum Ueberpruefen war nicht vorhanden. Geliefert wird  
+sie mit Wuko-Mode Premiere 4.2 Lightversion. Aufpreis zur Vollversion ca.  
+350,-. Die Karte selbst sollte 1500 kosten. Treiber sind bisher nur fuer  
+Win95 vorhanden, fuer 3.11 gibts keine, fuer NT sollen sie naechstes Jahr  
+irgendwann kommen. Auf meine Frage nach Treibern fuer Linux meinte sie:  
+"Nein gibts nicht, das muss ja nicht sein". Dass sie es so frech  
+ausdrueckt, haette ich nicht erwartet!
+Der Sound wird auf der Karte gleich mitverarbeitet, der Soundteil soll  
+angeblich auch als Soundkarte ansprechbar sein. Meist zumindest :)
+Laut Prospekt benötigt jede Minute S-Video ca. 200 MB durchschnittlich.  
+Die festplatte muss aber unbedingt SCSI sein, 6 MB/s Datenrate sollte sie  
+wohl verkraften können. Die Karte soll Studioqualitaet bringen. Ob bei  
+Studioqualitaet allerdings mit Broadcast-Qualitaet (was als Fingerz z.B.  
+schafft) gleichgesetzt wird, weiss ich nicht. Laut Promoterin soll auf  
+jeden Fall bessere Auflösung als S-Video möglich sein. Auc die  
+verarbeitung von Halbbildern und NTSC-Format ist möglich. Die Karte hat  
+allerdings nur FBAS und S-Eingaenge,  Audio natuerlich auch in Stereo.
+Mehr faellt mir nicht ein, habe das Prospekt auch noch nicht vollstaendig  
+durchgelesen, scheint allerdings ein interessantes Produkt zu sein.
+Meine Frage, was im Vergleich zur Konkurrenz, der AV-Master von Oberreitmeier,  
+besser ist, konnte oder wollte sie mir nicht beantworten :-) Klar ist  
+aber, dass die bestimmt auch nicht viel schlechter ist, dafuer aber  
+minimun 200,- guenstiger ist. In der Ausgabe 05/97 der LOTTOBRUNN soll ein  
+Vergeichstest zwischen beiden Karten kommen, die Fast wurde in video 7  
+oder 8/95 im video-Aktiv Teil vorgestellt.
+
+Ciao, Tim

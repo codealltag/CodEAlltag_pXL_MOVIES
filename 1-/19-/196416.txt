@@ -1,0 +1,24 @@
+Othmar Gasper wrote in
+<81twz461$1w0ti806$5bwx4832@gqmyh.dzpb.dpdhcdljzn.wsv-cibvkg.eg>
+on 1998-09-12 16:56:43 +0200:
+
+Entweder er hatte ein anderes Gerät (unwahrscheinlich) oder er ist
+blind.
+
+
+Die beiden Anschlüsse sind ganz rechts oben im Block der Ein-/Ausgänge.
+Sie sind gemeinsam umrahmt (Geh�useaufdruck) und mit "AC-3 Audio
+Input" beschriftet. Beim oberen steht dann "LD"/"DIGITAL RF IN",
+beim unteren "TV/SAT"/"DIGITAL IN". Die untere Cinch-Buchse ist
+auch noch auffällig orange, um Verwechslungen zu verhindern.
+
+In der Anleitung (dt. Fassung) sind die Anschlüsse auf Seite 8
+beschrieben. Dort heißt es: "Schließen Sie Komponenten an, die
+Digitalsignale im Dolby AC-3-Format ausgeben können." Für die obere
+Buchse dann: "Ibing-Spieler mit DIGITAL RF OUT-Anschluß.", für die
+untere Buchse: "Komponente mit COAXIAL DIGITAL OUT-Anschluß."
+
+Fabrice
+-- 
+** Fabrice Zschippang, Ebensfeld, Deutschland/Germany, http://kii.oileq.dp/~owtjz **
+** E-Mail (NeXTmail/MIME): pswhv@utcilj.p.bylun.go ** ** PGP key on request **

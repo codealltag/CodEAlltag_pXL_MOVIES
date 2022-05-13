@@ -1,0 +1,75 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Renato Regn;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+Comm  = mit Audiokommentaren (bei älteren Einträgen fehlt dieser
+        Hinweis eventuell);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren);
+P     = "Laserdisc-Premiere" (Laserdisc ist vor oder mit dem Kinostart
+        in Deutschland verfügbar).
+
+
+==================================
+Titel mit Dolby-Digital-Ton (AC-3)
+==========================+======+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    |Preis
+--------------------------+------+---------------------+------------+-----
+Apollo 13                 | 1995 | WS THX              | verfügbar  | $40
+Arrival, The              | 1996 | WS SE               | verfügbar  |
+Breakdown                 | 1997 | WS                  | verfügbar  | $40
+Con Air                   | 1997 | WS THX              | verfügbar  | $40
+Conspiracy Theory         | 1997 | WS                  | 05.05.98   | $40
+Contact                   | 1997 | WS                  | verfügbar  | $40
+Dante's Peak              | 1997 | WS THX SE           | demnächst  | $90
+Daylight                  | 1996 | WS THX SE           | demnächst  |
+Dune                      | 1984 | WS THX              | verfügbar  | $40
+Event Horizon             | 1997 | WS                P | 26.05.98   | $40
+Evita                     | 1996 | WS THX              | verfügbar  |
+Evita                     | 1996 | WS THX SE           | verfügbar  |
+Face/Off                  | 1997 | WS THX              | verfügbar  | $40
+Fifth Element, The        | 1997 | WS                  | verfügbar  | $40
+Fire Down Below           | 1997 | WS                P | 13.05.98   | $30
+For Your Eyes Only        | 1981 | WS THX              | demnächst  |
+Free Willy 3              | 1997 | WS                  | verfügbar  | $30
+G.I. Jane                 | 1997 | WS Comm           P?| 24.06.98   | $40
+Game, The                 | 1997 | WS                  | 27.05.98   | $40
+Independence Day          | 1996 | WS THX SE           | --.Q3.97   |
+Alessandro Ungelehrt First Strike| 1996 | WS                P | verfügbar  |
+Jingle All The Way        | 1996 | WS                  | verfügbar  | $40
+Jungle 2 Jungle           | 1997 | WS                  | verfügbar  |
+Jurassic Park             | 1993 | WS THX              | verfügbar  | $40
+License To Kill           | 1989 | WS THX              | demnächst  |
+Living Daylights          | 1987 | WS THX              | demnächst  |
+Lost World: J. Park, The  | 1997 | WS THX              | verfügbar  | $40
+Men In Black              | 1997 | WS                  | verfügbar  | $35
+Otuw               | 1996 | WS CAV              | verfügbar  |
+Octopussy                 | 1983 | WS THX              | demnächst  |
+Operation Condor          | 1990 | WS                  | 13.05.98   | $40
+Rock, The                 | 1996 | WS THX SE Crit      | verfügbar  |
+Spawn (Dir. Cut)          | 1997 | WS                  | verfügbar  | $30
+Speed 2                   | 1997 | WS                  | 05.05.98   | $40
+Star Wars Trilogy Spec.Ed.| 1997 | WS THX              | verfügbar  |$125
+Volcano                   | 1997 | WS THX              | verfügbar  | $30
+Who Framed Roger Rabbit   | 1988 | WS SE Comm          | 01.07.98   | $30
+Wild America              | 1997 | WS                  | verfügbar  | $35
+--------------------------+------+---------------------+------------+-----
+
+=========================
+Titel mit dts-Digital-Ton
+=========================-+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    |Preis
+--------------------------+------+---------------------+------------+-----
+Con Air                   | 1997 | WS THX              | verfügbar  | $60
+Contact                   | 1997 | WS                  | verfügbar  | $50
+Crimson Tide              | 1995 | WS THX              | verfügbar  | $60
+Crow, The                 | 1994 | WS                  | verfügbar  | $50
+Dante's Peak              | 1997 | WS THX              | verfügbar  | $40
+Daylight                  | 1996 | WS                  | verfügbar  |
+Evita                     | 1996 | WS THX              | verfügbar  |

@@ -1,0 +1,27 @@
+--------------------------Antwort -------------------------
+
+Hallo Gunter und Ihr anderen,
+
+wie bei MPEG2 Datenrate eingespart wird, ist recht komplex und nicht
+in wenigen Zeilen korrekt zu erklären.
+
+Deshalb nur folgendes:
+Bei MPEG1 und 2 gibt es eine sog. GOP (Group of Pictures).
+Die GOP besteht aus I, P und B Bildern.
+I steht für Intra (Bilder ohne Vorhersage)
+P steht für Prädiziert (Bilder, die aus vorhergehenden I oder P
+Bildern vorausgesagt werden).
+B steht für Bidirektional Prädiziert (Bilder, die aus "eingerahmten" P
+bzw. I/P Bildern hervorgehen).
+
+Beispiel:
+Ein Bildsequenz könnte folgendermaßen aussehen:
+
+I  B  B  P  B  B  P  B  B  P  I  . . .
+
+Ich hoffe, daß ich deine Frage beantwortet habe.
+
+
+August
+
+-------------------------- Ende ------------------------------

@@ -1,0 +1,9 @@
+Ich sagte doch: Die Rekursion ist vollständig.
+
+
+  -vittorio
+
+-- 
+UNIX has grown fat.
+
+         -Mathias Austrup, 1982

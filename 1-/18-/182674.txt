@@ -1,0 +1,23 @@
+Die /2^0 vergessen wir mal schnell.
+
+20 dB * log (2^16) = 20 dB * 16*log(2) = 16 * 20*log(2) dB = 16 * 6.0206... dB = 96.33 dB,
+welches etwa 16 * 6 ist (die -3 dB-Grenze ist eigenlich die -3.0103 dB-Grenze).
+
+Hinzu kommt noch ein Term der Größe 10 dB * log(1.5) = 1.76 dB, was 98.09 dB ergibt.
+Das zum unbewerteten SNR bei idealen Wandlern.
+
+Nichtlinear war nicht ansgesprochen, sondern Red-Book-konform. Allerdings
+kann man das Rauschen aus den Bereichen, in denen das Ohr sehr empfindlich
+ist in Bereiche umlagern, in denen das Ohr fast taub ist. Ohne Preemphasis
+kann man damit den SNR nochmal um 11 dB, mit Preemphasis um 3+15 dB erhöhen
+(die 3 ist die direkte Auswirkung der Preemphasis).
+
+Dabei verliert das Rauschen seinen akustisch sehr auffälligen Charakter
+(digitales Rauschen), so daß diese SNR mit denen von Analoggeräten
+vergleichbar sind.
+
+-- 
+Jürg Rippel
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

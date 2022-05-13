@@ -1,0 +1,10 @@
+Die Wandlung von Kinofilm nach PAL bringt automatisch ein um 4% schnelleres
+Abspielen mit sich (Kinofilm hat 24 Bilder pro Sekunde, für die Wandlung
+nach Pal (25 Bilder/Sekunden bzw. 50 Halbbilder pro Sekunde) wird er
+einfach schneller abgespielt). Bei Kinofilm nach NTSC ist das nicht der
+Fall. Bei Filmlängen von ca. 100 min würde das deine "mindestens 3 Minuten"
+erklären.
+
+cu
+
+Holger

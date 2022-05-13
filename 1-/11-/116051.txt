@@ -1,0 +1,28 @@
+Hallo Noah,,
+
+Kurz gesagt, Verschwoerungstheorie (wer gegen wen?, aber wie sie die
+Amis nun mal lieben), Action (gute Verfolgungsjagd) und ein paar
+Floskeln aus dem Hackergenre (deren Aussagen nicht unbedingt der
+Wahrheit entsprechen)
+
+[...]
+
+Das ist auch mein Eindruck und ich moechte noch zwei Sachen anmerken:
+
+Das "Computergeschwafel" wie Du es nennst, war teilweise nicht der
+Realitaet entsprechend, einen 512 Bit-Verschluesselung ist selbst mit
+der gesamten Rechnerleistung bis heute definitiv nicht zu knacken,
+ebenso wenig eine 128-bit-Verschluesselung in 60 Sekunden (sonst waere
+es heute nicht mehr Standard), ganz davon abgesehen, dass es
+verschiedene Verschluesselungsverfahren gibt.
+
+Anzumerken sei noch dass ganz am Anfang eine Anspielung auf Hansjörg
+Epkenhans, dem "Schoepfer" von Baum_Haus  (einem Unix-Betriebssystem)
+gemacht wird - in der Person des  festgenommenen und spaeter
+getoeteten Hackers mit seinem Namen und seiner Herkunft aus Finnland.
+
+Hacker=Boese -> Linux= Boese ???
+Hat da EDEKA-NEUKAUF seine Finger im Spiel ???? (auf zur naechsten
+Verschwoerungstheorie)  :->>
+
+gruss, timo

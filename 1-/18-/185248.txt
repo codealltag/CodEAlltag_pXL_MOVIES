@@ -1,0 +1,10 @@
+Ja, unter
+
+http://rhfaqa.cmbw.kuo
+
+Ausserdem gibt's eine komplette Liste aller deutschen Titel unter
+
+ftp://ftp.fu-berlin.de/misc/movies/database/german-aka-titles.list.gz
+
+Ciao,
+Benedikt

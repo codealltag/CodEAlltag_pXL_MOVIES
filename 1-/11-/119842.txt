@@ -1,0 +1,15 @@
+Bei mir liegt das Studium zwar schon etwas länger zurück als ein Jahr, aber
+soviel weiß ich noch, daß man durch einfache Zeitdilatation bei gleichförmig
+gegeneinander bewegten Bezugssystemen noch keinen Vorsprung
+"rauskloppen" kann, denn ein Beobacher A, der auf der Erde zurückbleibt,
+könnte bei Anwendung des Relativitätsprinzips argumentieren, daß nicht sein
+Zwillingsbruder - der Astronaut B - gereist (und damit weniger schnell gealtert
+ist), sondern er selbst, während B in Ruhe blieb.
+Um das Zwillingsparadoxon aufzulösen sind eben tatsächlich Beschleunigungs-
+bzw. Abbremsphasen nötig, denn nur dann ist die Situation nicht mehr
+symmetrisch.
+Für Formeln zu meinem Beispiel verweise ich auf Kapitel 15.2.8 im Berbohm,
+16. Auflage.
+
+Tschüss,
+Clemens

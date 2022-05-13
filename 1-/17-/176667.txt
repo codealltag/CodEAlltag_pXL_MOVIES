@@ -1,0 +1,12 @@
+Fabian The Hutt Klassen wrote:
+ =
+
+
+Will man einen Ton um einen Halbtonschritt erhöhen, muß man seine
+Frequenz mit der 12ten Wurzel aus 2 (das ist ca. 1,06) multiplizieren.
+Die Frequenzerhöhung durch das schnellere Abspielen in Vides entspricht
+dem Faktor 25/24 (ungefähr 1,04). Also ist es nicht ganz ein
+Halbtonschritt.
+
+Ciao,
+ Karl

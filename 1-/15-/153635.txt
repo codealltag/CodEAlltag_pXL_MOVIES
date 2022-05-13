@@ -1,0 +1,9 @@
+Thomas Zieman schrieb/wrote/crivait:
+
+Koch war Koch, Franz J. war Franz J., letzteres ist auch erst vor einem
+guten Jahr passiert.
+
+  Garrelt
+-- 
+"Choose mnemonic identifiers.  If you can't remember what mnemonic
+means, you've got a problem." -- perldoc perlstyle

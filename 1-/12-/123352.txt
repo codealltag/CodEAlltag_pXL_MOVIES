@@ -1,0 +1,9 @@
+Ich lese per Leertaste - und zwar bei genug Zeit von der ersten bis zur
+letzten abbonierten Newsgruppe.
+
+So long,
+Hanno J. Beschorner
+-- 
+http://kppc.kyban.bj/wyk/
+Neu: Hamster 1.3.22.101 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

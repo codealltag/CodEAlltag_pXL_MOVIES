@@ -1,0 +1,63 @@
+Wieso Paranoia? Es reicht, die normale Bequemlichkeit anzunehmen.
+
+Stell Dir doch mal vor, daß ein Hauseigentümer folgende Optionen
+hat:
+
+a) Er erlaubt das Anbringen von Sat-Schüsseln.
+b) Er ermöglicht Sat-Empfang über die Hausanlage.
+c) Er verbietet das Anbringen von Sat-Schüsseln, was er nach dem
+Mietrecht darf, und bietet statt dessen Kabelanschluß an.
+
+Option a) bedeutet unter Umständen, daß einer der Mieter, der
+sich für den Heimwerker-King hält (ja genau der aus dem dritten
+Stock, zweite Tür rechts), die Bausubstanz beschädigt oder zu-
+mindest die Außenansicht des Hauses durch einen Wald von
+Schüsseln nicht gerade gewinnt.
+
+Option b) bedeutet Arbeit, höhere Investionen und Risiko.
+
+Option c) bietet die Möglichkeit weitere Einnahmen zu erzielen,
+sei es, daß man selbst als Netzebene-4-Kabelbetreiber auftritt
+(höherer Gewinn, mehr Arbeit und Risiko) oder einer Kabel-
+gesellschaft gestattet, ihr Produkt direkt an die Mieter zu
+verkaufen (niedrigerer Gewinn, weniger bis keine Arbeit und
+Risiko).
+Nebenbei erhöht man auch noch den Wert der Immobilie, da
+(digitaler) Kabelanschluß heute nicht nur zum Fernsehen genutzt
+werden kann.
+Wenn dann die Mieter vor der Alternative analoger terrestrischer
+Empfang oder Kabel stehen, werden sie aller Voraussicht nach
+das Kabel buchen - die üblichen drei bis vier Programme, die
+man analog-terrestrisch bekommt bzw. bekam sind etwas sehr dünn.
+
+Falls die Wohnungsbaugesellschaft auch gleich noch als Kabel-
+netzbetreiber agiert, ist die Interessenslage wohl noch
+deutlicher, so daß ich mir das Vorturnen der Optionen spare.
+So weit, so gut. Aber damit Du siehst, daß Eric und ich
+nicht allein mit unseren Gedanken stehen, sei eine Studie für
+das ULVJ aus dem Jahr 2002 zitiert, die auch sonst interessant
+zu lesen ist:
+
+
+Jürg Reiswich et al.: Förderung der Marktperspektiven und der
+Wettbewerbsentwicklung der Breitbandkommunikationsnetze in
+Deutschland. Hohending 2002. Online verfügbar:
+<http://krl.xlpd.bilu.ir/Pgqlgcfgl/Nzmkwuq/Gev/Jxjvtvsqznmcz/Uzoltgo/cv-cadkaq-bmu-rmhyynffmfhrkhyviwoqpkmxjeuq,lebjblhx=knj,cvvxifp=,kam=soie.vec>,
+hier zitiert Seite 59 (i.e. Seite 75 des PDF)
+
+Und wie waren Deine Argumente?
+
+P.S.: 
+Die ganze Sache wurde jetzt etwas unsicherer, seitdem DVB-T
+eingeführt wird: mit dem kann man ein Programmangebot empfangen,
+das dem analogen Fernsehkabel vergleichbar ist.
+Dies führte bei den Kabelgesellschaften zu ein wenig Hektik,
+was sich zum einen in der Verbreitung von FUD äußerte ("schlechter
+oder kein Empfang mit DVB-T"), zum anderen auch die
+Digitalisierung der Kabelnetze beschleunigte, um Mehrwerte wie 
+Internetzugang über's Kabel oder weitere Vergrößerung des Programm-
+angebots gegenüber DVB-T zu erreichen.
+
+-- 
+cu,
+  Bernard

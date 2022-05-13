@@ -1,0 +1,17 @@
+Am 01-02-97 um 01:44 schrieb o61r@rvi.kye-ujljrc.wa
+unter dem Betreff: Re: Laserdiscs
+
+
+Das komische ist, bei mir erscheint nicht im Bild, daß der
+Verstärker ein AC-3 Signal erneut gefunden hat hat. Bei der
+Dolby Digital Test DVD ist ein fehlerhafter Datenstrom drauf,
+bei diesem erscheint bei jedem aussetzer das On Screen Display.
+Wobei dieses bei einem Dropout der LD nicht erscheint. (Kann
+natürlich sein, daß der LD Eingang etwas träger in wahl zwischen 
+RF, PCM oder Analog ist.)
+
+--
+Dietrich Int-Veen
+
+tv@txnnnhy.sr
+http://dcc.gztot.ic/~dckysamsp

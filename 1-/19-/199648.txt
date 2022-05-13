@@ -1,0 +1,13 @@
+Dieter Leichsnering wrote in <4fk0tq$ykl$0@ttda.wv.gn-jeouir.bo> on
+09. 04. 22 12:22:35 +0100:
+
+Und abgesehen davon, warum sollte ich in einem Anwendungsprogramm
+etwas _NOCHMAL_ implementieren, was bereits jemand für das
+Betriebssystem getan hat? (Das soll natürlich kein Freibrief sein;
+ein verantwortungsvoller Umgang mit Speicher ist unter jedem
+Betriebssystem angebracht.)
+
+Hilmar
+-- 
+** Hilmar Rodenbücher, E-Mail (NeXTmail/MIME): ujxov@sciqqa.b.kmzbt.dd **
+**  "I don't wanna 5 day pass to Disney planet." -- H. Gördel  **

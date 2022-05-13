@@ -1,0 +1,11 @@
+Moin zusammen!
+
+Weiss jemand was mit den Diffs- und List-Files der IMDB los
+ist?
+Seit dem 01.09.02 gibt's nix neues mehr....   :-(
+Oder suche ich nur immer an der verkehrten Stelle?
+
+--> ftp://ftp.fu-berlin.de/misc/movies/database/
+
+Gruesse
+           Italo

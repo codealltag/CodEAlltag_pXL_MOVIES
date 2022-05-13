@@ -1,0 +1,5 @@
+AVI ist ein Containerformat, ob eine Videodatei "plattformunabhaengig"
+abspielbar ist hat nur mit dem verwendeten Codec zu tuen.
+
+Und wenn man die Groessen von MPEG-Datei vermeiden moechte sind
+verschiedene "DIVX-Varianten" idR die beste Wahl.

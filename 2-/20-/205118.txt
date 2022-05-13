@@ -1,0 +1,128 @@
+CINEMA-Index
+
+                      erstellt von Bernard Altenberend
+
+          zusaetzliche Daten bereitgestellt von Pasquale Mehlhos
+
+*** Dieses Archiv darf nur in UNVERAENDERTER und VOLLSTAENDIGER Form       ***
+*** vertrieben werden                                                      ***
+*** Ferner darf diese Datei zu KEINEN KOMMERZIELLEN Zwecken genutzt werden ***
+
+
+Hallo!
+
+Wie oft ist mir das in letzter Zeit schon passiert:
+Ich sehe einen Filmtitel im Programm unseres Programmkinos, im Premiereheft,
+in der Fernsehzeitschrift oder sonstwo, und wuerde gerne mal schnell etwas
+ueber den Film nachlesen.
+Aber in welchem Heft stand was darueber?
+Damit ist jetzt Schluss!
+
+Dies ist ein Index aller rezensierten Filme der Zeitschrift Lichtwerk im
+Zeitraum von 5/88 bis ??? (Siehe Dateiende der Datei CINEMA.ASC).
+
+Der Index liegt ab sofort nur noch in Form einer ASCII-Datei im Latin-1
+Sonderzeichen-Format vor. (Latin-1 = ISO 8859-1).
+Zeilenvorschuebe sind einfache Linefeeds (#10) OHNE Carriage Return (#13).
+Diese Datei ist brauchbar fuer div. Unix-Varianten.
+Ein Konvertierungsutility (CINRECOD, nicht gerade schnell...) fuer
+  - zwei Zeilenvorschubvarianten (CR & LF und nur LF)
+  und
+  - zwei Sonderzeichenvarianten
+    (ISO-8859-1 alias LATIN1 und JLCO PC Codepage 437)
+liegt bei.
+
+Ein xBASE-Quelltext fuer ein Konvertierungsprogramm fuer das DBF-Format liegt
+ebenfalls bei:
+CINREAD.PRG
+
+Beschreibung der Dateien im Archiv:
+CINEMA.ASC    Datei mit den erfassten Film-Rezensionen, ASCII-Format mit
+                festen Feldlaengen, ISO-8859-1 alias LATIN-1, nur Linefeeds
+CINEMA.DBF    Leere DBF-Datei, die die Struktur der zu erstellenden DBF-Datei
+                enthaelt
+CINDUMMY.DBF  Leere DBF-Datei, Hilfsdatei
+CINREAD.PRG   xBASE-Programmdatei-Quelltext, konvertiert CINEMA.ASC ins
+                DBF-Format
+LIESMICH.TXT  Diese Datei :-)
+FILE_ID.DIZ   Kurz-Beschreibung dieses Archivs
+CINRECODE.EXE DOS-Konvertierungsutility (Das Programm ist SUPERLANGSAM,
+                                         aber es funktioniert...)
+WINDOWS.BAT   DOS-Batch fuer Erzeugung einer Windows-Kompatiblen ASCII-Datei
+DOS.BAT       DOS-Batch fuer Erzeugung einer Klotmann-Kompatiblen ASCII-Datei
+
+Folgende Felder habe ich erfasst:
+TITEL      - Der Titel des Filmes
+ORIG_TITEL - Der Originaltitel des Filmes in der Sprache des Herkunftslandes
+             Anmerkung:
+               "???": Kein Eintrag durch fehlende Information moeglich
+HEFT       - Die Nummer des Lichtwerk-Heftes
+MONAT      \
+JAHR       / Monat/Jahr des Lichtwerk-Heftes
+SEITE      - Anfangsseite der Rezension
+WERTUNG    - Lichtwerk-Wertung des Filmes
+             Hierbei bedeutet:
+               0, 20, 40, 60, 80, 100: Prozentuale Bewertung des Spielfilmes
+               -1: Keine Bewertung vorhanden
+               -x: Wertung hoechstwahrscheinlich falsch
+             Anmerkung:
+               Ich bin sowieso oft nicht mit der bloedsinnigen Wertung einver-
+               standen...
+TYP        - Typ der Rezension
+             Hierbei bedeutet:
+               R: Rezension im Hauptteil
+               K: Rezension im CI-Filmjournal (oft Kurzkritik)
+               P: Preview (Vorberichterstattung, Cinema am Drehort)
+               V: Rezension im Videoteil (oft Kurzkritik)
+               T: Rezension im TV-Teil (oft Kurzkritik)
+
+
+Die augenblicklich in dieser Version erfassten Ausgaben stehen am Dateiende
+der Datei CINEMA.ASC.
+
+
+*** Die Daten der Lichtwerk-Hefte 137 (02/89) bis 144 (10/89) wurden von  ***
+*** Pasquale Mehlhos, Fido: 2:2410/203.21, eingegeben. Danke, Pasquale! ***
+
+
+Korrekturen, Bemerkungen und Kommentare erbeten an:
+
+Snail-Mail:
+  Bernard Altenberend
+  Liethstraße 5
+  98504 Fahrenberg
+  Deutschland
+
+e-mail per Usenet:
+  slarr@akoxxste.iav.nz
+
+
+FTP:
+Zur Zeit gibt's eine aktuelle Version des Archivs unter folgender URL:
+ftp://ftp.bwl.uni-kiel.de/pub/cinema/cinmaXXX.lzh
+wobei XXX die aktuelle Heft-Nr. ist, z.B. wtttk206.fqk
+
+Die neueste Version dieser Datei sollte zusaetzlich in folgender Mailbox
+erhaeltlich sein:
+  Name : Varietee Fahrenberg
+  Fido#: 2:240/2120
+  Sysop: Serge Dykmann
+  Data : +66-645-1645268
+  Dort sollte es immer die neueste Version unter dem Dateinamen
+  CINMAxxx.LZH geben.
+  Es ist auch ein MAGIC eingerichtet unter "CINEMA".
+  Requestet sicherheitshalber immer CINMAxxx.*, wobei xxx die aktuelle
+  Heft-Nr. ist, z.B. CINMA211.LZH.
+
+Falls man dort keinen Zugriff bekommt und auch sonst keine Moeglichkeit hat,
+eine neue Version zu bekommen, der/die schreibe mir eine e-mail oder melde
+sich sonstwie, er/sie kann sich dann per Gastaccount auf meinem Mailboxrecher
+einloggen.
+
+
+Ciao, Bernard
+-- 
+in my hand your heart is beating              cbtqfhan iichhm - lutz - germany
+angels will take it away...                              slarr@akoxxste.iav.nz
+                                             agi@tfgpnovrgq.voa-ermo.[y919.]ix
+die form                                    try http://bme.iul.qao/pcg/frr.pxk

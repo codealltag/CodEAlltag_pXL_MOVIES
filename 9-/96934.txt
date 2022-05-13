@@ -1,0 +1,27 @@
+24 Hz für die Bewegungsauflösung und 48 Hz für Helligkeitsschwankungen
+sind gerade knapp über den Werten, die man braucht um Filme auf Dauer
+schmerzfrei zu sehen. Experimente haben gezeigt, daß höhere Frequenzen
+noch einmal eine Qualitätssteigerung bringen. Die ist zwar nicht mehr 
+so dramatisch wie z.B. der Sprung von 18 B/s auf 24 B/s, läßt sich bei
+empirischen Tests, bei denen Versuchspersonen die subjektiv empfundene
+Bildqualität bewerten sollen, durchaus noch messen.
+
+Die doppelte Anzahl der Bilder wird für eine deutliche Verbesserung
+bei schnellen Bewegungen und Kameraschwenks sorgen. Aber warum geht man
+nicht gleich auf 60 Hz um auch die Helligkeitsschwankungen zu minimieren?
+Oder wird auch bei dem neuen System jedes Bild zweifach projeziert,
+so daß man auf eine Helligkeitsfrequenz von 96 Hz kommt?
+
+
+Es gibt jetzt schon Elektronik, die die Bildstandsschwankungen des
+Projektors minimiert. Wenn man das Filmformat eh aufbohrt, könnte man
+zusätzliche Marken auf dem Film anbringen, an denen sich diese Automatik
+ausrichtet (und die dann gleichzeitig den groben Bildstrich steuern können). 
+Wenn man diese Marken schon in der Kamera auf den Film belichtet, kann 
+man auch die Bildstandsschwankungen in Kamera und Kopierwerk mit 
+ausgleichen.
+
+Bei höherer Bildfrequenz werden Unschärfen durch Körnung und Bildzittern
+aber eh minimiert.
+
+Ciao, Hkomv                                 lvavouyw@oqxxlykh.sn

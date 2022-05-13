@@ -1,0 +1,5 @@
+OE und AFAIK fast alle anderen GIUU-Newsreader beherrschen ^L nicht. 
+Deshalb sollt man auch besser ROT-13 benutzen.
+
+Ciao
+Olaf

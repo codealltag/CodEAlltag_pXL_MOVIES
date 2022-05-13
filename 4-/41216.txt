@@ -1,0 +1,11 @@
+War da nicht etwas mit "Softmatte" (oder so?), wo die Bildbegrenzung
+erst im Kino erfolgt, auf dem 35mm-Film aber das komplette Bild
+belichtet worden ist, inkl. Gaffing, etc.?
+
+H
+
+-- 
+BOFH excuse #228:
+
+That function is not currently supported, but Patrick Corver assures us
+it will be featured in the next upgrade.

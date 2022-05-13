@@ -1,0 +1,16 @@
+Hallo,
+
+Ich habe mit meinem A350 das Problem, dass die Code-2-DVD "Die
+Klapperschlange" den Player bereits beim Einlegen der Disc zum Abstuerzen
+bringt (er bleibt mit zwei Nullen im Display haengen).
+
+Mein Player ist in etwa 3 Monate alt und ich habe das Upgrade "DVD-Charger"
+installiert - allerdings testweise auch schon wieder ausgebaut. Same
+problem.
+
+Weiss jemand zufaellig die Tastenkombination, um die kompletten
+EEPROM-Register wieder auf die Werkseinstellung zurueckzusetzen?
+
+Ich bin dankbar fuer jede Information!
+
+- Ivan

@@ -1,0 +1,13 @@
+"Hero Uehlemann" schrieb...
+
+Ich weiß nicht, ob wir vom selben sprechen, aber ich kann mich an
+folgenden Bug in DOOM II erinnern: Dort gab es ein gelbes Monster,
+welches - als seine Waffe - nicht nur den Spieler in Flammen setzen
+konnte, solange man sich in dessen Blickfeld aufhielt und es dabei
+seine Hände faltete, sondern es verfügte auch über die Macht,
+anderere, bereits getötete Monster wieder zum Leben zu erwecken
+(respawnen). Wurde ein derartiges Monster (Imp. etwa) allerdings
+nicht durch den Spieler direkt (Schuss, z.B.) getötet, sondern durch
+eine sich bewegende Wand, Decke oder einen Boden zerquetscht, so
+war dann das respawnte Monster (ungewollt) unsterblich und konnte
+zudem auch noch durch Wände gehen (no clip).

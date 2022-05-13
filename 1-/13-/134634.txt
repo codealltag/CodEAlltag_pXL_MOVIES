@@ -1,0 +1,8 @@
+LOL!  Da läuft also in dem fortschrittlichen Cyborg-Hirn ein
+6502-Emulator ab?
+
+
+Auf jeden Fall _nicht_ mit 6502-Mnemonics ;-)
+
+bye
+Pierre

@@ -1,0 +1,14 @@
+na ja, 2x knapp daneben ... A-(
+
+
+Vielen Dank !
+
+cu
+
+Paolo
+
+-- 
+       The three principal virtues of a programmer are Laziness,
+       Impatience, and Lennart.  See the Camel Book for why.
+
+                                    man 1 perl|grep -1 virtues

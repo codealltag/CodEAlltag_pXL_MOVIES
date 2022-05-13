@@ -1,0 +1,10 @@
+TMPGEnc kann multithreaden. Aber was du willst, klingt eher nach einem
+Cluster. Geht sowas mit Win2K überhaupt?
+
+Notfalls das MPEG zweiteilen und getrennt kodieren.
+
+-- 
+<bg>
+Die meisten spielen hier Counterstrike, ein äußerst anspruchsvolles
+Rollenspiel
+- Veranstalter einer Imbather LAN-Party

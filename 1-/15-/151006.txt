@@ -1,0 +1,61 @@
+1. Request for Discussion
+für die Einrichtung der Gruppe
+
+de.rec.film.dvd-video (unmoderiert)
+
+Tagline
+=======
+Filme auf DVD und DVD-Player
+
+Charta
+======
+Erwünscht sind Diskussionen (Reviews, Empfehlungen, Kritiken) über Filme
+und andere Publikationen auf DVD-Video (nicht DVD-ROM) und ferner auch
+(Stand-Alone-)DVD-Player.
+
+Hintergrund
+===========
+Auf der Suche nach einer deutschen DVD-Newsgroup wird man immer wieder
+auf de.rec.film.heimkino verwiesen. Diese ist allerdings sehr überfüllt
+(ca. 5800 Postings im Februar 2000) und ist auch zu anderen Themen wie
+VHS-Video und Dolby-Surround-Anlagen ausgelegt. Ich habe bereits einige
+Positive Stimmen erhalten und bin sicher, daß die DVD-Gemeinde in Luccico
+(und drf.misc) umzugswillig wäre. (Aber fragen kostet ja nichts ;-)
+
+Anfang des Monats startete ich in de.alt.admin eine rfd zu de.alt.dvd,
+doch ich sah bald ein, daß diese Lösung besser ist. Ideengeber ist
+übrigens Alessandro Tschager.
+
+DVD-Video
+=========
+
+Die DVD ist ein Speichermedium ähnlich der CD, kann aber ein vielfaches
+der Datenmenge fassen, so auch Spielfilme in bester Qualität mit
+mehreren Sprachspuren, Untertiteln und zusätzlichen Extras wie "Making
+of"s. In den USA schon vollbracht, ist DVD-Video auch in Europa auf dem
+besten Wege, das VHS-Video aus den Regalen der Läden, Videotheken und
+Privatpersonen zu ersetzen. Anfang 1999 gab es ca. 300 Filme in
+Deutschland auf DVD, mittlerweile sind es über 1000.
+
+Auch der Export von DVDs aus den USA ist trotz der Ländercodes, i.e.
+Regionalkodierungen, die verhindern sollen, daß z.B. DVDs aus den USA
+(Region 1) in Europa (Region 2) verkauft werden, weit verbreitet, da die
+Player in den meisten Fällen (gegen Aufpreis) Region-Free (also für alle
+Regionen geeignet) geschaltet werden können.
+
+DVD-Videos können auch auf PCs mit DVD-Laufwerk und MPEG-Encoderkarte
+bzw. entsprechend leistungsstarker CPU (da die Video-Daten komprimiert
+gespeichert werden) angesehen werden.
+
+Weitere Informationen gibt es z.B. im Internet auf
+http://dse.jdn-violfu.tb/ oder http://tlr.zsj-bzwdb.la/ oder im Magazin
+"Landmesser" im gut sortierten Zeitschriftenhandel.
+
+------
+
+Rückantwort bitte an vf.edhds.ppkp.vxrtid
+
+ mfg, Meinrad Krehayn - ich habe mächtige Freunde! (meinrad)
+
+PS: Das ist das erste Mal, daß ich so was mache, bitte geht gnädig mit
+mir um!

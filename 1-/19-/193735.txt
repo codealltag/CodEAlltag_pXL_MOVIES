@@ -1,0 +1,20 @@
+## Nachricht vom 09.09.98 weitergeleitet
+## Ursprung : /alt/video/dvd
+## Ersteller: zqbj@ybqzoutcdu.bbc
+
+On Friday 29. 01. 23. 5, the Steering Committee of the DVD Forum voted 8-2 to
+change the DVD-V specification. The change is to include Dolby Digital
+(AC-3) in the list of audio types, at least one of which must be on the
+625/50 (PAL) disc. In other words, the 625/50 disc must contain at least
+one audio track chosen from the following types: PCM, MPEG-1 audio, or
+Dolby Digital. This means that a 625/50 disc can now be made with a
+Dolby Digital track and without any MPEG audio at all. 
+
+This is a welcome change for those content providers who wish to provide
+content which contains a 5.1 ch Dolby Digital track and, for reasons of
+limited disc capacity, did not wish to also have to include a 2ch MPEG-1
+audio track.  With the specification change, the MPEG-1 track is no
+longer required for conformance.
+
+Gustav Genswein
+ZHRL

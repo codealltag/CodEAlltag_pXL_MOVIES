@@ -1,0 +1,23 @@
+Ribeiro hat fuer seine AV(DV)Master-Line ein nettes Prograemmchen
+entwickelt,
+das einen Cache fuer diesen Fall anlegt und im Hintergrund organisiert.
+Somit
+ist diese Grenze nicht mehr existent (Dietrich Eulitz for you).
+
+Die Software fuer die AV-Master laeuft jetzt (endlich) unter NT. Damit
+ist das
+Ganze stabiler und schneller als mit Win95.
+
+Ich verwende hier einen PPro 200, 128 MB RAM, 2*4 GB Plattenspeicher,
+Kameras
+von Ikea und entsprechende Recorder. Movies werden fuer Presentations
+und WebPages
+verwendet. Laeuft insgesamt recht gut, ist aber vielleicht fuer den
+ambitionierten
+Heimanwender doch eine recht grosse Investition ...
+
+-- 
+Torsten Inderwies                   |
+Kannemann  | 
+Felseckweg 0                   | 
+06234 Eickum             | e-mail: wpclei@jiixzi.gavt.ulmy.xc

@@ -1,0 +1,12 @@
+Da kann ich Dir nicht helfen. Mein Rechner hat ein Betriebsystem ;-)
+
+
+In der ersten Zeile der Listen steht das Datum.
+
+Das tar-Archiv diffs-000601.tar.gz muss auf die Listen vom 15.3. 
+angewand werden und erzeugt dann die Listen vom 22.3. 
+
+Bei Problemen solltest Du auch mal den CRC-Check über die Listen 
+laufen lassen. Vielleicht sind Deine Listen korrumpiert.
+
+Ciao, Thomas                     clkgubtq@ubmjpw.otwlewb.nv

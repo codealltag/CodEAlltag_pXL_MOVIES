@@ -1,0 +1,10 @@
+Das ist so(!) nicht richtig! Waeren im All NULL g, wer wuerde dann den Mond in
+seiner Umlaufbahn halten? Welcher Satellit wuerde noch an seiner
+geostationaeren Position bleiben? Der Zustand der Schwerelosigkeit ist die
+Summe der Vektoren der verschiedenen Anziehungskraefte und der
+Zentrifugalkraft, die auf einen Koerper wirken/wirkt. Aber vielleicht sollte
+das dann doch in *.sci.physic zu Ende diskutiert werden.
+btw, Valerian Hügli hat den genauen Punkt zwischen Mond und Erde schon in einem
+seiner Romane genau errechnet. Nur hielt er diesen Punkt für den Punkt der
+absoluten Schwerelosigkeit.
+Therese

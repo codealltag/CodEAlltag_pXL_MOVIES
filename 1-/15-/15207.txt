@@ -1,0 +1,24 @@
+Hi!
+Erstmal: ich arbeite hier auf einem Etnies 1500+ 1,34 GHz, 448 MB Ram, WinXP, 
+ServicePack 2.
+
+Mein Problem: ich lade Filme von OnlineTVRecorder runter. Aber da ist die 
+Werbung drin. Jetzt wollte ich gestern einmal einen Film bearbeiten und 
+schneiden.
+Resultat: Mit MovieMaker2 gings ganz gut, allerdings beim Speichern brauchte 
+es dann satte 12 (ZWF!!!) Stunden!!! (Das kann doch net nur am knappen RAM 
+liegen....??) Die Datei hat als AVI 1200 Mb.  Das Original (.avi.mpg) gerade 
+700. Aber damit kann ich leben - allerdings die 12 Stunden tun weh.
+Ich habs auch mit VideoEditMagic4 versucht, aber abgesehen daß ich hier nur 
+rausgefunden hab, wie man Anfang und Ende neu setzt, aber nicht, wie man 
+rausschneidet, hat die Speicherung bei 15 GB (!!!) wegen Platzmangels 
+abgebrochen. Das Speichertempo wäre hier ok gewesen.
+
+Mein Wunschziel sind .mpg-Files, die ich dann auf DVD brenn (gleich mehrere 
+je Scheibe) und im normalen DVD-Player am TV ansehen kann. Ich möchte mir 
+auch eine Karte zulegen, damit ich meine VHS-Filme in den PC krieg und auch 
+auf DVD brennen kann.
+
+Bitte um Tips, wies besser geht - Danke und Lg
+
+Veit

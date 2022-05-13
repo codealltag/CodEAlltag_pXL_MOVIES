@@ -1,0 +1,4 @@
+Da kommt direkt ein Anmeldefenster für Benutzername/Paßwort. Was muß
+man denn da eingeben bzw. wo registriert man sich da? Beim Klick auf
+Abbrechen kommt nur eine Nicht-Autorisiert-Meldung des
+Aixxess-Konfigurationsmenü ...

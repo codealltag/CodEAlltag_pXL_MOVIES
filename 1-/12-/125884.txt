@@ -1,0 +1,46 @@
+total
+
+üblicherweise bezieht man sich ja nicht auf das Posting von vor drei
+Wochen, sondern auf das davor. üblicherweise hat man also nur ein oder
+zwei "> ".
+Mir hat letztens mal einer erklärt, was das mit den 72 Zeichen auf sich
+hat:
+herkömmliche Textkonsolen haben 80 Zeichen pro Zeile. (Das wissen wohl
+die meisten noch)
+Wenn ich also 72 Zeichen schreibe, kann man noch 8 weitere Zeichen
+unterbringen. Das reicht für 4 "> ".
+Damit sollte die längste _�berhaupt_ mögliche Zeile 80 Zeichen lang
+sein.
+Die längste Zeile ohne quote allerdings nur 72 Zeichen.
+Das finde ich vernünftig.
+Ein guter Newsreader heute sollte natürlich versuchen, Quotes als solche
+zu erkennen, und die dann sinnvoll umbrechen.
+(Ja, mit Löschen und Neusetzen der Quotingzeichen.)
+Nur macht das keiner den ich kenne.
+Und wie der Newsreader Quotings anzeigt, ist auch Rille.
+Wie der Newsreader Sachen unterstreicht, emoticons darstellt, ist auch
+Rille.
+nur _�bertragen_ möge er sie bitte korrekt.
+
+Es gibt eben keine _guten_ Newsreader. (Ich kenne zumindest keinen,
+weigere mich aber auch, nach einem zu suchen.)
+
+sind
+
+Webforen haben den großen Fehler, dass man sie erstmal finden muss. Und
+_besser_ sind die auch nicht. Die sind nur bunter, brauchen lange zum
+Laden und können meist nicht einfach runtergeladen werden. Und bitmap
+Emoticons sind auch schwer in einen Editor zu pasten.
+
+Usenet
+Plattformen aus
+
+Hey, ein leicht zu findendes Webforum für die Konsole haben wir doch
+schon seit Urzeiten ;-)
+Wir müssen das nur aufgrund der standardisierten Steuerzeichen aufpeppen
+und das wars. Dann bekommst du dein Pixel-Smiley und ich meinen grün -
+gelb karierten "Comic Sans MS" Quotingfont
+
+Größe,
+
+Felix.

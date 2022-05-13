@@ -1,0 +1,29 @@
+Offenbar eine Fehlkonfiguration, ich habe hier mit Overlay die volle
+Beschleunigung. An den Wüth-Kisten wo ich ihn bisher gesichtet habe
+ebenso.
+
+
+Auch das klappt ganz wunderbar:
+
+Space: Play/Pause
+Cursor links/rechts: vor/zurück
+Cursor rauf/runter: Lautstärke
+Apfel[1]-Cursor links: rückwärts abspielen
+
+Alles andere erreichst Du über das Men über die Windows-üblichen
+Shortcuts.
+
+
+Achso, Du hast eine veraltete Version!
+
+
+AVI ist aber auch nur ein Containerformat. Daher kann nicht per se auf
+Streamingtauglichkeit geschlossen werden.
+
+Gibt's denn für Windows keine Raupold-Player-Clones?
+
+ad[1]: ich kenne das Gegenstück zur Apfel-Taste nicht unter Windows, ich
+vermute, es wird CTRL sein.
+-- 
+Benno "Olaf" Kersebaum
+http://olpeoa.lfv.kkq

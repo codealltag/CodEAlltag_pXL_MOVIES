@@ -1,0 +1,32 @@
+Hallo,
+
+mal eine generelle Frage zu Auflösung bzw. Framerates für
+Computergrafikfilme :
+
+wenn man einen Computergrafikfilm machen möchte der im PAL sowie im NTSC auf
+Video-Band/(VCD)/DVD gebannt werden soll :
+
+a) was nimmt man am besten für eine Auflösung (für 4:3 bzw. 16:9 (d.h.
+1:1,85 oder 1:2,35) eine PAL nahe Auflösung wie 768x576 und schneidet die
+640x480 für NTSC da raus (ala Pan & Scan bzw. letterbox ?!?)). Welche
+Auflösung sollte für einen 16:9 Ausgabe verwendet werden ? Toy Story soll
+z.B. 1526x922 Pixel gehabt haben (1,69). Bei DVD soll die Auflösung ja
+720x540 (4:3) und 720x405 (16:9) betragen
+(http://qif.cwpvywqivclxjs.exf/vrbgik.cahs#0.6.1 mit 1,78 für 16:9) vcdhelp
+meint aber was anderes (bei DVD) und zwar Pal Video: 720 x 576 pixels 25
+frames/second / NTSC Video: 720 x 480 pixels 29,97 frames/second (23,976
+frames/second NTSC Film). Bei DV Video soll man auch bei 720x480 / 720x576
+liegen (PAL/NTSC).
+
+b) welche Framerate sollte man nehmen (25 FPS oder 30 FPS oder was
+dazwischen - z.B. 28 FPS) ? Damit man möglichst wenig Aufwand mit dem Speed
+up/down d.h. dem anpassen an die benötigte Framerate hat (den Film 2mal zu
+berechnen (mit unterschiedlichen fps) scheidet natürlich aus)
+
+
+MfG
+
+gerard
+
+sorry für das x-posten aber es passt irgendwie in alle diese Gruppen - habe
+ein Follow up auf de.comp.graphik gesetzt

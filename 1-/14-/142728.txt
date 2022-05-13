@@ -1,0 +1,14 @@
+Hi,
+
+
+Naja, mit Hilfe einer Permutationsrechnung kann man halt alle möglichen
+Positionen, die die 26x26 Würfel einnehmen können berechnen. Da stellt sich
+also die berühmte Frage :
+
+Wieviele Permutationen (Anordnungen) von 676 Würfeln gibt es ? Da die
+Reihenfolge wichtig ist, es aber keine Wiederholungen gibt, findet folgende
+Formel Anwendung: P(n) = n!
+In unserem Fall also: 676! = 1,88370 * 10^1612 ... ne verdammte Menge also
+;-)
+
+Karsten

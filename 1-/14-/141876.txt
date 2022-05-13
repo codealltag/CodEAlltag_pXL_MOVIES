@@ -1,0 +1,24 @@
+de.rec.film.kritiken
+
+
+In oi.ciki.dluveucp.newsreader hat dir das keiner beantwortet?
+Kann ich mir fast nicht vorstellen.
+
+
+Bei brauchbaren Newsreadern unter Windows: Mit Doppelklick auf
+die Msg-ID oder durch eine kurze Tastenkombination (wie Strg+J
+bei Agent).
+Mit Ozabrick unter Win: AFAIK genauso, aber nur, wenn man die MID
+verhunzt, indem man ein "news:" hineinpfuscht. Ich habs mal oben
+für dich eingefügt. Ob das aber mit deinem Reve-Ozabrick auch so
+funktioniert weiß ich nicht.
+Mit OE: AFAIK gar nicht.
+Mit rein textbasierten Readern wie tin, slrn etc.: keine Ahnung.
+
+
+Normalerweise sollte man das überhaupt nicht eintippen müssen.
+
+f'up2 spare ich mir mal, aber weitere Fragen zu diesem Thema bitte
+in Aßmann stellen.
+
+Enrico

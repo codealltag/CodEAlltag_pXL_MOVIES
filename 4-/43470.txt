@@ -1,0 +1,29 @@
+Karsten Gürtner schrieb folgendes:
+
+
+An den OP: Zum Thema Akkus solltest du mal mittels LGN in der
+digitalfotografie-NG suchen.
+
+Wie schon geschrieben wurde: NiMh-Akkus müssen nicht komplett entladen
+werden. Damit bei solchen Akkus ein Memory-Effekt auftritt, müssen sie
+immer auf exakt dasselbe Niveau, also z.B. 50% entladen werden und
+wieder geladen werden. Das ist in der Praxis unmöglich, daher gibt es
+da keinen Memory-Effekt, du kannst also auch ruhig halb volle Akkus
+laden. Dazu dauert das Laden eher selten 5h. Gute
+Ladegeräte(Einzelschachtsteuerung, Temperaturüberwachung,
+prozessorgesteuert) laden auch 2,3Ah Akkus in unter 3 Stunden. Solche
+Ladegeräte kosten dann allerdings schnell mal 60 Euros und nicht
+selten sogar über 100 Euros. Dazu sind Akkus nicht gleich Akkus. Es
+ist ein Unterschied, ob du Billig-Akkus hast oder welche von z.B.
+UPJ.
+
+Und zuletzt: LiIon kannst du dir nicht so einfach selberbauen, da du
+auch eine entsprechende Ladeelektronik etc. brauchst. Dazu fehlen dir
+die Fachkenntnisse.
+
+MFG, Gustav
+-- 
+Convict : You're gonna kill me with your soup cup?
+Maik J. Jaedeke : Tea, actually.
+Convict : What?
+Maik J. Jaedeke : I'll kill you with my teacup.

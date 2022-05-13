@@ -1,0 +1,12 @@
+Hi,
+
+
+Warum klappt's dann nicht? Er hatte doch etwa 100 drauf.
+
+
+IIRC heisst es dort "Schanzenhoehe 1 m". Vermutlich haben sie
+die Schanzenlaenge auch abgeschaetzt, und somit ist der Winkel
+ja bekannt (sofern man die Tangenstabelle im Kopf hat ...).
+
+Gruss
+  Antoine

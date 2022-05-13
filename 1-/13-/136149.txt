@@ -1,0 +1,39 @@
+nicht nur, es ist viel schneller.
+imoviedb hat readline, also "tab-completion" und "history".
+
+das tab-completion feature ermöglicht die eingabe des anfangs des
+namens, dann drückst du TAB und eine liste aller weiteren möglichkeiten
+erscheint. oder nur der eine richtige name, oder gar nichts. vertippt.
+man ist sich also sofort sicher, ob es diesen eintrag gibt oder nicht.
+
+die history funktion, pfeil rauf / runter merkt sich vorige
+suchabfragen.
+
+sonst sind GUI oder Web clients natürlich praktisch, weil man leicht auf
+weitere links klicken kann.
+
+was fehlt sind neben den reviews, urls und maltin auch die votes und
+awards. leider.
+
+Platzbedarf in KB: (705 MB bei mir, ungezippt)
+Cygnus Cygwin32
+/usr/local/moviedb$ du -st *
+5       INSTALL
+16      Makefile
+4       README
+9       README.1ST
+4       README.win32
+801     amdw
+6000    bin
+303706  dbs
+362     docs
+360     etc
+2133    imoviedb
+383447  lists
+163     man
+447     newsletter
+1011    src
+705157  total
+-- 
+Valentino Meyrose
+http://yoluf.ha-cebv.jy.hl/kbhpvyt/ufmp/fzk/gfpgqzch.rftu

@@ -1,0 +1,59 @@
+[...]
+
+Da sind Konsistenz-Checks angesagt.
+Die zweitausendundeins leistet auf diesem Gebiet ZDH gute Arbeit. Auch deren Daten
+werden größtenteils von (zahlreichen) Usern irgendwo abgetippt.
+
+
+Was ist den Dein Anspruch an eine 'deutschsprachige Filmdatenbank'?
+Ich habe bislang noch keinen Punkt entdecken können, wo Deine Datenbank
+Vorteile gegenüber EIU oder der Online-Version des Himmelmann hätte.
+Dagegen sehe ich viele Punkte, wo die Konkurrenz deutlich besser ist.
+So lang das so ist, sehe ich keinen Grund, warum man Deine Datenbank
+nutzen sollte.
+
+Natürlich kannst Du Dein Hobby gerne weiter betreiben, nur warum steckst
+Du Deine Arbeitskraft nicht in Projekte, die auch anderen nutzen?
+Ich selbst engagiere mich hobbymäßig bei zwei Projekten die Informationen
+zu Kinoprogrammen ins Netz stellen. Allerdings ziehe ich meine Motivation
+daraus (man kann auch sagen "mein Ergeiz verlangt"), dass ich den Lesern
+(zumindest in einigen Aspekten) einen Service oder eine Qualität biete, 
+die sie sonst nirgendwo im Netz finden, so dass ein "allgemeiner Nutzen" 
+entsteht. 
+
+(Bei einem Projekt ist auch übrigens eine Datenbank mit Filminformationen 
+entsnden, die vom Informationsumfang her Deine Datenbank übertreffen
+dürfte. Allerdings benutzen wir die nur um Filminformationen zu einem
+Kinoprogramm zur Verfügung zu stellen. Weitere Abfragemöglichkeiten
+und interne Vernetzung gibt es nicht. Da verweisen wir lieber auf die IMDb.)
+
+
+Wenn ich ein Bookmark setze erwarte ich, dass ich die Seite wieder bekomme, 
+für die ich das Bookmark gesetzt habe und nicht eine Seite von der ich mich 
+evtl. über 10 Links zu der gewünschten Seite durchwühlen kann.
+Wenn ich durch ein paar Unterseiten gewandert bin und dann entscheide,
+dass ich ein Bookmark auf das Informationsangebot setzen will, gehe
+ich normalerweise zum Inhaltsverzeichnis oder der Suchmaske zurück
+und übernehme diese URL in meine Bookmark-Liste.
+Oder ich bin an speziellen Informationen interessiert, dann setze ich
+das Bookmark auf genau diese Seite mit z.B. dem Ergebnis einer
+Datenbankabfrage. (Wenn ich von dort zur Suchmaske zurück will, gibt es
+auf der Seite einen entsprechenden Link - zumindest wenn sie von jemanden
+mit etwas Ahnung entworfen wurde.) 
+
+Aber die Bookmark-Fähigkeit ist nicht so sehr das Problem.
+Wesentlich ärgerlicher ist die eingeschränkte Navigation bei Netscape. 
+Wenn ich die IMDb benutze, lasse ich mich öfters treiben.
+Ich bin an einem Film interessiert. Dann entdecke ich dort einen Namen,
+schau mir die Daten an. Die Person hat in einem anderen Film mit gemacht
+usw... Nach 6-7 Links will ich dann zum ursprünglichen Film zurück.
+Da gehe ich in das History-Menu und waehle die Seite.des ursprünglichen Films.
+Bei Dir geht das nicht. Da fliege ich komplett aus der DAtenbank raus.
+Stattdessen muss och mich mühsam durch jede einzelne Seite zurück hangeln.
+Schlimmer noch: Bei älteren Netscape-Versionen kommt man überhaupt 
+nicht zurück. da kann man mit der Suche von vorne anfangen.
+
+
+Nein, dass ist ein (sehr vorteilhaftes) Feature von lynx. 
+
+Ciao, Horst               ptixt.licsxegy@zsheu.bu

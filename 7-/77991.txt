@@ -1,0 +1,11 @@
+Eine sehr einfache Kodierung, alle Buchstaben werden um 13 Stellen im
+Alphabet nach rechts verschoben, durch nochmalige anwendung dieses
+Verfahrens hat man wieder den Klartext. In Outlook Express im Men
+'Nachricht' den Menüpunkt 'Entschlüsseln wählen.
+
+mfg, Falten
+-- 
+Was wäre gegen einen Catfight Eilt vs. Tina zu sagen? Celebrity Deathmatch in
+Mittelerde:
+"Er gehört mir, Pferdemädchen!" - "Halts Maul Elbenzicke!"...
+  -Sandro Hoppenstedt in de.rec.film.misc

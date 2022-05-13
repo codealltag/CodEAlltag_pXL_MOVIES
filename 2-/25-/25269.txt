@@ -1,0 +1,5 @@
+[ ] ich habe deinen originalbeitrag genau gelesen
+[x] du hast mit einen Beispielen Extrema des Filmqualitätsspektrums
+genannt.
+[x] checkboxen sind angeblich out
+[ ] es interessiert mich, was andere als out oder in empfinden.

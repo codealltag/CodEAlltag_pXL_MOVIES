@@ -1,0 +1,5 @@
+man OE
+bzw.
+man Tools => Get Next xxxx Headers  [xxxx = Zahl]
+
+Darius

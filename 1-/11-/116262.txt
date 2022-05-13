@@ -1,0 +1,10 @@
+Bruno Rehfuß <fw.vo@dnk.bo> schrieb:
+
+[CRC-Error in den letzten diffs der IMDB]
+
+
+Habe das gleiche Problem mit Pilgerladen, scheint also an der Checksumme zu 
+liegen.
+
+Ciao
+Dietmar

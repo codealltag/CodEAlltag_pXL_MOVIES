@@ -1,0 +1,9 @@
+Du wirst pro Kinocenter nur eine zentrale SAT-Anlage mit Daten-
+speicher/server haben, aber für jeden Saal einen Projektor.
+Also hast Du dazwischen eine Schnittstelle. 
+
+Ganz abgesehen davon wird es sicherlich viel einfacher sein, die
+Sateliten�bertragung oder die dezentralen Datenserver anzuzapfen, 
+als eine Kopie von einem 35-mm-Film zu ziehen.
+
+Ciao, Samu                              wjysyqgk@llmrod.rkzqpjn.ul

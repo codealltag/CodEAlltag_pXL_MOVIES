@@ -1,0 +1,32 @@
+Am 06-08-97 um 00:54 schrieb phrick.jrzpuyod@dkjfx.qjintix.ie
+unter dem Betreff: Re: DVD-Player mit Lndercode 1+2
+
+
+Ich habe es vielleicht etwas falsch formuliert, was würde 
+passieren wenn man eine DVD mit MPEG2 Ton in einen DVD Player 
+legt? Worauf ich eigentlich drauf hinaus wollte ist, da die meisten
+Player sicherlich modifizierte Code 1 Player sind, was halt
+passiert wenn man dort eine Disc mit MPEG2 Ton einlegt. Ob diese
+dann auch nur die beiden Hauptkanäle wiedergeben, oder den
+kompletten Datenstrom ausgeben.
+
+Ich kaufe mir nicht vorher einen Player, bevor ich nicht sicher
+bin, daß er auch alle Tonsysteme die es evtl. auf DVD gibt
+irgendwie heraus führen kann.
+
+Was mich halt nur verwundert ist, daß irgendwo geschrieben wurde,
+daß DTS auf DVD kein problem sei. Dann müßte ja doch eigentlich
+der Datenstrom der DVD direkt herausgeführt werden, denn dafür
+ist ja keine Hardware zum Downmixen oder sonstiges im Player
+eingebaut. Oder braucht man dazu wieder extra player um DTS zu
+nutzen? Und was machen die US Player mit dem MPEG2 Datenstrom?
+
+Können die nicht überall Dolby Digital verwenden? Wäre alles so
+schon einfach. Und ich bräuchte meinen 3090 nicht umzubauen...
+
+Mfg.
+
+Franco Cocher
+ /\_\    __    * BBS Analog: +64 0072 86006 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +55 1781 34064 **  /\_\   \/_/
+        \/_/   * Voice:      +77 6883 89404 *   \/_/

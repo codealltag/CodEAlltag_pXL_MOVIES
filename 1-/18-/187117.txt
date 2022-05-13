@@ -1,0 +1,128 @@
+Also, ich versuche mal, alle aktuellen Vorschlaege zu versammeln.
+
+LD/DVD/Heimkino-Traffic
+=======================
+
+( ) Einrichtung einer umfassenden Heimkino-Gruppe, die bei Bedarf
+    weiter aufgespalten wird. ventana wird einbezogen.
+
+( ) Einrichtung einer umfassenden Heimkino-Gruppe, die bei Bedarf
+    weiter aufgespalten wird. ventana wird nicht einbezogen.
+
+( ) Einrichtung einer gemeinsamen DVD/LD/VHS-Gruppe, die bei Bedarf 
+    weiter aufgespalten wird.
+
+( ) Einrichtung einer gemeinsamen DVD/LD-Gruppe, die bei Bedarf 
+    weiter aufgespalten wird.
+
+( ) Einrichtung einer eigenen DVD-Gruppe.
+
+( ) Einrichtung zweier Gruppen fuer DVD und LD.
+
+( ) Einrichtung dreier Gruppen fuer DVD, LD, VHS.
+
+Weiterer Vorschlag:
+
+
+Einordnung
+==========
+
+( ) Neue Hierarchie de.alt.tv.heimkino.*
+
+( ) Neue Hierarchie de.alt.heimkino.*
+
+( ) Neue Hierarchie de.alt.video.*
+
+( ) Neue Hierarchie de.rec.video.*
+
+( ) Neue Hierarchie de.rec.tv.heimkino.*
+
+( ) Neue Hierarchie de.rec.film.heimkino.*
+
+Weiterer Vorschlag:
+
+
+Marktpostings
+=============
+
+( ) Bei de.alt.*-Einordnung in Charta aufnehmen.
+
+( ) Auf jeden Fall in Charta aufnehmen.
+
+( ) Auf keinen Fall in Charta aufnehmen.
+
+(Jeweils eine abgeschwaechte Form fuer private usw.)
+
+Weiterer Vorschlag: 
+
+
+Ablauf
+======
+
+( ) In jedem Fall sofort alle Chartas anpassen.
+
+( ) Bei Einordnung in de.!alt sofort alle Chartas anpassen.
+
+( ) Bei Einordnung in de.rec.tv,film.* sofort alle Chartas anpassen.
+
+(Ansonsten wird dies jeweils _nacheinander_ getan.)
+
+Weiterer Vorschlag:
+
+
+--------------
+
+Anmerkungen:
+
+Ich moechte das aktuelle Stimmungsbild erfassen. Dazu bitte ich jeden,
+der sich dafuer interessiert, oben je Abschnitt eine _Rangfolge_
+festzulegen. Dabei ist eine Loesung besser, je kleiner die Zahl ist.
+Es sind natuerliche Zahlen von 1 bis Anzahl der Vorschlaege zu benutzen.
+
+Favorisiert jemand eine andere Loesung, dann moege er sie als 
+_weiterer_Vorschlag_ eintragen.
+
+Bitte sendet Eure Rangfolge per mail an mich (bis Sonntag-Abend), ich 
+poste eine Zusammenfassung.
+
+Auswertung: In mehreren Runden, pro Runde zaehlt immer der Vorschlag
+mit dem besten Rang, der noch im Rennen ist, und der mit den wenigsten
+Stimmen faellt raus, Beispiel:
+
+Vorschlag 2,3 und 7 sind noch im Rennen und jemand hat
+
+V1: 6
+v2: 5
+v3: 4
+v4: 3
+v5: 1
+v6: 2
+v7: 7
+
+gestimmt. Also zaehlt seine Stimme in dieser Runde fuer v3. Das wird
+fuer alle Stimmen ausgezaehlt, der mit den wenigsten Stimmen fliegt,
+neue Runde. 
+
+Ich hoffe damit eine bessere Idee zu bekommen, in welche Admin-Gruppe
+wir marschieren wollen. Wie auch immer werde ich auf der Grundlage
+dieser Abstimmung einen Prae-RfD basteln, den wir dann in drfm weiter
+besprechen koennen, bevor er wirklich eingebracht wird.
+
+Dieser "Stimmzettel" ist allein auf meinem Mist gewachsen, daher
+die Sache mit dem weiteren Vorschlag, der dazu da ist, meine Denkfehler
+auszugleichen... ;-)
+
+Zu einer eigenen Markt-Gruppe findet sich hier nichts, weil ich noch
+nichts gezaehlt habe.
+
+Cheers,
+
+ --Georg Wilfried Dilek
+
+PS: F'up2 poster, da ich eine Zusammenfassung posten werde.
+
+-- 
+Anfaenger sollten sich die Gruppen  tf.quomhuow.bdnrr und 
+                                    xg.yyepgqut.iwvdzbule ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in vq.test und qy.yir.ykce aufgehoben.

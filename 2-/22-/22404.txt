@@ -1,0 +1,14 @@
+Hallo,
+
+Ich habe hier eine Avi-Datei (ca. 220 MB), bei
+der beim Abspielen das Bild in Zeitlupe läuft,
+den Ton hört man ganz normal. Mit sämtlichen
+Playern ist es das Gleiche.
+
+Habt Ihr irgendeine Idee, was ich da machen kann?
+Vielleicht mit Windows Movie Maker? (Ich weiß,
+das ist Müll, aber was aanderes habe ich nicht)
+
+mfG
+
+Waldemar

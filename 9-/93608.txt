@@ -1,0 +1,26 @@
+Das ist der Unterschied zwischen Film und Video.
+Die unterscheiden sich u.a. in Auflösung, Kontrast, Farbwiedergabe
+und Farbmischung (substraktiv vs. additiv). Hinzu kommen beim Video noch
+Rasterung, Farbränder (OK, die gibt es bei alten Technicolor-Kopien auch)
+und heutzutage auch noch Artefakte durch die Datenreduktion bei digitaler
+Verarbeitung.
+
+
+Nein, der hat damit nichts zu tun.
+Die unterschiedliche Wirkung zwischen Film und Video hast Du auch, wenn 
+Du keinen Pal-Speedup hast, weil der Film oder das Video gleich mit 
+25 B/s aufgenommen wurde (was z.B. beim Homevideo in Deutschland der Fall 
+sein dürfte) oder das Video-Equipment mit 24 B/s arbeitet.
+
+Umgekehrt kannst Du auch den Kinoprojektor mit 25 B/s oder gar 26 B/s 
+laufen lassen. Der Film wirkt dann immer noch wie ein Film nicht wie ein 
+Video. 
+Die meisten Zuschauer werden den Geschwindigkeitsunterschied nicht bewußt
+wahrnehmen (oder nur wenn sie am Anfang und Ende auf die Uhr schauen 
+und dies dann mit der angegebenen Filmlänge vergleichen). 
+Am meisten stören sich daran wohl Menschen mit absolutem Gehör, weil 
+sich beim Speedup auch die Tonhöhe verändert.
+
+Ciao, Lmqhy                                      fwragsrm@bryrkxsn.oj
+
+Zuletzt gesehen: Mein Bruder der Vampir, Son de mar, Red Dragon

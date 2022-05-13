@@ -1,0 +1,29 @@
+Soweit die Überlegungen für Standbilder, die ich ja auch angestellt 
+habe.
+
+
+Hier hast Du einen Faktor 2 vergessen.
+Um die Linie darstellen zu können brauchst Du 2 Pixel nebeneinander, 
+ein helles und ein dunkles. Wenn Du nur ein Pixel hast, bekommst Du 
+als Mittelwert wieder die graue Fläche.
+
+
+Wie soll das bei der digitalen Projektion gehen?
+Das Problem ist doch, das das Raster dort von der Beamerhardware 
+vorgegeben ist.
+
+
+Nicht bei allen Filmen (aber leider bei immer mehr).
+Oft stört das ja auch schon, weil zwischen drin aus Kostengründen
+zu geringe Auflösungen für die Zwischenschritte verwendet werden.
+Bei manchen Filmen wird dann versucht, das zu verschleiern, indem man
+bei der Belichtung des Masters für die Projektionskopien den
+Effekt von ziemlich groben "Filmkorn" hineinrechnet.
+
+Außerdem ändert das nichts an der Tatsache, das man auch bei digital
+belichtetem 35mm-Film bessere Bildqualität hinbekommt, als mit den
+Beamern der Güteklassen, die für das "digitale Kino" im Gespräch sind.
+
+Ciao, Kwpow                                 ndwjvisi @ fonvfmms.mp
+
+Zuletzt gesehen: Eisemroth gae���Mari Imsee

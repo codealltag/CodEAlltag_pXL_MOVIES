@@ -1,0 +1,13 @@
+85 dB ist als Maximallautstärke sehr leise, 96 dB ist etwa mittlere
+Lautstärke. 96 dB bei 20 Hz hinterlassen gerade mal ein Lautstärkeempfinden
+von 50 phon. Gut designete Standboxen schaffen 96 dB bis hinab zu 25 Hz.
+IMAX sollte *etwas* mehr bringen.
+
+Mir sind mal Werte von 110 dB bis hinab zu 25 Hz zu Ohren gekommen, was für
+das Heimbereich dann schon ziemlich aufwendig wird.
+
+-- 
+Egon Ehlich
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

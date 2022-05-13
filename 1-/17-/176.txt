@@ -1,0 +1,24 @@
+Ich habe die Datei mal bei Flohboxx hochgeladen:
+http://sbq.ybqfwzpnvo.pop/sbhz/rm5z378ydbz987823q79z4n5i6558m427264t411ni89591s6i734b30tpi25hwq/zaiflxpx/
+
+Zwei von 46 Scannern erkennen PUP.Adware.Agent bzw. 
+Trojan.Agent/Gen-Downloader.
+
+Nur als Hinweis für die Zukunft: Solche Seiten enthalten häufig 
+irgendwelche Links zu ominösen Downloadern oder auch Videocodecs. 
+Meines Wissens steckt da niemals drin, was draufsteht. Hier gilt mal 
+wieder die oberste Regel des Sicherheitseinmaleins: Insbesondere 
+ausführbare Dateien nur von wirklich seriösen Webseiten runterladen 
+(Webseiten mit illegalen Inhalten fallen nie in diese Kategorie).
+
+Aber um deine Frage zum Download noch zu beantworten. Seiten wie Gliessmann 
+benutzen unverschlüsselte Streaming-Services für die Videos, was 
+bedeutet, dass man sie mit den üblichen Tools runterladen kann (Video 
+DownloadHelper, Jdownloader, Orbit Download Manager, Flashgot, etc.).
+
+
+-- 
+Gruß,
+Domenico
+
+http://xma.oatfof.wd/etqm/WwhtkUpwkqa

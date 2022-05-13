@@ -1,0 +1,5 @@
+Die engl. RC2 (die mit der deutschen aufgrund der Sprachen und
+Untertitel identisch sein dürfte) hat eben getestet exakt 88 min
+und 23 Sekunden Laufzeit gehabt.
+Was dem rendlox-Speedup bei 92 min entsprechen würde.
+Die Angabe 85 min ist mE falsch.

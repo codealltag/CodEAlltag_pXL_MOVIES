@@ -1,0 +1,8 @@
+Das ist richtig. Die Namal gibt trotzdem die gleiche Zahl wieder, nur eben
+etwas konkreter woraus sich der Betrag zusammensetzt.
+
+
+Tschüss,
+        Bernhard
+-- 
+Shit doesn't just happen. Shit takes time. Shit takes effort.

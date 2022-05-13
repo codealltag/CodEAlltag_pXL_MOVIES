@@ -1,0 +1,8 @@
+Das Bild wird durch S�rsignale zu Kontrastschwankungen veranlasst...,
+genannt wird das dann Macrovision.
+Umgehbar wenn man einen Bypass legt. Entweder Decoder, aber ich habe es auch
+schon mit einem normalen Videomischpult geschafft (Mit Bypassschalter...).
+Preis jeweils um 200 dm....
+
+cu
+MB

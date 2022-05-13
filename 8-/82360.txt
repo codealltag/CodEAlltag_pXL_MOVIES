@@ -1,0 +1,19 @@
+Hallo,
+
+
+ich habe mir gestern Pesa 3.0.27 for MySQL nebst dieser Datenbank
+installiert. Das Einbinden der Listfiles gelang denn auch ohne
+Probleme.
+
+Nun kann ich aber weder nach Titeln noch nach Personen suchen, es
+erscheint jeweils die Meldung "Error: -1". Bei der Suche nach
+Charakteren hängt er sich auf (d.h. bei diesem Datanbankmonitor
+[VWSH] bleibt der Prozess bei "sorting results" stehen).
+
+Der Rest funktioniert, auch die Querverweise auf beispielsweise Titel
+oder Personen.
+
+Und nun die große Preisfrage: Warum mag das wohl so sein?
+
+
+Vielen Dank, Ottmar

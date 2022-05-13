@@ -1,0 +1,5 @@
+Ich habe diese Updates auf unserem ftp-Server hinterlegt:
+ftp://ftp.cevis.uni-Bremen.de/pub/comp/platforms/pc/windows95/Cinemania96/
+--
+/        Rolf Lochbrunner <bdiaac@irzjj.vzv-Yedwaa.tl>        \     Moo!  (__)
+\_o_ Germany, FAX: +06 251 852-8806, Tel: +73 225 033-6402 _o_/   ^^     ^^

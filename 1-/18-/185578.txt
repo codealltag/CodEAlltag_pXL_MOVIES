@@ -1,0 +1,23 @@
+Bei einer durchschnittlichen Wasserdiefe von 3500 Meter und 5 Kelvin
+macht das:
+
+210 * 10^-6 * 3500 * 5 = 3,60 m ,
+
+wenn das Meer vollständig durchwärmt würde. Allerdings ist das nicht der
+Fall. In 2000 Meter Wassertiefe ist es ca. 5-6C warm, damit kälter als an
+der Oberfläche und im Erdmantel. Hervorgrufen werden diese Temperaturen 
+durch in die Tiefe fallendes polares Oberflächenwasser. Fällt das aus,
+könnten sich die Weltmeere um 10-15 K erwärmen auf die durchschnittliche
+Jahrestempatur der Erde. Das wären dann 7-10 Meter.
+
+Allerdings ist die Abschätzung Wassermenge/Ozeanfläche etwas zu hoch, weil
+die Ozeanfläche mit ansteigendem Wasserspiegel wächst. Diese chtung muß
+nach unten korrigiert werden. Dazu müßte man wissen, wieviel Prozent der
+Oberfläche im Bereich 0-80 Meter �.N. liegen. Wenn das z.B. 10% der
+Landmasse sind, ist die Schätzung ca. 1,5% zu hoch.
+
+-- 
+Juan Clauhs
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

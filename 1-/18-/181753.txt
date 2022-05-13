@@ -1,0 +1,16 @@
+Nie gehört. Was Du meinst, ist Macrovision.
+
+
+1. Die Framerate bei PAL ist 25Hz, bei NTSC 30Hz. 16Hz gibt es
+   nirgendwo auf der Welt.
+2. Eine 1/1000Sekunde lange Störung wäre deutlich als vertikaler
+   Balken von einigen mm Breite sichtbar, wenn sie nicht im unsicht-
+   baren Bildbereich (Vertikalaustastl�cke) angesiedelt wäre.
+
+
+Der Materialwert für so einen einfachst-Decoder, der nur die Vertikal-
+austastl�cke rekonstruiert, liegt bei ca. 20-30DM. Mit Handelsspanne
+wären ca. 80DM so ziemlich daß äußerste, was man noch als fairen Preis
+bezeichnen könnte.
+
+Jean-Claude

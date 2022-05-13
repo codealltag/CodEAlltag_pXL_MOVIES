@@ -1,0 +1,2 @@
+Oder man nimmt einfach diese Datei:
+ftp://ftp.fu-berlin.de/misc/movies/database/crazy-credits.list.gz

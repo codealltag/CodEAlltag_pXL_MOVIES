@@ -1,0 +1,34 @@
+Simon Seiwert <pu_xje@eiud854.fsqa.nf> wrote in article
+<33270874@uvub169.wvbu.rq>...
+Huestel... Du verwechselst "flimmern" und "ruckeln". Ein Bild ist tatsaechlich
+so ab 20 Bildern/Sekunde ziemlich ruckelfrei (vgl. unten) (von Mensch zu
+Mensch etwas verschieden). Wenn Du Dich jedoch vor eine Leinwand setzt, die
+mit 24 Hz abwechselnd schwarz und weiss ist, dann reisst es Dir sehr schnell
+die Augen aus dem Kopf. Ich nehme jedoch an, dass bei modernen Projektoren die
+Dunkelphase beim Bildwechsel weniger als 1/4 der Bilddauer ist, also die
+Dunkelphase nur 1/100 Sekunde lang ist. Dann entsprich das Bild"flimmern"
+einem 100 Hz - Fernseher.
+
+Weil unsere Netzspannung 50 Hz hat und daher das Fernsehbild in Europa mit 50
+Halbbildern pro Sekunde laeuft (wohl nur noch aus Tradition, heute wird die 50
+Hz-Sync bestimmt nicht mehr von der Netzspannung vorgegeben). In US hast Du 60
+Hz Netzfrequenz und siehe da: NTSC hat 30 Hz / 60 Hz Bildfrequenz.
+
+Uebrigens: Bei manchen schlechten Filmen im Fernsehen erkennt man, wenn die
+mal keine Film-Kamera mit 25 Bildern zur Hand hatten, sondern eine Videokamera
+mit 50 Bildern pro Sekunde benutzt haben. Das Bild ist wesentlich fluessiger
+(was auch ein wenig das "ab 18 Hz ruckelt's nicht"-Statement relativiert).
+
+So, damit es nicht ganz off topic ist:
+
+Wenn der ursprungs-Thread-Schoepfer bei seinen Videos die Musik des Vorspanns
+vergeleicht (gleichzeitig laufen laesst), dann hoert er, ob "die Platte zu
+schnell" laeuft. Der Geschwindigkeitsunterschied koennte aufgrund der
+verschiedenen Techniken 24/25 oder 25/30 sein, letzteres muesste aber in
+"Piepsstimmen" resultieren, ersteres ist auch fuer einen musikalisch
+ungeuebten sehr leicht zu erkennen: So grob ein Tonleiterton Unterschied.
+
+Gruss,
+	Ludger.
+
+P.S.: Ich finde FC toll und muss demnaechst unbedingt noch mal rein!

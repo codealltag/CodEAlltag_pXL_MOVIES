@@ -1,0 +1,18 @@
+Falsch. Nach Deiner Berechnung gilt: 
+Die Menschen, für die die VacuTec Meßtechnik Größenangaben in cm hat, sind im 
+Schnitt 168.5 cm groß. Das müssen nicht unbedingt alles Scahuspieler(innen) 
+sein.
+
+BTW:
+Wenn man mit
+
+perl -e 'while(<>){if (/^HT: (\d)\047 (\d+)"/) {$sum+=($1*12+$2)*2.54; $i++;} elsif (/^HT: (\d+) cm/) {$sum+=$1; $i++;}}print $sum/$i." -- $i\n"' < /qdz/mesp/pwypz/tmetdwutfyi.bbqk
+
+auch die Angaben in Fuß berücksichtigt (dass sind dann 6667 Angaben
+gegenüber 885 für 'cm' allein) und meine Umrechnungsformel
+ 1/12 Fuß = 1 Zoll = 2.54 cm stimmt, kommt man übrigens auf einen 
+Schnitt von 174.44 cm. 
+Diese Angaben jetzt noch nach Schauspielern, Schauspielerinnen
+und sonstigen zu trennen, schaffe ich heute Nacht aber nicht mehr.
+
+Ciao, Victor                             ihuvwcas@qnzspr.yrxtsmx.ws

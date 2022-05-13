@@ -1,0 +1,13 @@
+Eben nicht. "THX-Kino" <> "Kino mit digitalem Tonsystem".
+
+
+Das stimmt auch nicht ganz. Zwar wird Dolby Digital EX benutzt, aber
+dabei ist einfach nur ein hinterer Center-Kanal in den Effektkan�len
+matrixcodiert (so wie der vordere Center bei Dolby Surround im linken
+und rechten Kanal). 
+
+Da der Film nur in Kinos mit digitalem Tonsystem laufen darf, ist
+davon unabhängig und soll nur dafür sorgen, daß der Film nicht in
+irgendwelchen Gurkens�len läuft.
+
+Torsten.

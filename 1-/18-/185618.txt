@@ -1,0 +1,9 @@
+Die Tastatur war echt. Auch kyrillische Tastaturen haben eine lateinische
+Beschriftung. Wie will man sonst programmieren oder Programme starten (hab
+selber mal eine in Benutzung gehabt) ?
+
+-- 
+Salvatore Riembauer
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

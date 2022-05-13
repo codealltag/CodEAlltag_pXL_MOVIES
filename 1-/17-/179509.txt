@@ -1,0 +1,20 @@
+NTSC
+
+
+Ehm... das, was der Sender liefert, sind natuerlich PTSF-konforme
+25Hz interlaced. Nur: der Sender kann Kinofilme mit 24 Bildern/sec. 
+intern konvertieren (falls noetig), sodass im Endeffekt 25 Hz entstehen.
+Das ist zwar bei 24->25 nicht wirklich noetig, aber bei der 
+Konvertierung von Kinofilm auf NTSC-Format mit knapp 30Hz: Hier wird 
+eben jedes 6 Vollbild zweimal angegeben (s.a. Video & Movie FAQ,
+URL auf Anfrage).
+
+
+Ok, das hat aber nichts damit zu tun, was fuer Filme der Sender 
+liefert.
+
+Fredy
+
+
+-- 
+    Fredy Uhlenbroch    K&M Software Support Germany    tci@zjgvrb.dms.rjv

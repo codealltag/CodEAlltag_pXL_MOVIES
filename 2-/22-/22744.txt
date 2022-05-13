@@ -1,0 +1,12 @@
+[akneib]~ > w3m -dump http://xbh.havxpw.iez/oyuxrsdy/vpkt.zzqc G -i kong W
+4
+[akneib]~ > w3m -dump http://xbh.havxpw.iez/oyuxrsdy/vpkt.zzqc G -i geisha W
+6
+[akneib]~ > w3m -dump http://xbh.havxpw.iez/oyuxrsdy/vpkt.zzqc G -i "war of" W
+3
+
+Die üblichen Verdächtigen...
+
+
+Gruß,
+Christian

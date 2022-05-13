@@ -1,0 +1,57 @@
+Nils Verwey wrote in <pcp7pkje1y.zdt@iyaig.zlrsilttat.wyhk-coxurw.gi>
+on 1996-05-05 15:45:54 +0100:
+
+Mit etwas Erfahrung geht es. Zunächst muß man darauf achten, ob
+der Film (vom Sound her) vorne sehr breit wirkt und ob
+Split-Surround-Effekte vorhanden sind (letzteres geht aber nur gut,
+wenn man ziemlich in der Mitte sitzt). Trifft beides zu, dann hört
+man auf jeden Fall einen Digitalton. Analoges Dolby Surround (=
+Dolby Stereo) ist sehr center-lastig, d.h. locker 80% des Sound
+kommen aus dem Mittenlautsprecher.
+
+Hat man den Digitalsound erkannt, kann man SDDS fast immer
+ausschließen, weil nur wenige Kinos SDDS haben und wenn sie dann
+mal einen Film in SDDS zeigen, dann weisen sie wohl speziell darauf
+hin bzw. zeigen den passenden Trailer.
+
+Nebenbei bemerkt: Wenn das Kino einen Trailer für das Soundsystem
+zeigt, dann wird es sich schon auch um dieses Soundsystem handeln.
+
+Letztlich stellt sich jetzt die Frage, ob Dolby Digital oder dts.
+Und da achtet man ab besten auf die Aktwechsel; die erkennt man,
+wenn recht oben kurz ein Kreis (oder Dreieck oder sowas) zu sehen
+ist. Dann dauert es noch ca. fünf Sekunden bis zu einem zweiten
+Signal und dann noch ca. zwei Sekunden bis zum Wechsel (wo dann
+früher der Vorführer auf einen anderen Projektor umschalten mußte).
+(Kinoverf�hrer mögen mich bez. der genauen Zeiten und Formen der
+Signale berichtigen.)
+
+Da der Film beim Aktwechsel heute geklebt ist, hüpft das Bild
+meistens; und fällt genau in diesem Moment der Digitalton aus (der
+Sound wird für eine Sekunde dumpfer und sehr center-lastig), dann
+ist es ziemlich sicher Dolby Digital - das fällt nämlich wenigstens
+bei jeder Klebestelle aus. dts fällt deutlich seltener aus und der
+Ausfall ist meist so kurz, daß er garnicht bemerkt wird.
+
+
+Das Problem schein zu sein, daß wohl auch viele Dolby-Digital-Kopien
+nicht in Ordnung sind und deshalb sehr viele Zuschauer (mit oder
+ohne Ankündigung durch die Kinoleitung) eben nur den normalen
+analogen Surround-Ton gehört haben - und der scheint nun wirklich
+dünn zu sein.
+
+
+Natürlich ist das vorgesehen ... siehe oben. Das ist sogar
+lebenswichtig. Ich habe noch keine Kinovorstellung miterlebt, in
+der nicht wenigstens einmal der Digitalton ausgefallen wäre.
+
+
+Also wenn der Ton echte Aussetzer (= Stille im Kino) hat, dann ist
+wirklich was kaputt. Wenn ich von Ausfällen des Digitaltons spreche,
+dann meine ich eben ein Zurückschalten auf Analog-SR, also für
+kurze Zeit (0,3 bis 2 Sek.) eine merklich schlechtere Tonqualität.
+
+Franco
+-- 
+** Franco Imroth, E-Mail (NeXTmail/MIME): victj@jnssus.g.ckfvo.iv **
+**  "I don't wanna 5 day pass to Disney planet." -- F. Streibl  **

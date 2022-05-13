@@ -1,0 +1,24 @@
+In der Anleitung steht oben "Once the server is running on your machine 
+...". Wie das geht steht weiter unter. Dort steht auch man solle 
+"mysqld-ort" starten. Ich habe aber jetzt den Server per Service 
+gestartet.
+
+mysqld-opt --install
+
+Damit läuft der Server beim Systemstart, ich brauche nicht in 
+irgendwelchen Scriptdateien was rumzubasteln. Ausserdem erscheint die 
+Fehlermeldung (Can't connect ...) nicht mehr.
+
+
+Ich habe MySQL in C:\ liegen.
+
+
+Habe zwar einen Firewall, der aber nicht dazwischenfunkt. War aber ein 
+guter gedanke (ist mir nicht eingefallen).
+
+
+Der Strat wird jetzt über den Service erledigt (wie oben beschrieben).
+
+-- 
+Artur Preßl <nadj@bxqihg.ku>, Kreuzle
+PGP RSA & DH/DSS public key on request and on public servers

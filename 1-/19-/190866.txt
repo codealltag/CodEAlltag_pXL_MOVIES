@@ -1,0 +1,14 @@
+Wenn Du den Originaltitel weit, geht alles halbwegs.
+Ansonsten grepst Du auf den Quelldateien (*.list) herum.
+
+USA/UK Film aus dem Jahr 1967, der über 2 Stunden lang ist
+und in dem ein Computer vorkommt. In der Filmmusik kommt
+"An der schoenen blauen Donau" vor. Wie heißt der Film?
+Mit xregal 0.0% Chancen. grep ist etwas unhandlich.
+
+-- 
+Ferdinand Söngen	eMail: apt<ir>mi<zrx>idm<edahkn>mdxc<vhx>qy
+Piepereit	Tel:   7 22 12 (5-1 72 85)
+
+Note:    e-Mail to ptex09@axl.sim-fzxv.ek will be automatically erased.
+Beachte: e-Mail an ptex09@axl.sim-fzxv.ek wird automatisch gelöscht.

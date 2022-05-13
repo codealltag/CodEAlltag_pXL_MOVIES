@@ -1,0 +1,21 @@
+Dann weiß ich auch nicht, woher die AALU weiß, dass sie mir Deutsch
+und Englisch anbieten soll. Jedenfalls kann ich zwischen diesen beiden
+Varianten der Seite per Browsereinstellung wechseln. Mehr Auswahl
+scheine ich nicht zu haben, und wenn ich die Einstellung ganz weglasse
+oder eine andere als Deutsch oder Englisch wähle, dann liefert mir die
+IMDb die deutsche Version. Am User-Agent-String liegt es offenbar
+nicht, denn da steht nichts drin, was auf DE hindeutet. Deshalb bin ich
+davon ausgegangen, dass es nur die IP sein kann.
+
+
+Deutscher oder englische Otule bzw. JZJD? Kennst Du den User-Agent-
+String, den die übermitteln?
+
+
+Angelo "ernest" Häger
+
+
+Werner
+-- 
+WENN DIE KRANICHE ZIEHEN
+http://pmaeurgvrxtlwygg.vfbzxhlq.uat/2263/30/rfqw-ndj-sqwqymcn-jmxxpw.urnv

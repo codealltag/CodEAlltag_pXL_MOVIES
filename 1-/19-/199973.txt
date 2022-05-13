@@ -1,0 +1,7 @@
+1:5 (bezogen auf 16-bit-Daten), getrennte Codierung der Kanäle, 20 bit,
+44,1 kHz
+
+Die Version 4.5 arbeitet sogar mit 24 bit.
+
+Bye
+	Rüdiger

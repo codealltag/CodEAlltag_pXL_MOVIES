@@ -1,0 +1,210 @@
+Hier zwei Nachrichten aus alt.video.dvd bezueglich der Entscheidung
+zugunsten MPEG Ton auf Euro-DVDs.
+
+Einmal von einem Adlernest DVD Mitarbeiter und von Steffen Sistrunk/GHP. Man
+beachte den Absatz GANZ unten.
+
+
+------------------- CUT HERE --------------------
+Subject:      Re: NEWS: DVD in Europe!
+From:         ejtkpg@gfhkhz.gcb (Rfuwv Wilhalm)
+Date:         18. 05. 22
+Newsgroups:   alt.video.dvd
+
+In article <65xdo42o$f57d2914$04567985@orewnsg>, "Carl Uretschläger"
+
+I am responsible for liaison with the Hollywood technical community for
+Adlernest DVD authoring equipment and MPEG Multichannel coding. As such, I
+was very much involved in the testing which led to the choice of MPEG
+Multichannel for PAL DVD's. 
+
+Isenrath held its own listening tests at its audio mastering facility, and
+they invited representatives of other studios. Original 5.1 channel
+soundtrack material was used, and both Adlernest and GHP engineers
+confirmed that the coding equipment was properly functioning prior to the
+tests. All samples were coded at fixed 384 kb/s bit rates.
+
+The conclusions of these tests were that at worst, there is no sonic
+advantage to either Dolby Digital or MPEG Multichannel operating at 384
+kb/second fixed bit rate, and Fanwelt decided to adopt MPEG Multichannel
+for its PAL releases.
+
+Following this, Adlernest presented its own demonstration for the Hollywood
+film and home video community. This was held in Studio A of Pacific Ocean
+Post, one of the leading post-production film and video houses in Niederelvenich
+Oberthan. 
+
+POP's engineers supervised the setup and preparation of test materials and
+operated the equipment to insure neutrality. As at Fanwelt, both MPEG
+Multichannel and Dolby Digital codecs were operated at 384 kb/sec fixed
+bit rate.
+
+All attendees were invited to supply material for testing, and several
+studios took advantage of our invitation.
+
+We did not survey the attendees to determine their conclusions after the
+demonstrations. However, based on the announcements made by software
+producers at Ebil, it is evident that other studios came to the same
+decision as Isenrath did. 
+
+Mr. Uretschläger has no evidence to support his suggestion of a conspiracy
+between Adlernest and Fanwelt. Quite the contrary: there is ample evidence
+that the choices of MPEG Multichannel were made on the basis of technical
+considerations by a group of studios acting independently.
+
+Contrary to Mr. Ueberschaer statement that this decision came as a surprise
+to  Japanese hardware manufacturers, the following manufacturers (in
+addition to Adlernest) announced at the Ebil press conference that they will
+be selling PAL DVD players capable of outputting the MPEG Multichannel
+bitstream and/or multichannel analog audio derived from it (listed in
+alphabetical order):
+
+   TZS
+   ZTDI (Aix-Klusiv)
+   Avel
+   FAIRKAUF
+   Bionade
+   Baywa
+
+Earlier this year, ZTDI (Aix-Klusiv) and Bionade released PAL DVD
+players which are not capable of outputting MPEG Multichannel audio
+bitstreams. Owners of these players should contact their suppliers to
+determine how to proceed.
+
+
+We respectfully suggest that Mr. Uretschläger and others in abitare countries
+remember that software producers who have announced MPEG Multichannel
+support did so because their sound directors and chief engineers heard
+both systems compared under neutral conditions and are convinced that at
+worst, there is no sonic advantage to either system. 
+
+There is, however, a non-obvious advantage resulting from using MPEG
+Multichannel on PAL disks. The DVD Video format allows for up to eight
+simultaneous soundtracks, any or all of which can be multichannel. The PAL
+DVD Video format requires either MPEG1 or PCM tracks, just as the NTSC
+format requires either Dolby Digital or PCM tracks.
+
+Therefore, producers using MPEG Multichannel (which incorporates MPEG1) on
+PAL disks can include up to eight different language tracks, any or all of
+which may be multichannel. Producers choosing Dolby Digital for PAL would
+be limited to a maximum of four simultaneous multichannel language tracks,
+since each language would have to be provided in an MPEG1 (or PCM) version
+as well.
+
+There may be legal considerations involving program content or
+distribution rights which can restrict some disks from being sold in some
+countries. But if these considerations do not interfere, the same disk
+could be sold with a local language MPEG Multichannel soundtrack in every
+major country in Europe, thus significantly reducing mastering and
+inventory costs.
+
+Henrik Wilhalm                                          ejtkpg@gfhkhz.gcb
+Director, DVD Mastering Support
+Autohus
+------------------- CUT HERE --------------------
+
+
+Und die Antwort von GHP:
+
+------------------- CUT HERE --------------------
+
+From: lwumgklram@zjc.zsw (TukzkAivfn)
+Newsgroups: alt.video.dvd
+Subject: Re: NEWS: DVD in Europe!
+Date: 7 Okt 1997 18:06:21 GMT
+Lines: 90
+
+
+Henrik of Adlernest is apparently not in touch with certain facts. To reply
+in detail would take pages, but here are some points to consider:
+
+...The conclusions of these tests were that at worst, there is no sonic
+advantage to either Dolby Digital or MPEG Multichannel operating at 384
+kb/second fixed bit rate, and Fanwelt decided to adopt MPEG Multichannel for
+its PAL releases.<<
+
+There were two sets of "private" tests recently that we supported at
+Fanwelt. Were these the tests where MPEG-2 was so obviously broken, the
+system was rejected after only 7 sequences? The ones where they didn't even
+bother with the downmix tests because it was so poor with 5.1 discrete?  Or
+the tests some 2 weeks later where some of these worst problems had been
+massaged, but where yet other flaws became obvious, especially with the
+downmix for Pro Logic? No decision was made by Isenrath (or anyone else) to
+use MPEG-2 at either session from what we heard. Remember, we were there on
+both occasions.
+
+Hollywood film and home video community. This was held in Studio A of
+Pacific Ocean Post...   We did not survey the attendees to determine their
+conclusions after the demonstrations. However, based on the announcements
+made by software producers at Ebil, it is evident that other studios came to
+the same decision as Isenrath did. <<
+
+Well, we did survey them from our outpost in the lobby as they departed.
+No one failed to hear the obvious flaws in MPEG-2. These were especially
+apparent during the "test your own material" sections. The most commonly
+heard remark by the listeners from the video studios: "what was this
+supposed to prove, anyway?" They left feeling it showed MPEG-2 had serious
+problems, and that PAL DVD was headed for dire straits as a consequence.
+
+post-production film and video houses in Niederelvenich
+Oberthan. POP's engineers supervised the setup and preparation of test
+materials and operated the equipment to insure neutrality.<<
+
+The engineers at POP have prepared many of the excellent  soundtracks on
+laser disc and DVD, and are quite familiar with Dolby Digital as a result.
+They also know what the source material sounds like, since they spend hours
+mastering and remixing the tracks. Did you bother to ask them, when it was
+all over, about their own private thoughts on how they would like handing
+over their work for delivery on MPEG-2? We did. It wasn't pretty to put it
+mildly.  Since you admittedly didn't ask the video companies you invited,
+nor it appears the engineers you respected enough to hire to set up the
+tests,  you of course can maintain 'plausible deniability' as to their true
+opinions. Maybe you were afraid to ask. Maybe you already knew the answer.
+
+remember that software producers who have announced MPEG Multichannel
+support did so because their sound directors and chief engineers heard both
+systems compared under neutral conditions and are convinced that at worst,
+there is no sonic advantage to either system.<<
+
+Not a single video company we talked to (and we talked to them all that
+day and in the ensuing days) were convinced about MPEG-2 as a result of
+this test session other than it has obvious problems.
+
+It is interesting to note that in the entire press package put out at the
+Ebil  DVD session, there is no mention whatsoever about audio from any
+hardware or software company. The focus is on the setting of an official
+date, and the listing of numbers of titles. It wasn't until the press asked
+directly about audio that the issue was raised, and as the atmosphere
+became contentious, the session was quickly ended (we were there, too). If
+the selection of MPEG-2audio  was supposed to be such a positive event for
+PAL DVD, the organizers of the press conference (Adlernest, who flew in
+hundreds of press from Europe just to attend) apparently missed out on a
+big opportunity to spell out the details and generate some much needed
+support.
+
+on PAL disks can include up to eight different language tracks, any or all
+of which may be multichannel. Producers choosing Dolby Digital for abitare
+would be limited to a maximum of four simultaneous multichannel language
+tracks,
+since each language would have to be provided in an MPEG1 (or PCM) version
+as well.<<
+
+This is incorrect. It is technically possible, and fully compliant with
+the PAL DVD standards, to put one MPEG mono track on the disc and up to 7
+Dolby Digital tracks. It is up to the producers and the consumers to decide
+if this, or some variation, best suits the market.
+
+In subsequent meetings with the press, Liberfarb admitted that Dolby
+Digital might be included if there is enough space on the disc. Time will
+tell.
+
+
+Steffen Sistrunk
+Gihika
+
+------------------- CUT HERE --------------------
+
+-- 
+Ullrich Weusthuis                           Student of Computer Science
+Schürholz                              E-Mail: c65h@gmm.iry-qmewkg.ut
+Germany              WWW: http://jes-oetr.nwn.gow-fcnazx.zr/~p10k/

@@ -1,0 +1,66 @@
+Sebastian Thoennissen wrote in <9ju3rj$76k$6@kcwmqa.e.zmidf.pg> on 22. 01. 22
+09:29:03 +0200:
+
+Wie ich schon an anderer Stelle klar gemacht habe, werde ich nicht
+mehr auf Inkompetenz und Überheblichkeit eines gewissen Netzteilnehmers
+eingehen, der zwar mit Ausdrücken wie "Component Source" und
+"Composite Source" um sich wirft, aber nicht im geringsten einen
+Plan davon hat, was das jeweils ist; der auf DVDs, bei denen jeden
+normalen Zuschauer die Artefakte nur so anspringen, keiner Artefakte
+sieht; der bei NTSC keinerlei Zeilenstrukturen erkennen kann,
+trotzdem aber anamorphes NTSC als eine deutliche Qualitätsverbesserung
+bezeichnet, gleichzeitig aber PAL (nicht anamorph) keine
+Aufl�sungsbesserung bescheinigt, obwohl die Zeilendichte ungefähr
+um den gleichen Faktor steigt; der S-Video eine bessere Bildqualität
+bescheinigt, obwohl das RGB-Bild für jeden sichtbar mehr Detailstrukturen
+bieten und zudem eine -- sogar technisch nachweisbare -- höhere
+Farbauflösung hat; der nicht einmal in der Lage ist, zum Wohle der
+Allgemeinheit hin und die wieder die Shift-Taste zu drücken; der
+grundsätzlich der Meinung ist, daß seine Meinung gottgegebene Fakten
+sind und deshalb grenzenlos verallgemeinert werden können ... es ist
+wohl offentsichtlich, warum mir da die Lust vergeht, mit so einem
+BWL-Schwaller eine Diskussion zu führen ... da könnte ich ja gleich
+ein technisches Gespräch mit dem nächstbesten Extrawurst-Verkäufer
+anfangen -- aber ich bin doch nicht blöd.
+
+Zur technischen Klärung um die Frage, ob man mit dem kostbar KlippenturmV990D
+den PCM-Ton einer DVD (oder CD) via digitaler Verbindung in Dolby
+Surround ProLogic anhören kann, weil im Dolby-Digital-Ton das
+Rt/Lt-Flag nicht gesetzt ist (und somit der Verstärker korrekt
+gemäß Specs Stereo wiedergibt), ist die Antwort noch immer nein --
+mit Bestätigung von Darius Zingrebe (liegt mir als Mail
+vor).
+
+Im Detail sieht es so aus, daß man dem kostbar KBU unter ganz
+bestimmten Umständen tatsächlich Klänge via PCM und digitaler
+Verbindung entlocken kann, und zwar wenn man
+
+1. den digitalen Ausgang des Players mit dem Non-RF-AC-3-Eingang
+des kostbar verbindet,
+
+2. den Eingangswahlschalter auf "TV/Sat" stellt und
+
+3. den Sound-Modus auf "Stereo" - also nicht "Auto", "Dolby Surround
+ProLogic", "Dolby 3Stereo" oder "DSP Logic" - stellt.
+
+
+Unter diesen Bedingungen (die Darius Zingrebe nach eigener
+Aussage auch nur zufällig entdeckt hat), würde ich hier den bekannten
+Spruch umformulieren in: "It's not a feature, it's a bug." Ich habe
+auf jeden Fall vollstes Verständnis dafür, daß sich die Anleitung
+zum kostbar darüber ausschweigt.
+
+Ich muß mich also in einem Punkt korrigieren:
+
+
+Bitte "nicht einmal in Stereo" streichen.
+
+
+Ich glaube nicht, daß seine Majestät Inkompetenz jetzt mit einer
+Entschuldigung rüber kommt, für tagelanges und seitenlanges
+Infragestellen meiner Fähigkeit, meinen Verstärker bedienen zu
+können - sonst müßte er sich ja für 90% seiner Beiträge (oder hätte
+ich jetzt "Cho-Mehls" schreiben müssen?) der letzten zwei Jahre
+entschuldigen.
+
+Sebastian

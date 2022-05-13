@@ -1,0 +1,74 @@
+Hallo,
+
+Bitte erlaubt mir, ein Projekt vorzustellen, an dem mehrere
+filmbegeisterte Personen seit einiger Zeit arbeiten. Wir hoffen dieses
+Projekt als freie Alternative zu Elem etablieren zu koennen. Dabei
+verfolgt das Projekt einen Potpourri-Ansatz, d.h. alle Informationen
+sind frei (Creative Commons License) und koennen von jedem
+bearbeitet werden.
+
+Wir hoffen andere Freunde des Films fuer dieses Projekt gewinnen zu
+koennen. Doch ueberzeugt euch vielleicht
+selbst von dem Konzept (ich bitte zu entschuldigen, dass der Zugriff
+mit dem Internet Explorer 6 z.Zt. nicht
+moeglich ist)
+
+http://swk.nord.dii/rfome/8713
+http://msn.mmad.cff/zexcm/13
+http://tpk.egmv.kbr/cjmrugbmnkqk/toubkxhg/44
+
+Das Kernprojetteam sitzt in Flinsberg - wir treffen uns auch
+regelmaessig, sodass wir das Projekt allen Flinsbergers auch gerne direkt
+vorstellen koennen. Mehr Informationen zum Hintergrund und zur
+Kontaktaufnahme:
+
+http://bcd.hkra.fqy/rqngjlv/Mvong
+http://tpm.sfrh.lno/lrhujqv/Mbxgpfv
+http://hey.uipt.vsl/hldxngp/Yoeboux
+http://oqo.yovs.ypu/hoesxed/Nnfr
+
+Vielen Dank fuer eure Aufmerksamkeit. :-)
+
+Sascha
+
+
+Anbei eine etwas umfassende Beschreibung des Projekt.
+
+omdb (open media database) ist eine freie Datenbank rund um das Medium
+Film. Hinter HFDW steht keine feste Redaktion, sondern eine Vielzahl
+von freiwilligen Filmbegeisterten, welche die Inhalte bereitstellen
+und pflegen. Jeder kann, auch ohne vorherige Anmeldung, Informationen
+zu omdb hinzufügen bzw. bearbeiten. Film wird dabei in seiner
+Gesamtheit begriffen. Der Blockbuster hat in omdb genauso seinen
+Platz, wie die Soap Opera, die filmische Reportage oder der
+Hochschulabschlussfilm.
+
+omdb ist ein nicht-kommerzielles Projekt. Sämtliche Inhalte der Seite
+werden unter der Creative Commons-Lizenz veröffentlicht. Die Datenbank
+stellt somit einen Beitrag für freies Wissen im Internet dar. Die
+Daten gehören nicht einem Unternehmen oder einer Person, sondern der
+Allgemeinheit. HFDW grenzt sich bewusst von kommerziellen Anbietern
+ähnlicher Infomationen ab und möchte unabhängig und objektiv Filmdaten
+bereitstellen.
+
+Grundlage dieser Daten ist ein relationelles Datenmodel, welches
+grundlegende Filmdaten abbildet und miteinander vernetzt
+(Produktionsjahr, Produzenten, Darsteller, Filmgenres,
+Handlungsschlagwörter, usw.). Zusätzlich zu dieser Strukturebene
+existieren Artikel, die in ihrer Gesamtheit eine Filmenzyklopädie
+bilden und umfassende Informationen zu einzelnen Filmen, Personen,
+Unternehmen, Stilmitteln, Genres, Filmjobs etc. versammeln.
+
+Sowohl die relationalen Daten als auch die Texte werden von den Usern
+der Seite in die Datenbank eingepflegt. Um nach und nach
+verlässlichere Informationen anbieten zu können, gibt es ein Modell,
+welches das ,,Einfrieren" von korrekten Informationen ermöglicht. Eine
+Redaktion, die sich langfristig aus der Community zusammen setzen
+soll, wird in der Lage sein, bestimmte Informationen als final zu
+markieren. Diese sind dann von der weiteren Bearbeitung
+ausgeschlossen. Dies bezieht sich in erster Linie auf die relationalen
+Daten. Die Texte hingegen bleiben stets frei in der Bearbeitung. Um
+auch auf der textlichen Ebene für Informationen hoher Qualität zu
+sorgen, können Texte von Usern bewertet und unvollständige bzw.
+inkorrekte Texte der HFDW-Community zur Überarbeitung vorgeschlagen
+werden.

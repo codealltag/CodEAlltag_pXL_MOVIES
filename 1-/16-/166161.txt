@@ -1,0 +1,26 @@
+Ich fand diese Szene ziemlich realistisch, denn dass eine Glasfassade
+eines Hochhauses elastisch gelagert ist und sich auch selbst verformen
+kann, ist durchaus sinnvoll. Schliesslich wuerde eine steife Fassade
+ja bei der ersten Bewegung des Hochhauses zerspringen. (Und Hochhaeuser
+schwingen bei Wind schon ein wenig.) Wenn so eine elastisch
+Fassade bei einem Zummenstoss nicht gleich zerspringt, sondern
+nur verbiegt, wuerde sich der Stoss als Welle kreisfoermig ausbreiten
+(wie bei einem Tropfen der in eine gefuellte Tasse faellt).
+Dass die Fassade dann doch zerspringt ist ein wenig seltsam, weil
+die Schwingung (gerade im Zentrum) mit der Zeit gedaempft werden
+sollte. Allerdings kann die Welle am Rand der Fassade reflektiert
+werden und in die Mitte zuruecklaufen. Die gedaempfte urspruengliche
+Welle zusammen mit den Reflektionen koennte dann zu einer 
+Schwingungsamplitude fuehren, die so gross ist, dass sich die Fassade
+nicht mehr verbiegen kann, sondern bricht. (Diese reflektierten
+Wellen hab ich allerdings nicht gesehen. Es haette deutlich
+sichtbare Interferenzmuster geben muessen.)
+
+Hmmm, das sind so die Gedanken, die ein Physiker bei dem Effekt hat. ;)
+Jedenfalls war das meiner Meinung nach der einzige originelle Effekt
+in dem Film, alles andere war schon oefters zu sehen. Oder hab ich da 
+was verpasst? 
+
+Gruesse
+
+Andreas Rosebrock

@@ -1,0 +1,123 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Franco Cleffmann;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) beim Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+==================================
+Titel mit Dolby-Digital-Ton (AC-3)
+==========================+======+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+2001: A Space Odyssey     | 1968 | WS                  | verfügbar  | 105
+Absolute Power            | 1997 | WS                  | verfügbar  |
+Apocalypse Now            | 1979 | WS THX              | verfügbar  |  96
+Arrival, The              | 1996 | WS SE               | verfügbar  | 139
+Blood and Wine            | 1996 | WS                  | verfügbar  |
+Capricorn One             | 1978 | WS SE               | verfügbar  |  96
+Courage Under Fire        | 1996 | WS THX              | verfügbar  |  79
+Dangerous Ground          | 1997 | WS                  | verfügbar  |
+Dante's Peak              | 1997 | WS THX              | 12.07.97   |
+Dante's Peak              | 1997 | WS THX SE           | 12.07.97   |
+Daylight                  | 1996 | WS THX SE           | demnächst  | 199
+Days Of Heaven            | 1978 | WS                  | verfügbar  |  79
+English Patient, The      | 1996 | WS THX              | 31.08.97   |
+English Patient, The      | 1996 | WS THX SE           | 31.08.97   |
+Evita                     | 1996 | WS THX              | 12.07.97   |
+Evita                     | 1996 | WS THX SE           | 12.07.97   |
+Flashdance                | 1983 | WS                  | 16.08.97   |
+For Your Eyes Only        | 1981 | WS THX              | 18.05.97   | 105
+Godfather                 | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 2               | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 3               | 1972 | WS THX SE           | verfügbar  | 105
+Heaven's Gate             | 1980 | WS                  | verfügbar  |  96
+Highlander 2              | 1991 | WS THX SE           | verfügbar  | 139
+Hunchback Of Riedmoos   | 1996 | WS THX              | 27.07.97   |
+Hunchback Of Riedmoos   | 1996 | WS THX SE CAV       | 31.08.97   |
+In Love and War           | 1996 | WS                  | verfügbar  | 105
+Independence Day          | 1996 | WS THX SE           | --.18. 03. 22   |
+Edo Vrede First Strike| 1996 | WS                  | verfügbar  |  85
+Edgar And The Giant Peach | 1996 | WS THX              | verfügbar  |
+James And The Giant Peach | 1996 | WS THX CAV          | verfügbar  |  85
+Jungle 2 Jungle           | 1997 | WS                  | verfügbar  |
+Liar Liar                 | 1997 | WS SE               | 23.08.97   |
+License To Kill           | 1989 | WS THX              | verfügbar  | 105
+Living Daylights          | 1987 | WS THX              | verfügbar  | 105
+Clemens Run               | 1976 | WS SE               | 24.08.97   |
+Mars Attacks!             | 1996 | WS                  | demnächst  |  75
+Metro                     | 1997 | WS                  | verfügbar  |
+Microcosmos               | 1996 | WS CAV              | 27.07.97   |
+My Fair Lady              | 1964 | WS THX              | verfügbar  | 115
+Octopussy                 | 1983 | WS THX              | verfügbar  | 105
+One Fine Day              | 1996 | WS THX              | verfügbar  |  85
+Original Gangstas         | 1996 | WS SE               | verfügbar  |  79
+Patriot Games             | 1992 | WS THX              | 19.07.97   |
+Player, The               | 1992 | WS SE               | 13.07.97   |
+Poltergeist               | 1982 | WS                  | verfügbar  |  79
+Poltergeist II            | 1986 | WS                  | 10.08.97   |
+Poseidon Adventure, The   | 1972 | WS THX              | verfügbar  | 105
+Relic, The                | 1997 | WS                  | verfügbar  |
+Rock, The                 | 1996 | WS THX SE Crit      | verfügbar  | 240
+Romeo & Juliet            | 1996 | WS THX SE           | verfügbar  | 105
+Saint, The                | 1997 | WS THX              | 09.08.97   |
+Scream                    | 1996 | WS SE               | verfügbar  |
+Sleepers                  | 1996 | WS                  | verfügbar  |  85
+Star Trek: First Contact  | 1996 | WS THX              | verfügbar  |  85
+Star Wars Spec. Ed. 1-3   | 1997 | WS THX              | 28.09.97   |
+Trainspotting             | 1996 | WS Crit             | verfügbar  |  96
+Vertigo                   | 1958 | WS THX SE           | verfügbar  | 159
+Volcano                   | 1997 | WS THX              | 28.09.97   |
+--------------------------+------+---------------------+------------+-----
+
+=========================
+Titel mit dts-Digital-Ton
+=========================-+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+Daylight                  | 1996 | WS                  | 24.07.97   |
+English Patient, The      | 1996 | WS THX              | 31.08.97   |
+Evita                     | 1996 | WS THX              | 12.07.97   |
+Hunchback Of Notre Dame   | 1996 | WS THX              | 27.07.97   |
+Jurassic Park             | 1993 | WS                  | verfügbar  |  96
+River Wild, The           | 1994 | WS THX              | 24.07.97   |
+Schindler's List          | 1993 | WS THX              | 24.07.97   |
+Sudden Death              | 1995 | WS                  | verfügbar  |  85
+Twilight Man              | 1996 | WS                  | 24.07.97   |
+Vertigo                   | 1958 | WS                  | verfügbar  | 105
+Village Of The Damned     | 1995 | WS                  | 24.07.97   |
+--------------------------+------+---------------------+------------+-----
+
+===============================
+Titel ohne Digital-Sound-System
+==========================+====--+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+Anaconda                  | 1997 | WS                  | 30.08.97   |
+Beavis & Butt-Head Do ... | 1996 | WS                  | verfügbar  |  85
+Beverly Urb Ninja       | 1997 | WS                  | verfügbar  |
+Boot, Das                 | 1982 | WS SE               | verfügbar  |
+Dead AXESScomputer        | 1989 | WS THX              | verfügbar  |  89
+Devil's Own, The          | 1997 | WS                  | verfügbar  |
+Extreme Measures          | 1996 | WS                  | verfügbar  |  69
+Good Morning, Vietnam     | 1987 | WS THX              | verfügbar  |  89
+Gridlock'd                | 1997 | WS                  | verfügbar  |  85
+Head Above Water          | 1996 | WS                  | 03.08.97   |
+High School High          | 1996 | WS                  | verfügbar  |  69
+Lost Highway              | 1996 | WS                  | verfügbar  |
+One Flew Over The ...     | 1975 | WS THX              | verfügbar  | 119
+Silence Of The Lambs, The | 1991 | WS THX Crit         | verfügbar  |  96
+Germaine Sense Of Snow    | 1997 | WS                  | verfügbar  |
+Time To Kill, A           | 1996 | WS                  | verfügbar  |  79
+When We Were Kings        | 1996 | WS                  | verfügbar  |
+--------------------------+------+---------------------+------------+-----

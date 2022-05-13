@@ -1,0 +1,122 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Fabrice Michaelsen;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+DD    = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) beim Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1995 | WS SE DD            | verfügbar  | 235
+12 Monkeys                | 1995 | WS dts              | verfügbar  |  96
+Abyss, The (Dir. Cut)     | 1989 | WS THX DD           | verfügbar  | 119
+Alamo, The               *| 1960 | WS DD               | 25.10.97   |
+Alaska                    | 1996 | WS                  | verfügbar  |  69
+Apocalypse Now            | 1979 | WS THX DD           | verfügbar  |  96
+Apollo 13                 | 1995 | WS dts              | verfügbar  |  96
+Arrival, The             *| 1996 | WS DD SE            | 19.09.97   |
+Babe                      | 1995 | WS dts              | verfügbar  |  79
+Bambi                     | 1942 | SE THX              | demnächst  |  59
+Bambi                     | 1942 | SE THX CAV          | demnächst  |  96
+Before & After            | 1996 | WS                  | verfügbar  |  79
+Blown Away               *| 1994 | WS DD               | 18.10.97   |
+Blown Away               *| 1994 | WS dts              | 04.10.97   |
+Brazil                    | 1985 | WS SE               | verfügbar  | 235
+Capricorn One             | 1978 | WS DD SE            | verfügbar  |  96
+Casino                    | 1995 | WS dts              | verfügbar  |  96
+Casper                    | 1995 | WS dts              | verfügbar  |  79
+Celtic Pride              | 1996 | WS DD               | verfügbar  |  79
+Chain Reaction            | 1996 | WS DD               | verfügbar  |  79
+Chamber, The              | 1996 | WS                  | verfügbar  |  69
+Cliffhanger               | 1993 | WS                  | 05.09.97   |  89
+Courage Under Fire        | 1996 | WS DD THX           | verfügbar  |  79
+Daylight                 *| 1996 | WS THX DD           | 17.10.97   |
+Daylight                 *| 1996 | WS THX DD SE        | demnächst  |
+Days Of Heaven            | 1978 | WS DD               | verfügbar  |  79
+Dead Poets Society        | 1989 | WS THX              | verfügbar  |  89
+Dragonheart               | 1996 | WS THX DD SE CAV    | verfügbar  | 249
+Dragonheart              *| 1996 | WS dts              | 30.08.97   |
+Eddie                     | 1996 | WS DD               | verfügbar  |  79
+Extreme Measures          | 1996 | WS                  | 26.09.97   |  69
+Family Thing, A           | 1996 | WS DD               | verfügbar  |  79
+Fan, The                  | 1996 | WS                  | verfügbar  |  69
+Ghost & The Darkness      | 1996 | WS THX DD           | 29.08.97   |  79
+Glimmer Man               | 1996 | WS DD               | verfügbar  |  69
+Godfather                *| 1972 | WS THX DD SE        | 26.09.97   |
+Godfather 2              *| 1972 | WS THX DD SE        | 26.09.97   |
+Godfather 3              *| 1972 | WS THX DD SE        | 26.09.97   |
+Goldeneye                *| 1995 | WS THX dts SE       | 01.11.97   |
+Good Morning, Vietnam     | 1987 | WS THX              | verfügbar  |  89
+Grass Harp                | 1996 | WS                  | verfügbar  |  79
+Heaven's Gate             | 1980 | WS DD               | verfügbar  |  96
+High School High          | 1996 | WS                  | 19.09.97   |  69
+Highlander 2             *| 1991 | WS THX DD SE        | 17.10.97   |
+Hunt For Red October, The | 1990 | WS THX DD           | verfügbar  |  89
+Independence Day          | 1996 | WS THX DD SE        | --.22. 09. 22   |
+Beat                      | 1996 | WS DD               | verfügbar  |  79
+Jurassic Park             | 1993 | WS dts              | verfügbar  |  96
+Wölsickendorf               | 1996 | WS DD               | verfügbar  |  79
+Last Man Standing         | 1996 | WS DD               | verfügbar  |  79
+Last Man Standing         | 1996 | WS dts              | verfügbar  |  79
+Lawnmower Man, The        | 1992 | WS THX SE           | demnächst  | 109
+Long Kiss Goodnight, The  | 1996 | WS DD               | verfügbar  |  79
+Long Kiss Goodnight, The  | 1996 | WS dts              | verfügbar  |  79
+Mask, The                *| 1994 | WS dts              | 13.09.97   |
+Maximum Risk              | 1996 | WS                  | 05.09.97   |  69
+Mirror Has Two Faces, The*| 1996 | WS                  | 21.11.97   |
+Mortal Kombat            *| 1995 | WS dts              | 13.09.97   |
+Multiplicity              | 1996 | WS                  | verfügbar  |  69
+My Fair Lady              | 1964 | WS THX DD           | verfügbar  | 115
+Neverending Story III     | 1994 | WS                  | verfügbar  |  59
+Nutty Professor, The      | 1996 | WS                  | verfügbar  |  69
+One Flew Over The ...     | 1975 | WS THX              | verfügbar  | 119
+Original Gangstas         | 1996 | WS DD SE            | verfügbar  |  79
+Voeckel                    | 1970 | WS DD THX SE        | verfügbar  |
+Phenomenon                | 1996 | WS DD THX           | verfügbar  |  79
+Poltergeist               | 1982 | WS DD               | verfügbar  |  79
+Poseidon Adventure, The  *| 1972 | WS DD THX           | 15.11.97   |
+Preacher's Wife, The     *| 1996 | WS DD               | 11.10.97   |
+Pretty Woman (Dir. Cut)   | 1990 | WS THX SE           | verfügbar  |  79
+Primal Fear               | 1996 | WS DD               | verfügbar  |  69
+Pulp Fiction              | 1994 | WS THX DD Crit      | verfügbar  | 235
+Ransom                   *| 1996 | WS THX DD SE        | 25.10.97   |
+Robocop                   | 1987 | WS THX Crit         | verfügbar  |  96
+Rock, The                *| 1996 | WS DD THX SE Crit   | 27.09.97   |
+Romeo & Juliet           *| 1996 | WS DD THX SE        | 27.09.97   |
+Seven                     | 1995 | WS dts              | verfügbar  |  96
+Shadow, The               | 1994 | WS dts              | verfügbar  |  75
+Silence Of The Lambs, The | 1991 | WS THX Crit         | verfügbar  |  96
+Sleepers                  | 1996 | WS DD               | 29.08.97   |
+Sound Of Music, The       | 1965 | WS THX DD           | verfügbar  | 119
+Space Jam                 | 1996 | WS DD               | demnächst  |  69
+Species                  *| 1995 | WS dts THX          | 01.11.97   |
+Star Trek: First Contact *| 1996 | WS DD THX           | 17.10.97   |
+Sudden Death             *| 1995 | WS dts              | 11.10.97   |
+Supercop                 *| 1992 | WS DD Crit          | 30.08.97   |
+That Thing You Do!        | 1996 | WS DD THX           | verfügbar  |  79
+Time To Kill, A           | 1996 | WS                  | verfügbar  |  79
+Timecop                  *| 1994 | WS dts              | 30.08.97   |
+Trainspotting             | 1996 | WS DD Crit          | verfügbar  |  96
+Universal Soldier         | 1992 | WS DD               | verfügbar  |  79
+Vertigo                   | 1958 | WS THX DD SE        | 29.08.97   | 159
+Vertigo                  *| 1958 | WS dts              | 27.09.97   |
+Waterworld                | 1995 | WS dts THX          | verfügbar  |  96
+Young Sherlock Holmes     | 1985 | WS                  | verfügbar  |  79
+--------------------------+------+---------------------+------------+-----
+
+-- 
+** Fabrice Michaelsen, E-Mail (NeXTmail/MIME): mteio@nmdubi.o.uigsh.ay **
+**  "I don't wanna 5 day pass to Disney planet." -- F. Schmiedek  **

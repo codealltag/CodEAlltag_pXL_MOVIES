@@ -1,0 +1,10 @@
+Das ändert an der -- natürlich noch mit Begründungen zu füllenden[*] --
+Kritik genau was?
+
+Wenn du partout Fehler aufrechnen willst: Wozu hast du ein Reply-To: im
+Header, wenn die dort angegebene Adresse identisch mit der im From: ist?
+
+
+Gruß, Wolfram
+
+[*] Würde mich auch interessieren

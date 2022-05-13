@@ -1,0 +1,8 @@
+Da anscheinend Dein Newsserver keine Cancels ausführt und das Reply nun 
+schonmal in der Welt ist: Du hast recht.
+Wie ich selbst rausgefunden hatte ist sogar das 3D nachträglich "berechnet" 
+worden aus den 2D-Daten.
+Deshalb hatte ich meinen Beitrag auch nach 2 Minuten gecancelt.
+
+Gruß,
+Ronald

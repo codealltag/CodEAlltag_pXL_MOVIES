@@ -1,0 +1,12 @@
+Hallo
+
+Strg-Alt-Shift (L) - Cursor Up, AFAIR ;)
+
+
+Naja, ich hab ihn gesehen und demnach ja, es gibt ihn, aber er ist nicht
+integriert, du musst den Patch ziehen und eben die Texturen damit patchen.
+Es sieht aber nicht wirklich gut aus und ich kenns auch nur vom 1. Teil :)
+
+Größe
+
+Carsten

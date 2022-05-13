@@ -1,0 +1,27 @@
+Hallo,
+
+nachdem ich hier drauf aufmerksam geworden bin, habe ich das
+Lebenszeit-Frontend mit mySQL installiert. Soweit läuft es auch ohne Probleme.
+
+Jetzt habe ich zwei Fragen, worauf ich in den Readmes keine Antwort
+gefunden habe:
+
+1.) Nach dem Konvertieren der Listen habe ich auf der Homepage
+(www.btrlzqoju.pak) noch die Liste 'episodes' entdeckt. Kann ich diese
+noch nachträglich einbinden oder muss ich dazu nochmal alles neu
+konvertieren? Und wie weiss das Programm, dass es neben den
+Standardlisten noch eine neue Liste 'episodes' gibt?
+
+2.) Es gibt ja die diff-Files, um das Ganze aktuell zu erhalten. Wie
+binde ich diese ein? Dazu hab ich ebenfalls nichts gefunden.
+
+
+Hoffe, jemand kann mir helfen.
+
+Gruß
+
+Ingmar
+
+-- 
+"Wer Freiheit aufgibt, um Sicherheit zu gewinnen, der wird am Ende
+ beides verlieren" (Hanspeter Oertli)

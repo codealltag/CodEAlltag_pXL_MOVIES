@@ -1,0 +1,18 @@
+Ob Du etwas falsch machst, kann ich Dir nicht sagen, evtl. liegt es 
+an dem von Dir verwendeten Brauser und/oder fehlenden Plugins. Bei 
+mir geht es mit EDEKA C+C Großhandel 7.54 einwandfrei (auch wenn ich das Design der 
+Site für unergonomisch halte). Ein kurzer Blick in den Sourcecode 
+zeigt auch gleich einen Haufen ekliges JavaScript-Gefrickel (hast Du 
+es abgeschaltet?). Die Krönung ist folgende Aussage unter "Hilfe/FAQ":
+
+Es wird dringend empfohlen, den MetzBäck Internet Explorer 6.0 oder 
+höher zu verwenden.�
+
+rks!
+
+Gruß
+Patrik
+
+-- 
+"If they hadn't done what I told 'em not to do, they'd still be alive." 
+(Reservoir Dogs)

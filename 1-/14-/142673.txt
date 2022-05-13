@@ -1,0 +1,18 @@
+Korrekt, die Mathematikerin sagt auch einmal, wie die Bahnen aussehen, in
+etwa "+1 und -1 in der Z-Achse", "+2 und -6.5 auf der Y-Achse" o.ae.
+
+Aber wie finde ich denn raus, welche Bahn ein Wuerfel entlangfaehrt?
+Man muss ja davon ausgehen, dass sich alle Wuerfel bewegen und dann kann ich
+doch nirgends festmachen, _wo_ ich im moment bin und _wo_ ich hinkomme.
+
+Es sei denn, einige Wuerfel (Nachbarwuerfel) bleiben stationaer.
+
+Zudem ist eine evtl. Annahme die Wuerfel wuerden immer nur 1 Position weit
+wandern nichtig, wie man in einer Szene sieht, wo sich ein Einzelwuerfel nun
+doch erheblich bewegt.
+
+-- 
+Ueberleg mal: Es ist doch viel billiger in 59min einen Hund
+downzuloaden als einen beim Metzger zu kaufen :)
+
+                      (B. Oldenkott erklaert die Welt im IRC)

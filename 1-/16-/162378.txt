@@ -1,0 +1,11 @@
+Volkert Fünfstuck schrieb/wrote/crivait:
+
+Die USA sind nicht das einzige Land, in dem The Phantom Menace schon
+läuft.
+
+  Burkhard
+-- 
+"Der Filesystem Standard wuerde die Scripte seit neuestem gerne
+ in /etc/init.d sehen, der Logik nach gehoeren sie nach
+ /sbin/init.d."
+  -- aus: "Wie starte ich einen Endlosthread ?", Teil 83

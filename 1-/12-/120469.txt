@@ -1,0 +1,44 @@
+Hi,
+
+  es wurde mal wieder Zeit für ein neues Kapitelchen. Viel Spaß beim Lesen. 
+Ich denke mal, für diesen Monat haben wir unser überlanges 750-Zeilen-Posting 
+beisammen. Es sei denn, irgendwer produziert TOFU ;-)
+
+Was ich eigentlich sagen wollte: Wer sich die Mühe macht, das Zeug immer in 
+der Textverarbeitung seiner Wahl zu einem druckfähigen Text zusammenzubauen,
+kann sich diese Arbeit unter Umständen sparen. Und ich weiß, daß es solche
+Leute gibt.
+Momentan kämpfe ich noch heftig mit dem Index des kommenden LaTeX-Dokumentes, 
+weil mir in diesem Punkt noch das Know-How fehlt und ich mit makeindex nicht 
+klarkomme, aber davon mal abgesehen ist der komplette bisherige Text vom 
+Titelblatt bis zum letzten Wort des vorhergegangenen Kapitels 8 bereits nach 
+LaTeX portiert.  84 Druckseiten derzeit, mit dem jetzt geposteten Kapitel 9 
+werden wir noch diese Woche wohl dreistellig werden. Der Text kommt mit allen 
+Illustrationen, im Falle von expliziten Filmbesprechungen wie bei "Les 
+Vampires" (1916-16) oder auch dieser hier natürlich auch mit Szenenfotos.
+
+Ich weiß noch nicht, wie ich das Dokument dann zum Download feilbiete, ob
+als DVI- oder PDF-Datei. Momentan tendiere ich zu ersterem, schon alleine
+weil LaTeX bzw. DVI-Anzeiger auf wesentlich mehr Betriebssystemen erhältlich
+sind als der Acrobat Reader. Als ehemaliger Amiganer nehme ich auf sowas
+natürlich Rücksicht.
+
+Vor zwei Jahren hatte ich noch Bedenken wegen eventueller Copyright-
+Verletzungen. Die habe ich jetzt über Bord geworfen. Natürlich will
+ich, daß das Copyright gewahrt bleibt, denn ich schließe nicht aus, das 
+Zeug eventuell mal andersweitig verwenden zu wollen. Ich denke, hier sind
+wir uns wohl einig und ich denke, es wird hier keinen Streß geben. 
+Wen jemand denkt, daß ihm der Text was für sein Hobby nutzen könnte,
+möchte ich ihm einen vernünftigen Ausdruck nicht länger verwehren. Im
+schlimmsten Fall wird sich so jemand in irgendeiner Form bedanken, und
+wenn es über meinen Fozu-Wunschzettel sein sollte. Verdammt, ich 
+schreibe den Kram nicht mehr nur für mich, sondern auch für euch. 
+
+Die HTML-Version betrachte ich derzeit als eingestellt. Oder zumindest
+auf's Eis gelegt. Das kostet mangels Java- und XML-fähigem Provider (Erani) 
+enorm viel Zeit und Handarbeit (Gruß an Teebazar *grummel*) und ich habe
+beschlossen, die hier anfallende Arbeitszeit dann doch lieber in die 
+Generierung des Inhalts zu stecken. 
+
+-- 
+Hubert Jörck, ttpi@gavcxp.vjxj.xd

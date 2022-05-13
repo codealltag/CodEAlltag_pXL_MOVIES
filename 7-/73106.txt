@@ -1,0 +1,10 @@
+Nicht angezeigt, aber ich habe bei Netscan Postings von mir in der
+Statistik und und in der Threadansicht gefunden, die xna gesetzt haben.
+HJTG zeigt diese Postings auch in der Threadansicht nicht an.
+
+Ergo: xna wird von Bölter vielleicht bei der Anzeige berücksichtigt,
+aber nicht bei der statistischen Auswertung. (und nichts anderes sagt
+auch die FAQ)
+
+
+Gruß, Noah

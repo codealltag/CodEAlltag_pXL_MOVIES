@@ -1,0 +1,2 @@
+Wieso? Immer wenn ich eine fremde Diskette einschiebe, kommt eine 
+grafische Passwort-Abfrage. Bei euch nicht?

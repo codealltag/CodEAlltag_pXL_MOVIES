@@ -1,0 +1,11 @@
+[X] Sinnvoll
+ [ ] überflüssig
+ [X] Ich mag Kästchen.
+
+Aber ich denke, allgemeine Sachen zur Usenet-Netiquette gehören da nicht so 
+rein, also z.B. das mit dem quoten, Realname, etc. daher sollte Punkt 3 
+IMHO noch gekürzt werden, da reicht vielleicht ein Hinweis, es gelten die 
+Regeln der de.*-Hierarchie.
+
+-- 
+                        /

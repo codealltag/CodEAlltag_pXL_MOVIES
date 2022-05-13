@@ -1,0 +1,16 @@
+Letztendlich ist im Prinzip auch der Film digital, da hier
+in der Regel 24 diskrete Einzelbilder dem Auge einen Bewegungsablauf
+vortäuschen. Bei den Audio-CDs geschieht das dann in ähnlicher Weise
+durch die Wiedergabe von 48.000 diskreten Abtastwerten pro sec., die dem
+Ohr (oder dem Digital-->Analog-Wandler) ein kontinuierliches
+Klangspektrum
+'vortäuschen'. 
+
+Der wesentliche Unterschied liegt meiner Meinung nach in der Auflösung
+der 'Abtastung', i.e. wieviel Pixel (Körnung) und unterschiedliche
+Farbwerte kann Filmmaterial im Unterschied zur digitalen Abtastung
+auflösen. Gibt es hierzu Vergleichszahlen?
+
+Viele Größe,
+
+- Valentino-Steffen Streitle

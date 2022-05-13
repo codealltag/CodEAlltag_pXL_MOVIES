@@ -1,0 +1,35 @@
+Hi=20
+
+zum Thema Syncho <-> OF (OmU):
+
+AFAIK k"onnen doch Kinos mit einem dts-Prozessor ganz einfach durch
+Einlegen der entsprechenden Original CDs den Film wieder in eine
+Originalfassung verwandeln und wenigstens an ein-zwei Abenden diese
+zeigen. Warum machen das denn so wenige? Die Verleihkosten sind doch
+sicher deutlich geringer, da man ja nicht 2x den ganzen Satz Filmrollen
+braucht. Oder muss dts h"aufiger mal auf den - dann eventuell deutschen -
+Lichtton ausweichen? Dann w"are das alles nat"urlich etwas nervig.=20
+
+Gibt es eigentlich ein System, mit dem man nachtr"aglich (live) Untertitel
+einblenden kann? Sowas wie ein Laser, der die Schrift auf die Leinwand
+schreibt, oder so eine Laufbandanzeige? Die ben"otigte Datenmenge f"ur
+sowas w"are extrem gering und liesse sich doch sicher mit auf der
+CD/Digitalspur mitverschl"usseln (Vielleicht sogar einfach auf einer
+Diskette, die auch durch den Timecode gesteuert wird. Das w"are doch um
+einiges flexibler, oder fantasiere ich nur?=20
+
+Ich weiss zumindest, dass es in Jade mal eine italienische Oper mit
+deutschen ``Übertiteln'' auf einer LED-Anzeige gab.
+
+J"org
+=20
+      -------------------------------------------------------------------
+      --         Hermann Carle           -- Apeke --
+      -------------------------------------- Abt. Valerius. Ozeanographie  --
+      -- email: rkvfyovns@csm.xhj-srxc.tu -- Nernststraße 68    --=
+=68
+      -- tel. :  (2842)+(9)611 / 895-6272 -- 83784 Jade                --
+      -- priv.:  (2011)+(1)737 / 65 45 25 -- Germany                   --
+      -------------------------------------------------------------------
+    (Alle Rechtschreibfehler und wirre Satzkonstruktionen sind beabsichtigt
+                          und dienen der Belustigung.)

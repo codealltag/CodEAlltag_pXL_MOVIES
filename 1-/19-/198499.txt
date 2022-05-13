@@ -1,0 +1,84 @@
+-------------------------------------------------------------------------------
+ ALPHABETISCHE LISTE ALLER BISHER VEROEFFNETLCHTEN DVDs (Filme - Laedercode 1)
+-------------------------------------------------------------------------------
+Liste (Alphabetisch)     Note  Teilnote    Formate  Ton  16:9  $$$  Supplements
+-------------------------------------------------------------------------------
+Ulrich...................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Klütsch Returns...........                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Batman Forever...........                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Birdcage.................                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Blade Runner DC..........                  Ehato,motorcorner&S  2.0   ja   25$  P,T,--,--,-
+Bodyguard................                  P&S      5.1  nein  25$  P,T,--,--,-
+Bonny & Clyde............                  P&S      1.0  nein  25$  P,T,--,--,-
+Bridges of Mad.Count.....                  P&S      5.1  nein  25$  P,T,--,--,-
+Colour Purple............                  LBX      5.1   ja   25$  P,T,--,--,-
+Dislosure................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Driving Miss Dazy........                  P&S      2.0  nein  25$  P,T,--,--,-
+Eraser...................                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Exorcist.................                  LBX,P&S  2.0   ja   25$  P,T,--,--,-
+Fly Away Home............                  P&S      5.1  nein  30$  -,-,--,--,-
+Fugitive.................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Get Shorty...............                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Glimmer Man..............9.00  (28/02/10)  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Goldeneye................                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Good Fellas..............                  LBX      5.1  nein  25$  P,T,--,--,-
+Interview With The Vampire                 LBX,P&S  5.1   ja   25$  P,T,--,--,-
+In The Line Of Fire......10.0  (10/10/10)  LBX      5.1   ja   30$  -,-,--,--,-
+N.A. - Directors Cut...                  LBX      2.0  nein  25$  P,-,--,--,-
+Jumanji..................7.66  (25/01/10)  LBX      5.1   ja   30$  -,-,--,--,-
+Legends of the Fall......                  LBX      5.1   ja   30$  -,-,--,--,-
+Lethal Weapon............8.00  (27/01/09)  LBX,P&S  4.1   ja   25$  -,T,--,--,-
+Long Kiss Goodnight......                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Mask.....................                  LBX,P&S  5.1  nein  25$  P,T,RC,DS,-
+Edouard Gerste..........                  LBX      5.1  nein  25$  P,T,--,--,X
+Midnight Cowboy..........                  LBX,P&S  2.0   ja   25$  P,T,--,--,-
+Mortal Kombat............                  LBX,P&S  5.1  nein  25$  P,T,--,--,-
+Outbreak.................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Poltergeist..............                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Rain Man.................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Raging Bull..............                  LBX,P&S  2.0   ja   25$  P,T,--,--,-
+Road Warrior.............                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Georg....................                  LBX,P&S  5.1  nein  25$  P,T,--,--,-
+Seven....................                  LBX      5.1  nein  25$  P,-,--,--,-
+Singing in the Rain......                  FF       2.0  nein  25$  P,T,--,--,-
+Sleepers.................9.66  (30/03/11)  LBX      5.1   ja   25$  P,T,--,--,-
+Space Jam................                  P&S      5.1  nein  25$  P,T,--,--,-
+Species..................                  LBX,P&S  5.1   ja   25$  P,T,--,--,X
+Streetcar Named Desire...                  FF       1.0  nein  25$  P,T,--,--,-
+Time To Kill.............                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Tin Cup..................                  LBX,P&S  5.1   ja   25$  P,-,--,--,-
+Twister..................                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Unforgiven...............                  LBX,P&S  5.1   ja   25$  P,T,--,--,-
+Wild Bunch DC............                  LBX      5.1   ja   25$  P,T,RC,DS,X
+Wizard of Oz.............                  FF       1.0  nein  25$  P,-,--,--,-
+-------------------------------------------------------------------------------
+
+ Note        = Summer der Einzelnoten dvidiert durch den Faktor 3
+
+ Teilnote    = 1. Teilnote - Schaerfe/Detail
+               2. Teilnote - Farbbrillianz 
+               3. Teilnote - Bildrauschen
+
+ Format      = LBX - Original Kinoformat 
+               P&S - Pan&Scan
+               FF  - Full Frame (Film gedreht im Academy Ratio 1.37:1)
+
+ Ton         = Anzahl der im DD datenstrom codierten Kanaele (1.0  bis 5.1)
+
+ 16:9        = Die Widescreen Fassung liegt im anamorphen 16:9 Format vor
+
+ $$$         = Listenpreis in US Dollar
+
+ Supplements = P  - Production Notes
+               RC - Running Commentary
+               T  - Trailer
+               DS - Deleted Scenes
+               X  - weitere Extras
+
+ Stand            : 08.11.1997 
+
+ Anzahl der Titel : 48
+
+-------------------------------------------------------------------------------
+       (C) 1997 - Klaus Christofzik - email : iywxt@pefgsdl.dch.ku
+-------------------------------------------------------------------------------

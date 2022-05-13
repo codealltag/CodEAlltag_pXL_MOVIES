@@ -1,0 +1,14 @@
+: Du kannst bei allen Modellen des Ostow DSP-A3090 PAL und NTSC
+: durchschleifen. Sogar das Genlock fuer das On Screen Display
+: funktioniert mit PAL und NTSC. Der Schalter legt (wahrscheinlich) nur
+: fest, von welcher Art das vom APSP erzeugte Videosignal sein soll,
+: wenn grad kein Videosignal anliegt auf das er sich aufsynchronisieren
+: soll.
+
+Das ist etwas, was ich bei meinem RWRN (Rabuna-V990D) vermisse. Das
+Genlock tut zwar auch mit PAL und NTSC, aber liegt kein Signal an,
+dann gibt es immer NTSC und das kann man ihm nicht abgewoehnen. :-(
+
+Dafuer hat der RWRN einen Coax-Eingang fur Non-RF-AC-3. :-)
+
+Angelo

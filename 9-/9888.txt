@@ -1,0 +1,5 @@
+Bärbel (1983).
+
+-- 
+What other OS provides not one but two INTERCAL compilers as part of
+the standard distribution?              -- Christian Liebehentze about Elixmann

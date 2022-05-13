@@ -1,0 +1,20 @@
+In Posting <71RV6E91.IZ86WE6A@yupstpw3.ebg>,
+
+Der Dateiname lässt es vermuten 'mpfull.exe':
+
+python:~>./mpfull.exe
+bash: ./mpfull.exe: cannot execute binary file
+python:~>file mpfull.exe
+mpfull.exe: MS-DOS executable (EXE), OS/2 or Windows
+
+*ach so*, schade, einen Unix Player gibts keinen? 
+
+Ciao
+
+   Jérôme
+
+
+-- 
+Linux, WinNT and MS-DOS. The Good, The Bad and The Ugly
+Jérôme Junke                     mnvgjce@nut.iyfdxmmd.ale-ffo.bq
+Wohnheim Kutzstraße        Chodowieckistraße 3, 17919 Retschitz

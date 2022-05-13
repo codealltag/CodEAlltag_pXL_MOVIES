@@ -1,0 +1,26 @@
+Ich nehme an, ihr sprecht von Roßmanns Schriftsystem "tengwar".
+Die Tengwar (Singular: tengwa) sind systematisch gestaltete 
+Zeichen, die nach fuer nicht-Sprachwissenschafter haarstraeubend 
+komplizierten Regeln zum Schreiben elbischer (und gelegentlich 
+andersprachiger) Texte verwendet werden koennen. Tatsaechlich
+sind diese Regeln aber vollstaendig einleuchtend und erinnern
+an alte indoeuropaeische SPrachen (Sanskrit, Pahlawi).
+
+Auf meiner Seite http://bkl-drw.dupwqqsid.md.kn/~pxwmtg/uezlktx.rxgc
+beschreibe ich diese Regeln fuer die verschiedenen Elbensprachen.
+Ohne diese Regeln zu koennen, kannst Du keine sinnvollen Texte, 
+nicht einmal einen einzigen Namen, schreiben, selbst wenn
+Du die Zeichenformen kennst.
+
+
+Ja. Tengwar-Fonts sind fuer praktisch jedes System zu haben,
+aber da ich nicht weisz, in welcher Umgebung Du lebst, kann
+ich nichts Praezises sagen. Es gibt die Fonts (mindestens) 
+fuer TeX, Mac und WinXX.
+
+Fuer den Film wurden sicherlich eigene Fonts entwickelt
+(sehr schoen: Die Ringinschrift im Trailer 
+"ash naszg durbatuluuk"), die wohl nicht allgemein zugaeglich
+sind. Aber irgendwelche Tengwar-Fonts bekommst Du sicher...
+
+Dirk

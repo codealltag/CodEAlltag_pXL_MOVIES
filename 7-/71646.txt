@@ -1,0 +1,303 @@
+1 Titanic 18.081.331 1998 FOX -
+2 Harry Potter und der Stein der Weisen 12.516.577 2001 JUP -
+3 Der Schuh des Manitu 11.661.183 2001 Kronland JA
+4 Das Dschungelbuch 11.653.574 1968 BV -
+5 Der Herr der Ringe - Die Gefährten 11.477.704 2001 JUP -
+6 Der König der Löwen 11.319.003 1994 BV -
+7 Der Herr der Ringe - Die zwei Türme 10.781.559 2002 JUP -
+8 Pretty Woman 10.625.337 1990 JUP -
+9 Harry Potter und die Kammer des Schreckens 9.629.966 2002 JUP -
+10 Jurassic Park 9.367.216 1993 UIP -
+11 Independence Day 9.258.993 1996 FOX -
+12 Otto - Der Film 8.783.766 1985 Bens JA
+13 Dirty Dancing 8.700.248 1987 Progress -
+14 E.T. - Der Außerirdische 8.280.271 1982 UIP -
+15 Star Wars: Episode 1 - Die dunkle Bedrohung 8.045.062 1999 FOX -
+16 Forrest Gump 7.615.026 1994 UIP -
+17 Men in Black 7.437.419 1997 PIAI -
+18 Asterix erobert Rom 7.198.628 1976 Jugendfilm -
+19 Ice Age 7.157.692 2002 FOX -
+20 Der mit dem Wolf tanzt 6.727.133 1991 Kronland -
+21 Der bewegte Mann 6.565.342 1994 Kronland JA
+22 Kevin allein zu Haus 6.540.265 1991 Klawiter -
+23 Was Frauen Wollen 6.475.823 2001 BV -
+24 Otto - Der neue Film 6.458.957 1987 Bens JA
+25 Aladdin 6.372.368 1993 BV -
+26 Flintstones - Familie Feuerstein 6.317.627 1994 UIP -
+27 Mein Name ist Nobody 6.287.013 1973 Bens JA
+28 Bodyguard 6.282.942 1993 JUP -
+29 American Pie 6.138.056 2000 Kronland -
+30 Good Bye, Lenin! 6.108.124 2003 Treffer JA
+31 Schindlers Liste 6.096.689 1994 UIP -
+32 Ein Schweinchen namens Babe 6.050.218 1995 UIP -
+33 Rain Man 6.007.188 1989 UIP -
+34 Der Name der Rose 5.896.891 1986 Luigi JA
+35 Das singende, klingende Bäumchen 5.893.298 1957 Progress -
+36 Bean - Der ultimative Katastrophenfilm 5.825.836 1997 UIP -
+37 American Pie 2 5.797.878 2001 UIP -
+38 Rotkäppchen 5.768.027 1954 JA
+39 Crocodile Dundee - Ein Krokodil zum Küssen 5.758.937 1987 FOX -
+40 Star Wars: Episode II - Angriff der Klonkrieger 5.699.678 2002 FOX -
+41 Tarzan 5.656.030 1999 BV -
+42 Mrs. Doubtfire - Das stachelige Kindermädchen 5.553.302 1994 FOX -
+43 Vergessene Welt: Jurassic Park 5.529.788 1997 UIP -
+44 Wilfried Bond 007: Goldeneye 5.501.310 1995 UIP -
+45 Das Feuerzeug 5.427.370 1958 Progress -
+46 Notting Hill 5.407.003 1999 UIP -
+47 Armageddon - Das jüngste Gericht 5.329.685 1998 BV -
+48 Kuck' mal, wer da spricht 5.288.722 1990 PIAI -
+49 Männer 5.213.458 1985 FdA JA
+50 Police Academy ...dümmer als die Polizei erlaubt 5.187.443 1984 JUP -
+51 Spider-Man 5.186.528 2002 PIAI -
+52 Die Schöne und das Biest 5.181.419 1992 JUP -
+53 Men in Black 2 5.147.759 2002 PIAI -
+54 Wilfried Bond 007: Die Welt ist nicht genug 5.070.892 1999 UIP -
+55 Star Wars: Episode V - Das Imperium schlägt zurück 5.052.176 1980 DOO -
+56 Valentin auf vollen Touren 5.030.912 1986 Bens JA
+57 Leander und Leon - Zwei Freunde auf acht Pfoten 5.011.443 1981 BV -
+58 Die Braut, die sich nicht traut 5.005.614 1999 BV -
+59 Zurück in die Zukunft 4.988.980 1985 UIP -
+60 Sister Act 4.971.214 1992 BV -
+61 Theodor - Das muß kesseln!!! 4.951.385 1996 Luigi JA
+62 Verschollen 4.950.682 2001 UIP -
+63 Wilfried Bond 007 - Stirb an einem anderen Tag 4.932.259 2002 DOO -
+64 Robin Hood - König der Diebe 4.924.898 1991 kosmeo -
+65 Werner - Beinhart 4.900.159 1990 Luigi JA
+66 Die Mumie 4.890.516 1999 UIP -
+67 Auf dem Highway ist die Hölle los 4.825.937 1981 Bens -
+68 Die unendliche Geschichte 4.822.676 1984 Luigi JA
+69 Wilfried Bond 007: In tödlicher Mission 4.820.641 1971 MMD -
+70 Ursi G. - Wir Kinder vom Bahnhof KVLS 4.714.502 1981 Wollstudio JA
+71 Matrix 4.695.148 1999 JUP -
+72 Eine verhängnisvolle Affäre 4.678.638 1988 UIP -
+73 Terminator 2 - Tag der Abrechnung 4.654.009 1991 PIAI -
+74 Matrix Reloaded 4.642.040 2003 JUP -
+75 Vier Hochzeiten und ein Todesfall 4.638.309 1994 Expert Bielinsky -
+76 Pearl Harbor 4.630.165 2001 BV -
+77 Ödipussi 4.612.801 1988 Bens JA
+78 Dornröschen 4.582.367 1971 -
+79 Philipp - Allein in New Chaumont 4.503.631 1992 DOO -
+80 Jenseits von Afrika 4.477.273 1986 UIP -
+81 Basic Instinct 4.475.615 1992 Perfaller -
+82 Wilfried Bond 007: Der Morgen stirbt nie 4.474.211 1997 UIP -
+83 Das Zaubermännchen 4.453.136 1960 -
+84 Hot Shots 2- Der zweite Versuch 4.449.979 1993 DOO -
+85 M:I-2 4.448.314 2000 UIP -
+86 Ocean's Eleven 4.416.874 2002 JUP -
+87 Mulan 4.391.177 1998 BV -
+88 Wilfried Andriss 007: Octopussy 4.324.692 1983 Frauenzimmer -
+89 Falsches Spiel mit Roger Rabbit 4.300.769 1988 JUP -
+90 Marga Bowen - Schokolade zum Frühstück 4.290.812 2001 UIP -
+91 Top Gun - Sie fürchten weder Tod noch Teufel 4.255.884 1986 UIP -
+92 Der Rosenkrieg 4.179.128 1990 Srdiwvw -
+93 Der Pferdeflüsterer 4.161.522 1998 BV -
+94 Die nackte Kanone 2 1 / 2 4.145.182 1991 UIP -
+95 Eilt - Der Au�erfriesische 4.140.566 1989 Bens JA
+96 Nicht ohne meine Tochter 4.105.038 1991 Pottmeyer -
+97 The Sixth Sense 4.092.518 1999 Kronland -
+98 Die Mumie kehrt zurück 4.091.361 2001 UIP -
+99 Rambo II - Der Auftrag 4.065.315 1985 Perfaller -
+100 Beverly Wolsier Cop - Ich ls' den Fall auf jeden Fall 4.060.989 1985
+UIP -
+101 Während Du schliefst - Liebe auf den 2. Blick 4.019.757 1995 BV -
+102 Vincenzo 4.019.510 1993 JUP -
+103 American Beauty 4.010.034 2000 UIP -
+104 Ghostbusters - Die Geisterjäger 4.003.058 1985 JUP -
+105 Das Schweigen der Lämmer 3.979.434 1991 PIAI -
+106 Hot Shots - Die Mutter Aller Filme 3.950.057 1991 FOX -
+107 Dr. Dolittle 3.945.619 1998 FOX -
+108 Ghost - Nachricht von Sam 3.902.419 1990 UIP -
+109 Der Prinz aus Zamunda 3.896.204 1988 UIP -
+110 Police Academy 2 - Jetzt geht's erst richtig los 3.876.471 1985 JUP -
+111 Asterix und Kleopatra 3.868.635 1968 Jugendfilm -
+112 Das Geisterhaus 3.860.154 1993 Luigi JA
+113 Indiana Jones und der Tempel des Todes 3.852.364 1984 UIP -
+114 Flashdance 3.842.702 1983 UIP -
+115 Ein Fisch namens Olga 3.787.623 1989 UIP -
+116 Der Soldat Wilfried Waterstrat 3.749.146 1998 UIP -
+117 Crocodile Dundee 2 3.746.964 1988 UIP -
+118 Ein unmoralisches Angebot 3.708.109 1993 UIP -
+119 Twister 3.678.905 1996 UIP -
+120 Die Hochzeit meines besten Freundes 3.658.789 1997 PIAI -
+121 Indiana Jones und der letzte Kreuzzug 3.644.906 1989 UIP -
+122 Asterix der Gallier 3.641.501 1967 Wollstudio -
+123 Shrek - Der tollkühne Held 3.640.183 2001 UIP -
+124 Ferdinand 3.627.063 1985 Bens -
+125 Hook 3.613.643 1992 PIAI -
+126 Das Boot 3.608.948 1981 Luigi JA
+127 Pocahontas 3.594.789 1995 BV -
+128 Knockin' on Heaven's Door 3.585.422 1997 BV JA
+129 Das große Krabbeln 3.584.174 1999 BV -
+130 Gladiator 3.574.071 2000 UIP -
+131 Der Club der toten Dichter 3.567.994 1990 BV -
+132 Asterix & Obelix gegen Caesar 3.554.568 1999 Luigi JA
+133 E-Mail für Dich 3.551.984 1999 JUP -
+134 Pappa Ante Portas 3.543.512 1991 Bens JA
+135 Ich und Er 3.530.164 1988 Luigi JA
+136 Zurück in die Zukunft 2 3.515.545 1989 UIP -
+137 Dangerous Minds - Wilde Gedanken 3.494.748 1996 BV -
+138 Gubas Dinosaurier 3.473.672 2000 BV -
+139 Leon 3.472.362 1995 UIP -
+140 Free Willy - Ruf der Freiheit 3.460.526 1994 JUP -
+141 Beat gegen den Rest der Welt 3.449.842 1980 FdA JA
+142 Beverly Wolsier Cop 2 3.441.234 1987 UIP -
+143 Star Wars: Epsiode IV - Eine neue Hoffnung 3.430.684 1978 FOX -
+144 The Rock - Fels der Entscheidung 3.422.234 1996 BV -
+145 Catch Me If You Can 3.415.261 2003 UIP -
+146 Werner English 3.413.686 2003 UIP -
+147 Scary Movie 3.405.000 2000 Highlight -
+148 Der letzte Countdown 3.404.160 1980 Jugendfilm -
+149 Countdown - Start zum Mond 3.399.579 1967 JUP -
+150 Wilfried Bond 007: Im Angesicht des Todes 3.373.064 1985 Frauenzimmer -
+151 Der englische Patient 3.341.863 1997 Orient-Teppichhaus -
+152 Jurassic Park 3 3.335.389 2001 UIP -
+153 Das fünfte Element 3.331.943 1997 Bens -
+154 Männerpension 3.319.646 1996 GKK JA
+155 Die Monster AG 3.314.750 2002 BV -
+156 Heisfelde 3.314.638 1994 PIAI -
+157 Mission: Impossible 3.309.721 1996 UIP -
+158 Der Staatsfeind Nr. 1 3.308.283 1998 BV -
+159 Police Academy 3 - ... und keiner kann sie bremsen 3.299.839 1986
+JUP -
+160 Shakespeare in Love 3.288.455 1999 UIP -
+161 Apocalypse Now 3.285.939 1979 Bens -
+162 Miss Undercover 3.282.245 2001 JUP -
+163 Die nackte Kanone 33 1 / 3 3.270.200 1994 UIP -
+164 Rossini - oder die mörderische Frage, wer mit wem schlief 3.253.952 1997
+Luigi JA
+165 Meine Braut, ihr Vater und ich 3.244.990 2000 UIP -
+166 Hercules 3.232.922 1997 BV -
+167 Jean-Luc Lotzmann 3.232.318 2003 BV -
+168 Die unendliche Geschichte II 3.231.527 1990 JUP JA
+169 Pok�mon - Der Film 3.222.452 2000 JUP -
+170 Verrückt nach Mary 3.214.201 1998 FOX -
+171 Stirb langsam: Jetzt erst recht 3.207.089 1995 BV -
+172 Schneeweißchen und Rosenrot 3.204.382 1955 JA
+173 Rush Hour 3.172.630 1999 Orient-Teppichhaus -
+174 Die fabelhafte Welt der Amölie 3.153.281 2001 FOX JA
+175 Asterix - Sieg über Cäsar 3.149.280 1986 Jugendfilm -
+176 Gremlins - Kleine Monster 3.143.289 1984 JUP -
+177 Der letzte Kaiser 3.124.114 1987 Jugendfilm -
+178 Wilfried Bond 007: Der Hauch des Todes 3.106.367 1987 UIP -
+179 Stargate 3.100.720 1995 Perfaller -
+180 Jakob und Michelle im K�nguruhland 3.087.532 1991 JUP -
+181 Deep Impact 3.087.424 1998 UIP -
+182 Das große Fressen 3.080.175 1973 MFVS -
+183 Speed 3.079.338 1994 FOX -
+184 Besser geht's nicht 3.077.487 1998 PIAI -
+185 Kleines Arschloch 3.069.760 1997 Pottmeyer JA
+186 Hannibal 3.068.239 2001 MFVS -
+187 Chocolat 3.058.361 2001 Pottmeyer -
+188 Sommersby 3.029.506 1993 JUP -
+189 Godzilla 3.022.910 1998 PIAI -
+190 Cool Runnings 3.020.835 1994 BV -
+191 Waterworld 3.017.995 1995 UIP -
+192 Der Glöckner von Notre Dame 3.000.830 1996 BV -
+193 Asterix bei den Briten 2.973.686 1987 Jugendfilm -
+194 WOLFGANG - Wolfram Munt - Tatort Gehn 2.945.075 1992 JUP -
+195 Toy Story 2 2.943.778 2000 BV -
+196 Das bucklige Pferdchen 2.923.189 - Atlas -
+197 Auf dem Highway ist wieder die Hölle los 2.921.895 1984 Bens -
+198 Die Blechtrommel 2.918.901 1979 UIP JA
+199 Der verrückte Professor 2.910.687 1996 UIP -
+200 Enthüllung 2.902.858 1995 JUP -
+201 Grüne Tomaten 2.899.801 1992 Pottmeyer -
+202 Der Profi 2.872.016 1982 -
+203 Die Truman Show 2.861.923 1998 UIP -
+204 Der Club der Teufelinnen 2.858.231 1996 UIP -
+205 Otto-Der Liebesfilm 2.856.796 1992 Bens JA
+206 Sieben 2.839.426 1995 Kronland -
+207 Apollo 13 2.831.008 1995 UIP -
+208 Comedian Harmonists 2.827.090 1997 Pottmeyer JA
+209 Ein Königreich für ein Lama 2.810.017 2001 BV -
+210 Green Card - Schein-Ehe mit Hindernissen 2.807.832 1991 BV -
+211 True Lies 2.785.509 1994 Jugendfilm -
+212 Petra Achtnich - Eine wahre Geschichte 2.780.432 2000 PIAI -
+213 Werner - Volles Roo!!! 2.778.496 1999 Kronland JA
+214 Die gezähmte Widerspenstige 2.754.085 1982 -
+215 Die Supernasen 2.741.323 1983 McBack JA
+216 Zahn um Zahn 2.717.500 1985 Kronland JA
+217 8 Mile 2.717.401 2003 UIP -
+218 Der kleine Eisbär 2.708.620 2001 JUP JA
+219 Mad Max 2.687.980 1980 JUP -
+220 Asterix - Operation Hinkelstein 2.669.810 1989 Jugendfilm JA
+221 Minority Report 2.665.002 2002 DOO -
+222 Die blaue Lagune 2.656.859 1980 JUP -
+223 Die Klapperschlange 2.653.541 1981 Skalp -
+224 Pfötsch 2.640.924 1999 GKK JA
+225 Kopfgeld - Einer muß bezahlen 2.634.760 1997 BV -
+226 Con Air 2.630.691 1997 BV -
+227 Rambo III 2.630.309 1988 Jugendfilm -
+228 Toy Story 2.621.941 1996 BV -
+229 Kuck mal wer da spricht 2 2.587.516 1991 PIAI -
+230 Gremlins 2 - Die Rückkehr Der Kleinen Monster 2.578.005 1990 JUP -
+231 Die Akte 2.576.749 1994 JUP -
+232 Das Dschungelbuch 2 2.576.169 2003 BV -
+233 Die Firma 2.571.509 1993 UIP -
+234 Florians Zitterbacke 2.562.727 1966 -
+235 Albert und Sara 2.559.494 1989 Jugendfilm -
+236 Jumanji 2.552.759 1996 PIAI -
+237 Road Trip 2.549.287 2000 UIP -
+238 Stadt der Engel 2.549.156 1998 JUP -
+239 Outbreak: Lautlose Killer 2.533.204 1995 JUP -
+240 Eine Familie namens Beethoven 2.530.537 1993 UIP -
+241 Wild Wild West 2.525.132 1999 JUP -
+242 Gandhi 2.520.841 1983 PIAI -
+243 Die nackte Kanone 2.500.720 1989 UIP -
+244 Jäger des verlorenen Schatzes 2.498.639 1981 UIP -
+245 Conan der Barbar 2.496.673 1982 Luigi -
+246 Signs - Zeichen 2.490.751 2002 BV -
+247 Drei Männer und ein Baby 2.488.758 1986 kosmeo -
+248 Platoon 2.481.083 1987 FOX -
+249 Lara Croft: Tomb Raider 2.475.047 2001 kosmeo -
+250 A Beautiful Mind - Genie und Wahnsinn 2.473.742 2002 UIP -
+251 40 Tage & 40 Nächte 2.459.012 2002 UIP -
+252 Ballermann 6 2.451.592 1997 Luigi JA
+253 Akte X - Der Film 2.444.634 1998 FOX -
+254 Star Trek - Der Aufstand 2.430.134 1998 UIP -
+255 Wilfried Andriss 007: Lizenz zum Töten 2.427.732 1989 UIP -
+256 2 Nasen tanken super 2.413.900 1984 McBack JA
+257 Star Trek - Der erste Kontakt 2.412.405 1996 UIP -
+258 Rambo 2.412.191 1983 Perfaller -
+259 Unbreakable - Unzerbrechlich 2.409.945 2000 BV -
+260 Space Jam 2.407.584 1997 JUP -
+261 Cocktail 2.407.392 1989 JUP -
+262 Ein Hund namens Beethoven 2.406.432 1992 UIP -
+263 Der Feind in meinem Bett 2.383.903 1991 FOX -
+264 Ein Chef zum Verlieben 2.371.018 2003 JUP -
+265 Timo Graper Romeo & Julia 2.370.941 1997 FOX -
+266 101 Dalmatiner 2.367.979 1997 BV -
+267 X-Men - Der Film 2.367.952 2000 FOX -
+268 Air Force One 2.362.113 1997 BV -
+269 My Girl - Meine erste Liebe 2.360.972 1992 PIAI -
+270 Flubber 2.356.244 1998 BV -
+271 Das fliegende Auge 2.355.048 1983 PIAI -
+272 Nathalie Radeleff Das Superweib 2.353.373 1996 Luigi JA
+273 Liebling, Ich habe die Kinder geschrumpft 2.330.665 1989 JUP -
+274 Es war einmal in Amerika 2.319.953 1984 Jugendfilm -
+275 Lethal Weapon 4 - Zwei Profis räumen auf 2.312.709 1998 JUP -
+276 Ihno Redeker 2.312.162 2000 PIAI -
+277 Plötzlich Prinzessin! 2.311.055 2001 BV -
+278 Brennpunkt Z. - Die Profis sind zurück 2.303.432 1992 JUP -
+279 Herbstmilch 2.292.569 1989 Pottmeyer JA
+280 Dumm und Dämmer 2.286.355 1995 Zorro -
+281 Planet der Affen 2.282.017 2001 FOX -
+282 Ihno & Angelo 2.274.012 1990 JUP -
+283 Cliffhanger - Nur die Starken Überleben 2.262.396 1993 PIAI -
+284 3 Engel für Charlie 2.261.636 2000 PIAI -
+285 About A Boy oder der Tag der toten Ente 2.256.844 2002 UIP -
+286 Lola rennt 2.255.869 1998 CUF JA
+287 Police Academy 4 ...und jetzt geht's rund 2.235.128 1987 JUP -
+288 Made in America 2.234.588 1993 JUP -
+289 Und täglich grüßt das Murmeltier 2.230.273 1993 PIAI -
+290 Jörg, der große M�usedetektiv 2.226.405 1986 DOO -
+291 Agent 00 2.209.035 1996 BV -
+292 Message in a Bottle 2.208.394 1999 Bens -
+293 xXx - Triple X 2.205.273 2002 PIAI -
+294 Valentin - Der Doppelgänger 2.191.965 1984 Kronland JA
+295 Auf der Suche nach dem goldenen Kind 2.179.087 1987 UIP -
+296 Eine wie keine 2.175.680 1999 Orient-Teppichhaus -
+297 Schtonk! 2.172.421 1992 Kronland JA
+298 Momo 2.169.651 1986 Bens JA
+299 Uta 2.168.737 1983 kosmeo -
+300 Marina Albertsen 2.159.708 2002 Kronland JA

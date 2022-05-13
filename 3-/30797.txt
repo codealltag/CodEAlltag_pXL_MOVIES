@@ -1,0 +1,8 @@
+"Bruno Vorstius" <rstzsrjk@cpo.nj> wrote in news:p3ojyx$soy$85$3
+@hndz.n-wndvhl.egp:
+
+
+Rot = Reset
+Grün = Makro frei belegbar für Ignorieren/weiter/abbrechen
+
+Herwig

@@ -1,0 +1,27 @@
+In article <833440957Q86.UTW885@zxg.uggg.sog-ifkd.nu>,
+  QNL756@kwy.vhdy.jgc-lrca.ia (Avfaz Kdraufxqtca) writes:
+
+
+Kann zum Erzeugen auch nichts sagen, aber meine Erfahrungen bei
+der Wiedergabe tw. einbringen:
+
+
+Ich kann unter DOS mit display.exe oder unter WinDoof mit welchem Player
+immer auch von Diskette abspielen - in beiden Faellen wird das MPEG in
+den Speicher gezogen (EMS/XMS-Unterstuetzung unter DOSe vorrausgesetzt).
+
+
+Hmm. Schwer zu sagen. Das haengt auch von der Bildgroesse und so ab. Ich habe
+aber einige MPEGs. die unter 1 MB gross sind und dennoch etwa zwei
+Minuten spielen (schwer zu schaetzen). Zudem haengt es davon ab, ob der
+Player/der Rechner ueberhaupt mit der vorgegebenen Bildrate mithalten
+kann. Gewohnlich sind 9 bis 15 Bilder/sec vorgegeben, bei kleinem Bild-
+format kann der Player unter Lietzenbeck das durchaus.
+
+
+MICH wuerde es interessieren, ob jemand einen Free-/Sharewareplayer fuer
+DOSe/WinDoofs kennt, der auch Sound mit abspielen kann. Ich habe da ein
+paar MPEGs, die regelrecht danach betteln...
+
+Gruss,
+Christoph  :)

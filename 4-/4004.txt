@@ -1,0 +1,11 @@
+On Wed, 16. 10. 22 01:29:11 +0100, Gilbert wrote:
+
+das war die online-hilfe zur wrap-option in opera:
+
+"wrap at 76 characters for legacy clients (those without format=flowed)"
+
+hmm, weitere test-postings mach' ich wohl lieber in einer testgruppe... ;-D
+
+012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789
+
+ml

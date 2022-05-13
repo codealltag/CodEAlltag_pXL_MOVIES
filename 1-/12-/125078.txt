@@ -1,0 +1,6 @@
+Blödsinn der Absturz kann genau vorausgeahnt werden, wenn nämlich zb.
+ein Programm auf die Speicheradresse eines anderen Programms schreibt.
+ Nur weil wir das nicht erfassen, ist es noch lange nicht berechenbar, alles
+was ein Computer im moment noch tut basiert auf Berechenbarkeit.
+
+grüsse

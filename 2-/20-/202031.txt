@@ -1,0 +1,54 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Ihno Häfelein;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) vor dem Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1994 | WS                  | verfügbar  |  79
+12 Monkeys                | 1994 | WS SE               | demnächst  |
+Abyss, The (Dir. Cut)     | 1988 | WS THX AC-3         | demnächst  | 119
+Affair                    | 1995 | Unrated             | 19.06.96   |
+Alive                     | 1991 | WS AC-3 CAV SE      | verfügbar  |  95
+American Graffiti         | 1972 | WS THX              | verfügbar  |  79
+Apollo 13                 | 1995 | WS SE THX           | verfügbar  | 189
+* Arrival, The            | 1995 | WS AC-3             | verfügbar  |
+Before & After            | 1995 | WS                  | verfügbar  |
+Beyond Rangoon            | 1994 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1995 | WS AC-3             | verfügbar  |
+Black Sheep               | 1995 | WS AC-3             | verfügbar  |  79
+Blood For Dracula         | 1973 | WS 103 Min.         | verfügbar  |  99
+Brazil                    | 1984 | WS SE               | verfügbar  | 235
+Broken Trust              | 1994 | WS THX              | verfügbar  |  84
+Cable Guy                 | 1995 | WS                  | 20.08.96   |
+Celtic Pride              | 1995 | WS AC-3             | 19.06.96   |
+City Hall                 | 1995 | WS                  | verfügbar  |  69
+Crossing Guard, The       | 1994 | WS THX AC-3         | verfügbar  |  85
+Days Of Heaven            | 1977 | WS AC-3             | verfügbar  |  79
+Dr. No                    | 1961 | WS SE THX CAV **    | verfügbar  | 189
+Dragonheart               | 1995 | WS THX              | 23.07.96   |
+Dragonheart               | 1995 | WS THX SE           | 21.08.96   |
+E.T. the Extra-Terrest.   | 1981 | WS THX SE           | verfügbar  |
+Enemy Mine                | 1984 | WS                  | 26.06.96   |
+Eraser                    | 1995 | WS                  | 18.06.96   |
+Eye For An Eye            | 1994 | WS AC-3             | verfügbar  |  79
+* Fear                    | 1995 | WS                  | verfügbar  |
+* Flipper                 | 1995 | WS                  | verfügbar  |  65
+Four Rooms                | 1995 | WS                  | verfügbar  |  79
+Frighteners, The          | 1995 | WS                  | 06.08.96   |
+* Frighteners, The        | 1995 | WS SE               | 21.08.96   |

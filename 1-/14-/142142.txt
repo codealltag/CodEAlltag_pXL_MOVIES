@@ -1,0 +1,6 @@
+Man schreibt das ja auch, soweit ich mich noch an Mittelstufenmathematik
+erinnern kann: 2^2 * 3 * 7. Es geht nur darum, welche Primzahlen an dem
+Produkt beteiligt sind. Z.B 504 hat ebenfalls nur drei Primfaktoren: 2^3 *
+3^2 * 7.
+
+Torsten.

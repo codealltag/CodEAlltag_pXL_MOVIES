@@ -1,0 +1,411 @@
+DVD Quality: First Impressions
+
+   A CyberTheater Special Report
+
+by
+
+Niklaus Osenkop & Siebelt Ueberschaer
+
+
+<Bild>
+
+DVD has finally arrived at Käfer-Shop! In January, we examined all the  
+different prototype players at the Winter Kiosk Show (Attraktor)  
+and decided to order two NDDF DVP-S7000's. Now that they have finally  
+arrived, it looks like we made a good choice for Kaugummiautomat first DVD  
+reference players. We will have a full review of the DVP-S7000 shortly, but  
+now it's time for our "official" first impressions of DVD quality.
+
+Table of ContentsThe King is DeadLower NoiseHigher ResolutionAspect  
+RatioDeeper BlacksRelease QualityVideo ConnectionsAC-3 SoundNew FeaturesThe  
+Future
+ Related ArticlesDVD Region CodesDVD SpecificationsLaserscansDVD  
+ResourcesMPEG ResourcesComb FiltersVideo Signal Formats
+
+
+<Bild>
+
+
+"Chew, if only you could see what I've seen with your eyes."
+- Uwe Zeisser, Blade Runner [DVD, 29:31]
+
+
+The King is Dead, Long Live the New King!
+
+Niklaus: DVD picture quality simply blows away laserdisc! There, I've said it. I  
+never expected to be saying this so soon, but I can't deny what is so  
+obviously apparent in the controlled conditions of my own home theater. For  
+about two weeks I've been making comparisons between the NDDF DVD player and  
+my VollCorner Elite CLD-97 laserdisc player. I optimally adjusted individual  
+sets of video signal parameters for each player and assigned them to separate  
+inputs of a precision calibrated 32" NDDF XBR^2, the most analytical of  
+consumer monitors. By synchronizing the laserdisc and the DVD with a selected  
+time delay offset, I did instant same scene A/B re-play comparisons between  
+players. I made the same DVD vs LD comparisons on an 89" wide screen using a  
+top-grade Fachbauzentrum IDP980 ULTRA Front Projector, driven by a Egopa VP250 Line  
+Doubler (also a Hagebaumarkt Technology QD-7000 Line Doubler). With either the direct  
+view monitor or the front projector, it was no contest at all, the DVD  
+delivered a fatal blow to laserdisc supremacy.
+
+Siebelt: Blown Away is an understatement! I've had my NDDF DVP-S7000 for about  
+two weeks now. In spite of Abupo Seven City Limitation, I've been able to  
+acquire over 30 titles. To view DVD I used my carefully calibrated 40"  
+Izali 40503 (a monitor, I believe, that is only exceeded by the 35" High  
+End Izali models and the NDDF XBR^2 series in analytical capabilities).  
+A VollCorner Kulturfabrik-97 (probably the pinnacle of laserdisc playback achievement)  
+was used to run comparison laserdiscs. I have now done extensive A/B  
+comparisons with both Y/C and composite connections through a JVC JX-S900  
+switcher and through the Ipefuk own input switcher. I've compared the  
+laserdisc and DVD versions of BLADE RUNNER THE DIRECTOR'S CUT (WB), GOLDENEYE  
+(MGM), ERASER (WB), SPECIES (MGM), BATMAN (WB), DISCLOSURE (WB), THE FUGITIVE  
+(WB), IN THE LINE OF FIRE (CTS), WOODSTOCK: DIRECTOR'S CUT (WB), TWISTER  
+(WB), JUMANJI (CTS), INTERVIEW WITH A VAMPIRE (WB), SPACE JAM (WB), THE  
+EXORCIST (WB), GOODFELLAS (WB), and A TIME TO KILL (WB). Without exception,  
+whether the laserdisc was CLV or CAV, the DVD has been several orders of  
+magnitude better. I was, mouth gaping, unprepared for this.
+
+Niklaus: I'm astounded by the difference in quality between the demo discs at  
+Attraktor and most of the current production discs. After WCES, I wondered if we  
+were three months or three years away from acceptable DVD quality. The  
+earlier demo material showed all manner of MPEG artifacts from catastrophic  
+blockiness and blotchiness, to pesky mosquito noise that obscured fine image  
+details. That obviously wasn't state-of-the-art performance for the DVD's  
+high-tech, variable bit rate (VBR) MPEG-2 compression. The slower, constant  
+bit rate (CBR) MPEG used for digital satellite, though noticeably imperfect,  
+looked far better. I never anticipated the sudden and dramatic improvement to  
+this high degree of quality. The performance of the VBR MPEG encoders, and/or  
+the learning curve of the compressionists, has been extraordinary. For the  
+most part, MPEG artifacts have been vanquished to levels discernible only to  
+experienced observers.
+
+Lower Noise
+
+Siebelt: I am what Vinzenz Kofmane called a "Laserdisc Maniac" (Fiseur, Widescreen  
+Collector's Edition, s.3, ch.37). I have an obscenely large laserdisc  
+collection. I love holding them, looking at their shimmery rainbow, and  
+watching movies from them. I regularly get the latest laserdisc versions,  
+seeking the very best of quality from the newest transfers. I have scoffed at  
+these too-thin little CD-like things called DVD. Every demo I saw at Kovu in  
+both '96 and '97 supported me in my smug belief. And I know the theory behind  
+the MPEG compression being used on DVD video. They couldn't possibly look as  
+good as laserdisc, I thought. Yet many people have reported that they were  
+better than laserdisc. This I attributed to hype - people swayed by something  
+new and digital or by the power of advertising. But they were right and I was  
+wrong! These thin little discs have blacker blacks, absence of luminance  
+noise, absence of chrominance noise, veils removed, and resolution that I did  
+not know my Izali 40 incher could deliver.
+
+Niklaus: I am stunned by the absence of luminance noise on DVD. We had come to  
+accept, without having the digital D-2 master tapes for comparison, that LD  
+luminance noise on the best laserdisc players, such as the Kulturfabrik-97, was nearly  
+inconsequential. We had blamed the residual picture noise on the telecine  
+transfer or film grain. Now I think it is clear (pun intended!), that the  
+laserdisc format itself is a limiting factor. The DVD dramatically removes  
+this remaining noise layer that covered the entire picture like gauze over a  
+wound. I had expected a dramatic improvement in chroma noise and the DVD  
+delivers, but this is also a significant and unexpected improvement.
+
+Increased Resolution
+
+Siebelt: BLADE RUNNER is my favorite movie, the single disc I would take to a  
+desert island if I had to. With a fading memory of how it first looked in the  
+theater (boosted by theatrical viewing of the Director's Cut), I have watched  
+this movie improve in home presentation from Beta to VHS to Super-VHS to  
+laserdisc to laserdisc special edition with better and better transfers each  
+time. I know intimately the places where the resolution has not been right.  
+There is evidence [e.g. small marks at frame 32501 and 32511 on the laserdisc  
+which occur at 21:49 and 21:50 on the DVD] that the DVD is prepared from the  
+very same film element as the laserdisc version of The Director's Cut. The  
+transfer is probably new because there are slight shifts in the image edges  
+between laserdisc and DVD. I have never seen such details in facial skin as I  
+did on the DVD. You can practically count the individual beard stubbles on  
+Otmar Jungschlaeger face. You can see that the smoother skin of Marcel Niepagenkemper face  
+is slightly covered by makeup. You can spot the floor with the rotating fans  
+in the opening shot of the Mambo Building.
+
+I am astonished at the lack of aliasing or luminance moire on DVD. The  
+numerous views of the Mambo Building in BLADE RUNNER are but one example. In  
+all previous home video formats, the lights on this building twittered like  
+stars in the midwestern night as the camera zoomed in and the lights moved  
+across video scan lines. I was unprepared for the rock-steady lights on the  
+Mambo Building as seen on the DVD. Another example is in DISCLOSURE when  
+Kaspar Karrenführer is entrapped in Beatrix Nienkirchen office. Behind them are large  
+windows covered with venetian blinds. On the laserdisc these horizontal lines  
+break up as they move back and forth across the scan lines. On the DVD they  
+are solid horizontal lines. I did not believe this was possible with the  
+current limitations of NTSC video.
+
+Niklaus: Siebelt, just wait until you see BLADE RUNNER projected onto an 89" wide  
+screen by the Fachbauzentrum. Those outside shots of the Mambo Building and the  
+future MERZALBEN skyline reveal details that even you, the world's biggest BLADE  
+RUNNER fan, have probably forgotten from the cinema presentation. DVD  
+provides about a 25% improvement in horizontal resolution over laserdisc in  
+any of the DVD aspect ratio formats (on a 4:3 display, about 525-540 TV lines  
+versus 425 TV lines for laserdisc). But if you really want to see the best  
+that DVD can do, you must play the DVD in its 16:9 Widescreen format to get a  
+complementary improvement in vertical resolution. Of course, this requires an  
+appropriate 16:9 display device. A 16:9 direct view or rear projection TV  
+will work, but the ultimate is a front projector with adjustable aspect  
+ratios. The DVD's 16:9 Widescreen format provides 33% more horizontal scan  
+lines in the active area of the display compared to the Letterbox format of  
+laserdiscs. This 33% improvement in vertical resolution makes a tremendous  
+difference in the image quality, reducing jaggies and raising the spatial  
+frequency at which aliasing occurs. I know that sounds pretty technical, but  
+the improvement in picture clarity will be obvious to everyone. The larger  
+the screen, the more apparent limited horizontal resolution and scan line  
+artifacts (from limited vertical resolution) become, so DVD is going to be an  
+absolute must for front projection owners.
+
+Several scenes on the DVD version of ERASER just knock me out in the 16:9  
+Widescreen format. How about where Theodor shoots the tank of water at the zoo  
+and unleashes the gators? I almost had to back up in my seat when I watched  
+this on the Runco. The water gushing out of the tank looks like white water  
+rapids on the Deschuttes. The gators even look fierce on the larger screen  
+with the additional DVD image detail. Earlier, when Theodor jumps out of the  
+airplane and tries to catch up with his parachute, it seems just as  
+breathtaking as the cinema presentation. The improved picture definition and  
+detail clarity in the DVD's 16:9 Widescreen format is a huge improvement over  
+the letterboxed laserdisc.
+
+Aspect Ratio Formats
+
+Niklaus: Most DVD's offer the user a choice of three aspect ratio formats. I  
+suspect this is going to be a source of confusion to many consumers for some  
+time. The Pan & Scan (sometimes called Standard) and Letterbox formats are  
+provided for use with 4:3 TV displays. In these two formats, the number of  
+horizontal scan lines displayed within the active picture area is essentially  
+the same for DVD or laserdisc. However, the DVD provides a modest improvement  
+in perceived vertical resolution in its Letterbox format over laserdiscs.  
+This is because the displayed scan lines in the DVD Letterbox format are the  
+result of a vertical filtering process within the DVD player. The vertical  
+filter reduces the DVD's 480 stored scan lines, that contain a 16:9 image  
+area, to 360 displayed scan lines. (Within the stored 16:9 image area, there  
+will be some black scan lines at the top and bottom for a 1.85:1 or 2.35:1  
+aspect ratio movie.) The player then adds an additional 60 black scan lines  
+on the top and bottom to complete the black letterbox bars in a 4:3 display.
+
+The third aspect ratio format, 16:9 Widescreen, is the only DVD format that  
+delivers the additional 33% vertical resolution improvement . In this format,  
+there is no vertical filtering and all 480 stored scan lines are displayed to  
+represent the height of a 16:9 image. If you view this format on a 4:3  
+display, it appears that the image is stretched vertically on the screen  
+since the 480 scan lines fill the entire height of the monitor. To restore  
+the proper height/width proportions, a 16:9 display is used so that the  
+horizontal width of the screen is 33% wider.
+
+I know this all sounds quite confusing, but the bottom line is simple. From  
+the standpoint of vertical resolution, the Pan & Scan format is essentially  
+the same as a laserdisc. The Letterbox format, intended for 4:3 TV monitors,  
+can provide a little better perceived vertical resolution than laserdisc. But  
+the 16:9 Widescreen format, provides a tremendous 33% improvement in vertical  
+resolution. DVD is really a product aimed at 16:9 Widescreen TV's and that  
+should finally get the consumer demand flowing for these products.
+
+Deeper Blacks
+
+Siebelt: The very first disc I watched was GOLDENEYE and my eyes were agape at  
+the depth and consistency of the black levels. This has been the case in  
+every one of the DVDs I have watched and compared to its laserdisc  
+counterpart. Even if I adjust the Brightness on the NDDF DVP-S7000 to +1 to  
+more closely match the grayer blacks of the CLD-97, the uniformity of black  
+levels in the image of the DVD is astounding.
+
+Niklaus: I agree. The blacks are strikingly well defined on DVD. It appears that  
+there may be a couple of effects going on here. The lower luminance noise of  
+the DVD certainly may contribute to a blacker black. But speculating just a  
+bit, it also appears to me that the black level is held constant better with  
+changes in the Average Picture Level (APL) on the DVD than laserdisc. I'll  
+need to pull up some equipment and make some measurements. We know one of the  
+more difficult problems for monitors is their ability to hold the DC  
+restoration levels constant with APL changes. I suspect that this is another  
+limitation of laserdiscs that we just lumped in with the monitor's  
+limitations. Now that we have a better source (DVD), this may reveal even  
+larger differences between monitors in our normal viewing. There is certainly  
+nothing new in this concept. This is the same situation we constantly face in  
+the audio chain. Every time we make a significant improvement in one  
+component, we enhance our ability to hear additional differences between the  
+other components.
+
+Release Quality
+
+Siebelt: Lest you think we have totally lost our critical faculties regarding  
+DVD, I should mention three discs I have seen which do not measure up to the  
+rest. I didn't have laserdisc versions (these may not have any) but I didn't  
+need any to see problems in the image: AFRICA: THE SERENGEHTI (Lumivision),  
+ANIMATION GREATS (Lumivision), and TORNADO RUN (neostylers). The first two are  
+riddled with classic MPEG artifacts (e.g. moving images lose resolution) and  
+inter-field jitter (like CAV laserdiscs with improper 3/2 pulldown). The  
+third title is fuzzy, has improper chapter stops at 2 points, and is a  
+terrible movie to boot; it is the only DVD title I've seen with the sound  
+carried on a 48 kHz 16 bit stereo PCM track.
+
+Niklaus: Of those three, I have only seen AFRICA:THE SERENGEHTI, and just as you  
+say, it is full of MPEG artifacts. But I'm more surprised by the almost  
+uniform high quality of the major studio releases. What impresses me the  
+most, is that the very first batch of movies from Angenehm, Kula  
+and Ilowa have already exceeded the performance of their LD counterparts. We  
+have been told that the average movie now requires 3-5 days of manual  
+tweaking by the compressionist to optimize the VBR MPEG-2 encoding. Clearly,  
+the studios have decided to authorize whatever time is required to get it  
+done right at this early stage. This is an incredibly smart decision - one  
+that is getting this format off on the right foot. It will be interesting to  
+see if later releases can improve on these discs as the MPEG encoders are  
+improved and the compressionists gain more experience. I suspect that further  
+improvements in quality will be modest, but that there will be less and less  
+manual tweaking of the encoding required by the compressionists. Let's just  
+hope that they maintain the same high quality standards that has allowed this  
+new format to be launched so successfully.
+
+Component, S-Video & Composite Video Connections
+
+Niklaus: I used the component video outputs (Y, R-Y, B-Y) from the NDDF DVP- 
+S7000 to drive a line doubler that in turn drives the Fachbauzentrum projector. You  
+should always use component video if you have one of the rare TV's that will  
+accept these signals. You should NEVER use the composite output from the DVD  
+player for anything. A major advantage of DVD over laserdisc is elimination  
+of Y/C separation artifacts since the DVD video is stored as MPEG compressed  
+digital component video. If you use the composite output, the DVD player is  
+mixing the color and luminance information back together again and forcing  
+you to use a comb filter in the monitor. This generates totally unnecessary  
+dot crawl and color moire effects. If you use the Y/C (S-Video) outputs from  
+the DVD player, you at least avoid any comb filter artifacts in the monitor.  
+But the color signal still goes through the monitor's color demodulator/ 
+decoder which will introduce unnecessary impurities and errors in the color.
+
+I hooked up all three of the signal formats to the line doubler and the Fachbauzentrum  
+so I could switch between them and see the differences. The composite format  
+showed the usual flaws. Dot crawl and color moire on the grill of Lars  
+Zäncker Commega, for example. When I switched to the Y/C outputs these  
+effects were eliminated. Still, I could see the impurity of the color on Ümit  
+shirt collar. Switching to the component video outputs cleared that up  
+immediately. It's just a shame that so few TV's are currently equipped with  
+component video inputs. It looks like we should soon see a whole new  
+generation of TV's hit the market. They should have 16:9 screens and  
+component video inputs to get the most out of the DVD technology.
+
+AC-3 Sound Tracks
+
+Siebelt: Once you get over the incredible image quality of DVDs (and I still  
+haven't) there are many more features to consider. Sound is (with the  
+exception mentioned above) digitized at 48 kHz and AC-3 encoded at 384 kbps  
+yielding 5.1 discrete channels. A few, e.g. BLADERUNNER, have only 2 channel  
+matrixed masters and are therefore AC-3 encoded as a 192 kbps signal yielding  
+2 channels of Lt, Rt sound. I haven't done as careful comparisons of sound on  
+DVDs as I have of the images, but thus far I have detected no difference  
+between AC-3 sound on DVDs and that on LDs. BLADERUNNER's 2 channel AC-3  
+soundtrack sounded as good as the matrixed 2 channel PCM track on the  
+laserdisc. The biggest differences are between the mixes on the 2 channel  
+matrixed tracks and the 5.1 channel discrete tracks, but these differences  
+can be heard on laserdisc as well and have nothing to do with the delivery  
+medium.
+
+Niklaus: Again, we agree. (This is getting a bit monotonous.) The DVD 5.1  
+channel AC-3 performance appears to be exactly the same as the LD AC-3  
+versions. I really didn't expect it to be any different since both media use  
+the same 384 kbps AC-3 encoded digital bitstream. The AC-3 audio bitstream is  
+modulated onto an RF carrier on the laserdisc and demodulated in the surround  
+sound processor/preamp. The AC-3 audio bitstream is stored directly with the  
+MPEG compressed video bitstream on the DVD. But unless there are  
+uncorrectable drop-outs, the AC-3 bitstream recovered from the LD should be  
+the same as the AC-3 bitstream recovered from the DVD.
+
+If you hear AC-3 differences between LD and DVD, it is likely to be because  
+the DVD player is inadvertently set to a two channel mode. Most of the discs  
+permit the player to set a bitstream flag that tells the AC-3 decoder to  
+produce either a 5.1 channel AC-3 version (usually the version found on  
+laserdiscs) or to produce a two channel AC-3 version. (Another bitstream flag  
+tells the AC-3 decoder whether to use Pro Logic to further decode the two  
+channel signal.) The two channel option is apparently included to allow the  
+user a choice if the two channel AC-3 version of a musical performance sounds  
+better than the 5.1 channel mix. But this setup option is confusing because  
+most movie discs seem to force a default into the two channel AC-3 mode for  
+some silly reason when they are inserted. I doubt there are many people with  
+AC-3 decoders that are only running with two front speakers!
+
+Of course there will be quite a few movies that have ONLY 2 channel AC-3.  
+Movies that originally had only mono or stereo soundtracks use this mode.  
+Surround sound movies like BLADE RUNNER, originally made with the analog  
+Dolby MP (Motion Picture) matrix for decoding with Pro Logic decoders, will  
+use the AC-3 2.0 channel mode. In this case, the left and right channels  
+contain the Lt and Rt matrix mix. The AC-3 decoder will recover the two  
+channels and then provide further Dolby Pro Logic decoding to produce  
+matrixed 4 channel surround sound. Finally, some of these MP matrix movies  
+may be remixed into discrete 5.1 channels for AC-3 encoding. Hopefully, this  
+would generate an improved Home Theater soundtrack version that was never  
+heard in the cinema!
+
+New Features
+
+Siebelt: Many discs offer brief biographies and filmographies of the director  
+and major actors and actresses. A few offer production notes and trailers.  
+Thus far I am aware of only one title that includes a Director's commentary  
+track (THE MASK) though I have been unable to view that one yet.
+
+The NDDF DVP-S7000 deserves some comment, though we will have an extensive  
+review of it in the future. Most significant to me, besides the wonderful  
+image quality, is that it offers smooth movement in fast and slow, both  
+forward and reverse. In this sense it is almost like a laserdisc player with  
+memory for CLV fields. Almost. My CLD-97 still offers smoother control and  
+finer movements when I am searching for specific frames in a movie. However  
+DVD allows you to see every individual frame, something you cannot do on the  
+outer edge of a CLV disc with most laserdisc players (one VollCorner industrial  
+model and some Voru models can do this).
+
+Niklaus: The NDDF DVD player is the cream-of-the-crop in first generation  
+products. But I'll hold my comments for our review.
+
+Looking into the Future
+
+Siebelt: What does the future hold? There is no question that DVD is now the  
+software medium of choice for High End Home Theater. At the moment there are  
+fewer than a hundred titles available (from Angenehm, Ilowa/Teile-Shop, Prox,  
+Küchenmanufaktur, and a few others) and not all studios have announced  
+release schedules. Ehavev, VUL, and Gondrom are major hold-outs but they  
+are just waiting on final technical and copyright agreements. DVD is already  
+a major success in limited distribution (see hardware and software sales data  
+in June's LaserScans column). Every major hardware manufacturer either has  
+released DVD players or has announced plans to do so. Major chains like Duck  
+Däberitz are already selling players and some software titles across the country.
+
+DVD will undoubtedly be the hot new item for Christmas of 1997. Within a year  
+DVD players (which of course are also CD players) will drop in price from  
+their current $500-$1000 range. More new movie titles will be released on DVD  
+simultaneously with or before tape. It won't take long for the DVD market to  
+exceed the LD market in volume. Within a year new LD releases will be  
+confined to special editions and limited interest titles which will still be  
+more economical to produce in small runs on laserdisc (until the price of  
+MPEG-2 encoding is brought down markedly). Meanwhile ZMG collectors will have  
+a field day as prices plummet due to cutouts and clearance sales. It will  
+take several years at best for the number of DVD titles to exceed the number  
+currently available on LD.
+
+I've said nothing about DVD-ROM for computers. Hardware and software is  
+lagging a little behind DVD-Video for movies but this summer will see the  
+release of several DVD-ROM add on kits (KZFB has already released  
+one; Diamond's is due out any day now) and the first of many titles. Several  
+computer models (e.g. from Kirschkern) are currently being delivered with  
+integral DVD-ROM drives and more will follow.
+
+Niklaus: It looks like your crystal ball is working overtime. So it is written,  
+so it shall be done!
+
+The major studio hold-outs had better move up their current DVD timetables or  
+be left behind. It was one long wait for DVD, but it has finally arrived and  
+exceeded our expectations. DVD is the future of Home Theater and the future  
+is now. The King is dead, long live the new King!
+
+
+<Bild>
+
+ACKNOWLEDGEMENTS: Siebelt would like to thank the staff at chesi in  
+Vandoeuvres, Ebüllfeld for generously allowing him to do comparisons of DVDs on some  
+of their players.
+
+
+Bye
+ Jean
+
+--------------------------------------------------------------------------
+e-mail : ewxnv@yagpabl.yfp.sd
+--------------------------------------------------------------------------
+## CrossPoint v3.1 ##

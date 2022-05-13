@@ -1,0 +1,34 @@
+Noch ein Hinweis:
+
+Ausserdem ist ein Schwenk nie sehr lang. Die im Beispiel genannten 24 Standbilder
+reichen ja auch nur fuer eine Sekunde Schwenk. Der wird dafuer dann oft
+vorwaerts und rueckwaerts gezeigt. Eine Szene sieht dann z.B. so aus:
+Normaler Film: 1,2,...
+Standbild: 3a,3b,...
+
+1,2,3,4,5,...,44,45,46,47,48a,48b,...,48v,48w,48x,48w,48v,...,48b,48a,49,50,51,...
+    2 sec Film          | 1 sec Standbild vor | 1 sec Stand. rueck  | Film weiter
+
+Beim Filmen werden also die 24 Bilder 48a bis 48x gleichzeitig mit Bild 48
+geschossen und im Scheideraum einmal vorwaerts und einmal rueckwaerts statt
+Bild 48 eingesetzt.
+
+Es wuerden auch weniger Bilder reichen, denn wenn ich mich nicht taeusche,
+sind die 3D Schwenks im Clip kuerzer als eine Sekunde.
+
+Das Prinzip aehnelt der 3D Fotografie (nicht Laserhologramme!), wo man mit
+einer Kamera mit 2 Linsen, die im Augenabstand angebracht sind, zwei Bilder
+schiesst, die man dann z.B. mit einer Spezialbrille betrachten kann.
+
+Wer noch einen Viewmaster hat und die Demoscheibe kann sich das Bild, auf
+dem der Vogel ins Wasser spring, ansehen und abwechseln die Augen schliessen.
+Das sieht den genannten Viedeoclip unheimlich aehnlich.
+
+Wie gesagt, ich kann nur vermuten, dass der Clip so gedreht wurde, aber das
+Montieren von 10 bis 20 Kameras auf einer bogenfoermigen Schiene, die zum Obejekt
+hin ausgerichtet ist und das gleichzeitige Belichten eines Filmbildes in jeder
+ist bestimmt weniger aufwendig als die gesamte Szene im Rechner zu modellieren.
+
+Gruss, Engelbert
+
+--

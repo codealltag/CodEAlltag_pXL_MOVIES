@@ -1,0 +1,10 @@
+Ueber den Parser hatte ich mich anfangs auch oefter geaergert,
+anererseits hatte ich da auch gesehen, wieviele Fluechtigkeitsfehler 
+ich - trotz manueller Kontrolle - eingebaut hatte. Inzwischen sehe ich
+es sportlich. Die Fehlermeldungen des Parsers sind meist brauchbar, so
+dass spaetestens im 2. Anlauf > 99% der Daten akzeptiert werden.
+
+Heute wurde von 162 Datensaetzen nur einer angemeckert. Da hatte
+ich ein '|' zwischen zwei Feldern geschlabbert.
+
+Ciao, Ottmar                           flcrpoao@ibx.rrls-ltwfqa.sk

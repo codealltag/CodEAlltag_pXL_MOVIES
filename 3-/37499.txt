@@ -1,0 +1,4 @@
+s/Foo/Mid
+
+
+Berthold

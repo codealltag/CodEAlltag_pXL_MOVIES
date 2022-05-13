@@ -1,0 +1,18 @@
+In Bodennähe ist der Auftrieb eines Hubschraubers zwar tatsächlich 
+größer, aber der Hauptauftrieb ist wie beim Flugzeug auch dem Gesetz von 
+Bernoulli zu verdanken, das vereinfacht gesagt ausdrückt, daß schneller 
+strömende Luft einen kleineren Druck hat. Durch das Profil der 
+Tragflächen wird die Luft gezwungen auf der Oberseite schneller zu 
+strömen -> oben niedrigerer Druck -> wenn die Kraft aus dem 
+Druckunterschied (Flügel oben<->unten) größer wird als die Gewichtskraft 
+des Luftfahrzeuges -> Abheben.
+
+Unterschied zwischen Flugzeug und Helis (oder hießen sie doch Hubis? 
+*g*), einmal bewegt sich das ganze Ding, einmal nur der Rotor, um die 
+nötige Str�mungsgeschwindigket zu erreichen. Wenn die Luft unter dem 
+Heli mit 800km/h strömen würde, wäre das vierfache Orkanstärke und beim 
+Landen gäbe es ordentlich Probleme. Die Rotorenden können aber durchaus 
+Überschallgeschwindigkeit erreichen, was man dann deutlich hört.
+
+Ciao
+Torsten

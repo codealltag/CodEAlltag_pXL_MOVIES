@@ -1,0 +1,7 @@
+Hehe...fuer Windows lade ich immer nur binaries runter. Waere mal 
+interesant die Version unter Linux selbst zu bauen, aber im Moment habe 
+ich leider kein Linux zur Verfuegung. Na ja...muss ich halt noch vier 
+Monate mit ctrl-l-Spoilern leben ;-)
+
+ciao
+Lennart

@@ -1,0 +1,6 @@
+Theoretisch schon, aber im Grunde wäre das unklug von Ganten (und ein
+Computer ist doch immer klug :-). Schließlich verbraucht ein HUD auch
+Systemressourcen (OK, ist bei einem Terminator wahrscheinlich nicht
+sonderlich wichtig). Vielmehr stört mich dann der T-X. Warum sollte Ganten
+das HUD weiter entwickeln? Klar, Blau ist schöner als Rot, aber das müsste
+Ganten doch egal sein ;-)

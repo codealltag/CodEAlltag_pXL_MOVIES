@@ -1,0 +1,4 @@
+Ein System verträgt nur eine begrenzte Menge an Parasiten. Wird eine
+kritische Menge überschritten, bricht es zusammen.
+
+Leander Cuiper

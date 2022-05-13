@@ -1,0 +1,15 @@
+Heidiho,
+*Alberto Nowakowitsch* schrub:
+
+An sich nicht: Es muss nur jeder Buchstabe des Ascii-Standardalphabets
+in Ascii-Code umgewandelt werden, dieser um 13 erhöht werden, dann bei
+Codes, die über die Obergrenze rausgehen, 26 abgezogen werden und das
+dann zurück in Buchstaben umgewandelt werden ^^ Eben weil ROT13 so
+einfach zu realisieren ist, wird es ja benutzt.
+mfg
+Tom
+
+-- 
+Buchtips.net bietet mehr als 1770 Rezensionen, darunter auch zu "Das
+letzte Geheimnis" von Christian Mohles, Luc Dunkert
+[http://vfp.cwymhwly.fqz/hwr5856.myn]

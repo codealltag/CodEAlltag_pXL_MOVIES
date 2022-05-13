@@ -1,0 +1,12 @@
+DTS geht erst bei ernsten Probleme auf den Lichtton zurueck.
+DTS laeuft also ohne Code erstmal kurzfristig (5 Sekunden etwa glaub ich) weiter
+als ob nix waere.
+Wird dann wieder ein Code gefunden und passt der nicht mehr, wird neu
+syncronisiert.
+Die Folge bei einem zusaetzlich eingeklebten Bild:
+Die 1/24 Sekunde Ton wird wiederholt. Das muesste normalerweise ohne "knackser"
+gehen.
+Wie stark es auffaellt haengt von der jeweiligen Szene ab.
+
+Gruss,
+Gerold

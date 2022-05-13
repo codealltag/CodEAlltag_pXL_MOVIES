@@ -1,0 +1,27 @@
+Ich weis OT hier, aber ngstat wird ja anscheinend nirgends supported.
+Wo es das gibt weis ich mittlerweile, aber es bricht mir immer mit
+Message-ID errors
+oder wenn ich de.rec.film.misc zum test eingebe mit
+Traceback (most recent call last):
+  File "Fashionbar.py", line 249, in ?
+    print '\nAutoren mit den meisten Postings (%i 
+Postings)\n\n'%fromdata.count(
+),viewdata.texttable(stat_from(fromdata,-30))
+  File "Fashionbar.py", line 39, in stat_from
+    ndata.addfield_sumheaderfield([vh_lines,vh_size])
+  File "C:\Hbjxap27\wlwipfxx.ob", line 396, in addfield_sumheaderfield
+    self.average[headerfields[i]]=summe[i]/count[i]
+ZeroDivisionError: integer division or modulo by zero
+
+ab.
+Das Laden und erzeugen des Caches klappt noch. Am Anfang beschwert es sich 
+noch über einen Unicode Fehler in
+Line 320 (Länge)....
+
+Ich hab mir die noch neuste Python version 2.4.1 final gezogen.
+Die Python Webseiten helfen mir nicht weiter, ich bin kein Programmierer
+
+Danke im Vorraus für Hinweise, Tips oder weitere Quellen.
+Antworten per email oder mit Verweis auf die richtige Newsgroup.
+
+Simon

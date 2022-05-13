@@ -1,0 +1,32 @@
+Wäre es nicht. Viele Newsreader machen das übrigens auch, wenn sie 
+Monsterzeilen entdecken, und reparieren es beim Antworten.
+
+
+Könnte man. Aber wozu, um Himmels willen, bräuchte man HTML im Usenet?
+
+
+Also _ICH_ kann Text aus dem Usenet copypasten. Wen es stört, daß das 
+Resultat nur 80 Zeichen breit ist, kann ja kurz s/\n// machen.
+
+
+Das liegt an kaputten Newsreadern (bzw. OE, IIRC ist das der einzige, der 
+solchen Mist produziert). Richtige Newsreader brechen Zitate entweder gar 
+nicht um (die Verlängerung durch die ">" ist nicht *so* wild) oder bauen 
+den Text gleich komplett um.
+
+
+Schmarrn. Eher die "Keep it simple" Mentalität. Die "haben wir immer schon 
+so gemacht" Mentalität blockiert eher sinnvolle Sachen wie Unicode, aber
+das ist ein anderes Thema.
+
+
+Juhu, Webforen. Im Vergleich zum Usenet ist deren Handhabe aber Schmerz im 
+Arsch und letztendlich steht dort auch nur Text.
+
+
+Und damit es so bleibt, gibt es Regeln, die eingehalten werden sollen.
+
+Allerdings wird es jetzt wirklich OT.
+
+f'up2me
+<bg>

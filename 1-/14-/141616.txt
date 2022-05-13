@@ -1,0 +1,62 @@
+On Mon, 9 Dez 1999 18:30:49 +0200, Mathäus Obertreis
+<tjbgouqsi.kznk@vdj-ezrbr.gkd> wrote:
+
+Hallo Mathäus!
+
+
+Das ist zwar schade, aber damit muss ich dann wohl leben. ;-(
+
+
+... Womit die wichtigsten Daten also zugaenglich sind. ;-)
+
+Ein weiteres Problem habe ich jetzt jedoch noch:
+
+Mittlerweile habe ich mir die Meyersche-Oberflaeche, saemtliche Listen und
+die letzten drei DIFFS heruntergeladen und in ein Verzeichnis auf
+meine Festplatte gepackt.
+
+Bei PMDB habe ich auch bei den Settings die korrekten Verzeichnisse
+auf der Festplatte eingetragen, so dass die Datenbank erstellt werden
+kann.
+
+Mittlerweile ist mein PC allerdings schon seit ueber 15 Stunden dabei,
+die Datenbank zu erstellen, und beim "Progress" wird ein
+Gesamtfortschritt von noch nicht einmal 20% (4 Kaestchen) angezeigt.
+
+Der PC ist allerdings nicht abgestuerzt, da man erkennen kann, dass
+die Fortschrittsanzeige ganz langsam weiterlaeuft, und meine
+Systemressourcen sind auch mehr als ausreichend (laut
+Resssourcenanzeige liegen "System" und "Benutzer" bei je 93% und "GDI"
+bei 95%).
+
+Weiterhin lassen sich auch andere Programme (wenn auch relativ
+langsam) starten.
+
+Irgendwas kann da doch wohl nicht stimmen, denn es kann ja wohl nicht
+normal sein, dass das Erstellen der Datenbank derartig lange dauert.
+
+Wenn ich das richtig verstanden habe, muesste ich, um die Datenbank
+stets auf dem neuesten Stand zu haben, jeden Freitag die neueste
+DIFF-Datei herunterladen, diese auf die Listen anwenden und danach
+erneut die gesamte Datenbank neu erstellen, was dann ja wohl ebenfalls
+wieder so lange dauern wird. ;-(
+
+Grob geschützt (unter Berücksichtigung des bisherigen Fortschritts)
+würde die Erstellung der Datenbank bei mir ca. 3 Tage dauern, in denen
+ich dann an dem PC wohl nicht anderweitig vernünftig arbeiten kann.
+
+Ich habe zwar noch einen anderen PC (486er mit Windows 3.1) an dem ich
+einige andere Sachen wie z.B. meine Internetaktivitäten solange
+erledigen kann, aber das kann ja wohl nicht Sinn der Sache sein, dass
+das derartig lange dauert, diese Datenbank zu erstellen.
+
+Hast Du evtl. eine Idee, wie ich das beschleunigen kann, denn so macht
+das einfach keinen Sinn, weshlab ich die Erstellung der Datenbank
+jetzt auch abbrechen werde. ;-(
+
+Ich wuerde mich wirklich freuen, wenn Du mir diesbezueglich ein paar
+Tips geben koenntest.
+
+
+Man liest sich,
+Cédric

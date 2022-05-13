@@ -1,0 +1,14 @@
+Stell' Dir mal die Lippenbewegungen vor - "Capacitor" und  "Kompensa-
+tor"  sind  sich  ziemlich ähnlich ("hartes" 'P'), aber "Kondensator"
+sieht anders aus ("weiches" 'D').
+
+Beim Synchronisieren wird nicht unbedingt auf  wörtliche  Übersetzung
+geachtet - und hier spielt es wohl nicht eben die größte Rolle, oder?
+
+Günther
+
+-- 
+Software Engineering:  Embedded and Realtime Systems,  Embedded Linux
+Phone: (+96)-5958-2377-69  Fax: -89  Home: -47  Email: sh@wrgi.bgm.ja
+An age is called Dark not because  the  light  fails  to  shine,  but
+because people refuse to see it.           -- Martin Adolfs, "Space"

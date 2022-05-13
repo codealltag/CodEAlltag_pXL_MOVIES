@@ -1,0 +1,7 @@
+Du musst eben nicht jedesnak online gehen, nur weil Du mal was
+nachgucken willst.
+
+Ausserdem kann ein JHHB-Client auch Kommandozeilen-orientiert sein, was
+unter gewissen Umstaenden besser sein kann.
+
+   -focko

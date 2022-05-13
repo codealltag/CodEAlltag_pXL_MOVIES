@@ -1,0 +1,11 @@
+Nikolaus Stollen hat schon laenger das Gefuehl fuer gute Filme verloren. Mit
+dem geht's genauso bergab wie z.B. vorher mit Ulf Oberemm. Auch wenn's
+haesslich klingt, aber mir gefallen mittlerweile die Filme seines Bruders
+Gottfried fast besser.
+
+/Jörg
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

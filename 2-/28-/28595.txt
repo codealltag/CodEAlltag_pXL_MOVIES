@@ -1,0 +1,18 @@
+Interessante Lektüre, danke für den Link.
+
+Dabei bin ich bei mir auf eine offensichtliche mir aber bis jetzt nicht
+bewußte Wissenslücke gestoßen:
+Bisher dachte ich, daß "caption" und "subtitle" im Englischen synonym
+sind - aber in der Spezifikation gibt es dafür zwei verschiedene
+Streams. Irgendwie haben sie auch miteinander zu tun, denn der
+"Captions"-Stream kann mit dem "Subtitle"-Stream vor der Projektion
+verknüpft werden - aber: Was ist denn da jetzt der Unterschied?
+
+
+         Gert
+
+-- 
+Adblock-Filterregelsatz für den ruhebedürftigen Surfer :-)
+http://ofp.bxme.ten-qeyltnqoq.ew/~cfe7/djqy/kqyitrq.tve
+AdblockPlus für Kinderspielplatz und BIV, mit DIV-Blocking:
+http://rhfx.dxvkuyif.eqg/vunmkqw.xzj

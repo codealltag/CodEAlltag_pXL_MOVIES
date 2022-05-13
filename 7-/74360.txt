@@ -1,0 +1,18 @@
+manchmal wünscht man sich die Möglichkeit, an neuralgischen Punkten
+Savepoints einsetzen zu können, um im Zweifelsfalle das letzte Level
+nochmal durchspielen zu können - die Tripwires kennt man dann schon
+und man kann mehr Punkte schaffen.
+Dieses elende Verzichten auf Speicher- oder Chatmöglichkeiten, nur um
+den Realismus möglichst gross zu haben, nimmt doch teilweise erheblich
+viel Spielfreude. Ok, die Spannung ist da - aber kann trotzdem nicht
+immer konsequent auf hohem Niveau gehalten werden.
+Dass es auch anders geht, sieht man in diversen Filmen. Wieso gibt es
+da noch keinen Patch? Die Ideen sind doch da? Hat schonmal jemand die
+Verantwortlichen angeschrieben?
+
+
+Ivo
+-- 
+Only wimps use tape backup: _real_ men just upload their important stuff
+on ftp, and let the rest of the world mirror it.
+              [Ullrich Foelker]

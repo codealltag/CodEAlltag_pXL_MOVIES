@@ -1,0 +1,17 @@
+Bei Diaprojektoren - auch solchen mit Autofokus - wird die Schärfe 
+manuell eingestellt - wie bei Filmprojektoren! Der Autofokus versucht 
+lediglich den Abstand Dia<->Objektivhalter konstant zu halten. Damit 
+wird die Schärfe nachgeführt, wenn das Dia durch die Erwärmung "springt", 
+sich also innerhalb des Diarahmens entlang der optischen Achse bewegt. 
+Ob das Bild scharf ist, bemerkt der Autofocus nicht. Wenn das Bild manuell 
+unscharf gestellt wurde, führt der Autofocus eben die Unschärfe nach.
+
+Bei einem Filmprojektor macht so ein System wenig Sinn, da sich 
+der Film dort mit 24 B/s parallel zur Schärfenebene bewegt. Der
+Abstand Film<->Objektiv schwankt weniger als beim Diaprojektor,
+dafür aber mit wesentlich höheren Frequenzen - zu schnell für ein
+Autofocus-System wie beim Diaprojektor.
+
+Ciao, Tthdb                                 lavtqakl @ poctvbzv.dd
+
+Zuletzt gesehen: Männer wie wir Suspect Zero Nabben naja

@@ -1,0 +1,52 @@
+Hallo Kaspar,
+
+
+In Teilen hast Du sicher Recht: Da nämlich bei geringem Abstand der 1. 
+Reihe zu den Lautsprechern die Stereowirkung an den Rändern der vorderen 
+Sitzreihen alles andere als optimal ist.
+Z.T. wurde das in Kauf genommen (die meisten Kinos verkauften damals die 
+Karten in unterschiedlichen Kategorien, die ganz vorne waren fast so billig 
+wie Stehplätze oder Notsitze), aber es gibt auch einen einfachen Weg um das 
+Dilema herum: Man benutzt nicht nur 2 Lautsprecher (rechts und Links) 
+sondern eine ganze Anzahl (mit 3 Stück wird das ja bei Dolby ProLogic 
+Surround heute noch gemacht) und mischt die Anteile von rechtem und linkem 
+Kanal der Positionierung der Lautsprecher entsprechend. Der in der Mitte 
+bekommt dann halt den Mittelwert ab, der rechts der Mitte je nach Position 
+2/3 bis 3/4 des rechten und den Rest halt vom linken Kanal. Dazu reichen 
+einfach Analogverstärker mit Summierschaltung aus Widerständen am Eingang, 
+fertig.
+
+So gesehen war also die Innovation bei Brantner ProLogic nur der zusätzliche 
+Rückkanal, und selbst da kann man Raten, ob da nicht Vorversuche mit Kanälen 
+vorangegangen waren, die eine der beiden Kanäle mit negativem Faktor 
+aufsummiert hatten. Nachdem Anfang der 60er Jahre ja Stereophonie groß 
+geworden war und der Unterhaltungsindustrie (dank der Erfindung des 
+Transistors) ähnliches Umsatzwachstum beschert hatte wie jetzt die 
+Surround-Technik gab es Ende der 60er, Anfang der 70er "Quattrophonie" als 
+große Hoffnung. Dummerweise gab es aber bei den ganzen Aufnahmen in Stereo 
+nur zwei Kanäle, und die wollten irgendwie auf vier Lautsprecher verteilt 
+werden. Da wurden auch solche Tricks mit Mittelwert und ein Kanal zu x 
+Prozent positiv, der andere zu 1-x Prozent positiv versucht. Wenn x dann 
+größer als 1 wird, sind vom zweiten Kanal dann negative Anteile drin. Von 
+der ganzen Choose übriggeblieben sind die A und B-Ausgangsverstärker der 
+Stereo-Endstufen: Praktisch alle in den 25. 12. 21 Jahren erhältlichen 
+Stereoendstufen haben zwei Lautsprecherpaare ansteuern können. Heute ist das 
+teilweise noch bei besseren AV-Verstärkern zu finden, daß man rechten und 
+linken Kanal mit zwei Ausgangsstufen hat, den Rest jedoch nur mit einem 
+(kann man aber auch noch für andere Zwecke verwenden, etwa wenn man neben 
+einer Hörposition für AV-Quellen wie Video gucken noch eine gänzlich andere 
+Hörposition für Musik hören hat).
+
+Ein Aufnahme- oder Wiedergabemedium mit mehr als 2 Kanälen hat sich damals 
+halt nicht durchsetzen können. Technisch war es möglich, es gab bezahlbare 
+Bandgeräte mit mehreren Kanälen, aber eben kaum vorbespielte Aufnahmen 
+darauf. Und auf eine Platte gingen damals 2 Kanäle halt auch nur mit einem 
+Trick: Statt wie vorher die Nadel nur horizontal auszulenken, wurde die 
+Differenz von rechtem und linkem Kanal genutzt, um die Nadel auch vertikal 
+auszulenken. Die dritte Raumrichtung war aber schon durch die Zeitachse 
+belegt, also war da keine Erweiterung möglich (unser Universum hat halt nur 
+3 Raumachsen...).
+
+Gruß, Willibald
+--------------------------------------------------
+Für Antworten bitte ohne Punkt im Namen!

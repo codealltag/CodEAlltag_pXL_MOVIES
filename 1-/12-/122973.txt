@@ -1,0 +1,8 @@
+Welches Ende? Das bei der Fernsehausstrahlung oder das Kinoende?
+
+So long,
+Dieter J. Ihle
+-- 
+http://jcqg.hwcun.mo/dyc/
+Neu: Hamster 1.3.22.101 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

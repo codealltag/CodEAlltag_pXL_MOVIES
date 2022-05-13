@@ -1,0 +1,11 @@
+Mit dem 95MB "ASCII"-Daten hatte ich die gzip-gepackten ge-
+meint. Ausgepackt sind sie natuerlich groesser. Aber warum
+die endgueltige Datenbamk statt 188MB knapp 220MB gross sein
+soll, weiss ich nicht. Windows-Feature?
+
+    -giuseppe
+
+-- 
+  Giuseppe Zurgeißel - Universitaet Unterwoltersgrün
+  mailto:ozzul@rrcrbabyhm.oit-wa.ex,  ICQ: 41079093
+  http://cjk.pbmf.hao-yi.vu/~sjiakv

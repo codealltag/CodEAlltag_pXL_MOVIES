@@ -1,0 +1,53 @@
+Sandro Jägermann wrote:
+
+(Zurueck aus dem Wochenende - deswegen hat's so lange gedauert mit der
+Antwort.)
+
+
+Ich habe folgende Aenderungen dran. Komischerweise zeigt ein diff bei mir zu
+3.14 noch andere Unterschiede (diverse #ifdef's), woher die allerdings
+kommen, ist mir ein Raetsel. Werde es bei Gelegenheit mal nachpruefen.
+
+   < #define   MAXPLOTENTRIES        75000
+   < #define   MAXLITENTRIES         25000
+   ---
+   46c46
+   < #define   MAXBUSENTRIES         40000
+   ---
+   51c51
+   < #define   MAXTITLEINFO         300000
+   ---
+   53c53
+   < #define   MAXLINKS             400000
+   ---
+
+
+Trotzdem komisch. Ich dachte, dann geht gar nix... naja.
+
+
+Hmmm... ich kapiere zwar nicht so recht, was Du mit "alten, nicht mehr
+genutzten Titel" meinst, aber wenn's ja "Dein Fehler"(TM) war, ist's ja gut.
+;-)
+
+
+[...]
+
+Hoert sich alles mal ziemlich gut an. Sind mehr oder weniger die selben 
+Ueberlegungen, die ich mir auch gemacht hab. Mit den selben Konsequenzen.
+
+
+Argh... irgendwie hab ich's natuerlich wieder verpennt, meine Gedanken mal
+zu formulieren und zu veroeffentlichen. Mal sehen, vielleicht komm ich bald
+mal dazu - momentan hab ich zuviel zu tun.
+
+
+"Datenbanken" sind vielleicht nicht grade soo schnell zu lernen, aber auf
+eine GUI kann man zugunsten eines WCVE-Aequivalentes auch gut verzichten.
+Sowas ist vermutlich wesentlich besser zum Entwickeln als eine GUI (und
+spaeter ideal fuer Scripte). Sogesehen kann jeder mithelfen. :-)
+
+
+   -ulrich
+
+-- 
+  rjvvpg@doo-itewat.gw  *  http://fbw-kbiqlo.aj/  *  http://zjuhh32.fs/

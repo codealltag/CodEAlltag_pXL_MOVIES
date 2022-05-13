@@ -1,0 +1,67 @@
+Also. Es ist tatsächlich so, das einige Dinge nicht in der
+Offline-Version verfügbar sind.
+
+Abrufbar sind
+
+bei Personen:
+-Real name
+-Date of birth
+-Height
+-Biography
+-Filmography
+-Guest appearances
+-Other works
+-Publicity (nur verfügbare Biografien)
+
+bei Filmen:
+-Aka-Titles
+-Tagline
+-Color-Info
+-Soundmix
+-Country
+-Language
+-Running Time
+-Release-Date
+-Certification
+-Ratings reason
+-Location
+-Boxoffice & Business
+-Genre
+-Technical Specs
+-Company Credits
+-Cast and crew
+-Plot
+-Alternate Versions
+-Trivia
+-Quotes
+-Goofs
+-Crazy Credits
+-Movie connections
+-Votes
+
+Das müsste es alles gewesen sein. Das wichtige ist da. Awards fehlen
+allerdings.
+Kurzum: alle Listen (49 glaube ich) die verfügbar sind, kann man auch
+über die Rumpelstilzchen abfragen.
+
+
+Ja, so ist das gedacht. Allerdings kann es schon mal vorkommen das die
+Hauptfiles nicht regelmäßig upgedatet werden und man sich dann eventuell
+doch noch die 2 oder 3 letzten DIFFs runterladen muss. War zumindest bei
+mir so.
+
+
+Ich habe es zwar noch nicht ausprobiert, aber das müsste ohne Probleme
+funktionieren. Allerdings musst du dann vor dem Brennen in der PMDB
+angeben, in welchem Verzeichnis sich die Datenbank befindet.
+
+
+Die Listen kann man zur Not packen. Die Listen braucht man nur für das
+Update.
+
+Größe
+-- 
+Thomas Drake
+Germany, Planet Earth, Korch Way
+
+** And may you never, ever, run out of sugar... baby! **

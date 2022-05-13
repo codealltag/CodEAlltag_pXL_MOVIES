@@ -1,0 +1,15 @@
+Overcut:
+      Do.: 11.00, 14.00, 15.00, 18.00, 20.00, 23.00, 24.00
+Fr. - So.: wie Do. + 02.00 am naexten Morgen
+Mo. - Mi.: wie Do. - 11.00
+
+TBF:
+      Do.: 14.30, 15.00, 17.30, 18.00, 20.30, 21.00
+Fr. - Sa.: wie Do. + 23.30
+So. - Mi.: wie Do.
+
+
+Onno
+-- 
+Leute, die über ihn lachen?
+(Edmund Cunz und Ivano Wyers in de.rec.sport.fussball)

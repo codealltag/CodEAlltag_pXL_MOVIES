@@ -1,0 +1,9 @@
+Niels Rudorf schrieb...
+
+
+dir ironie*.*
+
+...File not found ;)
+-- 
+raphaël: [SF|G'Kar] [ www.CrpncxNsdzisi.pr ] &
+[ www.IjiimCenu.hr ]

@@ -1,0 +1,47 @@
+Dieter Reifsteck:
+
+Fz = m*v/r, Fg = m*g
+
+Um mit der Rotation die Erdschwere zu erreichen muss also gelten:
+
+Fz = Fg <=> m*v/r = m*g        | :m
+        <=>   v/r = g
+
+Weiter gilt: v = 2*pi*r*n, mit n: Drehzahl
+
+Also: 4*pi^2*r^2*n^2/r = g              | *r
+          4*pi^2*r*n^2 = g              | :(4*pi^2*r)
+                   n^2 = g/(4*pi^2*r)
+
+Also:
+
+      n = (+/-) SQR(g/(4*pi^2*r)) 
+
+Negative Drehzahlen gibt's nicht, also:
+
+      n = SQR(g/(4*pi^2*r))
+      n = SQR(g)/SQR(4*pi^2*r)
+      n = SQR(g)/(2*pi*SQR(r))
+      n = 1/SQR(r) * SQR(g)/(2*pi) 
+
+mit g = 10 m/s, pi = 3,14
+
+      n = 1/SQR(r) * SQR(10m/s)/6,28
+
+Also: n ~ 0,5 * 1/SQR(r) 1/s
+
+Was sagen wir, welchen Durchmesser das Schiff hat? 200m? Das wären:
+
+      n ~ 0,04 1/s = 2,4 1/min
+
+Also 2,4 Umdrehungen pro Minute. Kommt hin oder?
+
+cu,
+theda (hoffentlich hab' ich mich jetzt nicht verrechnet :-))
+
+
+-- 
+Eiris sazun idisi       |      suma clubodun
+sazun hera duoder.      |      umbi cuoniouuidi:
+suma hapt heptidun,     |      insprinc haptbandun,
+suma heri lezidun,      |      inuar uigandun.

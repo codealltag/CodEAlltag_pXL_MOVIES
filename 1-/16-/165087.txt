@@ -1,0 +1,24 @@
+Dann ist der Satz zu modifizieren: Jeder Computer ist höchstens so
+schlau, wie der Mensch oder der Computer, der ihn programmiert. Wie auch
+immer - am Anfang steht immer ein Mensch. 
+
+
+Ein Schach-Computer ist alles andere als intelligent, weil er lediglich
+für eine endliche Anzahl von Zugmöglichkeiten die
+Gewinnwahrscheinlichkeit ermittelt. Verschiedene Schachkomputer
+unterscheiden sich nur nach der Rechentiefe und damit nach der
+Geschwindigkeit. Hätte der beste Schachspieler der Welt genügend Zeit,
+könnte er selbstverständlich gewinnen. Und wenn nicht, wäre das immer
+noch kein Beweis für die "Intelligenz" des Computers. Genausowenig wie
+ein "Rennroboter" intelligent wäre, der einen 100-Meterl�ufer schlägt
+oder ein "Geruchsroboter", der mehr Düfte unterscheiden kann, als jeder
+Mensch. 
+
+
+Völlig abwegig. Ein Computer kann Unbekanntes immer nur mit Bekanntem
+(Einprogrammiertem) vergleichen. Wie das alte Sprichwort schon sagt: Was
+er nicht kennt, frißt er nicht.
+
+Gruß
+
+Meinrad

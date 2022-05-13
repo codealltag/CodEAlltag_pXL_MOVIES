@@ -1,0 +1,22 @@
+Nitpick:
+
+Planeten (wohl eher Monde) mit so geringer Schwerkraft sind nicht in 
+der Lage, eine Atmosphaere zu halten. Nehmen wir mal 0.5 g an. dann 
+hat man zwar eine geringere Gewichtskraft, aber der Auftrieb durch 
+die Fluegelschlaege ist auch kleiner, denn die Dichte der 
+Atmosphaere ist geringer. Das loest das Problem also nicht.
+
+Ganz davon abgesehen, dass Wesen, die sich fuer solch geringe 
+Schwerkraftverhaeltnisse evolutionaer entwickelt haben, unter den 
+Bedingungen auf Tatooine nicht lebensfaehig waeren.
+
+
+Nur mal als Frage: Gibt es diesen Guertel tatsaechlich oder ist der 
+nur Erklaerungsversuch?
+
+Theo
+-- 
+"Fans vermuten Hartmut Faulhaber unter de@chrv.cnq
+Enttaeuschte glauben eher an os@stkdqs.fdy
+Ich glaube, man findet ihn unter tr@blrfq-sfrsgjzsrt.zzj"
+Niklaus Jungwirt in de.rec.sf.starwars

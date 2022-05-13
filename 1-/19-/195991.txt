@@ -1,0 +1,7 @@
+Da DVD-Player Macrovision ausgeben (bzw. ausgeben können, wenn der
+Hersteller der DVD es so konfiguriert), ist das das erwartungsgemäße
+Verhalten. Je nach Fernsehgerät können auch üblere Bildstörungen
+auftreten.
+
+Gruss
+  Dario

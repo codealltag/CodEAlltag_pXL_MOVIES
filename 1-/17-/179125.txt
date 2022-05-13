@@ -1,0 +1,23 @@
+: Gibt es eigentlich bei DVD ebenfalls störende Unterbrechungen beim  
+: Layer- bzw. Seitenwechsel wie bei LD?
+
+Normalerweise nicht, jedenfalls nicht beim Layer-Wechsel. Dadurch, dass
+die Daten ja ohnehin zuerst dekomprimiert werden muessen, sollte genuegend
+Vorlauf vorhanden sein, um die "Unterbrechung" durch den Layer-Wechsel zu
+ueberbruecken.
+Seitenwechsel? Mir waere nicht bekannt, dass es Filme gibt, die sich nicht
+auf einer Seite, meintwegen mit zwei Layers unterbringen lassen. Das sind
+immerhin 4 Stunden. Die zweite Seite wird eigentlich bisher meist fuer ein
+anderes Bildformat genutzt (Seite 1: Vollbild, Seite 2: 2,35:1)
+
+Aber: In de.rec.heimkino hat erst kuerzlich ein DVD-Besitzer von leichten
+Bild- und Tonproblemen auf einer DVD berichtet.
+
+bye,
+     Rudi
+--
+eMail: Lravrh.Mxuzvibov@vsb.fdx-erbzefiix.nx
+IRC: HphunpDrp  eMail privat: qs@ekw.sn
+
+42 - Das Erste-Hilfe-System der Benutzerberatung:
+                              http://dxr.pya-pwidtalkt.cy/Mmt/29/

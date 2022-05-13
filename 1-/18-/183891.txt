@@ -1,0 +1,314 @@
+2. CfV zur Einrichtung der Gruppe:
+==================================
+de.rec.film.heimkino	Filmerlebnis im Wohnzimmer.    
+
+Charta:
+
+Diese Gruppe dient Diskussionen jeder Art zum Thema Heimkino,
+insbesondere Laserdiscs, DVD-Videos und vorbespielte Videobänder sowie 
+alle Geräte, die man zu deren Wiedergabe braucht.
+
+Technische Diskussionen, die für den interessierten Laien nicht mehr
+verständlich sind, und Diskussionen, die sich nur mit dem Inhalt eines
+Films beschäftigen, sollten in eine passendere Gruppe umgeleitet werden.
+Vor dem ersten Posten in diese Gruppe sollten, wie im Usenet üblich, 
+die relevanten FAQs gelesen werden.
+
+Status:
+
+Die Gruppe ist unmoderiert.
+
+Für den Fall, daß diese Gruppe eingerichtet wird, wird über folgende
+Charta-Änderungen abgestimmt:
+====================================================================
+ra.rcx.lgod.ksxb
+----------------
+
+ALT:
+
+ra.rcx.lgod.ksxb	Filme, Serien, TV, Video, Kino.
+
+Charta:
+
+ra.rcx.lgod.ksxb dient als Diskussionsforum für alle
+Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+Sendungen liegt, kann auch über (Video)filmen (d.h.
+Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+Interpretation von Filmwerken. Für technische Aspekte von Heim-
+kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+NEU:
+
+de.rec.film.misc	Alles, wofuer es keine spezielle Filmgruppe gibt.
+
+Charta:
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten 
+und der Interpretation von Kinofilmen sowie deren Schauspielern
+und Crews. Es kann jedoch auch über die Produktion von Filmen (auch 
+eigenen Filmen und Videofilmen) bzw. Filmtechnik usw. geschrieben 
+werden. Fernsehthemen sollten in eine geeignetere Gruppe gepostet 
+werden.
+
+ii.xzh.dq.jrjd
+--------------
+
+ALT:
+
+ii.xzh.dq.jrjd	TV/Video/Sat Themen.
+
+Charta:
+
+ii.xzh.dq.jrjd ist eine Gruppe, in der TV- und Video-bezogene
+Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert.
+(Programmstruktur einzelner Sender; Diskussion über Serien,
+Shows und Dokumentationen; Empfehlungen und Diskussion
+von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+Medienrecht; Sender anderer Länder (via SAT))
+
+NEU:
+
+ii.xzh.dq.jrjd	TV/Video/Sat-Themen.
+
+Charta:
+
+In der Gruppe sollen TV- und Video-bezogene Themen diskutiert 
+werden. Sie ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert. 
+(Programmstruktur einzelner Sender; Diskussion über Fersehfilme,
+Serien, Shows und Dokumentationen; Diskussion fernsehspezifischer
+Aspekte von Kinofilm-Ausstrahlungen (geschnittene Szenen, Position
+der Werbeblöcke, ...); Empfehlungen und Diskussion von/über 
+Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer; Medienrecht; 
+Sender anderer Länder (via SAT))
+
+bo.hdf.rx.technik
+-----------------
+
+ALT: 
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+Charta:
+
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+NEU:
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen, Video und Heimkino.
+
+Charta:
+
+Diese Newsgruppe dient der Diskussion über Geräte zur Bildaufnahme, 
+-empfang und -wiedergabe, insbesondere Fernsehgeräte, Projektoren,
+AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen, Videorecorder, 
+LD-Player, DVD-Player und Camcorder sowie der zugrundeliegenden Normen
+und Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, 
+Teletext, Macrovision etc.). 
+Diskussionen mit inhaltlichen Aspekten sollten in geeigneteren Gruppen
+geführt werden.
+
+Proponenten:
+============
+Oswald Michael Juelich             gay@mdc.zdi
+Samuel Rövesaat               wmvsekzztdp@fks.ia
+Benjamin Leistenschlag                      Lqiigfolt@wpbxcjco.ucsq.dg
+
+Modalitäten
+===========
+Die Stimmen müssen bis zum 31. August 1997 21:59:59 GMT
+eingehen. Ausschlaggebend ist hierbei das *Eintreffen* der
+Stimme, nicht das Absendedatum! Bitte benutze den
+Wahlschein, der am Ende dieses CfV angebracht ist.
+Wahlberechtigt ist jede natürliche Person, die in der Lage
+ist, E-Mail an die Abstimmungsadresse zu schicken.
+
+Es gelten die derzeitigen Wahlregeln, die in fu.jfgxjqkz,
+jv.quqmrfip.qkpsbjckj, ys.huieo.qqoz.swyqgt und vu.jeg.onbyo
+veroeffentlicht sind.
+
+Wie gewählt wird
+================
+Trage in die Felder des Wahlscheins unten Deine Stimme (JA, NEIN
+oder ENTHALTUNG) ein und schicke den Wahlschein dann an den
+Vote-Account <he-vphe@jxzylhy.pjqjmi.gt> (Reply-To:-Header ist gesetzt.)
+Es werden nur Stimmen berücksichtigt, die per Mail an diesen Account
+gerichtet sind.  öffentliche Stimmabgaben (Postings) sind ungültige
+Stimmen und werden nicht berücksichtigt.
+
+Deine Entscheidung bedeutet dabei:
+
+JA         - Ich bin für diesen Vorschlag.
+NEIN       - Ich bin gegen diesen Vorschlag.
+ENTHALTUNG - Ich enthalte mich oder ich ziehe meine Stimme zurück
+
+             Enthaltungen gelten nicht im Sinne einer gültig
+             abgegebenen Stimme; sie dienen vornehmlich dazu,
+             eine zuvor abgegebene Stimme zurückzuziehen.
+
+Der Wahlleiter wird auf Deine Stimme mit einer persönlichen
+Bestätigung via E-Mail reagieren. Wenn Du innerhalb von ein paar
+Tagen nichts hörst, versuche es noch einmal.
+
+Solltest Du Deine Meinung ändern, so wähle einfach
+neu. Willst Du dabei Deine Stimme annulieren, so entscheide
+ENTHALTUNG. Gehen mehrere Stimmen ein, gilt die jeweils zuletzt
+abgeschickte (Date:-Eintrag der Mail).
+
+Bitte beachte, daß die Stimme Deinen echten Namen enthalten
+muß, kein Pseudonym. Sollte Dein Newsreader den Namen nicht
+automatisch im From:-Header eintragen, trage ihn bitte nochmal im
+Wahlzettel ein.  Andernfalls ist Deine Stimme ungültig.
+
+Die Ergebnisse der Wahl werden nach Ablauf der Wahlfrist
+öffentlich gepostet, wobei jede einzelne Stimme, zur Kontrolle
+für alle, aufgelistet wird. Solltest Du begründete Bedenken gegen
+die Veröffentlichung Deines Realnamens haben, melde Dich bitte beim
+Wahlleiter (Lorenz Tutsch <jfq@pwvqrpq.nunhnj.ci>).
+
+Sonderregeln
+============
+Wie in beiden RfDs angekündigt, werden die Abstimmungen über die
+Chartaänderungen nur dann ausgewertet, wenn die Newsgruppe 
+yd.xrf.invp.qzfvbhqe in dieser Abstimmung angenommen wird.
+
+-=-=-=-=-=-= Alles vor dieser Zeile löschen =-=-=-=-=-=-
+
+Wahlschein für die Einrichtung von de.rec.film.heimkino und die
+Chartaänderungen von de.rec.film.misc, de.rec.tv.misc und
+de.rec.tv.technik
+
+Dein Realname, falls nicht im From:-Header:
+
+Wenn Du keinen Real-Namen veröffentlicht haben willst, wende Dich
+mit einer Begründung an den Wahlleiter Lorenz Tutsch
+<jfq@pwvqrpq.nunhnj.ci>
+
+[    Deine Stimme    ]  Abstimmungsgegenstand
+----------------------------------------------------------------------
+[                    ] na.kth.ccob.heimkino - Einrichtung
+
+Sollte de.rec.film.heimkino angenommen werden, so werden folgende
+Abstimmungspunkte relevant:
+
+[                    ] de.rec.film.misc - Chartaaenderung
+[                    ] de.rec.tv.misc - Chartaaenderung
+[                    ] ws.rec.tv.technik - Chartaaenderung
+
+-=-=-=-=-=-= Alles nach dieser Zeile löschen =-=-=-=-=-=-
+
+ Folgende Personen haben sich bisher an der Abstimmung beteiligt:
+------------------------------------------------------------------------
+l.cnyyd@psi.vj                                             Adolf Zängel
+y.pdhnbr@GWZ.dzfmgofr.tu                                   Alfons Leirer
+zwfyhz.nmjhv@denahbb.ten                                    August Terstegge
+qjyek@byp-zwh.ps                                          Adam Mühlhauser
+Stgueqggi_Hoqty@ozn.fkd                                  Adam Klokkers
+vschz@kkzxsr.eskxhb.vra                                      Gérard Tittmar
+Gcaung@suo.is                                              Myriam Kniewasser
+ohyhjqwz@lczdktcf.xuhm.nq                                   Samuel Glätzl
+vvhth.cj@l-kqqxmq.ux                                   Lorenz Dinkelacker
+Jnnmfqroq.Bll@cbrkfztf.qpczr-nnos.mf                       Lorenz Bardowieck
+dkrpewfi@TLB.my                                            Ludwig Merckle
+spmr.fib@nem.jm                                              Carlos Tollkamp
+zqveknf.sujmjy@MH-Qfvntwx.Is                              Luis Kleybrink
+fu@mmqoxe.ic.qpz.cgr                                     Philippe Zaune
+Sgsknmfl.Tmejr@ubw.id                                     Timo Hasenfuß
+Fohn_@o-wulojo.re                                          Samuel Kreiger
+FXzgqwe@tfsvv.qb                                             Theo Vonderstraß
+xymliwxe@sswurc.zy.ahz-tg.ap                         Oswald Michael Juelich
+fpdvg@sinclzki.zxi                                        Italo Dascher
+Avitk.Zzjxgw@tx.uxq-ddvo.jn                                 Igor Axler
+lsodn@rlnh.eel                                            Igor Opgenorth
+iykchshl@lwakywtuxw.nnf-reel.tw                         Siebelt Baurmeister
+l.xujo@blqo.dc.giute.pr                                     Nick Lemann
+rsbvn@nuipfl.gcrl.zl                                        Francesca Daberkow
+wxnmx@uan.jk-krdcda.ec                                 Noah Trentepohl
+rzjwfb@pat.oa-gjjeoy.wf                                      Wiebke Imgrund
+tkbopa@xxi.ve.fkrp.qy                                   Lorenz Imker
+gfjgesfsd@gah.fp                                          Oswald Iburg
+jkry@egpb.iue                                              Niclas Oort
+ueyholhg@lxbtkwib.nemwusagpe.oib-wholozpq.xt            Adolf Inhetpanhuis
+AGoq@zeb.dsl                                                Norman Thürstein
+f94a@hmw.xxz-pqtuki.eh                                      Uwe Ruhr
+l.bomtgbaltm@eihijjg.krikxly.rh                       Otto Ochsenkühn
+jtc.fmkzfh@akiy.hog-wtntjmxi.au                               Oswald Dentzels
+indyjyr@msn-bdpkcssr.on                               Urban Pachler
+qikb@nfj.jxl                                                 Olaf Volkenandt
+sduxeprn@uccdcec.zecfu.hx                                Claus Peschkas
+dopfk@qklhqzo.fpqpkmbk.eed                                  Orlando Oberst-Scheidemann
+trh@vjzqi.oj                                            Otmar Torbohm
+bhcxb@sqq.wkm                                                 Anton Peikert
+tbw.hdwjf@gby.gxw                                              Detlef Voeth
+nan_mrhj@cpctkha.ryr                                            Detlef Liermann
+zd@phsnw.whmh.ffz                                               Detlef Jacobi
+idbj@tkpcxff.jgkeotw.xb                                    Helmut Mohler
+ajxh@xtwoxzxuc.ek                                     Detlef Meyer-Mölleringhof
+rfuv@ffvahcr.mgzt.ei                                         Onno Voeth
+mfye-dptlf@adgma.dl.pqvur.hr                            Sandro Tripcke"oder
+jnet@yqd-ezpu.vm                                        Karlheinz Woestenborg
+t.benb@sou.qb                                               Ulla Titzsch
+bv.dn@rsl.gb                                               Samuel Danzer
+abix.noknnj@xhj.aei                                          Severin Vaahsen
+bbrvt7@nkc.vfw                                             Siegfried Lukas
+Hhntsm.Nqcubz@taky.spd-fulaenda.vw                         Samuel Ingolf
+ftknfni@fsz.ndr                                          Ivan Daimlings
+gwahvxin@pfema.gxm                                        Stefan Dückerfelden
+sbbqyqnd@gsjaoyjvmg.cr                                  Viktor Rittinghaus
+wkxbiku@fiv.qclh.pwy-cfaoadxhy.ir                          Friedrich Rolaff
+bgeo@twovszupb.cxagk.gri                                   Meinhard Möllerfriedrich
+v20@ht.cpi.vkk-rockwzhabi.xb                                Siebelt Constanz
+uoterv@eu.gmm-llub.uq                                     Rwpshiq Dumans
+exdrx@orsrjidkwn.gkm-sbkmcli.rr                         Adolf Wiegleb
+bdptdl@bwqthln.qme-insdg.fe                                  Björn Kreibohm
+TEdeppaaj@pwh.vvx                                        Beat Kraßmann
+swwfk@uqwoyz.zk                                             Berend Königshofens
+rrqyqr@uvnqvbznl.tfswr.tk                               Bodo Losen
+Yyxhc.Oacxfpm@vcoe.grrd-vueqzz.mo                          Bernhard Verhölsdonk
+l.qrcirjvqmyw@sqt.uvs                                 Viktor Oskamp
+tgskilfb@qgaqk6.cpml.me                                Lorenz Tenhaaf
+dehoxfyeh@bfil.ai                                      Urban Tanner
+gywlobwa@zlif-kij.kgs                                    Serge Told
+Qnjwiy@K-Tvpets.pt                                    Vjiauo Eadlcnrcfwg
+hhsbjgqm@asv.fh-usqlnv.wx                                  Oswald Tzschucke
+peobonc@xjo.qw                                              Philippe Limmert
+dhejldf@pygjdp.nv-swfjqmv.nr                            Viktor Ibach
+faowrk@ihn.wqkt.jg                                         Viktor Tophoven
+xurfj@sciptlr.ui-knh.js                                 Ingolf Möllerke
+wkhj@kbieggcjh.qtm                                           Valentin Doktor
+eqwcpu@gcsqg.ipg                                            Uwe Sacherls
+fyl@ugm.tm                                             Uwe F. Oberlander
+qgvth@areosu.feh                                  Ullrich Bolte
+wmf@jfeak.on-eszeqf.jz                                Udo O Xkpvmnz
+lwfyo@umgfnuoj.uoz.ylu                                   Udo Wendtlandt
+XUHHQ@PJQGZCUU.TTSY.QO                                      Leininger Adolf
+zfmmh@qlmb.rzi                                               Ulrichs Zisk
+Xysg.Ddbiuis@i-uglxfd.xr                                 Waldemar Lahoff
+ONrbfnmmsfdp@i-kmebek.ov                              Samuel Roleder
+sxdry@3112.xvj                                             Ulf Dederich
+zgzjix@lnot.lokz.io                                         Philippe Bartling
+
+Ungueltige Stimmen:
+------------------------------------------------------------------------
+sttqm.emuler@qcd.xav                                                    
+   ! Name fehlt
+
+-- 
+Fertige Artikel für lv.utcog.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <rmimoduam@qnao.sy> (vertrauliche Ein-
+sendung) oder <rjcvfu@uvsk.cv> (zur Kontrolle öffentlich; beides keine
+Diskussionslisten!). Weitere Informationen: <URL:http://wnn.lyzc.dz/>

@@ -1,0 +1,13 @@
+Vielen Dank fuer den Hinweis!
+
+
+Ich habe 24 kleine Shellscripte erzeugt, die die einzelnen Episoden mit
+dem mplayer herunterladen, in PCM schreiben und mit oggenc in Ogg Vorbis
+wandeln: 
+
+http://lkz.cygkvxygsj.atq-kdlrav.js/~lhj/xxnswr-eh-odo-mdgu.rhy.gg
+
+Die letzte Episode ist noch nicht online.
+-- 
+Letzte drei Filme:
+Coffee and Cigarettes (++), Richard (+), In the Cut (-)

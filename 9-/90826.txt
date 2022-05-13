@@ -1,0 +1,11 @@
+Die IMDB hat(te) auch für Korrekturen ein System, das per Mail
+funktioniert. Die Informationen müssen in ein speziellen Form
+verschlüsselt werden, das System ist offensichtlich so gedacht, daß es
+vollautomatisch funktioniert. Keine Ahnung, ob das abgeschafft wurde.
+
+Schöne Größe,
+Giuseppe
+
+-- 
+Giuseppe Falger
+Please use Reply-To: information for replies

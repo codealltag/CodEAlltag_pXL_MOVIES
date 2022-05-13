@@ -1,0 +1,12 @@
+Dennis Pitsch schrieb folgendes:
+
+
+root@10.3.8.8 > ssh 10.2.2.2
+
+sagt ja wohl alles, oder?
+
+MFG, Steffen
+-- 
+do
+     fork agent ( pasquale );
+repeat;

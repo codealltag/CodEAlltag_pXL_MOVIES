@@ -1,0 +1,27 @@
+Hallo!
+
+Ich suche eine Software, mit der ich meine Filme verwalten kann und 
+die auch einen Etikettendruck unterstützt. Ich hab da schon einige 
+Shareware-Versionen gefunden und getestet - aber es mangelt immer an 
+einer Funktion: Da auch TV-Mitschnitte auf den Tapes sind, kommt es 
+öfters vor, daß mehrere Filme auf einem Band sind. Jetzt soll das 
+Etikett auf der Rückseite allerdings auch mit den x Filmen bedruckt 
+werden. Und daran sind alle mir bekannten Tools gescheitert.
+
+Die Programme die ich gesehen hab, können rein Ergebnis�m���g auch 
+nicht mehr als Excel mit Seriendruck in Word :-(
+
+Das OS ist mir recht egal; ich nehm DOS, Win 3.x bis 9x/2000 oder 
+Linux. 
+
+Gruß, Raymond
+
+PS: ich hoffe mal, daß ich hier richtig bin; dct+v scheint mir noch 
+flscher und dcd.misc wär auch relativ weit hergeholt... Sollte ich 
+trotzdem fehl am Platz sein, wär ich für die richtige Gruppe 
+dankbar-
+-- 
+Benutze Sushi im Glas mit Spüle - "Hey Sushi, hoffentlich gefällts dir da." 
+- Schalt ein Schalter - *schrabb, schrabb* "Hoppla! Hackfleisch-Sushi."
+[Claudio im Adventure "Claudio Wagnermeier and the Alien Mindbenders" (HAF)]
+  http://mex.qldoigfahlgio.ku - Die Seite zu den Hairkiller-Adventures

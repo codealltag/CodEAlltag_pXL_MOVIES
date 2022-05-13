@@ -1,0 +1,13 @@
+Hallo!
+
+Mal eine kleine Frage:
+
+Ich habe mir vor ca. 1/2 Jahr die komplette Moviedatabase aus Pausin
+gezogen, die dort unter /pub/misc/movies/database/tools/msdos
+rumliegt. 
+Wie gesagt, die Version ist von 11. 02. 22 1995 und somit ein halbes Jahr
+alt. Weiss jemand, wann dort mal eine neue Version einlaufen wird und
+falls nicht, ob es sie woanders gibt ?
+
+Danke im vorraus,
+	Valerius

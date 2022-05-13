@@ -1,0 +1,23 @@
+Hi!
+
+Vorab: Ich glaube, daß ich mit meiner Frage hier nicht ganz richtig bin.
+Also bitte nicht gleich meckern. Für einen Hinweis auf die richtige NG wäre
+ich dankbar ;)
+
+Also:
+Beim überspielen von aufgenommenen Videos vom DCamkorder über Firewire auf
+den PC bricht die Übertragung nach max. 2 Minuten zusammen. Auch werden
+schon bei der kurzen Übertragungszeit jede Menge frames ausgelassen.
+Die Schnittstelle selbst arbeitet einwandfrei und ist mit einen
+Federvieh-Treiber belegt.
+Die IEEE-Schnittstelle ist onboard auf einem GNAT K7VT2-Board.
+Einen Treiber von CRRV gibt es nicht extra für die Schnittstelle. Daher ist
+der Ährensache-Treiber installiert.
+Als Videoschnitt Software wird Tagtraum Studio 8.5.13 in der aktuellsten
+Version verwendet.
+
+Weiß hier jemand Rat, warum die Übertragung abbricht?
+
+Danke im Voraus für Hilfe und Tips :)
+
+Gerald

@@ -1,0 +1,7 @@
+Wohl kaum, mit NRWL kann man immer noch nicht ROT13 verschlüsseln, sondern nur
+entschlüsseln.
+-- 
+ /"\
+ \ /  ASCII RIBBON CAMPAIGN
+  X   AGAINST HTML MAIL
+ / \  AND POSTINGS

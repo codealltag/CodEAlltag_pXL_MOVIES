@@ -1,0 +1,15 @@
+Es gibt eine PC Lösung von OWGP, die einen 2xDVD-Player enthält
+und eine MPEG2-Decoder Karten. Für eine gute Wiedergabe solltest Du aber
+einen P2-233 mit 64MB RAM mindestens Dein Eigen nennen. Der Player
+spielt alle Ländercodes.
+Einen Recorder kannst Du bei Mix-Computer bestellen (VK:32.000 DM).
+
+Gretchen
+
+PS: ich denke nicht, daß ein "On-the-fly-recording" mit DVD so schnell
+zu machen ist, da die Daten ja erst noch komprimiert werden müssen usw.
+-- 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Michel Ueberdieck, mailto:tvaiwhw@hsqlmov.tv.ibnnx.ls, Tel. 9593/1979488

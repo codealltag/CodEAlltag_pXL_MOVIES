@@ -1,0 +1,7 @@
+Auf alle Fälle ist es 6502-Code und jene CPU wurde damals sowohl von 
+Unop, UML und OIL! verwendet und noch zig anderen Firmen. Nach 
+http://csg.ikpuwbzvz.hbz/?n=91 handelt es sich aber um ein Listing aus 
+dem Nibble-Magazin für Apple II.
+
+Bye
+Edouard

@@ -1,0 +1,28 @@
+Eine Zeitreise in die Zukunft ist in der Theorie (Allgemeine
+Relativitätstheorie)
+schon heute überhaupt kein Problem, wenn man das Zwillings-Paradoxon
+ausnutzt.
+In der Praxis scheitert es nur daran, daß wir noch keine Rakete bauen können,
+die sich über einen längeren Zeitraum konstant beschleunigen läßt und damit
+nahe
+an die Lichtgeschwindigkeit rankommt (z.B. 0.9c, besser noch 0.99c).
+Wenn es eine solche Rakete gäbe, könnte man mit ihr die Erde mit konstanter
+Beschleunigung verlassen (z.B. 1g, damit man's körperlich gut verträgt), nach
+Ablauf einer gewissen Eigenzeit t mit -1g abbremsen, so daß man nach Verlauf
+der Eigenzeit 2t gegenüber der Erde ruht (irgendwo im Weltraum).
+Dann macht man in der entgegengesetzten Richtung dasselbe und landet nach
+der Eigenzeit 4t wieder auf der Erde, auf der inzwischen eine Zeit T
+verstrichen
+ist, die wesentlich größer ist als 4t. T ist dabei eine Funktion von t und der
+gewähl-
+ten Beschleunigung, so daß man ganz gezielt "in" ein bestimmtes Datum in der
+Zukunft reisen kann.
+
+Eine Rückreise in die "Gegenwart" ist dabei natürlich nicht möglich, denn das
+wäre aus der Sicht des Astronauten wieder eine Reise in die Vergangenheit, und
+eine solche ist tatsächlich unmöglich (nicht nur aus physikalischen, sondern
+schon
+aus rein logischen Gründen).
+
+Tschüss,
+Claus

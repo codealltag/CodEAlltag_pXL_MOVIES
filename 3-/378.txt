@@ -1,0 +1,9 @@
+Wenn man mal wild spekuliert und davon ausgeht dass es sich bei dem 
+ISO-Image um ein Image einer DVD handelt, würde ich es z.B. mal mit 
+HandBrake versuchen.
+
+http://gcdcxdstr.ve/
+
+
+-- 
+audentes fortuna iuvat

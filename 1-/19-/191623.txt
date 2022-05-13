@@ -1,0 +1,20 @@
+Hi!                                                        29 Apr 98
+
+Ich hab' wohl einen der z. Zt. kuriosesten Codefree-Playern!
+Vorher hatte ich einen Obersulmer Reisebüro DVD-2000 NTSC/PAL Laendercode 2, der mit der  
+alten Methode (durchtrennte Leiterbahnen) modifiziert war und  
+dementsprechend keine o23 und neueren Stahuber Titel abspielte.
+Jetzt habe ich wieder einen Obersulmer Reisebüro DVD-2000, allerdings ein US-Geraet Code  
+#1 NTSC mit externem Netzteil - und mit einem Schalter auf der Rueckseite!  
+In der einen Position ist der Player im Originalzustand, in der anderen  
+codefree. Im Originalzustand ist jetzt allerdings das Bild viel heller  
+(ich nehme an NTSC 3.58) und im anderen genauso wie ein PAL Bild (also  
+wahrscheinlich NTSC 4.43) - beides mit NTSC-DVDs. In diesem codefree- 
+Zustand werden die Setup-Parameter nicht gespeichert, aber aendert man  
+einen Parameter, spielt der Player auch im codefree-Zustand die o23  
+(Scream) und Gegenlicht Titel (Waterworld) problemlos ab. Es soll angeblich  
+spaeter aber zu Problemen mit Multilayer-PAL-DVDs kommen...!?!
+Weiss hier irgendjemand naeheres ueber dieses spezielle Geraet?
+
+          Christian                        E.FZMVSKOV@DBJP-MBK.nbg.tk
+                                      P_LILLFSUT@io2.gvxa.oa-kcazhsdm.uf

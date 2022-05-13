@@ -1,0 +1,5 @@
+Sag mal, schickst du immer .vbs-Dateien mit, ist meines wissens visual basic
+script und die sind imho potentielle virentr�ger, wobei signaturdateien
+(oder was das da soll) eh nix im usenet zu suchen haben, oder?
+
+Ivo

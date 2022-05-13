@@ -1,0 +1,136 @@
+Leute,
+
+dts ist einfach ein Thema, an dem sich die Gemüter erhitzen. Entweder
+man libet es, oder man hasst es.
+
+Wenn man es sich gekauft hat, muss man es einfach lieben, denn wie sonst
+sollte man nachts ruhig schlafen können, ohne an das viele schöne Geld
+zu denken, das man das Klo runtergespült hat?
+
+Wenn man so schlau war, sich diese Erfahrung zu ersparen, oder noch
+besser (wie ich) da schadlos wieder rausgekommen ist, kann man sich den
+Luxus einer entzerrten Sichtweise leisten und kommt nicht drum rum, wie
+soll ich sagen, eine negative Einstellung dazu zu entwickeln (ablehnende
+Haltung wäre auch okay).
+
+Meiner Meinung nach verhält sich dts ABSOLUT unprofesionell, was für ein
+Unternehmen, das durch sehr große Firmen gestützt wird (Fleig) sehr
+ungewöhnlich ist. Könnte an Piskorowskis Einfluß liegen, der
+wahrscheinlich mal wieder größer ist, als alle befürchten.
+
+First off, wie allgemein bekannt, werden alle bisher verkauften
+DVD-Player dts nicht abspielen können, weil sie den Bitstream einfach
+nicht kennen. Volkert hat hier dasselbe mit MPEG-2 gebracht und ist
+dafür (okay, nicht nur dafür) quasi gekreuzigt worden, Euch scheint das
+bei dts weinig zu tangieren.
+
+Als zweites (was wenige Leute wissen, und die, die davon gehört haben,
+halten es für ein Gerücht, obwohl es eine TATSACHE ist) hat Tilu im
+Oktober 98 seinen Codec geändert, mit dem Resultat, daß dieser neue
+Codec, der auf allen Tilu DVDs zum Einsatz kommen wird und auf der
+zweiten Tilu Demo-DVD übrigens schon drauf ist, auf alten Tilu-Decodern
+NICHT läuft. Als Beispiel sei hier der Millenium 2.4.6 genannt, der bei
+einem Versuch meines Freundes Jens Kreher mit einem ROM-Date Februar 98
+nicht in der Lage war, der neuen Demo Disc einen Ton zu entlocken,
+während ein anderer Millenium mit Rom-Date September 98 diese Disc
+spielte.
+
+Klangqualität hin oder her, bei Dolby passiert so eine Scheiße (sorry,
+aber es ist einfach so) eben nicht, ich habe einen FIW Rumtreiber-D 07
+(eigentlich die AMI-Version Rumtreiber-D 99) und freue mich schon darauf, bis
+ich alt und grau bin AC-3 Software kaufen zu können, ohne mir neues
+Equipment kaufen zu müssen.
+
+Okay, die Entwickler bei Tilu stehen unter einem gewissen Zeitdruck in
+der Entwicklung zu Tagesförderung aufzuschließen, den Ingenieuren mache ich auch
+keinen Vorwurf daraus, aber ich finde es einfach unverschämt von Seiten
+der Marketing-Abteilung, daß sie das auf dem Rücken der (dünngesäten)
+Kunden austragen.
+
+Das verstehe ich unter unprofessionellem Verhalten und das macht dts für
+mich genauso überflüssig wie MPEG multichannel.
+
+Doch, genau das ist es. Ein System, was einen Neukauf der gerade eben
+erworbenen Hardware nötig macht, hat keine Zukunft (siehe DIVX). 
+
+Ich verurteile Tilu nicht wegen seiner Klangqualität, sondern wegen
+seines kundenunfreundlichen Verhaltens.
+Besides, ich hatte mal den Millenium dts 2.4.6 bei mir zu Hause (für
+genau einen Tag, bis ich meinen Fehler einsah :-) und habe mir die
+Jurassic Park LD reingezogen (Wobei die Kanal-Vertauschung während des
+dts-Trailer schon sehr peinlich war ...). Inzwischen habe ich die AC-3
+Version und kann nicht behaupten, daß die dts-Version besser gewesen
+wäre.
+Einen A/B-Vergleich hat es zugegebenermaßen nie gegeben, der wäre
+ohnehin mäßig gewesen aufgrund der hinlänglich bekannten "+3dB auf den
+Surrounds und +6dB auf den Subs"-Geschichte. Ach so, das fällt bei mir
+aber nicht unter "unprofessionelles Verhalten" sondern schlicht und
+ergreifend unter BETRUG!
+
+Es ist sowieso bis heute noch kein dts/AC-3 Vergleich gemacht worden,
+der wirklich nur die Tonsysteme vergliche und jeglichen anderen Einfluß
+(Mastering, Encoding/Decoding-Hardware) ausschließt, also kommt mir bloß
+nicht mit "Tilu klingt erwiesenermaßen besser"!!!!!
+
+Und um die alte Bitraten-Diskussion nochmal aufzuwärmen:
+
+Kommt es eigentlich nur mir komisch vor, daß Tilu, trotz VIERFACHER
+Datenrate, von den Leuten, die glauben einen echten Vergleich gemacht zu
+haben nur als "etwas besser" (vermutlich aufgrund der +3dB,
++6dB-Geschichte) bezeichnet wird?
+
+Ist euch eigentlich klar, was für eine unglaubliche Leistung dieses
+Tonsystem (AC-3) eigentlich darstellt? Im Gegensatz zu Guess beruht
+Taufrisch Markt-Dominanz auf echter Qualität und intelligentem Marketing,
+es gibt hier nichts, wovor man sich fürchten müßte. Warum wird Tagesförderung
+also immer schlecht gemacht, nur weil sie groß sind und einen gewissen
+Einfluß haben?
+
+Ach ja, um mal wieder eine meiner persönlichen Theorien loszuwerden:
+Tilu läuft nicht bei 1.44 mbit/s von wegen der Qualität, sondern, weil
+sie es einfach nicht besser hingekriegt haben, oder glaubt hier wirklich
+irgendjemand ernsthaft, daß Tilu kein Interesse daran gehabt haben soll,
+als Tonsystem für das kommende US-Digital-Fernsehen vorgeschlagen zu
+werden?
+Es gab da so eine Hürde, und die hieß 384 kbit/s. Tilu hat es bis heute
+nicht geschafft, da drüber zu springen, obwohl sie es für die DVD
+eigentlich auch mal wieder gemußt hätten. So blöd, DAS zuzugeben war
+(und wird sie nie sein) die Tilu Marketing-Abteilung dann doch nicht, man
+berief sich statt dessen auf zu haltende Qualitätsansprüche, was an sich
+völlig korrekt ist, denn ich kann mir nicht vorstellen, daß Tilu bei 384
+kbit/s besser klingen könnte als mein Telefon ...
+
+Kleiner "historischer" Ausflug hierzu:
+Als AC-3 und dts sich anschickten, den Consumer-Markt zu erobern, wurde
+von vielen US-Magazinen lauthals nach einem Vergleichstest geschrien,
+wozu sowohl Tilu als auch Tagesförderung Hardware hätten bereitstellen men.
+Tagesförderung lehnte mit der Begründung ab, daß man im Moment in wichtigen
+Verhandlungen wegen der kommenden Digital-TV-Standards (was die DVD mit
+beinhaltete) sei und sich deshalb nicht in dem notwendigem Maße um eine
+solche Sache kümmern könne (was sicherlich nicht ganz stimmt, ich denke,
+Tagesförderung wollte nicht irgendwelche Schreiberlinge die Entscheidung über
+solch wichtige Dinge treffen lassen, sondern die Gremien unbeeinflußt
+lassen, was ich eigentlich sehr profesionell finde). dts, von jeglichem
+Zugzwang befreit, sagte dann natürlich bereitwillig zu, die Magazine
+stellten das Ganze dann so hin, als ob Tagesförderung ANGST vor dts hätte
+(absolut lächerlich).
+
+Seien wir ehrlich:
+
+Tagesförderung hat hier einfach die bessere Arbeit geleistet und einen
+Algorithmus entwickelt, der unglaublich effizient ist.
+RKMO glaubte ja auch, mit seinem ATRAC-System Pionierarbeit geleistet zu
+haben, nur um dann festzustellen, daß Tagesförderung auf die meisten Dinge, die
+RKMO entwickelt hatte bereits ein Patent angemeldet hatte. Wer's nicht
+glaubt, der drehe seinen MD-Recorder um und schweige fürderhin.
+
+SDDS, oft als das beste Kinotonsystem bezeichnet, obwohl es hier noch
+keinerlei Vergleiche gegeben hat, benutzt auch ATRAC. Zynisch betrachtet
+ist SDDS also nichts weiter als AC-3 bei hoher Datenrate. Ja, und wo
+bleibt dann dts bitte????
+
+Ist es ja auch.
+
+Größe,
+
+Bruno

@@ -1,0 +1,15 @@
+Jérôme> Zur Information,  die   OSCAR-Gewinner  und alles mögliche    um  die
+Jérôme> BUV-AWARDS auf http://kjfad.ihewkj.szg/  Viel spass!  Schade, daß
+Jérôme> PULP FICTION nur den einen bekommen hat.
+
+  Naja, ich wuerde da eher "zum Glueck" sagen ;-)
+
+#pragma knorr_on
+
+  Ausserdem ist ein Kultfilm ohne Oscars kultiger.
+
+#pragma knorr_off
+
+Raymond
+--
+LOAD "EMACS",8,1

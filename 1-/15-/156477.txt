@@ -1,0 +1,23 @@
+Hi!
+
+Gibt es eine Newsgroup oder Mailingliste fuer Fragen bzgl. der IMDb?
+
+Konkret geht's mir um die Offline-Version und deren Zusammensetzung.
+Irgendwie werde ich den Verdacht nicht los, dass das, was auf den
+Servern liegt nicht ganz das selbe ist, was man im WWW angucken kann.
+Irgendwie fehlen da Infos, von denen man bestimmt nicht sagen kann,
+dass sie so aktuell sind, dass sie noch nicht in die Offline-Version
+den Weg gefunden haetten.
+
+Zum Beispiel sind im WWW unter "Ncholas Mathäus" (Leon aus Buffy)
+4 Eintraege vorhanden, in der Offline-IMDb nur einer (und noch nicht-
+mal "Buffy"!). Und das beim Datenbank-Stand von vor 2 Wochen.
+
+Wer kann mir da weiterhelfen?
+
+   -benno
+
+-- 
+  Benno Goerges - Universitaet Zweibrücken
+  mailto:ahlvf@usmtsfsomq.ahp-ax.ms,  ICQ: 12960706
+  http://wmy.zskh.nqs-hu.kl/~jauvjk

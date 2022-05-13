@@ -1,0 +1,10 @@
+Hab's gefunden. Speichermangel auf der Festplatte (wie doof!).
+
+Letzte Frage ... sind diese Warnings normal (etwas viel)?
+
+Query OK, 4782895 rows affected (1 min 5.03 sec)
+Records: 4782895  Deleted: 0  Skipped: 0  Warnings: 3227297
+
+-- 
+Gunter Kuehlewein <obpr@nbyplh.zk>, Capolago
+PGP RSA & DH/DSS public key on request and on public servers

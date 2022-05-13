@@ -1,0 +1,35 @@
+On Tue, 07 Mai 1999 22:54:32 GMT, Knut Nordengrün
+
+Die Discs gleichen von den Abmessungen her einer CD, besitzen aber
+eine höhere Aufzeichnungsdichte, wodurch sich die Kapazität auf rund
+5GByte erhöht.
+Zusätzlich können die Discs zwei Seiten und zwei Schichten je Seite
+aufweisen, was eine Gesamtkapazität von bis zu 18GByte ermöglicht.
+
+
+Bild: MPEG2 (variable Datenrate, mit Maximalwerten in der Gegend von
+9MBit/sek).
+Ton: Meist AC3 (aka Dolby Digital), seltener PCM oder DTS, theoretisch
+noch MPEG Layer2, das hat sich aber nicht durchgesetzt.
+
+
+Siehe oben.
+
+
+Hängt von der gewählten Datenrate und Schichtenanzahl ab. 
+Zwei Stunden Spielfilm plus etwas Bonusmaterial passen aber problemlos
+in sehr guter Bild- und Tonqualität auf eine einfache DVD5 (5GB).
+
+
+Wenn Du genügend Kleingeld hast, ja. So um die 20-30.000DM müßtest Du
+schon investieren, dazu 100DM pro (einmal beschreibbarem) Rohling.
+
+Consumertaugliche DVD-Recorder kommen gerade in Japan auf den Markt,
+sind aber auch noch reichlich teuer (5000DM?), und nicht kompatibel zu
+den bisherigen Abspielgeräten. Hier sollte man wohl noch wenigstens
+ein, zwei Jahre warten.
+
+
+Scheint so.
+
+Ralph

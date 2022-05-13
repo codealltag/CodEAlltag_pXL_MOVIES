@@ -1,0 +1,236 @@
+NG-Statistik drfm für den März 2003
+erstellt mit einem Skript von Nikolaus Thomass.
+
+26/05: 2347 postings
+27/05: 2252 postings
+28/05: 1990 postings
+29/05: 1790 postings
+30/05: 2352 postings
+31/05: 2979 postings
+
+01/06: 2473 postings
+
+
+Autoren mit den meisten Postings (2473 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 109 | 2661 | 206.1 | Heiko T. Ingenbleek     |  4.4%  xxxxxxxxxxxxx
+   2 |  80 | 2486 | 177.5 | Otmar Zumbeck          |  3.2%  xxxxxxxxxx   
+   3 |  59 | 3327 | 193.3 | Herbert                 |  2.4%  xxxxxxx      
+   4 |  54 | 1426 |  94.5 | Heino Teubert          |  2.2%  xxxxxx       
+   5 |  42 | 1261 |  93.1 | Detlef Zöpfls         |  1.7%  xxxxx        
+   7 |  41 | 1172 |  76.6 | Albert Körfers      |  1.7%  xxxxx        
+   8 |  40 |  953 |  73.8 | Ben Zschiegner        |  1.6%  xxxxx        
+   9 |  39 | 1173 |  84.2 | Burkhard Müller-Römer        |  1.6%  xxxxx        
+  11 |  38 | 1615 |  86.8 | Albert Tschammer            |  1.5%  xxxx         
+  14 |  37 | 1027 |  69.1 | Nikolaus Utendorf       |  1.5%  xxxx         
+  15 |  35 | 1437 |  87.8 | Albert Mösenlechner        |  1.4%  xxxx         
+  19 |  34 |  742 |  63.9 | Francis Gottschald      |  1.4%  xxxx         
+  21 |  32 |  681 |  63.5 | Gebhard B. Isenhagen      |  1.3%  xxxx         
+  22 |  28 |  756 |  58.6 | Gebhard Uehlemann         |  1.1%  xxx          
+  24 |  27 |  828 |  48.8 | Abdul Melers        |  1.1%  xxx          
+  26 |  26 |  441 |  35.0 | Antonio Jostarndt           |  1.1%  xxx          
+  27 |  25 |  870 |  55.8 | Heiko Ungruhe         |  1.0%  xxx          
+  29 |  23 | 4764 | 309.1 | Ulfert Grandl            |  0.9%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (377 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                        
+       13 |   4 |  1.1%  x                                              
+       12 |   4 |  1.1%  x                                              
+       11 |   8 |  2.1%  xx                                             
+       10 |   4 |  1.1%  x                                              
+        9 |  10 |  2.7%  xxx                                            
+        8 |   8 |  2.1%  xx                                             
+        7 |   4 |  1.1%  x                                              
+        6 |  11 |  2.9%  xxx                                            
+        5 |  24 |  6.4%  xxxxxxx                                        
+        4 |  17 |  4.5%  xxxxx                                          
+        3 |  33 |  8.8%  xxxxxxxxxx                                     
+        2 |  49 | 13.0%  xxxxxxxxxxxxxxx                                
+        1 | 155 | 41.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (197 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Herbert                 |  21 |   178 | 10.7%  xxxxxxxxxxxxxxxxxxxx
+   2 | Ulfert Grandl            |   9 |    19 |  4.6%  xxxxxxxxx           
+   3 | Detlef                 |   6 |   126 |  3.0%  xxxxxx              
+   5 | Nikolaus Utendorf       |   5 |    38 |  2.5%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (197 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Antonio Jostarndt           |   3 |   310 | 12.5%  xxxxxxxxxxxxxxxxxxxx
+   2 | Georg Mertel       |   6 |   214 |  8.7%  xxxxxxxxxxxxxx      
+   3 | Herbert                 |  21 |   178 |  7.2%  xxxxxxxxxxxx        
+   4 | Albert Körfers      |   1 |   160 |  6.5%  xxxxxxxxxx          
+   5 | Detlef                 |   6 |   126 |  5.1%  xxxxxxxx            
+   6 | Remmer Flemmig        |   2 |    97 |  3.9%  xxxxxx              
+   7 | Kai Mangert        |   4 |    78 |  3.2%  xxxxx               
+   8 | Edwin Mibus      |   1 |    65 |  2.6%  xxxx                
+  10 | Norbert N.             |   1 |    62 |  2.5%  xxxx                
+  11 | Winfried Raestrup        |   2 |    54 |  2.2%  xxx                 
+  12 | Richard Josef         |   1 |    52 |  2.1%  xxx                 
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2473 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 278 | Der erste LOTR-ROTK-Thread              | 11.2%  xxxxxxxxxx
+   2 | 160 | Best and worst of 2002                  |  6.5%  xxxxxx    
+   3 | 122 | Final Edition?                          |  4.9%  xxxx      
+   4 | 108 | welche filme?                           |  4.4%  xxxx      
+   5 |  89 | beste Schock-Szene?                     |  3.6%  xxx       
+   6 |  65 | Das leidige Thema - Film-Downloads!     |  2.6%  xx        
+   8 |  64 | Filmkritik: Die Liga der aussergew�hnlic|  2.6%  xx        
+  10 |  62 | Master and Commander                    |  2.5%  xx        
+  11 |  52 | Diskussion: Urheberrecht abschaffen?    |  2.1%  xx        
+  13 |  49 | Just some more Teenie Movies...         |  2.0%  x         
+  14 |  47 | Sequels - ja oder nein ? Gute Sequels   |  1.9%  x         
+  15 |  44 | DVDs die nicht erscheinen wollen        |  1.8%  x         
+  16 |  36 | Adaptation --> The Three                |  1.5%  x         
+  17 |  32 | Fehler in independence Day              |  1.3%  x         
+  19 |  28 | Infos?                                  |  1.1%  x         
+  21 |  27 | Namen vergessen: Strichmännchen         |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (197 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                          
+    17 |   5 |  2.5%  xxxxx                                             
+    16 |   9 |  4.6%  xxxxxxxxx                                         
+    15 |   2 |  1.0%  xx                                                
+    14 |   1 |  0.5%  x                                                 
+    13 |   3 |  1.5%  xxx                                               
+    12 |   5 |  2.5%  xxxxx                                             
+    11 |   4 |  2.0%  xxxx                                              
+    10 |   5 |  2.5%  xxxxx                                             
+     9 |   4 |  2.0%  xxxx                                              
+     8 |   3 |  1.5%  xxx                                               
+     7 |   3 |  1.5%  xxx                                               
+     6 |   4 |  2.0%  xxxx                                              
+     5 |   9 |  4.6%  xxxxxxxxx                                         
+     4 |  11 |  5.6%  xxxxxxxxxxx                                       
+     3 |  23 | 11.7%  xxxxxxxxxxxxxxxxxxxxxxx                           
+     2 |  30 | 15.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+     1 |  49 | 24.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 349 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 118 | ELGP Outlook Express      | 33.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  50 | Forte Agent                    | 14.3%  xxxxxxxxxxx              
+  48 | EBR                        | 13.8%  xxxxxxxxxx               
+  16 | Netscape                       |  4.6%  xxx                      
+  15 | 40tude_Dialog                  |  4.3%  xxx                      
+  13 | KNode                          |  3.7%  xx                       
+  11 | MacSOUP                        |  3.2%  xx                       
+  10 | tin                            |  2.9%  xx                       
+  10 | slrn                           |  2.9%  xx                       
+  10 | Xnews                          |  2.9%  xx                       
+   9 | Gnus                           |  2.6%  x                        
+   9 | Hamster                        |  2.6%  x                        
+   8 | Forte Free Agent               |  2.3%  x                        
+   2 | EBR Thunderbird            |  0.6%                           
+   2 | MicroPlanet Gravity            |  0.6%                           
+   2 | Pan                            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | VSoup                          |  0.3%                           
+   1 | Session Scheduler (Queue Name: |  0.3%                           
+   1 | OpenXP                         |  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Opera7.11                      |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | TIN [UNIX                      |  0.3%                           
+   1 | Opera7.03                      |  0.3%                           
+   1 | EONV                 |  0.3%                           
+   1 | Hogwasher                      |  0.3%                           
+   1 | Opera7.20                      |  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 114 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  27 | ELGP Outlook Express      | 23.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | Forte Agent                    | 21.1%  xxxxxxxxxxxxxxxxxxxxxxx  
+  12 | EBR                        | 10.5%  xxxxxxxxxxx              
+   9 | Netscape                       |  7.9%  xxxxxxxx                 
+   6 | Hamster                        |  5.3%  xxxxx                    
+   5 | MacSOUP                        |  4.4%  xxxx                     
+   4 | Gnus                           |  3.5%  xxx                      
+   4 | KNode                          |  3.5%  xxx                      
+   4 | 40tude_Dialog                  |  3.5%  xxx                      
+   4 | slrn                           |  3.5%  xxx                      
+   3 | tin                            |  2.6%  xx                       
+   3 | Forte Free Agent               |  2.6%  xx                       
+   2 | Xnews                          |  1.8%  x                        
+   2 | Pan                            |  1.8%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%                           
+   1 | EBR Thunderbird            |  0.9%                           
+   1 | MicroPlanet Gravity            |  0.9%                           
+   1 | Luto.10                      |  0.9%                           
+   1 | CrossPoint                     |  0.9%                           
+
+
+Postingverteilung über den Monat (2473 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 188 |  7.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | 121 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   3 |  64 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+   4 |  94 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   5 |  52 |  2.1%  xxxxxxxxxxxxxx                                      
+   6 |  45 |  1.8%  xxxxxxxxxxxx                                        
+   7 |  66 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+   8 | 116 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+   9 |  95 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  10 |  77 |  3.1%  xxxxxxxxxxxxxxxxxxxxx                               
+  11 | 124 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  12 |  96 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  13 |  36 |  1.5%  xxxxxxxxxx                                          
+  14 |  66 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+  15 |  84 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  16 |  89 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  17 | 124 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  18 | 115 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  19 |  75 |  3.0%  xxxxxxxxxxxxxxxxxxxxx                               
+  20 |  97 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  21 |  79 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  22 |  88 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  23 |  45 |  1.8%  xxxxxxxxxxxx                                        
+  24 |  32 |  1.3%  xxxxxxxxx                                           
+  25 |  50 |  2.0%  xxxxxxxxxxxxxx                                      
+  26 |  80 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  27 |  54 |  2.2%  xxxxxxxxxxxxxxx                                     
+  28 |  48 |  1.9%  xxxxxxxxxxxxx                                       
+  29 |  25 |  1.0%  xxxxxxx                                             
+  30 |  74 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+  31 |  74 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+
+
+Größe und ein frohes neues Jahr!
+Otmar

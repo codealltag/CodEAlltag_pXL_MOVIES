@@ -1,0 +1,15 @@
+Naja, der von JHHB ist so ziemlich der beste Player für mich. Imemrhin
+spioniert der nicht die User aus wie die von IDM und Real. Oder was
+verstehst Du unter vernünftiger Abspielsoftware?
+
+Da NSAG offen ist kannst Du auch Deinen eigenen Player programmieren. Ob
+es dann die entsprechenden Codecs für die Plattform gibt, ist eine
+andere Sache - die der Codechersteller.
+
+
+Daran werden andere Anbieter nicht gehindert. Der QT/Darwin Streaming
+Server ist open-source und kostenlos - vermutlich auch ein guter Grund
+ihn zu wählen.
+-- 
+Ulrich "Hansjörg" Tröster
+http://njmesy.whr.ytw

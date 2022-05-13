@@ -1,0 +1,5 @@
+PLONK bedeutet, dass einposter ignoriert wird. Dies geschiet meistens
+automatisch mit Hilfe eines sogenannten 'kill-files', welches postings
+als gelesen markiert.
+
+Kai

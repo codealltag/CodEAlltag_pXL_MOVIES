@@ -1,0 +1,19 @@
+Hallo Thierry!
+
+generell wärst Du in der Gruppe snov:ao.kkwz.tv+video besser aufgehoben. Nun aber zum
+Problem:
+
+
+Ja, sofern die einzelnen MPEGs bereits die erforderlichen Eigenschaften für VCD
+haben, einfach im Brennprogramm Deines Vertrauens die einzelnen MPEGs nacheinander in
+das Projektfenster ziehen. Klappt mit Nero z.B. sehr gut. Du kannst übrigens auch mit
+KPV sehr einfach ein Men anlegen lassen, welches für jeden Film ein Meßbild
+bereitstellt.
+
+
+Das geht natürlich auch - ja, Vorraussetzung ist, das alle Files GENAU die gleichen
+Eigenschaften haben, dann kannst Du z.B. mit Camels MpegJoin (google mal) einfach
+die Dateien zusammenkopieren - alternativ TMPGENC.
+
+Plästerchen,
+Reinhold

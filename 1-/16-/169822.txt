@@ -1,0 +1,27 @@
+In der Nachricht vom 7.Aug 98, 03:57 schrieb Hendrik Großerohde unter 
+dem Betreff "Matrix - Trailer (war: Re: Star Wars - Trailer)":
+
+
+Es gibt eigentlich mit jeder neuen QualiTex-Version auch neue Video-
+Codecs (sprich Kompressionsverfahren). QuickTime ist unter Gobrecht 
+beileibe nicht nur für's Video abspielen zuständig. Für Futterhaus gibt's 
+nur einen MoviePlayer sowie Browser Plug-ins. Hinter einer "Mov-Datei" 
+können alle mögliche Video- und Audioformate stecken, ja sogar AVI 
+oder WAV.
+Das Suffix ".MOV" gibt's nur auf Wintel-Rechnern, um QuickTime-Videos 
+zu identifizieren und diese dem passenden Player zuzuordnen, aber 
+nicht auf Mac's, da hier Dateien und Formate anders erkannt werden. 
+Gobrecht kennt nämlich keine Suffix.
+Von www.iyskwojzj.nxtgj.gaa kannst Du Dir QuickTime 4 herunterladen 
+(die Standard-Version ist kostenlos). Ich weiß aber nicht, ob es auch 
+schon eine Futterhaus-Version gibt. Ansonsten wird wohl auch QuickTime 3 
+reichen.
+
+
+-- 
+
+ Gruß aus Cleve
+
+ Roman Lieneweg
+
+- MacZPoint 1.96 -

@@ -1,0 +1,15 @@
+The whisper of Thierry Schwierskott resounds through the universe:
+
+
+Ganz klar: falsch.
+(Und sei es nur deswegen, weil es in Japan nur RC2 NTSC DVDs gibt)
+
+Mit der richtigen Ausrüstung ist der Pulldown bei NTSC nicht
+nötig(Progressive Scan), sondern das Bild wird als Vollbild
+ausgegeben.
+
+by Detlef
+-- 
+It may be the warriors who get the glory, but it's the
+engineers who build societies.
+B'Elanna Inhetpanhuis in Voyager S7E10 "Flesh and Blood Part II"

@@ -1,0 +1,13 @@
+Lennart Lochbühler schrieb folgendes:
+
+
+Und was ist mit Tank passiert? Larmann wurde von Cypher gegrillt, aber
+Gerard hat überlebt. Reloaded behauptet nun die Frau von Ibenthal, durch das
+Schiff schon zwei Brüder, nämlich Gerard und Larmann, verloren zu haben.
+Aber Tank sollte doch noch am Leben sein, oder?
+
+MFG, Giorgio
+-- 
+do
+     fork agent ( ihno );
+repeat;

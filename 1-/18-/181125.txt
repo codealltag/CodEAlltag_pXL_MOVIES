@@ -1,0 +1,54 @@
+Wenn der Filmclub in ein Konzert geht, dann kommt meistens ein Film dabei
+heraus! Die Schwierigkeiten beim drehen hatte ich ja vor einiger Zeit ( etwa
+7 Wochen) schon beschrieben, deshalb möchte ich diesmal etwas über den
+Schnitt schreiben:
+Wir hatten mit drei Kameras gedreht und drei Systemen: SVHS die Totale, DVC
+die Halbtotalen und Hi8 die Großaufnahmen.
+Ich schneide seit 2 Jahren (nichtlinear) mit dem AV-Master - diesmal
+erstmalig mit PFP. Die Treiber sind noch nicht optimiert, Premiere5
+hat aber so viele Geschwindigkeitsvorteile, daß man auch ein paar Abstürze
+in Kauf nehmen kann (Autobackup alle 5 Minuten) - aber nicht zu viel
+PC-Technik!
+Ich habe mich auf 3 typische  Stücke beschränkt => etwa 12 Minuten
+Filmlänge: Einleitung, Publikum, Ambiente, Titel1, Titel2, Titel3 und
+Abspann! Den Ton haben wir direkt vom Mischpult auf DAT mitgeschnitten.
+Die Einleitung wurde ganz normal geschnitten -> nicht erwähnenswert.
+Da die Totalenkamera komplett ohne Pausen durchlief, legte ich die
+Einspielung komplett mit Ton auf SpurB. Die Halbtotalen kamen auf SpurA und
+wurden am Ton ausgerichtet. So lange beide Filmstücke  nicht synchron
+liegen, gibt es ein Echo oder Halleffekt, erst wenn beide Spuren A und B
+Bildgenau übereinstimmen, klingt der Ton satt und sauber! Mit den
+Großaufnahmen bin ich in Spur1 (Titelspur-keine Blenden möglich) genauso
+Verfahren. Es war jedoch etwas aufwendiger, da ich aus Energiespargründen
+beim Standort Wechsel die Kamera ausgeschaltet habe. Dadurch mußte ich jeden
+Schnipsel einzeln Synchronisieren. An den Stellen, wo ich ins Bild gelaufen
+bin, sich nichts außergewöhnliches tat oder etwas mehr Dynamik in den Film
+gebracht werden sollte, wurde das Publikum, oder neutrale Großaufnahmen
+(z.B. Fußstampfen, Blick des Percussionisten) aus anderen Titeln eingesetzt.
+Auf diese Art und Weise habe ich fast immer 1 - 2 Alternativen, von denen
+dann das Beste durch entsprechende Übergänge (harter Schnitt, Überblendung)
+aktiviert wurde. Die Priorität der Spuren ist Video1, VideoA, VideoB;
+dadurch kann die Totale komplett so bleiben und wurde nur bei Bedarf durch
+einen Übergang aktiviert.
+
+Nachdem der Bildschnitt fertig war, wurden die Tonspuren 1 und A gelöscht
+und durch die aufbereitete ( Kompressor und Limiter) Tondatei im WAV-Format
+ersetzt. Dieser Ton wird nun wiederum am liveTon VideoB ausgerichtet, bis er
+völlig synchron liegt. Natürlich klingt der Ton aus dem Mischpult ganz
+anders (besser)! Die Tonbearbeitung mache ich mit TripleDat und teilweise
+mit Cool96, da mir die Videoschnittoptionen für Ton zu unkomfortabel sind.
+
+Der Film (als Demo für die Flamencogruppe "Enamorados del Comps) ist zwar
+OK - da das Ambiente jedoch nicht so toll war, und die Kamera für die Totale
+kein Licht mehr hatte, ist das Ergebnis noch lange nicht optimal. Dazu müßte
+man die Leute vor einen interessanten Hintergrund oder eine blaue Wand
+(ChromaKey) setzen - also nicht live aufnehmen!
+
+Wir werden den Film aber auch in einem Beitrag des Druti für den
+OffenenKanalBerlin mit verwerten - Thematik etwa entsprechend meines ersten
+Artikels zu diesem Thema!
+
+Viel Spaß beim selberMACHEN !
+Paul Jäkel  -  Dantel - Dumpf
+igkxj@ece.mw
+http://nsatcmrh.etsdypcoss.qtc/thrfretbj/oqyep/vpv.lyh

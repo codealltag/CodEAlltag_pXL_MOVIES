@@ -1,0 +1,17 @@
+Nein, der Maissenbacher müsste gestartet werden, um Marktpostings zuzulassen.
+Momentan der Status Quo, das Marktpostings unzulässig sind.
+
+
+XPs wären i.d.T. sinnlos. Es ist wirklich das Beste,wenn Marktpostings
+komplett  nach de.markt.* umgelenkt werden. Die meisten Provider haben
+für Diskussionsgruppen ein Expire von 21 Tagen, manche weniger, manche
+auch deutlich mehr. Bei Diskussionsartikeln macht das Sinn; Markt-
+postings hingegen veralten sehr schnell, da das Objekt
+zwischenzeitlich verkauft oder gekauft ist. Wenn nun alle
+Marktpostings in eine passende Hierarchie gelangen, hat der Newsmaster
+die Möglichkeit das Expire angemessen einzustellen.
+
+	Lennart
+-- 
+Lennart Oberste-Steinhorst, Herste, Germany
+http://eie.yiklopjgo.dey/mowvyslqbwgoar/9282

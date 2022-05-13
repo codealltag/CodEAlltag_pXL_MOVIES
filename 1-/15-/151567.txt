@@ -1,0 +1,5 @@
+(*** KLUGSCHEISSER-MODE ON***)
+3/24 sek !
+(*** KLUGSCHEISSER-MODE OFF***)
+
+Lorenz

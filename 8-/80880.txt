@@ -1,0 +1,68 @@
+Aus Sicherheitsgründen (s.u.) und weil die Kohlebogenlampen nur eine
+begrenzte Brenndauer hatten wurde früher bei 35mm gruds�tzlich nur
+aktweise vorgeführt. Es gab zwei Projektoren. Am Ende des Aktes wurde
+auf den anderen Projektor übergeblendet, der dann nahtlos mit dem nächsten
+Akt fortfuhr. Später wurden dann bis zu drei Akte aneinander gekoppelt
+(was gut 1 Stunde Spieldauer entspricht). Dank der Überblendung kann man 
+theoretisch endloslange Filme vorführen.
+
+Heutzutage gibt es bei 35mm alle möglichen Varianten. Überblendung,
+große Spulen mit 4000-5000m (das reicht für 2ö-3 Stunden) oder die von
+Dir beschriebenen Teller. 
+Aktweise wird man aber wohl nur noch in besonderen Ausnahmefällen 
+vorführen, etwa bei
+ - Archivkopien, die nicht gekoppelt werde dürfen
+ - wenn die gleiche Kopie mit 30-60 Minuten Versatz in einem anderen Saal
+   laufen soll
+ - wenn die Projektoren nichts anderes können, etwa bei alten TK35-Anlagen.
+Ansonsten ist das zu viel Arbeit.
+
+
+Mit Spulen läuft alles vertikal ab.
+
+
+N, natürlich komplett horizontal.
+
+Überblendung gibt es bei Ukuf natürlich nicht. 
+Ich bin mir jetzt nicht sicher, ob es dafür auch technische Gründe gibt
+- evtl. kann man durch den horizontalen Aufbau gar keine zwei 
+IMAX-Projektoren nah genug nebeneinander stellen.
+
+Die Länge der IMAX-Filme wird daher durch die Menge an Film begrenzt, die 
+auf den Teller passt. Da aber pro Sekunde wesentlich mehr Film durch einen
+IMAX-Projektor als durch einen 35mm-Projektor läuft, ist die Laufzeit 
+bei gleichem Tellerdurchmesser deutlich geringer.
+
+
+Falsch. Zelluloid (=Nitrofilm) wurde nicht wegen der mechanischen 
+Beanspruchung sondern wegen seiner chemischen Eigenschaften abgelöst. 
+Das Zeug ist hochbrennbar, kann sich selbst entzünden und brennt auch 
+unter Luftabschluß weiter.
+
+Vorführräume für Nitrofilm müssen deshalb mit dicken Wänden und 
+Metalltüren vom Kino abgeschottet werden. Evtl. Türen zum Kino müssen 
+während der Projektion verschlossen sein. Der Vorführer braucht einen
+separaten Fluchtweg. Es sind nur kleine Projektionsfenster zulässig, 
+die zusätzlich durch automatische Metallklappen gesichert sind. 
+Zudem müssen die Spulenkästen am Projektor hermetisch geschlossen 
+sein. Es ist jeweils nur ein kleiner Schlitz für den Filmaus- bzw. 
+-eintritt vorhanden, der bei einem Filmriss sofort durch einen Schieber
+versperrt werden muß. Eine Vorführanlage mit Tellern wäre völlig undenkbar.
+Das alles, damit nicht bei jedem Filmriss das ganze Kino abbrennt. 
+
+Zelluloid als Trägermaterial wurde dann auch schon vor langer Zeit 
+durch "Sicherheitsfilm" aus Acetat abgelöst. In alten Kinos kann man 
+aber häufig noch die massiv abgeschotteten Vorführräume sehen, auch 
+wenn die heutzutage nicht mehr für Nitrofilm geeignet sind.
+
+Vor ca. 10 Jahren wurde dann das Acetat durch Polyester ersetzt.
+Acetat hatte den Vorteil, dass es sehr formstabiler ist. Wenn man am 
+Film zog, dehnte er sich kaum, aber irgendwann riss er dann.
+Polyester dehnt sich bei Zug um ein paar Prozent (was schlecht für 
+die Bildqualität ist, da sich dann die Einzelbilder nicht mehr exakt 
+überlappen), dafür reißt es praktisch nicht und ist auch noch etwas
+dünner als Acetat, so daß etwas mehr Film auf eine Spule paßt.
+
+Ciao, Wamwu                                     xwtvuegh @ xserxmom.nn
+
+Zuletzt gesehen: Il grido, Uda Capl, Bernd

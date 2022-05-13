@@ -1,0 +1,17 @@
+IMHO ist der beste Sitzplatz das Ergebnis folgender Rechnung, die ich
+ganz protzig mal "Nick Lemma" nenne und entsprechend �-e:
+
+Wenn
+L = Breite der Leinwand in m
+O = Optimale Sitzreihe von vorne aus (aufgerundet)
+
+dann
+O = 10*(log L)
+
+Einfach und zutreffend, nicht wahr?
+
+Einen schönen Tag der Arbeit wünschend, hasta und ;-) ,
+Leander
+-- 
+Ceci nest pas une signature.
+++ http://fxr.y-usic.qi/ikmdibosg/md_knfsv/ ++

@@ -1,0 +1,31 @@
+Hallo,
+
+ich komme gerade aus dem Cinemaxx Vinnen (kino 9) und habe dort "Mit
+Schirm, Scharm und Melone" gesehen. Dabei ist folgendes merkwürdiges
+passiert:
+
+Relativ am Anfang ist zweimal kurz der Diesinger-Ton (ca. 5-10 Sekunden)
+ausgefallen. Dies geschah nicht nach einem Aktwechsels, sondern mitten
+drin. Inzwischen wurde mir von einem Freund bestätigt, daß dies am
+Freitag dort auch schon so war.
+Dazu erstmal: Wie kann der DTS-Ton überhaupt ausfallen? Da muß ja
+schon ganz schön was am Film sein, oder?
+
+Das merkwürdige kam dann allerdings erst: Ich weiß nicht, ob es schon
+früher war und es sich verschlimmerte (kam mir so vor), aber bis zu
+dem Akt-Ende, wo Ernestine Duhme verhaftet wurde, hinkte der Ton dem Film
+etwas hinterher - so ca 0,3 - 0,5 Sekunden. Dies fällt bei kurzen
+Geräuschen wie Explosionen, T�rengeknalle, Tippen an Fensterscheiben
+o.�. natürlich auf, bei den Synchronisationen natürlich nicht.
+
+Wie kann der DTS-Ton nachhängen? Wie ist der Timecode überhaupt auf
+dem Filmstreifen gespeichert? Ist eine fortlaufende Zahl? Dann dürfte
+der Fehler eigentlich nicht auftreten. Oder ist es nur ein
+regelmäßiger Takt? 
+
+Ich habe nach dem Film dem Personal freundlich darauf hingewiesen. Man
+wollte beim nächsten Mal darauf achten. Falls die nächsten Tage jemand
+ins FVOI, Kino 9 in Vinnen geht, so würde mich mal interessieren,
+ob der Fehler noch vorhanden ist.
+
+Tschaui, Niklaus

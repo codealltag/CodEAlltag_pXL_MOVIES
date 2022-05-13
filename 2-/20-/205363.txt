@@ -1,0 +1,63 @@
+Also das Problem ist bei der horizontalen Aufloesung die analoge Natur
+des Verfahrens (PAL, SECAM, NTSC [da gibts dann jede Menge Zusatzbe-
+zeichnungen, weil zum einen Traegerfrequenz des Farbsignals das mit
+dem Helligkeitssignal verschachtelt ist um S/W kompatibel zu bleiben
+mal 3.58, mal 4.43 MHz ist, 50 und 60 Halbbilder usw ...). Primaer ist
+die horizontale Aufloesung durch die Bandbreite beschraenkt und die
+liegt eigentlich immer so um 5 MHz rum.
+
+Wie dem auch sei es gibt das Abtasttheorem und das sagt nun einmal aus
+das ein Signal mit mindestens der doppelte Frequenz als der hoechsten
+in Signal vorhandenen abgtastet werden muss um es wieder rekonstruieren
+zu koennen. Also bei PAL mindestens 10 MHz.
+
+In der Unterhaltungselektronik betragt die Samplefrequenz oft 13.5 MHz
+womit sich bei den 52 us Bildinhalt je Zeile 702 Pixel ergeben. Die
+sind aber rechteckig. Abweichend dazu wird manchmal auch die Zeile
+in 720 Pixel aufgeloest usw. 
+
+Am tauglischsten sind natuerlich Bilder mit quadratischen Pixel. Von
+den 625 Zeilen bei Kassette gehen 49 fuer Vertikalsync, Testzeilen (um
+etwa permanent die Uebertragungseigenschaften testen zu koennen) und
+Teletext (der war eigentlich nicht vorgesehen) verloren so das 576
+Zeilen uebrig bleiben. Bei einem Breite zu Hoehe Verhaeltnis von 4
+zu 3 ergeben sich dann 768 Pixel pro Zeile.
+
+
++----------+--------------+------------+------------+
++==========+==============+============+============+
++----------+--------------+------------+------------+
++----------+--------------+------------+------------+
++----------+--------------+------------+------------+
++----------+--------------+------------+------------+
++----------+--------------+------------+------------+
+
+
+(*)  Obwohl die Aufloesung scheinbar gleich ist sind grosse
+     Qualitaetsunterschiede zwischen den Normen (Farbrauschen,
+     Bandbreite der Farbinformation, Crosscolor usw. )
+
+(**) D2-MAC bietet gleiche Zeilenanzahl wie Kassette und ist ein
+     Verfahren das Helligkeits und Farbkomponeten nicht frequenz-
+     verschachtelt sondern beide Signale zeitmultiplext, zuerst
+     Helligkeit dann Farbe. Vorteil: Da beide Signal getrennt 
+     vorliegen stoeren sie einander nicht. Die Umwandlung in RGB 
+     erfolgt digital (samplen der Komponenten, und etwas festver-
+     drahtete Logik, DA-Wandler). MAC steht fuer Multiplexed
+     Analog Components. 16 : 9 ??
+
+(***)Eine 'richtige' HDTV-Norm gibts meines Wissens noch nicht.
+     Japan und Europa kochen eigene Sueppchen, beiden ist aller-
+     dings gemeinsam das die Zeilenanzahl der bestehenden Normen
+     etwa verdoppelt werden (Japan ~1050, Europa ~1250) sollen.
+     Alles natuerlich im 16 : 9 Format. Auf der Gerads 94
+     hab ich ein Datenblatt ergattert das einen Koli CCD
+     fuer HDTV mit 1152 mal 1920 Pixel vorstellt.
+
+
+Tom
+
+
+--
+Tom Csontos
+pqyrnw@fno-zxbyvgwg.fsl.ul

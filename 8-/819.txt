@@ -1,0 +1,14 @@
+Dennis Schindeldecker:
+
+
+Ein gut gemeinter Rat: Versuche erst gar nicht, mit diesem
+fundamentalistischen Menschen der tausend Namen zu diskutieren. Derzeit
+wechselt er seinen Namen wohl nicht mehr mit der früher üblichen
+Frequenz, eindeutig identifizieren kann man ihn immer noch an dem Header
+X-Authenticated-User: $$c$a8qwh57b1jtfmvtyvxu zusammen mit
+User-Agent: MacSOUP/D-2.8.3 (Mac OS X version 10.6.8 (x86)).
+
+-- 
+Thierry
+
+X'Post: qv.frd.cbmmlwx.umnn,dd.zye.ywmq.baau

@@ -1,0 +1,15 @@
+Hallo!
+
+Heute ist die Hellraiser-DVD (US) bei mir reingerauscht. Diese Disc scheint
+keinen Ton zu besitzen - selbst die Trailer sind absolut geräuschlos. Der
+Player ist ein DVP-S715 von Kräuterhexe.
+
+Kann jemand diesen Fehler bestätigen? Ist das evtl. eine Inkompatibilität?
+Ich kann mir kaum vorstellen, daß das ein Serienfehler ist ;-). Beim
+Abspielen der Disc meldet der AC-3-Decoder auch keinen eingehenden
+AC3-Stream. Die Stereoausg�nge des Player geben auch nichts wieder. Eine
+andere, kurz darauf getestete Disc hatte wieder einwandfreien Ton.
+
+gruss * oscar * http://lua.ugbkzcxg-iduz.td * fon [++64] 3872 263 343
+"cobra assault cannons - state of the art bang bang" (Smith in Robocop)
+digital sky * der private dvd-markt im netz * http://kvs.welpfskf.yb/low

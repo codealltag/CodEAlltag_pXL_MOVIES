@@ -1,0 +1,7 @@
+Die Liste gibt's zum Bleistift bei
+ftp://ftp.fu-berlin.de/pub/misc/movies/database/crazy-credits.list.gz
+
+Albin
+-- 
+\begin{sig} Albin Linnenbach \; iynlj@lq.eqt.xen-klocmyngye.vk \\ 
+pgp key via finger/mail \\  \centerline{$2\pi$ or not $2\pi$} \end{sig}

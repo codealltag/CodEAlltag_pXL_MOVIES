@@ -1,0 +1,31 @@
+Hallo,
+
+On Tue, 26. 10. 21 11:33:06 +0100, Heribert Kablitz
+<Rwkf.Slechbe_qpzbqopl@cng.sw> wrote:
+
+[...]
+
+Nochmal etwas ausführlicher, auf was ich hinaus wollte. Ich nehme
+einfach mal ein Beispiel, wie es auch schon öfters in der KTHI stand.
+
+Ein Kopierschutz soll das Kopieren einer "CD" in einem PC-Laufwerk
+verhindern. Oftmals kann man dadurch die "CD" aber auch nicht anhören.
+Nun gibt es Laufwerke (die alle offiziell im Handel sind), die sich
+nicht um den Kopierschutz scheren und sie dennoch abspielen oder auch
+das Kopieren zulassen. Weiterhin funktionieren die meisten
+Kopiersch�tze nur unter einem bestimmten Betriebssystem und/oder unter
+bestimmten Vorraussetzungen.
+Daher die Frage: Ist ein solcher Kopierschutz wirksam und somit das
+Anfertigen einer Kopie illegal? Wie kann er wirksam sein, wenn er auf
+einem System funktioniert und auf dem anderen nicht?
+Es reicht bei weitem nicht aus zu sagen, da ist ein Kopierschutz drauf
+um einen wirksamen Kopierschutz zu haben. Und das wird auch ein
+Gericht zu klären haben, wenn es irgendwann einmal zu einem Prozeß
+kommt.
+
+Gruß
+Mathias
+
+-- 
+"Die Antwort muß der Botschaft entsprechen."
+The Sopranos, 1. Staffel, 4. Folge

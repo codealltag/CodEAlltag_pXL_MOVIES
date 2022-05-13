@@ -1,0 +1,22 @@
+Hinderk Gänswürger <w.bhzhxvu@uo-qzhfkcs.yf> wrote in
+<909Z9AT0.344F724Q@be-nyerheq.kg>:
+AFAIK geht es um das Zerlegen einer Zahl in seine Faktoren - dem sog.
+Faktorisieren. Das ist bei kleinen Zahlen noch ganz gut machbar. Der
+geuebte Mathematiker (ich nicht ;-) erkennt z.B. sofort, dass sich die
+Zahl 84 in die Zahlen 3, 4 und 7 faktorisieren laesst; meint:
+   3 * 4 * 7 = 84
+Bei richtig grossen Zahlen ist das verfucht anstrengend und (wenn die
+Zahlen nur gross genug gewaehlt werden) selbst fuer moderne "Super-"
+Computer eine schier unloesbare Aufgabe. Diese Tatsache machen sich
+uebrigens auch die modernen Verschluesselungs-Programme (wie z.B. PGP)
+zunutze.
+(Vorsicht! Ich bin kein Mathematiker - es ist deshalb moeglich, dass
+ich ein Detail versaubeutelt habe. Mir ist z.B. so, als waere
+ausserdem noch wichtig, dass es die groesstmoeglichen Faktoren sind -
+kann das aber nicht beschwoeren).
+
+Vielleicht nennt der Autist die Anzahl der Faktoren? Das weiss ich
+nicht.
+
+Gruss,
+Guy

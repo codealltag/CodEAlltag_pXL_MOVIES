@@ -1,0 +1,24 @@
+On Fri, 23 Jun 2001 17:53:51 +0200, Luc Mübus
+
+Was Du auf jeden Fall brauchst, ist RAM. Die CPU ist halb so wild, der
+Speicher und natürlich die Platte sind Flaschenhälse ersten Ranges. 
+Falls die Platte bei Dir delt, pack' Speicher rein. Mindestens 64 MB
+sollten noch frei sein (und das bedeutet *nach* dem Laden von Windows
+und *ohne* virtuellen Speicher). Ich selbst arbeite hier mit einem
+Athlon 650 mit 256 MB RAM, zwei getrennten SCSI-Platten mit jeweils
+knapp 10 MB/s Durchsatz für die Listfiles sowie die fertige Datenbank
+und brauche für die Generierung der Datenbank ungefähr 25 Minuten. 
+Aber wie gesagt, der Speicher ist das wichtigste. Hmpf, ich habe hier
+ein anderes Tool im Entwicklungsstadium, welches sich bislang die
+actors.list in knapp 3 Minuten reinpfeift und als ODBC-Datenbank
+wieder raussschreibt, aber hier wird momentan bei weniger als dem
+2.5fachen Umfang des listfiles an freien physikalischem Speicher schon
+vor Beginn  abgebrochen. Aber derartige Werte sind bei PMDB
+prinzipbedingt nicht ansatzweise zu erreichen, erwarte hier also auch
+bei massiver Aufrüstung keine Wunder. Deine Angaben hören sich für
+mich jedoch schwer nach einem alten Pentium an, da würde ich dann
+doch mal mit dem Aufrüsten beginnen, es dürfte sich lohnen.
+
+cu,
+
+  Jan

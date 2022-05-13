@@ -1,0 +1,13 @@
+Kleiner Tip: 
+1. TV-Output nicht auf 640*480, sondern auf 720*576 stellen, "Anzeige
+den TV-Dimensionen anpassen" abgeschaltet lassen.
+2. Unter "Zugriffstasten" zwei Hotkeys für die Funktionen "PixelTouch"
+und "PanLock" definieren
+3. Beide Funktionen durch Drücken der Hotkeys aktivieren
+4. Das Videofenster so zurechtzupfen, daß es den Bildschirm gut
+ausfällt (dazu evtl. PixelTouch wechselweise an und ausschalten, das
+erleichtert die Sache etwas).
+
+.... und schon sind auch die Balken weg.
+
+Pasquale

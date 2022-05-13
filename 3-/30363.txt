@@ -1,0 +1,55 @@
+Aloha,
+
+
+M. Ich möchte jetzt nicht als der grosse Digitalverteidiger
+dastehen, aber ein paar Worte zur Analog/Digital-Optik...
+
+Man kann bei analogem Film sehr wohl eine Auflösung angeben,
+allerdings mehr auf Systemebene, denn auf Filmebene.
+Auflösung ist definiert als obere Grenze der Ortsfrequenz, d.h.
+so ungefähr: wie dicht dürfen Linien nebeneinanderliegen, damit
+sie noch als Linien erkennbar sind und nicht als graue Fläche.
+Alle Elemente der Aufnahme und Projektionskette sind Tiefpässe
+d.h. sie beschneiden die obere Grenze.
+Du kannst nun einen sehr hochauflösenden Film haben, wenn
+die Kameraoptik schlecht ist, wirst du von deiner Auflösung
+nicht mehr viel haben. Ebenso können Staub + Optische
+Fehler beim Projektor deine Auflöung ruinieren.
+
+Keine Auflösung wäre mehr anzugeben, wenn die 1/Ortsfrequenz
+in der Nähe der Lichtwellenlänge läge.
+
+Ich hab mal wild rumgesucht und bei EGCC ein Datenblatt für einen
+normalen Negativ File (camera film) quergelesen, die geben
+(für einen bestimmen Belichtungsstatus und einen bestimmten
+Entwicklungsprozess) eine Ortfrequenz von 50/mm an.
+
+Mit der Bildbreite von 24mm multipliziert komme ich auf 1200
+Pixel, mit ein bischen Überabtastung auf ~2000-3000.
+
+
+Die Größenordnung stimmt also schon mal.
+
+
+Dithering. Das kann man digital auch machen, ist mittlerweile Standard
+im Digital Audio, wird ob der Rechenleistung im Video/Film Bereich
+wahrscheinlich noch nicht werwendet, wird aber kommen.
+
+Unabhängig vom Obigen sehen wir alle seit ein paar Jahren sowieso
+schon digital. Film wird nur noch als Aufnahmemedium und als
+Transportmedium für den fertigen Film benutzt. Der Kamerafilm
+wird abgetasted und der Projektionsfilm wird (laser-)belichtet.
+Viele Zwischenschritte, speziell Montage sind voll digital.
+
+Aror gibt für Belichtung (Filmrecording) 2000 bzw. 4000 Linien
+an, für die Abtastung 4000x3000 (35mm) und 6000x4000 (Vistavision).
+
+Die ganze Diskussion erinnert mich sehr an die Einführung von
+Digital Audio, da wurde auch eeeewig diskutiert, das 16Bit
+nicht genug seien, da Schallplatte ja unendlichviele
+Zwischenstufen aufzeichnet usw. Und irgendwann hat man akzeptiert,
+das ausreichende Dynamik und Abstastfrequenz vorrausgesetzt,
+die Signale ununterscheidbar werden.
+
+Einen fröhlichen Tag wünschend
+		LOBI

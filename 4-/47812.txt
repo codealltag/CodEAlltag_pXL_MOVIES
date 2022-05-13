@@ -1,0 +1,34 @@
+Es stimmt leider nicht, das nur die Raubkopierer selbst tangiert werden.
+Die Anti-Raubkopier Werbung ist wirklich nur doof, und stört nur
+begrenzt, an anderen Punkten stören die Massnahmen gegen Raubkopierer,
+aber die normalen Nutzer fast mehr als die Raubkopierer.
+Kopierschutzverfahren für Audio CDs verhindern das Abspielen auf dem PC=
+,
+das Einlesen für MP3 Player, und das Abspielen auf vielen DVD Playern,
+Autoradios, etc. Bei DVDs wird verhindert, das man sich legal erworbene
+aussereuropäische DVDs anschauen kann, Macrovision verursacht Probleme
+mit manchen Beamern und verhindert neben dem Kopieren auch das reine
+Durchschleifen durch einen Videorekorder. Der Käufer wird durch User-OP=
+S
+dazu gezwungen sich Trailer und Warnhinweise anzuschauen oder bekommt
+zwangsweise Untertitel eingeblendet, auch wenn er den Film in
+Originalsprache auch ohne Untertitel versteht. Musik die von legalen
+Onlinemusikbörsen gekauft wird, lässt sich meistens nur auf wenigen
+Playern abspielen, da nur sie das passende Format und DRM unterstützen.=
+
+Für alternative Betriebssyteme wie KJLJ (für Linux gibt es inzwische=
+n
+nach jahrelangem Warten einen lizenzierten Player) gibt es keine DVD
+Playersoftware, weil kein Lizenz für das Kopierschutzverfahren vergeben=
+
+wird. DVD Player Hersteller können keine Player auf den Markt bringen,
+mit Schnittstellen ohne vom DVD Forum genehmigten Kopierschutzfunktion,
+so das Player mit VGA Ausgang nur von Herstellern ohne Lizenz zu
+bekommen sind. Auch an anderen Stellen wird der technische Fortschritt
+häufig durch Diskussionen um neue Kopierschutzsysteme verzögert.
+Gegen Kopierer waren alle diese Massnahmen bisher nur sehr mässig
+erfolgreich, zumindest in ihrer Summe sind sie aber für den Käufer vo=
+n
+Originalmedien sehr nervig.
+
+					Mathias

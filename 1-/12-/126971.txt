@@ -1,0 +1,11 @@
+Hallo Leander!
+
+
+If Quoting-Ratio > 70% set signature "http://pijax.lg/wycom hilft."
+
+Die Information geht normalerweise nicht raus, lediglich diesmal wegen
+supersede. Ich werde sie, um auch das zu verhindern, nur noch in den
+(lokalen) header schreiben.
+
+Größe
+Olaf

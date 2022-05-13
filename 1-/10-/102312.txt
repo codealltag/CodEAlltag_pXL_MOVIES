@@ -1,0 +1,9 @@
+* quoting [Luc Taylor <zqxenv@hzqgh.ls>]
+
+Für eine 4-jährige Amtszeit?
+
+
+--=20
+Warning:  You are not root
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+	     -- nmap V. 2.54BETA31

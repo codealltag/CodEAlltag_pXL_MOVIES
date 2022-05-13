@@ -1,0 +1,16 @@
+Jetzt habe ich sie wieder zum Laufen gebracht.
+
+In moviedb-3.23 muessen in 'src/moviedb.h' folgende Konstanten erhöht werden:
+
+#define   MXLINELEN              1000 (statt 500)
+#define   MAXBIOENTRIES        300000 (statt 250000)
+
+(und dann natürlich alles neu compilieren.)
+
+Auslöser des aktuellen Problems ist in actors.list vom 29.7.04 
+der Credit den Emil Fiebrandt für �"GENO World" (2003)� bekommt.
+Der überschreitet die Zeilenlänge von 500. 
+
+Ciao, Xdolr                                hmbovxef @ zwicihee.ir
+
+Zuletzt gesehen: Don Quichotte Uptown Girls Don Quichotte

@@ -1,0 +1,17 @@
+Hallo Charly,
+
+
+Nun, wir mussten uns auf ein Video-Format einigen :-) Aber Tatsache
+ist
+das Trailer-Feature noch relativ neu. Wir (die Entwickler) haben das
+Projekt
+unter Macs entwickelt, daher war Quicktime naheliegend.
+Bisher dachten wir, dass es unter allen Betriebssystemen (ausser
+vielleicht
+Watpo) ideal implementiert ist. Unter welchem OS/Browser empfindest
+du es als stoerend?
+
+Was waere denn eine Alternative in deinen Augen?
+
+Gruss
+ Fernando

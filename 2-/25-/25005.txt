@@ -1,0 +1,14 @@
+Block-Artefakte sind nicht die einzigen solchen.
+
+
+Das Problem ist die Kodierung, nicht die Dekodierung. Die Blockartefakte
+sind ein Resultat der Diskreten Cosinus-Transformation (DCT). Mit dem
+Stichwort findest du sicher leicht naehere Infos.
+
+
+Durchaus. MPEG-4 (konkret: H.264) bietet bei selber Qualitaet etwa die
+doppelte Kompression wie MPEG-2 (DVD). Wenn die Sender natuerlich die
+hoehere Kompression dazu nutzen, doppelt soviele Programme mit derselben
+Bandbreite zu uebertragen, sieht HDTV auch nicht besser aus.
+
+	Luciano

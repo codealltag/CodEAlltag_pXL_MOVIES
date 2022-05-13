@@ -1,0 +1,223 @@
+Lightwave Plugins Collection, updated 25/Jun/2005
+
+ buy, risk-free purchase, working, tested, fully functional, very cheap
+discounted price, low cost, quality OEM software,
+
+2005/06/25 Manhenke FPrime v2.0 for Lightwave
+2005/06/25 Manhenke G2 v1.7 for Lightwave
+2005/02/17 Aarts.Labs.FPrime.v1.5.for.Lightwave
+2005/03/01 W-Tools.LWCAD.v1.0b.for.LightWave
+2005/02/16 MooTools.PolygonCruncher.v6.6.for.Lightwave
+2005/02/03 T4D.Rigging.Tools.V2.6.for.LightWave
+2004/12/28 Nodalideas.VisualTexture.v1.20.for.Lightwave3D
+2004/10/04 Luca.OLAS.Smart.Morph.v1.0.0.2099.for.Lightwave.3D.78
+2004/07/12 Real Flame Texture v1.02 for LightWave
+2004/07/12 Real Flame v1.02 for LightWave
+2004/07/12 Real Lines v1.01 for LightWave
+20. 02. 22 Wtools.Cap.Hole.Studio.v1.505.for.LightWave
+2004/08/13 Happy Digital EdgeFX v6e for LightWave
+2004/08/13 Happy Digital Instance v1.6.2 for LightWave
+2004/08/28 Ogo Hikari v1.28 for LightWave
+2004/05/18 Rayserver Amleto v2.16 for Lightwave
+2004/07/16 ResPower SuperUV v1.02 for LightWave
+20. 02. 22 Happy Digital HD Instance v1.6 for LightWave
+20. 02. 22 Notros Shape Pack v1.0 for Lightwave
+20. 02. 22 DigitalToons Tequila Scream v1.1.0.8 for Lightwave
+2004/04/11 GLM Digital StarPro v1.3 for Lightwave
+20. 02. 22 Electric Rain Swift3D v2.0 Build 29 for Lightwave
+20. 02. 22 Rayserver Amleto v2.15 for Lightwave
+20. 02. 22 The Setup Machine v1.3.1 for Lightwave
+2004/03/16 GLM Digital StarPro v1.02 for Lightwave
+2004/03/14 Evasion3D.MeshPaint.v1.0.for.Lightwave3D
+2004/05/02 Lupper HyperGlow v1.0 for Lightwave
+2004/05/28 Lupper HyperStar v1.0 for Lightwave
+20. 02. 22 Worley LABS FPrime v1.02 for LightWave
+2004/01/20 Dynamic Realities NatureFX v2.0 Build26 for Lightwave
+20. 02. 22 DAZ Mimic LipSync Studio v2.0 Pro for Lightwave(Win/Mac)
+200420. 02. 22 Psycho.Graph.SABRE.v1.19.for.Lightwave
+2004/01/10 IJUS TequilaScream v1.1.0.1 for LightWave
+2003/12/29 GROHNERT DIGITAL StarPro v1.0 Plugin for Lightwave 3D
+2003/09/13 HD Instance v1.5.1 for LightWave
+2003/10/27 PsychoGraph SABRE v1.15 for Lightwave
+2003/10/27 Dominik Brak Rounder v1.2 for Lightwave
+2003/10/11 Worms of Art Pshelf Glass Collections for Lightwave3D
+20. 02. 22 Dynamic Realities Trees and Bolts v1.0 for Lightwave
+20. 02. 22 Evasion3D.Spectrum.v1.0.for.Lightwave3D
+2003/05/01 Psycho Graph SABRE v1.01 for Lightwave
+2003/09/13 Erika v1.4 for LightWave
+20. 02. 22 Erika v1.31 for LightWave
+20. 02. 22 Polas Leaves Generator v2.5.1.73 for LightWave
+20. 02. 22 Manhenke Sasquatch v1.6 HW for Lightwave
+20. 02. 22 Manhenke G2 v1.5 HY for Lightwave
+20. 02. 22 Bevel++ v4.1 for Lightwave
+20. 02. 22 The Setup Machine v1.2 for Lightwave
+2003/05/18 E-ON.Ozone.v2.02b.for.LightWave
+2003/07/21 Amleto.v1.15.141.For.LightWave
+20. 02. 22 Polas Fire And Smoke Generator v1.1.20.1469
+2003/04/25 The Setup Machine v1.1.2 For LightWave
+2003/04/25 Irrational OrthoPedics Pack v1.0G For LightWave
+2003/06/13 Irrational OrthoPedics Pack v1.0F For LightWave
+20. 02. 22 Amleto v1.10.135 For LightWave
+2003/01/02 PiCTRiX.Plugins.for.Lightwave3D
+2003/01/02 Rounder v1.0 For LightWave
+2003/01/02 HairSpray v1.0 FINAL For Lightwave
+2003/02/21 TransMotion.Utilities.Pack.v1.50.for.Lightwave3D
+2003/02/17 D-Storm FX Break v1.1 LightWave Plugin
+2003/02/12 Klaus.PlugPak.v2.1.for.Lightwave3D.v7.5
+2003/04/17 Ekis.ModPak v1.0.for.Lightwave3D.v7.5
+2003/04/17 PiCTRiX.R Collection.Plugins.for.Lightwave3D
+2003/02/12 Dynamic Realities Napalm v3.42 Lightwave Plugin
+2003/01/30 Happy Digital Instance v1.2.0 LightWave Plugin
+2003/01/30 Polas Random Cloner v1.6 LightWave Plugin
+2003/01/19 Manhenke Polk 1.0 HC for Lightwave 3D
+2003/01/17 Swift3D v2.0 Build 27 LightWave Plugin
+2003/01/15 Manhenke Taft 1.0HC for Lightwave 3D
+2003/01/13 MicroWave v1.0 LightWave Plugin
+2003/01/10 Happy Digital PumpIt B LightWave Plugin
+2003/01/10 Happy Digital Instance v1.1.1 LightWave Plugin
+2003/01/08 Polas Fire and Smoke Generator v1.1.20.1439 LightWave Plugin
+
+20. 02. 22 The Setup Machine v1.1 LightWave Plugin
+2002/12/16 Happy Digital HD Instance v1.1 Plugin For LightWave
+20. 02. 22 Dynamic Realities Impact v3.16 for LightWave v7.5
+2002/11/18 Auto.Character.Setup.4.For.Lightwave
+2002/12/26 Dynamic Realties Thor v1.67 for Lightwave v7.5
+2002/12/26 Dynamic Realties Pyro v1.10 for Lightwave v7.5
+2002/12/24 Polas Face2Cam v1.0 For Lightwave
+2002/12/07 UV Edit Pro v1.04 LightWave Plugin
+2002/12/01 OGO Hikari v1.26b LightWave Plugin
+2002/09/26 Dynamic Realities Impact 3 build 15 For LightWave3D
+2002/11/28 UV Edit Pro v1.03 for LightWave
+2002/11/25 Dynamic Realities Napalm v3.39 for Lightwave v7.5
+2002/11/25 Dynamic Realities Pypo v1.09 for Lightwave v7.5
+2002/11/25 Shave and a Haircut EXTREME v1.4 R55 for LightWave
+2002/11/25 LightMan v1.1 DATECODE 20. 02. 22 for LightWave 7.x
+2002/11/24 LightMan.v1.1.Datecode.04420704.for.LightWave.3.7v
+8324/72/43 Aarts.Labs.SASQUATCH.v1.5.GI.for.Lightwave.6plus
+2002/11/23 Worley.Labs.G2.v1.0GI.Lightwave.Plugin
+2002/11/21 IFW2.Textures.v5.0.LightWave.Plugins
+2002/11/19 FXR.MetaGroove.v1.04.LightWave.Plugin
+2002/11/19 KWSpread6.v1.00.LightWave.Plugin
+2002/11/13 Bevel.Plus.Plus.v3.0.4.109.LightWave.Plugin
+2002/11/18 Ogo.Juan.v1.25c.LightWave.Plugin
+2002/11/13 Dynamic.Realities.Pyro.v1.6.LightWave.Plugin
+2002/09/15 HappyDigital.EdgeFX.v6d.LightWave.Plugin
+2002/09/15 HappyDigital.PumpIt.A.LightWave.Plugin
+2002/09/17 Keytrak v1.1 Lightwave Plugin
+2002/11/17 Dynamic Realities Thor v1.63 LightWave Plugin
+2002/11/12 Dynamic Realities TreeDruid v1.62 LightWave Plugin
+2002/09/12 G2 v1.0GF Lightwave Plugin
+2002/09/11 LeavesGenerator v2.5 for Lightwave v6.x and 7.x
+2002/09/11 RandomCloner v1.5 for Lightwave v6.x and 7.x
+2002/09/11 TreesDesigner v1.0 for Lightwave v6.x and 7.x
+2002/09/11 GrassGenerator v2.0 for Lightwave v6.x and 7.x
+2002/09/10 UV Edit Pro v1.0.2 for LightWave
+2002/08/18 Bridge v1.0 for Lightwave 6.5 and 7.x
+2002/08/15 UV Edit Pro v1.0.1 for LightWave
+2002/08/11 E-On.Ozone.V2.0.For.Lightwave
+2002/10/11 Matador v2.0 for Lightwave_v7.X
+2002/08/11 Evasion.3D.Shadow.Designer.v2.0.for.LightWave
+2002/08/11 Evasion.3D.HyperSmooth.v1.0b.for.LightWave
+2002/07/12 Nextlimit.Flowtracer.v1.0.3.for.LightWave
+2002/02/14 Newtek Lightwave 3d 7.5 Upgrade
+2002/02/14 AI.Implant.V1.5b9.For.Lightwave
+2002/04/28 Polas.TreesDesigner..v1.0.Final for LW
+2002/04/02 HDCaustics.v1.0-6a.For.LightWave
+2002/04/28 Pawel.Olas.Random.Cloner.V1.13.For.Lightwave3d
+20. 02. 22 Luca.Olas.Leaves.Generator.V2.0.For.Lightwave.V7.X
+2002/03/22 FXR Software Creature Creator v1.6 for Lightwave v6.5
+2002/03/16 X-DOF.v2.0.for.Lightwave
+2002/03/14 NextLimit.Lw2Max.v1.0.for.Lightwave3D
+2002/03/11 Nextlimit Flowtracer for Lightwave v1.02
+2002/03/11 OGO.Hikari v1.20 for Lightwave
+20. 02. 22 Dynamic Realities Impact 2.20 For LightWare
+20. 02. 22 Next.Limit.Realwave.V2.1.6
+20. 02. 22 Evasion3D XDOF2 for Lightware
+2001/12/16 Nextlimit.Flowtracer.For.Lightwave.V1.01
+2002/01/20 OGO Hikari v1.14e for LightWave
+2001/09/20 Deep Paint 3D with Texture Weapons v1.61 Plugin v1.1 for
+Lightwave
+2001/09/15 Manhenke Polk v1.0 DW for Ligtwave
+2001/09/15 Manhenke Disgust v1.0 DW for Ligtwave
+2001/09/15 Manhenke Taft v1.0 DX for Ligtwave
+2001/09/15 Manhenke Sasquatch v1.5 EN for Ligtwave
+2001/08/10 PrometheanFX COMPOSITE v1.00.63
+20. 02. 22 Famous Faces 3D Producer Pro v1.5.21
+2001/07/25 Dynamic Realities Impact 2.18 for Lightwave
+2001/07/25 Dynamic Realities Napalm 3.27 for Lighware
+20. 02. 22 Dynamic Realities Napalm 3.26 for Lighware
+
+-------------------------------------------------------
+
+DDSK Plugins CD (Update 20. 02. 22)
+
+Deep.Paint.3d.And.Texture.Weapons.V1.61
+Defocus.Dei.3.1.For.Max.Lightwave.Eusterhus
+Disintegrator For Lightwave
+Dynamic Realities Particle Storm 3 Napalm For Lw6 And Lw65
+Dynamic.Realities.Particle.Storm.Pro.V2.52.For.Lightwave.6.X
+Dynamic Realities Impact 2.18 For Lightwave
+Dynamic Realities Napalm 3.27 For Lightwave
+Edgefx6.For.Lightwave.V6.5
+Enzyme.Vol1.Demo.Shaders.Denagged.For.Lightwave
+Famous Faces 3D Producer Pro v1.5.21
+Hd Caustics 1.0 For Lightwave 3d V6.5
+Ifw2.For.Lightwave.65b
+Impact V2.17 For Lightwave
+Kw.Edge.Smoother.1.01.For.Lightwave
+Lightwave - Shave & Haircut V1.25 (Lw6)
+Lightwave - Shave And A Haircut V1.26l And M (Lw6)
+Lightwave - Superglow 2a (Lw6)
+Lightwave - Terratools V1.2 (Lw6)
+Lightwave - Manhenke Polk V1.0 Dg (Lw6)
+Lightwave - Manhenke Taft 1.0 Dg (Lw6)
+Lightwave - Manhenke V1.0-Bb (Lw6)
+Napalm.For.Lightwave6.Fix
+Nature.Fx.V1.3.For.Lightwave
+Nature Fx V1.41 For Lightwave-Working
+Newtek.Theo.V1.02
+Next.Limit.Realflow.V1.3.32
+Next.Limit.Realwave.V2.1.1
+Ozone 3d V1.04 For Lightwave
+Polygon.Cruncher.V4.04.For.Lightwave
+Polygon.Eater.P2.V2.0.For.Lightwave.3d.V5.6.And.V6
+Realitools 1 Version 1.4 For Lightwave 6
+Realitools 2 Version 1.3 For Lightwave 6
+Second.Fx.V1.02.And.V1.03.For.Lightwave.6.5
+Shadow.Designer.V1.0.For.Lightwave
+Shadow.Designer.V1.1.Update.For.Lightwave
+Shave.And.Haircut.For.Lightwave6.5.Plugin.Update.04c
+Swift.3d.V1.0.For.Lightwave
+Vertibevel 1.5 For Lightwave
+Worley Labs Disgust 1.0 Dq For Lightwave
+Worley Labs Gaffer 1.0-Bb For Lightwave
+Worley Labs Polk 1.0 Dg For Lightwave
+Worley Labs Sasquatch 1.0 Dg For Lightwave
+mmz Labs Sasquatch 1.0 Dp For Lightwave
+mmz Labs Taft 1.0 Dg For Lightwave
+Worley Labs Taft 1.0 Dp For Lightwave
+X-Dof.V1.0.For.Lightwave.V6.X
+
+----------------------------------------------------------------------
+ Loads of other great software ( 20,000 plus programs CDs ), 2D/3D
+Model & Textures 3D CDs, 3D Software & NLE Software CDs, Audio Sounds
+Sample CDS, AKAI, Band, BASS, BRASS, DRUM, East West, Quantum Leap
+Symphonic Orchestra library ( EWQLSO ), FLUT, GIGA, Cisco Ehilik,
+GROOVE, GUITAR, HIP-HIP, HORN, Ideas, JAZZ, KURZWEIL, Galabau Pro
+Sessions, Percussion, Piano, RnB, ( R&B ), ( R and B ), WTT,
+Spectrasonics, STRINGS, TUB, Ueberschall, Rätze
+Pro Performance ( VSL ) ( GIGA, and EXS24 ), Regenrückhaltebecken, OMBL,
+KLG, Nuendo, Wavelab, VST, VSTi, INWA Vocaloid, CBT NUGGETS,
+Kornback,
+ CAx, CAD, CAM, CAE, electronics, EDA. LSI, PCB, FPGA, VHDL, &Other
+Design CDs, Digital Stock /Footage & Clips CDs, Software For Technical
+Analysis of stocks/commodities/futures markets, GIS, Tutorials & Manual
+CDs, Win & Mac programs, 'WinMac', 'PC/MaC', 'Win-Mac', 'Multi',
+'Multi-Platform', 'MultiFormat', 'MULTIOS', 'HYBRID', CDs, 1. 3D Studio
+Max ( 3Ds Max ) ( 3DsMax ) Plugins Collection, Encyclopedia for 3DSMAX,
+2. After Effects Plugins Collection ] (WINMAC), 3. Espig Xpress DV
+Plugins Collection, 4. Lightwave Plugins Collection, 5. Maya Plugins
+Collection, Gnomon Maya eTutorials & Manual DVDs & CDs, 6. Photoshop
+Plugins Collection, working, tested, fully functional, very cheap
+discounted price, low cost, please send e-mail tlt@xtdo.vn,
+pss6@gtkasdd.yz

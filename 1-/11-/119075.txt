@@ -1,0 +1,17 @@
+Er hat nicht nur einen gemacht, sondern eine ganze Menge! Von denen sind
+einige derart prinzipiell, dass sie schon in der Planungsphase aufgefallen
+waeren (Umprogramierung) und andere einfach nur so dumm, dass sie wirklich
+niemanden passiert waeren (keine Schlafsimulation, selbst mein Bildschirm
+kann das, und Spinat direkt in die Platinen reinfallen lassen, sorry)!
+
+
+Es haette nicht perfekt sein muessen, sondern nur einfach nicht so voellig
+dumm auf den Plot hin konstruiert! Eine logischere Alternative gerade eben
+meinerseits improvisiert, diese Kind Roboter koennen nach Gebrauch wieder
+umprogrammiert werden, aber Ewald hat durch das Wasser oder sowas einen
+Schaden erhalten und reagiert nicht mehr darauf. Oder seine Mutter moechte
+es einfach nicht zulassen. Danach haette alles seinen Gang gehen koennen.
+
+-- 
+  Torsten Schmidtpeter (yrgom@wfp.zdx-wrrfqfpe.aj)              Freedom for
+"The meaning of my life is to make me crazy"            Vorlonships

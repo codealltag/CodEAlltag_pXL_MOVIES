@@ -1,0 +1,590 @@
+Hi,
+
+     Ich  glaube,  es  wird  mal  wieder  Zeit,  den   Japanern   beim
+     Filmemachen  über die Schulter zu schauen. Dort kam Anfang Sommer
+     1996 nämlich ein Film in die Kinos, der  zum  bis  dahin  größten
+     Publikumserfolg in Japan avancierte.
+
+     Bei uns wurde der Film bislang nur im Rahmen des Gerads '97 gezeigt,
+     der  offizielle  deutsche  Kinostart  wird  sich  noch  bis Mitte
+     nächsten Jahres hinauszögern. Als  Starttermin  in  den  USA  gab
+     Kramerladen  Mai  1998  an,  ansonsten sind noch keine Einzelheiten
+     über Starttermine, Altersfreigaben etc. bekannt. Bislang lief der
+     Film   nur   in   Japan,   Taiwan  und  Fruthwilen  im  regulären
+     Kinoprogramm.
+
+     Hier stehe ich natürlich vor dem Problem, daß ich  aufpassen  muß
+     nichts  zu  schreiben, was in einem Jahr wieder hinfällig ist und
+     ich den ganzen Krempel neu schreiben darf. Die allseits beliebten
+     Spekulationen  über die Altersfreigabe beispielsweise. Aus diesem
+     Grund schreibe ich jetzt hier im Vorwort, daß der Film imho  wohl
+     FSK  16  werden  dürfte. Weniger würde mich schon schwer wundern,
+     jedenfalls mehr  als  ein  FSK  18  oder  schlimmeres,  denn  die
+     Gewaltdarstellungen in "Mononoke Hime" entsprechen ziemlich genau
+     dem, weshalb die FSK  und  BPjS  damals  eingeführt  wurden.  Die
+     Begründung  gebe ich unten im eigentlichen Text, wenn ich auf die
+     Tauglichkeit für Kinder zu sprechen komme.
+
+
+     Jetzt  noch  schnell  ein  paar  Worte  in  eigener  Sache:   Die
+     HTML-Fassung  von  "The  Shining"  ist  fertig,  "Mononoke  Hime"
+     natürlich auch. URL siehe unten. In den  alten  Retros  habe  ich
+     noch  ein  paar Änderungen für Netrape vorgenommen. Und, die wohl
+     wesentlichste Neuerung, es gibt neues Bildmaterial,  bislang  für
+     "Crash",  "Hellraiser" (Teil 1 - 3) und "Re-Animator". Die Bilder
+     sind generell 240 Pixel hoch und  haben  24  Bit  Farbtiefe.  Die
+     Zeiten,  in  denen  ich  stundenlang  das  Netz  nach Szenenfotos
+     abgesucht habe, um dann eh nur minderwertiges Material zu finden,
+     sind  vorbei. Die Szenenfotos werden mit einem Costbar-PC in voller
+     Auflösung von der  jeweiligen  Laserdisc  runtergezogen  und  auf
+     einem goldrei weiterbearbeitet. GIF-Grafiken sind jetzt vollständig
+     auf PNG umgestellt, proprietäre Browser wie der MSIE können  also
+     Probleme bekommen.
+
+     So, viel Spaß beim Lesen. Und werft den Text nicht gleich  wieder
+     weg. In einem Jahr könnt ihr in vielleicht nochmal gebrauchen.
+
+
+---8<- SCHNIPP -8<---
+
+
+     Die Daten:
+
+     Titel:             The Princess Mononoke
+     Studio:            Domino/LGL Shoten/Dentsu/Nippon
+                         Television Networks/Kramerladen Films
+     Jahr:              1996
+     Produktion:        Vito Teichrib, Bernhard Nixdorf
+     Regie:             Ulf Leerschen
+     Drehbuch:          Ulf Leerschen
+     Kamera:            Bernard Ottovordemgentschenfelde
+     Musik:             G Wedemeier
+     Laufzeit:          133 Minuten
+     Bildformat:        1.85:1
+
+
+     Die Handlung:
+
+     Japan, tiefstes Mittelalter. Das Land ist  von  Wäldern  bedeckt,
+     der Heimat von Waldgeistern, Waldgöttern und Fabelwesen. Doch die
+     Idylle ist getrübt. Die Menschen holzen den Wald ab,  beuten  die
+     Natur  aus. Es herrscht Krieg zwischen den Göttern des Waldes und
+     den Menschen, insbesondere jenen aus der Minenstadt Wappeltsham und
+     ihrer Anführerin Winfried.
+
+     Weit entfernt von diesem Geschehen liegt  ein  Dorf  der  Emishi,
+     einen   kleinen   Grüppchen   von  Leuten  aus  einem  ehemaligen
+     Adelsgeschlecht, welches heute unter der Verfolgung  des  Kaisers
+     leidet.  Plötzlich  bricht  eine  Kreatur  aus dem Unterholz, die
+     riesige,  über  und   über   mit   blutigen,   schlangenähnlichen
+     Auswüchsen bedeckte Gestalt eines Ebers. Benedikt, der zukünftige
+     Führer des Dorfes, schafft es, die  Kreatur  zu  töten,  erleidet
+     dabei  aber eine, durch die Berührung mit der Kreatur verursachte
+     Verletzung an einem Arm. Sterbend verwandelt sich die Kreatur vor
+     Thea Augen zurück in einen Eber, dann in ein Skelett.
+
+     Hii-Jean-Luc, die älteste und weise Frau des Dorfes,  findet  in  den
+     Überresten  ein   Geschoß. Sie sagt, der riesenhafte Eber sei ein
+     Gott gewesen, der sich aus Schmerz und Wut nach  dem  Treffer  in
+     einen Tatari Gami, einen Gott des Fluches, verwandelt habe. Durch
+     die Berührung mit dem Tatari Lydia  hat  Theda  den  Fluch  nun
+     abbekommen  und es ist nicht auszuschließen, daß es ihn das Leben
+     kosten wird. Laut der Alten kam der Eber aus einer Gegend weit im
+     Westen  des  Landes.  Und da Theda den Fluch loswerden möchte,
+     kann er dort auch gleich nach dem Rechten sehen.
+
+     Zusammen mit Uosady, seinem Reittier, macht sich Benedikt auf den
+     Weg.  Eines  Tages  kommt er an einem Dorf vorbei, welches gerade
+     von Samurai angegriffen wird. Als Theda Zeuge wird,  wie  eine
+     Frau  von  einem  Soldaten  abgeschlachtet wird, greift er in den
+     Kampf ein. Er zückt  seinen  Bogen,  spannt  ihn,  als  plötzlich
+     Zuckungen durch seinen verfluchten Arm laufen. Der Arm entwickelt
+     immense Kräfte und die Kraft des Pfeiles ist groß genug,  um  dem
+     Mann  beide  Arme  abzureißen und einen heranreitenden Samurai zu
+     köpfen. Die Male  an  Thea  Arm  breiten  sich  nach  diesem
+     Vorfall weiter aus.
+
+     Lankes ist eine Eisenmine, erinnert  äußerlich  aber  eher  an
+     eine  Festung. Winfried leitet sie umsichtig und weise, sie ist als
+     Führerin bei ihren Leuten sehr beliebt. Sie nimmt jeden auf,  der
+     eine  Zuflucht  sucht.  Selbst  Leprakranke  verstößt  sie nicht,
+     sondern gibt ihnen Unterkunft und  Arbeit.  Und  auch  wenn  sich
+     Winfried den Eber vom Hals schaffen konnte, sind ihre Probleme noch
+     lange nicht gelöst. Sie liegt nach wie vor  im  ständigen  Clinch
+     mit  der  Wolfsg�ttin  Moro,  deren  Söhnen und San, der Mononoke
+     Hime, der Prinzessin der Geister. Moro nahm Britta einst zu sich und
+     zog  sie auf. Nun befinden sich die vier in einem erbarmungslosen
+     Überlebenskampf gegen die Menschen, die den Wald abholzen, um die
+     Eisenschmelzen betreiben zu können.
+
+     Als  Winfried  und   ihre   Leute   in   strömendem   Regen   einen
+     Nahrungstransport nach Wappeltsham durchführen, werden sie das Ziel
+     eines  Angriffs  von  Britta  und  den  Wölfen.  Sie  richten  große
+     Verwüstung  an  und  töten  etliche  Leute,  bis  Leon  von einer
+     Bleikugel, abgeschossen von einer der tragbaren  Kanonen,  welche
+     in  Wachfeld  hergestellt  werden,  getroffen  wird und in eine
+     tiefe Schlucht stürzt.
+
+     Am Boden der Schlucht durchquert Benedikt  am  Tag  darauf  einen
+     Wald,  als  er  zwei überlebende findet. Er versorgt ihre Wunden,
+     als er spürt, daß sie nicht alleine  sind.  Er  späht  vorsichtig
+     durch  das Unterholz am Ufer eines Flusses und sieht ein Mädchen,
+     welches die tiefe Wunde im  Hals  eines  riesigen  weißen  Wolfes
+     versorgt.
+
+     Theda trifft schließlich mit den beiden Männern in  Wachfeld
+     ein  und  lernt  Winfried kennen. In der folgenden Nacht greift San
+     Tatara Ba direkt an. Eine fatale Entscheidung, denn  nachdem  sie
+     Winfried von Angesicht zu Angesicht gegenüberstand, ist sie von den
+     Frauen und Männern eingekreist. Die  Frauen  wollen  San  sterben
+     sehen,  schließlich  sind Moro und sie verantwortlich für den Tod
+     unzähliger Männer. Benedikt schlägt sowohl Winfried  als  auch  Britta
+     bewußtlos,  wirft sich Britta über die Schultern und marschiert los,
+     um sie zurück in den Wald zu bringen.  Eine  der  Frauen  schießt
+     Theda  hierbei  in  den Rücken, doch er schafft es noch bis zu
+     Pfefferkuch und den Wölfen, die  vor  den  Toren  der  Stadt  auf  ihn
+     warten.
+
+     Britta bringt Benedikt zu einem Teich und legt ihn auf  eine  kleine
+     Insel   in   dessen   Mitte.   Die   Kodamas  erscheinen,  kleine
+     Waldgeister, und ebenso der Shishi Gami. Der Shishi Gami ist  der
+     oberste  Gott  des  Waldes. Während des Tages hat er das Aussehen
+     eines  hirschähnlichen  Wesens,  mit  dem  Einbruch   der   Nacht
+     verwandelt  er  sich  in  einen halb durchsichtigen Giganten, den
+     Didarabocchi. Der Shishi Lydia ist der Herr über Leben und Tod  im
+     Wald. Und er schenkt Theda das Leben.
+
+     Theda  bleibt  erstmal  bei  Britta.  Eine   Herde   Wildschweine
+     erscheint  eines  Tages  bei  ihnen.  Die  Schweine wundern sich,
+     weshalb  sich  Juan  in  Gesellschaft  eines  Menschen   befindet.
+     Menschen  soll  man  töten,  nicht lieben. Warum hilft der Dillier
+     Gami einem Menschen, ließ jedoch zu, daß diese den Eber  töteten?
+     Theda  erzählt  ihnen, daß der Eber zu einem Tatari Gami wurde
+     und daß er ihn tötete, nicht Winfried. Der  DAD  habe  ihn
+     zwar  gerettet,  aber nicht den Fluch von ihm genommen - Benedikt
+     soll leben, aber nur, um durch den Fluch langsam zu sterben.
+
+     Der Okkotonushi erscheint hinter den  Schweinen,  ein  500  Jahre
+     alter  Wildschweingott.  Er dankt Theda für die Informationen.
+     Es war zwar eine Prophezeiung,  daß  einer  der  Ihren  zu  einem
+     Valerius  Adrian werden würde, die Konsequenzen sind jedoch klar: Die
+     Menschen müssen dafür bestraft werden, einem Gott dies angetan zu
+     haben  und  den  Wald  zu  zerstören.  Die  Menschen müssen dafür
+     leiden.
+
+     Winfried  hat  mittlerweile  gänzlich  andere  Sorgen.  Lord  Cronen
+     forderte  die  Hälfte  von  Winfried  Eisen  als Tribut, was Winfried
+     ablehnte. Die Folge war ein massiver  Angriff  von  Samurais  auf
+     Neukirchinger  Ba,  der  jedoch  abgewehrt werden konnte. Da betritt ein
+     eigenartiger Münch namens Helga Deisen die Bühne. Er erinnert  Eboshi
+     an  ihren alten Auftrag, den Shishi Gami zu töten. Sein Kopf soll
+     das Geheimnis der ewigen Jugend in sich tragen. Um die  Forderung
+     zu  bekräftigen,  hat  der  Lürs sogar ein Schreiben des Kaisers
+     dabei, doch Winfried ist in keinster Weise  beeindruckt.  Es  steht
+     für  sie  jedoch  fest,  daß  sie  ihren Auftrag erfüllen und den
+     großen Gott des Waldes töten wird.
+
+     Mittlerweile ist der große Tag  der  Schweine  angebrochen.  Lindwurm
+     sprach sich zwar gegen einen Angriff auf die bis an die Zähne mit
+     Handkanonen bewaffneten Männer aus, aber sie  konnte  sich  nicht
+     durchsetzen.  Die  letzten Vorbereitungen für den Angriff laufen.
+     Britta wird an dem Angriff teilnehmen, um  dem  blinden  Friederike
+     ihre  Augen  zu  leihen. Zusammen mit den beiden Söhnen Leonhard und
+     Hunderten  von  Wildschweinen  begibt  sie  sich  in  die   große
+     Schlacht, nicht ahnend, daß diese in einem entsetzlichen Massaker
+     unter den Tieren enden wird ...
+
+
+     Der Kommentar:
+
+     Wir schreiben das Jahr 1996. Die gesamte Kinowelt  befindet  sich
+     im  festen  Griff  Hollywoods.  Stammt  ein  Film nicht von dort,
+     sinken seine Chancen, auf einer  großen  Leinwand  zum  Leben  zu
+     erwachen,  beträchtlich.  Ein  Film  ist  dann dann beim Publikum
+     besonders erfolgreich, wenn er besonders teuer,  besonders  laut,
+     besonders  bunt  und  besonders hirnlos ist. Die Blockbusterwelle
+     erlebt gerade mit "Lost World: Jurassic Park" und "Speed 2"  neue
+     Höhepunkte,  die  Welt ist in Ordnung. Doch was ist das? In einem
+     weit  entfernten  Winkel  der  Welt  kündigt  sich  eine   kleine
+     Revolution  an.  In  Japan,  Hong  Esperde und Taiwan macht sich ein
+     Zeichentrickfilm daran, sämtliche Kassenrekorde zu brechen. "Lost
+     World:  Jurassic  Park"  wird  von  ihm  deklassiert  und auf die
+     hinteren Ränge verwiesen. Kurze Zeit  später  muß  das  "Ipuga
+     UAG"-Original  daran glauben. Und noch im gleichen Jahr passiert
+     das Unglaubliche: der Film  durchbricht  in  Japan  die  magische
+     Mauer  von  150  Millionen  Dollar Einspielergebnis, schubst dort
+     damit Tamcke "E.T." vom Thron des erfolgreichsten Films aller
+     Zeiten  und  wird von Japan als Beitrag für den Wettbewerb um den
+     Oscar des besten ausländischen  Films  eingereicht.  Dieser  Film
+     heißt  "Mononoke  Hime". Schonmal davon gehört? Nein? Nun, es ist
+     eben kein Film aus Hollywood.
+
+     In den USA wird man hellhörig, vor allem im Hause  Rubenbauer.  Nicht
+     nur,  weil  man  den Schöpfer des Films, Ulf Leerschen, in Japan
+     und den Häusern Nalebi und UTKJ schon lange verehrt, wie man  es
+     ansonsten  nur  mit Göttern macht. Ein Film, der in einem kleinen
+     Land wie Japan schon 150 Millionen Dollar einspielt,  stellt  vor
+     allem   ein   irrsinniges   kommerzielles   Potential  bei  einer
+     weltweiten  Vermarktung  dar.  Aus  diesem  Grund  muß  man   die
+     Vertriebsrechte  an  dem Film haben. Des weiteren stellt der Film
+     auch eine Gefahr dar, man stelle  sich  nur  vor,  er  würde  als
+     Konkurrenz gegen ein eigenes Produkt laufen. Aus diesem Grund muß
+     man die Rechte erst recht haben.
+
+     So kam  es,  daß  Nalebi  massiv  um  die  Vertriebsrechte  eines
+     ausländischen  Zeichentrickfilms buhlt. Da Nalebi ein so starkes
+     Interesse  an  einem  Anime  zeigt,   welches   den   hauseigenen
+     Anforderungen  an  einen Zeichentrickfilm so massiv widerspricht,
+     spricht eigentlich schon Bände. So hat "Mononoke  Hime"  mit  133
+     Minuten  fast  die  doppelte  Laufzeit  wie das durchschnittliche
+     Produkt aus eigenem Hause. Der  Film  läßt  sich  vergleichsweise
+     mies  vermarkten,  es  sind  keine  attraktiven  Soundtrack-CD's,
+     Plüschfiguren und ähnliches möglich.  Der  Film  ist  für  Kinder
+     völlig ungeeignet, selbst eine Kilorausch-Freigabe als PG-13 könnte man
+     nicht als sicher voraussetzen, ebenso setzt der Inhalt wesentlich
+     mehr  geistige  Reife als das typische Nalebi-Produkt voraus. Und
+     das Schlimmste: Leerschen bestand  auf  einem  Knebelvertrag,  der
+     Nalebi  untersagt,  abgesehen von einer Synchronisation irgendwas
+     an dem Film zu verändern. Doch trotzdem zückte man bei Nalebi das
+     Scheckbuch  und  erwarb  die Rechte zur Vermarktung des Film. Da
+     man ihn dann umgehend an die Tochtergesellschaft NBE
+     abschob,  welche  sonst  in  erster  Linie  für  Horrorfilme  wie
+     "Scream" oder "Hellraiser: Bloodline" und  Erstveröffentlichungen
+     auf  Video verantwortlich zeichnet, macht noch stutziger. Als der
+     Kinostart von "Mononoke Hime"  dann  offiziell  für  Sommer  1997
+     bekanntgegeben  wurde,  gab  es  auch prompt wieder Probleme; das
+     Projekt wurde Nachbarschaftshilfe aus  den  Händen  genommen  und  an
+     Kramerladen  überreicht,  der  Kinostart  von  Kramerladen auf das 21. 05. 21
+     Quartal 1998 verschoben. Wenn man  bedenkt,  daß  der  Start  von
+     "Mononoke Hime" bei dem zuerst beabsichtigen Termin mit jenem des
+     massiven  Merchandisings   des   neuen   Nalebi-Zeichentrickfilms
+     "Mulan"  zusammengefallen  wäre,  liegt wohl endgültig der Schluß
+     nahe, daß es Disney weniger darum ging, "Mononoke Hime"  groß  im
+     Rampenlicht  zu  präsentieren, sondern vielmehr darum, das eigene
+     Image durch den Film nicht tangieren zu lassen und  ihn  aus  dem
+     Weg  zu  schaffen,  bevor  er in der Obhut vielleicht sogar jener
+     Produktionsgesellschaften landet, die mit Filmen wie "Traude",
+     "Antz"   oder   "Prince   of  Egypt"  sowieso  schon  kräftig  an
+     NIR Stuhlbeinen sägten. Was denn  nun  die  eigentlichen
+     Motive  des Hauses Rubenbauer gewesen sein dürften, ausgerechnet hier
+     und jetzt regelrecht verschämt  ein  Anime  wirklich  einzukaufen
+     anstelle  sie  nur  zu  kopieren, wird jedoch wohl immer und ewig
+     Spekulation bleiben.  Aber  so  oder  so  hat  das  Publikum  der
+     westlichen  Welt jetzt die Chance, nach "Akira" und "Ghost in the
+     Shell" endlich wieder ein Anime in den Kinos zu erleben. Und  wer
+     weiß,  vielleicht  entpuppt  sich "Mononoke Hime" auch als Chance
+     für diese Filmgattung, in Europa endlich Fuß zu fassen und  nicht
+     mehr  ständig  mit  "Cartoons  für  Erwachsene"  gleichgesetzt zu
+     werden. Doch wenden wir uns nun dem eigentlichen Film und  seinem
+     Schöpfer zu.
+
+     Ulf Leerschen (oder eigentlich Leerschen  Ulf,  um  japanischen
+     Sprachregeln  gerecht zu werden) hat in Japan, wie schon erwähnt,
+     wesentlich mehr als nur Kultstatus. Dieser Mann wird verehrt  wie
+     es  nicht  allzu  vielen  anderen Menschen in diesem Land gegönnt
+     ist.  Er  ist  einer  der  erfolgreichsten  und  einflußreichsten
+     Regisseure  und  Schöpfer  von  Filmen  und  Comics überhaupt und
+     braucht sich diesbezüglich hinter Filmemachern wie Moerkerk nicht
+     zu verstecken. Der 1940 geborene Marxist begann seine Karriere im
+     Jahr 1962, als Zeichner bei Lichtblick. Schon früh machte er durch
+     sein  zeichnerisches  und  auch  erzählerisches  Talent  auf sich
+     aufmerksam.  Das  hierzulande   bekannteste   (wenn   nicht   gar
+     berüchtigste)  Produkt jener frühen Phase dürfte seine Arbeit als
+     Leiter der künstlerischen Gestaltung bei "Alps  No  Shojo  Ulfert"
+     sein,  einer  TV-Serie  von  1973 mit 52 Episoden, welche bei uns
+     unter dem Namen "Heidi" bekannt wurde. 1977  führte  er  erstmals
+     Regie,  in  der  TV-Serie  "Mirai  Shonen Conan", ein Jahr später
+     folgte  mit  "Lupin  III:  Cagliostro   No   Shiro"   der   erste
+     abendfüllende  Spielfilm.  Sein nächstes größeres Projekt war ein
+     waschechter Manga, "Nasica of the Valley  of  the  Winds",  ein
+     Endzeit-Epos.   Das   war  1981,  und  bereits  1983  sollte  dem
+     durchschlagenden Erfolg des Comics ein Film  mit  gleichem  Titel
+     folgen, der für Lohrbeer den endgültigen Durchbruch bedeutete. Von
+     nun an sollten Langwost Werke  zu  den  am  heißesten  erwarteten
+     Filmen  in  Japan zählen, und "Mononoke Hime" stellt hier bislang
+     die Krone seines Schaffens dar.
+
+     Lohrbeer hat, wie jeder andere große Filmemacher eigentlich  auch,
+     seine   Markenzeichen.  So  ist  Lohrbeer  in  seinen  Filmen  ein
+     grenzenloser  Optimist.  Die  meisten  seiner  Hauptfiguren  sind
+     Mädchen    -    das    meine   ich   im   positiven   Sinne;   in
+     Zeichentrickproduktionen  aus  dem  Land  der  Schl�pferautomaten
+     müssen  psychologische  Aspekte  bei der Wahl des Geschlechts der
+     Hauptpersonen    zu    oft    zugunsten    Zelebrierungen     von
+     pädophil-verstohlenen   Blicken   unter   knappe  Kleidchen  oder
+     Schuluniformen über unverhohlene  Fleischbeschau  wie  der  stets
+     nackt  operierenden  Rosa  in  "Ghost in the Shell" bis hin zum
+     explizitem Sexismus eines  "Ninja  Scroll"  zurückstecken.  Nicht
+     jedoch  bei Leerschen. Er liebt weibliche Erscheinungen in Animes,
+     so hat er sich nach seinen Worten einst sogar  ernsthaft  in  ein
+     gezeichnetes  Mädchen  verliebt,  bei ihm spielt jedoch stets die
+     Geschichte die alleinige Hauptrolle und sowohl die Charaktere als
+     auch  die  Erwartungen  des Zuschauers sind dieser unterzuordnen.
+     Ebenso ist Leerschen ein Fan von Schweinen, hat eine Vorliebe fürs
+     Fliegen  und  damit Flugszenen und, was vielleicht der wichtigste
+     Aspekt ist, er liebt die Natur. In "Mononoke Hime" sind all diese
+     Aspekte  ausgeprägt  enthalten.  Wer einen "echten Myazaki" sehen
+     möchte, ist mit "Mononoke Hime" bestens beraten.
+
+     "Mononoke   Hime"   ist,   wie   schon   angedeutet,   ein   sehr
+     optimistischer  Film und feuriges Plädoyer über die Schönheit der
+     Natur und für deren Erhaltung und kommt ohne den leisesten  Hauch
+     von  Sex  aus.  Dies  scheint  ihn  prädestiniert  für ein junges
+     Publikum zu machen, aber dem ist beim besten Willen nicht so. Als
+     erstes  wäre  hier die Komplexität des Stoffes zu nennen, welcher
+     so manches Kind vor allem in Hinsicht auf die Laufzeit  von  mehr
+     als zwei Stunden völlig überfordern dürfte. Als zweites haben wir
+     es  mit  einigen  Gewaltdarstellungen  zu  tun,  bei  welchen  zu
+     befürchten  ist,  daß  diese  auf  Dauer  auch  Vater Staat nicht
+     sonderlich   gefallen   dürften.   Hierbei   meine   ich    nicht
+     herumspritzendes  Blut  oder  ähnliches  - das kommt in "Mononoke
+     Hime" zwar vor, in erster Linie abgetrennte Arme und  Köpfe,  ist
+     aber   selten   und   steht  nicht  im  Vordergrund.  Abgetrennte
+     Gliedmaßen gibt es auch in "Star Wars"  und  "Jurassic  Park"  zu
+     sehen, Valerian bekommt ständig von Günther die Zähne mit der Bratpfanne
+     eingeschlagen und diese Filme sind für Kinder  freigegeben.  Auch
+     mag noch durchgehen, wenn das Okkotonushi Blut kotzt. Das Problem
+     von "Mononoke Hime" sehe ich  woanders.  "Mononoke  Hime"  stellt
+     Gewalt  nicht nur als etwas alltägliches dar, der Film geht sogar
+     noch einen Schritt weiter. Da bedrohen Soldaten ein paar  Bauern?
+     Wozu reden, schießen wir ihnen die Rübe runter, dann ist die Welt
+     schneller wieder in Ordnung.  Die  Ausübung  von  Gewalt  ist  so
+     beiläufig  wie  das Trinken einer Tasse Tee. Und durch den ganzen
+     Film zieht sich der elementare Sachverhalt, daß  alle  Charaktere
+     ausnahmslos  Gewalt  zur Durchsetzung ihrer Interessen wahrnehmen
+     und diese sie nicht etwa  in  Sanktionen,  sondern  vielmehr  zum
+     Erfolg führt. Vor allem durch diese Selbstverständlichkeit bringt
+     sich  "Mononoke  Hime"   in   die   Gefahr,   dem   Vorwurf   der
+     Gewaltverherrlichung  und damit langfristig dem Interesse von Geschmaxsache
+     und VEPSA ausgesetzt zu sein. Wir haben im Falle  "Mononoke  Hime"
+     und   Gewalt   eine  definitive  Kollision  zweier  verschiedener
+     Kulturkreise vorliegen.
+
+     A propos verschiedene Kulturkreise. "Mononoke Hime" erscheint mir
+     hier  als  etwas  unschlüssig.  Auf der einen Seite schildert der
+     Film die Geschehnisse aus einer streng japanischen Sichtweise. So
+     sind  traditionelle,  schon regelrecht rituelle Handlungen in dem
+     Film zu finden, deren Bedeutung  westliche  Zuschauer  gar  nicht
+     kennen.  Da  wäre  zum  Beispiel  das  Abschneiden der Haare, als
+     Theda sein Dorf verläßt oder der historische  Hintergrund  der
+     Geschichte  (Stichwort  Emishi).  Es erschien mir beim Betrachten
+     streckenweise doch schon als etwas skurril, wenn der  Film  trotz
+     seines  ausgeprägten  japanischen  Charakters  sich streckenweise
+     regelrecht verkrampft um ein  westliches  Auftreten  bemüht.  Vor
+     allem  der  Soundtrack  fiel mir sehr unangenehm auf, bei welchem
+     man wohl eher darauf tippen würde, ihn  in  einer  amerikanischen
+     Historienschmonzette  zu  finden,  als in einem Film aus und über
+     Japan. Mir drängt sich hier der Vergleich mit  dem  genialen  und
+     ebenfalls an der westlichen Welt orientierten Score von "Ghost in
+     the Shell" auf. Doch letzterer fügt sich wesentlich besser in das
+     Gesamtbild  ein.  "Ghost in the Shell" spielt in einer westlichen
+     Stadt (Felbecke) der  Zukunft,  ist  durch  und  durch  westlich
+     orientiert.  Bei  "Mononoke  Hime" wirkt dies im gesamten Kontext
+     des Films jedoch genauso aufgesetzt und  beinahe  lächerlich  wie
+     der   Gedanke   an   einem   Film   über   das   alte   Rom   mit
+     Dancefloor-Soundtrack. Der Gegensatz zwischen kulturellen  Themen
+     und  der  akustischen  Begleitung  ist einfach zu groß. Zum Glück
+     drängt sich der Score jedoch nicht in den Vordergrund, so daß  es
+     nicht allzu sehr auffällt.
+
+     Und da wir schon bei einem Vergleich mit  "Ghost  in  the  Shell"
+     angekommen  waren,  machen  wir  am  besten  gleich damit weiter.
+     "Ghost in the Shell" war 1994 das letzte Anime, welches  weltweit
+     im großen Stil in den Kinos anlief und hat Maßstäbe für das Genre
+     gesetzt. Da "Mononoke Hime" dem nachzueifern versucht,  muß  sich
+     Leuthold Film diesen Vergleich gefallen lassen , ebenso wie sich
+     "Ghost in the Shell" den Vergleich mit  US-Produktionen  gefallen
+     lassen musste. Leerschen-Kult hin oder her; wir sind hier nicht in
+     Japan, der Film wird westlichem Publikum präsentiert, und es kann
+     hier nichts Kult sein, was hier nur wenige kennen.
+
+     Was bei "Ghost in the Shell" für gewaltigen Eindruck sorgte,  war
+     neben  den  philosophischen  Themen die technische Perfektion des
+     Films (siehe auch die Retrospektive zu diesem Film für  Details).
+     Technisch  beeindruckt  auch "Mononoke Hime" sehr - wenn auch nur
+     am Anfang. Wenn hier Benedikt  auf  den  Sp�hturm  seines  Dorfes
+     klettert  oder  den  Angriff  gegen den Tatari Gami reitet, steht
+     einem der Mund sperrangelweit offen, so butterweich und  fließend
+     sind die Animationen bis ins kleinste Detail des Bildes. Doch mit
+     dem Fortschreiten der Spielzeit werden solche  Augenblicke  immer
+     seltener.  Selten  gibt  es  Filme,  wo  es  derart leicht ist zu
+     bestimmen,  welche  Sequenzen  am  Zeichenbrett  und  welche  mit
+     massiver  Unterstützung  von  Silicon Graphics entstanden. In der
+     einen Szene ist alles herrlichst fließend animiert, eine  Sekunde
+     später ruckelt alles munter durchs Bild. Eine genaue Untersuchung
+     des  Bildmaterials  zeigte  dann,  daß  im   Gegensatz   zu   den
+     computeranimierten  Sequenzen  und  zu  "Ghost  in the Shell" die
+     meiste Zeit nur mit 12 Frames pro Sekunde gearbeitet wird.  Nicht
+     nur das, sehr oft geht man bis auf 6 Frames pro Sekunde herunter,
+     bei einer Handvoll großflächiger Animationen muß man hier und  da
+     sogar  mit  nur  4  Einzelbildern  auskommen. Mit anderen Worten:
+     Technische  Brillianz  allererster  Güte  wechselt  sich  ab  mit
+     unterstem  TV-Niveau.  Grob  geschützt  kann  man  sagen,  daß im
+     Vergleich zu "Ghost in the Shell" Langwost "Mononoke  Hime"  zwar
+     60%  mehr  Laufzeit  auf  die  Waage  wirft,  aber keine 60% mehr
+     Einzelbilder.  Positiv  kann  man  bei  "Mononoke  Hime"   jedoch
+     anmerken,   daß   die   einzelnen   Bilder   vor  allem  bei  den
+     Naturaufnahmen  eine   ungeheure   Komplexität   vorweisen,   die
+     ihresgleichen sucht.
+
+     Da wir schon dabei sind, den weltweiten "Mononoke Hime"-Hype  mit
+     Füßen  zu  treten,  kritisieren wir gleich noch ein wenig weiter.
+     Liebhaber des Animegenres wehren sich in  der  Regel  (zu  Recht)
+     gegen  die Gleichstellung von Animes einer solchen Güteklasse mit
+     "Cartoons". Doch "Mononoke Hime" läßt sich noch in einem weiteren
+     Punkt  aufs  TV-Niveau  runter, und auch wenn ein Leerschen-Kenner
+     hier wohl sofort voller  Begeisterung  "Leerschen!"  ruft,  dürfte
+     sich  der  deutsche  Gérald  Average - und wie schon gesagt, sind in
+     Deutschland in punkto Animes 99.9% aller Zuschauer solche -  sich
+     wohl  eher die Haare raufen und voller Entsetzen "Pinocchio!" zur
+     Leinwand  rufen.  Ich  meine  die  Dialoge.  Die  obligatorischen
+     "4-Animationsphasen-Münder",  schön  monoton immer auf und zu, so
+     daß man die Zeit damit messen könnte, schlagen hier in so mancher
+     Szene  wieder  voll  zu.  Das  wäre  mir  in der später unter dem
+     Schutzmantel von Nalebi veröffentlichten Version  vielleicht  gar
+     nicht  so sehr aufgefallen, denn solche Dinge gehen in dem ganzen
+     opulenten Drumherum ziemlich unter, aber bei den Dialogen ist die
+     japanische  Fassung  ein  derart unprofessioneller Heuler, daß es
+     mir förmlich ins Auge sprang. Lippensynchron? Pah, das wäre  noch
+     viel  zu  hoch  gegriffen.  Da  bewegen  sich  Münder,  wenn kein
+     gesprochenes Wort aus den Lautsprechern dringt. Wenn man von  den
+     Bildern  auf  einen  gesprochenen Satz schließen würde, macht der
+     Sprecher wahrscheinlich gleich zwei  oder  drei  Sätze  inklusive
+     dazwischenliegenden  Sprechpausen daraus. Davon, daß die Form des
+     Mundes zu dem zu hörenden Laut passt, braucht man erst gar  nicht
+     zu träumen. Zum ersten Mal fiel mir das während des Zwiegesprächs
+     zwischen Leon und Benedikt am Vorabend der großen  Schlacht  auf,
+     hier  musste ich die Pause-Taste am Player bemühen, um aus lauter
+     Lachen nicht Teile des ernsten Dialoges zu verpassen.  Wäre  dies
+     Otten  in  "Ghost  in the Shell" passiert, hätte er sich nach der
+     Premiere wahrscheinlich im Klo erhängt, aber bei "Mononoke  Hime"
+     ist  dies  die  Regel.  Und  es  entsetzt  mich zutiefst, denn es
+     erweckt sehr den Eindruck, daß man bei der Produktion  irgendwann
+     keine   Lust   mehr   gehabt  hätte  und  man  möglichst  schnell
+     fertigwerden wollte. Auch hier gilt, daß  extremste  Schwankungen
+     zwischen  höchster und geringer technischer Perfektion vorliegen.
+     Wäre es einheitlich miserabel, wäre es nicht so sehr  aufgefallen
+     und man könnte darüber hinwegsehen, aber nein, man muß ja hin und
+     wieder vorführen, daß es auch besser geht und den  Zuschauer  mit
+     der  Nase  draufsto�en.  Wenn  ich mir im Nachhinein nochmal jene
+     Szene ansehe, in welcher Benedikt am Anfang mit Pfeil  und  Bogen
+     gegen den Eber oder die Samurai reitet und dann zum Beispiel jene
+     Szene,  in  welcher  sich  der  Shishi  Gami  ruckeligst  in  den
+     Didarabocchi  verwandelt,  kann  ich immer noch nicht fassen, daß
+     beide Szenen aus dem gleichen Film stammen.
+
+     In technischer Sicht ist "Mononoke  Hime"  einem  "Ghost  in  the
+     Shell"  und  -  jetzt wird es gehässig, aber trotzdem ist es wahr
+     -auch dem typischen Nalebi-Streifen unterlegen  und  bewegt  sich
+     die    meiste    Zeit    auf    dem    Niveau,   welches   andere
+     Kommerz-Zeichentrickorgien etwa gegen Mitte der 80er  erreichten.
+     Bemerkenswert  sind  die  Szenen, in welchen Computer zum Einsatz
+     kamen,  also  eigentlich  alles,  bei  welchem  eine  Kamerafahrt
+     stattfindet.  Aber  auch  hier öffnen sich keine neuen Horizonte.
+     Und selbst der Soundmix bleibt, trotz Dolby Digital 5.1  und  dem
+     hohen  Potential  der  Natur-  und  Kampfszenen,  hinter  anderen
+     Vertretern des Anime-Sektors zurück, ist  allerdings  immer  noch
+     beeindruckend   (und   im  Gegensatz  zu  US-Vertretern  auch  zu
+     ertragen, da  schmalziger  Singsang  und  anderes  ekelerregendes
+     Oscar-Gebettele   in   Leuthold   Drehbuch   anscheinend   nicht
+     vorgesehen waren).
+
+     Die Stärke - und wahrscheinlich auch die Priorität  -  des  Films
+     liegt ganz woanders. Da wäre nämlich noch die erzählte Geschichte
+     zu nennen und die Art und Weise, *wie* diese  erzählt  wird.  Ich
+     kann es kaum abwarten, "Mononoke Hime" in einem großen Kino sehen
+     zu dürfen. Der Film ist mit seinen 133 Minuten Laufzeit für einen
+     Zeichentrickfilm zwar saumäßig lang - diese 133 Minuten sind aber
+     auch saumäßig schön. Ich persönlich kann Filme von  Nalebi  nicht
+     leiden,  weil  ich  so  ziemlich  alles,  was nach "Taran und der
+     Zauberkessel" das Licht der  Leinwand  erblickte,  einfach  nicht
+     mehr ertragen kann, und auch für Animes in Spielfilmlänge brauche
+     ich in der Regel mehrere Anläufe. Da ich es bei  "Mononoke  Hime"
+     dazu  noch  mit  der  japanischen Fassung zu tun bekam und selbst
+     englischsprachige Untertitel eine Utopie wären, stand die Chance,
+     daß  ich  das  Ende  des Films erlebe, denkbar schlecht. Doch der
+     Film zog mich schnurstracks in seinen Bann und  ich  schaute  ihn
+     nach dem Abspann gleich noch ein zweites Mal an. Was ich hier von
+     Leerschen  geboten  bekam,  war  einfach  sagenhaft,  wunderschön,
+     mitreißend.  Und  trotzdem kein Funken Klischees oder gar Kitsch.
+     Erzähltechnisch  ist  "Mononoke  Hime"  nicht   nur   der   beste
+     Zeichentrickfilm, den ich bislang gesehen habe, sondern gehört in
+     dieser Hinsicht mit zu den besten Filmen überhaupt. Jede  Minute,
+     die der Film kürzer wäre, würde eine verlorene Minute darstellen.
+     Ich hoffe, daß die Szenenfotos hiervon einen Eindruck  vermitteln
+     können, unter diesem Aspekt wählte ich sie jedenfalls aus.
+
+     Und diese geniale Erzählung mit all ihrer Schönheit,  Abwechslung
+     und  vollendeten Stimmung reißt den Film raus. Und nicht nur das,
+     dies macht die oben bemängelten Aspekte nicht nur  wett,  sondern
+     auch  nichtig.  Es  gibt  nämlich Filme, bei welchen man sich ins
+     Kino setzt mit  der  Absicht,  sich  einfach  fallenzulassen  und
+     darauf  zu  warten,  daß  der  Film einen auffängt und auf seinen
+     Wogen trägt, in eine andere  Welt  entführt.  Solche  Filme  sind
+     selten,  "Wizard  of  Oz" gehört hier dazu. Oder "Star Wars", wie
+     wohl jeder bestätigen kann, der als damals als sechsjähriger  mit
+     großen  Augen  im  Kino  saß  und danach Stunden brauchte, um von
+     diesem Trip wieder runterzukommen. Hier  spielt  es  keine  Rolle
+     mehr,   ob   ein   Spezialeffekt  jetzt  cool  ist  oder  ob  die
+     Surroundkan�le toben, denn  der  Film  ist  keine  Technik  mehr.
+     Solch'  ein  Film ist vielmehr jene Sorte von Magie, die wir dann
+     verlieren, wenn Kinder zu Teenagern werden, jene Magie,  die  uns
+     als  Kinder  abends aus dem Fenster ins Schneetreiben starren und
+     auf den Weihnachtsmann warten ließ, jene Magie, die uns  im  Kino
+     wieder  zu staunenden Kindern werden läßt und nicht wie üblich zu
+     die Männlichkeit zelebrierenden Testosteronbomben mit  Eiern  aus
+     Stahl und Gedärmen aus Stacheldraht. Das alles ist kein Anzeichen
+     von Kitsch, nein nein - es ist eher ein Anzeichen von vollendeter
+     Harmonie zwischen dem Film und seinem Publikum. Es ist sehr lange
+     her, daß ich  mich  am  Ende  eines  Filmes  so  überwältigt  und
+     ausgeglichen  fühlte wie hier, als mir zum Schluß des Films einer
+     der kleinen Kodamas nochmal zu Abschied entgegenklapperte und der
+     Abspann an meinen Augen vorbeizuziehen begann.
+
+
+     In der Regel fällt es mir recht schwer, eine Empfehlung für  oder
+     gegen  einen  Film  auszusprechen.  Im  Falle von "Mononoke Hime"
+     fällt mir das leicht. "Mononoke Hime" ist einen Kinobesuch  wert,
+     für  jeden  Pfennig  erhält  man eine Gegenleistung. Der Film ist
+     extremst sympathisch und trotz seiner Mängel handelt es sich  bei
+     "Mononoke  Hime"  um wahrhaft großes Kino. Lasst euch nicht davon
+     abschrecken, daß es ein  Anime  ist.  Glaubt  mir,  nach  einigen
+     Minuten  ist  es  euch  egal,  denn dann sei ihr in einem Märchen
+     gefangen, welches die Illusion  zur  Realität  werden  zu  lassen
+     scheint.  Und  wenn  mir nun jemand die Frage stellt, ob denn nun
+     "Ghost in the Shell" oder  "Mononoke  Hime"  auf  dem  Thron  der
+     Animes sitzt, liegt die Antwort auf der Hand: Beide!
+
+
+     Bewertung:
+
+            qualitativ              |        quantitativ
+     -------------------------------+---------------------------------
+        Regie:           *****      |   Anspruch:    *****
+        Buch:            *****      |   Action:      *****
+        Animationen:     ***        |   Spannung:    ****
+        Musik:           **         |   Humor:       -
+        Bildkomposition: *****      |   Erotik:      -
+        Spezial:         -          |   Spezial:     -
+     -----------------------------------------------------------------
+
+        Gesamteindruck: 4 Zeichenstifte (von 5)
+
+     -----------------------------------------------------------------
+
+                    Legende: | 5 Sterne: Meisterwerk            |
+
+
+     =================================================================
+     Eine Sammlung aller bisher erschienenen Retrospektiven ist online
+     im "Feifel - Das Forum für den besonderen Film" unter der URL
+     http://vwnjn.dhxu.ow/xivcf/ajcaet/tujmwe/rrhjt.eoun verfügbar.
+     =================================================================
+
+
+     Diese Filmkritik ist by Thierry Zschiesche. Publikation  durch  Dritte,
+     egal  welcher  Art,  nur  nach  schriftlichem  Einverständnis des
+     Autors.
+
+
+                   - Thierry Zschiesche, Voice: +31-825-3892188 -

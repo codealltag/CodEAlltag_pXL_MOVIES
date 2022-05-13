@@ -1,0 +1,36 @@
+Nur eine Sat-Anlage ist klar, mehrere Projektoren ist auch klar
+und daß dazwischen (Glas-)Kabel liegen müssen ist auch klar,
+aber ich sehe da noch keinen Server oder ähnliches Speicher-
+system.
+Ist auch sicherlich nicht notwendig, bei der Technik können die
+Projektoren sicherlich auch Datenübertragungen Point-to-Point
+vornehmen.
+Einen Server halte ich auch für zu risikoreich, was den täglichen
+Betrieb betrifft: Fällt der Server aus, sind alle Vorführungen
+unterbrochen.
+
+
+Ich tippe auf die Satellitenübertragung. Da die flächendeckend ist,
+kommt man am leichtesten an die Daten. Die Decodierung der
+Daten ist sowieso die Hauptschwierigkeit an der ganzen Sache.
+
+Denkbar wäre auch ein permanentes Anzapfen der Verkabelung
+im Kino, aber da würde man mit der Zeit drauf kommen. Interessant
+wäre natürlich zu wissen, was für eine Verkabelung das überhaupt
+ist ;-)  Möglicherweise wird es später nur dafür zertifizierte
+Firmen geben, die die Kabel verlegen dürfen.
+
+Weitere Möglichkeit wäre 'einfach' die Festplatte auszubauen. Da
+so eine aufwendiger Projektor sicherlich ein wartungspflichtiges
+Gerät ist (bei der man auch gleich die Sicherheit überprüfen
+kann...), kommt man wahrscheinlich relativ leicht an die Fest-
+platten. Letztere gehören ja auch zu den wenigen mechanischen
+Teilen in diesem Gerät, d.h., die Ausfallwahrscheinlichkeit ist im
+Verhältnis zur restlichen Elektronik sehr hoch.
+
+Kaputte Platten müssen sowieso direkt (und umgehend) vom Pro-
+jektor-Hersteller eingezogen werden, die kann man natürlich nicht
+so einfach in den Müll schmeissen.
+
+bye
+Patrick

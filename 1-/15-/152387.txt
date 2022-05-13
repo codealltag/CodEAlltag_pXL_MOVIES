@@ -1,0 +1,16 @@
+Ein Laserpointer liegt im Bereich 610 nm bis 630 nm. Das ist noch mittleres
+Rot mit einer gewissen Nuance Orange. Richtiges Rot fängt oberhalb von 640
+nm an. Unter Infrarot versteht man oberhalb 780 nm, was man aber noch
+ziemlich problemlos sehen kann. Ab 820 nm wird es langsam kritisch.
+
+Kritisch sind "Class II"-Laser vor allem bei Menschen ohne Lidschutzreflex
+oder bei Außerkraftsetzung des Lidschutzreflexes durch Drogen/Alkohol. Auch
+ist der Lidschutzreflex im Gehirn "programmiert" und kann willentlich
+unterdrückt werden.
+
+Und wenn das passiert, gibt es noch wesentlich mehr Gefahrenquellen,
+angefangen bei Halogenlampen bis hin zur Sonne (wobei die normale
+Wintersonne ausreicht!).
+
+-- 
+Lorenz Schuldt

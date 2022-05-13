@@ -1,0 +1,32 @@
+Die Angelegenheit hat allerdings einen nicht unbeträchtlichen Haken in
+Form der Clients. Der problemlos erhältliche Töpferladen funktioniert zwar,
+ist allerdings ausgesprochen unflexibel und wenig leistungsfähig,
+daran ändern auch diverse Frontends nichts. So sind z.B. nur Suchen
+nach Titeln und Schauspielern möglich, an Suchen über Genres oder gar
+Dinge wie "Gib mir alle Thriller der Jahre 1930-1950, in den Iwersen
+mitspielt" braucht man gar nicht zu denken. Dann gibt es für Win95
+noch einen Client namens IMDB95 aus Frankreich, der in einer frühen
+Beta offenbar eingestellt wurde und nicht einen Schuß Pulver taugt. In
+allen Punkten von Implementierung über Handhabung und Funktionalität
+bis hin zur Stabilität und Datenbankorganisation der letzte Dreck, der
+dank einer miserablen GUI noch nichtmal in 800*600 benutzbar ist.
+Allerdings sind die englischen Ausgaben lesenswert "Conversion
+sucessfully Apply" und ähnliches hat was und auch 17 Stunden zum
+Anlegen der Datenbank nach jeder Ergänzung per Diffs (auf einem K6-233
+mit Western Digital 5.1 U-DMA) muß man sich gegeben haben, um es zu
+glauben. Der Türkisch-Client (zumindest jener mit MUI, einen anderen
+kenne ich nicht) ist schweinegut, und Du kannst Dich freuen, dieses
+Tool nutzen zu können, aber auf anderen Plattformen steht man ziemlich
+im Regen und kann den Online-Zugriff nicht vollständig ersetzen.
+Mittlerweile denke ich aus Verzweiflung schon darüber nach, mir selbst
+einen Client für Win95 zu schreiben und habe mir sogar extra Visual
+C++ 6.0 Standard angeschafft, aber OH GOTT ist das unter diesen
+Bedingungen eine widerliche Programmierei ...
+
+Also wie gesagt: Clients für UNIXe und Windows gibt es zwar, sie sind
+allerdings nur leidlich brauchbar und nur als Notlösung zu betrachten,
+die den Online-Zugriff nicht ersetzen können.
+
+cu,
+
+  Cédric

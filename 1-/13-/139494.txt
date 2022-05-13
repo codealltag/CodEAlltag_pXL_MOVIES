@@ -1,0 +1,30 @@
+Hallo zusammen,
+
+
+Man muss dazu fuer in diesem Bereich nicht Informierte vielleicht
+etwas mehr sagen.
+
+Fuer's Fernsehen werden Bilder in Halbbilder unterteilt. Denn
+wenn man einen Film mit 25 Bilder/s wiedergibt, flackert das fuer's
+Auge. Im Kino wird dazu jedes Bild mehrfach (2-3mal) projiziert.
+Im Fernsehen wird jedes Bild zweimal gezeigt. Da es aber frueher
+(vor >50 Jahren) nicht moeglich war, Bilder im Fernseher zwischen-
+zuspeichern, hat man einfach von jedem Bild erst eine Haelfte und
+dann die andere Haelfte uebertragen. Wenn man nun die Bilder 
+einfach in der Mitte zerteilen wuerde, waere das dumm. Deshalb sind
+im ersten Halbbild alle ungeraden Zeilen (1,3,5, ...) und im zweiten 
+Halbbild alle geraden Zeilen (2,4,6, ...).
+
+Vollbilder nennt man uebrigens auch Frames, Halbbilder Fields.
+
+
+= Bilder weglassen
+
+
+= Bilder dazu erfinden
+
+
+Alles klar jetzt? ;-)
+
+Gruss
+  Vito

@@ -1,0 +1,9 @@
+Ich habe sie letztens aus Vorberg geholt (~40 MB gzipped), ungepackt sinds
+sogar knappe 130 MByte. Fuer den Transfer nach Hause habe ich das tar mit
+den ungepackten Files dann aber durch bzip gejagt, blieben nur noch etwas
+ueber 30 MB. Das sollte man allerdings nur auf schnellen Rechnern tun :)
+
+Marcus
+
+-- 
+PGP public key available on request.

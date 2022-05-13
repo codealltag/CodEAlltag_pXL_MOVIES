@@ -1,0 +1,79 @@
+jivwse@mksse.kl  (Agabaiukh  R.   Callensee)  benutzte  seine  Tastatur  am
+26.01.1997  um  17:04:27  Uhr, um folgenden Text unter dem Betreff "Re:
+Internet Movie Database :  Client fuer PC's?" zu erzeugen:
+
+
+Mmmmh... eigentlich schon... B-)
+
+-------------- raschel raschel raschel --------------------------------
+
+Verzeichnis von "Daten:bak/imdb" am Today     17:58
+-----rwxd    5-Jan-96  12:49 12188966 actors.lha
+-----rwxd    5-Jan-96  12:49  5751744 actresses.lha
+-----rwxd    5-Jan-96  12:49    77276 aka-names.lha
+-----rwxd    5-Jan-96  12:49   414468 aka-titles.lha
+-----rwxd    5-Jan-96  12:49    78539 alternate-versions.lha
+-----rwxd    5-Jan-96  12:49  2551458 biographies.lha
+-----rwxd    4-Jan-96  12:49   126445 business.lha
+-----rwxd    4-Jan-96  12:49   166523 certificates.lha
+-----rwxd    5-Jan-96  12:49   711454 cinematographers.lha
+-----rwxd    4-Jan-97  12:49   664393 color-info.lha
+-----rwxd    5-Jan-96  12:50   188537 complete-cast.lha
+-----rwxd    5-Jan-96  12:52   658296 composers.lha
+-----rwxd    4-Jan-97  12:53   234836 costume-designers.lha
+-----rwxd    4-Jan-97  12:57   776527 countries.lha
+-----rwxd    4-Jan-96  12:57    42679 crazy-credits.lha
+-----rwxd    4-Jan-96  13:01  1400635 directors.lha
+-----rwxd    4-Jan-96  13:01    51047 distributors.lha
+-----rwxd    5-Jan-96  13:02   475826 editors.lha
+-----rwxd    4-Jan-96  13:06   816929 genres.lha
+-----rwxd    4-Jan-97  13:07   208879 german-aka-titles.lha
+-----rwxd    4-Jan-96  13:07   129701 goofs.lha
+-----rwxd    5-Jan-96  13:07     5864 iso-aka-titles.lha
+-----rwxd    4-Jan-96  13:07   151349 italian-aka-titles.lha
+-----rwxd    4-Jan-97  13:09   446986 language.lha
+-----rwxd    4-Jan-97  13:10   475043 laserdisc.lha
+-----rwxd    4-Jan-97  13:10   144580 literature.lha
+-----rwxd    4-Jan-97  13:12   200942 locations.lha
+-----rwxd    4-Jan-97  13:34  3413389 miscellaneous.lha
+-----rwxd    4-Jan-97  13:36   348969 movie-links.lha
+-----rwxd    4-Jan-97  13:41  1093564 movies.lha
+-----rwxd    4-Jan-97  13:42    29146 mpaa-ratings-reasons.lha
+-----rwxd    4-Jan-97  13:49  3506356 plot.lha
+-----rwxd    4-Jan-97  13:51   895324 producers.lha
+-----rwxd    4-Jan-96  13:53   731525 production-companies.lha
+-----rwxd    4-Jan-97  13:54   275479 production-designers.lha
+-----rwxd    4-Jan-97  13:54   440262 quotes.lha
+-----rwxd    4-Jan-97  13:55   234230 ratings.lha
+-----rwxd    4-Jan-97  13:56   342675 release-dates.lha
+-----rwxd    4-Jan-97  13:57   425624 running-times.lha
+-----rwxd    4-Jan-96  13:58   317017 sound-mix.lha
+-----rwxd    4-Jan-96  13:59   576708 soundtracks.lha
+-----rwxd    4-Jan-97  14:00     9946 special-effects-companies.lha
+-----rwxd    4-Jan-97  14:00   124488 taglines.lha
+-----rwxd    4-Jan-97  14:02   449017 technical.lha
+-----rwxd    4-Jan-97  14:02   292607 trivia.lha
+-----rwxd    4-Jan-97  14:06  1509894 writers.lha
+46 Dateien - 0 Verzeichnisse - 0 Links - 86310 Blöcke - 44156142 Bytes
+Benutzt 336678912 Bytes  -  Frei 87378944 Bytes
+
+-------------- zerkn�ll und wech --------------------------------------
+
+
+Als ich bei der imdb eingestiegen bin, war die Datenbank nicht *so*
+groß. Zehn oder fünfzehn Disketten (1,44) haben damals ausgereicht.
+Dann zieht man sich jeden Monat noch die vier Diffs und das war's es
+dann.
+
+
+Schon, aber den benutze ich für was anderes.
+
+
+44 MB bei heutigem Stand, das ist natürlich etwas viel, das gebe ich
+zu.
+
+Aber dank ISDN auch kein Prob mehr. Oder man besucht den Sysop mit der
+SCSI Platte, alles kein Problem.
+
+--
+So long... Yvos (@KLFKYWB.ypj.go)

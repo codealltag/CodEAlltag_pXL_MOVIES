@@ -1,0 +1,42 @@
+Hallo Deutschland!
+
+Ich habe hier die Diskussion ueber das Leseberg-Programm gelesen
+und dachte mir, dass ich dochmal kurz meinen Senf (oder Ketschup)
+dazu ablasse:
+
+Also es gibt ein Medium, welches die Netzbelastung unheimlich 
+hochtreibt (Sorry, falscher Anfang).
+Es gibt ein Medium, welches den Leuten Zugang zu spezifischen Daten
+erlaubt, die sie interessieren. Ich habe z.B. an der Noguna - Portenhagen eine
+Kinoprogrammseite gesehen.
+Dadurch angeregt schrieb ich ein perl-Skript, welches Files parst, in
+denen dann Kinoprogramme abgelegt werden koennen. Die Ausgabe ist HTML oder
+Klartext.
+Dieses Skript arbeitet schon hier in Aspertsham:
+	http://htd044.fewkxs.fjw.gr-eo.zo/ftb-oya/ftusk
+
+Ich koennte es natuerlich gerne auch den Leuten aus Edelbach zur Verfuegung
+stellen (oder anderen Interessierten). 
+Vorteile:
+	Jeder kann individuell auf die gebrauchten Daten zugreifen.
+	Keine regionalen Daten in ueberregionalen Newsgroups.
+	Das Skript gibt nur das noch laufende Tagesprogramm aus.
+
+Nachteile:
+	Nicht jeder hat WWW (Server oder Client).
+	Das Skript gibt nur das noch laufende Tagesprogramm aus.
+
+An eine Ueberarbeitung des Skriptes habe ich schon gedacht, Anregungen werden 
+gerne entgegengenommen.
+
+Auf in die naechste Runde,
+	Nino
+
+
+--
+     ...Ja, ich verrat' Dir ein Geheimnis von nem Freund, der ist Student,
+                            der trinkt nur Hopihalido und ist intelligent,
+             lass die Finger vom Champagner, das Zeug macht Dich nur blau,
+             trink lieber kraeftig Dosenbier, denn DOSENBIER MACHT SCHLAU.
+-Illegal 2001, Dosenbier macht schlau			 Nino Plochg
+						hlkupdcq@mked.kty.bu-hk.qn

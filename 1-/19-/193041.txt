@@ -1,0 +1,24 @@
+Um ein NTSC-Band zu kopieren, brauchst Du entweder zwei "echte" NTSC-
+Recorder (schwer zu beschaffen, nicht PAL-tauglich) oder zwei Multi-
+norm-Recorder (sehr teuer). Kopierschutz wäre da noch das kleinste
+Problem.
+
+
+Träumer;) 
+Im Ernst: Das geht zwar, erfordert aber neben dem NTSC- bzw. Multi-
+normrecorder zur Wiedergabe zusätzlich noch einen Normwandler. So ein
+Gerät liegt je nach Qualitätsanforderungen mehr oder weniger weit im
+vierstelligen Preisbereich, denn die vollständige Wandlung ist durch
+die unterschiedlichen Ablenkfrequenzen keine triviale Geschichte.
+
+
+Die NTSC-Wiedergabe-taugleichen Recorder geben in der Regel ein als
+"PAL60" bezeichnetes Signal aus. Dieses besitzt PAL-Farbkodierung,
+aber noch die 60Hz Bildwiederholfrequenz des NTSC-Standards, ist also
+ein Mittelding zwischen beidem.
+Die meisten modernen Fernsehgeräte können PAL60 darstellen, wieder
+aufzeichnen läßt sich dieses Signal aber nicht. Weder mit einem PAL-
+noch mit einem NTSC-Recorder. Einbahnstraße.
+
+Gruß
+   Dario

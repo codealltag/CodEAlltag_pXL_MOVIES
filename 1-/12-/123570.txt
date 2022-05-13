@@ -1,0 +1,31 @@
+Mir fallen zwei mögliche Erklärungen ein:
+
+a) Bei den Untertiteln wurde nicht nur die Bildschicht entfernt sondern 
+   besonders tief in das Trägermaterial geschnitten. 
+   Wenn die Untertitel "scharf" gestellt wurden, wurde nicht auf
+   die Bildschicht sondern auf den schwarzen Rand der Untertitel
+   fokusiert, der sich durch die Kante im Trägermaterial ergibt.
+   Dieser Effekt kann besonders bei gefrästen Untertiteln auftreten.
+
+b) Leinwand, Projektor und Objektiv waren so angeordnet, dass man nie
+   das ganze Bild scharf stellen kann. Das hat dann mit den Untertiteln
+   selbst eigentlich nichts zu tun. Aber wenn der untere Bildrand
+   scharfgestellt wird, sind die Untertitel scharf (plus das umliegende
+   Bild, aber das fällt wegen der Untertitel nicht so auf). Wenn auf die
+   Bildmitte scharfgestellt wird, sind die Untertitel unscharf.
+   Dieses Problem kann besonders bei Kinos mit stark ansteigenden 
+   Sitzreihen auftreten..
+
+
+Der Vorführer oder der Kartenabreisser/Plaztanweiser. 
+Viele Kinos haben heutzutage eine Fernbedienung, mit der man Werbung 
+und Hauptfilm starten, sowie Schärfe und Bildstrich einstellen kann.
+
+Von Filmprojektoren mit Autofokus habe ich noch nichts gehört. Das gibt 
+es bei Diaprojektoren. Aber auch dort muss man zunächst manuell scharf 
+stellen. Der Autofokus gleicht nur Verlagerungen der Bildebene innerhalb
+des Projektors aus (wenn das Dia im Rahmen "ploppt"). Bei Filmprojektoren
+macht das AFAIK keinen Sinn, da der Film ja dauernd bewegt wird, ein
+"Ploppen" unmöglich ist.
+
+Ciao, Simon                             dlvhk.yrkwafjr@isvlf.xe

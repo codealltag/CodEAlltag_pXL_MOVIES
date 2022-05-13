@@ -1,0 +1,62 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Kasimir Kaune;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) vor dem Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1995 | WS                  | verfügbar  |  79
+12 Monkeys                | 1995 | WS SE               | demnächst  |
+Abyss, The (Dir. Cut)     | 1989 | WS THX AC-3         | demnächst  | 119
+Affair                    | 1996 | Unrated             | 15.07.96   |
+Alive                     | 1992 | WS AC-3 CAV SE      | verfügbar  |  95
+Amadeus                   | 1984 | WS AC-3 JP          | verfügbar  |  95
+American Graffiti         | 1973 | WS THX              | verfügbar  |  79
+Apollo 13                 | 1996 | WS SE THX           | verfügbar  | 189
+Arrival, The              | 1996 | WS AC-3             | 07.07.96   |
+Bed of Roses              | 1996 |                     | verfügbar  |  79
+Before & After            | 1996 | WS                  | verfügbar  |
+Beyond Rangoon            | 1995 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1996 | WS AC-3             | verfügbar  |
+Birdcage, The             | 1996 | WS AC-3             | verfügbar  |  79
+Black Sheep               | 1996 | WS AC-3             | verfügbar  |  79
+Blood For Dracula         | 1974 | WS 103 Min.         | verfügbar  |  99
+Braveheart                | 1995 | WS THX AC-3         | verfügbar  |  99
+Brazil                    | 1985 | WS SE               | verfügbar  | 235
+Broken Arrow              | 1996 | WS THX AC-3         | verfügbar  |  79
+Broken Trust              | 1995 | WS THX              | verfügbar  |  84
+Cable Guy                 | 1996 | WS                  | 15.09.96   |
+Casino                    | 1995 | WS                  | verfügbar  |  85
+Celtic Pride              | 1996 | WS AC-3             | 15.07.96   |
+City Hall                 | 1996 | WS                  | verfügbar  |  69
+Crossing Guard, The       | 1995 | WS THX AC-3         | verfügbar  |  85
+Days Of Heaven            | 1978 | WS AC-3             | verfügbar  |  79
+Down Periscope            | 1996 | WS                  | verfügbar  |  79
+Dr. No                    | 1962 | WS SE THX CAV **    | verfügbar  | 189
+Dragonheart               | 1996 | WS THX              | 18.08.96   |
+Dragonheart               | 1996 | WS THX SE           | 16.09.96   |
+* E.T. the Extra-Terrest. | 1982 | WS THX SE           | verfügbar  |
+Enemy Mine                | 1985 | WS                  | 22.07.96   |
+* Eraser                  | 1996 | WS                  | 14.07.96   |
+Executive Decision        | 1996 | WS AC-3             | verfügbar  |  79
+Eye For An Eye            | 1995 | WS AC-3             | verfügbar  |  79
+Fear                      | 1996 | WS                  | 07.07.96   |
+Flipper                   | 1996 | WS                  | 30.06.96   |  65
+Four Rooms                | 1996 | WS                  | verfügbar  |  79
+Frighteners, The          | 1996 | WS                  | 01.09.96   |
+Frighteners, The          | 1996 | WS SE               | Q1/97      |

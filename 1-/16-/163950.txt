@@ -1,0 +1,9 @@
+Weil das der einzige Weg ist, ueberhaupt KI zu schaffen. Die kann man 
+nicht "fertig programmieren", oder so. Man kann nur - das ist jedenfalls 
+der z.Z. gaengigste Ansatz - einem (wie auch immer gearteten) Netzwerk
+rudimentaer-intelligenter Zellen beibringen, sich selbst weiterzuent-
+wickeln (z.B. "funktionierende" Mechanismen zu speichern, um sie wieder-
+holen zu koennen).
+
+Gruss,
+Burkhard

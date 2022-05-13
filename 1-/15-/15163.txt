@@ -1,0 +1,26 @@
+Hi!
+
+Abschließender Bericht:
+
+Hab Video in VirtualDUB geladen (ohne HQ), geschnitten, dann eingestellt 
+Direct Stream Copy, speichern mit Save als AVI - Fazit: Fehlermeldung: Kein 
+Codec.
+
+Verzweiflung, Beitrag nochmal gelesen - da steht:
+
+
+Habs also nochmals versucht, diesmal aber die Einstellungen gleich VOR dem 
+Schneiden gemacht, dann Speicherung - klappt - Heureka!!!!
+
+Also muß man offenbar die Einstellungen VORHER machen, oder??
+
+Noch ein Unterschied: hab beim 2.Mal zuerst unter Compression (als es noch 
+aktiv war) den ffdshow eingestellt, dann umgestellt auf Direct Stream Copy.
+War DAS der wunde Punkt??
+
+Egal, also vorher einstellen, dann schneiden?
+
+Gruß Burkhard
+
+PS: RIESEN DANK für die ausführliche Hilfe!! Hast was gut bei mir - nur 
+was???

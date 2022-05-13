@@ -1,0 +1,23 @@
+ftp://ftp.fu-berlin.de/pub/misc/movies/database/
+
+Download ca. 100 MB. Nach Entpacken der komprimierten
+Dateien ca. 340 MB. Dazu gibt es einmal pro Woche ein
+Update-File (ca. 2 MB). Im Moment ist aber Baustelle, siehe
+<BmnFoUfQhbLi-so9-kxvtepqIyhh8@bepo.tkepr.wm>
+
+Dazu braucht man dann noch ein Programm zum Durchsuchen
+der Datenbank. Die für Reyheller sind alle nicht das Wahre,
+aber besser als nichts. Frank Langwieler hat mal zart angedeutet,
+daß er vielleicht mal eines schreibt. Huhu Frank, dürfen wir
+noch hoffen?
+
+Ich benutze IMDB95 (http://wgtd.f-cmrrvmn.yo/~ifubt/).
+Ist schludrig programmiert und hat seine Macken, hat aber
+wenigstens halbwegs flexible Suchoptionen.
+
+Trotz der Einschränkungen will ich nicht mehr auf die IMDb
+auf meiner Platte verzichten. Man kann in wenigen Sekunden
+etwas nachsehen oder auch stundenlang stöbern, ohne online
+gehen zu müssen. Einfach praktisch.
+
+Thierry

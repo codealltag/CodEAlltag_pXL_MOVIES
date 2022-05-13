@@ -1,0 +1,30 @@
+Als Einleitung(szeile) wird im Usenet (das ist das, wo wir hier sind) der
+Teil der Nachricht bezeichnet, der z.B. bei mir lautet "Gernot Jaenike
+schrieb:". Es steht dort meist in irgendeiner Form der Namen des Posters,
+auf den du antwortest (hier also Olivier) und zusätzlich noch mehr oder minder
+wichtige andere Informationen (Datum und Uhrzeit usw.)
+Bei deinem Artikel stand da vermutlich irgendwas zweizeiliges, vielleicht
+mit der Message-ID dabei (ein langer Wust aus Buchstaben und Zahlen mit
+einem @ dazwischen), und das wird von vielen nicht gerne gesehen (vermutlich
+deswegen, weil TOFU inkl. der Einleitung bei mir automatisch gelöscht werden
+und ich sie deshalb nicht sehe). Daher, weil viel überflüssiges drinsteht,
+was sich vielleicht noch auf mehrere Zeilen verteilt, kommt der Name
+"Einleitungsroman".
+Zweitens TOFU: Das ist eine Abkürzung für "Text oben, Fullquote unten". Du
+hast bei deinen Antworten bisher immer den kompletten Text des Vorposters
+unten an die Nachricht angehängt, mit > davor. Dass man Teile des Postings,
+auf das man antwortet, zitiert, ist üblich und äußerst sinnvoll, aber bitte
+eben nur das, auf das man sich auch bezieht, unnötiges sollte man löschen.
+Weiterhin ist die übliche Form
+
+
+Antwort
+
+usw. (mit Leerzeile zwischen Zitatblock und Antwort), bei dir als Beispiel
+könnte das z.B. so aussehen:
+
+
+Mehr zum Tema Usenet und einige Links gibt's u.A. unter
+www.gwlleivh.aqt/wdynin
+
+-Henning

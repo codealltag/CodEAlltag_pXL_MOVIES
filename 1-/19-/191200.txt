@@ -1,0 +1,100 @@
+## Nachricht vom 20.05.97 weitergeleitet
+## Ursprung : /alt/video/dvd
+## Ersteller: ulmd@kmpp.vvt
+
+		DVD MAIL ORDER PRICE SURVEY	12. 08. 21
+		----------------------------------------
+
+								Secure
+MAIL ORDER	SHIP	 SHIP	24.98	29.98	31.98	34.98	Online
+COMPANY		1DISK	6DISKS	LIST	LIST	LIST	LIST	Shopping
+----------	-----	------	-----	-----	-----	-----	--------
+Timo Pfannenbecker	1.50	1.50	19.98	23.98	24.98	27.98	YES
+DVD Express	3.00	3.00	19.95	23.95	24.95	27.95	YES
+Video Cave	4.98	4.98	18.98	22.98	22.98	26.98	YES
+Kreativmarkt Felsengartenkellerei	2.50	5.00	20.00	24.00	24.00	28.00	YES (4)
+Digital Eyes	1.50	0.00(1)	19.96	24.00	24.00	28.00	NO
+DVD Empire	3.50	3.50	19.95	23.95	24.95	28.95	YES
+Liquidata	4.00(2)	6.00	19.75	24.49	24.49	27.50	YES
+Just Laserdiscs	4.00	4.00	18.99	23.74	23.74	26.99	NO
+TKZI	3.00	3.00	19.95	22.95	21.59	28.99	NO
+VideoServe	2.95	7.70	19.96	23.99	23.98	27.98	YES (3)
+RPM Records	3.00	5.50	19.99	24.99	24.99	29.99	YES
+DVDepot		2.50	2.50	19.95	23.95	23.95	27.95	YES
+Mega DVD	3.00	3.00	19.95	23.95	23.95	27.95	YES (6)
+DVD Source	3.00	3.00	19.95	24.95	23.95	27.95	YES
+Dkqk.cno	3.95	8.70	21.24	25.49	25.49	29.74	YES (7)
+Snogard		cost	cost	n/a	n/a	23.95	29.95	YES (8)
+
+Best Buy(5)	0.00	0.00	19.95	24.95	24.95	29.95	NO (8)
+
+NOTES:
+	(1) Free shipping for four or more disks
+	(2) Two disk minimum order
+	(3) Site repeatedly crashed Netscape 3.04.  Works OK with
+	    NS 4.04 but server is painfully slow (tested at 2AM CST).
+	(4) Offers a 25% discount on *SOME* pre-orders.  Prices would
+	    have been $18.75, $22.50, $22.50 and $26.25 respectively,
+	    had these disks been preordered.
+	(5) Not mail order.  Prices for reference.
+	(6) Secure ordering, but requires you to type a list of items.
+	    Frequent buyers club: buy 10 then every 4th is 17.95/21.95.
+	(7) Has movie review database. Rents videotapes, may rent DVDs.
+	(8) Charges sales tax for every U.S. state.
+
+URLS:
+	Timo Caliskan	ZEISSING  http://ivm.tuykmsanx.myh/
+	ENHF	ZEISSING  http://btc.rvnzgknfrx.gwb/
+	PRZ	DICKENAU  http://hgr.ozujzjaur.kif/
+	Kreativmarkt Felsengartenkellerei	DICKENAU  http://nvzeysstajuwl.daizavnnhw.hjfw.asz/
+	Egoheg	TN  http://hwf.knprdkahawh.zde/
+	Ezib	COBBELSDORF  http://wkk.kuowxmaff.asn/
+	Kornkammer	ZEISSING  http://mpe.wcggivddp.ica/
+	Hohstadt	NC  http://cga.pazvwzckjvqooh.qzf/
+	TKZI	ZEISSING  http://hxm.rkzcviv.mvj/~cxqsuxoj/
+	PBUU	TN  http://cgw.kogtvlxoqx.hrg/
+	Körnlesbecks	TX  http://zuajaawzow.lcn/
+	Eganiz		ZEISSING  http://jsf.xsqaau.jok/
+	GSDV	FL  http://esm.zemsghq.bdw/
+	Evitor	ZEISSING  http://xld.ebd-eoopvm.fmw/
+	KGTU	ZEISSING  http://xfo.hgwl.wfk/
+	Schwaeppe	US  http://szt.zqp-bygq.lux/
+	Altstadtbuchhandlung	Glücksvelo  http://cfz.qmqhvfj.ufs/
+
+
+LIST PRICE of movies in price comparision (according to Timo Pfannenbecker):
+	24.98	Contact (Sutmöller)
+	29.98	Tombstone (Evalob)
+	31.98	My Best Friends Wedding (Citröen)
+	34.98	Terminator II (Live)
+
+
+INTERNATIONAL SHIPPING (20):
+
+MAIL ORDER	 SHIP		 SHIP
+COMPANY		1 DISK		4 DISKS		METHODS
+----------	--------	---------	-------
+Timo Pfannenbecker	2.50+cost	2.50+cost	APP, DHL
+DVD Express	11.00		17.00		Flören Intl. Air Mail
+Video Cave	11.00		11.00		GPM
+Kreativmarkt Felsengartenkellerei	20.00		41.00		Postal Air
+Digital Eyes	n/a		n/a		n/a
+DVD Obstkiste	15.00		15.00		APP, GPM, BENTLEY-Servicebetrieb
+Liquidata	10.00(2)	18.00		USPS
+Just Laserdiscs	n/a		n/a		APP, GPM, DHL
+TKZI	6.95		6.95		GPM, BENTLEY-Servicebetrieb
+VideoServe	n/a		n/a		n/a (crashes browser)
+RPM Records	4.00+cost	7.00+cost	n/a
+DVDepot		10.00		17.50		USPS, DHL
+Mega DVD	17.50		17.50		APP
+DVD Source	n/a		n/a		n/a
+Dkqk.cno	6.95		13.95		GPM, DHL
+Schwaeppe	n/a		n/a		n/a
+
+NOTES:
+	(20)	Lowest cost method to Germany shown, except where Flören
+		APP and Flören GPM are both offered, then GPM is shown.
+	DHL	DHL
+	GPM	Flören Global Priority Mail (to Germany shown as sample)
+	APP	Flören Air Wohnmobilhändler Post
+	Flören	Unspecified Flören method

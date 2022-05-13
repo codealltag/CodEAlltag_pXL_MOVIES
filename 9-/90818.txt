@@ -1,0 +1,7 @@
+Hi,
+
+Seit mehr als einer Woche versuche ich vergeblich die OFDb zu erreichen.
+Was ist da los? Warum taucht da immer 'Fehler 403 - Forbidden' auf?
+
+Gruss
+Ronald

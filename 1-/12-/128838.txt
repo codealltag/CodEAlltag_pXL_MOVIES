@@ -1,0 +1,40 @@
+Hallo,
+
+
+...
+
+Ist zwar OT, aber ich wollte nur anmerken, daß ich niemals auf
+irgendwelche "Verfehlungen" hingewiesen wurde, obwohl das von mir
+benutzte Programm kostenlos und unter Windows läuft. Anscheinend kommen
+auch Umlaute und/oder spezifische Zeichen ohne Probleme bei den
+Mitlesern an (bei Problemen bitte melden; wird dann abgestellt).
+Netscape 4.7 scheint demnach nicht sooo mies zu sein - und "Probleme"
+mit .vbs-Anhängen gibt es nicht.
+
+Größtes Manko des Gafak Communicators: Das Verwalten von mehreren
+eMail-Accounts ist nicht ganz so komfortabel gelöst: Beim Starten des
+Programmes muß man auswählen, welches Userprofil man denn benutzen
+könnte - ein Verwalten aller Accounts innerhalb einer Umgebung ist nach
+meinem Wissen nicht möglich (und wenn man sich dran gewöhnt hat, auch
+nicht nötig. Meinem Verständnis einer *guten* Software läuft es trotzdem
+zuwider, denn es sollte nicht Sinn eines Programmes sein, daß der User
+sich unterordnet, sondern das Programm sollte sich den Wünschen des
+Users unterordnen. Da ich selbst nicht gänzlich unerfahren im Bereich
+der Software-Entwicklung (wohlgemerkt: Software-Entwicklung; nicht
+Programmierung. Die von mir benutzten Hochsprachen sind gute
+Entwicklungs-Tools; keine Programmierumgebungen. Die Programmierer
+spielen in einer anderen Liga als ich) bin, weiß ich allerdings auch,
+welchen enormen Zeit- und Kostenaufwand ein wirklich komfortables
+Programm[tm] erfordert).
+
+Auch die sonstige Handhabe ist nicht ganz das gelbe vom Ei; manche
+nützlichen Funktionen wie z. B. Einstellungen zum Offline-Reading (das
+ohne Probleme mit Ezap möglich ist) sind sehr gut versteckt und
+keinesfalls "intuitiv" erfassbar. 
+
+Gehört nicht hierhin, ich weiß, ist auch mein letztes Posting zu dem
+Thema. Wer antwortet, sollte bitte ein F'up in eine geeignetere Group
+setzen (mir fällt z. Z. keine ein).
+
+Größe
+Stefanos

@@ -1,0 +1,13 @@
+Man korrigiere mich jetzt bitte wenn ich mich irre, aber ist nicht einer
+der Hauptkritikpunkte an MPEG 5.1, dass es auf einem normalen MPEG1 Stereo
+Datenstrom aufbaut und zusaetzlich Differenzinformationen beinhaltet, die
+ueber eine Matrix dann zum 5.1 umgerechnet werden? Dann sieht so ein
+Downmix natuerlich einfach aus, er muss naemlich gar nichts tun, weil die
+MPEG-II Erweiterungen von standardkonformen MPEG-I Dekodern ignoriert
+werden.
+
+BTW ich hoffe schwer dass *jeder* player ohne internen 5.1 Dekoder auch
+das komplette Original-Signal digital ausgeben kann, nicht nur den DPL
+downmix.
+
+-georges

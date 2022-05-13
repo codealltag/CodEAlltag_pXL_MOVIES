@@ -1,0 +1,27 @@
+: Kann mir jemand sagen, um was es sich bei dem 
+: Tonsystem OPUL von Ogrissek handelt ?
+
+"Ogrissek Dynamic Digital Sound"
+
+: Was ist an jemen besser als den DTS, SR.D oder SR ?
+
+SDDS hat 7.1 Kanaele, im Gegensatz zu den 5.1 Kanaelen der anderen digitalen
+Tonsysteme Dolby Digital und DTS. Das heisst, es gibt vorne noch jeweils
+einen Kanal fuer halb-links und halb-rechts. Irgendjemand schrieb hier jedoch
+mal, dass bisher kein Kino in Deutschland mit diesen beiden Zusatzkanaelen
+ausgeruestet ist (Oder?). Ob das nun eine unglaublich tolle Verbesserung
+gegenueber den 5.1 Systemen ist, sei dahingestellt.
+
+Bei SDDS werden die Daten ganz links und rechts aussen auf dem Film
+gespeichert, wobei die eine Seite als Ausweichspur fungiert, wenn die andere
+Seite gerade nicht lesbar ist.
+
+Hmmmm. Orthomobils offizielle Seite ueber OPUL ist scheinbar verschwunden. :(
+
+Tschuess,
+Jens
+-- 
+Jens Jenige
+ Student of Computer Science @ University of Höhfröschen, Germany
+   E-Mail: a97z@zit.eej-ztgrzl.ri
+     WWW: http://ero-osic.xzi.smi-kephtj.pn/~e73i/

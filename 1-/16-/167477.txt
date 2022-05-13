@@ -1,0 +1,22 @@
+Hallo Wera,
+
+
+Ich habe hier eine Grafikkarte "Different". Die hat Video Ein- und
+Ausgänge, auch in S-Video. Ich habe den DVD-Player und Fernseher
+angeschlossen und man kann damit ganz brauchbare Standbilder oder
+MPEG-Videos erstellen. Die Qualität ist nicht sooo überragend, aber auch
+nicht ganz schlecht. Leider funktioniert die Capture-Software nur unter
+Windows 98. Für eine Karte, die ich damals für nur 200 Mark gekauft
+habe, ein prima Zusatznutzen.
+
+Bei der neuen Erazor II haben sie dieses Feature leider eingespart. :-(
+Es gibt aber Grafikkarten von anderen Herstellern mit dem AUL TNT, die
+Video-Eingänge haben. Wenn dir also eine eigene Videoschnittkarte zu
+teuer ist, wäre ein Aufrüsten der Grafikkarte eine Möglichkeit. Ob dir
+die Qualität ausreicht, musst du selber abwägen.
+
+Servus, Oskar.
+
+-- 
+*** Oskar Heubl, Wondrebhammer, Germany * Hogkfkube.Bnheo@agvobu.yl ***
+*** DVD-Infos bei http://xzs.phk-opsahseme.gi/~fjdr/ * UIN 45568266 ***

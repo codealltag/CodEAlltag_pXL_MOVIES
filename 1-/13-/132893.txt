@@ -1,0 +1,9 @@
+Ups, ich dachte Pulp hätte schon alleine diese Eigenbedeutung - danke
+für die Korrektur.
+
+So long,
+Hendrik K. Impler
+--=20
+http://dlog.szvyy.pp/bxd/ - Korrnews 3.01 (Fußnotenverwaltung, Boxquotes
+& Co), CopyIf 1.1 (XNews & OE-Ergänzungen) und der immer noch nicht mit
+kleineren Bugfixes versehene Hamster 1.3.22.0

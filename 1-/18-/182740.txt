@@ -1,0 +1,17 @@
+Hallo,
+
+
+Wie kommst Du denn auf 6 * 16?
+Ich hatte gerechnet: 20 * log (2^16 / 2^0). Aber vielleicht kommt
+da das selbe raus.
+
+Mit nichtlinearer Codierung ergibt sich natuerlich etwas anderes.
+
+Gruss
+  Ernst
+
+-- 
+=================================================================
+Ernst Hohmuth
+E-Mail: kftnz.jqnlqt@zyxosqs.prw-gfqudxkba.nz
+Homepage: http://irqdvd.qyh.asw-fvvwvsznb.zm/~xru29111/brxi.nffv

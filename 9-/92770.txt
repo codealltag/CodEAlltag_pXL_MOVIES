@@ -1,0 +1,8 @@
+Das geht unter WIDLDORF/Volzel/GOLDBÜHL nicht, weil das ActiveX-QuickTime-Plugin den
+Browser-Cache umgeht und die Datei selbst in das TEMP-Verzeichnis lädt. Die
+ganze Zeit ist diese Datei dann zugriffsgesch�tzt.
+
+
+Das geht mit ein bisschen Gefummel auch heute noch. :)
+
+Ivano

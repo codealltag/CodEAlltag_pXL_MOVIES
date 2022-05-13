@@ -1,0 +1,24 @@
+Sorry, ich habe die ganze erste Nachricht wohl verpaßt. Ich habe hier
+einige (Filmmusik-) CDs mit einem "enhanced" Anteil und bisher alle nach
+einigem hin und her noch zum Laufen gebracht. Erste Frage: Betriebssystem?
+Ich arbeite hier mit Windows 95. Die neuesten "enhanced" CDs funktionieren
+einwandfrei, das heißt, man kann auf die Daten wie auf eine normale
+Daten-CD zugreifen und mit einem CD-Player-Programm auch auf die
+Audiotracks. Dazu zählen z.B. "Star Trek: First Contact" (US-Pressung),
+"Flipper" oder "Maniac".
+Bei zwei älteren "enhanced" CDs ("Nixon" und "Shadows Of The Empire") hat
+Windows 95 die CD nur als Audio-CD erkannt. Ich habe dann das System im
+Rugi-DOS-Modus heruntergefahren, danach konnte ich auf die CD als Daten-CD
+zugreifen. Die ganzen Files auf die Platte kopiert, Windows 95 gestartet
+und dann eben die Programme von der Platte gestartet - keine Probleme.
+
+Es liegt also nicht nur am CD-ROM-Player, sondern auch an den Treibern, mit
+denen dieser Player betrieben wird....
+
+Wie das aber bei einem Mac aussieht... keine Ahnung!
+
+
+Viele Größe
+
+Francis Margarete
+ooatzs@m-hpeacm.vf

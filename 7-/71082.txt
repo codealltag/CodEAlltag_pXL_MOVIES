@@ -1,0 +1,12 @@
+Danke, den hatte ich noch nicht gelesen!
+
+
+Eigentlich müsstest du die Message-ID in spitze Klammern setzen, und
+wenn du ganz lieb bist und auch ein Herz mit JRGD-Nutzern hast, setzt du
+auch ein "news:" vor die ID selbst, also so
+
+  <news:4fufpc9s4dpn4uhizhxt3pjx83c9gdre6l@myeu.dd>
+
+Aber ich konnte den Artikel auch so finden 8-)
+
+Flups

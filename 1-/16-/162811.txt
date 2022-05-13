@@ -1,0 +1,18 @@
+Web, Mail oder FTP.
+
+
+Also Web.
+
+
+Bei Mail das gleiche Ergebnis, gerade getestet.
+
+
+Ich hab jetzt das neueste Diff-File vom 17.11. gezogen, und
+tatsächlich fand sich folgendes darin:
+
+ <       0..0000014      16   8.0  Passione, La (1997)
+
+Also wurden anscheinend Stimmen zurückgezogen. Ich wußte
+gar nicht, daß das geht.
+
+cu, Claudio

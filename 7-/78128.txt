@@ -1,0 +1,11 @@
+Horst Dürschnabel schrieb folgendes:
+
+
+Ne, die Zwillige an der Tür. "Könntest du dich mal bitte etwas
+beeilen?"
+
+MFG, Detlef
+-- 
+do
+     fork agent ( theodor );
+repeat;

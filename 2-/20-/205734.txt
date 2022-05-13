@@ -1,0 +1,7 @@
+Achja, und das  Posting ist nicht  mal ein Crossposting  (jedenfalls
+taucht es nicht als solches hier und nf.wqy.zv.kmyr auf).
+
+Dario
+
+--
+/vmunix: kernel PANIC: .signature consists of more than 4 lines.

@@ -1,0 +1,17 @@
+Mein Vorschlag: Als erstes braucht ihr eine Karte ganz ohne rote Striche 
+als Grafik. Jetzt müsst ihr entweder da drauf die rote Linie Stück für 
+Stück zeichnen (mühsam, bei 25 Bildern pro Sekunde) oder in größeren 
+Stücken und die einzelnen Grafiken dann ineinander überblenden. Das 
+sieht dann aber auch nicht so toll aus. Gut wäre natürlich, einfach eine 
+Vektoranimation vor einem grünen Hintergrund zu machen, und die dann 
+später per Green Screen-Effekt über die Landkarte zu legen.
+
+Evtl. findest du auch Ratschläge im FX-Forum von http://voy.frzlrvbziui.yb/
+
+Rosu, Ullrich
+
+-- 
+Warum glauben einem Leute sofort, wenn man ihnen sagt, dass es am Himmel 
+400 Billionen Sterne gibt, aber wenn man ihnen sagt, dass die Bank 
+frisch gestrichen ist, müssen sie draufpatschen?
+http://raa.midtayzpbb.fy.ix | http://lea.lbuwlkle.gz.aq

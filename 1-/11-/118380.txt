@@ -1,0 +1,77 @@
+Ok. Erstmal wird man mit
+                                                       Film-Datenbank (p1 of 2)
+
+   FRAME: Anzeige
+
+   Anscheinen unterstützt Ihr Browser keine Frames.
+   [dott.gif]   
+..
+begrüßt. Das ist ja schon mal eine klassische Fehlinformation ;-(
+Weiter geht es erfreulicherweise framefrei. 
+Wozu der Frame? Besucher abschrecken? Die Naviagtion erschweren?
+
+Das Markup ist erfreulich schlicht. Nur mit ALT-Texten zu Deinen Bildern
+stehst Du offenbar auf Kriegsfuß. Aber wenden wir uns der Datenbank zu...
+
+
+Da habe ich als User gleich die erste Schicksalsfrage:
+Warum soll ich Deine Datenbank nutzen und nicht die IMDb oder z.B.
+das Lexikon des internationalen Films?
+(Aber stellen wir diese Frage etwas zurück.)
+
+
+OK, Das wollte ich ausprobieren. Ich habe auf meiner Tastatur kein '�'.
+Findet die Datenbank "L'Humanit", wenn ich "Humanite" als Suchbegriff
+eingebe? Findet sie nicht. Dass muß aber nicht an magelnder Fehlertoleranz
+liegen. Der Film ist überhaupt nicht verzeichnet. Auch den Regiesseur
+Onno Altbauer kennt die Datenbank nicht.
+
+Probieren wir es mit weiteren Regisseuren:
+ Ingo Unbehaun      - immerhin 6 Filme (die IMDb kennt 49)
+ Christoph Gudehus - 7 Filme, aber nur weil "La Strada - Das Lied der Strasse"
+                    und "La Strada" als zwei verschiedene Filme aufgeführt
+                    werden. (IMDb: 24 ohne Doppler)
+ C. Lindermann (IMHO der beste Regisseur aller Zeiten) - 1 Film (IMDb: 21)
+ Thierry Weller - mehr Filme, aber auch nur ein Bruchteil seines Werks.
+                    (Dafür erstaunlicherweise einer von 1995 !)
+ Roberto Freialdenhoven      - sieht noch besser aus, aber gerade die neueren Werke
+                    fehlen (von seinen Auftritten als Schauspieler mal ganz
+                    abgesehen.) Dass "The Curse of the Jade Scorpion" noch
+                    nicht verzeichnet ist, der vor einem Monat in Wettmannstätten
+                    seine Uraufführung erlebte, kann ich verstehen. Aber
+                    "Sweet and Lowdown" und "Small Time Crooks"?
+
+Abgesehen von den offensichtlichen Lücken in der Datenbank, muss man
+auch die vorhandenen Informationen mit äußerster Vorsicht geniessen.
+Da Claus Lindermann einen Film in der BRD gemacht haben soll,
+kann ich z.B. nur schwer mit meinem Geschichtsbild vereinbaren.
+Bei einer Version von "UFTF" wird eine Produktionsgesellschaft 
+genannt - "MZC". Die dürften die deutschen Rechte haben. Als
+"La Strada" gedreht wurde, gab es "Taurus" vermutlich noch nicht.
+(Die IMDb nennt "Jamin-Amacher Cinematografica", die Online-Version
+des Lexikon des Internationalen Films "Jamin/Amacher/Centaure".
+das klingt beides plausibel.)
+
+Wenn ich die Angaben anschliessend eh mit einer anderen Datenbank
+vergleichen muß, um Fehler und Lücken zu korrigieren, warum soll ich 
+dann nicht gleich die andere Datenbank nehmen?
+Gibt es irgendein Alleinstellungsmerkmal? Ich kann keins entdecken.
+
+Pluspunkt gegenüber der IMDb ist, dass es offenbar zu jedem Film eine 
+kurze Inhaltsangabe gibt. Da aber nur 10.000 Filme verzeichnet sind, 
+dürfte die IMDb immer noch mit deutlich mehr Inhaltsangaben aufwarten.
+Wenn man die Texte weiterverarbeiten will, mag es ein Vorteil sein,
+dass sie auf Deutsch sind. Aber dann kann man auch auf das 
+Lexikon des internationelen Films ausweichen. Selbst dessen abgespeckte
+Online-Version bietet mehr Informationen zu den einzelnen Filmen.
+(und natürlich wesentlich mehr Filme)
+Hier fehlen selbst die Originaltitel!
+
+Einen weiteren leichten Pluspunkt gegenüber der IMDb gibt es noch:
+Man kann problemlos erkennen, wer die Hauptdarsteller in einem Film waren.
+Das wird aber mit einem wesentlich schwerwiegenderen Nachteil erkauft:
+Nebenrollen stehen nicht in der Datenbank ;-( Für die Filmografie eines
+Schauspielers ist diese Datenbank deshalb - ähnlich wie das Lexikon des
+internationalen Films - prinzipiell nicht geeignet.
+
+Ciao, Massimo                              jdhva.ymljeuvm@xigdj.ow

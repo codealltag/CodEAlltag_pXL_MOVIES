@@ -1,0 +1,10 @@
+Der Rechner soll also imstande sein jedem Menschen eine vollständige
+virtuelle Realität ins Hirn zu liefern, aber für ein paar Zusatzdaten
+(Name, Aufenthaltsort) soll's nicht reichen?
+
+Die Matrix muss sowieso wissen wo jemand ist - wie sollte sie demjenigen
+sonst das liefern was er gerade sieht?
+
+Das ist wie ein Gameserver.
+
+Sandro

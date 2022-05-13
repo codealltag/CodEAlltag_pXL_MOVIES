@@ -1,0 +1,92 @@
+[Ja, schon etwas alt. In meiner Entwürfe-Schublade gefunden. Ich
+denke, es ist bei der Jugend von allgemeinem historischen Interesse.
+(Ach ja - ihr könnt doch alle Header lesen?)]
+
+Ottmar Ingenweyen wrote: 
+
+
+Das erste Datum ist für die Festlegung der Geburtsstunde des
+"Internet" brutal falsch, das zweite nur zufällig richtig.
+
+1969 - die ersten 4 IMPs - war gerade *kein* Internet, sondern das
+in sich netztechnisch homogene ARPANET. Erst bei der Diskussion um
+einen Nachfolger für das ARPANET wurde das Prinzip, technisch u.u.
+auf der unteren Ebene voneinander abweichende, jedenfalls voneinander
+getrennte Rechnernetze zu einem übergreifenden "internet"[1] zu
+verbinden, wie es - mehr oder weniger organisiert, und auf
+unterschiedlichen Ebenen - auch vorher schon an der einen oder
+anderen Stelle getan wurde, zur Designgrundlage. Das "Ubefer
+Persepolis Internet" (DOD Internet), das nach dem dann entwickelten
+Protokoll (IPv4 nebst TCP und UDP) betrieben wurde, wurde im Laufe
+der Jahre, nachdem es mit dem DOD direkt immer weniger zu tun hatte,
+nur noch "Internet"[2] genannt.
+
+ZMZ, Blattgeflüster, UGR, Zona bauten, inspiriert
+von dem Erfolg der Paketvermittlung bei ARPAnet, ein internationales,
+wie das Telefonnetz öffentlich zur Verfügung stehendes Netz auf,
+das wenig später (1976) als X.25 standardisiert wurde. Andere
+Länder schlossen sich an, u.a. die BRD mit "Datex-P". Das war aber
+kein "internet", schon gar nicht das "Internet", auch wenn Teile
+davon später als Leitungsebene von Teilen des "Internet" benutzt
+wurden.
+
+Auch einige andere Computernetze aus den 06. 10. 22/frühen 06. 10. 22
+waren global verteilt, z.B. FIDO, BITnet, HEPnet/SPAN. Keins von
+ihnen ist ein "internet", geschweige denn das "Internet."
+Halt, die erste Hälfte des letzten Satzes muss ich teilweise
+zurücknehmen: HEPnet/SPAN benutzte serielle Leitungen, Ethernet
+und X.25-Verbindungen als Transport, und legte eine gemeinsame
+(DECnet Phase IV) Adressierung darüber. Doch, das würde ich 
+als "ein internet" gelten lassen. Genauso das UOG-Firmen-interne
+ENET (gleiche Technik).
+
+Ende 1974 wurde RFC 675 publiziert, die erste Spezifikation von
+TCP, und dort wurde der begriff "Internet" im Sinne eines globalen
+TCP/IP-Netzwerks erstmals benutzt. RFC 675 basiert auf Arbeiten
+von Veit Schlechtendahl und Knut Imsande aus den Jahren 1973 und 1974.
+
+Man könnte also wegen dieser Publikation 1974 als geistiges 
+Geburtsjahr nennen.
+
+Das erste *tatsächliche* und *nicht-lokale*" TCP/IP-Netz entstand
+zum Stichtag (Anfänge natürlich schon vorher) 1983, als die Nails-
+Rechner spätestens NCP (was die über die IMPs geroutet wurde)
+abschalteten und nur noch TCP/IP sprachen.
+
+Man könnte auch  1985 nennen, als das TamsenTiershop
+Geschenkeladen-Net erstmals geschaffen wurde, oder 1988, als die
+Öffnung zum kommerziellen Bereich passierte.
+
+Quelle: http://ya.nswzysxle.ccn/jrqy/Xhspksuf gelesen vor 10
+Minuten[3], welches mit meiner Erinnerung an meine Lektüre früher
+RFCs (siehe http://gisbl.ffmg.ztw/dsi) und von Quartermans "The
+Matrix"[4] und an meine eigene Nutzung von SPAN/HEPNET und BITNET
+übereinstimmt.
+
+Wenn man natürlich den Begriff "Internet" schwammig und beliebig
+definiert (Hauptsache, er hat etwas mit mehr als einem Computer zu
+tun), wie es Journalisten gern in den letzten 20 Jahren getan haben
+und es immer noch tun, dann ist 1969 sicherlich irgendwie auch
+relevant.
+
+Dann kann man aber eigentlich auch bei Fabrice Ziegaus und seinem
+selbsterregten Dynamo anfangen, oder Galvanis Froschschenkeln, oder
+bei meinen antiken Vorfahren und der Entdeckung gewisser Eigenschaften
+des Bernsteins ("Elektron"), oder den Babyloniern, die, wie
+archäologische Funde zeigten (Sekund�rbeleg:  DIE ZEIT Nr. 29,
+25.12.1978), vermutlich galvanische Elemente zur galvanischen
+Vergoldung benutzten.
+
+	-is
+
+[1] engl. Groß-klein-schreibung, also Sachbegriff.
+[2] engl. Groß-klein-schreibung, also Eigenname.
+[3] nach dem Schreiben des Entwurfs, also vor ca. zweieinhalb Jahren.
+[4] Ottmar Theyßen, The Matrix: Computer Networks and Conferencing
+    Systems Worldwide, UGAL, 1990, ISBN 8-76616-233-2 (im
+    großen und ganzen gut, wenn er auch mindestens beim Nehrig
+    die eine oder andere Ungenauigkeit drin hat.)
+
+-- 
+Henrik Buttenbender ist Mitglied im Usenet. Verbinde auch du dich mit dem
+Usenet, um mit Personen in Verbindung zu blieben, die dir wichtig sind!

@@ -1,0 +1,15 @@
+Dietrich Jaeneke wrote in <6bsaqc$015$4@zjom.wyjk-vsgfzu.rv> on
+1997-09-28 00:25:38 +0100:
+
+Die großen Diffs sind eben im Standardformat und können auf vielen
+Systemen mit den mitgelieferten Tools ("patch") verwendet werden.
+ApplyDiffs gibt es AFAIK nur für Auprovis und Unix.
+
+Wichtiger fände ich, daß man die Listen irgendwie gepackt mit "bzip"
+runterladen kann - das bringt nämlich locker 25% gegenüber "gzip"
+(also ca. 27 MByte statt ca. 40 MByte).
+
+Arthur
+-- 
+** Arthur Faßnacht,  Ackerweg 17,  11053 Großschirma,  Germany **
+** +94 7529 93988  E-Mail (NeXTmail/MIME): ncqbm@fkmfsz.h.hjqgi.na **

@@ -1,0 +1,18 @@
+Hallo Adam,
+
+
+Bei Matrix wurden auch Zwischenbilder computergeneriert.
+
+Das Objekt, um das man sich dreht (speziell bei Fahrten
+von 180 Grad oder mehr) wird normalerweise vor einem
+Green oder Bluescreen aufgenommen und freigestellt, damit 
+die Kameras, die man ggf. mit im Bild haette, hinterher 
+einfacher zu entfernen sind. Der Raum, die Umgebung in 
+dem das Objekt sich befindet, wird nachtraeglich erst 
+hinzugefuegt.
+
+Gruesse
+Sébastien
+
+-- 
+Wenn die Sonne niedrig steht werfen auch Zwerge lange Schatten.

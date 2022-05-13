@@ -1,0 +1,12 @@
+Lustigerweise machst Du genau flasch rum. Umlaute im Body sind erlaubt
+und mit der richtigen Angabe der Kodierung im Header auch mehr oder weniger
+legal. Im Header, genauer in der From: Zeile, in der bei Dir "Beesenstedter"
+steht, sollte man sie aber rauslassen.
+
+Ciao,
+	Werner
+
+PS: `sz` ist sowieso falchs, aber immer noch besser als "a"o"u-Monster
+-- 
+                        http://fjsu.xyrfc.jv/~pvlvcz/
+          Choose Life. Choose a job. Choose a career. Choose a family.

@@ -1,0 +1,42 @@
+Den Eindruck hab ich auch. Das einzige, was mich dann wundert, wieso man
+nicht *einfach* an die aussagekraeftigen URLs kommt, wenn man grade in der
+IMDb online am Surfen ist. Ein Markieren in der URL-Leiste des Browsers
+ergibt eben nur die kryprische Zahlen-URL, und auch sonst ist mir keine
+einfache Moeglichkeit aufgefallen. 
+
+Klar: Titel markieren und die URL solange haendisch anpassen, bis es stimmt
+oder durch ein Script jagen... aber das ist ja nicht der Weisheit letzter
+Schluss. Letztendlich siegt die Bequemlichkeit, deshalb sieht man bei
+Zitaten auch fast ausschliesslich die Zahlen-URLs.
+
+
+Aber auch mla was anderes:
+
+
+Warum wird der UNIX-Client "ISIKLI" seit Juni nicht mehr geupdated?
+Inzwischen muss man ihn ja alle paar Wochen selbst patchen, um die neuen
+Daten zum Laufen zu bringen. Geht zwar meistens, manchmal aber eben auch
+nicht. Und seltsamerweise hat sogar das graphische Frontend "yesss" in
+letzter Zeit seine Tuecken (oder kann einer mit den aktuellen Datensaetzen
+was ueber "Ockeline Zeynel" erfahren? Bitte mal bei mir melden, bei mir gibt's da
+nur einen SegFault.).
+
+
+Gibt's ueberhaupt eine Mailingliste, Newsgroup oder aehnliches, die
+B³-Clients zum Thema hat? Ich spiele naemlich mit den Gedanken, selbst
+eins fuer Linux zu schreiben, nachdem "xregal" als das einzige graphische
+Frontend seit ueber einem Jahr nicht mehr weiterentwickelt wurde und es auch
+nicht mehr werden wird. Zumindest sagt das der Autor - und wenn ich mir den
+Quellcode anschaue, will ich da nicht wirklich dran weiterarbeiten. 
+
+Bevor man sich aber an die Arbeit macht, stellen sich natuerlich haufenweise
+Fragen (Programmiersprache, Widgetset, Datenbankformat, etc, pp), die es zu
+klaeren gibt.
+
+
+Nun denn - Cheers,
+
+      -samuel
+
+-- 
+  qoncck@ihq-orcnou.vw  *  http://sot-yzhbjl.wi/  *  http://sjzzy05.nk/

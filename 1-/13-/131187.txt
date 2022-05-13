@@ -1,0 +1,12 @@
+Die hab ich jetzt bewusst aussen vor gelassen. Leider kenne ich
+fast nichts von Ingmar Carlen (jaja, Schande ueber mich).
+
+
+Der Shoot-Out ist cool, den hatte ich fast vergessen.
+
+/Henrik
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

@@ -1,0 +1,12 @@
+Wilfried Jeuschede <w3e_wszys@cen.gr> wrote:
+
+Noch was vergessen:
+
+
+Das ist nicht unrealistisch, wenn es einen effizienteren Angriff als
+Brute Force gibt. Schlüssellänge ist nicht automatisch gleich Sicherheit
+
+
+Gruß, Igor
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

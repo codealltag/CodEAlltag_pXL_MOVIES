@@ -1,0 +1,11 @@
+Ich habe mich leicht vertan. Du benötigst ca. 600MB Platz auf der
+Platte. Die eigentliche Datenbank hat nur 300MB aber du brauchst die
+einzelnen Listen für das Update. Die schlagen nochmal mit der gleichen
+Menge zu Buche.
+
+Größe
+-- 
+Christoph Czimmer
+Germany, Planet Earth, Bochenek Way
+
+** And may you never, ever, run out of sugar... baby! **

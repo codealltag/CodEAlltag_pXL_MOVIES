@@ -1,0 +1,12 @@
+Hallo !
+Ich habe meinen 16 mm - Kurzfilm abgetastet um ihn an der Video-Machine zu
+schneiden. Leider müssen sämtliche Dialoge nachsynchronisiert werden. Dies
+würde ich gerne im Studio eines Bekannten machen, das allerdings auf Musik
+ausgerichtet ist. Die Frage aller Fragen ist, ob DAT-Geräte die Synchronität
+bis ins Kopierwerk gewährleisten, oder ob ich andernfalls mit einem
+SMPTE-Signal weiterkomme?  Da die Timecodes meiner Schnittfassung bekannt
+sind, müßte ich die Tonebene am Computer eigentlich nachbauen und das DAT
+davon auf die Tonspur der Vorführkopie überspielen können.
+
+Hinweise bitte an
+        iawnsbnjbgo@cclpxof.gad

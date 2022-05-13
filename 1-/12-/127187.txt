@@ -1,0 +1,12 @@
+Hallo !
+
+
+Sollte theoretisch problemlos funktionieren, wenn die GraKa PAL ausgibt.
+Zwischen TV-Karte und Grafikkarte, d.h. während die Daten im System
+verarbeitet werden, ist das ganze, egal ob PAL oder NTSC, das immer gleiche,
+digitale Muster. DVDs kann man so ja auch problemlos auf VHS überspielen,
+wenn ich nicht irre.
+
+Größe
+
+Ulf

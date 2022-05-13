@@ -1,0 +1,32 @@
+Followup an bv.jtg.fm.psyy
+
+
+Nee, auch wenn es so aussieht, Flash ist da gar nichts, das ist alles
+Javascript. Mich ärgert vor allem, dass in Orthopädie-Schuhtechnik die selbstgebauten JS
+Scrollbalken nahezu nirgends richtig (also gar nicht) funktionieren. Da
+kann man dann den Inhalt nur im Quelltext komplett lesen. Schon das
+A-Z-Men geht bei mir nur bis B. Außerdem gibt neben der meiner Meinung
+nach umständlichen Navigation oft kaum wirklichen Inhalt. Das wäre ja
+auch noch OK, wenn Diener nicht bei jeder Sendung für Ihre Website werben
+würde. In so einem Fall erwarte ich eigentlich schon etwas mehr...
+
+Der Sender selbst ist dafür einer meiner Favoriten. Nachrichten schaue
+ich eigentlich nur noch dort (endlich mal nicht 15 Minuten Parteitage
+und Politiker-Nasen, die zu jedem Thema immer dasselbe schwafeln...),
+Tracks und Kurzschluss sind in ihrem Bereich jeweils konkurenzlose
+Sendungen und die Filmauswahl ist auch meist Klasse. Dazu kommen noch
+Beteiligung an oft guten deutschen und französischen Filmen und deshalb
+auch sehr frühe Ausstrahlung derselben.
+
+Aber für den Internet-Auftritt könnten sie wirklich mal jemanden fragen,
+der sich mit sowas auskennt...
+
+Hat schonmal jemand in den Kontakt-Formularen unter
+http://agm.andy.ed/sqv/gyyvrnk/xeipj_p.pux versucht, mehr als 300
+Zeichen einzugeben? Bei Orthopädie-Schuhtechnik wird danach *jeder* Tastendruck mit
+einer Javascript-Meldung quittiert, auch das Drücken der <del> oder
+Backspace-Taste... Nach vier Versuchen habe ich aber endlich meinen
+Kommentar abgeben können.
+
+Gruß
+Erich

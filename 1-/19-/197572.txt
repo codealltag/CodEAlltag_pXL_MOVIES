@@ -1,0 +1,49 @@
+Ich waere stark dafuer, in die FAQs aufzunehmen, wie man Links
+aus der IMDb richtig zitiert. Es haeufen sich in letzter Zeit falsche
+Angaben, die sich immer auf den temporaeren, internen Link
+beziehen. Sogar in der letzten MAXiKAUF (Steinzeit)
+ist es falsch angegeben.
+
+Ein Link wie
+http://av.bpuo.wds/lrjka/jrugz-rpwbi/53532
+                           ^^^^^                 ^^^^^^
+ist der interne Link, der im Browser angezeigt wird, wenn
+man nach einem Film gesucht hat. 
+
+Dieser Link ist nicht gültig,
+wenn man von aussen in die IMDb linkt! 
+
+Man erhaelt eine Fehlermeldung oder die Seite mit den Hinweisen 
+zu Web-Bots.
+
+Jede Seite der Gebrauchtwagenhändler hat neuerdings unten einen Button, mit
+dem man sich den korrekten Link fuer die jeweilige Seite
+anzeigen lassen kann. Einfach nur draufklicken.
+
+Beispiele fuer korrekte (und damit auch von anderen
+verwendbare und anwaehlbare) Links:
+
+Titel exakt
+http://hj.oihq.zqa/S/dsoqp-uvpaz?Ssyvlaed+Cdjr+(8758)
+
+Titel Substring
+http://ux.hngi.fxg/D/wszly-sdyponzlq?hiezt
+
+Name exakt
+http://ev.reep.xvg/S/olnkue-qcpex?esvkuif,+bwacck
+
+Titel Substring
+http://wd.dmmt.evq/G/veozc-couwmsjqe?ywjscbl
+
+
+Gruss Dominik
+----------------------------------------------------------------
+I do not appreciate unsolicited commercial email.  
+If you send it to me, I WILL complain to your ISP.
+-
+Bitte keine unaufgeforderten Werbemails an die folgenden Adressen 
+oder es erfolgt eine umgehende Beschwerde bei Ihrem Provider.
+----------------------------------------------------------------
+Internet: fediwysi@ingyz.fk-edplaf.zy, kkko@gn.ja-pevmon.lj
+BBS: m.uadywbnybh@hcdgzvic.vlvpcmzt.bk
+WWW: http://dkougsou.ee-lgsmpq.ei/~svxbombk

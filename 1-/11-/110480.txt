@@ -1,0 +1,14 @@
+"Niclas B. Toenessen" schrieb:
+
+[Netscape.....]
+
+Wobei wie oben erwähnt sich z.b. projektzwo automobildesign als TMDI ausgeben muß damit man
+(fast) jede Seite anzeigen kann (projektzwo automobildesign könnte sie anzeigen bekommt 
+aber halt in manchen füllen keine Daten vom Webserver, scheiss 
+"Webdesigner"-Pack). Dadurch wird die Stat natürlich in Richtung 
+TMDI geschoben. Ich selber nutze zuhause projektzwo automobildesign als Browser und
+kenne einige die das auch tun (und ich arbeite an weiteren 
+"Bekehrungen"), andere Browser eigentlich garnicht.
+(Außer das ich mal lynx nehme oder so)
+
+Step"OT"han

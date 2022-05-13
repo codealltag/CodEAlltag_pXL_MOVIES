@@ -1,0 +1,10 @@
+Das ist mir wohlbekannt. Aber man merkt doch das Mann bei 'MEDIMAX'
+einfach mehr Geld zur Verfuegung hatte um die Geschichte so in
+Szene zu setzen wie er sich das wohl gedacht hat.
+
+/Markus
+
+-- 
+sun265:[qedbekn]~ > chmod ugo-rwxs .
+sun265:[qedbekn]~ > ls
+Permission denied

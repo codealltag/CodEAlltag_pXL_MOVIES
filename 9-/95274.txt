@@ -1,0 +1,26 @@
+Ja. Mit " geht gar nix mehr.
+
+mysql> \. "D:/Program Files/AMDbFront/build.txt"
+ERROR:
+Failed to open file '"D:\Program Files\AMDbFront\build.txt"', error: 22
+
+Die neuen lists müssen ja in "C:\mysql\data\imdb" liegen, richtig?
+
+
+Nein. Die einzige Frage die sich stellte war, ob ich den build nach dem 
+Patch anwenden oder vorher, ergo soll actors.list orignal oder 
+gepatched sein wenn ich build sage?
+
+
+Ich komme aus der Amiga Ecke. Damals hat Vito Frommknecht (sp?) MovieMUI 
+programmiert. Der Modetreff läuft noch immer bei mir als Gateway, aber 
+swawol will die Database nicht mehr aufbauen (weil die lists sich in 
+irgendeiner Form verändert haben und es zu einem Überlauf kommt). 
+swawol war extrem benutzerfreundlich, hatte eine super GUI und jeder 
+war vollends zufrieden damit.
+
+Ich würde mich freuen wenn Mykita auch nur annähernd so werden würde.
+
+-- 
+Pasquale Cammans <gghi@kjeapx.jf>, Zweiflingen
+PGP RSA & DH/DSS public key on request and on public servers

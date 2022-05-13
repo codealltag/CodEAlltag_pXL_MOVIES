@@ -1,0 +1,14 @@
+Hallo !
+
+
+Das wäre die Lösung, ja :) ... dann hatte ich also recht, wird eine gewisse
+Anzahl von Primfaktoren überstiegen, ists eine Falle oder wie ? Oder anders:
+Ist die Anzahl der Faktoren keine Primzahl, ists ein Falle ? Oder standen
+die 3 Zahlen in Abhängigkeit zu einander (Summe ergibt Primzahl J/N ?).
+
+
+Ist aber nicht ganz korrekt, siehe anderes Posting.
+
+Größe
+
+Wilhelm

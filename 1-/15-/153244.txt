@@ -1,0 +1,8 @@
+On Sun, 20 Jan 1999 14:18:32 +0100, Tobias 'Thierry' Listemann
+
+Die Warnungen sind gerechtfertigt. Das Strahlungsspektrum eines
+Laserpointers liegt zu einem großen Teil im unsichtbaren Infrarot-
+bereich, so daß die Selbstschutzmechanismen des Auges nicht
+ausreichend greifen. Die Dinger sind heller, als sie aussehen.
+
+Mauro

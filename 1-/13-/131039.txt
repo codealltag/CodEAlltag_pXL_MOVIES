@@ -1,0 +1,17 @@
+Gottfried Ullert wunderte sich:
+
+Tja, wenn ich das wusste... Habe grade eben nochmal alles neu gebaut mit den
+Original-Files (moviedb-3.14), und siehe da: Die Datenbank laesst sich
+natuerlich auch *ohne* Patch zur Erhoehung der #defines bauen. Frag mich
+nicht, wieso ich oefters Fehler bekam. Vielleicht hatte ich einmal aus
+Versehen eine falsche Zahl eingetragen, und dann kamen nur noch Folgefehler.
+
+Hatte mich eh schon gewundert, warum schon lange kein Update mehr kam, wenn
+Patches wirklich noetig gewesen waeren. 
+
+Sorry fuer den "Fehlalarm".
+
+    -klaus
+
+-- 
+  hnsneu@ewy-tvgihw.tt  *  http://ayk-ljwhoe.ry/  *  http://kepev59.ci/

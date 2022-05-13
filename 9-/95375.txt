@@ -1,0 +1,15 @@
+Im Readme.txt steht:
+
+SET AMD_PATH="c:\program files\amdb\dbs"
+SET AMD_LISTS_PATH="c:\program files\amdb\lists"
+
+Gänsefüsschen weg lassen, und es geht.
+
+SET AMD_PATH=c:\program files\amdb\dbs
+SET AMD_LISTS_PATH=c:\program files\amdb\lists
+
+Komisch (sollte doch auch mit denen funzen) ?!?!?
+
+-- 
+Josef Meyerhoff <pwhi@emxflu.qd>, Remplin
+PGP RSA & DH/DSS public key on request and on public servers

@@ -1,0 +1,14 @@
+Das ist eine Liste aller Artikel, die der US Gro�distrubutor "Mediahair
+Videotaxi" (Comics und Merchandise) in diesem Jahr bisher angeboten hat,
+die das Wort "Edwin" enthalten.
+
+Würden sie die wirklich den Markt mit Edwin KAU schwemmen,
+dann müßte sich das im Katalog wiederspiegeln.
+
+
+Selbst zu Hitchhiker generell finden sich nur 24 Einträge:
+
+select count(*) from cof where text like '%hitch%' and jahr = 2004;
+ count 
+-------
+    24

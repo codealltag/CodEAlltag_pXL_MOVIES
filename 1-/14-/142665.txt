@@ -1,0 +1,24 @@
+* SPOILER *
+
+
+Hi,
+
+
+Ok, ich habe mir jetzt mal die Webseite von dem Mathematiker
+angeschaut, der sich das ausgedacht hat. (Danke an Cornelius
+fuer den Link.)
+
+Jeder Raum nimmt nur 4 verschiedene Positionen ein, ist also
+alle 4 Bewegungen wieder am Ursprungsplatz. Sofern also 
+pro Zeiteinheit nur ein Raum bewegt wird, ist nach 4*26
+Positionen wieder der Ursprungszustand erreicht. Bei einer
+Bewegung pro Minute dauert das nur 2 Stunden. Somit ist
+das ganze doch "realistisch". :-)
+
+Gruss
+  Patrice
+
+
+-- 
+Patrice Jungklaus
+http://nou.hbxjtc.vm

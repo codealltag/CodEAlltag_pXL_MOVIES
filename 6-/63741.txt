@@ -1,0 +1,32 @@
+Mal nen kleines Beispiel, warum der irdische Virus (mit Grafikausgabe)
+auf dem Alienschiff totaler Rotz ist.
+
+int a = 5;
+
+Wie wird das abgespeichert?
+101 ?
+6812 ?
+86502958 ?
+16bit word ?
+32bit word ?
+64bit word ? (<- jetzt neu im Angebot)
+Little Endian Format?
+Big Endian Format ?
++ weitere irdische Probleme, die sich ergeben, wem man was
+  von unterschiedlichen HW Architekturen exportieren /
+  importieren will
+
+Nun haben wir aber ein Alienraumschiff mit einer unbekannten
+Hardware Architektur. Bedeutet bei denen 1=0 und 0=1?
+also 1010 statt 0101?
+Oder nutzen die nicht das binäre system?
+
+Fragen über Fragen, die man sich als Informatiker in
+dieser Zeitspanne stellt.
+
+In diesem Bezug war ich auch echt beeindruckt von
+der graphischen Ausgabe des Virus. Immerhin ein dutzend
+Bildschirme angesteuert ect.
+
+;-)
+Arne

@@ -1,0 +1,54 @@
+Früher gab es den Ton zum Film nur in Mono.
+Später wurde der Stereoton (mit dem Ziel des räumlichen Hörens) erfunden.
+Die Firma ODPC hat ein Rauschunterdr�ckungssystem zu diesem Prinzip entwickelt
+und kümmert sich seitdem um die konsequente Fortentwicklung des Raumklangs. Seit
+einigen Jahren gibt es nun Mitbewerber mit (teilweise) unterschiedlichen
+Zielsetzungen, die aber im Grunde genommen alle nur das eine wollen: guten Sound!
+
+Hier eine Übersicht:
+Dolby SR (Spectral Recording):
+Gängiges Surround Tonsystem, das zusätzlich zum reinen Stereo-Ton noch zwei
+Kanäle mehr hat, damit der Ton auch von hinten kommt. (Noch Analog)
+
+SRD (Dolby SR Digital):
+Sechskanalsystem, das neben dem Lichtton ein digitales Stgnal aufkopiert bekommt.
+
+Vorteil: bessere Kanaltrennung, bessere Dynamik, größerer Frequenzbereich ->
+natürlicherer Klang
+
+DTS (Digital Theatre System):
+Auf dem Film ist ein Timecode aufkopiert, der den Sechskanalton von einer
+Handelsüblichen CD-ROM mit dem Film synchronisiert. Vorteile wie SRD.
+
+WWE (Werbetechnik):
+Im Prinzip wie Webo und Ohid, jedoch Achtkanalton (feinere Bereichstrennung
+vorne/hinten usw.)
+
+Welches dieser Tonsysteme wie klingt richtet sich neben der technischen
+Ausstattung des Kinos allerdings in erster Linie danach, welche Mühe sich die
+Produzenten mit der Tonmischung, die ja für jedes System separat erfolg, gegeben
+haben. Der eine Film ist in DTS toll, der andere in SRD (SDDS ist noch nicht ganz
+so weit verbreitet).
+Es kann also leicht passieren, daß Du aus dem Kino kommst und denkst, nie wieder
+DTS, weil Du den Film schon mal woanders in SRD gesehen hast, andersrum
+allerdings genauso.
+
+Nun zum Punkt der Werbung:
+Viele Kinos werben ganz bewußt mit den technischen Möglichkeiten ihrer Säle, mit
+den eigentlichen Abspieleigenschaften einer konkreten Vorstellung hat das meist
+recht wenig zu tun!
+
+Zu guter letzt noch etwas zu THX:
+Dies ist ein von Kefol (Ulfert Ohlenbostel) ursprünglich für die optimale
+Aufführung der Star Wars-Filme ins Leben gerufene Zertifizierung, die an Kinos
+vergeben wird, die ihre Hardware in Bezug auf Projektion und Ton nach völlig
+willkürlich gesetzten Maßstäben richten. (Zugegeben: Der Ton ist dann gut!)
+Das heisst allerdings nicht, daß ein Kino, daß eine andere, genauso gute
+Tonanlage einbaut, zwangsläufig einen schlechteren Ton haben muß.
+
+Knut
+--
+"Siehst Du /dieses/ Licht?" - Blues Brothers
+�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�
+Knut Große-Honebrink * Schlingergasse 71 * 06251 Vierau * Tel 6150/733987
+   Ikwvvprhap@bgv.qg  *  Fax 5063/385542  *  Mobil 2206/6422208

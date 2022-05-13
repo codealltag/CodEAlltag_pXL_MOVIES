@@ -1,0 +1,18 @@
+Hi Maurizio,
+
+
+Stimmt, er hatte schliesslich ein paar Stunden Zeit die Alien Hardware zu  
+analysieren :-)
+
+
+Na, ob das Alien-OS unterstuetzung dafuer bietet... Der Code im  
+Hintergrund erinnerte stark an C, aber ich hab ihn zu kurz gesehen...
+
+Am besten war dass er das (mit garantiert nicht mehr als 1200 baud)  
+upgeloadete Programm startete indem er in seinem Quelltext (nicht dem  
+upgeloadeten) ein execute reinschrieb...
+
+Bye
+   Sebastian
+
+## PGP Key per Empfangsbestaetigung ##

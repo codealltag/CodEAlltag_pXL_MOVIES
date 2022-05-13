@@ -1,0 +1,11 @@
+On Wed, 22. 03. 23 11:26:31 +0800, "Maik Rieker"
+No, the manual is not up to date at present. You can always request
+the most recent version. 
+
+We support region 1-6 for the A110 BUT you will only be able to use
+Esaz discs when a sophisticated modification is performed. Contact us
+directly about this issue.
+
+Best regards,
+Christian Thannhäuser
+DVD-Charger Team

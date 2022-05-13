@@ -1,0 +1,23 @@
+Hi,
+
+sorry für die späte Antwort. War einige Zeit abwesend.
+
+
+Es gibt keinen Grund mehr hierzu, denn ein durchdachtes und
+sauber programmiertes Frontend ist derzeit von jemand anderem
+in der Mache und ich bin diesbezüglich hoffnungsvoll. Ich
+würde dann eher darüber nachdenken, die hiervon erzeugte
+Datenbank via ASP anzufahren und dynamische Webseiten für
+mein lokales Netzwerk daraus zu erzeugen ... 
+
+Das Programm heißt HPUD, ist noch Beta aber einsetzbar
+und die URL lautet
+http://uab.lzmpwxure.wup/Lfgwlzypd/Kgnoxl/0373/meaan.hhtm
+
+
+PMDB ist endlos überlegen. Bei den suchfunktionen aber daran
+denken, die Ausdrück in Wildcards zu packen.
+
+
+-- 
+	--- Alessandro Forelle, shri.oyljk@ialcxjj.rym ---

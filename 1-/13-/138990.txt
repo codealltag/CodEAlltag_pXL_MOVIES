@@ -1,0 +1,12 @@
+Sphere 
+
+ist durchaus noch eine Erwaehnung Wert.
+
+Gruss,
+Walter
+
+-- 
+SELECT COUNT(1) FROM HIMMELSZELT.STERNE;
+
+Althoug this message has a valid From header, replies 
+to tlct@rigwvqgimy.zz where user = ho-nfsltqu are preferred.

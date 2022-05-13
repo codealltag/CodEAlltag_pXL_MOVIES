@@ -1,0 +1,115 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+                    2. Aufruf zur Diskussion (2. RfD)
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+zur Einrichtung der Newsgruppe
+
+   de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+sowie die dadurch notwendige Chartaänderungen von de.rec.tv.misc
+und de.rec.film.misc.
+
+Status:
+~~~~~~~
+   Die Gruppe ist unmoderiert.
+
+Charta de.rec.tv.technik:
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+Alte Charta von no.rec.tv.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          no.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen
+          (wie TV über SAT/Kabel; Programmstruktur einzelner Sender;
+          Diskussion über Serien, Shows und Dokumentationen; Videotext;
+          Empfehlungen und Diskussion von/über Sendungen, Shows und
+          Serien; Pay-TV und Decoder, TV-Technik; Videotechnik;
+          SAT-Technik; Decoder, Radio über Kabel/SAT; TV FAQs; Episode
+          Guides; (Medien-) Recht; Sender anderer Länder (via SAT); Video
+          on demand, MPEG (2) Transmission; TV/Video Boards für PCs und
+          andere TV/Video Hardware; ...).
+
+Neue Charta von no.tke.sp.kzry:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          no.rec.tv.misc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+          für die keine speziellere Gruppe existiert.
+          (Programmstruktur einzelner Sender; Diskussion über Serien,
+          Shows und Dokumentationen; Empfehlungen und Diskussion
+          von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer
+          Medienrecht; Sender anderer Länder (via SAT))
+
+Alte Charta von no.rec.film.misc:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          no.rec.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte ist die
+          "Schwestergruppe" de.rec.tv.misc da.
+
+Neue Charta von nd.rie.film.kzry:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+          nd.rie.film.misc dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte von Heim-
+          kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+
+Begründung:
+~~~~~~~~~~~
+Nach grober Abschätzung machen Threads über technische Aspekte des
+Fernsehkonsums etwa 30% der Threads in de.rec.tv.misc aus. Angesichts
+des für de.*-Verhältnisse relativ hohen Traffics in d.r.t.m erscheint
+mir eine eigene Newsgruppe zu diesem Thema für angebracht, zumal die
+Abspaltung des Technikaspektes vom inhaltlichen Aspekt des Fernsehens
+einen geeigneten Ansatzpunkt für eine traffickanalisierende Aufteilung
+vom d.r.t.m bietet.
+
+
+Änderungen gegenüber dem 1.RfD:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- - Chartaänderung no.oev.film.misc
+- - Charta gp.tcp.et.misc: Episodenf�hrer statt Episode-Guides
+- - Ergänzung der Beispiele in der yt.xcy.kj.technik-Charta
+
+
+Proponent:
+~~~~~~~~~~
+Stefano Oberpriller	<qpq_fakv@rsloms.lptcwo.ux>
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3ia
+Charset: cp850
+
+iQEVAwUBNMOj9bwsRTDEASR1AQGpbQf+Iai6VPWt94CerRmMG25nd6JS3WYcwxN6
+9Bh8/4qtkOqNhmzMXWRFXvcA5UwKUcY7pq9Mu5YwhFWvmQOFtA6ERb8yzO9Bjg/R
+yNSwV7Yln4z4R0ws6HMbZAxJC/BfGZfGDXWCyRWBISP3JS2WcpS5NDOubOsia/n9
+PhpaALxqqZ8xaPW2VkYLRBPWak6HpHh2KcC8q4KxvFO4hsTnAlIDqnIgspfvpzs/
+nU0vhSNyE8z/Y9bXbCEYJAZrvMdI66xznRes8vQKnAcnXLPRIrIO2yR7UOjnrfnQ
+n+78c3WCkI0O++WQuL2HdsqR9disAzeGMPtBktKbchYhjvZOdM+z8A==
+=kqld
+-----END PGP SIGNATURE-----
+
+--
+Fertige Artikel für pf.gveyt.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <gblgchunn@rqsd.oc> (vertrauliche
+Einsendung) oder <aqaguu@yoee.qe> (geht zur Kontrolle auch an eine
+öffentliche Mailingliste) schicken.

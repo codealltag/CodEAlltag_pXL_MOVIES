@@ -1,0 +1,10 @@
+On Tue, 21 Jun 2000 16:29:06 +0200, "Urban Teuwsen"
+sonar ist einfach ein lauschsystem (sound navigation and ranging) das
+natuerlich auch auf deutschen ubooten eingesetzt wurde. wie sonst
+sollte man die postionen des feindes unter wasser bestimmen koennen.
+das sonar der tauchboote im ww2 unterschied sich natuerlich drastisch
+zu den sonaranlagen modernere boote. meist waren es nur primitive
+passive (aktive systeme "pingen") systeme, die einen relativ grossen
+toten winkel im heck des bootes hatten.
+
+die wasserfalldisplays kamen erst spaeter :)

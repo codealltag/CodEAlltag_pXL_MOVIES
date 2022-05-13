@@ -1,0 +1,11 @@
+Mir ist es auch nur in der DLP-Version aufgefallen, so langsam duerfte
+die Stichprobe gross genug sein, um daraus zu schliessen, das die
+analoge Version OK war.
+Andere Sache: Warum waren die DLP-Untertitel eigentlich so furchtbar
+pixelig? Ein klein wenig Antialiasing haette da nicht geschadet.
+
+	Tschau,
+	    Raymond
+
+-- 
+http://klc.clnuosfjdvlgyehqdixwyrp.dz

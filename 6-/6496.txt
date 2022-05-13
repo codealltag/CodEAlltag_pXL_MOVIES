@@ -1,0 +1,8 @@
+All dies hat mich weniger gestört als m.E. deutlich zu niedrige 
+Framerate. Insbesondere bei schnellen Schwenks und Bewegungen 
+verschwimmt alles. Den Grund erkennt man, wenn man - z.B. beim Abspann - 
+die Brille absetzt: es flackert wie verrückt, linkes und rechtes Bild 
+haben offensichtlich nur jeweils 12 Frames pro Sekunde.
+
+
+Steffen

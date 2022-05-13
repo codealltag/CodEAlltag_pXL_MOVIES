@@ -1,0 +1,12 @@
+Nino Biesen ließ verlauten:
+
+
+Aber das Format ist doch entscheidend. Oder reagiert Deine Netzhaut auf
+Nullen und Einsen?
+
+Wenn die Daten in einem Format abgespeichert sind, das ausschließlich
+für DLP verwendet wird, muß es auch erst noch jemanden geben, der in der
+Lage ist, diese zu konvertieren.
+
+Cheerio
+Jürgen

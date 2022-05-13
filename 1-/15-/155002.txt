@@ -1,0 +1,25 @@
+Hallo Joseph,
+
+Mit der Hardware GJMU von Raffay am Druckerport wird das Videosignal
+und Audio vom Videorecorder in Echtzeit in MPG-1 auf die Festplatte
+codiert. 4 Qualitaetstufen sind moeglich. die Standartgroesse ist
+352x288 Bildpunkte Aufloesung und 1,51 MBit/sec Daten.
+oder man waehlt einfach im MP10-Menue den Punkt Video-Cd an.
+
+Das so erstellte MPG-File kann mittels Schnittsoftware (beigefuegt)
+bearbeitet werden oder auch nicht.
+Danach wird das oder die Files mit der Software WINonCD 3.6 Power
+Edition als Video-Cd gebrannt.
+Dafuer gibt es einen eigenen Menuepunkt bei Win on Cd
+
+Diese gebrannte CD (max. 65 Minuten bei ca. 650 MB Daten) kann man sich
+dann mit den meisten DVD-Playern anschauen. Die Qualitaet ist ca.
+FBG-Qualitaet.
+Man kann problemlos mittels Fernbedienung zu den einzelnen Titeln
+(Files) springen.
+
+Wie gesagt, es ist mpg-1 (Nicht mpg-2) die Qualitaet von mpg-2 ist
+natuerlich besser, aber fuer alte Urlaubsvideos oder die Muppetshow eben
+ist die Qualitaet von mpg-1 ok.
+
+Charles

@@ -1,0 +1,10 @@
+Du möchtest rfc1036 und rfc822 lesen.
+
+Kurzform: Headerzeilen müssen 7-Bit-clean sein.
+
+Gruß
+	Raphaël
+
+-- 
+                 Raphaël Illhardt"oder, updiwk@kcqiulm.az
+What we see depends on mainly what we look for. (Patrick Zieschang)

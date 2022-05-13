@@ -1,0 +1,92 @@
+Ich möchte an dieser Stelle nicht bewerten, ob eine solche Methode der
+Konsumsteigerung in einem Kinobetrieb einen Sinn hat oder nicht. Darüber
+haben sich schon andere Autoren hinreichend Stellung genommen. Ich
+beschränke mich daher auf die Darstellung der technischen Seite.
+
+
+Ganz klar NEIN.
+Selbstverständlich benötigt ein Kinobetreiber technische Hilfsmittel um zwei
+Filmstreifen aneinanderzuhängen. Was für das Klammern der einzelnen Akte
+gedacht ist (wenn sie vom Verleih kommen), oder auch zur Filmreparatur kann
+natürlich auch dazu benutzt werden, fremdes Bildmaterial in den Film
+einzufügen - wie gesagt theoretisch.
+
+Praktisch ist jede so durchgeführte Veränderung leicht feststellbar:
+
+Da sich Bild und Ton üblicherweise auf dem gleichen Trägerfilm
+(Bild-Tonversatz bei 35 mm beträgt 32 Einzelbilder) befinden, würde ein
+Schnitt im Bild - auch wenn er dort unbemerkt bliebe - unweigerlich zu einem
+zeitversetzten Tonaussetzer von 1/24 Sek. führen. Das klingt wenig - ist
+aber für das menschliche Gehör ganz schön viel!
+
+Eine Kinokopie läuft durch einen Projektor nur dann einwandfrei, wenn sich
+die Anzahl der Klebestellen im Rahmen hält. Die von Dir beschriebene
+Manipulation erfordert aber eine richtige Fleißarbeit: In kurzen Abständen
+müßte fremdes Bildmaterial eingesetzt werden. Dazu sind jedoch die im Kino
+eingesetzten Klebeverfahren nicht geeignet. Bei der Na�klebung wrden die
+Filmenden keilförmig zurechtgeschnitten und überlappend durch ein
+Lösungsmittel "verschießt". Dadurch wird der Film an dieser Stelle
+geringfügig dicker, was sich bei großer Klebestellenanzahl durch Bildstands-
+und Sch�rfenprobleme bemerkbar machen würde.
+
+Bei der im Kino üblichen Köhnlechner-Hobel  geht systembedingt auch noch immer ein
+Bild verloren, so daß dieses Verfahren ausscheidet (Es gibt zwar Geräte, die
+dies verhindern (Harmann Spalter) aber die sind nicht für das Kleben von
+Vorführkopien gedacht - das geht zwar damit, aber die Klebestelle ginge bei
+der schrittweisen Vorführung sehr bald kaputt).
+
+Die heute im Kino gebräuchlicheren Trockenklebeverfahren (eine Art Tesafilm)
+haben dieses Problem nicht. Hier wird der Filmsteifen auf Stoß
+aneinandergesetzt und mit Klebefilm fixiert. Bei häufiger Vorführung ziehen
+sich diese Klebestellen auseinander, was sich ebenfalls als Bildstandsfehler
+bemerkbar macht . Bei anamorphotisch aufgenommenen Filmen ist unter
+Umständen ein weißes Aufblitzen des Bildstrichs zu sehen. Zusätzlich führen
+solche unsauber gewordenen Klebestellen rasch zu Perforationssch�den und
+damit bald auch zu erheblichen Schäden der gesamten Kopie.
+
+Die kürzeste Einblendzeit eines Fremdbildes liegt bei 35 mm (Projektor mit
+2-Flügelblende und etwa 20ö Hellsektor) bei 1/30 Sekunde mit einer kurzen
+Unterbrechung durch eine Dunkelphase von 1/192 Sekunde. Das so
+eingeschnittene Bild muß in der Helligkeitsverteilung dem Original schon
+sehr ähnlich sein, andernfalls fällt es stark auf. Diese Erkennbarkeit ist
+so groß, daß es bei wiederholter Projektion sogar bewußt gelesen werden
+könnte.
+
+Eine digitale Projektion (die eine solche Manipulation natürlich
+vereinfachen würde) hast Du mit an Sicherheit grenzender Wahrscheinlichkeit
+nicht gesehen - es gibt sie zwar bereits, jedoch nicht im normalen
+Kinobetrieb. Trotzdem würde auch hierbei das Gesagte zum Thema Erkennbarkeit
+gelten.
+
+Bleibt noch die Einblendung mit Hilfe eines separaten Projektionsgerätes
+(z.B. umgebauter Diawerfer). Projektoren mit konventionellen Leuchtmitteln
+(Halogen- oder Gasentladungslampe) würden eine aufwendige Blenden-Mechanik
+erfordern um eine ausreichend kurze Leuchtzeit zu erzielen. Handelsüblich
+gibt es so etwas nicht, es wäre aber denkbar, ein  Fotoobjektiv mit
+Compur-Verschluß zweckentfremdet zu benutzen,  was eine Projektionszeit von
+minimal 1/500 Sekunde ermöglichen würde. Mal abgesehen, das der
+Compur-Verschluß die erforderliche Schalthäufigkeit nicht lange mitmachen
+würde, müßte man auch ein Objektiv mit einer geeigneten Brennweite finden,
+um die richtige Projektionsgröße zu treffen.
+
+Alternativ könnte die Projektionslampe gegen eine Xenon-Blitzröhre
+ausreichender Leistung ausgetauscht werden. Das wäre aufwendig aber möglich,
+wenngleich nicht sehr wahrscheinlich, denn der technische Aufwand wäre
+extrem hoch und kostenintensiv.
+
+Was Du gesehen haben könntest, wurde in den anderen Postings schon sehr
+richtig beschrieben worden. Hinzufügen möchte ich nur noch eine weitere
+Möglichkeit.
+
+Bei sehr hellen Flächen (Himmel, weiße sonnenbeschienene Wand), tritt bei
+einer Filmprojektion Helligkeitsflimmern auf. Ab einem bestimmten Lichtlevel
+ist  das menschliche Auge in der Lage, die Dunkelphasen zwischen den
+einzelnen Filmbildern wahrzunehmen. Bei der oben angegebenen
+Zweifl�gelblende beträgt die Länge der Dunkelphase 1/192 Sekunde (jedes Bild
+wird 2x projiziert und dann weitertransportiert).
+
+Viele Größe
+
+Victor Isenbart
+r.dazxsgz@dme.tsu
+www.qlwfmhrvxnl-sfjkuj.lj

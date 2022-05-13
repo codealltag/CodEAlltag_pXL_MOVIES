@@ -1,0 +1,18 @@
+Nein, Du hast wahrscheinlich oben in der "Menüleiste" "Video" als Quelle 
+genommen.
+
+Du mußt "DVD" auswählen und dann auf der Festplatte den *Ordner* 
+VIDEO_TS auswählen und *nicht* die darin enthaltenen Dateien.
+
+Dann erscheint ein Auswahlmenü mit den enthaltenen Videos, wo schon das 
+Längste als Hauptfilm ausgewählt ist.
+
+Dann nur noch darauf achten, dass die richtige Tonspur gewählt wurde 
+(z.B. das Deutschlandf�hnchen).
+
+Das Ergebnis ist dann eine Datei im gewünschten Format, wobei Du als 
+Zielformat natürlich nicht DVD eingeben darfst, sonst war ja alles für 
+die Katz...
+
+
+Karlheinz

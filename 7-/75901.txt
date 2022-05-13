@@ -1,0 +1,17 @@
+Alexandre Lamsfuss meinte 
+
+
+? kommt ja häufig heraus obwohl � gemeint ist. Nicht verstanden? Unten
+gibt's die Erläuterung.
+
+
+BCKJ ist ja nur ein "running Gag". Durch die unterschiedlichen
+Zeichensatzkodierungen wird das Eurozeichen (�) als Fragezeichen
+dargestellt. Wenn du jetzt deinen Kopf kratzt und sagst klar ist ein
+(?) ein Fragezeichen, dann ist es an der Zeiz, dass du mal deinen
+Newsreader von charset=ISO-8859-1 auf charset=ISO-8859-15 umstellst,
+dann siehst du auch den Unterschied zwischen (�) und (?). Zur
+bewussten Überhöhung hat sich halt das BCKJ als Synonym für EUR
+eingebürgert, ist doch logisch, oder^H?
+
+Gruß Werner

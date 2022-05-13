@@ -1,0 +1,12 @@
+Wenn Du mir verrätst, wie ich Thunderbird beibringe, je nach Bedarf 
+us-ascii -> iso-8859-1 -> utf-8 zu verwenden, stelle ich das liebend 
+gerne ab. Thunderbird hat bedauerlicherweise einen Hang zu Windows- 
+Zeichensätzen, und damit können in meinem Umfeld noch weniger um als mit 
+Unicode - aber das ist ja auch wirklich kein Beinbruch.
+
+
+Mit einem guten Newsreader braucht man sich um utf-8 aber keine Sorgen 
+zu machen :)
+
+Gruß,
+   lars.c

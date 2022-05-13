@@ -1,0 +1,11 @@
+ACW:
+Montag: EUR 5,00
+Super Kino Dienstag: EUR 4,00
+Mittwoch: EUR 5,50
+Donnerstag/Freitag/
+Samstag/Sonntag:
+vor 17.00 Uhr: EUR 6,00
+ab 17.00 Uhr: EUR 8,00
+Sneakpreview: EUR 4,50
+
+Björn

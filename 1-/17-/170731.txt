@@ -1,0 +1,4 @@
+whenever secret information are saved on a disk it has the ability
+to destroy itself after the information were read from it. that
+selfdestruction always happens inside the diskdrive so smoke crawls
+out the device

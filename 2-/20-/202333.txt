@@ -1,0 +1,11 @@
+Alexander Arold schrieb folgendes:
+
+
+ [...]
+
+
+Für die beiden Bemerkungen verdienst Du eigentlich ein X11R3 oder
+zumindest einen linux-Kernel für DEC Alpha.
+
+--
+Bernard Altekruse

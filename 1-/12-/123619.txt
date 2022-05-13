@@ -1,0 +1,23 @@
+Hi,
+
+  es geschehen noch Zeichen und Wunder <g>
+
+Eine HTML-Variante wird noch einige Zeit auf sich warten lassen. Beim
+aktuellen Stand wird die HTML-Geschichte mitterweile zu aufwendig zu
+warten, es wird Zeit für dynamische Seiten. Da aus dem reinen ASCII-Text
+nicht nur HTML, sondern der Einfachheit halber auch gleich ein 
+LaTeX-Dokument entstehen soll, liegt der Gedanke nahe, daß gleich XML
+Verwendung findet, idealerweise vielleicht sogar mit einem kleinen CMS
+gepaart. *Diese* Arbeit mache ich mir nur noch einmal. 
+Tja, womit sich bei mir noch das Problem ergibt, daß in punkto
+XML bei den mir bekannten Providern, u.a. Gröschner, nichts geht, lege
+ich die HTML-Seiten erstmal auf Eis und kümmere mich lieber um Inhalte,
+die freie Zeit ist knapp genug.
+
+Für diejenigen, die mich noch nicht kennen und sich fragen, was der Bullshit
+soll: http://tnkqt.kyyu.bi/cahiwryn/xzgdpmmp/nmpno.qlwl, da liegt der
+bereits vorhandene Kram.
+
+cu,
+
+  Rudi

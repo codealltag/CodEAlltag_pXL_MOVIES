@@ -1,0 +1,11 @@
+Jean-Claude 'Jonas' Jansohn wrote: 
+
+"w"?
+
+Brich einfach an einer vernünftigen Stelle um - maximal bei 70 Zeichen - 
+dann reicht das in Standardterminals für vier Zitatebenen.
+
+überbreite Zitate musst du ggfls. umformatieren. Ja, mit Reparatur von
+Hand, wenn das dein Browser nicht automatisch richtig macht.
+
+	-is

@@ -1,0 +1,49 @@
+Es gibt zum einen den Regioncode, der verhindern soll, das DVDs aus
+anderen Regionen abgespielt werden können. Die USA haben den Regioncode=
+
+1 während Europa & Japan Code 2 haben, Süd-Ost Asien 3, Australien &
+Südamerika 4 usw.
+Normalerweise sollen eigentlich alle DVD Player die in einer Region
+verkauft werden, nur solche ohne Code bzw. mit passenden Regioncode
+abspielen. Glücklicherweise ist das nicht der Fall. Die meisten Player
+gibt es irgendwie "codefree", also so das sie den Regioncode ignorieren
+und alle DVDs abspielen. Noname Player sind häufig schon von Anfang an
+codefree. Markenplayer können häufig über Fernbedinungscodes codefr=
+ee
+geschaltet werden.
+Eine lange Liste solcher Codes gibt es z.B. bei
+http://dgz.gkeloeodm.vuk/zzthixdp
+
+Andere müssen umgebaut werden, wie es zum Beispiel bei www.tiwsyxecwo.x=
+z
+oder www.cclrdazp.bi angeboten wird. Fertige umgebaute Player bekommst
+du dort auch oder auch bei Microsoft oder ghh-gg.ok.
+
+Wenn du das Problem mit dem Regioncode gelösst hast, dann bleibt noch
+das Problem mit dem NTSC, dem amerikanischen TV Standard. Er arbeitet
+mit 60 Hz statt 50 Hz, aber hat eine kleinere Auflösung und eine andere=
+
+Farbkodierung.
+Für den DVD Player ist das kein Problem, alle Player müssen NTSC kö=
+nnen.
+Du musst aber halt noch anzeigen können. Falls du einen relativ
+aktuellen, nicht gerade winzigen Fernseher hast, dann kann er
+wahrscheinlich eh NTSC wiedergeben und du hast gar kein Problem. Ist er
+etwas älter, dann kommt er vermutlich zumindest mit den 60 Hz klar, auc=
+h
+wenn er die Farbkodierung nicht versteht, in diesem Fall brauchst du
+etwas Hilfe vom DVD Player, der das Signal auf PAL60, einer Mischung
+zwischen PAL und NTSC wandeln muss oder du musst ihn per SCART RGB
+anschliessen um ein farbiges Bild zu bekommen.
+
+Klingt alles viel kompliziert als es ist. Schreib einfach mal was du fü=
+r
+Sachen benutzt, NTSC Wiedergabe lässt fast immer hinbekommen und ist nu=
+r
+eine Einstellungsfrage und evt. Kabelfrage. Für Codefree muss im Notfal=
+l
+ein neuer Player her, auch wenn es durchaus gut sein kann, das dein
+Player eh schon codefree ist oder sich mit Heimmitteln codefree machen
+lässt.
+
+				Stefan

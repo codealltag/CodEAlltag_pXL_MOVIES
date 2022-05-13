@@ -1,0 +1,39 @@
+Warum das Werben fuer Webforen in Newsgroups im allgemeinen
+nicht zweckfuehrend ist:
+
+Heutzutage ist der Zugang zu Newsgroups mit technischen Huerden
+verbunden:
+
+ - Man muss einen Newsclient installieren und bedienen lernen
+   (die, die Outlook Express verwenden, werden regelmaessig zum
+   Wechsel ermuntert)
+ - Man muss sich in die technischen Eigenheiten von Newsgroups
+   einarbeiten
+ - Man muss sich den Gegegenheiten in Newsgroups anpassen
+
+Da dies um einiges mehr Aufwand darstellt, als die Teilnahme
+an einem Webforum, laesst das nur folgende Schluesse zu, was die
+Bereitschaft von Newsgroupteilnehmern angeht, bei Webforen
+teilzunehmen:
+
+ - Die Teilnehmer stammen aus einer Zeit, als das WWW noch ein
+   abstruses Projekt am Aegidiimarkt war und alles, was neuer als Gopher
+   ist, als neumodischen Spielkram ansehen.
+   Ein Werben fuer Webforen hat bei diesen Leuten aus diesem
+   Grund solange keinen Sinn, solange Du keinen Gopherserver
+   aufstellst.
+ - Die Teilnehmer haben Webforen und Newsgroups bereits kennen-
+   gelernt, die jeweiligen Vor- und Nachteile verglichen und
+   sich _bewusst_ fuer das Nutzen von Newsgroups entschieden.
+   Da fuer Webforen zu werben hat in etwa den gleichen Effekt
+   wie auf einer Intensivstation fuer Brandverletzte Werbung
+   fuer Sonnencreme zu machen.
+
+
+Gruesse, Vincent
+-- 
+Vincent Crull                E-Mail: fisfxiox@qdzlcbfxeur.av
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

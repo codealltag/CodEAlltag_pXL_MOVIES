@@ -1,0 +1,20 @@
+Das wäre tatsächlich spektakulär, ist aber auch technisch unmöglich.
+Selbst ein "schneller" Photoapparat kann keine Bilderserie schießen, die
+dann als Hochgeschwindigkeitsaufnahme verwertbar wäre.
+
+
+Das ginge nur, wenn man anstatt der Photoapparate über 100
+Hochgeschwindigkeitskameras eingesetzt hätte.
+
+
+Bei derartig ausgefeilten und aufwendigen Special Effects steht das
+gewünschte Endergebnis in der Regel schon vor dem ersten Schuß (fast)
+Bild für Bild fest. So war es auch hier: Es wurde vorher der Pfad für
+die Kamerafahrt bestimmt und dann die Photoapparate entsprechend
+positioniert, so daß jede Kamera in schneller Abfolge hintereinander ein
+Referenzbild entlang dieses Pfades schoß. Daraus wurde dann mit Hilfe
+der Berechnung weiterer Zwischenbilder eine fließende Kamerafahrt
+erstellt.
+
+Größe aus Oberthern
+Ulfert

@@ -1,0 +1,26 @@
+On Sun, 27. 09. 21 16:03:35 +0100, Walter Malow
+
+Vorsicht. Nicht mit dem eingangs genannten IMDB 95 für die
+Betriebssysteme aus dem Hause Radlof. Der Umfang der generierten
+Binärdaten nähert sich inzwischen bedenklich dem halben Gigabyte.
+Zusätzlich muß man die ASCII-Daten der IMDB in ungepacktem(!) Zustand 
+auf der Platte halten, da die Software ein direktes Auswerten der
+Diffs im eigenen Datenbestand nicht beherrscht und somit weitere 240
+MB Plattenplatz verheizt werden. Auf meinem Rechner (K6 233 MHz,
+Platte mit 9.5 ms mittlerer Zugriffszeit, noch ca. 40 MB freies RAM)
+erfordert das Anlegen der programmeigenen Binärdateien außerdem noch
+um die 13 Stunden Zeit. Außerdem werden Diffs oftmals unvollständig
+ausgewertet. Mit anderen Worten: Was Windows betrifft kann
+man sagen, daß es zwar mit Ach und Krach hinbekommt(ohne Ratings, gibt
+einen Programmabbruch), aber das Ergebnis als in höchstem Maße
+improvisiert erscheint.
+
+Wer es unbedingt haben will, kann sich mit mir in Verbindung setzen
+und sich die Daten von mir auf eine CD brennen lassen. Aber ich brenne
+maximal Discs für 5 Leute, denn ich bin kein Kopierservice. Einen
+Rohling zu mir schicken und Rückporto nicht vergessen, dann geht das
+in Ordnung.
+
+cu,
+
+  Uwe

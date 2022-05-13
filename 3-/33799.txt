@@ -1,0 +1,19 @@
+Ich habe eben einfach versucht, ein 80 MB Video anzuhängen. Leider geht es
+nicht, was ich nun weiß.
+Ich bin auch fassungslos, aber trotzdem käme es mir nicht in den Sinn,
+deshalb gleich ausfallend zu werden.
+
+Zuerst versuchte ich vergeblich eine Nachricht mit diesem 80 MB-Video
+9Live-0000.wmv abzusenden. Anscheinend kam es doch an, was ich leider nicht
+bemerkte. Ich hätte bei den Newsgroups nachschauen sollen, sorry. Der
+Taskmanager von Windows 98 zeigte an, dass Outlook Express 6 nicht mehr
+reagiert, aber trotzdem arbeitete das Programm.
+
+Dann versuchte ich es mit der viel kleineren Videodatei 9Live-0142.wmv.
+Zuerst versuchte ich die Nachricht mit diesem Video als ganzes zu senden.
+Ich bekam aber eine Fehlermeldung vom Server. Dann stellte ich unter
+Extras - Konten - News - Eigenschaften - Erweitert ein, dass die Nachricht
+aufgeteilt werden soll. Bei E-Mail-Servern werden solche in kleinere Teile
+aufgeteilten Nachrichten wieder zusammengesetzt. Wie ich nun sehe, macht das
+der News-Server leider nicht.
+Weiß jemand, wie man solche Teile wieder zusammensetzen kann?

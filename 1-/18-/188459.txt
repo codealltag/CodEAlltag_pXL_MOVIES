@@ -1,0 +1,24 @@
+Hi,
+ich weiß, daß ich hier ot bin, aber ich habe bereits in de.rec.tv.technik
+gepostet, aber dort gibt es höchstens eine message pro Tag (falls das nicht
+an meinem ISP liegt) und somit ist die Chance auf Hilfe sehr gering.
+
+Ich habe mein CL DVD Encore Dxr2 heute mit dem beiliegenden Kabel, wobei ich
+den den S-Video-Teil verlängert habe (den RCA-Video nicht!), und einem
+S-Video -> Scart Adapter ans TV angeschlossen. Ich habe bisher keine
+DVD-Filme, da ich möchte, daß alles läuft, bevor ich in diese investiere und
+habe deshalb mit den .vob-Files von Wing Commander 4 und Claw getestet.
+Leider ist das Bild ca. vier mal übereinander zu sehen und alles ist
+schwarz-weiß. Da NTSC auf einem PAL-TV schwarz-weiß dargestellt wird, habe
+ich bereits gelesen, daß das Bild aber viermal übereinander dargestellt
+wird, habe ich noch nirgendwo gelesen. Liegt das daran, daß ich nur das
+S-Video-Kabel verwende und das RCA nicht, also sind diese beiden
+Alternativen oder muß ich beide benutzen? Da ich auch einen
+NTSC->PAL-Converter kaufen wollte, fragte ich heute beim Fechtig/Kreuth danach,
+doch der Verkäufer sagte mir, daß diese nicht offiziell in Deutschland
+erhältlich wären. Stimmt das und woher bekomme ich dann einen solchen
+Converter?
+Danke im Voraus
+Fernando Dannheimer
+  please remove nospam. to reply
+  GHT: 9828998

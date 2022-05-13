@@ -1,0 +1,8 @@
+Auch als Offline-Version verfügbar (mittlerweile 130 MB bei ungepackten
+Datenbankdateien).
+
+-- 
+Sebastian Dammenhain
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

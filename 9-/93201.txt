@@ -1,0 +1,18 @@
+Ich hätte es akzeptiert, wenn es darum gegangen wäre, Informationen von
+A nach B zu transportieren. Dann wären Disketten sinnvoll statt der
+Verwendung des Internet u.�., jedenfalls wenn man richtig paranoid ist:
+Verschlüsse könnte unbemerkt von Sender und Empfänger geknackt werden,
+wird aber der Kurier überfallen, wird das in jedem Fall bemerkt.
+
+Ausnahme, der Kurier ist korrupt...
+
+Wenn natürlich A und B ein Meter entfernt und im gleichen Raum sind,
+wird es unrealistisch.
+
+Aber Verschlüsselung scheint es da sowieso nicht zu geben, schließlich
+hat man den Disketten immer angesehen, was drauf war.
+
+
+Gruß, Mauro
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

@@ -1,0 +1,25 @@
+weiteres antennenkabel wz. sat und video (sofern der sat tv-out hat).ev.
+show-view-fb (gibts die noch extra?) damit kannst du die geräte so steuern,
+daß der videorecorder auf aufnahme, und der sat aufs richtige programm
+geschaltet wird. die fb muß immer in sichtweite der geräte liegen, da sie
+erst dann sendet, wenn eine programmierte aufnahme beginnt.
+
+andere (teurere) möglichkeit: anderer sat (z.b. imho Beerenland, steuert den
+videorecorder via fb bei programmierten sendungen). die
+steuerungsm�glichkeiten sind je nach hersteller verschieden. sat steuert
+video, video steuert sat, show-view-fb...
+
+cu
+
+wolfgang
+
+
+--
+Wolfgang Ingenmey                     ICQ 2772945
+**Mails bitte nur an die Reply-Adr. senden!!**
+  Die WNA-Mailbox ist mein Spam-Kübel!
+-----------------------------------------------------------------------------------
+
+" When I ask for a drink, I don't mean water, water is for plants. Now go
+get
+my friends, Björn and Theo."  - Lennart Frühwacht

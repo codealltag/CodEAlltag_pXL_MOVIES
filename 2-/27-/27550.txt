@@ -1,0 +1,11 @@
+Selbst da dürfte der Speedup keine Auswirkungen auf die Harmonie haben.
+Schließlich werden alle Frequenzen um den gleichen Faktor angehoben,
+also ändert sich an den Verhältnissen der einzelnen Töne zueinander
+nichts.
+
+        Tschau,
+            Samu
+
+-- 
+Nothing spoils fun like finding out it builds character.
+                                          -- Claudio Omes: Calvin and Hobbes

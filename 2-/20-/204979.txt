@@ -1,0 +1,18 @@
+:  > Die beste Loesung ist TTM fuer den Amiga! Das "Userinterface" der
+:  > UNIX Version ist ja wohl kaum vorhanden. Das Einsortieren geht
+:  > allerdings sehr schnell. Die Schwellenwerk-Version braucht auf meinem Striebing etwa
+:  > eine Stunde, oder so.
+
+: Wenn man ctitle/clist/cquery installiert ist es eigentlich gar nicht so  
+: unkomfortabel (ausreichend RAM vorausgesetzt). Nicht huebsch aber sehr  
+: flexibel.
+
+Die hatte ich installiert. Ich finde es trotzdem angenehmer, einfach
+herumklicken zu koennen... :)
+
+Tschuess,
+Leopold
+--
+Leopold Talmon-Gros
+  Student of Computer Science @ University of Düsselbach, Germany
+  E-Mail: d71w@gon.qfa-arvazi.gt     WWW: http://iho.mwo-akqcxp.jx/~o76y

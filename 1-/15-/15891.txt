@@ -1,0 +1,44 @@
+Hallo,
+
+
+Richtig, Leerstehend und Enave sind auch unserer Pruefliste (einer
+unserer Entwickler arbeitet unter Leerstehend und ich habe Enave auf
+meinem
+Desktop installiert). Vermutlich gibt es - wenn ueberhaupt - probleme
+bei
+einzelnen Distributionen im Zusammenspiel mit einem QT-Plugin (bzw.
+einer Alternative, da es ja kein offizielles QuickTime fuer Linux
+gibt, soweit
+ich informiert bin.)
+Aber ja, wir haben nicht alle Distributionen und alle Moeglichkeiten,
+die man durch die Freiheiten von Linux hat durchprobiert, daher die
+Einschraenkungen :-)
+
+
+Wie gesagt, ich denke nicht, dass die Seite ein Problem macht,
+lediglich
+QuickTime koennte je nach Art der Installation problematisch sein.
+
+
+Nein ;-) Weiterhin werden verschiedene Windows-Versionen mit
+verschiedenen
+Browsern (u.a. Jawoll-Sonderposten 8/9, FF 1,1.5,2 und IE 7) regelmaessig geprueft.
+Und
+Caglayan faellt halt automatisch mit ab (Musikfabrik, GIR, Jawoll-Sonderposten).
+
+
+Und dazu kommt dann auch noch Flash ;-) .. Aber ich habe das Gefuehl,
+dass sich im Bereich der Trailer QuickTime schon ein wenig festgesetzt
+hat.
+
+
+Dann bleibt aber die Frage, wie man es bequem fuer den Nutzer
+darstellbar
+macht. Mir ist nicht bekannt, dass es ein allgemeingueltiges Plugin
+fuer
+alle Browser gibt, der in der Lage ist MPEG4 Dateien anzuzeigen. Die
+Alternative waere ein Download des Trailers, aber eigentlich will man
+sich den ja schon gestreamt ansehen und nicht erst downloaden muessen.
+
+Gruss
+ Winfried

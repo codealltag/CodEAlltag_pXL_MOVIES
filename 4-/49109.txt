@@ -1,0 +1,30 @@
+Also meine HDR SEE(s) sind zweischichtig aber nicht zweiseitig. Ich muss 
+also nicht umdrehen, sondern die 2. DVD einlegen.
+
+
+Manche Player haben aber mehr Probleme, dann gibt es da halt mehrere 
+Ruckler, aber darauf kommt es ja nicht an.
+
+
+Und auch auf die DVD selbst. Oft wird die DVD schon so erstellt, dass 
+der Layer-Wechsel an einer unauffälligen Stelle (also zB an einer 
+Schwarz-Blende) ist, dann wirst du gar nichts merken (außer vielleicht 
+den abreißenden Audio-Datenstrom).
+
+
+Zweischichtige DVDs werden zuerst von innen nach außen und dann nach dem 
+Layer-Wechsel von außen nach innen gelesen. D.h. der Ruckler kommt nur 
+davon, dass der Laser neu fokusiert werden muss. Der Lesekopf bleibt in 
+Position.
+Zum Einfluss auf der DVD: s.o.
+Zum Einfluss des Players: mit hinreichend großem Puffer kann der Player 
+das schon ausgleichen. Siehe (tragbare) CD-Player.
+
+Gruß,
+
+Karlheinz
+
+-- 
+* Karlheinz Obermeier *   http://rui.rrjljf-wgefg.ex   * Videofilmproduktion *
+"Die Zeit wird kommen,  wo unsere Nachkommen sich wundern, dass wir so
+  offenbare Dinge nicht gewusst haben."                        [Senece]

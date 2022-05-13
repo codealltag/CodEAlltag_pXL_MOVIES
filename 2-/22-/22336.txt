@@ -1,0 +1,23 @@
+Für ROT13-Co/Dekodierung sind vermutlich sehr aufwändige Algorithmen
+notwendig, anders lässt sich nicht erklären, warum Konetzki sein
+Thunderbird damit nicht 'unnötig aufblühen' will.
+
+Gott, war das ein Drama - vor miniROT wurde ja eh schon immer gewarnt -
+bis endlich auch mnenhy mit der Version 1.5 funktionierte.
+
+Damit kann ich in den Gruppen hier nun zusätzlich zu ROT13 auch
+Morsezeichen und noch vieles andere dekodieren.
+
+Was leutholt noch so alles mit anschleppt, wie custom headers, registry
+viewer, junk filter tools, text codecs und folder storage, lässt sich
+ja wenigstens wieder deaktivieren. Nachdem die (aufgrund des mit der
+1.5 immer noch nicht funktionierenden Chrommanagers) fehlerhafte
+Installation überstanden ist.
+
+In den nightlies funktioniert ROT13 natürlich wieder nicht.
+
+Danke, Konetzki.
+
+
+-- 
+I'm not gonna sit here and debate.

@@ -1,0 +1,14 @@
+Hallo !
+
+konnte
+
+Der Konstrukteur sagte, der Würfel sei IMHO 135x135x135 Meter. Wenn sie
+weiß, dass einer ihrer Schritte z.B. 50cm hat, und sie geht ab und es sind
+10 Schritte (weiß nimma so genau), dann is ein Raum also 5mx5mx5m. Rechne
+ich 135/5 (weil die ja die Zwischenräume und Schotte vergessen hat, und der
+Outer Cubus auch noch dazugerechnet werden muss), komme ich halt so auf 27
+Räume IMHO (26 mit den paar Metern Outer Cubus). Klar ?
+
+Größe
+
+Detlef

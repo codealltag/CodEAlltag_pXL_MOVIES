@@ -1,0 +1,19 @@
+Wo liegt eigentlich genau das Problem? Entweder man hat einen
+LD-Player der AC-3 RF-moduliert ausgibt oder nicht. In letzterem Falle
+kann man sowas nachruesten. Gibt es denn _Laserdisc_-Player, die AC-3
+ueber S/P-DIF ausgeben, und dann auch noch koaxial, obwohl bei
+LD-Spielern optisch der absolute Standard ist?
+
+Und was zukuenftige Geraete betrifft (DVD / DVB), werden diese wohl
+alle optische S/P-DIF-Ausgaenge haben (hoffe ich doch mal stark).
+
+By the way: Weiss jemand, wo man laengere optische S/P-DIF-Kabel (ca.
+10m) preiswert herbekommt??
+
+- Nicolas
+
+---
+
+Nicolas "Jörg" Mesecke
+gkpghfff@soninyqztp.jj-kkymphpr.py
+Ride more roller-coasters!

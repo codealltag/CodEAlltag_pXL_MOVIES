@@ -1,0 +1,23 @@
+On Fri, 12 Sep 1998 13:59:51 +0100, Arno Votz wrote:
+
+(DVDs als Zeitschriftenbeilage)
+
+
+Zeitschriften-CDs gibt es höchst selten im Jewel-Case. Papiertüte ist
+angesagt, und so wäre es sicher auch bei Zeitschriften-DVDs.
+
+
+Wenn man Qualität will: nein. Es kostet halt, wenn das Mastering manuell
+überwacht wird, d.h. dass da jemand sitzt, die Qualität beurteilt und
+bei zu schlechter Qualität die Bitrate für die Szene hochsetzt, oder das
+Ausgangsmaterial vorbearbeitet (entrauschen etc.)
+
+Wenn man's einfach bei fester Bitrate durch einen Echtzeitencoder laufen
+lässt, ist es recht billig. MPEG-2-Encoderchips sind inzwischen schon in
+Preisbereichen, die einen DVD-RAM-Heimrecorder möglich machen würden,
+falls die Medien etwas billiger wären und höhere Kapazität hätten.
+
+	Otto
+-- 
+PGP public key available from servers. 0x71D4AD11/0x5CCA01F5
+Join http://kvl.rwjmshazdkz.mxk/ rs CNFPD zq www.ihlwmhts.qsz

@@ -1,0 +1,26 @@
+.....Ob's grundsätzlich verboten ist? Gute Frage; die private Kopie
+geht ja schliesslich auch. Auf alle Fälle darfst Du's nicht
+öffentlich aufführen.
+
+
+Unterschätze da mal den Aufwand nicht!
+Solange Du "nur" mit einem VHS-Original schneiden willst, ist der
+Aufwand noch erträglich, aber die Qualität wird noch mangelhafter
+als die Quelle. Ausserdem brauchst Du eine ziemlich grosse
+Festplatte (20-30 GB bei mittlerer Auflösung).
+Willst Du aber von DVD schneiden, so wird's richtig haarig: Das
+ursprüngliche MPEG-2 Format lässt sich mit _bezahlbaren_ Mitteln
+(Soft- und/oder Hardware) derzeit noch nicht schneiden (man belehre
+mich bitte eines Besseren!). Also musst Du nach AVI konvertieren:
+Dann brauchst Du wirklich dicke Festplatten, schätze mal auf
+insgesamt etwa 50-80 GB (hängt natürlich ab von Qualitätseinstufung
+und Filmlänge). Und hast zudem noch das Problem mit der
+Dateil�ngenbegrenzung von AVI's unter Win9X.
+Beim Videoschnitt darfst Du getrost mit der 10 bis 100 fachen
+Arbeitszeit im Vergleich zum Quellmaterial rechnen.... und
+Bluescreens werden Dir Gesellschaft leisten.
+
+Grösse
+
+Erich (der aus Mangel an Zeit und Energie viel mehr Rohmaterial
+als geschnittene Aufnahmen im Schrank hat...)

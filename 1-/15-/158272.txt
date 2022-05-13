@@ -1,0 +1,11 @@
+On Fri, 10. 11. 22 19:30:56 +0200, Pierre Aevermann
+
+IMDB 95 ist ein einziges Problem, eine Katastrophe in binärer Form.
+Jetzt wieder im Ernst: Derzeit geht es nur noch, wenn man die Ratings
+nicht konvertiert. "Star Wars" hat ca. 34.000 Stimmen. Und das ist
+nunmal mehr als 32.768 -> und tsch. Spricht Bände über dieses
+halbgare Stück Software.
+
+cu,
+
+  Jérôme

@@ -1,0 +1,5 @@
+Na klar, is ja auch kein Problem. Mut nur mal eben die entsprechende
+Stelle im Sourcecode ändern...
+
+SCNR
+Victor

@@ -1,0 +1,58 @@
+Hi!
+
+
+Der Film hat sich seitdem ja auch nicht mehr verändert. ;-)
+
+
+Permutationen sind Umordnungen, also sind die Permutationen von 123 z.B
+132, 213, 231, 312, 321. (Oder? Dann hat das aber nicht direkt was mit
+den Bewegungen zu tun)
+
+Die Bewegungen errechnet man folgendermaßen:
+Angenommen, ein Raum hat die Zahlen
+	 476        804       539
+Dann hat er die Anfangskoordinaten:
+        4+7+7      8+0+4     5+3+9  <-->  (18 , 12 , 17)
+Die erste Bewegung ist:
+  4-7    8-0    5-3        <-->        (-3 , 8 , 2)
+Die nächste Bewegung ist:
+  7-7    0-4    3-9        <-->        (0 , -4 , -6)
+Die dritte und letzte Bewegung ist:
+  7-4    4-8    9-5        <-->        (3 , -4 , 4)
+Und wie man leicht nachrechnet, ist der Raum nach diesen Bewegungen
+wieder am Anfangspunkt. (steht auch genauso auf der Seite dieses
+Mathematikers)
+Jetzt klar?
+	=
+
+
+Hm, wenn ich micht recht erinnere, waren die Räume sicher, wenn die
+Anzahl der verschiedenen Primfaktoren der 3 Zahlen eine Primzahl war
+(oder hieß es, wenn sie größer als 2 war?)
+Weinreuter hat also immer die Anzahl der verschiedenen Primfaktoren der
+Zahlen gesagt, und dann konnte ..das Mädchen, wie hieß sie noch?..
+erkennen, ob der Raum sicher war.
+
+
+Hm, weiß nicht mehr so genau, ich dachte auch eher, daß sich alle Rä=
+ume
+bewegen.
+
+
+Waren es nicht 27x27x27 für die Außenwand? Bin mir aber auch nicht me=
+hr
+so sicher.
+
+
+Die Quersumme der 3 Zahlen war die Urspungsposition eines Raumes.
+
+PIETRO
+guido
+
+-- =
+
+Homepage: http://nszp.r-mkuz.qg/vrmciw.idqmid
+  EMail: Jpkqk.ChAgr@gsi.jyg  -  ICQ: 06567532
+
+Wer hier nicht lachen kann, soll hier nicht lesen!
+Denn, lacht er nicht, packt ihn "das böse Wesen".        (Interwies)

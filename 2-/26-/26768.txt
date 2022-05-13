@@ -1,0 +1,19 @@
+Die Idee finde ich nicht so toll. Besser waere es, wenn man sich
+unabhaengig bei einer entsprechenden "Gebuehrenstelle" anmeldet. Wer es
+nicht tut, riskiert (wie heute schon), verklagt zu werden.
+
+Die Vorteile:
+
+1. Es bekommt nicht jeder einen kastrierten Anschluss (mit Portsperre),
+nur weil er *keine* Medien ueber P2P nutzen will (wer nur Santl-Images
+downloaden oder seine eigene Software verteilen will, muesste bei dir
+auch blechen),
+
+2. Man muss nicht staendig die Port-Liste erneuern,
+
+3. Auch FTP/HTTP-Downloads koennten abgedeckt werden,
+
+4. Die MI kann nicht ueber ueberhoehte Preise versuchen, P2P endlich den
+Garaus zu machen.
+
+	Eduard

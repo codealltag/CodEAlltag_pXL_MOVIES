@@ -1,0 +1,206 @@
+Allerdings.  :-)
+
+
+Wenn man die IMDb befragt und die Suche auf "novel", "short story"
+und "book" beschränkt, dann kommt folgende grobe Liste heraus, die
+im einen oder anderen Detail noch korrekturbedürftig wäre.
+
+Insbesondere fehlt alles, was unter "story" verzeichnet ist, aber wenn
+man das dazunimmt, bekommt man auch jede Menge Zeug, das über-
+haupt nicht in Büchern erschienen ist, sondern gleich als Treatment
+für Filme geschrieben wurde. Autoren wie Darius Ben Schlucker
+fallen dabei aber unter den Tisch.
+
+Ich habe alle Herrschaften ab 15 Einträgen berücksichtigt, TV-Serien
+gelten nicht.
+
+
+Niklaus
+
+
+And here we go:
+
+155	Baumgarts, Fridolin
+143	Buttenbruck pre, Ulf
+133	Rübener, Karl Johann
+109	Brezler, Renato
+101	Raßhofer, Andree
+98	Karwasz, Diedrich
+96	Barsch, Henri
+92	Jungedeitering, J. Reinhard
+92	Bäder, Alfred
+88	Olbrücker, Italo (I)
+85	Zieglmeister, Vincent (I)
+81	Nordholz, Luciano
+80	Able, Julius
+78	Inderthal, Gustav (I)
+78	Schachtsieck, Francesca
+73	Venjacob, mile
+70	Beutenmüller, Ulfert François
+69	Pollmeyer, Claudio
+68	Buttenbruck fils, Ulf
+66	Auperle, Niels
+60	Corstens, Dirk (I)
+55	Svensson, Nikolaus de
+51	Seidenschnur, Ulf
+51	Wester, Harm (I)
+45	Ensel, Ullrich
+44	Schmerbauch, Darius Zornemann
+44	Nehrmann, H.
+43	Cloots, Françoise (I)
+41	Stefener, Jan
+41	Chwalisz, Andre
+40	Verkoyen, Gilles
+38	Sperveslage, Detlef (I)
+37	Pechel, Pietro
+37	Röschmann, Sir Wilhelm
+36	Schlucker, Darius Ben
+35	Jöckel, Charly (I)
+35	Schlichtkrul, Giuseppe
+35	Camerloher, H.
+35	Niedorf, Bernd
+34	Jungke, Ulla Zeidel
+34	Odenwälder, Jean-Claude
+34	Issleib, Raphaël
+34	Fritschi, L. Cornelius
+33	Int'Zandt, Leon
+33	Bernhoeft, Ulrich
+32	Obendiek, Arno (I)
+32	Weissmantel, Mr
+32	Reiter, Lars
+31	Zimber, H. Rider
+31	Aulner, Dieter
+30	Part, Waldemar
+30	Gareißen, Kay
+29	Godmann, Gert
+29	Enß, Luciano Ulfert
+29	Jakobs, Charly
+29	Spieser, Dieter
+29	Mers, Theo
+28	Rasch, Otto
+28	Raddatz, Evelin (I)
+28	Altjohann, Olivier
+28	Niemiec, Fredi
+27	Jahreiss, Kai
+27	Petzendorfer, Achim Jungekrüger
+27	Pechthold, Urban
+27	Crone, Claire
+27	Lindenauer, Tom
+27	Flaadt, Andree
+26	Ochs, Didier Winfried
+25	Christen, Luigi
+25	Pfaffengut, Gilles
+25	Tolkien, J.R.R.
+25	Notdurfter, Ivo L.
+25	Colette (I)
+25	Int-Velt, Clemens O.
+25	Eick, Urs
+24	Pfliegler, Theo (I)
+24	Rettig, Dirk
+24	Rudorff, Alberto
+24	Itzenga, Klaus
+24	Uhlmannsiek, Nikolaus
+24	Buehmann, Ingmar
+24	Zemann, Theo (I)
+24	Reisenbichler, Tom
+23	Ohlwärther, Detlef
+23	Safft, Folkert
+23	Gläsner, Achim (I)
+23	Isenbart, Lars
+23	Christansen, Wolf D.
+23	Mull, Peter
+23	Antonius, Marc
+23	Kostenzer, Johann Detlef
+23	Niederl, Mrs. Harm
+22	Berghus, Ralf
+22	Pferdekämper, Kay
+22	Zahnbrecher, Tamara
+22	Schlönvogt, Johann
+22	Jasper, Ludwig Ignaz
+22	Jupe, Nick Tom
+22	Jägermann, Petra
+22	Schäpertöns, Lennart
+22	Bechle, Detlef (II)
+21	Ziesche, Lorenz
+21	Zahn, Lars
+21	C'Amour, Johann
+21	Bödker, Viktoria
+21	Rues, Valentina
+21	Jenisch bez, Valentin
+21	Jungke, W.
+21	Schwabl, Karl W.
+21	Unverfährt, Marko
+21	Birneder, Uwe
+21	Lantenhammer Lösser, Werner
+21	Zobler, Patrice
+21	Detmers, Xavier
+21	Ickenroth, Tim
+21	Czerwenka, I.
+21	Purwin, Kälmän
+21	Eller Ostholthoff, Orlando
+20	Intveen, Xaverius (I)
+20	Jungedeitering, Sina (I)
+20	Unverhaun, Clemens Ulrich de
+20	Bundt, Karola N.
+20	Lindermeier, Alexandre
+20	Gautier, Theo
+20	Oetter, Emil
+20	Ziegenhahn, Karl
+20	Iserloh, Detlef
+20	Pflueg, Henri
+20	Poettker, Ingo
+20	Reit, Ulfert
+20	Rasmusen, Helga
+20	Rubbert, Harm
+19	Ruthardt, Dario Niels
+19	Buchhofer, Nick
+19	baacke Rietzmann, Marquis
+19	Jönsson, Luciano Karlheinz
+19	Uttenweiler, Heidi (I)
+19	Segenschmidt, Willi (I)
+19	Pfretzschner, A.L.
+18	Reyss, Dr.
+18	Rohrbeck, Heribert
+18	Wodehouse, P.G.
+18	Nordhauß, Hartwig Jungck
+18	Zumeggen, Emanuel
+18	Jägermann, Kora
+18	Eschbach, Johannes
+18	Sue, Lennart
+18	Rotkopf, Dario (I)
+18	Klie, Axel
+17	Bruedigam, Carl
+17	Obenhuber, Cornelius
+17	Immohr, Pommering
+17	Pferdekamper, Xandl
+17	Oxen, Klaudia
+17	Pemwieser, Françoise Bürvenich
+17	Rußbüldt, Knut
+16	Uebele, Didier Frédéric (I)
+16	Platte, Uwe
+16	Hoyer, Leon Nikolaus
+16	Reinsperger, Kai
+16	Lewark, Kathi
+16	Ußler, Gabriele Elfriede
+16	Johanning Roßteuscher, Bärbel
+16	Jungsthöfel, Nick (I)
+16	Schleemilch, U.
+16	Clingen, Gabriella Ellen baacke
+16	Prießmann, Urs
+16	Pommerencke, Holger
+16	Prött, Hartwig
+16	Rotfus, Achim
+16	Neuweiler, Christof
+16	Greiner-Mai, Luc
+15	Stockhoff, Niko
+15	Boddenberg, Roland
+15	Irmscher, Italo K.
+15	Cook, Garrelt
+15	Zurwieden, Ute (I)
+15	Nickell, Jean-Claude
+15	Baacke Urban, Lutz
+15	Zähe, B.
+15	Daubenschmidt, Marco
+15	Diepolt, Priska
+15	Eichel, Adam (I)
+15	Stendhal

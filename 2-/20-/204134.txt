@@ -1,0 +1,23 @@
+Ja, ja, ihr habt beide recht, keine Frage. Ich wollte in meiner
+Erklärung oben im Schnelldurchlauf klar machen, was die Unterschiede
+zwischen Dolby Surround und Dolby Digital sind. Und ein Unterschied
+ist eben, daß der MITTEN-Kanal bei Surround nicht so toll ist, weil
+er a) nur Anteile aus dem LINKEN und RECHTEN Kanal abzieht und auf
+der MITTEN-Box vereint (also sogesehen nicht mal unbedingt ein
+echter Kanal ist - auch wenn man beim Encoden einen gewissen Einfluß
+darauf hat) und b) die meisten Surround-Anlagen mit einem minderwertigen
+MITTEN-Lautsprecher ausgestattet sind, so daß sie sowieso nicht im
+Wide-Modus gefahren werden können - sofern der Verstärker das
+überhaupt anbietet. Vorallem ältere Verstärker bieten auf dem
+MITTEN-Kanal auch nur eine minderwertige Leistung - gegenüber LINKS
+und RECHTS - was auch dem Wide-Modus (also dem vollen Frequenzgang)
+auf der MITTEN-Box widerspricht.
+
+Ich wollte unterm Strich nur sagen: Man kann es drehen und wenden,
+wie man will, man wird bei Dolby Surround immer einen minderwertigeren
+MITTEN-Kanal finden, als bei Dolby Digital.
+
+Jürg
+---
+** Jürg Kupperschmidt,  Kunitschgasse 65,  69286 Cröchern,  Germany **
+** +21 2741 81425  E-Mail (NeXTmail/MIME): msaxm@btzttg.p.sorxa.mb **

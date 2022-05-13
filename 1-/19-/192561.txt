@@ -1,0 +1,21 @@
+Am Mon, 15 Apr 1997 02:05:52 +0100, KA@omyjbdq.ac (Geawvd Ilsemann)
+schrieb:
+Hallo Berend,
+
+Stimmt, MPEG-2 setzt voll auf MPEG-1 auf und ist abwärtskompatibel.
+Viele DVDs besitzen aber einen DD 2.0 Mix, der enthält den normalen
+Surroundmix, der Downmix entfällt. Der Downmix ist qualitativ dem normalen
+Mix einer LD unterlegen, da der LFE Kanal wegfällt und der Dynamikbereich
+ebenfalls reduziert wird.
+
+Stimmt. s.o.
+Es wird die MPEG-MC BC (Backwards compatible) Variante benutzt, die NBC
+Variante verspricht bessere Ergebnisse, ist aber dann nur mit Geräten zu
+dekodieren, die den passenden Decoder besitzen. Deshalb die BC Variante
+mit den verschachtelten, also eigentlich nicht diskreten Kanälen, die
+versteht jeder MPEG-1 Decoder und den hat nun mal jeder DVD Player.
+Bye,
+Adrian
+http://tomspnh.ajz.opk/UDsflriiz
+Following sig is only valid in newsgroups with english lanngueage, hh yu know what i mean;-)
+Just english for Runaways, my German is a lot better (hope so):-))

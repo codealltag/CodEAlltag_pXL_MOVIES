@@ -1,0 +1,4 @@
+es gibt bei einem computer aber nicht's dazwischen, es müsste ein array
+definiert werden, welcher eine skala imitiert, wie zb. eine cd einen
+analogen
+datentr�ger imitiert. die kann aber nie so genau sein wie etwas analoges...

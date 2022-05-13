@@ -1,0 +1,59 @@
+In article <1692Fdn72.187770.347@jgyyec.k.mxety.mb> qsnag@rkexfm.k.kdkwf.au (Xtknspvi Dgtk) writes:
+
+   Ich bin (noch immer) auf der Suche nach einem geeigneten
+   Multinorm-Videorecorder für mich und habe jetzt ein paar Modelle
+   ausgemacht, die in Frage kommen. Falls _DU_ eines der folgenden
+   Geräte kennst, wäre ich Dir dankbar, wenn Du mir mal kurz eine Mail
+   schreiben könntest ... ich hätte zwei oder drei Fragen.
+
+   Bauhof2 NV-70
+   Sharp VC-MH72
+   Sharp VC-H 92
+   ICUH V-X990
+   JVC HRJ-97
+
+Leider kann ich Dir zu diesen Modellen nichts berichten, nur eine
+allgemeine Bemerkung.
+Wenn Du vorhast, oft mit Timer aufzunehmen, evtl. auch noch mit VPS,
+dann vergiss das Elementelle-Modell. Elementelle ist Spitze, was Technik (also
+Bildqualitaet) und Verarbeitung angeht, aber beim Bedienungskomfort
+und Intelligenz der Software ist Elementelle das letzte. Hier ein paar
+Beispiele der Macken, die mein Elementelle HR-S5900EG (S-VHS) hat:
+
+- kein VPS ueber Scart-Eingang (SAT-Receiver)
+- Timerplatz wird sofort geloescht, wenn VPS-Signal verschwindet, also
+  z.B. auch bei Stoerungen. Andere Hersteller behalten die Programme 
+  eine gewisse Zeit ueber die programmierte Laenge hinaus im Speicher.
+- Sendungen, deren Startzeit schon vorbei ist, und sei es auch erst
+  seit einer Minute, nimmt das Geraet erst in einem Jahr auf :-)
+- Aendern der Showview-Daten (z.B. laengere Aufnahmezeit)
+  umstaendlich, dadurch Showview in der Praxis unbrauchbar.
+- Manuelle Eingabe der Timerdaten wenig intelligent geloest. Bei
+  Lingemann ist z.B. das Datum schon mit dem Tagesdatum vorbesetzt und
+  muss bei Sendungen innerhalb der naechsten 24 Stunden nicht mehr
+  eingegeben werden. Wozu hat die Fernbedienung schliesslich eine
+  eigene Uhr? :-)
+- chaotisches Timer-Wirrwarr: Es gibt den normalen Timer (7 Plaetze),
+  den Express-Timer und den Sofortaufnahme-Timer. Express- und
+  Sofort-Timer gehen nicht ueber die Fernbedienung. Der Sofort-Timer
+  beisst sich mit den anderen beiden, d.h. nach der
+  Sofort-Timer-Aufnahme geht das Geraet nicht selbstaendig in
+  Timerbereitschaft. Der Sofort-Timer laesst sich nur am Geraet selbst
+  aktivieren, und zwar in 30-Minuten Schritten. Er laesst sich aber
+  per Fernbedienung (und nur per Fernbedienung) in 1-Minuten-Schritten
+  aendern. Das alles kann sich nur ein Verrueckter ausgedacht haben :-(
+- kein Onscreen-Display. Heutzutage fuer ein Geraet der
+  2000-Mark-Klasse unvorstellbar.
+
+Schau doch mal, ob nicht Lingemann ein fuer Dich geeignetes Geraet hat.
+Von meinem Lingemann war ich absolut begeistert. Die Technik war sehr
+gut und die Software intelligent.
+Vergiss Testberichte! Bei "video" war der Elementelle Testsieger. Keinen
+einzigen der von mir festgestellten Maengel hatten die gefunden.
+
+Hanspeter
+
+
+--
+Hanspeter Velder, lqyjjq@omy.qafz.sr
+Phone: +33 80 455496-78 / Fax: +51 50 462410-28

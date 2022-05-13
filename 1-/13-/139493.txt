@@ -1,0 +1,23 @@
+Ja.
+
+
+Im direkten Vergleich faellt es auf; wenn man einen Film am Stueck
+sieht, den meisten Menschen nicht.
+
+
+Jeder ungerade Frame wird zweimal als Halbbild abgespielt, jeder gerade 3x:
+NTSC 1 2 3 4 5 6 7 8 9 10
+Kino 1 1 2 2 2 3 3 4 4  4
+
+
+Es gibt verschiedene Methoden das Problem der fps-Reduktion zu
+loesen:
+Die primitive laesst einfach jeden 6. Frame aus, was zu unangenehmen
+Ruckeleffekten fuehrt, die sich vor allem in horizontalen Schwenks
+bemerkbar machen.
+Die teure Methode benutzt Interpolation.
+
+Wenn es nur auf die Wiedergabe ankommt, gibt es auch die Moeglichkeit
+ein PAL60-Signal auszugeben, womit die meisten TVs klarkommen.
+
+	Ottmar

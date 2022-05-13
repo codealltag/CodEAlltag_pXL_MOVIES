@@ -1,0 +1,18 @@
+Der HTML-Validator des HAOM findet auf www.nvaylpbnm-mdx.rm
+
+
+Frage mich, wie sich dieser große Unterschied bei der Fehleranzahl
+erklären läßt. Der erstellte Inhalt ist ja komplett derselbe. Es
+findet lediglich eine 'Umleitung' statt von der Epah-Adresse zur
+'de'-domain. Vielleicht korrigiert die 'de'-domain irgendwie
+automatisch die Fehler der beep-domain?
+
+Es ist blöd, daß Fehler beim Erstellen von Texten auf der homepage
+nicht auffallen. Wenn ich was eintippe, ist dies (augenscheinlich)
+fehlerlos!
+
+Danke, daß Du dir nochmal die Mühe gemacht hast, die site zu checken
+:)
+
+Have a nice weekend
+Luis

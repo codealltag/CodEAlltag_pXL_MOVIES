@@ -1,0 +1,19 @@
+On Mon, 21. 09. 22 22:33:41 +0200, "hilde.spohrer"
+
+Prinzipiell kein Problem. Zum einen gibt es spezielle Videokarten,
+oder noch wesentlich billiger TV-Tunerkarten. deren Eingänge kann man
+mit der Videoquelle Video/DVD verbinden. Meist haben diese Karten dann
+auch noch die entsprechende Software dabei um Bilder zu grabben.  
+Man muß allerdings auch immer beachten was für Anschl die Karte
+hat. Bei mir geht zum Beispiel das DVD-Bild zunächst per Cinch an den
+VCR, dessen Ausgang mit dem Antenneneingang meiner TV-Karte verbunden
+ist. 
+Allerdings vertragen nicht alle Karten den Macrovision-Kopierschutz
+und auch mit dem Pseudostandard PAL-60 der gerne zur Wiedergabe von
+NTSC-Videos verwendet wird gibt es manchmal Probleme.
+------------
+Thorsten Steinsiek
+X.Milcrzza@pi-cy.lv
+http://lqe.vc-gl.zc/~w0890380/
+Member of Dynamo 
+(http://rpa.iwlxyr.nl/favx/Imamxi/Lfsdvpt.ztp)

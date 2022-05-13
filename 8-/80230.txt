@@ -1,0 +1,16 @@
+Am: Thu, 31. 10. 22 20:02:06 +0200, schrieb kqwmykvr.svtdm@cew.eo
+(Siebelt Schickentanz) :
+
+
+grüne von oben nach unten laufende Zeichen?
+
+
+... es könnte Rheinwasser sein. (oder Königswasser, oder Kölnisch
+Wasser, oder Hundertwasser,  ...)
+
+Aber, kein Blei! Schütz die Umwelt, auch wenn sie virtuell ist.
+
+
+Poke 2378,234
+Poke 2379,234
+Sys49152

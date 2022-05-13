@@ -1,0 +1,25 @@
+Ist das nicht auch der empirische Befund?
+
+
+Hier würde ja die Qualität mit der Versionsnummer exponentiell steigen, 
+ist das so von Dir beabsichtigt?
+Wenn Du exponentielles Fallen meinst, muß die Konstante unbedingt 
+kleiner 1 sein.
+
+
+Außerdem spielt die Normierung der Qualität eine wichtige Rolle. Ich 
+würde vorschlagen, Qual=1 ist das Optimum. Mit der Formel
+
+Qual = const^(version - 1)
+
+wäre das dann automatisch bei Version=1, also dem ersten Film der Reihe 
+erledigt.
+
+Um jetzt aber entscheiden zu können, ob ein exponentieller oder 
+hyperbolischer Abfall vorliegt, sind entweder theoretische Überlegungen 
+oder ein überprüfen der Formeln am experimentellen Befund der imdb 
+notwendig.
+Irgendwelche Statistiker hier, die unterbeschäftigt sind?
+
+Ciao
+Peter

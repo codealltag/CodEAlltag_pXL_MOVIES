@@ -1,0 +1,18 @@
+ganze
+
+man lese was ich geschrieben hab, die verwenden den alien computer,
+vielleicht hat das ding ja einen offenen code (um der verenglischung
+keinen vorschub zu leistern), solang du ihr systhem durchschaust,
+egal mit welchen zeichen oder wortl�ngen es arbeitet kannst du
+ja eine bekannte programmiersprache dr�bersetzen, z.b. C, wenn du
+in C programmierst musst du ja auch nicht wissen was auf der maschinen-
+ebene passiert, das haben halt die in dem N2000 dings einmal rausgfunden
+und haben C oder so dr�bergsetzt und der hampel was den virus baut
+verwendet nur noch die höhere programmiersprache, und jetzt kommst du :-)
+
+
+der informatiker sollte lieber versuchen eine lösung für das problem
+zu finden als zu sagen das geht nicht.
+
+
+s.o. läuft alles über ne grafikbib von C :-)

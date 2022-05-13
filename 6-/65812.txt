@@ -1,0 +1,3 @@
+Man darf nicht vergessen, dass es auch nulldimensionale Objekte gibt.
+
+Sébastien

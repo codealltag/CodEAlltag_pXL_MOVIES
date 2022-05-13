@@ -1,0 +1,5 @@
+Ist hier BITTE jemand der JZWO erklärt wie man Outlook Express so
+konfiguriert, dass er auch richtig quoten kann (zumindest den Text, auf
+den er sich bezieht, zitiert).
+
+Enno

@@ -1,0 +1,11 @@
+Na ja, aber auch nur in der Theorie. An mehreren Fernsehern, mit denen
+ich getestet habe, war zwar das RGB-Bild einen Hauch klarer und
+rausch�rmer  aber gleichzeitig auch viel unschärfer und dunkler als
+mit S-Video-Verbindung. Leider werden bei Anschluß via RGB bei den
+meisten Fernsehern automatisch auch die Einstellmöglichkeiten für
+Bildschärfe und Farbsättigung deaktiviert, sodaß man nicht einmal
+nachregeln kann. Ich kann jedem nur empfehlen, auf seinem Fernseher
+erst einen Direktvergleich S-Video/RGB zu machen und dann die
+geeignetere Verbindung zu wählen.
+
+Marko

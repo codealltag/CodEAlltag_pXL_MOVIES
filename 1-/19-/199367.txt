@@ -1,0 +1,14 @@
+Hallo,
+
+ich habe da mal eine Frage zu AC-3. Die Lautsprecher lassen sich ja auf
+small und large stellen. Ist die Filtercharakteristik bei allen Dekodern
+gleich oder gibt es Unterschiede? (Frequenz, Flankensteilheit)
+Der Drumline macht z.B. Main,Center, Surround 100Hz/12dB und beim Sub
+100Hz/24dB.
+Da ich noch keinen Subwoofer habe wuerde mich ausserdem interessieren ob
+es ein Unterschied ist wenn man den Sub am LFE anschliesst oder am Front
+Ausgang des Dekoders zusammen mit den Hauptlautsprechern.
+
+Danke
+
+Enrico

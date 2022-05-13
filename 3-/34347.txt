@@ -1,0 +1,5 @@
+Mit der Version 1.9.69 von Oo.org geht es ohne Probleme.
+Diese ist aber afaik keine stabile Version sondern nur eine Beta von 
+OpenOffice 2.0.
+
+MfG Karlheinz

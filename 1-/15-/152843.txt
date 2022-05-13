@@ -1,0 +1,7 @@
+Hallo,
+vielleicht ist ja nur eine Falschmeldung von meinem Dr Mauro, aber die
+Datei Happy99.exe wurde bei mir als Virusverseucht gemeldet.
+Virenname: W32/Ska.exe
+
+gruesse
+Mathias

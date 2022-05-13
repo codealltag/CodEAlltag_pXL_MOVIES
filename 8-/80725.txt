@@ -1,0 +1,32 @@
+RGB
+
+Rot
+Gelb
+Blau
+
+mit diesen Farben kann man ALLE (diskutier nicht rum, das ist so. Hat 
+Biereichel mit JPJ ausgemacht :-) ) Farben darstellen
+Stells dir wie ein Kochrezept vor: 3 Teile blau und 1 Teil gelb gibt ein 
+ganz bestimmtes dunkles grün
+
+
+ja sehr viele
+
+
+denk mal nach
+der Zahlenwert pro Farbe bestimmt jetzt nur noch, wie hell der Farbanteil ist
+Wie weit kann man im normalen Dezimalzahlenraum zählen, bist die 8stellige 
+Binärzahl zuende ist? Soviele Helligkeitsabstufungen für jede der drei Farben 
+ist das dann
+
+
+Natürlich gibts blöde Fragen
+Wer hat dir den beigebracht, das es keine blöden Fragen gibt? 
+
+Gruß
+        Luciano
+-- 
+Luciano Bargmann
+Lebtig 
+Alef
+Untheim

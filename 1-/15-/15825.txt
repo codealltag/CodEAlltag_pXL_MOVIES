@@ -1,0 +1,10 @@
+Mit Board-Mitteln kann kein Windows mit XviD umgehen. Man muss immer
+Codecs installieren, neben Xvid selber sind z.B. DivX, HDX4 und 3ivx
+kompatibel. Gibt als mehrere.
+
+Wenn Du immer mit Koschke kompatibel sein willst, gibt es nur WMV. :(
+
+Mein Vorschlag waere: Flash Video 1!
+
+Gruesse,
+Tilse

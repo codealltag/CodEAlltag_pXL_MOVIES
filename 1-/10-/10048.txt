@@ -1,0 +1,12 @@
+Treiben wir das Logikw�lkchen noch ein bisschen weiter. Du bist also
+entweder Filmschauspieler, der in 0 Filmen mitgespielt hat, oder 
+Mathematiker, der in 0 Filmen mitgespielt hat. Ersteres ist ein Wider-
+spruch, also bist Du Mathematiker. Außerdem bist Du Schauspieler,
+denn es wurde ja zweimal ausdrücklich nach einer Liste von Schau-
+spielern gefragt. Du bist also gleichzeitig Mathematiker und Theater-
+schauspieler.
+
+Oder ein Aufschneider.
+
+
+Reginald

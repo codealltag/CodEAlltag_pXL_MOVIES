@@ -1,0 +1,18 @@
+Nein, nach de.comp.tv+video
+
+ausgelesen
+Pixel.
+
+Hab zwar keine Kamara aber: 720 x 576 Pixel ist die normale digitale
+Umsetzung von unitel. "Wide" bedeutet ja nur, dass das Bild für die Aufnahme
+gestaucht wird, um die Fläche, auf der sonst ein schwarzer Streifen
+aufgenommen werden würde, für Bildinformation zu nutzen. Bei der Wiedergabe
+wird das Bild dann wieder in die Breite gezerrt. Trotzdem sind es 720 x 576
+Pixel an Informationen. Wenn das Bild, das du ausliest, im 4:3 Format
+verzerrt aussieht (also anamorph ist), ist das die volle Information.
+
+Kenn mich aber mit DV nicht aus. Bitte korrigieren, wo nötig :-)
+
+
+Gruß,
+Tom

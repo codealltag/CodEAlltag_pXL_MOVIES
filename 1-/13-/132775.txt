@@ -1,0 +1,26 @@
+Hi,
+
+
+Du meinst doch wohl eher NTSC-Format (Japan z. B. ist RC2 und AFAIK
+NTSC)? Da müsstest Du in der Heimkino-FAQ fündig werden. Meine
+bescheidenen Kenntnisse: Kinofilme laufen mit 24 Bildern pro Sekunde;
+werden durch Wiederholung einzelner Frames (damit man auf 30 Bilder für
+den NTSC-Standard kommt) auf die benötigte Anzahl "gestreckt" und laufen
+danach genauso schnell wie im Kino (ganz, ganz laienhaft erklärt). Bei
+der PAL-Umsetzung läuft der ganze Quatsch dann mit 25 Bildern pro
+Sekunde (4 % schneller als im Kino). Dadurch wird der Ton natürlich
+ebenfalls schneller. Irgendwo in d.r.f.h wurde mal ein Link zu
+Audiodateien gepostet, wo man den Tonhöhenunterschied sehr deutlich
+wahrnehmen konnte (beim THX-Verfahren sollte übrigens eine
+Tonangleichung vorgenommen werden). Gerade beim Soundtrack soll man die
+Tonhöhenveränderung mit entsprechendem Gehör sehr gut wahrnehmen.
+
+Ein Profi sollte Dir das besser (und wahrscheinlich richtiger) erklären
+können. Wie ich schon schrieb, gehören solche Diskussionen (merkt man
+das; seit ihr blöd oder was - das merkt doch keiner; RC2 ist b�hb�h
+etc.) in de.rec.film.heimkino zur Tagesordnung. Vielleicht liest Hinderk
+Ilert hier mit und postet oder schickt Dir verwertbarere
+Informationen.
+
+Größe
+Nils'

@@ -1,0 +1,10 @@
+Ich empfehle dir Pagnia VCR in der gepatchten Version. Damit lassen
+sich ALLE Streaming-Formate abspeichern (Quicktime, Real-Media,
+Windows-Media...). Du musst lediglich in der entsprechenden Seite im
+Quelltext die URL des Trailers raussuchen.
+
+Downloaden kannst du Streambox bei kyvoaiyks.hmt
+Aber nicht vergessen, vorher den (mitgelieferten) Patch aufzurufen,
+sonst funktionierts nicht.
+
+Ulf

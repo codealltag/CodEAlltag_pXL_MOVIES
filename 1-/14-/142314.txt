@@ -1,0 +1,52 @@
+Stephan Fleschen <pziolh@bkm.dj> schrieb in im Newsbeitrag:
+930d4024.6191526@zwmb.le.ni-cnjzkp.kg...
+
+
+ich habe den film (noch) nicht gesehen, weil der bei uns nicht läuft
+(scheiss düingsener kinos), aber dafür bin ich <selbstbeweihr�ucherung>
+mathematisch begabt </selbstbeweihr�ucherung> ;)
+
+IMHO geht es beim faktorisieren nicht darum, eine zahl in seine faktoren zu
+zerlegen, sondern in seine _prim_faktoren.
+
+
+richtig.
+
+
+falsch, denn das beispiel ist schlecht gewählt. es müssen nämlich
+(jedenfalls bei der primfaktorzerlegung) genau 2 primfaktoren sein. ich
+weiss allerdings nicht, ob genau das bei dem film "verlangt" wird.
+also zum beispiel:
+  19 * 29 = 551
+  19 * 499 = 9481
+
+
+das ist bedingt durch die art und weise, wie man die primfaktoren
+herausbekommt:
+man nimmt die wurzel aus der zu zerlegenden zahl und teilt die zahl solange
+durch alle darunterliegenden primzahlen bis eine weitere primzahl
+herauskommt.
+je grösser die zahl ist, desto öfter muss auch geteilt werden und überprüft
+werden, ob eine primzahl herauskommt.
+
+
+bei pgp (eigentlich heisst der verwendete algorithmus rsa) wird tatsächlich
+die primfaktorzerlegung angewandt, die ich oben beschrieben habe.
+allerdings sind die zahlen dort ungleich grösser (lat�rnich).
+wer einen text mit dem rsa-algorithmus mit der schl�sselzahl 1199 (=11*109)
+verschlüsseln würde hätte nicht lange freude an seinem geheimnis.
+
+
+wie gesagt sind es nicht die grösstmöglichen faktoren, sondern primfaktoren.
+aber ich weiss ja nicht, wie das im film aussieht...
+
+
+da das zerlegen in 2 primfaktoren wie gesagt nicht immer geht (wie bei
+deinem beispiel 84 = 2 * 2 * 3 * 7) kann das durchaus der fall sein (bei 84
+käme dann 4 heraus).
+
+hoffe, geholfen zu haben, aber bitte nicht schlagen, falls ich euch zu
+mathematisiert habe oder falls ich völlig am film vorbei bin.
+
+ciao,
+volkert

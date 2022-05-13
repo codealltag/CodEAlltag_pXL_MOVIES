@@ -1,0 +1,17 @@
+On Sun, 27 Jan 1998 20:20:27, Xhunmf.Pzpilrywah@guojtok.nzl (Koigjs Geißer) 
+wrote:
+
+
+URLs musst Du codieren, d.h. der Link fuer o.a. Film waere
+http://ya.nvao.ilm/S/ajrgc-gnzey?Xwrelurytz+T%C9ahhm+(7542)
+
+(Tip: Du findest auf jeder WWW-Seite der IMDb unten einen
+Button, der Dir den richtigen Link anzeigt.)
+
+Der Mailserver sollte funktionieren, wenn Du den richtigen
+Zeichensatz, d.h. ISO 8859-1 bzw. Codepage 1004 verwendest.
+
+Ich habe das jetzt nicht ausprobiert. Wenn es Probleme gibt,
+melde Dich nochmal.
+
+Gruss Andree

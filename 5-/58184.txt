@@ -1,0 +1,32 @@
+Ein weltweites Netz von eigenen Satelitten duerfte die Kosten
+des Systems sprengen, also werden bestehenden Satelitten
+Transponder gemietet. Die Orbits solcher kommerziellen 
+Satelitten sind meist bekannt. Zur Not schaut man sich mal
+eine Sat-Schuessel genau an und misst die Position, auf die
+sie zeigt, mal sorgfaeltig.
+
+Orbitalposition kann man also als bekannt betrachten.
+
+Traegerfrequenz: Kennt man den Transponder ist es schon
+hilfreich, ansonsten muss man halt nen Frequenz-Suchlauf
+machen. Sollte aber auch nicht laenger als einen Nachmittag
+dauern. 
+
+Modulationsverfahren: Mit etwas Erfahrung und Amateur-Funk-
+Heimwerker-Mitteln (evtl. muss man was Loeten/Basteln) wird 
+das ebenfalls herauszufinden sein.
+
+Und dann kann man langsam anfangen, den Datenstrom aufzuzeichnen.
+
+Merke: Es braucht nur *einen* das sich diese Arbeit macht, und
+schon ist es allgemeines Wissen, und viele koennen den Daten-
+strom aufzeichnen.
+
+Jedoch: ein gutes Verschluesselungsverfahren ist nicht so
+leicht zu knacken.
+
+Gruesse
+Ullrich
+
+-- 
+extra interrete nulla vita, et si ulla, non est ita.

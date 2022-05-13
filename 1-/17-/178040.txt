@@ -1,0 +1,25 @@
+On the stormy day of Wed, 05. 12. 21 21:36:16 GMT, thou, oh
+bcpgwdor@su-djvqdhyc.bsj, said thy word and thy word was:
+
+
+NTSC ist die Farbcodierungs-Norm, die in den USA verwendet wird.
+
+Zitat aus der Technik-FAQ von Folkert Fuhr:
+
+<<
+Hauptsächlich wird die NTSC-Farbcodierung heute auf ein SW-Bild mit
+525 Zeilen, von denen ca. 480 zu sehen sind, bei einer Wiederholrate
+von 60 Hz interlaced, also 30 Vollbilder je Sekunde, angewendet.  Das
+Composite-Signal (Kombination aus Luminanz und Chrominanz) besteht aus
+der Luminanz und der bei 3,58 MHz aufmodulierten Chrominanz. So wird
+es in den USA, Kanada und Japan verwendet.
+
+übrigens der Kürzel heisst "Never The Same Color" ;-)
+
+
+-- 
+-----Klaus "Theodor" Klassen---------------------
+"spitting lanes at rush
+beemer tries for a cut-off
+taste my righteous chain"
+<Full Throttle, Haiku Biker Section>

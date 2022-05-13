@@ -1,0 +1,8 @@
+die Frage ist, ob das dann ein echtes Anbieten von geschützten
+Inhalten ist. Es wird ja auch keiner auf die Idee kommen einen
+Proxy-Betreiber zu belangen, weil er eine illegale Web-Seite die ein
+Benutzer abgerufen hat, zwischenspeichert und diese an andere
+weitergibt.
+
+Ingolf.
+--

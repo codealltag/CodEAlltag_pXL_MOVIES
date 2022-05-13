@@ -1,0 +1,34 @@
+Es geht darum ab welcher Frequenz Baesse von den L/R/C/RL/RR Boxen zum
+Subwoofer umgeleitet werden. Ich hab z.B. Frontboxen die fast bis 30Hz
+runtergehen und moechte jetzt sicher nicht ein crossover mit 100Hz
+davorsetzen.
+
+Gut zu wissen. Das ist leider aber ganz und gar nicht selbstverstaendlich.
+Besser waer's halt noch wenn es nicht nur gross/klein gaebe, sondern frei
+einstellbare Uebergangsfrequenzen fuer mains/center/rears.
+
+Es gibt DVDs die per AC3 zwei Kanaele haben, die in Dolby-Prologic codiert
+sind. Ein guter AC3 Dekoder dekodiert DPL intern und gibt es diskret auf
+den 5.1 Anschlussen aus. Falls Du keinen DPL-faehigen AC3 Dekoder hast
+brauchst Du zusaetzlich einen externen DPL Dekoder.
+
+
+Gerade den AV-Verstaerker will man sich doch sparen mit einem integrierten
+Dekoder!
+
+
+Ach ja?  Es wird doch schon in MPEG gesendet. Da ist nur eine winzige
+Modifikation an der Set-Top-Box noetig um 5.1 roh auszugeben. Kann sein
+dass es noch 3-4 Jahre dauert bis es Sender gibt die das senden, aber
+was sind schon 3-4 Jahre bei einer so teuren Anschaffung?
+
+Ich habe gar keinen AV-Verstaerker. Ich habe einen guten Stereo-Verstaerker
+und gute Frontboxen, die ich auch weiterhin verwenden moechte. Den Schritt
+ueber einen separaten DPL Dekoder/Verstaerker moechte ich auslassen. Alles
+was ich brauch ist ein AC3/DPL-Dekoder, eine zusaetzliche 2- oder 3-fach
+Endstufe und (leider) einen kleinen A/D Converter um Video und TV anzu-
+schliessen.
+
+Muss so eine Bemerkung unbedingt sein?
+
+-kay

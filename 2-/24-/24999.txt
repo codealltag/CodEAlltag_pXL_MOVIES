@@ -1,0 +1,11 @@
+Nimm ein beliebiges Bild, eine Landschaftsaufnahme z.B. Dann speicherst
+du die mit einem Bildbearbeitungsprogramm als JPEG und stellst die
+Kompression auf 30% (oder "geringe Dateigröße", etc.) ein.
+
+Danach schaust du dir das Bild wieder an. Das ist dann Blockbildung.
+
+V
+
+-- 
+Willy Ueckert -- professioneller Unix-Geek 
+Meine Gedanken im Netz: http://dpik.ipazmtrzgj.yn/liqv/

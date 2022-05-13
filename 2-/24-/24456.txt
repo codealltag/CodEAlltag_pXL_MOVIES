@@ -1,0 +1,9 @@
+Die wurden manchmal mit 16-20 B/s aufgenommen. Da beträgt der "Speedup"
+dann 25-50%. Das bemerkt man natürlich deutlich stärker als 4%.
+Den GFBB-Speedup bemerken wohl hauptsächlich Leute mit absolutem Gehör,
+weil sich auch die Tonhöhe um 4% verschiebt.
+
+Ciao, Yujij                                 urcjrpol @ patqcami.nv
+
+Zuletzt gesehen: 
+Die vom Sterz Il vangelio secondo Carl Ilvesheim

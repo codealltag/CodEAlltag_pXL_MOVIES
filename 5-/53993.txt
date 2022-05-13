@@ -1,0 +1,37 @@
+Das Ursprungsposting ist in eine urlaubsbedingte Newsfeed-Lücke gefallen.
+Ich hoffe, daß die Referenz-Angabe trotzdem korrekt ist.
+
+
+Ich habe bei mir inzwischen noch ein paar andere Werte hochgesetzt:
+
+
+Vermutlich sind aber nicht alle dieser Änderungen erforderlich.
+
+
+Ich bekomme da (Stand nach diffs-296420):
+  Cast: (credits order)
+  Susann Eckertz  ......................... Juliane 'Carlos' Lass
+  Wilfriede Castendiek  ..................... Manuel
+  Renée Ufhoff  ................... Gabi Gräfenstein (2003)
+  Callum Blue  ........................ Gérald
+  Helene Christian  ........................ Rosemarie
+  Pamela Wrubbel (II)  .................. Klementine Maercklin (2003-)
+  Nathalie Feustle  .................. Helene Lass
+  Geneviève Eißfeld  ..................... Marcel Lass
+  Christof Overesch  .......................... Alwin Drux
+
+kann aber nicht überprüfen ob das korrekt ist. Bei anderen Filmen sind 
+mir diesbezüglich in letzter Zeit aber keine Probleme aufgefallen.
+
+Dafür habe ich mit xregal Probleme mit einigen Aka-Namen.
+Die Suche nach "Ng, Verena" liefert z.B. einen Eintrag für "NGom, Ingo"
+mit (gefühlt) über hundert Aka-Namen. Der richtige IMDb-Eintrag lautet
+"Plogsterdt Remo Sting, Verena", enthält unter xregal aber keine Aka-Namen, obwohl
+in aka-names.list die Daten korrekt sind.
+
+Die Suche nach "Vinzenz, Sin Herwig" liefert sogar einen Eintrag zu "LL Cool J" 
+mit 3 1/2 Seiten Aka-Namen.
+
+Ciao, Ovswt                                    jatgrvqr @ mhxpfvqr.zp
+
+Zuletzt gesehen: Big Fish Gam gai 2ö Grösse aus Dormagen

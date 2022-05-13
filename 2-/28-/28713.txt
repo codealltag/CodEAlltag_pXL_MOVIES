@@ -1,0 +1,8 @@
++ z.b. Texture Artists
+(Abgesehen davon das die ersten beiden Jobs eigenwillig beschrieben sind)
+Damit hast du schon fast die Hälfte der mit CGI beschäftigten Belegschaft ;)
+Durchschnittlich kommt dann noch auf jeden, der in einer dieser Aufgaben 
+  arbeitet, ein Techniker, der die nötige Software bändigt.
+
+Aber zumindest die Kosten beim Einrichten einer Renderfarm haben sich im 
+letzten Jahr deutlich reduziert. :)

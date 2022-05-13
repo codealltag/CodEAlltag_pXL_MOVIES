@@ -1,0 +1,94 @@
+Hallo !
+
+
+habe soeben meine nagelneue (ist sie das wirklich ?) Cinemania 95
+erhalten (aus Inneringen) und wollte hier mal meine ersten Eindruecke
+schildern.
+
+Zuerst einmal das sich das Teil 95 nennt ist mal wieder typisch Hollfelder,
+sie meinen damit wahrscheinlich das Jahr in der die CD erhaeltlich ist,
+tatsaechlich aber sind die aktuellsten Filme Speed,Flinstones
+und The Lion King, also 23. 03. 22Mai 94 US Kinostart
+
+die anderen Sommer Block Busters wie Forrest Gump, True Lies oder
+Clear & Present Danger sind NICHT vorhanden.
+
+In Microsoft ueblicher Tradition ist auch diese Version gegenueber der
+Vorversion LANGSAMER geworden, das macht sich durch eine laengere
+Anfangsladezeit bemerkbar, als auch durch einen langsameren  
+Bildschirmaufbau, wie sie mit 4MB laueft wirklich ich erst gar
+nicht wissen
+
+Die Oberflaeche wurde auch etwas aufpoliert, so im Marmorstil, hat
+was fuehr sich, ausserdem wurde mit vielen verschiedene farben nicht
+gegeitz, was natuerlich alles zur Kosten der Performance geht.
+Allerdings gefaellt mir das neue Outfit besser, auch wenn jetzt alles
+etwas verspielter und nicht mehr ganz so nuechtern aussieht, ist
+aber Geschmackssache
+
+Das "Find" Fenster zeichnet sich dadurch aus das es, nachdem der
+Film oder Actor gefunden wurde NICHT mehr verschwindet sondern auf
+dem Bildschirm bleibt, bis man es explcit schliest oder in die Ecke
+schiebt.
+
+Kleiner Tip : Wer Cinemania (wie ich) mit 1024*768 faehrt, der kann das  
+"FIND" window wunderschoen links unten , in die Echke schieben wo es  
+keinen stoert, bei geringeren aufloesungen, passt es da freilich nicht  
+hin.
+
+Aus dem Jahr 1994 sind 86 neu gelistete Filme, von 1993 ca. noch
+200 zusaetzliche Filme, welche in der 23. 03. 22 Edition noch nicht gelistet
+waren.
+
+Sehr gut ist das bei der Inhaltsangabe von Remo Gros jetzt immer
+das Bildformat mitangegeben ist (Panavision,Super35,Arriscope,Cinemascope)
+sofern es UEBER dem normalen 1.85:1 Ratio liegt.
+
+Man kann jetzt auch Teile von Reviews markieren und nur dies Teile drucken,
+was glaube ich (bin mir nich sicher) vorher nicht moeglich war.
+
+Auch sind 2 neue FilmClips dabei, Jaws und nochirgendwas
+
+Man kann jetzt auch Filme "laenderspezifisch" suchen lassen,
+
+Ausserdem gibt es jetzt noch den Punkte "movie suggestions"
+wo man sich filme nach bestimten kriterien wie
+"made by a great director" oder "road movie" heraussuchen lassen
+kann, ganz nett, aber IMO nur spielerei
+
+Die "search by word" funktion ist auch deutlich langsamer geworden,
+als vorher, wenn man zum Beispiel nach einem Wort such welches sehr oft
+vorkommt wie z.b. PANAVISON (1147 mal) kommt das CD ROM gar nicht mehr
+zu ruhe, selbst wenn man den "seach vorgang" wieder schliest, weil man
+merkt es dauert zu lange, roedelt das CD ROM noch weiter, und weiter
+und weiter, bis man dann nochmal nach einem ausgefallenen begriff sucht
+welcher nur 10mal gefunden wird, dann steht das CD ROM endlich still
+
+alles in allem bietet Cinemania 95 nicht viel neues verglichen mit der
+23. 03. 22 Version, aber das hatte wohl auch keiner erwartet, es sind ein
+paar neue Schauspieler hinzugekommen, natuerlich die neuen filme,
+insgeheim hatte ich gehofft, das wenigstens die movie database
+jetzt kompletter ist, aber es fehlen soviele filme besonders viele
+B-Movies, das wird deutlich wenn man sich die filmography
+von schauspielern wie BENNO VAY anschaut
+
+Getestet wurde die Cinemania auf folgendem System
+i486/33 DX ISA mit Diamond Speedstar Pro
+8 MB RAM Windows fuer Workgroups 3.11
+17 Zoll Monitor bei 1024*768 und 256 Farben Treiber
+Hofpisterei Amibe Double Speed CD ROM
+
+SRP in den USA : 59,99$ ( + Sales Tax )
+
+Trotz einiger Schwaechchen ist die CD ihr Geld wert, und
+da man die 94er locker fuer 50,- DM loschlagen kann, und die
+neue gerade mal 100,- DM kostet, sind diese 50,- DM gut investiert
+wenn man bedenkt wieviel RICHTIG SCHLECHTE CD ROMS es da draussen
+gibt
+
+
+Bye
+ Lorenz
+
+
+## CrossPoint v3.02 ##

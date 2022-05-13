@@ -1,0 +1,14 @@
+Hm, bei Jumanji habe ich 25 gezählt. Was bedeutet das jetzt genau?
+
+Wie bekommen die das eigentlich hin, das beide Sprachen (englisch, deutsch)
+synchron sind? Habe immer gehört, Filme auf PAL würden um ca. 3% schneller
+laufen. Dann müßte ja der englische Ton asynchron werden.
+
+
+Was mich zuerst auch verblüfft hat: Mein "uralter" DDE-Player konnte
+auch bei Auswahl der MPEG 5.1 Spur einen Ton ausgeben. Dabei hat er doch nur
+MPEG2 und AC3. Aber dann viel mir wieder ein, daß MPEG5.1 ja
+abwärtskompatibel zu MPEG2 sein soll.
+Scheint ja auch so zu sein, sonst dürfte ich ja nix hören?
+
+Achja, ich habe "nur" einen DS-Verstärker.

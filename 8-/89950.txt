@@ -1,0 +1,28 @@
+Hallo!
+
+
+Einmal kann es sein, daß nur vergessen wird, beides zu bewerben. Wenn 
+z.B. ein Kino einen DTS-ES Decoder eingebaut bekommt und die Techniker 
+den Rear-Center aus dem Dolby-Prozessor durch den ES-Decoder legen, 
+weiß vielleicht niemand etwas davon. Oder es wird vergessen. Letztlich 
+muß aber in jedem Fall etwas gebastelt werden und es setzt eine 
+einigermaßen moderne Grundausstattung voraus. Am verbreitetsten dürfte 
+in deutschen Kinos z.Zt. Dolby Digital EX mit einen SA10 Decoder sein. 
+Wenn das Kino nicht schon vorher DTS hatte, können sie auch mit einem 
+EX-Decoder schlecht DTS-ES zeigen (was aber auch nicht weiter tragisch 
+ist, denn jeder Film, der DTS-ES hat, kann auch als EX wiedergegeben 
+werden). 
+
+
+Prinzipiell schon, das wird in einigen Kinos ja auch so gehandhabt. 
+Teilweise müssen dafür andere beteiligte Geräte jedoch ggf. 
+nachgerüstet werden (z.B. Dolby CP500). Meistens wird wohl der 
+Einfachheit halber das Format beworben, von dessen Lizenzgeber man den 
+Decoder gekauft hat.
+
+Gruß
+Eberhard
+
+-- 
+"Respect the cock... and tame the cunt! Tame it!" 
+(Dominik B. Oetzel, magnolia)

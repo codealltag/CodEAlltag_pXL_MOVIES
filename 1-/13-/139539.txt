@@ -1,0 +1,16 @@
+Bei Vereinfachung des Problems auf Punktmechanik und bei Vernachlässigung
+des Luftwiderstands und anderer Formen der Reibung würde es der (punkt-
+förmige) Panzer mit folgender Geschwindigkeit (Betrag) tatsächlich genauso
+schaffen wie der (punktförmige) Jonathan:
+
+   v = sqrt(0,5*g*s*tan(a)) / sin(a)
+
+wobei s : zu überbrückende Entfernung
+            a : Schanzenwinkel gegen die Horizontale
+            g : Erdbeschleunigung
+
+Die Masse ist in dieser nullten Näherung wirklich egal!
+"Im Juli" ist aber trotzdem ein genialer Film ;-)
+
+Tschüss,
+Ihno

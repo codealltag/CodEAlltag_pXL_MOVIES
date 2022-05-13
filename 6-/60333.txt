@@ -1,0 +1,24 @@
+Hallo, alle, die die Offline-IMDb benutzen!
+
+Ich habe seit 2 Wochen Probleme mit der Datei biographies.list.
+Vielleicht kann mir ja einer helfen...?
+
+Seit dem Jahreswechsel (d.h. bei den letzten beiden woechentlichen
+Diffs) gab es haufenweise reproduzierbare Fehler beim Patchen dieser
+Datei.  Alle anderen List-Files klappten.  Ich habe mir dann gerade eben
+von meinem Maibachfarm-Mirror das *komplette* List-File gezogen (hier ist die
+Checksumme ok).  Aber wenn ich jetzt "make update-local" (aus dem
+aktuellen moviedb-3.23) drueberlaufen lasse zum Erstellen der Datenbank,
+kommt es mit hoher System-Load nach "Adding Biographies..."
+offensichtlich in eine Endlosschleife.
+
+Hatte jemand das gleiche Problem?  Und wie ist das zu beheben?
+
+Neugierig,
+
+   -volkert
+
+-- 
+  http://fnw-Umfkrg.bt/  *  http://Ajmxt90.ax/  *  http://ZsbxelEipx.eu/
+
+Outside is where the pizza comes from.

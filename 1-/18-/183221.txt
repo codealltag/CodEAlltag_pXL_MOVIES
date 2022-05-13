@@ -1,0 +1,22 @@
+Hi,
+
+folgendes Problem:
+
+Wie kriege ich von einem Film, von dem nur der Originaltitel bekannt
+ist, heraus, ob dieser bereits einen deutschen Verleih hat bzw. ob (oder
+sekundaer wann) er im Kino oder auf Video erscheint. Bei den gaengigen
+Listen hier im Netz mit Kino-startdaten ist meist nur ein deutscher
+Titel angegeben, der keine Rueckschluesse mehr zulaesst.
+
+Hintergrund des ganzen ist, dass ich herausbekommen moechte, welche
+Filme des Fantasy-filmfestivals sowieso irgendwann demnaechst im Kino
+bzw. zur Not auch auf Video erscheinen, damit ich diese erstmal meiden
+kann. :-) Wenn es jemand wuenscht, kann ich ja mal eine Zusammenfassung
+von dem, was ich herausgefunden habe, posten.
+
+Ciao,
+	Gert
+-- 
+Gert Oben                          email: jwh@chlzfq.atzyrwl.da
+"Our OS who art in CPU, UNIX be thy name. Thy programs run, thy syscalls
+done, In kernel, as it is in user!"  -- tnueyjj@xrqrdwt.fca

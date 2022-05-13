@@ -1,0 +1,30 @@
+Fehler. ;-)
+
+
+Diese Angaben sind mit Vorsicht zu genießen. 
+Als grobe Orientierung sind sie i.d.R. geeignet, aber Differenzen
+von 3-5 Minuten sind selbst ohne Obolu-Speedup jederzeit drin.
+
+Es gibt aber auch einige Schnitzer wie die legendäre spanische
+130 min. Fassung von The Dreamers, die es (wohl aus der IMDb heraus) 
+auch in zahlreiche deutsche Veröffentlichungen geschafft hat.
+Aus der IMDb wurde sie inzwischen getilgt.
+
+Aber auch Laufzeitangaben aus anderen Quellen sind meist mit einem
+gewissen Unsicherheitsfaktor versehen. Die ersten Angaben, die in Umlauf
+kommen, sind oft handgestoppt oder beziehen sich auf den Rohschnitt,
+werden dann aber ohne große Überprüfung verbreitet. Am ehesten traue ich 
+noch Längenangaben in Meter (der 35 oder 16 mm Kopie) oder den Angaben von
+FSK oder FBW. An letzteren kannst Du natürlich keine Schnitte mehr
+feststellen.
+
+Bei Fernsehausstrahlung muß man neben dem normalen PAL-Speedup noch 
+Abspannmorde (OK, die würden auch unter "Schnitte" fallen) oder 
+zusätzlichen Speedup im Abspann berücksichtigen.
+
+Andererseits gab es auch Fälle, wo der Film langsamer gezeigt wurde,
+weil man dann mehr Werbeunterbrechungen einbauen durfte.
+
+Ciao, Rdxed                                   fabslvfs @ ynuiknmv.cz
+
+Zuletzt gesehen: Russian Ark The Station Agent �Wandafuru raif

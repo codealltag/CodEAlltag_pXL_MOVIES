@@ -1,0 +1,226 @@
+NG-Statistik drfm für den Mai 2004
+erstellt mit einem Skript von Ben Angermeier.
+
+16/10: 2347 postings
+17/10: 2252 postings
+18/10: 1990 postings
+
+19/10: 1790 postings
+
+
+Autoren mit den meisten Postings (1790 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  66 | 4582 | 298.5 | Ludger Steenbreker            |  3.7%  xxxxxxxxxxxxx
+   2 |  58 | 1830 | 119.1 | Severin Ullerich        |  3.2%  xxxxxxxxxxxx 
+   3 |  53 | 1303 | 113.2 | Erik Pavl      |  3.0%  xxxxxxxxxxx  
+   4 |  46 |  949 |  76.2 | Bodo Schlehr         |  2.6%  xxxxxxxxx    
+   5 |  45 |  926 |  82.2 | Nick D. Fogt     |  2.5%  xxxxxxxxx    
+   6 |  42 | 2993 | 166.5 | Erik Kirchinger      |  2.3%  xxxxxxxx     
+   7 |  39 | 1121 |  77.6 | Maik Lauche       |  2.2%  xxxxxxxx     
+   8 |  37 | 1997 | 111.6 | Nils                 |  2.1%  xxxxxxx      
+   9 |  32 |  663 |  49.4 | Ingolf Nothroff        |  1.8%  xxxxxx       
+  10 |  30 |  732 |  53.5 | Wilhelm Angenlahr         |  1.7%  xxxxxx       
+  11 |  29 |  508 |  41.9 | wilfried eßwein          |  1.6%  xxxxxx       
+  12 |  28 |  802 |  58.4 | Jacques Kowall      |  1.6%  xxxxx        
+  13 |  27 |  614 |  53.4 | Pascal Geldermann         |  1.5%  xxxxx        
+  14 |  24 |  805 |  44.1 | Albert Altenhain        |  1.3%  xxxxx        
+  15 |  23 |  541 |  39.2 | Bodo Offental         |  1.3%  xxxx         
+  16 |  22 |  498 |  32.4 | Berthold Andres      |  1.2%  xxxx         
+  19 |  21 |  587 |  46.9 | Thomas A. Dünhölter       |  1.2%  xxxx         
+  21 |  20 |  286 |  30.7 | Manfred Rückbrod            |  1.1%  xxxx         
+  23 |  18 |  540 |  30.8 | David Thurmer    |  1.0%  xxx          
+  25 |  17 |  514 |  35.9 | Edmund Losensky          |  0.9%  xxx          
+  29 |  16 |  492 |  28.8 | Mauro Thurnher      |  0.9%  xxx          
+  31 |  14 |  338 |  19.9 | Fredi Unverfert            |  0.8%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (356 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+       10 |   6 |  1.7%  xx                                             
+        9 |   5 |  1.4%  x                                              
+        8 |   4 |  1.1%  x                                              
+        7 |   8 |  2.2%  xx                                             
+        6 |  11 |  3.1%  xxx                                            
+        5 |  11 |  3.1%  xxx                                            
+        4 |  25 |  7.0%  xxxxxxxx                                       
+        3 |  39 | 11.0%  xxxxxxxxxxxxx                                  
+        2 |  63 | 17.7%  xxxxxxxxxxxxxxxxxxxxx                          
+        1 | 144 | 40.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (169 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Nils                 |  18 |    59 | 10.7%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (169 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Nick Ungering           |   4 |   164 |  9.2%  xxxxxxxxxxxxxxxxxxxx
+   2 | Ingolf Uch        |   1 |   114 |  6.4%  xxxxxxxxxxxxxx      
+   3 | Emmerich Ungefucht         |   1 |    94 |  5.3%  xxxxxxxxxxxx        
+   4 | Nils Carlsen          |   2 |    93 |  5.2%  xxxxxxxxxxx         
+   5 | Ludger Steenbreker            |   2 |    90 |  5.0%  xxxxxxxxxxx         
+   6 | Detlef Klewinghaus       |   2 |    81 |  4.5%  xxxxxxxxxx          
+   7 | Ben Eichstetter         |   3 |    67 |  3.7%  xxxxxxxx            
+   8 | Mauro Edhofer        |   1 |    60 |  3.4%  xxxxxxx             
+   9 | Nils                 |  18 |    59 |  3.3%  xxxxxxx             
+  10 | Erik Pavl      |   3 |    58 |  3.2%  xxxxxxx             
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1790 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 114 | Persoenliche TopTen                     |  6.4%  xxxxxxxxxx
+   2 | 105 | Schlechteste Filme aller Zeiten         |  5.9%  xxxxxxxxxx
+   3 |  94 | Josef Inderhock KILL BILL           |  5.3%  xxxxxxxxx 
+   4 |  88 | Das Dokument des Grauens -23- Das Wesen |  4.9%  xxxxxxxx  
+   5 |  80 | Inhaltliche nderung durch Synchronisatio|  4.5%  xxxxxxx   
+   6 |  70 | VHS ab 18?                              |  3.9%  xxxxxx    
+   7 |  60 | Diskussion über "Identity" - *SPOILER*  |  3.4%  xxxxx     
+   8 |  58 | Finger weg von diesem Anhang            |  3.2%  xxxxx     
+   9 |  52 | Schlechteste Filme aller Zeiten (2)     |  2.9%  xxxxx     
+  10 |  43 | Kill Bill vierter Film von Iburg?   |  2.4%  xxxx      
+  11 |  39 | Siebelt Umbehaue gestorben               |  2.2%  xxx       
+  12 |  38 | TV-Highlights (16. - 30.04.2004)        |  2.1%  xxx       
+  13 |  36 | neue Gruppe rk.ybo.film.meinungen       |  2.0%  xxx       
+  14 |  35 | Trailer BETA                            |  2.0%  xxx       
+  15 |  29 | Kritik: Fluch der Karibik (2003)        |  1.6%  xx        
+  16 |  27 | Carola Stavenhagen im Alter von 101 Jahren|  1.5%  xx        
+  17 |  26 | Bester erotischer Film?                 |  1.5%  xx        
+  18 |  23 | Carola Stavenhagen ist tot                |  1.3%  xx        
+  20 |  22 | [SPOILER] Fluch der Karibik             |  1.2%  xx        
+  21 |  21 | Seltene Filme                           |  1.2%  xx        
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (169 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+    23 |   2 |  1.2%  xx                                                
+    22 |   1 |  0.6%  x                                                 
+    21 |   1 |  0.6%  x                                                 
+    20 |   2 |  1.2%  xx                                                
+    18 |   2 |  1.2%  xx                                                
+    16 |   2 |  1.2%  xx                                                
+    15 |   3 |  1.8%  xxx                                               
+    14 |   2 |  1.2%  xx                                                
+    12 |   5 |  3.0%  xxxxx                                             
+    10 |   4 |  2.4%  xxxx                                              
+     9 |   6 |  3.6%  xxxxxx                                            
+     8 |   5 |  3.0%  xxxxx                                             
+     7 |   8 |  4.7%  xxxxxxxxx                                         
+     6 |   8 |  4.7%  xxxxxxxxx                                         
+     5 |   9 |  5.3%  xxxxxxxxxx                                        
+     4 |  11 |  6.5%  xxxxxxxxxxxx                                      
+     3 |  21 | 12.4%  xxxxxxxxxxxxxxxxxxxxxxxx                          
+     2 |  16 |  9.5%  xxxxxxxxxxxxxxxxxx                                
+     1 |  44 | 26.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 330 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 111 | Sparmarkt Outlook Express      | 33.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  52 | Sugalu                        | 15.8%  xxxxxxxxxxxx             
+  45 | Forte Agent                    | 13.6%  xxxxxxxxxx               
+  19 | Netscape                       |  5.8%  xxxx                     
+  15 | MacSOUP                        |  4.5%  xxx                      
+  12 | Xnews                          |  3.6%  xx                       
+  11 | KNode                          |  3.3%  xx                       
+   9 | Gnus                           |  2.7%  xx                       
+   8 | 40tude_Dialog                  |  2.4%  x                        
+   8 | Forte Free Agent               |  2.4%  x                        
+   8 | Hamster                        |  2.4%  x                        
+   8 | slrn                           |  2.4%  x                        
+   7 | tin                            |  2.1%  x                        
+   4 | Pan                            |  1.2%                           
+   4 | MicroPlanet Gravity            |  1.2%                           
+   1 | Autogallerie.10                      |  0.3%                           
+   1 | Der beste.                     |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | CrossPoint [XP2]               |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+   1 | Autogallerie.20                      |  0.3%                           
+   1 | Sylpheed                       |  0.3%                           
+   1 | Noworyta News Reader           |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 81 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  16 | Forte Agent                    | 19.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | Sparmarkt Outlook Express      | 19.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  13 | Sugalu                        | 16.0%  xxxxxxxxxxxxxxxxxxxxx    
+   7 | Netscape                       |  8.6%  xxxxxxxxxxx              
+   6 | MacSOUP                        |  7.4%  xxxxxxxxx                
+   3 | Forte Free Agent               |  3.7%  xxxx                     
+   3 | Hamster                        |  3.7%  xxxx                     
+   3 | slrn                           |  3.7%  xxxx                     
+   3 | Xnews                          |  3.7%  xxxx                     
+   2 | KNode                          |  2.5%  xxx                      
+   2 | tin                            |  2.5%  xxx                      
+   1 | Gnus                           |  1.2%  x                        
+   1 | Opera7.10                      |  1.2%  x                        
+   1 | Der beste.                     |  1.2%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.2%  x                        
+   1 | MorVer                         |  1.2%  x                        
+   1 | Pan                            |  1.2%  x                        
+   1 | 40tude_Dialog                  |  1.2%  x                        
+
+
+Postingverteilung über den Monat (1790 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  83 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   2 |  92 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+   3 |  53 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+   4 |  64 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   5 |  60 |  3.4%  xxxxxxxxxxxxxxxxxxxxxx                              
+   6 |  32 |  1.8%  xxxxxxxxxxx                                         
+   7 |  55 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+   8 |  63 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   9 |  44 |  2.5%  xxxxxxxxxxxxxxxx                                    
+  10 |  65 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  43 |  2.4%  xxxxxxxxxxxxxxx                                     
+  12 |  34 |  1.9%  xxxxxxxxxxxx                                        
+  13 |  30 |  1.7%  xxxxxxxxxxx                                         
+  14 |  52 |  2.9%  xxxxxxxxxxxxxxxxxxx                                 
+  15 |  56 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+  16 |  57 |  3.2%  xxxxxxxxxxxxxxxxxxxx                                
+  17 |  32 |  1.8%  xxxxxxxxxxx                                         
+  18 |  28 |  1.6%  xxxxxxxxxx                                          
+  19 |  40 |  2.2%  xxxxxxxxxxxxxx                                      
+  20 |  60 |  3.4%  xxxxxxxxxxxxxxxxxxxxxx                              
+  21 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  22 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  23 |  54 |  3.0%  xxxxxxxxxxxxxxxxxxx                                 
+  24 | 108 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  25 |  97 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  26 |  64 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  27 |  39 |  2.2%  xxxxxxxxxxxxxx                                      
+  28 |  46 |  2.6%  xxxxxxxxxxxxxxxx                                    
+  29 | 144 |  8.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  30 |  87 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+
+tam
+
+Größe
+Urban

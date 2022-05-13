@@ -1,0 +1,8 @@
+Genauso wird das AFAIK gemacht, nur umgekehrt, die Kamera entfernt sich,
+während mit gleicher Geschwindigkeit auf das Objekt gezoomt wird. Müsste
+aber beides funktionieren.
+
+Udo
+
+-- 
+The meaning of life is to make me crazy.

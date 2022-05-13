@@ -1,0 +1,48 @@
+Der Unterschied besteht darin, dass bei Kinofilmen die beiden Halbbilder
+exakt zusammenpassen, bei Video aber nicht, weil sie zu
+unterschiedlichen Zeiten aufgenommen sind. Geht auch nicht anders, woher
+soll der Filmabtaster den Zwischenframe nehmen?
+
+
+Einen leistungsfähigen De-Interlacer brauchst Du nur, wenn Du Halbbilde=
+r
+die zu unterschiedlichen Zeiten aufgenommen wurden zu einem guten
+Vollbild zusammenfügen willst. Das ist bei Film nicht der Fall.
+Bei Film ist deinterlacing einfach, bei Video schwarze Magie.
+
+
+Funktioniert in der Praxis überraschend gut.
+Ebenso der drinky-Speedup: Es scheint allgemein noch nicht vielen Leuten
+aufgefallen zu sein, das es sowas überhaupt gibt. Kann so störend als=
+o
+nicht sein.
+Es wäre aber schon nett, wenn die Daten auf DVD 'vernünftig' gespeich=
+ert
+wären, (d.h. 24p, progressive) und dem Player oder sonstigen
+Darstellungsgerät überlassen bliebe, wie das ganze ausgegeben wird. D=
+as
+der 3-2-Pulldown erkannt und wieder rückgängig gemacht werden muss is=
+t
+schon hirnrissig.
+
+
+Genau richtig. Aber bleiben wir bei der Bezeichnung Halbbilder, es hat
+ja keiner gesagt, dass es zusammengehörende Hälften sind. Ich hab' au=
+ch
+nie verstanden, wie ein normaler Fernseher es schafft, daraus wieder ein
+halbwegs vernünftiges Bild zu machen. Oder: Warum zeigt ein normaler
+Fernseher keine Kammeffekte, und hat trotzdem vertikal mehr Auflösung
+als ein einzelnes Halbbild hätte?
+
+Da die historische Begründung für Interlacing schon lange nicht mehr
+gültig ist, wäre es eigentlich höchste Zeit, dass dieser Unsinn bee=
+ndet
+wird. Leider ist progressiv bei 25 Bilder/s keine Lösung, weil
+Bewegungen damit etwas sprunghaft rüberkommen. Ist bei Film akzeptabel,=
+
+bei vielen Fernsehbilder aber nicht. Deswegen sehe ich auf absehbare
+Zeit keine Möglichkeit, wie wir diesem teuflichen Hack entkommen könn=
+en.
+Mit HDTV jedenfalls noch nicht.
+
+Niclas Kerscher

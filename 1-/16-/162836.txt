@@ -1,0 +1,23 @@
+Problem: Die Produktionsausbeute sinkt gegen null. Wenn die
+Wahrscheinlichkeit, einen fehlerlosen Chip einer festen Grösse zu
+produzieren bei 10 Prozent liegt (Zahl vollkommen aus der Luft
+gegriffen), dann ist die Wahrscheinlichkeit, dass ein doppelt so grosser
+Chip auch fehlerfrei ist, gerade noch ein Prozent.
+Ich gehe mal davon aus, dass Alfatex einen Chip mit einer höheren Auflösung
+auf den Markt bringen würde, wenn sie könnten. An der Differenz zwischen
+Ankündigung und Verfügbarkeit sieht man aber, dass das nicht so einfach
+ist.
+
+Dass es auf Laserprojektoren rausläuft erzählen bisher nur die Leute vom
+FNKB/Kosmetikstüble- Joint Venture. Die haben zur Zeit aber noch nichts
+serienreifes vorzuzeigen. Haben wohl nur eine gewissen
+Aussenseiterchance, vielleicht auch deswegen, weil sie auf der falschen
+Seite des Atlantiks sind. 
+Sichtbare rechteckige Pixel sind nur ein Artefakt.
+Signalverarbeitungstechnisch gesprochen hat dann jemand den
+Tiefpassfilter vergessen. HP hat da wohl die grössten Probleme, da man
+ein optisches Tiefpassfilter braucht. 
+
+Adrian
+-- 
+Adrian Prössel www@jirtq.ed

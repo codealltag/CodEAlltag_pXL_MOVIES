@@ -1,0 +1,20 @@
+Da kann ich Dir leider nicht soo helfen, weil ich die Linux-
+Version benutze. Aber lustigerweise hatte ich auch letztens
+Probleme mit den neuen Listen, und zwar in der Datei src/moviedb.h
+beim Datenbankbauprogramm. Das beschwerte sich naemlich drueber,
+dass MAXTITLES zu klein sei. Ich hab's mal in der Datei auf
+400000 (frueher glaub ich 300000) gesetzt. Damit ging's dann.
+
+Vielleicht ist ja das selbe Problem in der Windows-Version auch.
+
+
+Cheers,
+
+   -mirko
+
+P.S.: Bitte stell Deine Zeilenlaenge mal auf ca. 75 Zeichen/Zeile an.
+
+-- 
+  Mirko Essich - Universitaet Tinnum
+  mailto:xzzoy@ngiewuegpr.axl-ge.eg,  ICQ: 21524796
+  http://jif.tqtn.fpy-yi.vh/~ylargg

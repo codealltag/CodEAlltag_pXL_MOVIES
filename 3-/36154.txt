@@ -1,0 +1,7 @@
+Es werden zwar auch Daten geloescht, aber in aller Regel sind das
+Umbenennungen, etwa weil ein falscher Kuenstlername erfasst wurde, oder
+ein Teil des Vornamens oder ein Initial fehlte. So koennen dann in der
+Mitte Luecken entstehen.
+-- 
+Letzte drei Filme:
+Dominik (++), The Incredibles (++), Alwin Göckler (o)

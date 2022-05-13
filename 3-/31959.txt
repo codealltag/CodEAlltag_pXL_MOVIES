@@ -1,0 +1,264 @@
+NG-Statistik drfm für den November 2005
+erstellt mit einem Skript von Roland Gerasch
+basierend auf UUR von Sergio Würst.
+
+29/10: 3439 postings
+30/10: 1931 postings
+31/10: 2724 postings
+01/11: 1746 postings
+02/11: 2078 postings
+03/11: 2494 postings
+04/11: 2645 postings
+05/11: 2541 postings
+06/11: 2041 Postings
+07/11: 2242 Postings
+08/11: 1720 Postings
+09/11: 2227 Postings
+
+28/11: 1811 Postings
+29/11: 1576 Postings
+30/11: 1074 Postings
+
+
+01/12:  658 postings  -38.73%
+
+
+Autoren mit den meisten Postings (658 Postings)
+
+ Pos | Anz | FUp |  Lin | KByte | Autor                 | Diagramm      
+-----+-----+-----+------+-------+-----------------------+---------------
+   1 |  35 |  28 | 1156 |  73.7 | Julius Kihne        |  5.3%  xxxxxxx
+   2 |  25 |  24 |  471 |  41.0 | Joël Mihl         |  3.8%  xxxxx  
+   3 |  20 |  17 |  674 |  40.0 | Knut Popinga      |  3.0%  xxxx   
+   4 |  13 |  13 |  307 |  24.4 | Joël Uthenwuldt         |  2.0%  xx     
+   5 |  12 |   4 | 1002 |  55.6 | Pascal                 |  1.8%  xx     
+   6 |  11 |   8 |  218 |  16.5 | Maximilian Jakop        |  1.7%  xx     
+   8 |  10 |  11 |  196 |  15.1 | Valentin Steinbrenner    |  1.5%  xx     
+  13 |   9 |  14 |  336 |  22.1 | Tom Cohrt            |  1.4%  xx     
+  19 |   8 |  11 |  188 |  11.0 | Italo Taggesell           |  1.2%  x      
+-----+-----+-----+------+-------+-----------------------+---------------
+
+
+Autoren mit wenig Postings (217 Autoren)
+
+ Postings | Autoren | Diagramm                                          
+----------+---------+---------------------------------------------------
+        1 |      97 | 44.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        2 |      50 | 23.0%  xxxxxxxxxxxxxxxxxxxxxx                     
+        3 |      22 | 10.1%  xxxxxxxxx                                  
+        4 |      15 |  6.9%  xxxxxx                                     
+        5 |       3 |  1.4%  x                                          
+        6 |       3 |  1.4%  x                                          
+        7 |       1 |  0.5%                                             
+        8 |       8 |  3.7%  xxx                                        
+        9 |       6 |  2.8%  xx                                         
+       10 |       5 |  2.3%  xx                                         
+       11 |       2 |  0.9%                                             
+       12 |       1 |  0.5%                                             
+       13 |       1 |  0.5%                                             
+----------+---------+---------------------------------------------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor              | FUp |  Avg. | Artkl | Undine | Diagramm     
+-----+--------------------+-----+-------+-------+--------+--------------
+   1 | Julius Kihne     |  28 |  0.80 |    35 |      2 |  5.1%  xxxxxx
+   2 | Joël Mihl      |  24 |  0.96 |    25 |        |  4.4%  xxxxxx
+   3 | Urban Zinhobl    |  19 | 19.00 |     1 |        |  3.5%  xxxx  
+   5 | Knut Popinga   |  17 |  0.85 |    20 |        |  3.1%  xxxx  
+   6 | Tom Cohrt         |  14 |  1.56 |     9 |        |  2.6%  xxx   
+   7 | Joël Uthenwuldt      |  13 |  1.00 |    13 |        |  2.4%  xxx   
+   8 | ujgc.pxtvhs.vo     |  12 | 12.00 |     1 |        |  2.2%  xxx   
+   9 | Italo Taggesell        |  11 |  1.38 |     8 |      1 |  2.0%  xx    
+-----+--------------------+-----+-------+-------+--------+--------------
+
+
+Autoren mit den meisten Threads (93 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Pascal                 |   7 |    27 |  7.5%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (93 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (658 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 |  42 | Filme mit Zeitmaschinen                 |  6.4%  xxxxxxxxxx
+   2 |  37 | Star Trek vs Star Wars                  |  5.6%  xxxxxxxxx 
+   3 |  33 | Mein Name ist Nobody & Nobody ist der Gr|  5.0%  xxxxxxxx  
+   4 |  32 | Ilnseher und Jaworski beim Dummlabern    |  4.9%  xxxxxxxx  
+   5 |  27 | Blade 2 bei Zeis: ab 18?           |  4.1%  xxxxxxx   
+   6 |  25 | Suche "Flucht ins 23. Jahrhundert"      |  3.8%  xxxxxx    
+   7 |  23 | Filme mit 2 Handlungsh�lften...         |  3.5%  xxxxxx    
+   8 |  20 | Mühlpforte "2001 - A SPACE ODYSSEE" in neu|  3.0%  xxxxx     
+   9 |  18 | Filmkritik: Der Machinist               |  2.7%  xxxx      
+  10 |  17 | Ende von Unbreakable                    |  2.6%  xxxx      
+  11 |  16 | Suche Film mit Szene über Verschlüsseln|  2.4%  xxxx      
+  12 |  14 | TV-Highlights (30. - 12.11.2005)        |  2.1%  xxx       
+  14 |  13 | TV-Highlights (27.11. - 10.12.2005)     |  2.0%  xxx       
+  15 |  12 | SciFi(?)-Film gesucht                   |  1.8%  xxx       
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (93 Threads)
+
+ Länge | Threads | Diagramm                                             
+-------+---------+------------------------------------------------------
+     1 |      24 | 25.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+     2 |       6 |  6.5%  xxxxxxxxxxx                                   
+     3 |      12 | 12.9%  xxxxxxxxxxxxxxxxxxxxxxx                       
+     4 |       9 |  9.7%  xxxxxxxxxxxxxxxxx                             
+     5 |       6 |  6.5%  xxxxxxxxxxx                                   
+     6 |       8 |  8.6%  xxxxxxxxxxxxxxx                               
+     7 |       3 |  3.2%  xxxxx                                         
+     9 |       2 |  2.2%  xxx                                           
+    10 |       1 |  1.1%  x                                             
+    11 |       4 |  4.3%  xxxxxxx                                       
+    12 |       4 |  4.3%  xxxxxxx                                       
+    13 |       1 |  1.1%  x                                             
+    14 |       2 |  2.2%  xxx                                           
+    16 |       1 |  1.1%  x                                             
+    17 |       1 |  1.1%  x                                             
+    18 |       1 |  1.1%  x                                             
+-------+---------+------------------------------------------------------
+
+
+Verwendeter Newsreader (Alle Postings, 616 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 111 | JUU                        | 18.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+ 109 | Jauns Outlook Express      | 17.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  87 | Forte Agent                    | 14.1%  xxxxxxxxxxxxxxxxxxxx     
+  86 | JUU Thunderbird            | 14.0%  xxxxxxxxxxxxxxxxxxxx     
+  38 | 40tude_Dialog                  |  6.2%  xxxxxxxx                 
+  24 | mutt-ng                        |  3.9%  xxxxx                    
+  22 | KNode                          |  3.6%  xxxxx                    
+  21 | Gnus                           |  3.4%  xxxx                     
+  21 | tin                            |  3.4%  xxxx                     
+  18 | slrn                           |  2.9%  xxxx                     
+  18 | yoefcl.clenzi.pwl              |  2.9%  xxxx                     
+  12 | Xnews                          |  1.9%  xx                       
+  12 | Pan                            |  1.9%  xx                       
+  10 | G2                             |  1.6%  xx                       
+   8 | XanaNews                       |  1.3%  x                        
+   7 | MacSOUP                        |  1.1%  x                        
+   3 | FCN M2                       |  0.5%                           
+   2 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   2 | JVL                        |  0.3%                           
+   2 | Jöhnk                 |  0.3%                           
+   1 | Jeansmarkt            |  0.2%                           
+   1 | Zilid                           |  0.2%                           
+   1 | UAD                     |  0.2%                           
+-----+--------------------------------+---------------------------------
+ 616 | GESAMT (23)                    |                                 
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(12 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+   3 | Jauns Outlook Express      | 25.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | JUU Thunderbird            | 16.7%  xxxxxxxxxxxxxxxxx        
+   2 | JUU                        | 16.7%  xxxxxxxxxxxxxxxxx        
+   2 | Forte Agent                    | 16.7%  xxxxxxxxxxxxxxxxx        
+   1 | mutt-ng                        |  8.3%  xxxxxxxx                 
+   1 | tin                            |  8.3%  xxxxxxxx                 
+   1 | Gnus                           |  8.3%  xxxxxxxx                 
+
+
+Postingverteilung über den Tag (658 Postings)
+
+ Std | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   5 |   1 |  0.2%  x                                                   
+   6 |  14 |  2.1%  xxxxxxxxxxxxxxxx                                    
+   7 |  19 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+   8 |  20 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   9 |  34 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  10 |  27 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  11 |  34 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  12 |  31 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  13 |  40 |  6.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  14 |  39 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  15 |  41 |  6.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+  16 |  44 |  6.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  17 |  44 |  6.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  18 |  37 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+  19 |  40 |  6.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  20 |  35 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+  21 |  37 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+  22 |  18 |  2.7%  xxxxxxxxxxxxxxxxxxxxx                               
+  23 |  37 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+   0 |  35 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+   1 |  17 |  2.6%  xxxxxxxxxxxxxxxxxxxx                                
+   2 |   8 |  1.2%  xxxxxxxxx                                           
+   3 |   3 |  0.5%  xxx                                                 
+   4 |   3 |  0.5%  xxx                                                 
+
+
+Postingverteilung über die Woche (582 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+ Mon | 101 | 17.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+ Tue |  80 | 13.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+ Wed |  62 | 10.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+ Thu |  58 | 10.0%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+ Fri |  96 | 16.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+ Sat | 119 | 20.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Sun |  66 | 11.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+
+
+Postingverteilung über den Monat (658 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  46 |  7.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   2 |  20 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   3 |  28 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+   4 |  34 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+   5 |  26 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+   6 |  13 |  2.0%  xxxxxxxxxxxxxx                                      
+   7 |  14 |  2.1%  xxxxxxxxxxxxxxxx                                    
+   8 |  22 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+   9 |  42 |  6.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  10 |   9 |  1.4%  xxxxxxxxxx                                          
+  11 |  31 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  12 |  18 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+  13 |  19 |  2.9%  xxxxxxxxxxxxxxxxxxxxx                               
+  14 |  11 |  1.7%  xxxxxxxxxxxx                                        
+  15 |  15 |  2.3%  xxxxxxxxxxxxxxxxx                                   
+  16 |  25 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  17 |  25 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  18 |  36 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  19 |  19 |  2.9%  xxxxxxxxxxxxxxxxxxxxx                               
+  20 |   7 |  1.1%  xxxxxxxx                                            
+  21 |   7 |  1.1%  xxxxxxxx                                            
+  22 |  18 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+  23 |  20 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  24 |  15 |  2.3%  xxxxxxxxxxxxxxxxx                                   
+  25 |  13 |  2.0%  xxxxxxxxxxxxxx                                      
+  26 |  24 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  27 |  32 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  28 |  32 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  29 |  11 |  1.7%  xxxxxxxxxxxx                                        
+  30 |  26 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+
+
+HTH ;-)
+Fridolin
+-- 
+"Véronique, I am holding in my hand a small box of chocolate bunnies."
+                                               Twin Peaks - Agent Johannvorderbrüggen

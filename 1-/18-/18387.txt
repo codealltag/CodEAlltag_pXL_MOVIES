@@ -1,0 +1,5 @@
+Mir fällt nur eine halbwegs passable ein: Die Roboter sollen sich auch
+gegenseitig erschießen können, bzw. soll man einem Roboter die Waffe
+wegnehmen und damit schießen können.
+
+Dennoch ist das natürlich eine ziemlich blöde Idee gewesen.

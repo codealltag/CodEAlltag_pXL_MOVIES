@@ -1,0 +1,26 @@
+Konrad Untersten-Westen wrote:
+
+Ich habe jetzt aber noch ein weiteres Problem.
+Das Bauen der neuen Listen funktioniert nicht.
+
+----- cut here -----
+E:\Application Data\IMDb\new_lists>c:\mysql\bin\mysql imdb
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 1 to server version: 3.23.52
+
+Type 'help;' or '\h' for help. Type '\c' to clear the buffer.
+
+mysql> \. d:/program files/amdbfront/build.txt
+ERROR 1051: Unknown table 'akanames'
+ERROR 1051: Unknown table 'akatitles'
+ERROR 1051: Unknown table 'alternateversions'
+ERROR 1051: Unknown table 'biographies'
+ERROR 1051: Unknown table 'business'
+Aborted
+----- cut here -----
+
+Was ist jetzt hier wieder los?
+
+-- 
+Konrad Untersten-Westen <hxyt@vcxcxm.xr>, Fuhlenrüe
+PGP RSA & DH/DSS public key on request and on public servers

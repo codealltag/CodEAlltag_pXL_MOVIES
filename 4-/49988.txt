@@ -1,0 +1,9 @@
+Dummerweise hat man in den meisten Filmen regelmäßig einen mehr oder
+weniger großen Info-Dump, der für die weitere Motivation oder die Logik
+der Handlung verstanden worden sein sollte. Und wenn in solchen
+Sequenzen dann flott gesprochen wird und/oder genug unbekannte Begriffe
+auftauchen, dann hilft es nicht, daß man den sonstigen Smalltalk
+ziemlich komplett verstanden hat.
+
+So long,
+Roland U. Gosink

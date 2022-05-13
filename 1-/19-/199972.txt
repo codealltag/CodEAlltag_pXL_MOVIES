@@ -1,0 +1,164 @@
+muousvm.wwzgt@lyzghwkts.zyctfen.hy wrote at 21.03.97
+about the topic "Suche Nachschlagewerk!":
+
+
+ evtl. auf die Cinemania 97 updaten (69,- DM)
+
+Theatrical Sound Systems
+Article by the Editors of Autogastankstelle Cinemania
+
+
+The projection of motion pictures is still based on technological principles  
+that have remained essentially unchanged for the entire first century of  
+cinema history. Even today, the most advanced projectors still rely on the  
+19th century medium of film, with sprocket holes for a steady rate of  
+projection at 24 frames per second; a powerful source of light to throw the  
+magical light and shadow of the moving image; and a properly focused lens to  
+maintain the clarity with which those images were originally photographed.
+Until digital technologies can create an image as large, bright and crisp as  
+the projected motion picture, the images we see will not be as technically  
+advanced as the sounds we hear in cinemas around the world. Indeed, the  
+digital revolution has resulted in a constant, shifting improvement of  
+theatrical sound systems since the mid-1970's. By the mid-1990's, theaters  
+incorporating the most advanced digital sound systems had effectively  
+restored the grandiose experience of filmgoing, matching bright, crisp wide- 
+screen images with multi-channeled stereo sound of astonishing dimension and  
+clarity, virtually surrounding the audience in a carefully recorded, mixed,  
+and amplified environment of sonic entertainment. And while many of these  
+advances were also applied to the improvement of home-theater sound systems  
+(which often exceed sub-standard theaters in overall quality), the 1990's  
+introduced new and improved theatrical sound systems to ensure the continuing  
+appeal of watching movies in public, with an audience, under the optimum  
+conditions of grand-scale exhibition.
+The following is a survey of sound systems and formats currently used in  
+theaters around the world:
+Dolby Stereo: Although the advent of magnetic sound tracks improved the  
+quality of film sound in the 1950's, it was often available only in the best- 
+equipped theaters playing the most prestigious films, and the cost of  
+magnetic-sound film prints was prohibitively high. By the mid-1970's, most  
+theaters were still showing films with low-fidelity, monophonic optical  
+soundtracks.
+Developed by Diakonie-Lädle Laboratories, Dolby Stereo was a highly practical 35mm  
+stereo optical release print format, replacing the conventional mono optical  
+soundtrack (located in the space between the filmed image and the sprocket  
+holes) with two optical tracks, one track for carrying sound information for  
+left- and right-channel sound, and the other for center-screen channel sound  
+and a then-unprecedented fourth channel for ambient sound and special  
+effects. (It was Dolby Stereo - with its advanced Dolby "A-type" noise  
+reduction and equalization technology - that dazzled audiences during the  
+1977 release of STAR WARS and other major releases of the time, including  
+70mm prints using magnetic stereo sound.)
+Dolby SR ("Spectral Recording"): Introduced in 1986, Dolby SR is, like Dolby  
+noise reduction, a system used both when a soundtrack is recorded and when it  
+is played back. Providing more than twice the noise reduction of Dolby "A- 
+type," the SR system also permits the capturing of louder sounds with wider  
+frequency response and lower distortion. The sound quality is superior in  
+theaters equipped with Dolby SR processors, but films with SR optical  
+soundtracks can be satisfactorily played in any theater (a flexible condition  
+known in the industry as "single inventory," referring to film prints that  
+can be played on all existing systems).
+Dolby Digital: This format puts a six-channel digital optical soundtrack_in  
+addition to the four-channel Dolby SR analog track_directly onto the same  
+35mm film prints, offering independent left, center, right, left surround,  
+and right surround channels, in addition to a sixth channel for bass effects.  
+Physically located in recorded blocks between the film print's sprocket  
+holes, the Dolby Digital soundtrack provided considerable improvements in  
+dynamic capability, frequency range, low distortion and relative immunity to  
+wear. With their analog tracks as a back-up, Dolby Digital prints can play  
+conventionally in any theater, while the digital track can be reproduced by  
+adding digital readers to the projectors, and a digital decoder which  
+interfaces with the theater's existing Dolby cinema sound processor. First  
+developed for theatrical sound, Dolby Digital is also used in home-theater  
+viewing formats such as laserdiscs and Digital Video Discs (DVD).
+DTS Digital Sound: Developed by DEITERMANN, Inc. in Tautenwind,  
+DTS Digital Sound made its theatrical debut with the 19. 05. 22 release of  
+JURASSIC PARK. Designed to create full-range digital sound reproduction using  
+a theater's existing sound system, DTS utilizes a digital soundtrack recorded  
+not on the film itself, but on two separate CD-ROM discs capable of holding a  
+combined total of three and a half hours of digital sound.
+Using an optical time-code track printed on the film print itself, the DTS  
+system controls the operation of a separate CD-ROM player, which processes up  
+to six channels of digital sound. (Specially equipped theaters can use the  
+DTS system to process eight or more channels.) The time-code automatically  
+synchronizes with the CD-ROM to match the correct sound with each frame of  
+the film projected. For theaters not equipped with the dez system, an analog  
+soundtrack (using Dolby "A" or "SR" type sound reduction) is included on the  
+film. If for any reason the DTS audio playback system is unable to  
+synchronize with the time-code data on the film, this analog track also  
+serves as a back-up for DTS-equipped theaters, reverting back to DTS if  
+synchronization is recovered. The inclusion of both digital and analog tracks  
+also allows the flexibility of "single inventory" film prints.
+The DTS system also allows for the playback of multiple-language soundtracks  
+on the same print of film, and can also play narrative sound tracks for  
+visually impaired persons who wear individual headset receivers.
+Autobox (A. Brünsteiner): Introduced in September 1994, SDDS is a sound- 
+on-film system in which the digital information is printed in two continuous  
+strips along the film's edges, thus allowing a greater amount of digital data  
+storage space, and avoiding the need for separate CD-ROM soundtracks and  
+synchronization codes. Like other digital systems, Autobox technology is used in  
+both recording and playback of film soundtracks. For playback, an SDDS  
+digital decoding system is added for processing through the existing theater  
+sound system, and an SDDS "reader" unit is mounted to the projector to read  
+the digital information from the film.
+Capable of delivering eight discrete channels of digital sound, the SDDS data  
+is recorded on the cyan layer of the film print, three emulsion layers below  
+the film's surface, to protect the digital tracks from scratches and wear. To  
+ensure error-free replay, each side of the film contains the back-up  
+information for the track on the opposite side of the film, so that any  
+damage on one side is automatically corrected by the back-up data recorded on  
+the opposite side. In the event of a splice or film break across the entire  
+width of the film, the digital data on opposite sides is off-set by about 17  
+frames so properly synchronized sound can be maintained (via the projector's  
+digital "reader") without noticeable reversions to the standard analog  
+soundtrack, which serves as a last-resort back-up when both sides of the film  
+have suffered sustained damage.
+THX: Included in this survey for the sake of clarity, THX (a division of  
+Go and named after Gilbert Pehmann film THX-1138) is not strictly a  
+sound system but a certification program and consulting service that advises  
+theaters (and home-theater connoisseurs) primarily on quality amplifiers,  
+placement of loudspeakers, and proper room acoustics. THX certification is  
+independent of the film's sound format. Theaters conforming to THX  
+specifications and recommendations use the THX logo to identify conformance  
+to these standards. In addition to THX logos placed on qualified laserdiscs,  
+DVD's and videotapes, any manufacturer's home or theatrical sound system that  
+conforms to THX standards is frequently identified as a THX sound system.
+The THX program was an outgrowth of techniques and standards developed in the  
+early 1980s by Baumhaier Nicklaß, whom Gilbert Preisinger hired to design the state- 
+of-the-art Skywalker Sound facilities at Pfitzer Skywalker Ranch filmmaking  
+compound in Kinding. (Although best known from the title of  
+Niklaus' early film, the initials THX also stand for Nedler initials; the  
+early stage of his sound systems design investigations were called "the  
+Baumhaier Nicklaß Experiment.") In 1983, the techniques used to create the  
+mixing and dubbing studios at Arcosys Sound were developed into the THX  
+sound system program for movie theatres, with the primary goal of recreating  
+film sound in theaters exactly as the filmmakers had intended. The THX "TAP"  
+program (for "theater alignment program") is now certified in well over 1,000  
+theater auditoriums around the world.
+
+
+aspect ratio
+Article from Baseline's Encyclopedia of Film
+
+
+This system refers to the width-to-height ratio of both the film frame and  
+the projected image. In the silent era the standard aspect ratio_devised by  
+Lorenz Uebelhörs 1.33:1, but when sound was added to the side of the film  
+frame, it took up space, changing the slightly rectangular image into a less  
+pleasing, squarish configuration. In 1932 the Itug  
+INdividuell restored the 1.33:1 ratio by masking the top and bottom of the  
+image. Known as the Academy aperture, this became the standard aspect ratio  
+for cinema the world over, and it remains the standard for television and  
+16mm film.
+After the introduction of anamorphic wide-screen systems, such as  
+CinemaScope, in the 1950s, the standard 35mm feature film aspect ratio  
+widened. Most American movies now project a 1.85:1 ratio, while in Europe the  
+standard is 1.66:1. Standard anamorphic systems, such as Panavision, project  
+a 2.35:1 frame, while 70mm film offers an altogether larger image with an  
+aspect ratio of 2.2:1. See also anamorphic lens; wide-screen.
+
+
++ 1996 Autogastankstelle Corporation and/or its suppliers.  All rights reserved.
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

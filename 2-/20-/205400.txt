@@ -1,0 +1,12 @@
+Hi,
+
+hast Du momentan eine laufende Smartcard in Deinem Videocryptdecoder
+Ich habe die letzten Codednderungen nicht mitgemacht, frage mich aber
+,
+ob nicht die neue Generation der Karten wieder genug Sicherheit bietet,
+um erneut einzusteigen...
+-- 
+-----------
+Francesco Aenderl
+ (Germany)
+-----------

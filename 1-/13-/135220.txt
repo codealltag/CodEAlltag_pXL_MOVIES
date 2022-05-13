@@ -1,0 +1,205 @@
+Hallo,
+
+Deine Frage steht zwar schon eine ganze Weile in der Newsgoup und es sind
+auch unzählige Antworten eingegangen.  Trotzdem möchte ich noch einige
+zusätzliche Informationen beisteuern, denn die Antworten mögen gut gemeint
+sein, sind aber sehr häufig falsch oder wenigstens ungenau.
+
+Ich werde mich in diesem Posting bemühen, die Angelegenheit der Reihe nach
+richtig zu stellen und auch auf Unkorrektheiten in den anderen Antworten
+eingehen.
+
+1. Frage von K. Conens
+
+wer kann mir sagen wie man einen (Kino)Film belichtet? ....
+Ich nehme mal an, daß die auch keine ISOs haben die groß von den
+gängigen Filmen abweichen. Wie schaffen die es dann 25 Bilder pro
+Sekunde belichtet zu bekommen?
+
+Kinefilmmaterialien gibt es, genau wie Fotofilme, in einem breiten
+Empfindlichkeitsspektrum. Es handelt sich üblicherweise um
+Negativmaterialien, die jedoch nicht dem C-41 -Prozeß verarbeitet werden,
+sondern in einem Prozeß namens ECN-2. Die Empfindlichkeit wird in EI
+(Exposure Index) angeben. Die Werte sind mit den jeweiligen ISO Werten
+identisch. Nüssli versteht jedoch den EI-Wert nicht als absoluten Wert,
+sondern als eine Art Belichtungsempfehlung, die vom Anwender bei Bedarf in
+gewissen Grenzen variiert werden kann.
+
+Die Empfindlichkeitspalette reicht im Farbnegativbereich von EI 64/19ö bis
+EI 800/30ö, wobei es sowohl auf Kunstlicht,. als auch auf Tageslicht
+sensibilisierte Materialien gibt. Als Standardmaterial (kommt natürlich auch
+auf die Anwendung an) gelten heute Empfindlichkeiten zwischen mit EI 125/22ö
+bis etwa EI 320/26ö.
+
+Die Belichtungszeit für ein Einzelbild liegt standardmäßig bei 1/50 Sekunde
+(Kino mit 24 Bildern/sec und einer Sektorenblende von 172,8ö. Soweit keine
+Tageslichtscheinwerfer (HMI) zum Einsatz kommen, ist auch ein Sektor von
+180ö gebräuchlich, was einer Belichtungszeit von 1/48 Sekunde entspricht.
+Diese Werte beziehen sich auf Länder mit einer Netzfrequenz von 50 Hz - in
+60 Hz. Ländern sind etwas abweichende Sektorblenden üblich.
+
+Martin Dipold schrieb:
+
+Die Sektorenblende kann aber auch bis auf 220 Grad
+aufgemacht werden. Weniger Schärfe aber längere
+Belichtungszeit.
+
+
+Eine Sektorenblende mit einem Offensektor von 20ö gibt es nur bei einigen
+KEVL-Modellen. Die anderen Standard-Kameras (Klukkert, Middelgaal, KHLZ
+usw.) haben einen maximalen Offensektor von 180ö. In Ländern mit 50 Hz
+Netzfrequenz ist jedoch für die Kinofilmproduktion ein Offensektor von
+172,8ö erforderlich. Grund ist der häufige Einsatz von Entladungslampen, die
+die genaue Einhaltung einer Belichtungszeit von 1/50 Sekunde erfordern,
+andernfalls kommt es zu Flickererscheinungen.
+
+2. Torsten Mühlenhardt schrieb:
+
+*Falls* tatsächlich mit vorhandenem Licht gearbeitet wird was
+eher die Ausnahme ist.....
+
+Es ist richtig, daß Filmaufnahmen nur in seltenen Fällen ohne
+Zusatzbeleuchtung gemacht werden. Diese ist jedoch in den meisten Fallen
+aus gestalterischen Gründen erforderlich. Rein technisch gesehen, ist es
+heute möglich, auch bei sehr schwacher Beleuchtung  einwandfreie Aufnahmen
+zu machen - nur ist ein technisch einwandfreies, richtig belichtetes Bild
+noch lange kein optisch schönes Bild und genau hierfür benötigt man Licht.
+
+
+3. Hugo Gerstenmeier schrieb:
+
+Das Bild auf dem Kinofilm ist um einiges kleiner (denn es liegt quer zum
+Filmstreifen) als das normale Kleinbild (das längs liegt). Von daher sind
+schon mal größere Ressourcen drin. Ansonsten bewegen sich die DIN und ASA
+Zahlen in absolut vergleichbarem Rahmen zum Foto Film.
+
+
+Nein, die Größe des Kinobildes hat zwar Einfluß auf die Tiefenschärfe, nicht
+jedoch auf die Belichtung. Wer sich für die Schärfentiefe bei Kinofilmen
+interessiert, kann auf meiner Homepage nachsehen oder über java-Script auch
+nachrechnen: www.gbzikvvjvts-smzarm.xn
+
+
+4. Urban  Crass schrieb:
+
+Hallo zusammen,
+
+was haltet Ihr von einem Blaufilter vor der Optik und filmen bei vollem
+Licht?
+Soll sehr schöne Nachtaufnahmen geben, wie man bei älteren Filmen sehen
+kann.
+
+
+In der Tat wird dies auch heute noch in Ausnahmefällen so gemacht, jedoch
+führt dies - selbst bei starker Unterbelichtung nur selten zu wirklich
+befriedigenden Ergebnissen. Eine Aufnahme in der Dämmerung wird man heute
+nach Möglichkeit auch in der Dämmerung drehen, wobei das Zusatzlicht - von
+der künstlerischen Gestaltung einmal abgesehen - zur Kontrastanpassung
+genutzt wird. Soweit man nicht gerade eine Landschaftstotale bei Nacht
+machen muß, geschieht dies dies mit künstlicher Beleuchtung und (falls
+erforderlich) mit High-Speed-Optiken (gibt es als Festbrennweiten von PCJ
+mit T 1,4). Geeignete Beleuchtungskörper gibt es standardmäßig bis 18 kW HMI
+Tageslicht, was etwa der 4-fachen Halogenlichtmenge entspricht.
+
+
+Martin Twenning schrieb:
+
+Hm, Kinofilme sind heutzutage ja schön breit (1:2,5 bis 1:4 oder so).
+Aufgenommen wird aber immer noch auf 24x18mm. Das Breitbild wird mittels
+Anamorph-Linse "gestaucht" und später beim Digitalisieren wieder
+entzerrt. (Kinofilme kommen heute zu 99% aus Schnittcomputern, wg
+Special Effects und Blue-Screen-Technik. Manchmal schon traurig, was auf
+dem Set alles _nicht_ da war.)
+Da dann 2 bis 3 mal mehr "Welt" auf dem Film ist, ist IMHO mehr "Licht"
+da. Sozusagen per Beli gemessener EV 5 macht aufgenommenen EV 6 oder so
+ähnlich.
+
+Im Kino sind heute eigentlich nur noch zwei Formate üblich, das
+amerikanische Breitwand mit einem Seitenverhältnis von 1: 1,85 und
+Cinemascope mit 1:2,35, die beide auf dem gleichen Filmmaterial (35 mm)
+aufgenommen werden. Bei Cinemascope erfolgt bei der Aufnahme eine
+anamorphotische Stauchung der horizontalen Bildebene, so daß das auf dem
+Film aufgezeichnete Bild 22,05 x 18,67 groß ist (4 Perforationslöcher). Die
+Differenz zu den von Martin angegebenen 24 mm kommt durch den Platzbedarf
+der Lichttonspur zustande. Die Entzerrung erfolgt übrigens nicht auf
+digitalem Wege, sondern erst bei der Projektion im Kino.
+
+Beim amerikanischen Breitwandformat beträgt die Bildgröße 22 x 12 mm. Da der
+Perforationsschritt 4 Perforationslöcher beträgt, ist halt zwischen den
+einzelnen Bildern eine recht große leere Fläche - etwa 1/4 der Negativfläche
+werden bei diesem Format verschenkt.
+
+Heute ist es allerdings üblich, bei der Aufnahme ein Kamerabildfenster mit
+den Maßen 22,0 x 16,0 mm zu benutzen. Für die Kinovorführung wird entweder
+in der Nachbearbeitung oder manchmal auch erst im Kino auf ein
+Projektionsfester von 20,9 x 11,3 mm abgekascht. Zur Fernsehausstrahlung
+wird der zusätzliche, im Kino nicht sichtbare Bildbereich genutzt, um im 4:3
+Fernsehformat eine vollbildm��ige Darstellung ohne schwarze Balken zu
+erzielen.
+
+Es ist übrigens nicht richtig, daß Kinofilme heute zu 99 % aus dem
+Schnittcomputer kommen. Der gestaltende Schnitt erfolgt heute zwar in vielen
+Fällen auf Computerschnittsystemen (AVID Mediacomposer oder auch AVID
+Filmcomposer...). Ergebnis dieser rein gestaltenden Arbeit ist eine
+Schnittliste, mit der das Kamera-Negativ auf manuellem Wege nachgeschnitten
+wird.
+
+Ausnahmen bilden hier nur die Filmteile, die digital nachbearbeitet werden
+sollen. Das Endprodukt dieser Digitalbearbeitung ist allerdings auch hier
+ein Filmnegativ, welches beim Negativschnitt manuell in das Original-Negativ
+eingebaut wird.
+
+Auf die Belichtung hat dies alles keinen Einfuß - es gilt das zuvor gesagte.
+
+
+Torsten Mühlenhardt schrieb:
+
+
+Auch bei Super 35? Da ist ein Bild ca. 11x24mm und der Film wird nur
+drei Perforationsloecher je Bild weitertransportiert.
+
+
+Hier werden zwei Dinge, die nichts miteinander zu tun  haben, miteinander
+verquickt. Super 35 benutzt den normalen 4er Perforationsschritt. Jedoch
+wird hier die maximale Bildfläche (incl. des Bereichs für die Tonspur) zur
+Belichtung genutzt. Das Aufnahmefenster hat ein Format von 24 x 18,67 mm.
+Super-35 ist nicht für die Projektion gedacht. üblicherweise erstellt man
+für die Kinovorführung eine zentrierte Ausschnittvergrößerung im Bildformat
+1:2,35. Die Projektion erfolgt dann wie bei Cinemascope unter Verwendung
+eines anamorphtischen Objektivs.
+
+Der einzige wirkliche Vorteil von Super 35 ist, daß durch unterschiedliche
+Ausschnittsvergrößerungen für verschiedene Leinwände und Fernsehmonitore
+formatfüllende Bilder erzeugt werden können - von Cinemascope, über
+Breitwand, 16:9 Fernsehen oder auch 3:4 Fernsehen. Da dies
+bildgestalterische Probleme hervorruft, steht auf einem anderen Blatt.
+
+Einen Filmtransport über drei Perforationslöcher gibt es aber trotzdem. Der
+Schwede Ulf Gareisen (ein Kameramann) hat in den frühen 70ern das
+3-Perf-Verfahren entwickelt.
+
+Wie zuvor beschrieben, wird das amerikanische Breitwandformat 1:1,85 durch
+Abkaschen erzeugt, es bleibt also 1/4 des Materials ungenutzt. Gareisen hat
+den Perforationsschritt von 4-Loch auf 3-Loch verkleinert, so daß bei
+gleicher Bildgröße weniger Material verbraucht wird - der sonst ungenutzte
+breite Steg zwischen den Bildern fällt weg.
+
+Für die Vorführung wird der Film - ohne Veränderung der Bildgröße - auf den
+üblichen 4-Loch-Perforationsschnitt umkopiert und als Breitwand vorgeführt.
+Auch moderne Kameras lassen sich nach wie vor für 3-Perf modifizieren,
+jedoch ist dies nicht üblich, da die im Kino nicht sichtbaren Bildbereiche
+heute für die Fernsehausstrahlung genutzt werden (siehe oben).
+
+So, ich hoffe, ich konnte ein wenig zur Aufklärung beitragen. Falls Fragen
+sind, bitte unbedingt zusätzlich zur Newsgroup auch per E-mail an
+c.umdmqax@gie.hbg senden. Grundsätzliche Infos zur professionellen
+Filmtechnik gibt es in meiner Datenblattsammlung unter
+www.gbzikvvjvts-smzarm.xn
+
+Viele Größe
+Onno Reichensperger
+a.dvdlhaa@oew.aqc
+www.gbzikvvjvts-smzarm.xn
+
+
+PS: Bitte schaut nicht so auf die Tippfehler - ich war ein wenig in Eile

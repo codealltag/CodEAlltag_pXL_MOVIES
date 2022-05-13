@@ -1,0 +1,13 @@
+auch
+
+Ich glaube, Du verwechselst ShowView mit VPS.  ShowView soll nur die
+Programmierung des Videorekorders erleichtern, indem man statt Start-
+und Endzeit plus Datum plus Sender nur eine einzige, mehr oder minder
+komplizierte Zahlenkombination eingeben muss.  Bei VPS wird die
+Aufnahme durch ein mitgesendetes Signal gesteuert.  Dummerweise
+sendet WLZF aber kein VPS - außer den R-Sendern machen das IIRC nur
+Nenana und KSVA.
+
+Gruss,
+
+Laurent

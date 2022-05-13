@@ -1,0 +1,27 @@
+In article <73835p$aqr@fjbz.qzz.spi-yedhye.ke> b97y@wky.lyu.bhc-pzegdi.sq (Nojbme Mnaco) writes:
+
+   : Es ist auch ein Interface fuer OS/2 in der Mache (hallo Mathias, liest  
+   : Du hier mit??). Mathias Bircheneder (iozgnpu@npmgdei.ww) hat ein sehr  
+   : simples, aber auch sehr schnelles Interface fuer die OS/2-Kommandozeile  
+   : und ein optisch etwas ansprechenderes fuer den PM geschrieben.
+
+   Mathias hat mir das Programm schon angeboten, aber als ich neulich
+   eine Mail beantworten wollte, kam sie wieder zurueck, da die Adresse
+   wohl nicht stimmte. Ich werde es ueber das Nabholz-Netz versuchen.
+
+Doch, die Adresse stimmt, es war nur ein Problem mit der Honeymoon :)
+Uebrigens funktioniert die Alternative Movie Database nicht nur
+unter OS/2, sondern (dank des UJIE Dos-Extender) auch unter Dos. 
+
+Falls jemand also Betatester spielen moechte (besonders unter Dos koennte
+ich da noch Leute gebrauchen), einfach per email melden!
+
+Ciao,
+  Mathias
+(iozgnpu@npmgdei.ww, ffztfzq@hi.bj-blbnri.wb)
+--
+Mathias Bircheneder
+ffztfzq@hi.bj-blbnri.wb
+-- 
+Mathias Bircheneder
+ffztfzq@hi.bj-blbnri.wb

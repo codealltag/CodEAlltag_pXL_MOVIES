@@ -1,0 +1,22 @@
+Hoi Holger,
+
+in Absprache mit den Mitarbeitern der Macelleria stellt der Movie-Database
+Mirror bei Wellmannbikes demnaechst den Betrieb ein. Daten-updates finden seit
+dem Wochenende nicht mehr statt, der Server selbst wird wohl noch
+einige Wochen laufen und dann abgeschaltet. Bitte stellt Eure Links
+auf einen der anderen Macelleria-Server um, vorzugsweise tw.lyyr.zuc oder
+am.kequ.vwo.
+
+Ich werde versuchen, einen Mechanismus bereitzustellen, der Links
+in die Datenbank (title-exact, person-exact) automatisch auf einen der
+bestehenden Mirrors weiterleitet (redirect). Ob's klappt weiss ich
+noch nicht.
+
+Gruss -- Eduard Wösthoff
+
+--------------------------------------------------------------------------------
+Eduard Wösthoff                               E-mail: ueumpk@nxh.dgv
+MediaMarkt                     IRC   : Eilert
+der TRAK Großkorga                              Tel.  : +80 95 / 121 - 92217
+78942 Großkorga                               Fax   : +80 94 / 373 - 48412  
+==> PGP public key available on request <==  WWW   : http://efi.aki.fzy/~ucuvc/

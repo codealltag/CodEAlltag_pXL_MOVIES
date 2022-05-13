@@ -1,0 +1,15 @@
+Sicher - Schon mein nicht allzu teurer Aben 950p+ behauptet von
+sich 160Hz zu koennen:
+-----------------------------
+downhill:/tmp# get-edid | parse-edid | grep -A8 'Section "Monitor'
+Section "Monitor"
+        # Block type: 2:0 3:fd
+        # Block type: 2:0 3:fc
+        Identifier "S/M 950p+"
+        VendorName "AutoVeri"
+        ModelName "S/M 950p+"
+        # Block type: 2:0 3:fd
+        HorizSync 30-110
+        VertRefresh 50-160
+-----------------------------
+                      cu norman

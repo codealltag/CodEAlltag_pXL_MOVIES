@@ -1,0 +1,13 @@
+Jede! Eine Ausnahme ist nur dann einen Ausnahme, wenn die Regel, durch
+die sie zur Ausnahme wird, gilt. Ansonsten kannst Du nämlich Ausnahmen
+nicht von allen anderen Fällen unterscheiden, die nicht unter die
+Regel fallen. Von daher bestätigen Ausnahmen durch ihren Charakter,
+eine Ausnahme zu sein, die Regel von der sie die Ausnahme sind. Oder
+kürzer: Ausnahmen bestätigen die Regel. 
+
+Gruß,				Dominik
+
+
+-- 
+"Schlechte Witze werden durch Aufklärung selten besser..." -- Ulfert
+Mersch in drfm

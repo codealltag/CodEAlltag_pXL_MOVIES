@@ -1,0 +1,3 @@
+Der Prozedureinsteigspunkt " DirectDraCreateEx " konnte in der Dynamic Link
+Library " DDRAW.dll " nicht gefunden werden. Kommt raus als Nachricht kurz
+nach dem installieren von Divx 4.12 auf mein NT 4.0 System. was ist das ?

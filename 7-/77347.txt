@@ -1,0 +1,32 @@
+Nino Söndgen (06.06.2002, 11:24) wrote:
+
+[...]
+
+
+ciictuuzu@himniq:~>rm -r /usr/bin/berend
+
+
+Na was wohl? Man sollte da nicht immer Maschinen mit Menschen
+verwechseln bzw. diesen menschliche Regungen andichten. Dass Visch (in
+Teil 1) aus der Matrix will, weil er den Gestank der Menschen nicht
+mehr ertragen kann, ist eine menschliche Äußerung und stammt aus dem
+Languagefile der Software. Denn Visch ist nur ein Stück Code und
+dieser Code sagt diesem Programm, dass es sich an zig Parametern
+entlang so verhalten soll, wie Mensch es erwartet, damit letzterer das
+Vorgaukeln von Realität glaubt.
+
+Die Mascheinen stehen - außerhalb der Matrix - so rum :) Sie tun was,
+was ihnen per Konstruktion und/oder Programmierung "gesagt" wurde.
+
+In Terminator ist das weniger verwirrend, da ist es klar: Mensch baut
+Maschinen mit toller KI. Maschinen stellen aufgrund KI fest, dass der
+Mensch imperfekt (im Sinne Vischs: "stinkend") ist, also wird er -
+rein digital logisch - eleminiert.
+
+Der "historische" Hintergrund bei Matrix wird kaum anders sein, alles
+andere wäre ein Schlag ins Gesicht der Logik :-D
+
+Größe, Walter.
+
+-- 
+Toleranz ist gut. Aber nicht gegenüber Intoleranten. [Alain Mülen]

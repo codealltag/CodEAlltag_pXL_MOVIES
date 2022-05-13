@@ -1,0 +1,71 @@
+Mauro Vesenbeckh <fizwukw@yq-ybsg.yzj> writes:
+
+Hi,
+
+
+Ist 6kW die zulässige Leistung des Lampenhauses?
+Dann bleibt die Frage, wie die Lichtausbeute im Vergleich zu einem
+Filmprojektor ist.
+Oder entspricht die maximale Lichtmenge, die man auf die Leinwand
+werfen kann, der eines herkömmlichen Projektors mit 6kW-Kolben?
+
+
+Wiehoch kann man die Auflösung eines 35mm-Films ansetzen?
+
+Bei Diafilmen habe ich etwas von 100-110 Linien/mm im Kopf.
+Das würde 4200x3500 Pixeln entsprechen. Davon muß man dann allerdings
+die Kopienverluste abrechnen. Schließlich bekommt man nur selten
+die erste Generation zu Gesicht.
+
+Andererseits hat analoger Film einen entscheidenden Vorteil:
+Es gibt keine feste Rasterung. Das einzelne Bild kann also eine
+deutlich gerigere Auflösung als bei digitaler Projektion haben.
+Bei schnellen Schnitten oder Schwenks ist der Mensch eh nicht 
+in der Lage, die Auslösung zu erfassen. Bei ruhigen Einstellungen
+überlagern sich dagegen die Körnungen der einzelnen Bilder, was 
+zu einer erhöhten Auflösung führt.
+
+
+Welches Kontrastverhältnis ist bei 35mm-Film möglich?
+
+
+Ich hab 30-40 Jahre im Kopf. Gut gepflegte Projektoren aus den
+50er und 60er Jahren dürften allerdings auch deutlich mehr als 
+50 Jahre schaffen. Den neueren Projektoren traue ich nicht mehr
+so eine lange Lebensdauer zu, weil sie nicht so stabil gebaut 
+wurden. Da wird irgendwann die Mechanik ausleihern. dann geht 
+zumindest die Bildqualität den Bach runter.
+
+Ich habe mal gehört, dass Filmprojektoren heutzutage nur noch 
+für 10-15 Jahre ausgelegt werden. Allerdings bei deutlich mehr
+jährlichen Betriebsstunden. (Ich weis aber nicht, was da dran ist.)
+
+Bei den neuen elektronischen Filmprojektoren al a FP-30 E muß man 
+auch erstmal abwarten, wie alt die werden. Da dürfte nicht mehr 
+die Mechanik das Problem sein. Dafür kann dann plötzlich die 
+Elektronik den Geist aufgeben.
+
+
+Die Systemlebensdauer (und -erwartung) - und damit die Investitions-
+sicherheit - der Filmprojektoren ist auf jeden Fall deutlich höher 
+als bei Digitalen Projektoren.
+
+Auch in 20 Jahren wird man noch 35mm-Projektoren und -Filme finden,
+die zu den heutigen voll kompatibel sind. Von den aktuellen Digital-
+Projektoren erwarte ich das nicht. Versucht heute mal ein 20 Jahre
+altes Video vorzuführen oder eine Computerdatei einzulesen, die vor
+20 Jahren auf ein Wechselmedium geschrieben wurde.
+
+35mm-Projektoren und Filme sind seit gut 100 Jahren weitgehend
+vor- und rückwärts kompatibel. Es hat eigentlich nur zwei 
+Änderungen gegeben, die die Kompatibilität geringfügig einschränken:
+ - Die Einführung des Tonfilms vor 70 Jahren
+ - Der Wechsel des Trägermaterials von Nitrofilm auf "Sicherheitsfilm"
+
+OK, zwischenzeitlich hat verschiedene Versuche mit anderen Tonformaten 
+für 35mm-Film gegeben, die nicht mit dem Lichtton kompatibel waren, 
+von Fantasound über Magnetton bis CDS. Davon konnte aber nur Magnetton 
+nennenswerte Verbreitung finden. Durchsetzen konnte sich keines. 
+Mit ein Grund dürfte die mangelnde Kompatibilität gewesen sein.
+
+Ciao, Charles                        xwjhququ@zzbgrb.uurmzhf.fh

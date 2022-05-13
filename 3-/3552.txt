@@ -1,0 +1,9 @@
+So mit SELECT * FROM dvds oder wie auch immer die Tabellen heissen.
+
+
+Echt, wurde das jetzt freigegeben? Hab mich schon längere Zeit nicht
+um Updates gekümmert. Das letzte mal als ich nachgesehen hab, konnte
+ich nur das fertige Binary runterladen, ohne dass ich daran selbst was
+ändern hätte können.
+
+Nils

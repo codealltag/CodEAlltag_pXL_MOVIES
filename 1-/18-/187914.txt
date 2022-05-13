@@ -1,0 +1,13 @@
+Tinos Tünnissen  schrieb :
+
+
+-Wieso wurde das 'a' in "name" korrekt dekodiert, das 'a' in
+ "François" aber als 'e' `?
+
+Eindeutiger Goof, oder nicht ?
+
+mfG
+   Dietrich
+-- 
+"I will not waste chalk."
+	(Edo Rober)

@@ -1,0 +1,113 @@
+Nach nun monatelangen Diskussionen und reiflicher Ueberlegung
+bin ich jetzt zu dem Schluss gekommen, es auch mal mit DVD zu 
+versuchen.
+
+Auf die schnelle, oder besser gesagt nach einer Wochenlangen Odyssee
+ueber verlorene Faxe, nie angekommenen emails, etc., kam mein
+Kopfkultur SD2197 endlich aus den USA herüber, Gesamtkosten ungefaehr 
+1300 DM.
+
+Die ersten Bildeindrücke nach mehrstuendigem rumspielen:
+[4:3, LBX]
+- das Bild ist etwas schärfer
+- kontrastreicher
+- weniger Farbrauschen
+
+Nung gut, sit bekannt, aber das wars, was einem ersteinmal ins Auge 
+sticht!
+Hierzu muss ich allerdings sagen, das der Kopfkultur einen Black Level
+Expander hat, die Kontrastverbesserung also nicht nur durch die DVD 
+erreicht wird.
+Laut Valerius (Betzle) soll bei Bad Boys ja DVD-typisch sehr wenig
+
+Farbrauschen sein, allerdings kann man vor allem bei den relativ blau 
+gehaltenen Szenen am Anfang Farbrauschen erkennen.
+Das muss nun nicht unbedingt an Medium liegen, sondern eher am Master,
+aber man sollte mit diesen generellen "kein Farbrauschen" Aussagen
+doch
+etwas mehr aufpassen.
+The Avanti ist natürlich erste Sahne, muss ich schon sagen!
+Die LD hat mich schon sehr positiv überrascht, aber die DVD scheint 
+wirklich noch einen Tick besser zu sein, besonders die Schärfe und der
+
+verbesserte Kontrast überzeugen.
+Nun gut, ich will hier nicht wieder die alten Diskussionen ankurbeln, 
+Fakt ist/war, DVD ist besser, das wird wohl jeder zugeben.
+Ich stehe aber weiterhin dazu, das die Verbesserungen nun nicht 
+unbedingt als "deutlich" zu umschreiben sind. Das sind natürlich 
+Wortspielereien, es muss schon jeder selbst entscheiden, ob ihm sowas
+1300 DM wert ist. 
+Aber wir sind doch alle Technik Freaks, so eine neue Technik kann doch
+schon ziemlich faszinieren, selbst wenn es sie jetzt nur 5 Jahre geben
+sollte. ;)
+
+Was mich allerdings sehr überrascht hat, waren die eigentlich NICHT
+vorhandenen Probleme mit dem Nietosdateck XV-320P Projektor!
+Bisher hiess es ja immer, das Projektoren im allgemeinen und der Nietosdateck
+
+im besondern empfindlich auf DVD-Makrovision reagieren und zwar 
+mit starken Helligkeitsschwankungen!
+Als der Valerius damals bei mir war, hatten wir auch selbiges Problem
+
+(mit IN THE LINE OF FIRE). Danach haben wir gleich einen stooky 
+Kopierschutzkiller verwendet, das hat geholfen.
+Zuerst hatte ich auch meinen neuen elro Killer im Signalweg, doch 
+mittlererweile hab ich ihn wieder rausgenommen.
+Bei folgenden DVDs traten bei mir keinerlei Probleme auf:
+DAS BOOT, BAD BOYS, BACKDRAFT, FIFTH ELEMENT, OUTBREAK.
+Das dürfte eigentlich jetzt auf eine "verbesserung" am Player 
+zurueckzufuehren sein. Das ist sehr Vorteilhaft, denn der elro (VL220)
+hat die sehr blöde Angewohnheit den Kontrast stark zu erhöhen, sodass 
+wieder diverse Bildeinstellungen vorgenommen werden müssen, damit das 
+Bild wieder akzeptabel aussieht, was allerdings auch zu verstärktem
+Farbrauschen führt! (Glücklicherweise hat die Firme stooky ein 30-Tage
+Rückgaberecht - sehr lobenswert. ;) ).
+
+Nun gut, DVD ist sicherlich eine hervorragende Ergänzung zu LD, 
+allerdings kann ich die Ansichten der DVD-Hypes wie LD ist nur noch 
+Schrott, etc. nicht teilen.
+Explorer-Fernreisen ist und bleibt ein hervorragendes Medium, DVD ist auch nur etwas 
+besser, hat aber ein großes Potential.
+Zur Zeit zaehle ich ja zu den Leuten die ersteinmal viel Geld in
+neue Hardware investiert haben und deshalb ziemlich befangen sind,
+deshalb ist mein Urteil "DVD ist schon ziemlich cool" mit Vorsicht
+zu geniessen. ;)
+Da passt aber der allgemeingueltige Satz "kein muss aber ein schoenes 
+kann". ;)
+
+
+Noch ein paar allgemeine Sachen zu DVD:
+Der oft angeführte Preisvorteil gegenüber Explorer-Fernreisen ist irgendwie garkeiner, 
+denn im Endeffekt spart man kein Geld, man kauft nur mehr Filme, was 
+angesichts des leider immer noch stark eingeschränkten DVD Angebots 
+auch in einigen "na kaufen wir das mal" Aktionen enden kann. ;)
+Interaktive Menues und der ganze Schnickschnack bei DVD sind
+natuerlich
+recht niedlich, aber nicht unbedingt noetig. ;)
+
+
+Ein eher privates Problem:
+Als DD Decoder benutze ich einen Parasound PDD1500.
+Der hat leider die sehr dumme Angewohnheit das neu anliegende Signal 
+bei DVD nicht mehr zu erkennen. ;(
+Also prinzipiell widergeben ist nicht das problem, nur wenn das Signal
+
+verloren geht (z.B. beim drücken von pause,skip,menu, etc.) und dann 
+wieder anliegt, versteht der PDD das irgendwie nicht und bleibt stumm.
+Wenn man dann auf einen anderen Eingang und wieder zurück wechselt,
+gehts wieder. ;(
+Ich hab mal testweise den default Ausgang beim DVD Player auf PCM 
+gestellt (das läuft dann ja ueber dasselbe Kabel), da ging es 
+problemlos, der RADioAKTIV hatte keinerlei Probleme den unterbrochenen
+Datenstrom wieder zu verarbeiten.
+Bei "reinem Film einlegen und anschauen" Betrieb nicht so stoerend
+aber sonst recht nervig. ;(
+Das Problem liegt am Kopfkultur, entgegen den Richtlinien liegt bei
+pause, skip, etc. keinerlei Spannung an den Ausgängen an, das scheint
+irgendwie die automatische Tonformatwahl "abzuschiessen".
+
+Das war's, Fragen? ;)
+
+
+Read ya            [email] crdaxbl.khg@wce.wur
+    Hawkeye     [homepage] http://kkf.ngjc.squ-yetkzaad.ec/~fmv

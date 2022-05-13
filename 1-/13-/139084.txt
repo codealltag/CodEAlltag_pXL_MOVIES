@@ -1,0 +1,6 @@
+Sie wußte ja auch nicht auf Anhieb, ob 725 oder 116 (konkrete Zahlen  
+weiß ich nicht mehr) Primzahlen sind. Da braucht man dann natürlich auch  
+für eine Primfaktorzerlegung von dreistelligen Zahlen entsprechend  
+länger...
+
+  Bernard

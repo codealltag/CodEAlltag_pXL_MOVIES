@@ -1,0 +1,11 @@
+Aaalso,
+
+ich habe fast keine Ahnung von der Thematik, aber die Dinger mit den
+Halbkugeln sind wohl für die Lichtmessung direkt am Objekt bestimmt
+(messen das Licht, das auf das Objekt fällt). Ansonsten gibt's noch
+"Spot"-Belichtungsmesser, mit denen du über einen eigenen Sucher dein
+Objekt anpeilst und das reflektierte Licht misst. Alles AFAIK,
+übrigens.
+
+Mit freundlichem Gruß,
+Fabian Ulles

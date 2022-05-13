@@ -1,0 +1,12 @@
+Giorgio Birnenstengel wrote in <eyum4ebjpc.zv.oaj@xlokqolt.lxrf.jcd-usji.bw>
+on 04. 10. 21 18:47:55 +0200:
+
+Verständlich oder nicht, aber in der Tat gibt es an vier Seiten
+Probleme, wenn man versucht den Overscan-Bereich möglichst weit
+ins Bild reinzuziehen.
+
+Gerade rechts ist es besonders heftig, wenn man mit Videocrypt
+verschlüsselte Sachen ansehen möchte: Schon sehr bald sieht man
+nur noch einen "Sägezahn"-Rand.
+
+Waldemar

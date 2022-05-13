@@ -1,0 +1,25 @@
+Zwischen dem Empfang via Satelit und der Projektion müssen die 
+Videodaten im Multiplex doch irgendwo gespeichert werden. Dafür 
+brauchst Du den Server. Es ist ja nicht so, dass die Videos ("Film"
+ist ja nicht mehr das passende Wort) wie Fernsehen ohne Zwischen-
+speicherung direkt empfangen und projeziert werden. Dafür wären 
+vielzuviele Übertragungskanäle notwendig, da das System ja auch in 
+Zukunft mehr als drei verschiedene Videos pro Lnad gleichzeitig
+verkraften muß und auch unterschiedliche Anfangszeiten.
+
+Man wird also ein, zwei Satelitenkan�le haben, die rund um die Uhr
+die unterschiedlichen Videos übertragen, jedes aber höchstens einmal
+pro Woche. Der Server im Multiplex speichert dann diejenigen, die
+in absehbarer Zeit vorgeführt werden sollen.
+
+
+Wenn sich der Server als Schwachstelle herausstellen sollte,
+kann man da notfalls Redundanz einbauen. Oder man stattet jeden 
+Projektor mit einem dezentralen Speicher aus, der für eine Stunde 
+oder gar ein Video reicht. Dann kann man kurzzeitige Serverausfälle 
+problemlos überbrücken. Alle Videos in allen Projektoren zu speichern
+wird zu teuer. Und die Multiplexe werden sicherlich nicht auf die
+Möglichkeit verzichten kurzfristig die Säle zu tauschen oder ein 
+Video zusätzlich in einem anderen Saal zu zeigen.
+
+Ciao, Oswald                        fzrrvaus@rdvuvw.azgjtrh.ei

@@ -1,0 +1,20 @@
+Hi!
+
+Does anyone know, if a Win95/NT Application exists with the features:
+
+*full functionality of the CD-Player shipped with w95/NT 
+*Add & administrate Artist, Titles, Songs and Lyrics of Songs in as
+many languages as you like
+*switching/selection of Lyrics Language while playback.
+*"Karaoke" functionality: (e.g. the Text you can see is being sung at
+the same time in as many languages as you like)
+
+The whole thing should be an educational application, a "Global Juke
+Box", with open interface: Study lyrics, learn languages, create new
+translations, forward your translations to your colleges, integrate
+foreign lyrics to your Set etc. 
+
+
+Best regards,
+
+Ingmar

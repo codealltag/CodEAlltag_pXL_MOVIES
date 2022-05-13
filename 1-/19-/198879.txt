@@ -1,0 +1,33 @@
+: Kann mir jemand eine Surround Anlage empfehlen, damit ich meine Grigo und
+: den VCR etwas aufpeppen kann, ohne gleich mein Portemonnaie zu sprengen?
+: Ich habe es langsam satt, in jedem Geschaeft Preise, wie 500 DM pro Box zu
+: hoeren, das muss doch auch billiger gehen.
+
+Wenn Du ueberhaupt kein Geld ausgeben willst, dann kannst Du mit Deiner
+womoeglich vorhandenen Stereoanlage und einer alten Box
+einen passiven Surrounddecoder realisieren.
+Dazu schliesst Du die Box zusaetzlich zu Deinem normalen Sterosetup
+an Deinem Verstaerker an, allerdings nicht wie die zwei anderen Boxen,
+sondern zwischen die beiden roten Pluspole des linken und rechten
+Verstaerkerausgangs. Auf Deinem nun vorhandenen Surroundlautsprecher
+ist die Differenz der beiden Stereokanaele zu hoeren.
+Da Surroundsignale gegenphasig auf dem Stereosignal liegen, funktioniert
+die Sache besser als man glauben will.
+Du kannst natuerlich statt einer Box auch zwei in Serie schalten.
+Gegenueber einem Pro-logic -Decoder verzichtet man nur auf den
+Center-Kanal, Rauschunterdrueckung, Tiefpassfilter, Verzoegerung
+und eine (minimal) bessere Unterdrueckung des rechten und linken
+Kanals auf der Surroundbox. Das hoert sich nach viel an, ist
+aber unbedeutend, wenn man schoen in der Mitte zwischen den Stereoboxen sitzt
+und etwas Abstand zu den Surroundboxen haelt.
+Dein Verstaerker muss natuerlich der Belastung durch die zusaetliche(n)
+Box(en) gewachsen sein, also niedere Impedanzen vertragen.
+
+Ciao,
+	Detlef
+
+P.S.: das funktioniert uebrigens wirklich
+
+--
+Detlef Averbrock                              Informatik, Universitaet Felgentreu
+j_fdboen@ruv.arn.fg                          http://pbu.qwl-zexxojfxp.km/~vi1t

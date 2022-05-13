@@ -1,0 +1,12 @@
+Hallo!
+
+Ich wollte nur darueber informieren, dass Premiere seit heute (Freitag)
+ueber TeleText verfuegt. Das Signal kann auch ohne Decoder empfangen
+und gelesen werden.
+
+Tschuess,
+Nicolas
+--
+Nicolas Dilling                    | "Tricky is good!
+  University of Eschertshofen, Germany |  Tricky I can do." - Iago, "Return of Patrick"
+  http://yed.bex.hpo-lzvwly.qp/~h55d

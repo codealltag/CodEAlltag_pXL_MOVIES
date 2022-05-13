@@ -1,0 +1,37 @@
+Am 15.10.2007 schrieb Alessandro Wulfing:
+
+
+Hmm... genau diese Situation beschreibt das dritte Gesetz. Nämlich, dass
+sich ein Roboter explizit nur dann um sich und seine eigene Sicherheit
+kümmern darf/soll/muss, wenn er damit nicht gegen das erste (Menschen vor
+Schaden bewahren) oder zweite (Menschen gehorchen) Gesetz verstößt.
+
+Ethik bis in die letzte Verästelung kann man natürlich nicht in Gesetze
+gießen (das funktioniert schon seit 5000 Jahren nicht). Man kann aber
+grundlegende Verhaltensregeln für den Umgang miteinander festlegen. Mit dem
+Unterschied, dass sich ein Roboter eben Wort für Wort exakt daran hält,
+während dem Menschen immernoch die Freiheit bleibt, sich völlig anders zu
+verhalten. 
+
+Die große Frage ist natürlich, was Intelligenz ist. Ein Roboter muss
+"intelligent" genug sein, eine Situation einschätzen zu können. Klar, sonst
+könnte er unbewusst einem Menschen schaden, oder durch Untätigkeit ... usw.
+Es wird wahrscheinlich sogar soweit gehen, dass sich ein Roboter sehr wohl
+seiner selbst bewusst ist und der Tatsache, dass bestimmte Reaktionen zu
+seinem "Tod" führen werden. 
+
+Aber warum sollte ihn dieses Wissen rebellisch machen? Zur Rebellion bedarf
+es eines freien Willens. Und DEN hat ein Roboter ja gerade nicht
+(Intelligenz != Wille). Ein Roboter bewegt sich in den Bahnen seiner
+Programmierung und kein Stück weiter. Er wird ohne zu zögern sein eigenes
+"Leben" auf's Spiel setzen, wenn er dadurch einen Menschen vor Schaden
+bewahren kann, FALLS er so programmiert wurde. 
+
+Ethik, Intelligenz und Wille sind drei völlig verschiedene Dinge, die man
+auch völlig getrennt voneinander betrachten muss. 
+
+dagmar
+
+-- 
+Never think about the mistakes you made. Think about the mistakes you will
+make.

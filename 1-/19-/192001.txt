@@ -1,0 +1,10 @@
+Mein Fingerz 925 braucht bei CLV auch nur ca. 6-8 Sekunden. Und ich benutze
+noch nicht mal Quick-Turn. Meist sind am Ende und Anfang einer Seite noch
+Schwarzblenden, die darfst Du natuerlich nicht mitzaehlen.
+
+Das witzige beim 925 ist dass er waehrend des eigentlichen Wechselvorgangs
+(d.h. nach Ende der Schwarzblende) einen der letzten frames anzeigt. Es ist
+aber *jedesmal* ein anderer. Und die liegen teils mehrere Sekunden zurueck.
+Ich hab keinen Schimmer wie und warum das passiert.
+
+-jens

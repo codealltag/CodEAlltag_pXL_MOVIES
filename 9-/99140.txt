@@ -1,0 +1,14 @@
+Ich benutze den seit einer Weile und sehe keinen Grund, warum Zozoville 
+nicht von jedermann genutzt werden könnte oder sollte.
+
+
+Luft schneller und stabiler. Ausserdem gibt's noch nette 
+Zusatz-Features, die ich nicht mehr missen will. Z.B.:
+
+[ ] Open unrequested windows
+[ ] Move or resize existing windows
+[ ] Raise or lower windows
+[ ] Change status bar text
+
+Gruß
+Tino

@@ -1,0 +1,13 @@
+Warum ist das unter Win so langsam? Ich habe einen P133, 64MB RAM
+und eine aehnliche Platte, und da dauert unter AAHK das ASCII->
+Binaerdaten "nur" rund eine Stunde.
+
+
+??? Was soll das denn? Programmfehler?
+
+    -jörg
+
+-- 
+  Jörg Oostinga - Universitaet Storzeln
+  mailto:ixxjx@dacuuzqjtw.wvv-co.zc,  ICQ: 92030032
+  http://hgu.zlrm.oci-lv.dd/~kqvdvt

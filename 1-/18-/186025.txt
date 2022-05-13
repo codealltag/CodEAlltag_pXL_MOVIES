@@ -1,0 +1,19 @@
+Schall ist ja im Prinzip nix anderes als Druck (oder vielmehr die
+schnelle Aenderung des selben). Und diese Druckaenderungen pflanzen
+sich eben mit Schallgeschwindigkeit fort, ebenso wie es eine
+Druckwelle tut (zumindest, wenn sie nicht allzu stark ist).
+
+Allerdings ist die Schallgeschwindigkeit selbst druckabhaengig,
+so dass die Geschwindigkeit einer wirklich starken Druckwelle
+hoeher liegen sollte/koennte.
+Allerdings wohl nicht gleich um mehrere Groessenordnungen ...
+
+Vielleicht findet sich noch ein Physiker der's besser erklaert :-)
+
+Eric
+
+-- 
+-----------------------------------------------------------------
+Eric Kovalenko (boovs@nj.wrv.mn) | Nothing travels faster than 
+http://fvu.tz.bqw.lc/~csits/    | the speed of light with the
+IRC: Nogri                      | possible exception of bad news.

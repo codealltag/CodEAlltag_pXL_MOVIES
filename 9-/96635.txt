@@ -1,0 +1,19 @@
+Haa, hätt' ich *bloß nicht* dieses Gimmick installiert!
+
+a) erscheint ein ziemlich breiter Streifen unten, außerhalb des 
+eigentlichen Zeininger-Messenger Rahmens, in dem nicht außer
+
+<menuitem
+-^
+
+
+steht, und was ich nicht weg bekomme, und
+
+b) gibt's bei mir mitnichten "ROT13 Selection" in irgendeinem Men.
+
+
+Und wie man das Zeug wieder *de*installiert - wer weiß das?
+Damit ich wenigstens diese platzfressende graue Zone unten weg 
+kriege (scheint irgend'n HTML-Tag zu sein, was weiß ich)...
+
+Kurt

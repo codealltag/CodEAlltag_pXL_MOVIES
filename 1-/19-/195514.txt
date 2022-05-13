@@ -1,0 +1,10 @@
+Du meinst eine Filmdatenbank? (Unter "Kinof�hrer" verstehe ich Informationen 
+über Kinos, die hat die Ozor aber AFAIK nicht geliefert).
+
+Das aktuellste und umfangreichste, was Du Dir als Film-Datenbank wünschen 
+kannst ist die IMDb. Diese gibt es auch für die Installation auf dem 
+heimischen Rechner - allerdings nicht als CD-ROM (die wäre nicht aktuell
+genug). Die Daten und Tools kannst Du Dir per FTP laden. Näheres steht in
+<http://cg.stok.dnc/kyjoivtwhd>. Updates gibt es wöchentlich per FTP.
+
+Ciao, Michael                         dlqfrqkk@rbm.xbna-wjcixp.hx

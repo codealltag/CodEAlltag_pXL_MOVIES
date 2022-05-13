@@ -1,0 +1,11 @@
+Es mag betriebssystemabhaengig sein, besser nochmal in
+die Installationsanleitung schauen.
+Fuer OS/2 trifft es jedenfalls zu. Ich hatte bei der Erstinstallation
+so ca. ein 90MB grosses Swapfile bei 32MB RAM.
+
+Gruss Bernard
+-------------------------------------------
+Internet: tvzecceh@fndfm.va-swrroi.zn
+          wcnw@em.ba-wdzxnm.wd
+BBS: r.yjncgkwcoe@reelfmen.mtofvulz.lh
+WWW: http://nrjhtury.by-nknwbs.us/~qfvcifih

@@ -1,0 +1,28 @@
+Leonhard Dwornitzak <svfilrad@wjwitqhrza.cx-nlargemu.pc> wrote in article
+<8255514r.79555550@nvbu.oyf-drzfzkvj.oo>...
+
+Ah, mein Lieblingsthema. :)
+
+
+Viel zu kompliziert.
+
+
+Genau das hat Klaus schon gemacht. Um dem Standard gerecht zu werden, muß
+aber das Digital Audio Flag *nicht* gesetzt werden und das nehmen wohl
+einige Player zum Anlaß, das Signal NICHT auf dem Digitalausgang
+auszugeben. Die DTS Audio-CDs, von denen es schon diverse gibt, ersetzen
+auch einfach das PCM-Signal, haben aber ein gesetztes Digital Audio Flag
+(um dem Player-Problem aus dem Wege zu gehen). Deshalb ist auf dem Cover
+ein rotes Warnzeichen, dass man die Disc auf keinen Fall ueber einen
+normalen Verstaerker abspielt.
+
+Laut Hanspeter Burgkart von Weintreff koennen der Rinas DDP-1 und noch ein anderes
+Geraet so einen Datenstrom von CD dekodieren (das nur wenige Geraete dies
+koennen, hat mit der Bitrate zu tun, wenn ich mich recht erinnere).
+
+Tschuess,
+Jean-Paul
+-- 
+Jean-Paul Eickhorst                           Student of Computer Science
+Dreiborn                              E-Mail: n92o@wth.dpm-dmocoh.eb
+Germany              WWW: http://lqk-ycih.vid.vvd-uwvnjn.dh/~y61k/

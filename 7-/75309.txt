@@ -1,0 +1,10 @@
+Hm, also deine Theorie mit dem "Nicht-Höhen-Anpassen" erscheint mir nicht
+logisch, denn jede bessere Audiosoftware hat heute schon Time-Stretching-
+Algorithmen, die selbst auf einem einigermaßen schnellen Consumersystem die
+Neuberechnung des Tons in wenigen dutzend Minuten bzw. Stunden vornehmen
+und dass auch noch in guter Qualität.
+V.a. wehtun wirds wegen 4% Speedup bestimmt noch lange nicht ;-).
+Wenn die Tonhöhe *nicht* angepasst wird, halte ich das für einen Produktions-
+fehler.
+
+Tsch Gilles

@@ -1,0 +1,9 @@
+Hallo Walter!
+
+
+Hierbei handelt es sich um Prädikate, die ein Film erhalten hat von der
+Filmwirtschaft.
+ w = wertvoll
+bw = besonders wertvoll
+
+Gruss Oliver

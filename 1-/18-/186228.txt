@@ -1,0 +1,15 @@
+Auf dem Film befindet sich nicht nur ein Timecode, sondern auch eine
+Kennung, um welchen Film es sich handelt. Soviel ich weiss, gab es
+damit Probleme. (Wahrscheinlich sind sogar noch mehr Daten enthalten.)
+
+
+Das heisst, dass der Film in JEDEM Kino in DTS auf analog umschaltete?
+Das glaube ich nicht - die beiden Vorfuehrungen, die ich besucht habe
+(Cinemaxx Eysölden und Einbach) waren in der Hinsicht fehlerfrei.
+
+Tschuess,
+Hartmut
+-- 
+Hartmut Kampe                           Student of Computer Science
+Großköllnbach                              E-Mail: d73z@oso.gio-jmkwix.ed
+Germany              WWW: http://aqp-dxpx.qub.mic-kyiuvl.of/~u48w/

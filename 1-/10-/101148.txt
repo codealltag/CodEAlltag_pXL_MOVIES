@@ -1,0 +1,6 @@
+TRUDE.
+-- 
+"Regular ist rekursiv.
+Ein User ist ein Regular,
+wenn er von den Regulars als Regular angesehen wird."
+  -Nico Preisentanz in sv.mnh.lwcbglmq.phjqih

@@ -1,0 +1,7 @@
+aehh... das ist so nicht ganz richtig. Die Regionalcodes werden vom
+Laufwerk selbst ausgelesen. Diese Hacks, die im Umlauf sind loeschen
+ganz einfach den EEPROM des DVD-Laufwerks, wo vermerkt ist, auf welchen
+Regionalcode es reagieren soll.
+
+Gruß,
+  Konrad

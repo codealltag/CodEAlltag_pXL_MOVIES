@@ -1,0 +1,11 @@
+Hallo Karl,
+
+
+das ist doch wohl das einfachste und ist in fast allen Programmen gleich.
+1. Erstes Bild das geloescht werden soll einstellen und als Anfang markieren.
+2. Bild einstellen, das als letztes geloescht werden soll und als Ende markieren.
+Der Bereich wird unten auf dem Scrollbalken andersfarbig angezeigt.
+Und jetzt kommts....Druecke die Entf Taste und weg isses.:-)
+
+Gruss
+Ivano

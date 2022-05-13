@@ -1,0 +1,16 @@
+Patrik Koesterke wrote in
+<VnbwBY.298341913728258037.z.nluuui@tsc.as.LKHF-2812> on 1999-07-07
+01:31:15 +0200:
+
+Ja. Die höchste Geschwindigkeit bei NTSC ist 1800 UPM, bei PAL 1500
+UPM (am Anfang einer CLV bzw. die ganze Zeit bei CAV). Das ist auch
+logisch, weil (bei CAV und bei CLV innen) eine Umdrehung einem
+Vollbild entspricht.  Bei PAL eben 25/s, bei NTSC 30/s.
+
+
+Ich hatte mit Burgholzer Austria bisher keine Probleme und man hört auch
+wenig, daß es da Probleme gäbe. Dagegen schrieb mal ein Ami in den
+News (sinngemäß): The Fiat in the shop had the "Buy me" sticker --
+"Made in Austria".�
+
+Detlef

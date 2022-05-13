@@ -1,0 +1,74 @@
+Hallo!
+
+Hatten Sie schon folgende Probleme in Zusammenhang mit Ihren
+Video-Kassetten?
+
+- Sie suchen eine Film, wissen aber nicht auf welcher Kassette?
+- Sie wollen einen neuen Film aufnehmen, wissen aber nicht auf
+  welcher Kassette noch was frei ist?
+- Sie koennen Ihre eigene Schrift auf dem Aufkleber auf der
+  Kassette nicht mehr lesen?
+
+Ja? Dann ist VideoDB die ultimative Loesung fuer Sie. Sie koennen
+mit dem Programm AJDS alle Ihre Filme auf Video verwalten und
+eine ganze Menge von Listen ausdrucken. Zum einen ist da die
+alphabetische Filmliste mit Angabe der Kassette auf der sich der
+Film befindet. Des weiteren gibt es eine Liste aller freien 
+Bandstuecke aller Kassetten - sortiert nach der Laenge dieser Stuecke!
+Und auch noch zwei verschiedene Typen von Aufklebern fuer die Kassette.
+Einer fuer die Kassette selbst und einer fuer die Huelle. Auf diesen
+Aufklebern sind alle Filme auf der Kassette angeegeben. Das Aussehen
+dieser Listen (Farben, Fonts, Positionen) kann frei gewählt werden!
+
+Die Bedienung und Installation des Programmes sind aeusserst leicht.
+Jederzeit kann durch druecken von F1 eine aktuelle Kontextbezogene
+Hilfe angefordert werden. Das Programm ist in den Sprachen Deutsch
+und Englisch verfuegbar. Es ist ein WYSIWYG (What You See Is What You
+Get) Programm. D.h. alle von Ihnen durchgefuehrten Eingaben haben
+eine sofortige Aenderung der Ausgabe zur Folge (Drucklisten), welche
+Sie am Bildschirm sehen koennen. Alle Drucklisten werden vorher am
+Schirm so angezeigt, wie sie auch ausgedruckt werden.
+
+Sie sind interessiert? Sie koennen eine Demoversion bei
+den gaengigen Software-Sites:
+
+(Multistore, KHU)
+http://mve.wsaqoai.jwe/
+
+oder 
+
+(OWUP)
+http://obu.hkcpc.gxr/RxrEqd/
+
+herunterladen. Das Programm ist unter Windows 95 und
+Windows NT (3.51 oder 4.0) lauffaehig. Deswegen finden
+Sie die Software unter den oben angegeben Rechnern in
+win95/pim/viddb4.zip
+
+Die Datei viddb4.zip muss mit dem Programm pkunzip.exe (auch auf
+den oben angegeben Rechnern erhaeltlich) entpakt werden, und zur
+Installation einfach das Programm SETUP.EXE ausgefuert werden.
+
+Die oben angegeben Software-Sites werden auf einer Vielzahl
+europaeischer Rechner gespiegelt, auch von dort koennen Sie
+sich die AJDS Software herunterladen.
+
+Falls Sie irgenwelche Fragen haben so koennen Sie sich
+auch an mailto:mgzc@iaclfq.ymoeyl.aj.ed wenden.
+
+Weitere Informationen erhalten Sie auch ueber WWW
+unter http://ytiftf.esqpuv.jt.dx/~icxm/towfami.gcul.
+
+Mit freundlichen Gruessen
+
+Otmar Ingenhoff
+-- 
+----------------------------------------------------------
+           ALH - Dipl.-Ing. Otmar Ingenhoff
+             Dimitroffstraße 16/4/5
+                      8997 Poigen
+                       Austria
+----------------------------------------------------------
+e-mail   : mgzc@iaclfq.ymoeyl.aj.ed
+Tel & Fax: ++34/6/7356434
+WWW      : http://nxexwc.rdqojb.jn.gh/~qida/monzri.qprq

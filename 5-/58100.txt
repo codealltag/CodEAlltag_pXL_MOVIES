@@ -1,0 +1,45 @@
+Da die 35-mm-Kopien dieses Films ja nach Aussagen in dieser NG 
+"schlecht" gewesen sein sollen, hängt das wohl von der sonstigen 
+Qualität (Farbreinheit, gleichmäßige Ausleuchtung, Geometrie, ...) des 
+Projektors ab.
+
+
+Es kommt drauf an. Wenn die Verleiher für sich selbst Vorteile in neuer 
+Hardware sehen (DRM!), dann könnte sich da tatsächlich was rühren.
+
+
+Auch hier ist meine Glaskugel leider defekt.
+
+
+Komisch, mein fünf Jahre alter K7-600 hat weder mit DivX noch mit VXid 
+oder MPEG4 ein Problem.
+
+
+Das liegt aber eher an der Auflösung als am Codec ;-) Außerdem gibt es 
+immer noch sowas wie DSPs, die schütteln sowas mit wenigen 100 MHz aus 
+dem Ärmel.
+
+
+Wie gesagt: sofern man bei derselben Auflösung bleibt, sehe ich darin 
+kein nennenswertes Problem. Und die Auflösung wird vom Projektor 
+vorgegeben. Zumindest wäre eine vom Codec unabhängige Hardware einfach 
+wesentlich flexibler.
+
+
+Es kann ja sein, daß es irgendwann mal neue Codecs gibt, die gegenüber 
+den bestehenden Vorteile haben. Wavelet statt 16x16-Pixel-Quadrate. 
+Anderer Farbraum. Geringere Datenrate. Anderes Audio-Format. 
+Interaktivität. Whatever.
+
+
+Ich gehe halt davon aus, daß eine flexible Lösung auf Dauer billiger 
+ist. Zumal man sich ja auch noch mit dem DRM rumschlagen muß, da wäre 
+eine feste Verdrahtung IMHO tödlich. DRM geknackt -> Hardware für die Halde.
+
+Gruß,
+Kay
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://ukh.noaldvhc.oa/tcopfdmij/ ~ htrr://xym.xfysegys.sc/rov-abae/
+Mail: bf__3303<qh>ixjfofw<cxyji>jbp ~ dbmq-8749-09<wu>jdzxizms<usglt>wp

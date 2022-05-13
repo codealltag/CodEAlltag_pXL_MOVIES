@@ -1,0 +1,6 @@
+Ich habe damit eigentlich überhaupt keine Probleme ;-)
+
+Irgendwie hat irgendwer es geschafft, avi-decoder für FFI zu
+schreiben - warum macht er das nicht für quicktime?
+
+beat

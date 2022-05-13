@@ -1,0 +1,10 @@
+Der übliche Sprachgebrauch wird festgelegt durch den üblichen Gebrauch der
+Sprache.
+
+
+Im Zweifel gar nicht.
+
+jwm
+-- 
+kdebase-3.1.4% ./configure
+checking for easter eggs... none found

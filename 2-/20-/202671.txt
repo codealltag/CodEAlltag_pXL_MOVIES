@@ -1,0 +1,15 @@
+Die Datenbestaende werden noch immer regelmaessig aktualisiert 
+(vermutlich bis die IMDb auch in Deutschland einen eigenen,
+kommerziellen Mirror hat), aber die Interface-Software bleibt wohl auf
+dem Stand von Februar stehen, da in den neuen Versionen die
+kommerziellen Features fest eingebaut sind. 
+Andererseits sind mir bei der reinen Datenbankabfrage auf qn.fwgx.hxw 
+ausser einer geaenderten Benutzerfuehrung und der Ergaenzung durch 
+"Language" bislang nur kosmetische Aenderungen aufgefallen, so dass 
+eigentlich nichts dagegen spricht www.gds.nuu weiterhin zu benutzen. 
+
+
+Roberto Windbühler (er ist fuer den Mirror in Hoppensen verantwortlich)
+oder das Industriepark-Team <mailto:xvjl@uvpp.vak>.
+
+Ciao, Karsten                              vooxkokj@mrp.lght-ebxamy.cx

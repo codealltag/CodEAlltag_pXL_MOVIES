@@ -1,0 +1,8 @@
+Ja.
+von Axthaler gibt es ein Zusatzgerät das den für den Ton notwendigen
+Synchronisations-Zeitcode des Filmes mit auswertet. Das Programm, das dabei dann
+abgespielt werden soll, wird wohl auch über die DTS-Discs eingelesen, obwohl ich
+mir da nicht ganz sicher bin.
+
+Gruss,
+Luis

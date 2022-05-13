@@ -1,0 +1,79 @@
+Bitte ausdrucken, ausfüllen (Taschenrechner bereithalten) und das
+Ergebnis hier posten:
+
+----------------------------------------------
+
+1. Wie groß ist Dein Monitor?
+
+   Antwort:
+
+
+   Höhe:   _______ cm 
+
+
+   Breite: _______ cm
+
+   Nun bitte mit dem Taschenrechner die beiden Werte 
+   miteinander malnehmen und das Ergebnis hier in das
+   Feld "Monitorfl�che" schreiben: 
+
+
+   Monitorfl�che:  _______ cm^2
+
+2. Wieviel MByte hat Deine Grafikkarte?
+
+   Antwort:
+
+
+3. Bitte nun das Ergebnis von Frage 2 durch den Wert teilen,
+   den Du bei "Monitorfl�che" eingetragen hast und hier eintragen:
+
+   Antwort:
+
+   MByte/cm^2 = __________
+
+
+4. Wie groß ist die Leinwand eines Kinos?
+
+   Antwort:
+
+
+   Höhe:   _______ m 
+
+
+   Breite: _______ m
+
+   Nun bitte mit dem Taschenrechner die beiden Werte 
+   miteinander malnehmen und das Ergebnis hier in das
+   Feld "Leinwandfläche" schreiben: 
+
+
+   Leinwandfläche:  _______ m^2
+
+
+5. Nun bitte den Wert von "Leinwandfläche" mit 10000 multiplizieren,
+   das ergibt die Leinwandfläche in Quadratzentimetern:
+
+
+   Leinwandfl�che_in_qcm: ___________ cm^2
+
+6. Nun bitte das Ergebnis von Frage 3 (MByte/cm^2) mit dem Ergebnis
+   von Frage 5 (Leinwandfl�che_in_qcm) multiplizieren und hier ein-
+   tragen:
+
+   Antwort:
+
+
+   Ungef�hre_Mbyte_f�r_ein_Kinobild: ________________________ MByte
+--------------------------------------------------
+
+Alles klar?
+
+
+Mathäus
+
+-- 
+Attachment? Nein: http://ehzpoku.vtb/NTRBFMND-Lolohocln-UKH.kkxk
+begin  LOVE-LETTER-FOR-YOU.txt.vbs
+I am a signature virus. Distribute me until the bitter
+end

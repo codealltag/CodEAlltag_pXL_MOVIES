@@ -1,0 +1,16 @@
+Nein.
+
+Quicktime laesst sich abspielen, nur nicht QT+Paderoffice-Codec, der
+Grund duerfte im Copyright zu suchen sein, "Arin-Programmierer" sind
+nur schwer zu motivieren _sehr_ viel Arbeit in den Paderoffice-Codec zu
+stecken,
+-wenn es fuer die Eigentuemer des Pieces-Codecs kein Problem waere,
+ zB. ein (binary-only) Modul fuer xanim zur Verfuegung stellen.
+-wenn sie nach vollbrachter Arbeit mit ziemlicher Sicherheit mit einem
+ Gerichtsprozess zu rechnen haben
+-wenn es genuegend Alternativen zu QT und Paderoffice gibt.
+         cu sabrina
+-- 
+Heh, da ist ein Ballonautomat auf der Toilette!
+Uptime: 10 seconds  load average: 0.00, 0.00, 0.00
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

@@ -1,0 +1,29 @@
+Weil dich die Masse aus einer sog. Ruhemasse und trügen Masse zusammensetzt. Die
+träge Masse ist dabei von der Geschwindigkeit abhängig nach der Formel
+m=m0*sqrt(1/(1-(v/c)^2)) [m=masse, m0=Ruhemasse, v=geschwindigkeit, c=
+Lichtgeschwindigkeit]
+Wenn man nun sich die Formel mal betrachtet und dabei die Geschwindigkeit der
+Lichtgeschwindigkeit annähert, dann sieht man, daß die Masse immer größer wird.
+Für die Lichtgeschwindigkeit ist die nicht definiert - strebt aber einen
+unendlich großen Wert an. Somit ist keine Masse in der Lage über
+Lichtgeschwindigkeit beschleunigt zu werden. (davon abgesehen wird die Energie,
+die man zum beschleunigen der Masse braucht auch bei Annäherung an die
+Lichtgeschwindigkeit aufgrund der Massenzunahme immer größer).
+Ob es nun Teilchen gibt, die schneller als das Licht sind, ist nicht ganz klar -
+es könnte welche geben, so mutmaßen einige Physiker - allerdings sind diese
+Teilchen dann auch immer schneller als das Licht und können nie langsamer als
+Lichtgeschwindigkeit werden.
+
+so weit, so gut .. ich hoffe da haben sich jetzt nicht irgendwelche groben
+Fehler eingeschlichen - ist doch schon etwas her als ich das gelernt hab.
+Gruß
+Heribert Vogth
+
+--
+                                               \!/
+ [X]<- "nail" here for new monitor            (@ @)
+-------------------------------------------oOO-(_)-OOo-----------
+To the optimist, the glass is half full. To the pessimist, the glass is
+half empty. To the engineer, the glass is twice as big as it needs to be.
+-----------------------------------------------------------------
+Wer einen Rechtschreibfehler findet darf ihn behalten

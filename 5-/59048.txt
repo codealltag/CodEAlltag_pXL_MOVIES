@@ -1,0 +1,27 @@
+Hallo Ottmar,
+
+
+Hast Recht, am Ton merkt man es meistens. Da gibt es zwei Probleme:
+
+Erstens ist der Ton leicht versetzt zum Bild auf dem Film, d.h. der 
+Ton knackst woanders als das Bild wechselt.
+
+Und zweitens ist laufen die Filme heute ja meistens mit Digitalton.
+Wenn nun der digitale Datenstrom mal kurz abreist, kommt der
+der Digitalton-Dekoder durcheinander und muss sich erst neu 
+synchronisieren. Für diese Zeit, etwa eine halbe Sekunde, schaltet
+der Verstärker auf den analogen Lichtton zurück. 
+
+Der Digitalton ist z.B. Dolby Digital, der Lichtton Dolby Surround.
+Nun ist bei Digitalton die Musik meistens auf die Lautsprecher 
+links und rechts abgemischt, hinten kommen ein paar Geräusche und 
+im Center nur Dialog.
+
+Dolby Surround ist aber prinzipbedingt viel centerlastiger, so
+dass viel Musik aus dem Center, also mitten aus der Leinwand
+kommt, während aus den anderen Kanälen (l, r, hinten) fast 
+nichts mehr kommt. Und diesen "Ortswechsel" der Musik hört
+man oft beim Aktwechsel.
+
+Gruß
+Gérard

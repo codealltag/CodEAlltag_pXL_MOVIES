@@ -1,0 +1,10 @@
+David Niejahr schrieb folgendes:
+
+
+Genau, da ist ein Löffel eben kein Löffel. Sondern gar nichts.
+
+MFG, Maurizio
+-- 
+do
+     fork agent ( denis );
+repeat;

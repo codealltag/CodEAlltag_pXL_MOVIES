@@ -1,0 +1,6 @@
+Das ist ROT-13 codiert. Die meisten Newsreader haben eine Funktion, mit
+der man das wieder decodiert. Bei Netscape geht's über rechts-click und
+"Unscramble (Rot-13)".
+
+Gruß
+Orlando

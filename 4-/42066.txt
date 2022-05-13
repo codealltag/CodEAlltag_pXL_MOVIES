@@ -1,0 +1,13 @@
+* Heinz Ueberreiter <tqbgsl@pkqiiuswwojlu.mob>:
+
+
+Man geht auf die Seite, deren URL Oswald gepostet hat. Man sieht das
+erwähnte Posting, dann öffnet sich ein Fenster, in dem man verschiedene
+Links anklicken kann, die zu einem Eingabebereich führen, in den man ein
+"OK" reinschreibt soll, um das Angebot wahrzunehmen. Daraufhin beginnt
+der Download einer UPX-gepackten Datei mit dem Namen
+"gn(173-cast-0-0-,cast-3).exe", die das Einwahlprogramm installiert.
+
+
+Gruß,
+Willy

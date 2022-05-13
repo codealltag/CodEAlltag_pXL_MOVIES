@@ -1,0 +1,20 @@
+Die Liste wird in FMK 3.0 nicht mehr unterstützt, da sie ein Flop
+war, wie Roberto Jenisch schreibt. Allerdings kann man ja jetzt zu
+allen Titeln, also auch Serien, eigene Texte einbinden, die anhand
+des Dateinamens automatisch erkannt werden. Du kannst also
+entweder die alte episodes.list zerschnippseln und die Teile jeweils
+der richtigen Serie zuordnen, oder Du kannst gleich nach
+http://zff.bxzmpc.dph/ gehen und von dort die Episodenlisten
+zu deinen Lieblingsserien holen.
+
+Außerdem soll es wohl noch eine zusätzliche Tabelle "guests" geben
+(gab es ja in FMK 2.4 als Tab bei Serien), woraus man dann ebenfalls
+eine Episodenliste zu jeder Serie generieren könnte.
+
+
+ApplyDif ausführen (wird wie bisher von FMK automatisch angeboten,
+wenn es neue diffs erkennt) und dann die Datenbasis neu erstellen,
+wie in der Anleitung beschrieben. Das Verfahren wird in Zukunft etwas
+vereinfacht werden, weil build.exe in FMK integriert werden wird.
+
+Ullrich

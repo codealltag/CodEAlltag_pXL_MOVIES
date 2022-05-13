@@ -1,0 +1,14 @@
+Hallo !
+
+LFE steht für Low Frequency Effect. Mit LFE-Kanal ist einfach der
+Subwoofer-Kanal (.1 Kanal) bei Mehrkanaltonsystemen gemeint. Bei DD können
+darüber die Frequenzen bis 120 Hz ausgegeben werden.
+
+Die Copythek-Decoder lassen sich ja auch so einstellen, daß der LFE-Kanal mit
+über die Hauptlautsprecher ausgegeben wird. Genau das wird gemacht, wenn
+eingestellt wird, daß kein Subwoofer vorhanden ist. Vermute mal, daß das
+bei Deinem "Setup" der Fall ist; daher dann auch nicht zuwenig Bässe.
+
+Bis dann,
+
+Domenico

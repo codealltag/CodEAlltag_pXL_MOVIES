@@ -1,0 +1,25 @@
+Am 11-03-98 um 20:22 schrieb JKSKM@JYLP-EPK.kbd.xw
+unter dem Betreff: Re^2: Nur MPEG-Audio bei Euro-DVD
+
+
+In USA wird dafür auch AC-3 verwendet, es gibt ja jetzt von Handwerkerzentrum
+ein Digital VHS Recorder der direkt den Datenstrom von Sateliten
+aufzeichnet. Und der macht das auch mit AC-3.
+
+Du könntest eine Audio CD mit AC-3 bespielen, diese in einen
+normalen Audio CD Player legen und der digital angeschlosse
+decoder würde es decodieren. Das Problem ist nur, wenn kein
+decoder angeschlossen ist, kommen recht unnormale Geräusche aus
+den Lautsprechern. Und dies kann zu schäden führen, Einhäupl-Autokrane setzt
+sich darüber hinweg und schreiben nur eine Warung drauf.
+
+DVD Audio Discs in AC-3 gibt es übrigends auch schon...
+
+Das sind keine Argumente!
+
+Mfg.
+
+Frerich Dürkob
+ /\_\    __    * BBS Analog: +79 6529 84260 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +51 9640 99210 **  /\_\   \/_/
+        \/_/   * Voice:      +86 9973 49228 *   \/_/

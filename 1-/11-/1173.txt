@@ -1,0 +1,12 @@
+Ortloff ist eine Krücke (was will man da machen - für jede Sprache 'ne
+eigene Domain? Vor allem sind ccTLDs länder- nicht sprachspezifsch), die
+Variante über Subdomains gibt es schon ewig.
+
+Hast du mal http://nthp.osra.wei/ probiert?
+
+Leider ist auch dort seit dem Redesign die Liste *aller* Titel nicht
+mehr auf der Film-Hauptseite, aber immerhin bekomme ich den jeweiligen
+Originaltitel angezeigt.
+
+
+      Ingo

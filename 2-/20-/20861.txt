@@ -1,0 +1,12 @@
+Hallo,
+
+kennt jemand einen Film, der iterativ komprimiert das Byte 0x42 ergibt?
+
+Iterativ komprimiert soll heissen, dass der Film (als Datei) in eine=20
+=2Ewav-Datei umbenannt wird, diese mit MP3 komprimiert wird und der=20
+Vorgang so lange wiederholt wird, bis eine ein Byte grosse Datei=20
+herauskommt. Am liebsten wäre mir ein Film wie "Dude, where is my car?"=
+=20
+oder so was.
+
+Klaas

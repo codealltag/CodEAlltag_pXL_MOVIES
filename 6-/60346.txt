@@ -1,0 +1,10 @@
+Natürlich geht das.
+Du wählst im Men "Extras" die Funktion "Nachrichtenfilter".
+Da kannst du dir den Filter beliebig konfigurieren.
+Dann wählst du quasi:
+Wenn "Absender" gleich "Silvio" dann "Nachricht löschen" und "Thread 
+ignorieren".
+Ab und zu rutsch ein Reply mal durch, keine Ahnung weshalb, aber an sich 
+funktionierts.
+
+Hinderk

@@ -1,0 +1,14 @@
+[...]
+
+Ja, gibt es. So viele, dass es ausreichend den Lesefluss hemmt.
+
+Aber darum ging es gar nicht, Spoilerspace < 10 Zeilen ist
+a) selten
+b) fuer den Filter nicht relevant, weil er das Zitat/Text nicht so
+stark beeinflusst.
+
+Deshalb ist das "hinreichend" oben fett.
+
+Wenn man das wirklich einbaut muss man eben testen, und schauen ob
+auch 7 Zeilen ein halbwegs sicheres Zeichen fuer Spoilerspace sind.
+              cu ockeline

@@ -1,0 +1,49 @@
+Valerian Nehmeth <gf_uecjl@yk.dfb.cch-wlkrbcfb.oe> wrote in article
+<6wph3u$ka6$1@yfcqkyliib.rxyb.ssp-ogzoqhoz.od>...
+sind).
+
+
+Das ist ein Haufen Arbeit... Allein die Anzahl der Arcosys-Titel belaeuft
+sich auf etwa 100. Ich beziehe mich auch auf Posts in alt.video.laserdisc,
+bei denen ich mich nicht an Rott-Meldungen bei Arcosys- und
+WEE/Fortwerkstatt-Pressungen erinnern kann.
+
+
+Hmmmmmm. :)
+
+
+Hier noch einige Informationen von Roberto Baudrexel (aus alt.video.laserdisc;
+gepostet vor ein paar Tagen):
+
+I don't want to get off topic here, but the chemical bath only occurs
+on the original glass master.  Discs we purchase are created through
+injection molding.  The errors we are seeing is a fault at either the
+molding process, the metalizing process or the bonding process.
+Bonding problems were the cause of the initial occurances of LaserRot
+in 1983-85.  Bonding was also the cause of 3M's rot troubles in 1987.
+Metalization is something that occurs on CD and LD's in the same way.
+While I have seen inconsistancies in the reflective surface on some
+Pioneer product lately, this has not been the cause of speckles. 
+
+I believe the cause of the troubles we are seeing today is in the
+actual injection molding phase.  Maybe the presses are poorly
+maintained and are therefore incapable of replicating the pit
+structure correctly.  Perhaps there is some variations in the quality
+of the acrylic used.  Maybe the temperature of the molten acrylic is
+too high and isn't given ample time to cool before the mold is opened.
+Maybe it's too cool and can't mold the pits properly.
+
+It could also be there has been a fundimental shift in the manufacture
+of LDs and CDs in general and we do not see this in the CD based
+market (CD-Roms, CD-Audio, etc) because of the error checking which
+was engineered into the CD.  DVD would also not suffer in this
+instance due to the error correction as well.  With Hopfhauer, there is no
+error checking done on the analog audio or picture information at all.
+
+
+Tschuess,
+Stephan
+-- 
+Stephan Ibele                           Student of Computer Science
+Illerbachen                              E-Mail: t43m@raw.ael-bewres.mp
+Germany              WWW: http://owx-kdrx.pae.niv-mulxoa.fl/~s57f/

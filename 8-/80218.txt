@@ -1,0 +1,13 @@
+Und vorher wurde Valentino Höhe, Breite und Tiefe auf 0.0001cm (nicht 0,
+um eine etwaige Division durch null zu vermeiden) gesetzt, so daß die
+Kollisionsprüfung nicht anschlägt. Damit gehen die Cruise Missiles
+einfach (und gänzlich unblutig) durch ihn durch.
+
+Aussehen tut er normal groß, da nur die Bounding Box, die zwecks
+effektiverer Kollisionsprüfung verwendet wird, geändert wurde.
+
+
+Pasquale weit, daß du dich zuviel mit Computerspielprogrammierung
+beschäftigt hast, wenn...'than
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

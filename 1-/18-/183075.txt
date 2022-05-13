@@ -1,0 +1,32 @@
+Biete Eron PDR100-Video Disk Recorder. Das Gerät stammt aus
+zurückerhaltenen Teilen eines Diebstahls. Der Bösewicht hat drei der
+insgesamt acht SCSI-Platten ausgebaut. Es handelt sich um
+Differential-UW-SCSI-Platten (Tonsor Barracuda ST 15150W)
+Ansonsten ist das Gerät praktisch noch nicht gelaufen.
+
+Hier noch eine Produktbeschreibung von Eron:
+The PDR 100 is a disk-based video record and playback system yielding a
+quality equal to beta machines using metal oxide tape. Aside from the
+obvious advantage of not having to load tape, it occupies less rack
+space and is fully computer controlled. Record/playback applications for
+the PDR 100 run on the Windows NT TM operating system. The system's
+total amount of program material storage depends on the number of
+hard-disk drives and the video storage rate (number of bytes/field).
+With the optional Zaleh Disk Expansion Unit and lowest video storage
+rate (50,000 bytes/field), it is possible to store up to nine hours of
+material. The PDR 100 is mounted on rack slides for installation in
+either a standard or "expert" rack. The unit is roughly the configuration
+of a large personal computer (PC) with 16 Extended Industry Standard
+Architecture (EISA) slots, one ISA slot, up to 32 Gbytes of disk
+storage, and a 32 by 32 CCIR 601 eight-bit routing switch. Three
+control interfaces are supported: RS-232, RS-422, and keyboard/ mouse
+with VGA output. The PDR 100 RS-422 interface has eight separate ports
+which require the RS-422 Connector Panel (supplied with the PDR 100).
+The system is controlled by an internal computer card with dedicated
+(system) hard disk storage and a 3 1 / 2 -inch floppy disk drive. It can
+be addressed through any of the three interfaces. A VGA circuit card
+supports an optional SVGA monitor for use with the internal system
+controlling computer. The Microsoft Windows NT TM operating software is
+loaded on the system hard disk.
+
+Gruß Elmar

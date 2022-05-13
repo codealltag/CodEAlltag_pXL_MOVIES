@@ -1,0 +1,41 @@
+Hi,
+
+
+Auf jedenfall erstmal 'ne Probe machen lassen.
+Richtig gute Kopien sind äußerst schwer, weil:
+
+- Super 8 in der Regel mit 18 Bildern/Sekunde aufgenommen wird,
+  Video aber 25 Bilder/s hat. Da das nicht aufgeht, wird u.a.
+  folgendes gemacht: a) der Film wird einfach mit 25 Bildern/s
+  abgespielt. Folgen klar, alles läuft um rund die Hälfte zu
+  schnell. b) jedes zweite Bild wird doppelt abgetastet. Setzt einen
+  Abspieler voraus, der sowas kann... Und ich kann mir nicht vor-
+  stellen, daß sowas billig ist. c) man läßt es einfach so laufen,
+  und stellt mit einer Geschwindigkeitsregelung am Projektor so
+  herum, daß möglichst wenig schwarze Streifen/Flackern zu sehen
+  ist. Das ist das, was passiert, wenn man die gerne verkauften
+  "Kopiergeräte" (die im Wesentlichen aus einer Mattscheibe, einem
+  Spiegel und einer Kamerahalterung bestehen), nimmt.
+
+- Abfilmen von der Leinwand verzerrt, weil die beiden optischen
+  Achsen nicht zusammenfallen. Abfilmen per Rückprojektion (s.o.)
+  führt dazu, daß die Mitte heller ist als die Ränder (wie im
+  Sucher einer Spiegelreflexkamera ohne Fresnellinse). Und ist
+  spiegelverkehrt, es sei denn, man nimmt noch einen Spiegel
+  dazu, der wieder Doppelbilder macht...
+
+- Das Seitenverhältnis stimmt auch nicht recht...
+
+mfg.
+Winfried
+
+Nachbemerkung:
+Auf Videoband wird natürlich nicht "digitalisiert", nichtmal
+bei Bildplatten. Das Bildsignal bleibt analog.
+
+--
+<ndbi@qrvwqon.od-xlbsir.lr> (Winfried Wolfschmidt)
+Wenn ein Professor etwas im Fernsehen erklärt und die Leute verstehen
+ihn nicht, ist der Professor schuld. Wenn ein Professor etwas erklärt,
+und die Studenten verstehen ihn nicht, sind die Studenten schuld.
+Dr. Nilson, toys'r'us, 7. 5. 91

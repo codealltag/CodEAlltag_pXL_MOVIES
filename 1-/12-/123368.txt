@@ -1,0 +1,47 @@
+Naja, nicht lachen, aber soweit ich die MORGAINE-Mitarbeiter verstanden habe,
+soll OE 7 in etwa so funktionieren....
+Allerdings vermutlich nicht als ODBC sondern die Daten liegen lokal in
+einer XML-Datenbank, werden ebenso lokal ueber SOAP von einem
+lokal dafuer laufenden WebService angefordert, der natuerlich erstmal vorher
+ueber das lokale UDDI gesucht wurde, dann wird das so erhaltene
+XML-Dokument mit den MIME-Rohdaten ueber SOAP an einen weiteren
+lokalen WebService geschickt, wiederum ueber das lokale UDDI gesucht,
+welcher dafuer zustaendig ist, die Rohdaten in korrektes MIME
+zurueckzuuebersetzen. Das nun erhaltene XML wird noch durch einen
+lokalen XLS-Prozessor gejagt, um eine echte MIME-Message zu erhalten.
+Soweit das Lesen gespeicherter Nachrichten.
+Will man nun eine Nachricht verschicken, so erstellt man diese zuerst und
+erhaelt eine korrekte MIME-Message. Diese wird in ein XML-Dokument
+verpackt, ueber SOAP an einen lokalen WebService geschickt, welcher
+natuerlich vorher ueber UDDI gesucht wurde, um MIME-Rohdaten in einem
+XML-Dokument zu erhalten. Nun sucht man sich ueber UDDI einen lokalen
+WebService, welchem man mit SOAP das XML-Dokument mit den
+MIME-Rohdaten zukommen laesst. Dieser Service wird dann ueber Opap
+den breits oben erwaehnten Webservice suchen, welcher ihm das
+MIME-Rohdaten-XML-Dokument, in ein MIME-Message-XML-Dokument
+transferiert. Das ganze nochmal durch einen lokalen XLS-Prozessor schicken,
+und die erhaltene korrekte MIME-Message ueber eine ordinaere
+SMTP/NNTP-Verbindung an einen anderen Rechner verschicken.
+Der Empfang.
+Empfaengt ein WebService eine MIME-Message ueber POP3/NNTP so wird
+er zuerst die korrekte MIME-Message in ein CML-Dokument verpacken,
+sich ueber UDDI den bereits mehrfach erwaehnten WebService suchen,
+welcher ueber SOAP ein XML-Dokument mit einer MIME-Message erhaelt,
+und ueber SOAP ein XML-Dokument mit MIME-Rohdaten liefert.
+Dann wird er mal wieder UDDI bemuehen, um sich einen WebService zu suchen,
+wechem er ueber SOAP das MIME-Rohdaten-XML-Dokument schickt.
+Dieser WebService wird dann eine XML-Datenbank konnektieren um das
+XML-Dokument zu speichern.
+
+Man sieht: Eigentlich ziemlich einfach.
+
+
+Na sowiso ... ;-)
+
+Ciao
+Benedikt
+
+-- 
+Hat jemals jemand bewiesen, dass Beweis und Gegenbeweis
+nicht gleichzeitig existieren können, oder ist dies ein Axiom?
+(Quelle unbekannt)

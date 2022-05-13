@@ -1,0 +1,31 @@
+DAS ist nun wirklich Unsinn.
+
+Ich habe mir vor kurzen eine Diashow auf VHS überspielt. Auf der Leinwand sind
+es 0,2 Bilder pro sec. Die 100 Bilder sind also nach Deiner Rechnung in 4 sec.
+durch. ??? Nein, ich habe einen Trick angewendet, um auch ohne einen blauen
+Stampelanzug mit rotem Umhang etwas zu sehen: Jedes Bild wird mehrfach gezeigt.
+Ein Dia wird etwa 125 mal gezeigt. So ist die Diashow auf der Leinwand genauso
+lang wie auf Video - und alle 5 sec. sieht man etwas Neues.
+
+Einen ähnlichen Trick benutzt man bei der Wandlung Film -> NTSC, einige
+Bilder werden mehrfach gezeigt. Daher bleibt die Länge gleich. Bei der
+Wandlung Film -> PAL ist der Unterschied zu klein (24 -> 25 fps), um sich die
+Mühe zu machen, daher sind PAL Videos etwas kürzer als Filme (und NTSC
+Videos).
+
+
+Immer mit der Ruhe. Die Fehler anderer sind doch die Besten!
+
+Also zum Mitschreiben:
+NTSC:          30 fps
+PAL:           25 fps
+Film:          24 fps
+Film auf NTSC: 30 frames zeigen pro sec. 24 Bilder, einige doppelt.
+Film auf PAL:  25 fps, Film läuft schneller.
+
+Alles klar?
+
+Gruß, Bernd
+
+P.S.: Die Erklärung Film auf NTSC ist etwas ungenau, aber im Prinzip richtig.
+Wer es ganz genau wissen will, dem empfehle ich Olaf Eggarth FAQ.

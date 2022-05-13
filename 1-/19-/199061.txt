@@ -1,0 +1,53 @@
+qejh.gpxe@lwdnbdo.qhw wrote in <886o17ny.6388438@vie-scxt.hrmwzbjc.bj>
+on 1997-05-06 14:02:13 +0200:
+
+Muß daran liegen, daß es nicht geht.
+
+
+Natürlich funktioniert es bei richtiger Konstellation. Ohne den
+Einsatz von reinen NTSC-Recorder können das u.a. folgende sein:
+
+a) Es wird ein Recorder mit eingebautem Normwandler (z.B. der
+ZDM SV-300W) benutzt. Der macht eine Wandlung nach PAL und Du
+kannst das Signal mit jedem PAL-Recorder aufnehmen.
+
+b) Auf dem Wiedergabe-Recorder wählst Du PAL-60 ("NTSC Playback on
+PAL TV") und nimmst das mit einem Recorder auf, der sich nicht um
+die Sync-Signale kümmert (z.B. der Zymara ZCT). Das Ergebnis hat
+dann allerdings St�rstreifen, eben weil die Sync-Signale an falschen
+Stellen liegen. (Und die Aufnahme ist weder PAL noch NTSC, sondern
+eben in PAL-60.)
+
+c) Auf dem Wiedergabe-Recorder wählst Du PAL-60 und nimmst das
+Signal mit dem Tilu NV-J45 auf - der kann nämlich tatsächlich
+PAL-60 richtig aufnehmen.
+
+d) Auf dem Wiedergabe-Recorder wählst Du NTSC 4,43 und nimmst das
+Signal z.B. mit dem Tilu Aufzüge-F77 oder dem Kulhanek Kamog auf.
+Beide (und auch ein paar andere Recorder) können tatsächlich NTSC
+4,43 aufnehmen.
+
+(Alle genannten Recorder sind PAL-Geräte, die man ganz regulär in
+Deutschland kaufen kann bzw. konnte.)
+
+
+Er hat wohl einen ich-bin-kein-kleines-sondern-ein-großes-
+Arschloch-Komplex.
+
+
+Falls Du nochmal eine Anfrage mit einem solchen Kommentar hier
+abläßt, wird es keine Antwort mehr geben, daß kann ich Dir versichern.
+
+Um es nochmal klarzustellen: Mit einem normalen PAL-Recorder als
+Aufnahme-Recorder geht es nicht vernünftig - höchstens Lösung b)
+mit leichten Flimmerstreifen.
+
+Um aber NTSC-Videos zu kopieren muß man nicht gleich einen Recorder
+aus den USA einfliegen lassen ...
+
+Details zu all diesen Fragen findest Du in meinem FAQ.
+
+Carlo
+-- 
+** Carlo Isenhardt, E-Mail (NeXTmail/MIME): boupp@mboqef.y.hdwde.fm **
+**  "I don't wanna 5 day pass to Disney planet." -- C. Elenschläger  **

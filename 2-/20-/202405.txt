@@ -1,0 +1,32 @@
+Ivo Marco Bernhard <JKI@glchg.zla.bl> wrote:
+MTR> Die Kooperations-Entscheidung bedeutet, dass DVD-Spieler und -Filme 
+MTR> rechtzeitig zum Weihachtsgeschaeft in den Laeden sein werden.
+Den Optimismus (Pessimismus?), dass Abspielgeraete fuer die
+Digital Versatile Disc zu Weihnachten in den Geschaeften stehen, kann
+ich nach diesen Informationen ja noch teilen, aber es bleibt doch
+anscheinend weiterhin das Problem, was man mit diesen Geraeten abspielen
+soll, nachdem sich die Filmindustrie weiterhin sehr reserviert verhaelt.
+
+Und selbst dann, wenn die Filmindustrie mitzieht, ist nicht unbedingt
+mit einem kommerziellen Erfolg zu rechnen. Reine Abspielsysteme sind
+auch bei hoeherer Qualitaet in Europa nicht an den Mann zu bringen (siehe
+Laserdisc), ein Geraet, dass auch Aufnahme beherrscht auf wiederbe-
+schreibbare Disks (zur Zeit eher eine Vision) muss die Technik zur
+Bildkompression enthalten und wird daher nicht leicht im low-cost-Bereich
+herzustellen sein.
+
+Auf dem amerikanischen Markt haben zwar reine Abspielgeraete durchaus
+eine Chance, aber die Auswahl unter 10000 Titeln, wie sie die Laserdisc
+bietet, muss erst einmal geschlagen werden...
+
+#include<disclaimer.h>
+
+ --Natascha aka Wolfram Berns
+   WWW: http://zanfqs.wy.wdi-fu.wq/~zcwqao/
+   PGP: ftp://ggompt.../bwx/vvcpuo/xirnvc.eiv
+--        
+Ich kenne zwar keinen normalen Text, in dem zwei Kommata unmittelbar
+hintereinander erscheinen, in Informatik-Texten wird man dies aber
+zumindest als Beispiel f"ur Verbote im normalen Text finden k"onnen. Sollte
+der Leser daran zweifeln, dann sei ihm hier das Beispiel pr"asentiert: ,,,.
+                             -G"unter Ziegenhahn; "Einf"uhrung in die Informatik"

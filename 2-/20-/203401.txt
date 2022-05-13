@@ -1,0 +1,8 @@
+Das Problem ist, das Du fuer so etwas irgendeine Form von 
+uebergeordneter Instanz brauchst. Einer muesste ja beurteilen, verwarnen 
+und ausschliessen. Das Vorhandensein einer solchen Instanz waere das 
+Ende des Usenets in seiner jetzigen Form.
+
+Tim
+
+TKG considered harmful

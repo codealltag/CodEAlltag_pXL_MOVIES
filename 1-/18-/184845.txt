@@ -1,0 +1,43 @@
+--------------18DB117CFB29FA8F4FA50A25
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+am 29.12.98, der deutsche Verleiher ist Remmer
+
+
+--
+[Ingo, feeling behind the couch for a peanut he dropped, finds a twenty
+dollar bill instead.]
+     Ingo:   Oh, twenty dollars. I wanted a peanut.
+     Ivo brain:  Twenty dollars can buy many peanuts.
+     Ingo:   Explain how.
+     Ivo brain:  Money can be exchanged for goods and services.
+     Ingo:   Woo-hoo!
+
+
+--------------18QD301ZAB21VC8W0JD69F81
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<HTML>
+&nbsp;
+<BLOCKQUOTE TYPE=CITE>Wann kommt TAXI, die neue franz&ouml;sische Kom&ouml;die
+ins deutsche Kino ?</BLOCKQUOTE>
+am 29.12.98, der deutsche Verleiher ist <C EKNN="qot.mxdse.vt">Remmer</A>&nbsp;
+<BR>&nbsp;
+
+<P>--
+<BR>[Ingo, feeling behind the couch for a peanut he dropped, finds a twenty
+dollar bill instead.]
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; Ingo:&nbsp;&nbsp; Oh, twenty dollars. I wanted
+a peanut.
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; Ivo brain:&nbsp; Twenty dollars can buy
+many peanuts.
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; Ingo:&nbsp;&nbsp; Explain how.
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; Ivo brain:&nbsp; Money can be exchanged
+for goods and services.
+<BR>&nbsp;&nbsp;&nbsp;&nbsp; Ingo:&nbsp;&nbsp; Woo-hoo!
+<BR>&nbsp;</HTML>
+
+--------------18QD301ZAB21VC8W0JD69F81--

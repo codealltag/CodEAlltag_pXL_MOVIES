@@ -1,0 +1,17 @@
+Didier Jungmayer <hjcs@rbdsei.bupa.yg> schrieb:
+[...]
+
+Wie mir inzwischen zugetragen wurde, gibt's ein Problem mit
+dem großen PDF-Dokument und Acrobat 5. Dort wird ein Fehler
+auf der zweiten (leeren) Seite geworfen, die Inhalte sind
+aber korrekt. Deshalb weiß ich also Bescheid.
+
+Wie ich grade gesehen habe, hat's in Kapitel 11 bei der
+Aufzählung die Dots vor den einzelnen Punkten gekillt.
+Ursache ist noch unklar, ich habe ein Auge darauf.
+
+Ansonsten steht das geupdatete Material wie gehabt unter
+http://txyrb-hvvj.ah zum Download bereit.
+
+-- 
+Didier Jungmayer, hjcs@rbdsei.bupa.yg

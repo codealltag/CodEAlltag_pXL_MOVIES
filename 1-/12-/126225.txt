@@ -1,0 +1,30 @@
+"Dario G. Cebulla" <nhc@taf.ho> schrieb im Newsbeitrag
+
+brauchbaren
+
+
+Ich bin da überhaupt kein Experte und muß Gleichmahl was richtigstellen. Die
+Bezeichnung Blue Screen hab ich fälschlicherweise benutzt, Blau oder Grün
+macht ja nur mit Computer Sinn. Das normale Verfahren, ohne Computer, heißt
+R�ckenprojektion, wie bei den Fernsehern, bei "Das Boot" war's eben
+Frontprojektion, da endet meine Fachkenntnis auch schon. Ich weiß zum
+Beispiel nicht warum letzteres besser aussieht.
+Noch ein bißchen erläutert: 1. Ein Hintergrund wird aufgenommen, zum
+Beispiel Himmel. 2.Ein Vordergrund wird aufgenommen, zum Beispiel ein Mann
+in einem nachgebauten Cockpit. 3. Beides wird zusammengelegt. Da gibt's
+verschiedene Möglichkeiten. A) R�ckenprojektion: Der aufgenommene
+Hintergrund wird auf eine Leinwand geworfen und läuft ab, währenddessen wird
+der Vordergrund gefilmt. Ergebnis: Sieht beschissen aus. B) Frontprojektion:
+Das gleiche, aber der Hintergrund wird über den Schauspieler auf eine
+Leinwand geworfen. C) Blue Screen: Ein Computer führt den Vordergrund und
+Hintergrund zusammen, das Blaue wird mit dem Hintergrund belegt, der Rest
+nicht.
+Im Prinzip sind es die gleichen Verfahren, nur leicht abgewandelt. Das
+positive von Blue Screens, die steigende Leistung von Computern, so passen
+die Elemente mit der Zeit immer besser zusammen. Die Ergebnisse gehen aber
+weit auseinander, je nach Equipment (Vergleich TV und Kino).
+
+Benjamin
+
+PS: Sollte ich Quatsch geschrieben haben, bitte ich um diskrete Hinweise,
+ich bin wie gesagt kein Fachmann.

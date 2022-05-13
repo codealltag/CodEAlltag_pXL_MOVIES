@@ -1,0 +1,16 @@
+Sie stimmen, und Dein Vergleich mit dem Monitor hinkt ziemlich.
+Erstens sitzt Du normalerweise unmittelbar vor dem Monitor (0,5
+bis 1 m Abstand).  Zweitens wurde mit Antialiasing gearbeitet.
+Wie ich bereits schrieb, entspricht ein Pixel auf einer norma-
+len Kinoleinwand ca. 0,25 cm^2, und das ist mehr als genug.
+Selbst in der ersten Reihe wirst Du keine einzelnen Pixel er-
+kennen koennen.  Sie Dir den Film halt an und ueberzeuge Dich
+selbst.  :-)
+
+Gruss
+   Franco
+
+--
+Franco Wildt, Pellmanngasse 76-78, 47175 Kogl, Germany
+"I'm trying to find a grain of truth in this web of lies."
+             (Werner Beinder, "Web of Lies")

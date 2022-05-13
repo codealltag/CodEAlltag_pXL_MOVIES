@@ -1,0 +1,21 @@
+lgs_giyj wrote with the Subject "DVD/DVB (was: Der Flop kommt im Herbst)":
+
+
+Da er zwei Kanaele multiplexen kann, geht ihm keine Bandbreite verloren.
+
+Korrekter formuliert muesste es heissen: ein Satellitentransponder  
+spuckt beispielsweise in einem 8-MHz-Kanal ein Multiplex-Signal mit 18  
+Fernsehprogrammen in VHS-"Qualitaet" aus (18 mal 2 MBit/s = 36 MBit. Der  
+Vermieter des Satelliten koennte aber auch auf die Haelte der Kanaele  
+verzichten und nur 9 Programme in mittlerer Qualitaet ausstrahlen (9 mal  
+4 MBit = 36 MBit). Oder er strahlt nur vier Sportprogramme in hoher  
+Qualitaet aus (4 mal 8 MBit/s = 36 MBit).
+
+Im Gegensatz zur analogen Uebertragung gibt es bei DVB ein sog. "Bit- 
+Management", ein Programm sendet dann beispielsweise mit 4 Mit/s, ein  
+anderes mit 2 MBit/s usw.; das wechselt von Kanal zu Kanal und von  
+Minute zu Minute -- oder es bleibt konstant, je nach Sendepolitk des  
+jeweiligen Anbieters. Mit Sicherheit wird der Mieter einer bestimmten  
+Bandbreite versuchen, diese optimal auszufuellen.
+
+mfG -Ncjk

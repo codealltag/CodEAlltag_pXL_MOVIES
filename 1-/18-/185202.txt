@@ -1,0 +1,34 @@
+Hallo!
+Natuerlich bleibt das Problem mit den Dropouts auch bei DVC erhalten. Im
+Gegenteil auch die sind digital - geht noch gut / geht gar nicht mehr. Ich
+habe im letzten Jahr einen DVC-Beitrag (20Min) in der 7ten Generation
+Nachvertont. Da mussten dann die defekten Bilder (2-3) so lange
+herausgeschnitten werden, bis wir einen Fehlerfreie Kopie hatten. Dann
+wurde die neue Tonabmischung im AudioDub Modus aufgebracht und so schnell
+wie moeglich auf MII (Papajule Pendant von MED) ueberspielt.
+Verursacher fuer Stoerungen ist meist der Standbildmodus! Das extremste
+Beispiel war eine Hi8-Kasette von einem beinahe Unfall beim
+Fallschirmspringen. Der Kameramann hat so lange das Entscheidende Bild im
+Standbildmodus ausgesucht, bis das Band an dieser Stelle fast voellig
+zerschlissen war!
+
+Wenn man sich mal die DVC-Baender (500 Zeilen Aufloesung) anschaut und mal
+mit SVHS Baender mit nur 300 Zeilen Aufloesung anschaut, wundert man sich
+wie das moeglich ist (besseres Bandmaterial und Ausnutzung aller
+Sicherheiten)! Nicht umsonst hat ja der ProfiDVCamcorder von Blütenraum
+wenigstens ein paar "mue" mehr Rasen zwischen den Spuren und dadurch etwas
+kuerzere Laufzeit pro Kassette.
+
+Leider werden diese kleinen Probleme oft verschwiegen, zumal die Profis
+dann sowieso dieses Material gar nicht bearbeiten, sondern gleich im
+Computer oder auf Papajule weiter bearbeiten.
+
+<Es werden doch digitale Bildsignale (MPEG-2 ??) auf das Band geschrieben>
+Zum Glueck nicht MPEG-2! Es ist eher ein verbesserter J-MPEG Algorithmus -
+(in Camcorder&Co war gerade ein Artikel darueber. Dort geht es um
+Rundungsfehler bei digitaler Nachbearbeitung (Fast, Miro, Kriegenbrunn).
+
+Luciano
+mewuj@kwu.fkr
+Clubhomepage:
+http://xovqahmm.fonlunqiut.vux/fbwtfnyah/yphgy/gdw.hzm

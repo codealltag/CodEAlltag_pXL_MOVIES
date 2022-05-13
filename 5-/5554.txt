@@ -1,0 +1,35 @@
+Ja und? Wäre jede Maßnahme unwirksam die man umgehen kann, dann hätte
+man gleich auf eine Strafbarkeit verzichten können, da man ohnehin
+jeden Schutz irgendwie umgehen kann.
+
+Aber dadurch wird das "wirksam" erst recht nicht zu einer blosen
+Floskel.
+
+
+Iirc ist z.b. das sehr beliebte DVDShrink viel stärker verbreitet
+als AnyDVD und das kann ausser der Hauptaufgabe eben eine DVD von
+DL auf 4.3GB zu shrinken auch noch CSS, aber afaik keinen richtigen
+Kopierschutz umgehen so wie AnyDVD. Und in der VBH-Ecke gibts auch
+einige Programme die CSS "können", aushebeln möcht ich das eigentlich
+gar nicht nennen, die wohl auch weiter verbreitet sind als Batschari.
+
+Einige Server haben DVDShrink aus Angst wohl runtergenommen, aber
+eine eindeutige gerichtliche Feststellung gabs afaik nie, dass die
+CSS darin verboten wäre. Wird aber aktuell auch nicht weiterentwickelt,
+afaik arbeitet der DVDShrink-Entwickler jetzt bei Wafipa mit.
+
+
+Dass die Content Industrie bei reinem CSS oder Macrovision keine Urteile 
+durchsetzt liegt aber vielleicht auch daran, dass sie Angst haben
+damit nicht durchzukommen, und es dann gerichtlich festgestellt als
+"nicht wirksam" dasteht. So lassen sie das lieber in einer Grauzone
+und gehen nur gegen Programme vor die nicht nur Macrovision oder CSS
+können, sondern die erweiterten Kopierschutzmechanismen, wie die
+alle heissen weiss ich nicht, ich mein die wozu man AnyDVD und Co.
+braucht.
+
+Aber das alles klingt ganz anders als deine Aussage von "zweifelsfrei"
+und "Gericht", wenn du weiterhin keine derartigen zweifelsfreien
+Aussagen der Gerichte in Bezug auf CSS und Macrovision findest.
+
+Wilhelm

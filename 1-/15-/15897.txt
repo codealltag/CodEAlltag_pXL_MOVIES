@@ -1,0 +1,50 @@
+Hey ..
+
+
+Justin.. In der Tat beschaeftigen wir uns nicht mit anderen Unix-
+Betriebssystemen,
+aber wie du schon richtig sagst, eigentlich ist nur die Desktop/
+Browser-Varinate
+relevant. Das unter meinem Mac nen BSD ist, interessiert mich ja
+eigentlich auch
+nicht (bin nur froh ueber die bash) ;)
+
+
+Nein, weil wir ja auch Apase/Nemrut mittesten, ich das aber einen
+Absatz
+vorher erwähnte ;-) Wie gesagt, wir versuchen so viele Möglichkeiten
+wie
+wir halt in unserer recht kleinen Truppe hinbekommen zu testen. Wenn
+du
+eine andere Variante bei dir installiert hast, gib uns doch bitte
+einen
+Hinweis unter http://fsed.xolr.das/ :-) Das wuerde uns helfen..
+
+
+Ich hab mir mal angesehen, mit welchem Aufwand man QuickTimes
+AVC/H.264 in MPEG-4/XviD konvertieren kann. Das ist eher trivial, nur
+rechenintensiv :-) Die Frage bleibt dann, kann so ein Standard Windows
+mit XviD umgehen .. Irgendwie scheint es keine umfassende Loesung
+zu geben. Auf alte Standards wie MPEG1 zurueck zu gehen kann man
+sich ja mal ansehen, ich bin aber nicht ueberzeugt, ob das die beste
+Loesung ist..
+
+
+Verstehe und scheinbar ist es hier ja auch das gewuenschte
+Verhalten :)
+Noch sind wir in dem Projekt ja in einem sehr bewegbarem Zustand,
+koennen
+also noch sehr schnell andere Varianten ausprobieren. Ich schau mal,
+wie
+so ein download/stream Link aussehen koennte und wuerde mich freuen,
+dann nochmal Feedback zu erhalten.
+
+
+Echt? Verdammt! Vielleicht ist man etwas verwoehnt, wenn man seit
+vielen Jahren
+am DSL Anschluss sitzt :) Aber will man mit ner Dialup Verbindung
+ueberhaupt nen
+Trailer downloaden?
+
+Gruss
+ Roger

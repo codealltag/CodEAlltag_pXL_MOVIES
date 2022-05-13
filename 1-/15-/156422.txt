@@ -1,0 +1,10 @@
+Norman Imboden wrote:
+
+[fehlende Infos in der Offline-IMDB]
+
+
+N, ganz einfach eigentlich. Die Daten über sind dann ganz einfach innerhalb
+der letzten zwei Wochen ergänzt/hinzugefügt worden, tauchen daher im aktuellen
+Datenbestand auf, nicht aber in dem von vor zwei Wochen.
+
+Für irgend etwas müssen die wöchentlichen Diff-Files ja gut sein.. ;-)

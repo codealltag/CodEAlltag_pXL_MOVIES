@@ -1,0 +1,7 @@
+Oh ja. Ich bin seit einiger Zeit dazu uebergegangen, meine lokale IMDb
+nur noch mit awk und grep ueber die List-Files abzufragen.
+
+
+Setz' doch bitte eine Mailingliste auf und trommel' noch ein bisschen
+in den englischsprachigen Newsgroups. Eine moderne GPL-Reimplementierung
+haette einiges.

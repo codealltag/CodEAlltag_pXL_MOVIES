@@ -1,0 +1,11 @@
+Hm, bei mir kommt bei beiden Links:
+
+Warning: Missing argument 1 for showerror() in
+/data/wh259ixn/pmw/je.bgh.kba on line 113
+Fehler 1062 : Duplicate entry '5284176' for key 1
+
+Liegt es an meinem Brwoser? 
+Ezonow/5.0 (X11; U; Linux i686; de-DE; rv:1.7.5) Gecko/20. 01. 23
+Firefox/1.0
+
+Waldemar

@@ -1,0 +1,182 @@
+Genau. So ist das, wenn die abgetastete Vorlage ein Kinofilm oder eine
+progressive Videoaufnahme ist.
+
+
+Genau. So ist das bei interlaced-Videoaufnahmen.
+
+
+Nein, bei progressiver Wiedergabe ist die Zeilenfrequenz verdoppelt. Das
+VGA-Computergrafik-Signal ist (zumindest von Zeilenzahl, sowie Zeilen- und
+Bildwechselfrequenz her) z.B. genau das NTSC-Fernsehsignal, nur eben
+progressiv (ohne Zeilensprung) und bei doppelter Zeilenfrequenz. Dadurch ist
+die Bildwechselfrequenz immer noch 60Hz und nicht etwa 30Hz. Ein Flimmern
+von 30Hz würdest Du auf einem Röhren-Monitor nicht aushalten! Bei
+progressiver Wiedergabe eines NTSC-Fernsehsignals mit einem Inhalt der
+ersten Kategorie (Kinofilme und so) können also die beiden
+aufeinanderfolgenden Kamm-Bilder ineinander geschoben und diese dann ohne
+Zeilensprung jeweils *zweimal* hintereinander ganz dargestellt werden.
+
+
+Also auch bei älteren Projektoren wird nicht nur einmal die Klappe
+vorgehalten, dann zum nächsten Bild gespult, und dann dieses gezeigt,
+sondern es wird nochmal während des gezeigten Bildes einmal die Klappe
+vorgehalten und wieder weg genommen. Du siehst also auch da 48 Bilder, also
+jedes Filmbild zweimal. Neuere Projektoren zeigen jedes Bild dreimal. Das
+ist Dein "Drittelblenden oder so". 24Hz würdest Du nämlich auch im Kino
+(obwohl da ein Dia gleichmäßig durchleuchtet wird und keine einzelnen Zeilen
+geschrieben werden) nicht aushalten -- zumindest würde es sehr stören.
+
+
+In den USA wird auf den DVDs abgespeichert, ob die Aufnahme progressiv ist,
+also ob zwei zusammengesetzte Halbbild-Kämme ineinandergefügt ein Bild
+ergeben oder ein verzerrtes Etwas. Diese Information wird an angeschlossene
+Geräte weitergeleitet, so daß diese wissen, daß sie ihre De-Interlacer
+abschalten können. Bei PAL-DVDs ist die Verwendung dieses
+Progressivität-Flags lizenzrechtlich verboten, so daß die Wiedergabegeräte
+hier raten müssen. Spätestens nach dem ersten Kameraschwenk haben die das
+aber gecheckt und schalten ihre De-Interlacer ab. (Wie das im Detail genau
+ist, weiß ich nicht, da muß jemand was zu sagen, der sich damit genauer
+auskennt. Das hängt vielleicht auch stark vom Gerät ab.)
+
+
+Also das mit den JPG-Dateien verstehe ich nicht, was Du hier damit meinst.
+Bei digitalen Consumer-Camcordern wird Motion-JPG als Dateiformat
+eingesetzt, d.h. jedes Bild einzeln als (kaum komprimiertes) JPEG
+abgespeichert (natürlich nicht in einzelnen Dateien). Bei DVDs wird MPEG
+eingesetzt, d.h. es wird nur ab und zu ein Bild JPEG-artig (dort stärker
+komprimiert) gespeichert und für jeweils etliche Folgebilder nur die
+Unterschiede zu diesem. Wie das bis ins letzte Detail in Sachen Halbbild
+usw. funktioniert, kann man sicher irgendwo nachgoogeln. Ich möchte da
+lieber nichts Falsches erzählen. Auf jeden Fall ist DVD-typisches MPEG-II
+deutlich kompakter als das Datenformat digitaler (Band-)Camcorder, aber
+dafür aufwendiger abzuspielen und qualitativ etwas schlechter. Aber das
+spielt bei dieser DVD-"NTSC"/"PAL"-Diskutiererei keinerlei Rolle.
+
+
+Nein nein, was Du da mit der Lupe siehst, ist die Lochmaske der Röhre. Aus
+den 720 Pixeln mit je einer Farbe werden drei analoge Signale generiert
+(rot, grün und blau) und auf den Schirm der Bildröhre geschmiert. Auf diesem
+Schirm tritt das entsprechende Licht dann durch die jeweils zugehörigen
+Öffnungen der Lochmaske aus. Es gibt keine Einzel-Ansteuerung der
+Lochmasken-Öffnungen durch den Fernseher. Die Rasterung einer Zeile durch
+das digitale Datenformat hat damit nichts zu tun. Bei analogem TV-Empfang
+ist eine Zeile auf dem Übertragungsweg z.B. nicht gerastert, aber die Lupe,
+die Du an den Bildschirm hältst, zeigt dieselbe Lochmaskenstruktur.
+
+
+Nochmal: Wieviele Öffnungen die Lochmaske hat (oder bei Trinitron-Röhren die
+Anzahl der Spalten), ist Sache der Bildröhre. 720 ist die Anzahl der
+Farb-Pixel in dem Datenformat. Da gibt es keinen Zusammenhang. Du solltest
+ein Vielfaches an Lochmasken-Öffnungen haben, wenn das Bild halbwegs
+ordentlich aussehen soll, also wenn Du die 720 Pixel der Zeile sauber
+erkennen können willst.
+
+
+Also die Signalauflösung in digitalisierten europäischen Fernsehstudios ist
+soweit ich weiß 704x576. Auch einige Fernseher tasten intern das analoge
+Signal zur digitalen Signalverarbeitung mit 704x576 ab und erzeugen danach
+wieder ein Analogsignal, das sie an die Röhre geben. Das 720x576 ist nur bei
+den DVDs. Moderne Fernseher (Egob mit PixelPlus usw.) tasten eine Zeile
+sogar mit 2048 Pixeln ab und interpolieren sich zusätzlich aus den 576
+Zeilen 833 Zeilen zusammen. Das macht dann in einem 16:9-Ausschnitt des
+4:3-Bildes 576 Zeilen. Auf einer anamorphen PAL-DVD werden für einen
+16:9-Ausschnitt auch genau 576 Zeilen generiert, so daß diese ohne
+Interpolation in die 833 Zeilen eingefügt werden können. Oder anders gesagt:
+Bei einem 4:3-Fernsehsignal erzeugen diese Geräte zwar ein unschärferes
+(weil interpoliertes) Bild, aber eines mit der gleichen hochdichten
+Zeilenstruktur wie bei anamorphen DVDs. Oder noch anders gesagt: Wenn eine
+anamorphe DVD bei einem herkömmlichen Fernseher die Zeilendichte erhöht, so
+ändert sich diese bei einem PixelPlus-Fernseher dadurch nicht, sondern es
+wird stattdessen das Bild tatsächlich echt schärfer. Langer Rede kurzer
+Sinn: Das ist alles Sache der Geräte! Selbst der Effekt, den eine anamorphe
+Codierung einer DVD hat. (Anamorph ist, wenn Bilder beim Abfilmen vertikal
+gestreckt werden, damit man sie bei der Wiedergabe wieder stauchen kann. An
+die Wiedergabegeräte wird in diesem Fall das Signal zur
+"16:9"-Formatumschaltung gegeben.)
+
+
+Interpolieren ist immer schlecht, weil es bis zu 30% der Schärfe nimmt.
+Andererseits ist die Schwachstelle in Sachen Bildschärfe immer noch die
+Qualität des Transfers und nicht die technische Grenze, so daß Interpolieren
+von der subjektiven Wahrnehmung her soviel auch wieder nicht nimmt. Eine
+hohe Pixeldichte wird hingegen besonders positiv wahrgenommen, und wenn Du
+Computertechnik zur Wiedergabe verwendest, hast Du sie automatisch. Aus
+diesem Grund läuft der Trend bei hochwertigen Geräten klar in Richtung hoher
+Auflösung und hochwertigem De-Interlacing (wenn nötig), also im digital
+interpolierenden Generieren eines Geräte-internen hochauflösenden
+Digitalformates, das unabhängig von dem viel geringer auflösenden digitalen
+Übertragungsformat ist.
+
+
+Das ist auch einfach nur Interpolation. Und es nimmt Schärfe! Einfaches
+Verdoppeln, also gleiche Zeilen, nimmt keine Schärfe, sondern macht nur die
+schwarzen Lücken zwischen den Zeilen kleiner. Und genau das ist nur gewollt!
+Andererseits verringert die Interpolation mit der Schärfe natürlich auch die
+Treppenstruktur bei den Bild-Inhalten. Aber das wiederum kann man auch im
+Bild selbst durch Anti-Aliasing erreichen, das sich senderseitig durch die
+dortige Signalverarbeitung meist automatisch ergibt. Manchmal, wie hier, ist
+weniger Technik also mehr!
+
+
+Nein, denn jenes Schwarz ist ja das Schwarz zwischen den Öffnungen der
+Lochmaske. Die dunklen Zeilen zwischen den Zeilen des Elektronenstrahl
+enthalten ja aber auch Lochmasken�ffnungen, nur eben solche, die kein Signal
+trifft. Darum geht es: Das Signal soll alle Lochmasken-Öffnungen treffen.
+
+
+Das NTSC bei Deinem Fernseher ist aber vermutlich NTSC4,43 oder? "Echtes
+NTSC" ist NTSC3,36. Will heißen: PAL60 ist PAL mit 60Hz. NTSC4,43 ist PAL60
+mit dem NTSC-Farbverfahren, aber immer noch der Farbträgerfrequenz von PAL.
+Die Farbe ist bei Composite-Signalen aufmoduliert, und die meisten Fernseher
+haben keine Frequenzumschaltung für den Farbträger-Demodulator. Das ist aber
+auch nicht nötig. Mein VHS-Videorecoder erzeugt bei NTSC-VHS-Aufnahmen z.B.
+wahlweise PAL60 oder NTSC4,43. Beides wird in den USA kein Fernseher
+verstehen, aber bei Fernsehgeräten wie Deinem kann man dann NTSC4,43 statt
+PAL-60 einstellen. Dieses hat den Vorteil einer doppelt so hohen vertikalen
+Farbauflösung! NTSC ist halt besser. ENRC mischt die Farbinformationen der
+Zeilen paarweise zusammen.
+
+Abgesehen davon ist das alles völlig irrelevant, da Du einen DVD-Player im
+Leben nicht über den Composite-Ausgang anschließen wirst, sondern über
+Component-, RGB- oder S-Video. Und da ist das Farbsignal vom
+Helligkeitssignal getrennt und der Unterschied zwischen PAL und NTSC nicht
+mehr da (es bleibt nur der Unterschied zwischen 50Hz und 60Hz).
+
+
+Nein, wenn schon die Aufnahme interlaced war, dann wird im Wiedergabegerät
+der De-Interlacer aktiv. Der muß die Kamm-Artefakte, die beim
+Zusammenschieben der nicht ganz passenden Halbbilder entstehen, wegrechnen.
+Ein De-Interlacer erkennt Schwenks und so'n Zeug und macht entsprechende
+Verschiebungen. Gute De-Interlaces sind noch heute extrem teuer und der
+Schlüssel zur Wiedergabequalität. Beachte, daß Du die auch brauchst, wenn Du
+ein Fernsehsignal in einem Fenster am Bildschirmarbeitsplatz darstellen
+willst, denn die Wiedergabe am Computermonitor ist (heutzutage) immer
+progressiv.
+
+
+Ich habe nicht gesagt, daß man gute Geräte haben muß. Ich habe nur gesagt,
+daß gute Geräte bei "NTSC"-DVDs überproportional besser sind. Nicht jeder
+ist ein Qualitäts-Junkie. Ich wollte nur der Fehlinterpretation
+entgegentreten, daß das schlechte Abschneiden von "NTSC"-DVDs auf
+Billiggeräten ein Makel der "NTSC"-DVDs ist. Das ist nicht so. Auf guten
+Geräten ist das das bessere System. Auch, weil die Qualitätsstandards bei
+der Produktion in "NTSC"-Landen einfach höher sind.
+
+
+Klar, hier habe ich bewußt überzogen. Man kann locker etliche Beispiele von
+Filmtiteln und Heimkino-Zusammenstellung finden, bei denen die PAL-Versionen
+am DVD-Markt den einen oder anderen Betrachter mehr überzeugen. So, daß wir
+dank "ENRC"-Standards Dritte Welt seien, ist es ja nun wirklich nicht. Ich
+selbst gehe auch ausschließlich nach der Ausstattung und nicht nach der
+technischen Qualität. Und da komme ich auf eine Kauf-DVD-Quote von 41
+"NTSC"- zu 23 "PAL"-DVDs (siehe http://sgdu.wwhxc.qm/mpjdls/urx/). Das ist
+immerhin fast 36% "ENRC"-Anteil.
+
+
+Ich hoffe, daß mir genauso energisch widersprochen wird, wenn ich was
+Falsches geschrieben habe, denn viel lieber als Lehren mag ich lernen...
+
+19.08.03 -- Jürg.
+-- 
+hgauif ec iyv wxgjf gycylw.qn
+http://xjj.ita-fkddrx.fk/~ubujvj

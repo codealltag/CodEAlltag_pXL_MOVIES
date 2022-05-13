@@ -1,0 +1,50 @@
+Die technisch mögliche Auflösung digitaler Projetoren wird mit der Zeit 
+fraglos steigen. Ich schätze aber, dass es in der Praxis bei den jetzt
+erreichten 1280x1024 bleibt. Das ist deutlich besser als Fernseher
+(und ich befürchte, das ist der Vergleichsmaßstab der Manager und des
+Massenpublikums.) Zudem sind die Projektoren für einen Masseneinsatz
+momentan noch viel zu teuer. Der Fertigungsfortschritt wird daher wohl
+nicht in eine weitere Steigung der Auslösung sondern in eine Senkung 
+des Herstellungspreises umgesetzt. 
+
+Da auch auf der Produktionsseite der Trend weg von Filmen zu Videos
+und CGIs geht, wird auch von daher kein Druck kommen, die Auflösung
+zu erhöhen. Vielmehr wird man sich auch dort auf eine recht niedrige
+Auflösung einschießen, da die Kosten bei der Produktion spart.
+
+Das ist dann ein Teufelskreis hin zu immer schlechterer Qualität:
+Warum soll die Projektion eine höhere Auflösung bieten, wenn die 
+"Software" sie nicht nutzt? Und warum sollen die Videos eine höhere
+Auflösung haben, wenn die bei der Projektion eh nicht ausgenutzt werden 
+kann. Man wird sich also auf eine recht niedrige Standardauflösung
+einigen, für die dann die ganze Produktionskette von der Aufnahme über
+Nachbearbeitung, Distribution bis zur Projektion eingerichtet wird.
+Diese Auflösung muß gerade so hoch sein, dass der zahlende Zuschauer
+einen Vorteil gegenüber dem heimischen Fernseher erkennt, für den er
+bereit ist, eine Eintrittskarte zu bezahlen.
+
+
+OK, dann haben wir uns mißverstanden. Unter "Grieseln" verstehe ich die
+(wahrnehmbare) Körnung des Filmmaterials. Die wird besondes bei Szenen 
+deutlich, die mit hochempfindlichen Material gedreht wurden, die 
+aufgeblasen wurde oder wo es bei der digitalen Nachbearbeitung künstlich
+hinzugefügt wurde.
+
+Was Du meist ist einfach die Verschmutzung auf der Kopie.
+Die kommt hauptsächlich dadurch zustande, dass es kaum noch Vorführer
+gibt sondern nur noch Filmeinleger. Bei pfleglicher Behandlung der 
+Kopie, einem sauberen Vorführraum und sorgfältiger Pflege der Projektoren,
+ist das nicht so das Problem. (Es sei denn man hat einen restaurierten 
+Stummfilm, wo der Dreck schon mit kopiert wurde, weil es kein besser 
+erhaltenes Material gab, oder eine 20 Jahre alte Kopie, die schon viel 
+mitgemacht hat. Aber bei einer digitalen Projektion bleibt da die Leinwand
+komplett schwarz, weil man soetwas schon aus Kompatibilitätsgründen
+nicht abspielen kann.)
+
+Die Verschmutzung der Kopie ist bei digitaler Projektion in der Tat nicht
+zu befürchten. Ich gehe aber davon aus, dass sich andere Fehler durch
+schlecht justierte Projektoren einschleichen werden, wenn die digitale
+Projetion einmal ein Massenprodukt ist. Noch sind die wenigen Projektoren 
+neu und als Prestige- und Demoobjekt optimal gewartet und justiert.
+
+Ciao, Aienj             rrrapgsy@jyyfwwrr.ti

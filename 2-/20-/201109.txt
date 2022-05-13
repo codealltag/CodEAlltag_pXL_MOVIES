@@ -1,0 +1,27 @@
+Ingo Froeliger wrote in <31lw23192vsypkey@wvmeqpskf.mead.nd> on
+26. 04. 22 21:17:04 +0100:
+
+Die Alpengroßmarkt-Leute haben die FDMG-Decoder-Erweiterung "Dolby
+Surround ProLogic Enhanced" für sich übernommen und nennen es
+"THX-Weiche" bzw. "THX Home Cinema". Wie Du schon richtig geschrieben
+hast, werden in beiden Fällen die gleichen Quellen wiedergegeben
+-> gleiches Soundsystem. Die leichen Änderungen bei der Wiedergabe,
+die zu gewissen Variationen auf den Surround-Boxen führen, machen
+noch kein neues Soundsystem, sonst mußt Du in Zukunft auch "Simulated
+Surround" (von Monotonquellen) als neues Soundsystem durchgehen
+lassen.
+
+Im Kinobereich spielt die THX-Weiche praktisch keine Rolle mehr,
+weil alle THX-zertifizierten Kino auf digitale Soundsysteme (Dolby
+Digital, dts oder SDDS) umgestiegen sind und damit für den
+Surroundbereich sowieso zwei getrennte Kanäle haben.
+
+Und auch im Heimbereich ist ein Dolby-Digital-Decoder (natürlich
+mit entsprechender Quelle) einem Dolby-Surround-Decoder mit Funtasstisch
+"Enhanced"-Modus bzw. THX-Weiche deutlich überlegen bzw. es ist
+eigentlich gar kein Vergleich.
+
+Jean-Luc
+-- 
+** Jean-Luc Nümann,  Am Krebsgraben 69,  32347 Langenberg,  Germany **
+** +54 2925 90266  E-Mail (NeXTmail/MIME): gatie@kueccg.k.txwfs.ch **

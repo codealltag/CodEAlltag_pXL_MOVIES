@@ -1,0 +1,48 @@
+First of all for optimal reading you should put Outllook Express reader in
+HTML mode,select all text and choose Courier font/10
+
+Yeahh!!
+We have done a circuit which does this!!
+For technical infos you can give a look on
+http://sao.heudqhqzgqcgrt.bga/zjbch.fyj where you can find a schematic of a
+macrovision killer which is too complex and not cheap. And it has some
+problems for example the video signal passes through it and of course the
+result isn't identical to the original. Our circuit is connected like a
+"plug" on video cable. Look below for more details:
+
+This is a "normal circuit" used for eliminate Macrovision:
+
+               +--------------+
+Video in o-----| Other        |
+               +--------------+
+
+This is our circuit:
+
+Video in o----------+-----------------o Video out
+          +---------+--------+
+          +------------------+
+
+In this way it is clear the video signal is the clearest possible becouse
+our video stabilizer is connected just like a "plug" and not in-betweenning.
+And of course if you want to copy a normal movie (i.e. not copy protected)
+our circuit can be left connected and turned off too!!
+Its phisical dimension are very small, it uses a 9V Alcaline battery, and
+could be inserted if you want into the videorecorder itself.
+
+It works fine on PAL and DVD copy protected movies (we haven't tested on
+NTSC or SECAM movies, could be
+work) and its cost is:
+
+51.65 Euro plus shipping
+
+Send an e-mail for the instructions how to get one. Try one of these:
+
+hqprovg@kdm.iw
+fwcnclo@ssctoyjtsu.sw
+zmcjabu@viofjt.jj
+jbhbxaxt@udx.lb
+tpnuyocp@ljstoz.ie
+
+IMPORTANT!!!
+
+The use of this tool is for personal use only and not for commercial one!!!

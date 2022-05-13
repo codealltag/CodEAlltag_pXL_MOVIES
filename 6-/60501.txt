@@ -1,0 +1,11 @@
+Also meines Wissens
+
+- ist bei einem 70mm-Film das einzelne Bild nicht nur doppelt so breit,
+sondern auch doppelt so hoch -> vierfache Auflösung
+
+- läuft bei IMAX der Film horizontal durch den Projektor, das einzelne Bild
+ist also 70mm hoch (was bei einem ungefähren Seitenverhältnis von 4:3 ein
+ca. 93mm breites Bild ergibt), also nochmal eine höhere Auflösung als bei
+einem normalen 70mm-Projektor, wo der Film vertikal durchläuft, das Bild
+also nur 70mm breit ist (ich weiß, daß man hier eigentlich noch den Rand
+für die Perforation etc. abziehen müßte)

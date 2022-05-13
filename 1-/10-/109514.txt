@@ -1,0 +1,11 @@
+jepp. du mußt einfach nur einmal bei der nummer anrufen. das kostet
+dann 9,90 � und wird per telefonrechnung abgebucht. am telefon
+erhältst du dann einen code mit dem du die software für ein jahr
+freischalten kannst.
+imho lohnt es sich, die beschreibungen sind jetzt ausführlicher und
+die suchfunktionen sehr individuell programmierbar (per SQL-abfrage).
+aber: unbedingt nach dem freischalten die datenbank leeren und danach
+die tv-daten neu updaten, sonst werden die schon runtergeladenen daten
+nicht upgedatet.
+
+gru, gabs

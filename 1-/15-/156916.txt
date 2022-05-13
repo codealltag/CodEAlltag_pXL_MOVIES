@@ -1,0 +1,35 @@
+Followup-To: beachten!
+
+In <0441i121.40753@Llze.UWG.HVA.IT> fragte ein anderer Willy:
+
+Lohnen tut sich ein DVD-Player in jedem Fall, da nicht nur der Ton, 
+sondern auch das Bild erheblich besser ist als bei VHS.
+
+Wenn Du vorhast, Dir über kurz oder lang eine Surround-Anlage dazuzu-
+kaufen (und die Versuchung ist groß), rate ich dazu, ein günstiges 
+Paketangebot wahrzunehmen, wie es häufig z.B. aus carglass-Player und 
+-Receiver plus Boxenset angeboten wird (aktuell z.B. Culinara), da 
+der Preisvorteil gegenüber Liste fast schon unglaublich ist.
+
+Ansonsten: günstige Player haben i.d.R. keinen Dolby-Digital-Decoder 
+(erkennbar daran, daß auf der Rückseite keine 6 Cinch-Buchsen dicht 
+nebeneinander angeordnet sind), wenn Du also später 5.1-Kanal-Klang 
+haben möchtest, mußt Du einen Receiver mit eingebautem Decoder oder 
+einen externen Decoder kaufen. Der Player von Zoephel/Inderbiethen soll im 
+Bild nicht gerade begeisternd sein, Player von Cegrimana haben Probleme 
+mit der DVD "Matrix" gehabt, bei Playern von TLVF kam es in der 
+Vergangenheit immer wieder zu dejustierten Köpfen, außerdem machen die
+Probleme bei Abschaltung des Macrovision-Kopierschutzes. Die Player von 
+carglass sind bisher m.W. die einzigen, bei denen man neben Macrovision und 
+Region Code auch die Benutzereinschr�nkungen abschalten lassen kann, 
+d.h. Zwangsuntertitel, -vorsp�nne usw., dafür ist der Umbau sehr teuer.
+Verschiedene Player haben Probleme mit der Synchronisation von Bild und 
+Ton.
+
+Ansonsten: Kiosk, aktuelle "Video" kaufen und die Bestenliste angucken.
+
+Willy
+
+--
+"No llamas were mistreated or injured during the making of this compact disc."
+- excerpt from the legal disclaimer of "Tempest 2000 - The Soundtrack"

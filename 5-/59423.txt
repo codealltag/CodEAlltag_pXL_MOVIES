@@ -1,0 +1,251 @@
+NG-Statistik drfm für den Januar 2004
+erstellt mit einem Skript von Siebelt Wentorp.
+
+07/04: 2347 postings
+08/04: 2252 postings
+09/04: 1990 postings
+10/04: 1790 postings
+11/04: 2352 postings
+12/04: 2979 postings
+13/04: 2473 postings
+
+03/05: 3439 postings
+
+
+Autoren mit den meisten Postings (3439 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 156 | 2854 | 256.7 | Kay V. Zaydler     |  4.5%  xxxxxxxxxxxxx
+   2 | 119 | 6558 | 352.8 | Karlheinz                 |  3.5%  xxxxxxxxxx   
+   3 | 115 | 3408 | 254.3 | Ulf Dahlhammer       |  3.3%  xxxxxxxxxx   
+   4 |  96 | 2289 | 181.9 | Abdul Steudl        |  2.8%  xxxxxxxx     
+   5 |  85 |  794 | 121.7 | Rudolf Brunnhübner       |  2.5%  xxxxxxx      
+   6 |  76 | 1970 | 149.9 | Nicolas Moeckl       |  2.2%  xxxxxx       
+   7 |  73 | 1632 | 142.5 | Benno Stuiber         |  2.1%  xxxxxx       
+   8 |  70 | 3069 | 179.9 | Fredy Toews           |  2.0%  xxxxxx       
+   9 |  67 | 1777 | 137.3 | Georg A. Zurwehme      |  1.9%  xxxxxx       
+  10 |  58 |  789 |  91.3 | Urban Köhm            |  1.7%  xxxxx        
+  11 |  55 | 1876 | 117.0 | Bruno Winklmair        |  1.6%  xxxx         
+  12 |  52 | 1287 |  94.8 | Ulfert Füssle       |  1.5%  xxxx         
+  13 |  49 | 1401 |  94.6 | Roland Jannson        |  1.4%  xxxx         
+  15 |  48 |  911 |  77.9 | Sergio Jennerwein      |  1.4%  xxxx         
+  16 |  46 |  917 |  93.0 | Matthias Jackob          |  1.3%  xxxx         
+  17 |  40 | 1951 | 110.6 | Vincenzo Thormeyer   |  1.2%  xxx          
+  18 |  39 | 1010 |  75.6 | Alessandro Johannvorderbrüggen        |  1.1%  xxx          
+  19 |  37 |  757 |  63.8 | Willi Clemenz      |  1.1%  xxx          
+  20 |  36 |  863 |  59.4 | Ulfert Knaudt        |  1.0%  xxx          
+  22 |  35 |  733 |  54.2 | Konrad Winterkorn          |  1.0%  xxx          
+  24 |  34 |  575 |  54.5 | Dario Hetmann      |  1.0%  xxx          
+  25 |  33 |  500 |  40.6 | Benno Wurtmann           |  1.0%  xx           
+  26 |  32 |  689 |  48.5 | Nick Schäferdiek             |  0.9%  xx           
+  27 |  28 | 1105 |  67.4 | Alfons Unbehauen            |  0.8%  xx           
+  30 |  27 |  709 |  59.4 | Georg Pachner         |  0.8%  xx           
+  31 |  25 |  324 |  29.9 | Uwe Wendl          |  0.7%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (428 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                         
+       10 |   5 |  1.2%  x                                              
+        9 |   8 |  1.9%  xx                                             
+        8 |  11 |  2.6%  xxx                                            
+        7 |   9 |  2.1%  xx                                             
+        6 |  15 |  3.5%  xxxx                                           
+        5 |  16 |  3.7%  xxxx                                           
+        4 |  24 |  5.6%  xxxxxxx                                        
+        3 |  35 |  8.2%  xxxxxxxxxx                                     
+        2 |  66 | 15.4%  xxxxxxxxxxxxxxxxxxxx                           
+        1 | 158 | 36.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (311 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Karlheinz                 |  79 |   362 | 25.4%  xxxxxxxxxxxxxxxxxxxx
+   2 | Nicolas Haußer            |   8 |    20 |  2.6%  xx                  
+   3 | Siebelt Unterstab       |   6 |   127 |  1.9%  x                   
+   4 | Ulf Dahlhammer       |   5 |   425 |  1.6%  x                   
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (311 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Ulf Dahlhammer       |   5 |   425 | 12.4%  xxxxxxxxxxxxxxxxxxxx
+   2 | Karlheinz                 |  79 |   362 | 10.5%  xxxxxxxxxxxxxxxxx   
+   3 | Fredy Toews           |   5 |   308 |  9.0%  xxxxxxxxxxxxxxx     
+   4 | Kay Jänke      |   1 |   159 |  4.6%  xxxxxxx             
+   5 | Siebelt Unterstab       |   6 |   127 |  3.7%  xxxxxx              
+   6 | Ulfert Knaudt        |   4 |   122 |  3.5%  xxxxxx              
+   7 | Urban Köhm            |   4 |   113 |  3.3%  xxxxx               
+   8 | franziska heinsius     |   2 |   107 |  3.1%  xxxxx               
+   9 | Otto Spier        |   2 |    98 |  2.8%  xxxx                
+  10 | Gottfried Haidner         |   1 |    94 |  2.7%  xxxx                
+  11 | Georg Pachner         |   1 |    80 |  2.3%  xxx                 
+  12 | Georges Jacobus       |   4 |    72 |  2.1%  xxx                 
+  13 | Georg Uesbeck         |   1 |    65 |  1.9%  xxx                 
+  14 | Georg A. Zurwehme      |   1 |    63 |  1.8%  xxx                 
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (3439 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 250 | LoR3: Das Versagen Gandalfs             |  7.3%  xxxxxxxxxx
+   2 | 179 | Schwere Synchro-Fehler                  |  5.2%  xxxxxxx   
+   3 | 159 | ROTK - Lob und Tadel                    |  4.6%  xxxxxx    
+   4 | 121 | Herr der Ringe - ROTK und Popcorn       |  3.5%  xxxxx     
+   5 | 104 | Oscar Nominationen 2004                 |  3.0%  xxxx      
+   6 |  94 | Wer mal nen echten Anti-Kriegsfilm gucke|  2.7%  xxxx      
+   7 |  89 | IMDB Top 20 - schau mer mal             |  2.6%  xxx       
+   8 |  80 | Re: Tiger & Dragon                      |  2.3%  xxx       
+   9 |  66 | Re: Tiger & Dragon                      |  1.9%  xx        
+  10 |  65 | Re: Kranfahrt in T3                     |  1.9%  xx        
+  11 |  64 | Noch was zu LOTR-ROTK                   |  1.9%  xx        
+  12 |  63 | The Last Samurai                        |  1.8%  xx        
+  13 |  62 | DVDs aus dem nicht-EU-Ausland Frage     |  1.8%  xx        
+  14 |  53 | Tier-Horror-Schocker-Streifen           |  1.5%  xx        
+  15 |  49 | Schach in Filmen: "Schach matt!"        |  1.4%  xx        
+  16 |  46 | The Big Lebowski                        |  1.3%  xx        
+  17 |  45 | Altersfreigaben                         |  1.3%  x         
+  18 |  41 | Re: "Unbreakable" langweilig            |  1.2%  x         
+  20 |  39 | Texas Chainsaw Massaker                 |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (311 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                           
+    13 |   2 |  0.6%  x                                                 
+    12 |   5 |  1.6%  xx                                                
+    11 |   8 |  2.6%  xxxx                                              
+    10 |   7 |  2.3%  xxx                                               
+     9 |   7 |  2.3%  xxx                                               
+     8 |   6 |  1.9%  xxx                                               
+     7 |   6 |  1.9%  xxx                                               
+     6 |  14 |  4.5%  xxxxxxx                                           
+     5 |  16 |  5.1%  xxxxxxxx                                          
+     4 |  17 |  5.5%  xxxxxxxxx                                         
+     3 |  35 | 11.3%  xxxxxxxxxxxxxxxxxx                                
+     2 |  39 | 12.5%  xxxxxxxxxxxxxxxxxxxxx                             
+     1 |  94 | 30.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 388 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 128 | WEYEL Outlook Express      | 33.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  64 | WFVB                        | 16.5%  xxxxxxxxxxxxx            
+  48 | Forte Agent                    | 12.4%  xxxxxxxxx                
+  19 | Netscape                       |  4.9%  xxx                      
+  15 | slrn                           |  3.9%  xxx                      
+  15 | Xnews                          |  3.9%  xxx                      
+  12 | KNode                          |  3.1%  xx                       
+  12 | MacSOUP                        |  3.1%  xx                       
+  10 | 40tude_Dialog                  |  2.6%  xx                       
+   9 | tin                            |  2.3%  x                        
+   9 | Gnus                           |  2.3%  x                        
+   8 | Hamster                        |  2.1%  x                        
+   7 | Forte Free Agent               |  1.8%  x                        
+   4 | Pan                            |  1.0%                           
+   3 | MicroPlanet Gravity            |  0.8%                           
+   2 | WFVB Thunderbird            |  0.5%                           
+   2 | CrossPoint                     |  0.5%                           
+   2 | Zeilgalerie.23                      |  0.5%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | Sylpheed                       |  0.3%                           
+   1 | NewsPortal                     |  0.3%                           
+   1 | News Xpress                    |  0.3%                           
+   1 | woman                        |  0.3%                           
+   1 | Zeilgalerie.10                      |  0.3%                           
+   1 | Forte Agent 32                 |  0.3%                           
+   1 | CrossPoint [XP2]               |  0.3%                           
+   1 | News Rover                     |  0.3%                           
+   1 | XNews                          |  0.3%                           
+   1 | Newsbin Pro                    |  0.3%                           
+   1 | Zeilgalerie.22                      |  0.3%                           
+   1 | Zeilgalerie.03                      |  0.3%                           
+   1 | Ecklädchen 8c                 |  0.3%                           
+   1 | yes                            |  0.3%                           
+   1 | Virtual Access by Atlantic Coas|  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+   1 | VSoup                          |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 136 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  31 | WEYEL Outlook Express      | 22.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  23 | WFVB                        | 16.9%  xxxxxxxxxxxxxxxxxxx      
+  22 | Forte Agent                    | 16.2%  xxxxxxxxxxxxxxxxxx       
+  10 | Netscape                       |  7.4%  xxxxxxxx                 
+   7 | slrn                           |  5.1%  xxxxx                    
+   6 | MacSOUP                        |  4.4%  xxxxx                    
+   5 | Hamster                        |  3.7%  xxxx                     
+   5 | Xnews                          |  3.7%  xxxx                     
+   4 | KNode                          |  2.9%  xxx                      
+   4 | tin                            |  2.9%  xxx                      
+   4 | Gnus                           |  2.9%  xxx                      
+   4 | 40tude_Dialog                  |  2.9%  xxx                      
+   2 | WFVB Thunderbird            |  1.5%  x                        
+   2 | Forte Free Agent               |  1.5%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.7%                           
+   1 | Pan                            |  0.7%                           
+   1 | MicroPlanet Gravity            |  0.7%                           
+   1 | CrossPoint                     |  0.7%                           
+   1 | MesNews                        |  0.7%                           
+   1 | Opera7.10                      |  0.7%                           
+   1 | News Rover                     |  0.7%                           
+
+
+Postingverteilung über den Monat (3439 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  31 |  0.9%  xxxxxx                                              
+   2 |  75 |  2.2%  xxxxxxxxxxxxxx                                      
+   3 | 141 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+   4 | 189 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   5 | 270 |  7.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | 225 |  6.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+   7 | 205 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+   8 | 143 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+   9 | 147 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  10 | 171 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  11 |  98 |  2.8%  xxxxxxxxxxxxxxxxxxx                                 
+  12 | 110 |  3.2%  xxxxxxxxxxxxxxxxxxxxx                               
+  13 | 118 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  14 |  92 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+  15 |  61 |  1.8%  xxxxxxxxxxx                                         
+  16 |  40 |  1.2%  xxxxxxx                                             
+  17 |  53 |  1.5%  xxxxxxxxxx                                          
+  18 |  75 |  2.2%  xxxxxxxxxxxxxx                                      
+  19 | 125 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  20 | 147 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  21 | 118 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  22 |  69 |  2.0%  xxxxxxxxxxxxx                                       
+  23 |  41 |  1.2%  xxxxxxxx                                            
+  24 |  29 |  0.8%  xxxxx                                               
+  25 |  61 |  1.8%  xxxxxxxxxxx                                         
+  26 |  69 |  2.0%  xxxxxxxxxxxxx                                       
+  27 | 149 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  28 | 104 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+  29 | 141 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  30 |  76 |  2.2%  xxxxxxxxxxxxxx                                      
+  31 |  66 |  1.9%  xxxxxxxxxxxx                                        
+
+
+DOMENICO ;-)
+Leopold

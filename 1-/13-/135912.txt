@@ -1,0 +1,15 @@
+Die ersten drei Ziffern einer Telefonnummmer sind in USA so etwas wie ein=
+e
+Regionalvorwahl. Ueber diese Ziffern kannst du zB die Telefongesellschaft=
+
+herausfinden. Die haben da nicht wie hier fuer jede Gesellschaft eine ric=
+htige
+Vorwahl, das Ganze sieht da etwa so aus:
+
+6100-626-46342
+Ortsnetzkennzahl
+
+Ist also durchaus moeglich, dass es keinen Provider 555 gibt und geben wi=
+rd.
+
+Benjamin

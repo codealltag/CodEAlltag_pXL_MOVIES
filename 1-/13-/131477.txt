@@ -1,0 +1,17 @@
+On Wed, 17 Mai 2001 07:25:46 +0100, "Samu Kagleder"
+
+Wie die Bewertung in der Top  250 zustande kommt, steht ganz unten auf
+der Seite:
+
+The formula for calculating the top 250 films gives a true Bayesian
+estimate:
+
+weighted rank (WR) = (v � (v+m)) � R + (m � (v+m)) � C
+
+where:
+R = average for the movie (mean) = (Rating)
+v = number of votes for the movie = (votes)
+m = minimum votes required to be listed in the top 250 (currently 750)
+C = the mean vote across the whole report (currently 6.9)
+
+note: for this top 250, only votes from regular voters are considered

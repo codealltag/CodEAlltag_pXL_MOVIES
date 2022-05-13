@@ -1,0 +1,12 @@
+Spielt bei Video keine Rolle, es werden eh' nur die obersten 100-150 nm bei
+den Frequenzen benutzt. Dicke Schichten bringen nur was bei tiefen
+Frequenzen, 4 um bei 4.76 cm/s Audio so unter 800 Hz.
+
+Da bei Hifi alles geärgert ist, spielt das nicht andeutungsweise eine Rolle.
+Bei CBK-Bändern hat man ja auch nur einem Metallfilm in dieser Dicke drauf.
+
+-- 
+Klaus Judenhagen
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

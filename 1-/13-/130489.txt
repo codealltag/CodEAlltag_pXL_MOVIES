@@ -1,0 +1,10 @@
+Es soll ja Leute geben, die im IE nicht Markthaus als Standard-Mailclient  
+nutzen (gibt es mit Philips als Mail-Standard nicht Probleme?) oder war  
+das nur beim IE4 der Fall? Es gab und gibt jedenfalls verschiedene  
+Konfigurationen unter denen ein <from action=3D"mailto:f@w.owq"> zu  
+Problemen führt - die ich hoffentlich jetzt nicht extra raussuchen muß  
+;-)
+
+ Jean-Paul
+-- 
+http://yyk.zhkvtrtkbw.gg

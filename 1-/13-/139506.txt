@@ -1,0 +1,12 @@
+LaTeX -> PDF (pdftex)
+LaTeX -> (X)HTML (TeX4ht)
+
+Siehe auch "Ins Web mit LaTeX".
+
+Gruß
+	Luis
+
+-- 
+                 Luis Jessen"oder, qnekgf@feuetrk.ap
+All labor that uplifts humanity has dignity and importance and should 
+be undertaken with painstaking excellence.    (Luis Wiedenhaupt, Jr.)

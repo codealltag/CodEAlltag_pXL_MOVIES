@@ -1,0 +1,137 @@
+Hallo,
+
+letzten Dienstag kam er, mein Projektor. Wie ich ja letztens schon mal  
+schrieb, habe ich ihn mir auf der Lippok genauer angeschaut und dort auch  
+gleich zugeschlagen, da die dortigen Ausstellungsstuecke um 2500 DM  
+billiger waren. Neu kostet er 17.000-17.300 DM. Durch Barzahlung habe ich  
+noch Skonto erhalten, so dass ich im Endeffekt 14.065 DM bezahlt habe.
+
+Momentan ist noch alles recht provisorisch: Der Projektor ist auf einem  
+kleines Podest aufgebaut, die Leinwand ist ein Stofftuch, gespannt auf  
+einen Holzrahmen. Ich wuerde gerne mit meinen Umbau beginnen (s.u.), aber  
+am 10. habe ich eine muendliche Pruefung und die geht erstmal vor. Ich  
+wuerde mich auch gerne mehr mit dem Teil beschaeftigen, aber momentan kann  
+ich mich noch beherschen. :)
+
+Achja, zum Stofftuch: Ihr glaubt ja gar nicht, wie schwierig es ist,  
+heutzutage ein weisse Tuch zu erhalten. Es gibt keine weissen Bettlaken  
+mehr (in Neuendeel bei Eurogida, Zerlin, Tunin, Lagerplatz und Maucher  
+gefragt). Im Endeffekt habe ich Meterware Baumwolle gekauft, was aber  
+duenner als Bettlaken ist.
+
+Mangels Zeit nur vorlaeufige Infos, da ich noch lange nicht alle  
+Funktionen kenne.
+Erstmal hatte ich mich ein wenig ueber die Groesse gewundert, er kam mir  
+vorher um einiges kleiner vor. Mit seinen Ausmassen von 62 (Breite) x 70  
+(Tiefe) x 29 (Hoehe) cm ist er doch recht gross, wiegen tut er 35 kg.
+Nach dem Auspacken und Durchziehen einen Videokabels durch ein damals beim  
+Heimkino mit eingebautem Kabelrohr ging es an das Einstellen. Da der Stand  
+des Projektor eh nur recht provisorisch, ging es nicht auf das letzte  
+Tuepfelchen, aber das Ergebnis kann sich, trotz des reichlich  
+durchsichtigen "Bettlakens" sehen lassen. Ich hatte mir die Einstellung  
+eines Roehrenprojektors schon schwieriger vorgestellt, aber nicht so. :)  
+Zunaechst aufmachen und die Polung der Hochspannungsstecker umdrehen, dann  
+hier und dort an den Roehren und am Chassis rumdrehen und danach durch  
+diverse Menues die Feineinstellung.
+
+Das Bild ist, trotz einfachen Fernseh- oder Videobild, einfach geil! Durch  
+den Linedoubler sind selbst bei direktem Vorstehen vor der Leinwand keine  
+Zeilen auswendig zu machen. Lediglich bei leicht schraegen Linien sind  
+etwas wabernde Kanten auszumachen. Schalte ich in dem Moment aber den  
+Linedoubler aus, so ist festzustellen, dass die Zeilen des Fernsehers  
+wesentlich schlimmer sind. Ich denke aber, dass die wesentlich teureren  
+externen Doublern da noch ein wenig besser sein koennen (Siehe Bild des  
+video-Standes bei der RETTERATH).
+Achja, mit den Zeilen: Ganz stimmt es nicht. Wenn ich ein voellig
+blaues Bild habe (liefert mein Videorekorder), dann sind auch mit Line-
+doubler noch Zeilen zu sehen, wenn man genau hinguckt. :)
+
+Weitere Funktionen, die mir noch aufgefallen sind: es gibt ein Standbild  
+(da ja eh alles digitalisiert wird, kein Problem), was top ist, er kann  
+100 Hz (dann aber ohne Linedoubler), 16:9 (gut fuer anamorphe DVDs, wenn  
+ich mir mal einen Player zulege)...
+
+Was mich ein wenig stoert: er ist doch etwas laut. Wohl nicht so laut, wie  
+viele LCD-Darsteller, aber doch etwas stoerend, zumindest bei leisen  
+Szenen. Es gibt gleich drei Luefter: einen am Netzteil und einen schraeg  
+gegebueber an der Hochspannungselektronik und dann noch nen Kleinturbo- 
+Luefter drinnen an der Farbregulierung. Ein Austausch gegen leisere ziehe  
+ich in Betracht, werde ich aber vorher noch mit Video Piller absprechen,  
+von denen ich das Teil bezogen habe.
+
+
+So, was in Planung ist, wenn ich meine Pruefung durch habe (und dann nicht  
+zuviel Arbeit (zum Geldverdienen) aufgebrummt bekomme):
+Wer Internet-Zugang hat, kann sich ja mal jetzigen ungefaehren Zustand des  
+Heimkinos anschauen (http://blr.rlcucvnozc.eqe-ansfvd.wh/~tbkg). Ein paar  
+Dinge haben sich schon geaendert (Podest mit Kinosessel etwas nach vorne  
+verschoben, hintere Wand mit schwarzen Teppich versehen), aber die vordere  
+Seite stimmt noch.
+
+- Leinwand kaufen. Ausgesucht hatte ich mir eine Stuart, 100" Diagonale
+  (ca. 2,05 m Breite). Schluessig bin ich mir noch nicht ueber den Gain-
+  Faktor. Von 2 wurde mir abgeraten. Jetzt ueberlege ich zwischen 1,3 und
+  1,6, tendiere aber eher zu 1,3 (haben die auf den Messen auch
+  verwendet). Auch wollte ich erst eine 16:9-Leinwand, aber dann ist das
+  Bild bei 4:3 doch recht "klein" (nur ca. 1,10 m hoch). Die Stuart-4:3
+  kostet ca. 2200 DM. Empfehlungen bezueglich Gain-Faktor?
+- Vor der Leinwand einen Vorhang. Ich habe mir schon schoenen schweren
+  Samt-Stoff ausgesucht. Muss man mir da abraten, weil Samt reflektiert?
+  Eigentlich eher im Gegenteil, oder?
+- Der Vorhang soll motorgesteuert auf und zu gehen. Wie das ganze
+  funktioniert, weiss ich schon. Allerdings suche ich noch einen
+  Getriebemotor.
+- Zum Verhaengen der schwarzen Balken wollte ich oben und unten elektrisch
+  ein Verhaengestoff ins Bild hineinbewegen (einfache Technik: links und
+  rechts je zwei Gewindestangen, entgegengesetzt zusammengeschweisst,
+  darauf dann jeweils eine Mutter aufgedreht, an der eine Stange dran
+  ist, die zur anderen Seite ruebergeht. Dreht sich die Gewindestange, so
+  bewegen sich die (stehende) Muttern mit dem Stoff entweder zur Mitte oder
+  nach aussen, je nach Drehrichtung). In gewissen Abstaenden sind dann
+  Mirkroschalter, die die Drehbewegung des Motors stoppen (quasi
+  einrasten). Das ganze ist dann hinter dem Vorhang jenseits der Leinwand,
+  also nicht sichtbar.
+  Was ist vor so etwas eigentlich als lichtschluckender Stoff zu
+  empfehlen?
+  Sowas gibts auch fertig, kostet dann aber ca. 3500 DM extra (Samuel-
+  Leinwand).
+- Decke ist bei mir etwas problematisch. Ich habe Gips-Decken, die an
+  Holzbalken angenagelt sind. An der Stelle, wo der Projektor kommt, werde
+  ich die Decke aufmachen und hartes Holz an die Balken anschrauben, um
+  die Befestigungsplatte des Projektors sicher dran zu bekommen. Danach
+  wird die Decke mit (vorher schwarz angespruehtem) Styrophor verklebt.
+- Als Spielerrei wollte ich zwei Scheinwerfer auf die Leinwand strahlen
+  lassen (gruen und rot).
+- Das ganze dann fernbedienbar: Hauptlicht (ueber vier indirekte Lampen
+  an denSeiten) sowie Scheinwerfer dimmbar, Vorhang auf und zu, Abdeckung
+  vor und zurueck zur naechsten "Raststelle" und stufenlos.
+
+Ist das alles fertig, werden Fotos gemacht und meine Seiten im Internet  
+erneuert (ist sowieso dringenst notwendig, da diese entstanden sind, als  
+ich gerade HTML gelernt habe und ich jetzt inzwischen mein Geld damit  
+verdiene :) ).
+
+Was mir jetzt natuerlich noch fehlt, ist ein gutes Wiedergabemedium. Ich  
+ueberlege seit Wochen hin und her, lese eigentlich ueberall mit und weiss  
+trotzdem noch nicht, ob ich LD oder DVD haben moechte. Eigentlich lieber  
+DVD, aber von der dieser Seite hoere ich eigentlich eine Hiobsbotschaft  
+nach der naechsten (Diese "Leih-DVD" aus den Staaten, dass die und die  
+noch nicht fuer die DVD herausgeben, Tonformate etc... ). Wahrscheinlich  
+werde ich mir aber wohl einen DVD-Player aus den Staaten importieren.
+
+Achja, zum Schluss ein grosses Lob an Video Gruhler. Der Laden ist wirklich  
+zu empfehlen. Haben keine Hemmungen, mal ne halbe Stunde am Tag mich auf  
+dem Handy anzurufen, haben fuer jede Frage Zeit und kommen auch zweimal  
+zum Einstellen kostenlos vorbei. Dann auch sehr freundlich und kompetent.
+Eine deutsche Bedienungsanleitung (eigenhaendig von Videoservice Gruhler  
+uebersetzt) habe auch noch erhalten, obwohl der Projektor noch recht neu  
+ist. Schade, dass der Laden fuer mich am anderen Ende von Deutschland  
+liegt (Hanrade), sonst wuerde ich da gerne mal oefters vorbeischauen. :)
+
+
+Tschaui, Karl
+
+--
+
+  Karl Zschorn
+  University of Neuendeel, Germany

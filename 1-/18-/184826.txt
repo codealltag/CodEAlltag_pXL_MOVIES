@@ -1,0 +1,239 @@
+2. BJNO zur Einrichtung der Gruppe:
+==================================
+
+de.rec.film.heimkino	Filmerlebnis im Wohnzimmer.    
+
+Charta:
+
+Diese Gruppe dient Diskussionen jeder Art zum Thema Heimkino,
+insbesondere Laserdiscs, DVD-Videos und vorbespielte Videobänder sowie 
+alle Geräte, die man zu deren Wiedergabe braucht.
+
+Technische Diskussionen, die für den interessierten Laien nicht mehr
+verständlich sind, und Diskussionen, die sich nur mit dem Inhalt eines
+Films beschäftigen, sollten in eine passendere Gruppe umgeleitet werden.
+Vor dem ersten Posten in diese Gruppe sollten, wie im Usenet üblich, 
+die relevanten FAQs gelesen werden.
+
+Status:
+
+Die Gruppe ist unmoderiert.
+
+
+Im Zuge der Einrichtung sollen die Chartas folgender Gruppen geändert 
+werden:
+=====================================================================
+
+po.ndp.ruot.ivhs
+----------------
+
+ALT:
+
+po.ndp.ruot.ivhs	Filme, Serien, TV, Video, Kino.
+
+Charta:
+
+po.ndp.ruot.ivhs dient als Diskussionsforum für alle
+Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+Sendungen liegt, kann auch über (Video)filmen (d.h.
+Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+Interpretation von Filmwerken. Für technische Aspekte von Heim-
+kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+NEU:
+
+de.rec.film.misc	Alles, wofuer es keine spezielle Filmgruppe gibt.
+
+Charta:
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten 
+und der Interpretation von Kinofilmen sowie deren Schauspielern
+und Crews. Es kann jedoch auch über die Produktion von Filmen (auch 
+eigenen Filmen und Videofilmen) bzw. Filmtechnik usw. geschrieben 
+werden. Fernsehthemen sollten in eine geeignetere Gruppe gepostet 
+werden.
+
+
+tn.lbc.bm.qesz
+--------------
+
+ALT:
+
+tn.lbc.bm.qesz	TV/Video/Sat Themen.
+
+Charta:
+
+tn.lbc.bm.qesz ist eine Gruppe, in der TV- und Video-bezogene
+Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert.
+(Programmstruktur einzelner Sender; Diskussion über Serien,
+Shows und Dokumentationen; Empfehlungen und Diskussion
+von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+Medienrecht; Sender anderer Länder (via SAT))
+
+NEU:
+
+tn.lbc.bm.qesz	TV/Video/Sat-Themen.
+
+Charta:
+
+In der Gruppe sollen TV- und Video-bezogene Themen diskutiert 
+werden. Sie ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert. 
+(Programmstruktur einzelner Sender; Diskussion über Fersehfilme,
+Serien, Shows und Dokumentationen; Diskussion fernsehspezifischer
+Aspekte von Kinofilm-Ausstrahlungen (geschnittene Szenen, Position
+der Werbeblöcke, ...); Empfehlungen und Diskussion von/über 
+Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer; Medienrecht; 
+Sender anderer Länder (via SAT))
+
+
+tg.bvi.aw.technik
+-----------------
+
+ALT: 
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen und Video.
+
+Charta:
+
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+NEU:
+
+de.rec.tv.technik	Geraete und Technik fuer Fernsehen, Video und Heimkino.
+
+Charta:
+
+Diese Newsgruppe dient der Diskussion über Geräte zur Bildaufnahme, 
+-empfang und -wiedergabe, insbesondere Fernsehgeräte, Projektoren,
+AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen, Videorecorder, 
+LD-Player, DVD-Player und Camcorder sowie der zugrundeliegenden Normen
+und Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, 
+Teletext, Macrovision etc.). 
+Diskussionen mit inhaltlichen Aspekten sollten in geeigneteren Gruppen
+geführt werden.
+
+
+Begründung:
+===========
+
+(1) Warum eine eigene Gruppe für Heimkino?
+
+Ausreichernder Traffic zum Thema Heimkino ist insbesondere in 
+de.rec.film.misc zu beobachten. Laut <5107lw66.21849904@hkcz.du-gafwpp.wj>
+handelt es sich um wenigstens 28% der dort geposteten Artikel, andere
+Zählungen kommen zu ähnlichen Ergebnissen. Das Problem ist jedoch, daß 
+dieser vorhandene Traffic in keiner Gruppe wirklich zu Hause ist: In
+de.rec.film.misc ist der technische Aspekt von Heimkino fehl am Platz,
+in de.rec.tv.technik ist der inhaltliche Aspekt von Heimkino nicht
+richtig aufgehoben (Medien können dort nicht diskutiert werden) und 
+de.rec.tv.misc ist sehr stark auf Fernseh-Sendungen ausgerichtet. Die
+Heimkino-Freunde sitzen überall wenigstens halb vor der Tür, da sich die
+Diskussion von Inhalt und Technik in der Praxis oft nicht trennen lassen.
+
+Traffic aus dem Software-Bereich, der hier on-topic wäre, wären etwa:
+
+ - DVD-Kritiken, Listen von Neuerscheinungen
+ - "Wann kommt 'Titanic' auf Laserdisc raus?"
+ - "Taugt die US-Disc von xxxxx was oder wäre ein Japan-Release
+    eher zu empfehlen?"
+ - "Steigt RWRN jetzt auf dem Softwaremarkt ein oder nicht?"
+ - Für und wider DIVX
+ - Laufzeitverh�ltnisse verschiedener Releases, Beschreibungen
+   derselben, Marktanalysen ...
+
+
+(2) Warum der Gruppenname für die Heimkino-Gruppe?
+
+In einer Umfrage hat sich gezeigt, daß eine Einordnung in *.tv.* auf
+wenig Gegenliebe stößt. Die Proponenten haben sich daraufhin darauf
+geeinigt, den Weg nach de.!alt zu gehen und der Umfragemeinung zu
+folgen, daß dort eine Einordnung in de.rec.film.* als am sinnvollsten
+angesehen wird, da die absolute Mehrheit der in der Charta erwähnten
+Medien mit Kinofilmen bespielt sein wird.
+
+
+(3) Warum die Charta-Änderungen?
+
+Die als "NEU" vorgeschlagenen Chartas spiegeln die tatsächliche Nutzung
+der Gruppen besser wider. Diese wird als den Themen angemessen
+angesehen.
+
+Fernsehfilme werden nach de.rec.tv.misc verlagert, da sie stilistisch
+in den meisten Fällen für das Medium Fernsehen konzipiert sind und
+daher ihre Diskussion auch schon in der TV-Gruppe stattfindet. Dasselbe
+gilt für die fernsehspezifischen Aspekte von Kinofilm-Ausstrahlungen.
+Entsprechend wurde "Videofilmen" in der Film-Gruppe gelassen, da es hier
+nicht sinnvoll erscheint, den ohnehin kaum wahrnehmbaren Traffic für
+Eigenproduktionen über zwei Gruppen zu verteilen.
+
+Ferner wurde statt des Gruppennamens nun "Diese Gruppe" verwendet, was
+Umbenennungen ohne Chartaänderungen in der Zukunft ermöglicht. Auch
+wurde die Charta von de.rec.film.misc sprachlich etwas geglättet, indem
+"Selbermachen" durch "Produktion" ersetzt wurde und damit in sinnvoller
+Weise auch auf die Arbeit von Profis erweitert. 
+
+
+(4) Gibt es keine Überschneidung zwischen drfh und drtt?
+
+Beispiel: Laserdisc-Player sind in beiden Gruppen on-topic, wobei jedoch
+die Diskussion über die Zukunft des Mediums Laserdisc eher nach drfh
+gehört, die technischen Spitzfindigkeiten, warum Laserdiscs keinen
+Kopierschutz enthalten können, drtt betreffen. Ganz klar wird es bei
+Artikeln zu Neuerscheinungen von Filmen auf Laserdisc, die auf jeden 
+Fall nach drfh gehören würden.
+
+
+Vorgehensweise:
+===============
+
+Wir streben eine Abstimmung über die GVV an. Dabei soll das Ergebnis 
+für die Chartaänderungen nur relevant werden, falls die Heimkino-Gruppe
+angenommen wurde.
+
+Grund: Die Chartaänderungen sind auf die Annahme der Heimkino-Gruppe
+ausgelegt. Sollte diese nicht angenommen werden, so halten wir weiterhin
+Chartaänderungen für sinnvoll, aber nicht diese konkreten
+Formulierungen. Wir hoffen, daß sich in diesem Fall ein Proponent für
+eine separate Chartaänderung findet.
+
+<Wahlschein-Entwurf>
+
+[JA/NEIN/ENTHALTUNG] Einrichtung de.rec.film.heimkino
+
+Sollte de.rec.film.heimkino angenommen werden, so werden folgende
+Abstimmungspunkte relevant:
+
+[JA/NEIN/ENTHALTUNG] Chartaänderung de.rec.film.misc
+[JA/NEIN/ENTHALTUNG] Chartaänderung de.rec.tv.misc
+[JA/NEIN/ENTHALTUNG] Chartaänderung de.rec.tv.technik
+
+</Wahlschein-Entwurf>
+
+
+Proponenten:
+============
+
+Benjamin Christoph Vandenberg             auy@uhj.snk
+Ingmar Möntnich               nweasmuphdk@ddi.ko
+Luca Wöller                      Idsfnrwfj@ymngjqbz.lwph.vk
+
+-- 
+Fertige Artikel für ox.nolce.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <epqmpxhpj@axij.xd> (vertrauliche Ein-
+sendung) oder <bejksv@zosb.dp> (zur Kontrolle öffentlich; beides keine
+Diskussionslisten!). Weitere Informationen: <URL:http://asc.wpac.jo/>

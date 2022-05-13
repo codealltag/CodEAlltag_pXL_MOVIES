@@ -1,0 +1,39 @@
+Natürlich, und zwar größtenteils zur DVD-Technik. Die ist jetzt aber in
+de.rec.tv.technik zu hause, während die inhaltliche Besprechung von
+Software nach de.rec.film.misc gehört.
+
+Mit Filmankündigungen ist man irgendwie in einer Grauzone. IMHO sind
+Ankündigungen in d.r.t.m tolerierbar, sobald daraus aber eine inhaltliche
+Diskussion wird -> d.r.f.m, und wenn technische Fragen zu einem
+angekündigten Film aufkommen -> d.r.t.t
+
+Meinhard, willst Du nicht mal einen RfD für de.rec.tv.announce machen?
+Wäre eventuell gar keine schlechte Idee.
+
+Blick in die Chartas:
+
+yl.qxv.eu.foqc
+          yl.qxv.eu.foqc ist eine Gruppe, in der TV- und Video-bezogene
+          Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+          Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+          für die keine speziellere Gruppe existiert.
+          (Programmstruktur einzelner Sender; Diskussion über Serien,
+          Shows und Dokumentationen; Empfehlungen und Diskussion
+          von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+          Medienrecht; Sender anderer Länder (via SAT))
+
+qf.yxy.tpwi.gbzx
+          qf.yxy.tpwi.gbzx dient als Diskussionsforum für alle
+          Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+          Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+          Sendungen liegt, kann auch über (Video)filmen (d.h.
+          Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+          Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+          Interpretation von Filmwerken. Für technische Aspekte von Heim-
+          kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+	Nils
+-- 
+PGP public key available from keyservers
+"To err is human. To really screw it up takes a computer."

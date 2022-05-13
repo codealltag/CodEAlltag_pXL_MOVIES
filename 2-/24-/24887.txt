@@ -1,0 +1,10 @@
+Zähle einfach 13 Buchstaben im Alphabet weiter.
+a ---> n
+v ---> i
+Dazu braucht man nichtmal einen Computer :-)
+Maurice
+-- 
+"Philosophie ist der Versuch, in einem dunklen Zimmer eine schwarze
+Katze zu fangen, die gar nicht drin ist. Theologie ist der Versuch,
+in einem dunklen Zimmer eine schwarze Katze zu fangen, die gar nicht
+drin ist, und dabei zu rufen: "Ich hab' sie!" Gregor Offenwanger

@@ -1,0 +1,11 @@
+Das bedeutet, das die Datenbank nicht auf dem aktuellen Stand ist und
+die DIFFs "zu neu" sind. Probiers mal mit dem diff vom 22.05. Wenn das
+nicht geht, dann mit dem vom 15.05. Wenn das nicht geht, das vom 08.05
+usw. Es müssen alle fehlenden diffs integriert werden.
+
+Größe
+-- 
+Johann Domann
+Germany, Planet Earth, BGU Way
+
+** And may you never, ever, run out of sugar... baby! **

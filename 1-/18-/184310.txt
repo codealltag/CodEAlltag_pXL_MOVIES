@@ -1,0 +1,47 @@
+Da wir im FilmClub oft gemeinsam Filme (Spielfilme) machen, habe ich mir
+den Part der Nachvertonung besonders angenommen (hat mich schon immer
+interessiert)!
+
+Ich habe seit etwa 5 Jahren ein TripleDatBoard. Das ist eine digitale
+Ein/Ausgangskarte
+mit SP/DIF-Anschluss. Damit kann ich ueber einen DAT (oder CD) direkt in
+den PC. Das
+hat den Vorteil, dass ich die hochwertigen (vom PC ungestoerten) Wandler
+vom DAT nutzen
+kann. Dazu gehoert eine "HardDiscRecording Software" mit allem was man so
+benoetigt (oder auch mehr)! Mit diesem HDR-System kann ich nun
+(nichtlinear) meine komplette Vertonung
+fuer den Film am PC machen. Dazu gehoert: schlechten O-Ton herausschneiden,
+kopieren, absenken oder anheben und wenn noetig auch Filtern oder
+Verfremden (z.B. Hall); Hintergrundmusik (meist von CD - da ich kein
+Musiker bin) an den Film anpassen (Verlaengern, verkuerzen, Ausschneiden,
+Loopen oder nur mit dem O-Ton mischen); und Kommentartexte schneiden und an
+der passenden Stelle zum Bild positionieren. Das alles wie mit einer
+100000,-DM analogen/digitalen Tontechnik aber fuer weit weniger Geld.
+Wie ich das genau mache, habe (werde) ich in meinem Artikel auf meiner
+Homepage beschrieben:
+http://svohgsaw.tvzdonmjfo.oxx/sfybivcib/fbuir/BPC5.vqf
+
+Es geht aber auch einfacher! Mit einer normalen Soundkarte und einem
+geeignetem Programm (oft bei der Soundkarte dabei)!
+Auch dazu habe ich einige Hinweise bzw. Links in den Artikel geschrieben.
+Ausserdem ist der Artikel in gezipter Form zum downloaden (in deutsch und
+englisch) und Offline lesen vorhanden!
+
+Wenn der Ton dann komplett bearbeitet ist, wird er (synchron) mit AudioDub
+auf das MasterBand gespielt. Das Thema Synchronitaet hat mich sehr lange
+beschaeftigt - nun habe ich mir ein TimeCodeConverter gekauft. Doch fuer
+normale Urlaubsfilme mit Geraeuschen, Musik und Kommentar ist das gar nicht
+noetig! Es geht auch mit "Achtung - Fertig - Los"! Bei kuerzeren
+Filmsequenzen (unter 6 Minuten) bekommst Du sogar mit einigen Versuchen
+eine Lippensynchronitaet hin!!!
+Gerade aber bei Urlaubsfilmen ist der O-Ton (vor allem auch Sprache) meist
+sehr schlecht, weil man ja nur das eingebaute Kameramikrofon (in zu grossem
+Abstand) hat. Dann kann man mit einem HDR-System auch super Nachvertonen -
+(Meist fallen einem da noch ein paar bessere Sprueche ein)!
+
+Bei Spielfilmen haben wir inzwischen unsere Anspueche weit hoeher schrauben
+koennen.
+
+Viele Gruesse
+Ivan Claespeter

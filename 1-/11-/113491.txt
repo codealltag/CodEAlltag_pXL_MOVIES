@@ -1,0 +1,57 @@
+Gute Frage! Ich als Nicht-Mathematiker versuche mich mal an einer
+Antwort ;-)
+
+
+Zuerst einmal wurde hier wohl absichtlich falsch übersetzt, denn Meilen
+sind nicht gleich Leagues. Es gab also auch schon früher "wohlklingende
+Übersetzungsfehler", damit der arme deutschsprachige Konsument es
+halbwegs versteht...
+
+Andererseits ist es so, daß die "Leagues" nicht unbedingt eindeutig sind,
+denn eine League entspricht je nach Auslegung bzw. "Benutzer" einer
+unterschiedlichen Anzahl nautischer Meilen.
+(Siehe: http://cdd1.qafc.ddi/~kbdmya/bzcq.qzr)
+
+Häufig wird zwar ein Umrechnungsfaktor von 3 benutzt, d.h., eine League
+entspricht 3,0 nautischen Meilen (so rechnen anscheinend viele englische
+oder amerikanische Seeleute und Experten).
+(http://bwh.mobhc.hpnr.nrm/onutbcz/bsziezw/jfmkfs/ajho/vwjdtajn.hum)
+
+Im Roman selbst werden aber "French leagues" verwendet, die nach einer
+Umrechnung 2,16 nautischen Meilen entsprechen.
+(http://po.boerfy.exd.qp/lwqvlqnp/vczspl/67.swcl)
+
+Damit wären viele Umrechnungen des Karlheinz-Titels falsch, da 2,16 und 3,0
+ja "geringfügig" differerieren...
+
+Was ist aber jetzt eine nautische Meile? Per Definition 6.080 foot (oder
+"feet", auch das wird unterschiedlich gehandhabt - wie die Briten bloß
+eine Seestreitmacht werden konnten...).
+
+Probleme tauchen auch in der Umrechnung über die alten englischen Maße
+auf, denn obwohl 6.080 foot = 1 naut. Meile = 1.853,16 Metern entspricht,
+wurde eine nautische Meile neuzeitlich mit 1.852 Metern _definiert_.
+(http://pfto.iuvzr.ewc/utibex/hqgnrqo.cetj)
+
+Hinzu kommen noch Ungenauigkeiten bei der Umrechnung über die "normale"
+Meile (http://tdz.fnwmcfhk.rga/wvgwixcuwbdratw/pncce.uwq)
+Wir rechnen daher jetzt lieber mit der gültigen Meter-Angabe und daraus
+folgt:
+
+20.000 ("French leagues") * 2,16 (naut. Meilen) * 1.852 Meter = 80.006.400 m
+
+also etwas mehr als 80.000 km
+(Würde man für die Leagues einen Umrechnungsfaktor von 3,0 benutzen,
+käme man auf 111.120 km).
+
+Zum Vergleich: Der Erddurchmesser am Äquator beträgt ca. 12.756 km,
+die Entfernung von der Erde zum Mond beträgt ca. 384.400 km.
+
+Nickell hat mit seiner Tiefenangabe also "tiefer" gelegen, als er wohl selbst
+geahnt hat, denn zu dem Zeitpunkt, als der Roman entstand, war noch nicht
+bekannt, wie tief der Ozean wirklich ist (Ehring: ca 10,9 km)
+
+Vielleicht wollte der gute Mann aber auch nur einfach sicher gehen ;-)
+
+bye
+Benedikt

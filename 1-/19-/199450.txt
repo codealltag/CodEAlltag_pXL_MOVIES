@@ -1,0 +1,225 @@
+Hallo!
+
+Im Kunstunterricht unserer Schule ist Projektarbeit angesagt...
+und ein Freund und ich sollen einen Video-Film machen - über Möbel
+oder das Leben von Möbeln...    :-(
+Also haben wir uns gesagt - peppen wir das Ganze etwas auf.
+Ein Raw-Draft für das Drehbuch findet ihr unten - wer noch gute
+Ideen hat, kann sie ja in der Group diskutieren...  ;-)
+Einzige Bedingung: Die Ideen sollten für uns realisierbar sein
+                   (Zweier-Team).
+Die Weltraum-Szenen werden Computer-gerendert und dann auf Video
+überspielt. Die restlichen Szenen werden von uns gespielt...
+Einige Stellen sind noch unklar, vielleicht hat ja jemand eine
+Idee...   ;-)
+
+
+                        LIGHTNING I - Part 3/Add in 2
+                                (Version 1.0)
+
+Vorspann/Intro:
+---------------
+
+  [Weltraum]
+
+        "LIGHTNING I" kommt aus den Weiten des Weltraums auf
+Betrachter
+        zugeflogen, stößt gegen den Bildschirm und bekommt Risse.
+        (WICHTIG: Bildschirm muß wackeln)
+
+        Sehr kurzes Raumschiff mit einem Po als Rückseite kommt
+angeflogen und
+        stößt gegen Schrift.
+        (SCHILD hinten auf Schiff: "Wir bremsen nicht für Spaceballs")
+
+        Stimme: "Das gibts doch gar nicht"
+
+        Raumschiff fliegt zurück, Schrift fliegt weiter -> RAUS
+
+        Raumschiff fliegt wieder rein (verbogene Stoßstange) und hält
+        in der Mitte des Bildschirms. Nun scheißt es (SOUND: PFURZ)
+den
+        Vorspann aus. (Dieser scrollt dann halt aus der Ferne
+(Raumschiff)
+        in den Vordergrund (umgekehrter Starwars-Scroller).
+
+Vorspanntext:
+-------------
+        "Vor langer, langer Zeit in einer sehr, sehr, ..., sehr weit
+         entfernten Galaxie. Drei Jugendliche gelangten durch ein
+         fehlgeschlagenes Experiment in eine Außerirdischenstation,
+         von der sie nach fürchterlichen Erlebnissen flüchten konnten.
+         Doch mit ihnen gelangte noch etwas in ihre Welt...
+         Was weiter erfolgte brauchen wir nicht zu melden, weil es
+jeder,
+         der an diese Stelle kommt, von selbst liest.
+         Doch die Aliens hatten durch diesen Zwischenfall von der Erde
+         erfahren und invasierten bei der nächsten Gelegenheit (noch
+vor
+         ihrem 5-Uhr-Tee) eine Schule - was fehlschlug...
+         Aber dies ist eine andere Geschichte...
+         So ergab es sich, daß zu dieser Zeit ein kleines, liebes
+Alien
+         von zwei alten Säcken verfolgt wurde...
+         [Auf russisch:] 'Wenn sie das hier nicht lesen können,
+brauchen
+         Sie eine Brille!'"
+
+
+  Kamera führt auf Raumschiff zu, stoppt. Von rechts und links kommt
+  die Schrift "Teil 3" und zerquetscht das Raumschiff. (Blut tropft
+'runter,
+  SOUND: "Fatality!")
+  Schrift nach unten weg.
+
+  Verfolgungsjagd von links hinten auf Bildschirm zu und durch (rechts
+vorne)
+  Grüppen-Raumschiff, verfolgt von dem "Arsch"-Raumschiff.
+  Grüppen-Raumschiff von der Seite.
+
+  (Alien-Typ im Grüppen: "Schon wieder diese Arschlöcher!!!")
+
+  [Grüppen]
+  Er geht zu Beamer und beamt sich auf die Erde.
+
+  [Erde]
+    Man sieht einen Stuhl, Text: "Scheiße! Wie seh' ich denn aus???
+    Oh mein Gott, ich bin ein Stuuuuhhl!!! Wer hat schon wieder den
+    Beamer verstellt????????? Na warte, den werde ich - Moment!"
+
+  Füße von P1 kommen an. P1 sammelt den Stuhl auf. (Aus dem Baum
+hinter
+  dem Stuhl fällt jemand auf den Boden.)
+  "Dieser Stuhl sieht aber schäbig aus... Der muß zur Reparatur..."
+
+  [irgendein RAUM]
+    Ullrich kommt durch eine Türe, die sich in der Wand befindet, 'rein:
+    "So, das wäre erledigt... Ich hoffe, der Schreiner meldet sich
+bald..."
+    (P1 verläßt Bild)
+
+  [Weltraum]
+     Arsch-Schiff von Seite, Kamerafahrt daraufzu, AS von innen:
+     "Zorflix! Er hat sich von seinem Schiff gebeamt! Wir müssen die
+     Verfolgung aufnehmen!" (Nimmt einen Kassettenrecorder 'heraus,
+drückt
+     auf "Record")
+     "Aufnahme läuft! - Und los geht's!"
+     "Jawoll!"
+     (Schiff fliegt Richtung Erde, taucht in die Athmospäre ein
+     (((Wenn ich Zeit genug dafür habe...))))
+
+  [irgendein RAUM]
+    "Telefon klingelt, doch ich bin im Keller, vielleicht nur
+verwählt, doch
+    ich hab' ein Handy!"
+    Ullrich singt das Telefonmann-Lied von Marcel und nimmt sein Handy...
+    P1:"Zumsteg? - - Ah, Tag Herr Grollius!"
+    ED:"Herrschaftszeiten! Ich wollt ihnen nur sagen, daß der Stuhl
+fertig
+        ist."
+    P1:"Sehr schön... Ich komme dann und hole den Stuhl ab..."
+    ED:"Pumuckl! Jetzt hör endlich auf!"
+    P1:"Wiederhsehn!"
+    ED:"Auf Wiederschaun!"
+    (auflegen)
+    P1: "Den Stuhl nehm ich mit in die Schule..."
+    (Geht aus Raum.)
+
+  [VOR DER SCHULE]
+    (Stuhl wird in ein Klassenzimmer gestellt, alle Personen ab)
+    anderer Stuhl zu Stuhl: "Wer bist du denn? Neu hier?"
+    Grüppen-Al: "Naja... Eher ein Unfall... Ich bin ein verwunschener
+             Außerirdischer... Wie haben sich denn die Stühle auf der
+             Erde so entwickelt?"
+    Stuhl:  "Ja, also..."
+
+  [Rückblende in die Steinzeit] (Stimme vom anderen Stuhl)
+    (Musik aus Karsten)
+    "Früher waren die Möbelstücke noch weniger spezialisiert und
+konnten
+    sehr variabel eingesetzt werden..."
+    Neandertaler sitzt auf Baumstamm, anderer Nean. kommt an, will
+sich
+    auch setzen, der erstesteht auf und zieht dem Neuankömmling mit
+dem
+    Baumstamm eins über.
+
+  [Rückblende in den Wilden Westen]
+    "Und so ging es dann weiter... Mit der fortschreitenden
+Zivilisation
+    wurden die Möbel immer spezialisierter, konnten aber, dank der
+    Intelligenz der Menschen, immer noch voll ausgenutzt werden. Daher
+    kommt auch das Wort 'vermöbeln'..."
+    Die gleiche Szene mit Cowboys und einem Stuhl statt Baumstamm.
+
+  [Schule, gleicher Klassenraum]
+    Jugendliche stürmen herein und hänseln den Stuhl, sie werfen den
+Stuhl
+    aus dem Fenster im dritten Stock!
+    (ALT="Scheiß-Schule! Scheiß-Unterricht! Scheiß-Stuhl!" und Stuhl
+    herauswerfen)
+    Grüppen-AL: "Ahhhhhhhh!"
+
+  [Rasen]
+    Stuhl liegt dort, zwei kommen vorbei:
+    1: "... du schon Mars-Attacks gesehen?"
+    2: "N, ist doch eh alles Blödsinn, Außerirdische gibt's doch
+garnicht!"
+    (ab)
+    Grüppen-Leonhard: "Und es gibt sie doch..."
+    Nacht fällt herein,
+    UFO erscheint und schwebt über Stuhl
+    Grüppen-Leonhard: "Oh mein Gott! Sie haben mich gefunden! Ich weiß zwar
+nicht
+             wie, aber sie haben mich gefunden!!!"
+    Stuhl wird hochgebeamt.
+
+  [in Arsch-Raumschiff]
+    AL1,2: "Endlich haben wir dich! Siehst gut aus... Wir werden
+unseren
+            Auftrag erfüllen und dich eliminieren!"
+    AL 1: "Stell in dahin!"
+    (ab)
+    AL 2 stellt Stuhl ab, dieser fällt dabei versehentlich in den
+Komposter.
+    AL 2: "Ups... Jetzt bekommen die Erdlinge eine Stuhlprobe von
+uns..."
+
+  [Weltraum, Erde im Hintergrund]
+    Raumschiff scheißt Stuhl aus
+    Grüppen-Leonhard: "Nicht schon wieder! Ahhhhhhhhhhhh!"
+    fällt auf Erde zu
+
+  [Wald]
+    Stuhl landet
+    Gangster kommen mit Geisel, fesseln Geisel auf Stuhl
+    .
+    .
+    .
+    ???
+    .
+    .
+    .
+    Gangster treten Opfer zu "Dyckmanns!"-Rufen
+
+    Aliens kommen, Gangster fliehen
+
+C U !
+
+David "REBOOT" Thren
+
+***********************************************************************
+eMail:                                 |    T           /\
+M.Wdhqvl@a-lyrgrj.qv                   |   I   R E B O /  \ O T ' S
+URL:                                   | I <__________      __________>
+http://llhq.g-oymxvm.lf/mxth/R.Ovgdgk/ |V             \    /
+(REBOOT'S CASTLE 2.40                  |         C A S \  / T L E
+  Komfortabler und gebugfixed!!!)      |                \/
+***********************************************************************
+CEW Coccinelle Wildentierbach - bundesweiter Direktvertrieb von
+Hardware (Schwerpunkt PCs) und Software aller Art!
+eMail: UahlfblqIBW@g-mutozo.zs
+Tel.: 10958 / 676090   (Anrufbeantworter)
+Fax:  41749 / 487258
+Homepage: http://qkps.s-kcbhsh.wv/nvcq/PkjcamcvEOP/

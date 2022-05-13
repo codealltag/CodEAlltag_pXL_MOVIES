@@ -1,0 +1,11 @@
+"Alessandro Jennert" <ielniq-krhynn@pwofrbm.md>
+
+
+Hmm, ich sehe das Problem nicht. Das untere Seil muss doch
+nur NICHT elastisch sein und schon gibt es keine Probleme.
+Er steht still und trennt das obere Seil. Das schiesst dann hoch,
+aber das ist ja (im Gegensatz zum Cargolifter ;-)) egal. Er
+fällt aber einfach nur runter.
+
+Gruss
+Jean-Claude

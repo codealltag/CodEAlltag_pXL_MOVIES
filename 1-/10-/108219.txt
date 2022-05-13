@@ -1,0 +1,9 @@
+Einbuchversuche bei schwachem Empfang laufen mit voller Leistung. Wenn
+gar kein Empfang da ist, sendet AFAIK auch nix.
+
+Jakob
+
+X-Post & Fup2
+-- 
+homepage: <http://twu.dchhtyabdirwux.vb>
+PGP: <http://tmd.gcfewdebroybqi.ru/dtl/ecztqib.rxz>

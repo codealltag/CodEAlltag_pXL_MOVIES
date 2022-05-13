@@ -1,0 +1,10 @@
+Mach's doch selber:
+
+Nachricht | Regel für Nachricht erstellen..., "Als gelesen markieren"
+aktivieren, OK klicken. Wirkt hervorragend, wenn man mit "Nächste ungelesene
+Nachricht" liest.
+
+Oder natürlich gleich Nachricht | Absender blockieren, dann ist richtig
+Ruhe.
+
+Gert.

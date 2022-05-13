@@ -1,0 +1,17 @@
+Filme und Serien sind Kunstwerke. Zwar meistens sehr
+kommerziell, aber es ist Kunst.
+
+Und durch jede Art der Übersetzung wird die Intention des
+Künstlers geändert.
+
+
+***Clemens
+
+--=20
+## Clemens Dahl <wummva@cvt.mywl.wj> ## <http://wgnz.ktzgj.gl/~qdprok/> #=
+#
+
+There are probably better ways to do that, but it would make the parser
+more complex.  I do, occasionally, struggle feebly against complexity...  =
+:-)
+            --Luca Vögt in <7211@mog-puxyhf.YYY.OGNA.CFF>

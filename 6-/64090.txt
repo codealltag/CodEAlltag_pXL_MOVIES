@@ -1,0 +1,36 @@
+Ein Kraft*feld* hält überhaupt nichts auf der Bahn, höchstens eine Kraft.
+
+Die Gravitationskraft, die die Erde von der Sonne spürt, ist völlig
+unabhängig von der Jupiterposition.
+
+Außerdem habe ich mal flott nachgerechnet, welche Beschleunigung von der
+Sonne auf Jupiter ausgeübt wird:
+a = 0,22 mN/kg (ungefähr)
+
+Das ist im Vergleich zur Erdbeschleunigung (also die Beschleunigung, die
+für die Kraft sorgt, dis uns alle hier am Boden hält) grob ein 44590-tel.
+
+Nicht so riesig also.
+
+Das ist übrigens die gleiche Beschleunigung, die auch einen Apfel (oder
+Schneeball, oder Backofen...) auf der Jupiterbahn halten würde.
+
+
+Für Interferenzen braucht es Wellen.
+Du meinst schlicht Überlagerungen.
+(Ja, schon klar, es gibt auch Gravitationswellen - aber die sind hierfür
+sicher vernachlässigbar)
+
+
+Der Teil stimmt wenigstens. Und auch nur das steht in dem Artikel, auf
+den dein Link verweist.
+
+
+Genau.
+
+Bleibst du bei deiner *sicheren* *Aussage* von "enormen Kimamodifikationen"?
+
+
+         Salvatore
+
+(heute leicht gereizt, bitte nicht übelnehmen...)

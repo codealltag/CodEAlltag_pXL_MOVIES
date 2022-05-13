@@ -1,0 +1,20 @@
+Ja. Ich hatte natürlich gemeint, dass dem halbdurchsichtigen Spiegel noch
+ein normaler Spiegel gegenübersteht, der dann im Film erscheint. Der
+Schauspieler steht dann dazwischen. Also so:
+
+     X                      //                     O
+/
+Kamera => Halbd. Spiegel=> Schauspieler => Spiegel
+
+So sollte man dann den Schauspieler im (normalen) Spiegel gespiegelt
+filmen können, wo dann die Kamera sich aber nicht im (normalen) Spiegel
+spiegelt, weil sich dort nur der halbdurchsichtige Spiegel drin spiegelt.
+alles klar? :)
+Liselotte.
+
+::: Liselotte Bogaards ::: http://zehmpkjfivn.hnteultvd.zzo :::
+"I have never been certain that the moral of the Icarus myth is, as is
+generally accepted, 'don't fly too high', or whether it might also be
+thought of as: 'forget about the wax and feathers, and do a better job on
+the wings'."
+(Severin Eijkholt)

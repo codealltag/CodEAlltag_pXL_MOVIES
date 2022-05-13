@@ -1,0 +1,65 @@
+Digitalisierte Kinofilme in guter Qualität illegal zu kopieren, wird 
+auf jeden Fall erheblich einfacher sein, als bei den alten 
+"analogen" Filmkopien.
+
+Wie kann man einen Film kopieren? 
+
+Die einfachste Methode ist, ihn von der Leinwand abzufilmen.
+Da ist es egal in welchem Format die Originalkopie vorliegt, 
+aber die Qualität ist bescheiden.
+
+Will man eine bessere Qualität, ist bei herkömmlichen Filmkopien
+auf jeden Fall schwere - und seltene(!) - nicht Spezialhardware nötig, 
+die auch nicht so ohneweiteres transpoertiert werden kann.
+Kopierwerke, die neue 35mm-Kopien herstellen könnten, gibt es in
+Deutschland wohl knapp ein Dutzend. Für Raubkopierer interessanter
+wäre eine Videoabtastung. Die entsprechenden Geräte sind etwas 
+verbreiteter, aber alle Firmen, die so etwas haben, dürften in einem 
+Handbuch der Film- und Fernsehbranche verzeichnet sein. 
+Zudem muss man sich die Masterkopie in einen Kino klauen oder
+"ausleihen", was Spuren hinterläßt.
+
+Bei Digitalkopien braucht man nur die Daten. 
+Da gibt es zwei Ansatzpunkte: 
+  1. die verschlüsselten Daten.
+  Die kann man sich relativ einfach besorgen. 
+  Wenn sie wirklich - wie von einem Konsortium vorgeschlagen - per
+  Satellit übertragen werden, kann man sie einfach mitschneiden.
+  Auch eine drahtgebundene Übertragung kann man recht einfach
+  anzapfen. Zudem lagern die Daten nach der Übertragung auf einem 
+  Server im Kino.Von dort kann man sie auch wieder abrufen. 
+  Spezialhardware ist in keinem Fall notwendig, da für die Übertragung
+  und den Server aus Kostengründen nur Standardkomponenten in Frage
+  kommen. Ein Anschlußstecker und ein Laptop (evtl. wegen der größeren
+  Plattenkapazität auch ein Minitower) dürften genügen.
+  Niemand wird die Daten vermissen. 
+  Allerdings muss man sie anschließend noch entschlüsseln. Auch dafür 
+  ist keine Spezialhardware notwendig, allerdings kann sie die Sache 
+  beschleunigen. Insbesondere, wenn man noch einen Schlüssel knacken muß.
+
+  2. die unverschlüsselten Daten
+  Spätestens für die Projektion müssen die Daten entschlüsselt und
+  dekomprimiert werden. Zwar wird man vermutlich Dekoder und
+  Projektor in einem Gehäuse unterbringen, aber mit etwas Bastelei
+  kommt man auch da an die Daten. Da ist dann wirklich Spezailhardware
+  nötig um die Daten abzugreifen, vorab zu komprimieren und auf die
+  Festplatte zu dumpen. Aber so "speziell" ist sie nun auch wieder nicht.
+  Sie dürfte jedenfalls verbreiteter als die Kinoprojektoren sein.
+
+
+Wenn Du die Rohdaten hast, kanst Du sie wieder reduzieren und z.B.
+in das DVD-Format konvertieren (oder auch für einen Digitalprojektor
+aufbereiten.)
+
+
+Die aktuellen Digital-Projektoren fürs Kino haben AFAIK 1280x1024 Pixel.
+
+
+1. Verutlich kann man wegen der höheren Pixelzahl einen stärkeren
+   Reduktionsfaktor als bei DVD wählen.
+2. Die aktuellen DVDs haben AFAIK eine Kapazität von ca. 4 GB. Wenn 
+   die Kinofassung wirklich das achtfache Volumen erreicht, sind 
+   das 36GB. Entsprechende Festplatten gibt es für ein paar 
+   Hundert DM in jedem Computergeschäft.
+
+Ciao, Urs                      gqicfxpj@nteuip.qpveaci.pz

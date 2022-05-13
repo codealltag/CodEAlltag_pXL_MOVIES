@@ -1,0 +1,19 @@
+Hallo Hubert,
+
+
+Nein, nein. Wenn es tatsächlich nur die Bilder gezählt werden würden
+("Klicks", wie Du es nennst), dann würde das nie funkionieren. Erstens
+wäre die Synchronisation zu Filmbeginn immens schwierig, und zweitens
+gehen regelmäßig Bilder an den Klebestellen Bilder verloren.
+
+Bei DTS werden auf dem Filmstreifen tatsächlich mehr Informationen
+gespeichert. Unter anderem sind das die Bildnummer und eine 
+Identifikationsnummer des Filmes gespeichert. (Damit niemand 
+versehentlich "Jurrasic Parc" mit der CD von "Schindlers Liste" 
+laufen lässt!)
+
+Hier ein großes Foto des Farbminister-Strichcodes:
+http://cue.ipynzlwy.wr/kc/ed_qqlehdneqe.clil
+
+Gruß
+Andree

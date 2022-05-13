@@ -1,0 +1,33 @@
+Du nutzt keine Tastatur, sofern du es vermeiden kannst, oder?
+
+
+Das läßt sich bequem mit dem Hamster ausgleichen.
+
+
+Was du nimmst, ist mir herzlich egal - wenn das Ergebnis anständig
+lesbar rüber kommt - das war im vorigen Posting nicht gegeben.
+
+
+Es ist funktionell ähnlich arm wie OE, hat aber ca. 95% Fehler weniger.
+
+
+Ist die Eier-legende-Wollmilch-Sau unter den Newsreadern.
+
+
+Und eleminiert Teile des Subjects (OT: Hallo =3D> Re: Hallo) und =
+ergänzt
+selbstständig "file:" vor "//irgendwas" und hängt regelmäßig =
+Leerzeilen
+an und kodiert das Subject teilweise mit base64 und ...
+
+
+Technisch sind wenige schlechter - der OAP-Reader soll ähnlich schlecht
+sein, VideoInn Notes ist noch ungeeigneter und der EBC-Newsreader ist
+auch Schrott.
+
+
+Ansonsten nutze Hamster/CopyIf/Korrnews oder Morver/Korrnews und du
+kannst auch mit OE vernünftige Ergebnisse abliefern.
+
+So long,
+Oskar P. Karpp

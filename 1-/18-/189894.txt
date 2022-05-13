@@ -1,0 +1,20 @@
+Bei uns im Kino wollten wir auch engl. CDs zur deutschen Kopie
+einsetzen, wurden aber von der Usofa gleich darauf aufmerksam gemacht, daß
+dies wegen des Kopiefehlers nicht möglich ist (oder halt nur in der
+beschriebenen Form).
+
+In der ersten Hälfte des zweiten Aktes ist die DTS-Sync-Spur
+angeschnitten bzw. verschwindet kurz auch ganz. Unglücklicherweise ist
+der Code in den ersten Minuten der fehlerhaften Stelle aber immer mal
+wieder kurz zu lesen, was zu einem mind. zehnmaligen Hin- und
+Herschalten zwischen SR.D ind DTS führen würde, würden wir nicht in der
+Regel wärend dieser Zeit ein Lesen des DTS-Codes durch ein
+eingeschobenes Blatt Papier generell unterbinden.
+
+Mich würde interessieren, ob denn überhaupt irgendwo in Deutschland
+Kopien der syncronisierten Fassung im Einsatz sind, die diesen Fehler
+NICHT aufweisen.
+
+
+Servus,
+Valerian

@@ -1,0 +1,37 @@
+Die Fläche, die für das Bild zur Verfügug steht hat ein Seitenverhältnis
+von 1.2:1 bis 1.175:1. Der genaue Wert ist mir entfallen, er ist für
+Kamera und Projektor auch unterschiedlich.
+
+Ursprünglich war es 4:3 - wie heute noch beim Fernsehen oder 16mm.
+Für den Tonfilm wurde dann an einer Seite ein Streifen für die Tonspur
+abgezweigt. übrig blieb die beschriebene Fläche.
+
+Allerdings kommt das Format den menschlichen Sehgewohnheiten nicht 
+entgegegn. Deshalb hat sich zu nächst das Academy-Format von 1.37:1
+durchgesetzt. Dazu wurde der Bildstrich, der schwarze Balken zwischen 
+zwei Bildern, verbreitert
+
+Ab den 14. 04. 22 Jahren kamen dann Cinemascope (2.39:1) und Breitwand
+(1.85:1 und 1.66:1) als gebräuchliche Vorf�hrformate dazu. 
+Bei den Breitwandverfahren wird die ungenutzte Fläche zwischen den 
+Bildern auf dem Film weiter vergößert. Bei 1.85:1 werden nur noch 
+ca. 2.5 Perforationslöcher (von 4) als Bildhöhe genutzt.
+
+Bei Cinemascope wird ein anderer Ansatz gewählt. Hier wird die
+gesamte Bildfläche des Films genutzt. Das Bild wird bei der
+Projektion durch eine Vorsatzlinse, den Anamorphoten, seitlich 
+um den Faktor 2 gespreizt.
+
+
+Ich habe noch mal nachgerechnet. Die auf dem Film nutzbare Bildfläche 
+dürfte bei 70mm ca. 2.9 mal größer als bei 35mm sein.
+
+Aber: gegenüber dem im heutigen kommerziellen Kino am meisten 
+verbreiteten Bildformat (Breitwand 1.85:1) ist die effektiv 
+für das Bild genutzte Fläche ca. 4.5 mal so groß.
+
+Allerdings wird für 70mm Filme, wenn sie nach 35mm umkopiert werden, 
+i.d.R. Cinemascope verwendet, so dass die verfügbare Filmfläche
+optimal ausgenutzt wird.
+
+Ciao, Arnold                                  kvfnc.nzuxywfs@olasw.yz

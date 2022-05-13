@@ -1,0 +1,19 @@
+Hallo,
+
+
+Ich denke, er meint eine Pegeldifferenz. Die Ruhelautstaerke in
+einem THX-Kino liegt etwa bei 30 dB. Zusaetzlich 96 dB ergeben
+126 dB. Die Schmerzgrenze liegt etwa bei 130 dB.
+
+Die 96 dB ergeben sich wohl aus der ueblichen 16-bit-Aufloesung
+des Digitaltons, denn 16 bit ergeben genau 96 dB moegliche
+Pegeldifferenz.
+
+Gruss
+  Christoph
+
+-- 
+=================================================================
+Christoph Baumgarten
+E-Mail: psiwm.vbrieu@xficmmr.fra-khmouclvv.uj
+Homepage: http://lcgqcx.dfd.edy-rqdwchjsn.ws/~ivr63564/dnnh.atza

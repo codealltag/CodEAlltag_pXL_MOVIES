@@ -1,0 +1,11 @@
+Subjektiv kann es schon einen Unterschied machen ob ein MPEG/
+Wavelet Stream oder ein chemischer Film ( bei dem echte 30FPS+
+gespeichert sind und nicht nur Fragmente, die dann aufbereitet
+werden bei der Dekompression/Transformation ) gezeigt wird, oder ?
+
+Wie hoch ist die Pixelauflösung die generell dabei eingesetzt wird ?
+
+
+Gruss,
+
+Fabian.

@@ -1,0 +1,14 @@
+Ich habe jetzt nicht gestoppt, aber mir ist nichts verdächtiges aufgefallen.
+
+
+Am Dienstag hatte ich nur ein 'update' laufen lassen. 
+Aber auch nach 'make cleandbs; make databases' komme ich auf das 
+korrekte Ergebnis.
+
+Merkwürdig. 
+Wenn ich die Zeit finde, suche ich am Wochenende, ob ich noch irgendwo 
+etwas gepatched habe. Ich bezweifele es aber.
+
+Ciao, Bgort                                qnmthlyq @ gixxkhaw.xw
+
+Zuletzt gesehen: Heisser Sommer Big Fish Gam gai 2ö

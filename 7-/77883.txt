@@ -1,0 +1,12 @@
+Fernando Ossenkopf schrieb folgendes:
+
+
+Trotzdem ist Matrix einer der besser synchronisierten Filme. Die
+Sprecher sind zwar IMHO nicht so passend, aber die Übersetzung ist gut
+gelungen.
+
+MFG, Folkert
+-- 
+do
+     fork agent ( sven );
+repeat;

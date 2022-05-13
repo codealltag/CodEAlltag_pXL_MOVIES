@@ -1,0 +1,6 @@
+Kann mir jemand sagen, wie ROT-13 mit Aloha 1.2.1 geht? Ich konnte 
+keinen entsprechenden Menüpunkt finden ..
+
+Danke & Gruß,
+
+Valerio

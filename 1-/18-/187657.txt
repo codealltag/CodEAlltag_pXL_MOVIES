@@ -1,0 +1,36 @@
+Zwei Gruende:
+
+(1) LD-, DVD- und Video-Posting gehoeren nach den Chartas von 
+    de.rec.film,tv.* am ehesten nach de.rec.tv.misc. Geht es um das
+    Medium als solches (also nicht bestimmte Datentraeger zu 
+    bestimmten Filmen), dann de.rec.tv.technik, nur wenn der Inhalt
+    des auf dem Datentraeger enthaltenen Films im Vordergrund steht,
+    dann ist de.rec.film.misc angebracht.
+
+(2) In de.* sollen Marktpostings jeglicher Art nur in die entsprechende
+    Gruppe der Hierarchie de.markt.* .  Dafuer gibt es zwei Gruende:
+    (a) Zum einen sind die Gruppen in de.!markt im Regelfall 
+        Diskussionsgruppen, eine private Kleinanzeige dort also nicht
+        Charta-gemaess
+    (b) Ist es so moeglich, die Haltezeiten von Artikeln unterschiedlich
+        zu konfigurieren: Markt-Postings werden in vielen Faellen 
+        schnell inaktuell und daher schneller wieder geloescht.
+
+Das gesagte ist nicht so auf maus.* uebertragbar: Wenigstens in 
+maus.rec.laserdisc sind Marktpostings offensichtlich gern gesehen, wie
+es mit einer allgemeinen Regelung im Maus-Netz aussieht, ist mir nicht
+bekannt.
+
+Da es sich um eine Diskussion um allgemeine Regeln in de.* handelt :
+
+Xpost & F'up2: jv.bji.zwhzaizdnj
+
+Cheers,
+
+ --Wolfgang Hans Kriegeskotte
+
+-- 
+Anfaenger sollten sich die Gruppen  kk.rxoqdezq.vdngv und 
+                                    fe.hxxgwwry.zmfonpcot ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in jy.test und xk.wxn.asqo aufgehoben.

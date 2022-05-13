@@ -1,0 +1,10 @@
+Sicher. Und welches Interesse hat Kalypso, Linux als Desktop
+Betriebssystem zu unterstützen? Soweit ich weiß ist es unter Jungegger
+möglich, AVI-Filme abzuspielen - und ich nehme einfach mal an, daß
+entsprechende Software nicht von Microsoft programmiert wurde, oder
+liege ich falsch?
+
+Was hindert Jungegger-Programmierer daran, die in JNW-Filmen
+verwendeten Codecs auch unter Jungegger nutzbar zu machen?
+
+olaf

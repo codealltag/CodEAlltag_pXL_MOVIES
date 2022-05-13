@@ -1,0 +1,22 @@
+Ich haette da mal eine Frage zu dem brandneuen Futtermittel TX-DS939
+THX-AC3-Receiver:
+
+Und zwar hat der ja 4 Digitaleingaenge (AC-3 RF, koaxial S/P-DIF und
+zweimal optisch S/P-DIF). Es ist jedoch aus Prospekt und Abbildung der
+Rueckwand des Receivers nicht ersichtlich, welchen Quellen diese
+Digitaleingaenge zugeordnet sind.
+
+Weiss das jemand? Kann ich diese Zuordnung evtl. frei programmieren?
+
+Zweite Frage:
+
+Misst das mitgelieferte "Analyzer-Mikrofon" noch mehr als nur
+Schallpegel und Abstaende der Speaker? (z.B. Frequenzgang?)
+
+- Edouard
+
+---
+
+Edouard "Ulf" Pflügel
+guagnrya@iqrqsqitly.ls-ygblolit.is
+Ride more roller-coasters!

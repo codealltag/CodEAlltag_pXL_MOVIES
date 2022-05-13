@@ -1,0 +1,27 @@
+Timo, jetzt enttäuscht Du mich aber schwer ... kürzlich mal
+mein FAQ gelesen? Es gibt da doch einen kleinen Unterschied zwischen
+"Lines"/"Linien", mit denen die horizontale Auflösung gemessen wird
+(~230 bei VHS, ~400 bei SVHS, ~450 bei Laserdisc, ~540 bei DVD) und
+der Anzahl der (Bild-)Zeilen (vertikal), über die ein Fernsehbild
+verfügt (nominell 625 bei PAL, 525 bei NTSC).
+
+Ein anamorphes Aufzeichnungsformat ("Anamorph 16:9", PALplus) erhöht
+die Anzahl der Zeilen bei Material, daß im Format 16:9 (oder breiter)
+vorliegt (Solches Material kann logischerweise auf JEDES Medium aufge-
+zeichnet werden, da die Verbesserung bei der Wiedergabe ausschließ-
+lich im Fernseher stattfindet. DVD bietet lediglich den Vorteil, daß
+man vom anamorphen zum normalen Format wechseln kann, wenn das Fern-
+sehgerät die benötigte "16:9-Umschaltung" nicht bietet.)
+
+An der horizontalen Auflösung kann nur ein Medienwechsel etwas
+ändern. Allerdings ist bei den meisten Fernsehgeräten sowieso
+zwischen 400 und 500 Linien schluß, so daß die theoretisch höhere
+Auflösung der DVD nur mit einem Spitzenfernseher sichtbar wird.
+
+Außerdem sind die analogen 450 Linien von Laserdisc nicht direkt mit
+den digitalen Pixeln der DVD vergleichbar. Das kann man sich leicht
+verdeutlichen, wenn man ein GIF mit einer Breite von 230 Pixeln in
+voller Größe auf einem 21"-Monitor darstellt - so schlecht ist VHS
+dann auch wieder nicht!
+
+Raphael

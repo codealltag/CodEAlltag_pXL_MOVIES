@@ -1,0 +1,3 @@
+Bei mir läuft "Leetkeys" unter 3.0.4, da kann man sich einen hotkey 
+definieren oder unten rechts klicken. Ostfeld war schöner mit der rechten 
+Maustaste zu bedienen.

@@ -1,0 +1,42 @@
+Pasquale schrieb/wrote/crivait:
+
+Es war ja auch eine Videokamera *in* der Kapsel.
+
+
+Nicht ganz 1000 Milliarden Dollar, ein zweiter war wohl eine Ecke
+billiger (Vermeidung von Fehlkonstruktionen durch Erfahrungen aus dem
+ersten usw.).
+
+
+Er hat die Maschine (die zweite, die erste war ein
+Gemeinschaftsprojekt) sicherlich nicht ausschließlich aus seiner
+Portokasse bezahlt.
+
+So etwas ist ja auch eine Investition, auch wenn sich es nicht gleich
+rechnet: Die Technologie, die dahinter steht, kann man beim
+Maschenenbau ausgiebig auseinandernehmen und analysieren und später
+kommerziell weiterverwerten. Da kann man schon mal bei der Hadebu
+Wafipa anklopfen und um ein wenig Erdnüsse betteln.
+
+
+Schneller. Hausaufgabe: Guck mal im Lexikon nach, wie weit Vega von der
+(Sonne|Erde) entfernt ist, multipliziere das mit 9 Stunden und ermittle
+den Bruchteil der Strecke, den sie maximal bei v=c zurückgelegt haben
+kann.
+
+
+Ist das nicht für den Film völlig unerheblich?
+
+
+Wieso nicht? Sie ist Wissenschaftlerin, Astronomin. Sie will wissen, wo
+sie ist.
+
+
+Hui - Du erstaunst mich, Kleiner.
+
+  Serge
+-- 
+"Der Filesystem Standard wuerde die Scripte seit neuestem gerne
+ in /etc/init.d sehen, der Logik nach gehoeren sie nach
+ /sbin/init.d."
+  -- aus: "Wie starte ich einen Endlosthread ?", Teil 83

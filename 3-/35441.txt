@@ -1,0 +1,9 @@
+Das könnte Lost Highway sein. Ist aber schon ein Weilchen her, dass ich den
+gesehen habe.
+
+jwm
+-- 
+xscreensaver-4.13% ./configure
+checking for bc... no
+configure: error: Your system doesn't have "bc", which has been a standard
+part of Unix since the 1969s.  Come back when your vendor has grown a clue.

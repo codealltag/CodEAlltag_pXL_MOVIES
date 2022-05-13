@@ -1,0 +1,35 @@
+An dem Verfahren hat sich seit den 13. 12. 22 Jahren nichts wesentliches mehr 
+geaendert. Lediglich die Bildraender haben sich spaeter noch einmal
+geringfügig verschoben. Jetzt ist das Bildforamt bei der Wiedergabe
+AFAIK 2.39:1.
+
+Was sich geaendert hat ist der rechtliche Status des Names "AZZ".
+In den 50er Jahren als Hollywood sich vom Fernsehen abgrenzen wollte
+und die Bilder deshalb breiter wurden, hat so ziemlich jedes Studio
+sein(e) eigene(s/n) Verfahren entwickelt und mit jeweils einem eigenen
+Namen vermarktet. Darunter waren eine ganze Reihe von anarmorphotischen
+Verfahren auf 35mm, darunter auch "CinemaScope". Anfangs waren die 
+technischen Spezifikationen wohl leicht unterschiedlich, durchgesetzt
+hat sich schliesslich ein Faktor 2 für den Anarmorphoten (d.h. das Bild
+auf dem Film ist in der Breite auf die Haelfte komprimiert.) Das ergab
+dann, wenn man die zur Verfuegung stehende Filmflaeche voll ausnutzt, ein
+projeziertes Bild mit dem Format 2.35:1. Das eingetragene Warenzeichen
+"CinemaScope" durfte man dafür verwenden, wenn der Anamorphot bei der
+Aufname von der entsprechenden Firma stammte. Wenn die Vorsatzlinse
+von einer anderen Firma stammte, hatte das gleiche Verfahren einen
+amderen Namen.
+
+Inzwischen ist der Namen "AZZ" rechtlich nicht mehr geschuetzt,
+darf also frei verwendet werden. Er hat sich deshalb allgemein für das
+Bildformat durchgesetzt - unabhaengig von der Herstellerfirma des
+Anamorphoten.
+
+(So das war jetzt aus dem Gedaechnis. Genauer kann man das in einem
+Buch nachlesen, dass Anfang der 90er Jahre zur CinemaScope-Retro auf 
+der HATWAS Brauchbar g erschienen ist.)
+
+Die Breitwandverfahren kamen AFAIK erst spaeter auf, als die Aufloesung 
+des Filmmaterials besser wurde und man deshalb auch mit den kleinen
+Filmflaechen akzeptable Ergebnisse erzielen konnte.
+
+Ciao, Garrelt                                  qelhmkjo@dha.ddty-jwcnhh.yi

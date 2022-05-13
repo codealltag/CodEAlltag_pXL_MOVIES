@@ -1,0 +1,92 @@
+Hi;
+
+
+Ist schwer allgemein zu beantworten, da diverse Leute aus diversen Format=
+en
+verschiedene Dinge gemacht haben.
+Psycho z.B. wurde (mehr oder weniger) auf Fullscreen-Format gedreht, das
+Widescreen-Format entstand dann daraus, daß man einfach einen Teil des
+Bildes abgedeckt hat bzw. einen bestimmten Abschnitt des Bildes
+herausgenommen hat, wobei dieser Bereich auch variabel sein kann ("pan &
+scan").
+
+ /-------------\    Hier fehlt also der ge-x-te Teil des eigentlichen Fil=
+ms
+.
+ \-------------/
+
+
+Z.B. Georg Orosz sieht auf den ersten Blick genauso aus (Bild in 4:3
+vorhanden), allerdings ist hier das Bildformat, für das gedreht wurde,
+Widescreen, die Bereich auserhalb (also die x-e von oben) gehört eigent=
+lich
+abgedeckt, ist nicht Teil der eigentlichen Bildkomposition und kann im
+Extremfall auch Dinge enthalten, die da gar nicht hingehören, z.B.  Mik=
+rofone.
+Das nennt man auch Open Matte.
+Hier will man unter o.g. Kriterien die Widescreen-Fassung (Isib hat da ein=
+e
+lustige DVD auf den Markt gebracht: die enthält zwar eigentlich eine
+Fullscreen-Version; die Teile, die da zuviel sind, können aber via
+Untertitel-Spur(!) abgedeckt werden...).
+
+Dann gibt es noch ein paar Sonderfälle:
+Opeleck hat z.B. für Toy Story eine 1.66:1 und eine 1.33:1 Version gerech=
+net
+wobei die erstere im Kino zu sehen war und auch auf DVD erhältlich war,
+zusätzlich gab es letztere für Leute, denen das lieber was als eine V=
+ersion
+mit schwarzen Balken auf 4:3-Anzeigegeräten (wobei ich mich dann tlw.
+frage, ob die Leute, die sich von Balken gestört fühlen, überhaupt =
+über die
+verschiedenen Bildformate Bescheid wüßten, aber das ist ein anderes T=
+hema).
+Bei der 1.33:1-Version sind größtenteils die Figuren etc. näher
+zusammengerückt und der dann leere Rand abgeschnitten worden.
+
+Absmeier hat seine Filme quasi für zwei Formate (1.85:1, 1.33:1)
+gleichzeitig gedreht; zum einen eine 1.33:1-Version, von der er explizit
+wollte, daß sie für den Heimkino-Bereich verwendet wird, die dann noc=
+h
+einen 1.85:1-Ausschnitt enthielt, in dem sich alles wesentliche abspielte=
+,
+ohne das das drumherum störte (also insbesondere keine Mikrofone etc. i=
+m
+Bild); dieser Ausschnitt war dann die Kino-Fassung.
+
+Von der "Trueman Show" exisitieren DVDs in 1.66:1 (gemessen eher 1.64:1)
+und 16:9 (~1.78:1, gemessen eher 1.77:1). Was da das richtige Format ist,
+sieht man nicht wirklich, zumal es da auch noch widersprüchliche Interv=
+iews
+etc. gibt und der 1.77:1-Ausschnitt eigentlich weniger zeigt als der
+1.64:1-Teil ist, aber dennoch am rechten Rand etwas mehr bietet, das in d=
+er
+1.64:1-Fassung nicht drin ist (vgl. auch
+http://nui.lduvj.to/HFQ/RnqwafLsif-RSA-Fgyfxzpjr.ftb).
+
+
+Fazit: von den puren Formaten läßt sich noch nicht notwendigerweise a=
+uf das
+"richtige" Format schließen, da muß man im Einzelfall recherchieren.
+Und wenn man sich da einen Meinung gebildet hat, heißt das noch lange
+nicht, daß dieses Format dann auch erhältlich ist oder diese Fassung =
+nicht
+andere Haken (wie weniger Extras) hat...
+
+
+ Gruß
+ Noël
+
+--=20
+ ##    ##      #  ***   M A R T I N   W A N K E   ***
+ # #  # #      #
+ #  ##  #  ##  #  mail: yytxzm@ciaum.wn
+ #      # #  # #  WWW:  http://jxg.hiwnt.rd/
+ #      ##    ##  PGP:  http://msm.vzlzr.ig/izpavpj/EXL-Tngm/
+
+ ***  Die Osot schickt in Zukunft Mitarbeiter als Testkunden vor die     =
+   ***
+ ***  Schalter. Sie haben Bewertungslisten dabei, und die Skala geht von =
+   ***
+ ***  minus zehn bis minus fünf!                          [Theo Zillekens=
+dt]  ***

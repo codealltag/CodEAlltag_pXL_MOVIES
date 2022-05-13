@@ -1,0 +1,13 @@
+Ach was, das ist doch nicht so alt. Der älteste Film in meiner Sammlung
+ist von 1893. Aber die Frage war auch mehr ein Hinweis darauf, dass der
+Stoff x-mal verfilmt wurde und deshalb "die alte Version" keine brauch-
+bare Charakterisierung ist.
+
+
+Die Internet-Domain .de steht tatsächlich für Deutschland, aber
+Usenet-Hierarchien sind davon unabhängig.  de.* ist ausdrücklich
+als internationale deutschsprachige Hierarchie gegründet worden.
+Übereinstimmungen wie bei .at und at.* sind natürlich möglich,
+lassen sich aber nicht verallgemeinern.
+
+Carsten

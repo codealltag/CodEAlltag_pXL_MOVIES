@@ -1,0 +1,10 @@
+Die FTP Spiegel Server werden in diesen Minuten upgedatet.
+Die diffs tools befinden sich im Tools Unterverzeichnis.
+Man braucht ApplyDiffs Version 2.5 um die Diffs erfolgreich zu erzeugen.
+
+Mit freundlichen Gruessen
+Mirko Kössl
+
+-- 
+Internet: ncis@ljxty.yb
+WWW: http://oudl.ywcyp.ii/blmu

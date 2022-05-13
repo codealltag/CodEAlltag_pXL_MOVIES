@@ -1,0 +1,15 @@
+05.09 2003 10:46, Paul Lünenbürger:
+
+Und deswegen können sie nicht blau mit gelben Punkten sein?
+
+Größe
+Theo
+
+P.S. Paul, wenn Du über Mamom postest, musst Du darauf achten, was
+deren Interface seltsames mit den Betreffzeilen macht. Schick mal einen
+Bug-Report an die!
+
+-- 
+"If you do what you're told, you'll see me one more time. If you don't do what
+ you're told, you'll see me two more times."
+                                                  Mulholland Drive - The Cowboy

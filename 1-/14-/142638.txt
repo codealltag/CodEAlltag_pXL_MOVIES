@@ -1,0 +1,20 @@
+Dies ist die Webseite des im Abspann von Leiding erwaehnen "mathematischen 
+Beraters".
+
+Hilft nur leider nicht viel, da die meisten Links kaputt sind oder auf
+"under-construction"-Seiten zeigen. Gibt es da was besseres?
+
+SPOILERSPACE
+
+
+Daher kapiere ich immer noch nicht, warum das urspruengliche Schema zur
+Identifikation der gefaehrlichen Raeume scheitert. Erst schienen alle
+Raeume deren Nummer eine Primzahl enthaelt gefaehrlich zu sein - und
+spaeter stellte sich dann heraus, dass es diejenigen sind, deren 
+Nummer eine Zahl enthaelt die nur einen Primfaktor besitzt. Wo ist
+da jetzt der Unterschied? 
+
+Und wie war das mit den Orten die die Raeume durchlaufen? Technobabble oder
+wirklich ein mathematisches Schema in den Zahlen?
+
+Vittorio

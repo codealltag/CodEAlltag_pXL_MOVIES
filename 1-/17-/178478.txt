@@ -1,0 +1,7 @@
+Das dürfte eine Folge des Transfers sein. Kinofilme laufen mit
+24Bildern/sek, PAL-Videos mit 25Bildern/sek. Es ist üblich, für die
+Umsetzung auf PAL den Film einfach zu schnell laufen zu lassen.
+
+193*24/25 = 185  kommt also etwa hin...
+
+Benno

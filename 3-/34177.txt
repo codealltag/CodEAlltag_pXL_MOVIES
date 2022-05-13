@@ -1,0 +1,10 @@
+In gnumeric (das den Anspruch erhebt, ein möglichst vollständiger Excel-
+Clone zu sein), besteht die Datei aus drei 'Sheets': Intro, Quiz und
+Code. Und wenn man auf die Code-Seite wechselt, sieht man alle Lösungen.
+
+        Tschau,
+            Manuel
+
+-- 
+Hobbes: How come we play war and not peace?
+Hubert: Too few role models.              -- Carl Hild, Hubert and Ivan

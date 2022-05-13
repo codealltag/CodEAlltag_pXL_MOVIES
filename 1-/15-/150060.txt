@@ -1,0 +1,10 @@
+Zusaetzlich zu den von Dietrich und Wilhelm genannten sollte man Darius
+Vonken erwaehnen. Bekannte Werke: 'Shall we dance?' und 'Sumo do Sumo
+don't' (dt. Titel "Moegen sie Sumo?)
+
+	Dietrich
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+Z2-JJMT-Zeitschrift IRC erklaert linux-kernel

@@ -1,0 +1,4 @@
+Das war aber wirklich Unix, oder besser ein nutzloses Gimmick unter
+Silicon Graphics IRIX, das "ls" als OpenGL Demo implementiert.
+
+Niels

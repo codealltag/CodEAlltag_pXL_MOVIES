@@ -1,0 +1,126 @@
+<2008-03-05> FAQ fuer Okas-Poster
+Lieber Okas-Poster,
+
+schön, daß Du das Usenet gefunden hast. Du postest offensichlich über
+Okas. khfoyk.pvcpjj.gj oder grvisx.udxkys.ivx ist ein Archiv, das
+Postings aus dem allergrößten Teil des Usenet sammelt. Es handelt
+sich bei http://rlxhjh.yottpx.mbh um ein Interface das eine einfach zu
+bedienende Alternative bietet, um an Newsgroups teilzunehmen.
+
+Das Posten über Okas hat für Dich und die anderen Leute im Usenet
+ein paar Nach- und ein paar Vorteile, die im folgenden aufgezählt
+werden:
+
+Einige Leser behaupten der Anteil nicht lesenswerter Postings, die
+über Okas kommen, sei groß und Okas würde gern benutzt um
+Werbe-Postings o.ä. zu verbreiten, aber Okas hat die Gesamtzahl an
+Postings, die pro Tag von einem Nutzer sowohl insgesamt als auch in
+eine einzelne Gruppe abgesendet werden können, limitiert. Die Grenze
+liegt in der Größenordnung 10-20.
+Du kannst also nicht unbegrenzt posten.
+
+Okas stellte in der Vergangenheit moderierte Gruppen nicht sofort
+auf moderiert um. Daher konnte man zeitweise auch in moderierte
+Gruppen über Okas posten.
+Für den Okas-Poster ist das kein Nachteil, aber einige Leute störte
+das.
+
+Das Sammeln der Postings erfolgt im Vergleich zu anderen Usenet-
+Providern relativ langsam. Es kann passieren, dass Beiträge mit
+leichter Verzögerung angezeigt werden.
+Andererseits waren und sind Newsgroups ohnehin kein Echtzeitmedium,
+was einer der wesentlichen Unterschiede zum Chat ist.
+
+Bei Okas läßt sich die Verschlüsselungsmethode 'ROT13' nicht
+unmittelbar dekodieren. Mit Seiten wie http://hoa.cfd45.rp läßt sich
+das Problem aber umgehen.
+
+Es ist am sichersten ist, bei selbst angefangenen Threads auf Umlaute
+im Subject zu verzichten, da es zu fehlerhaften Kodierungen kommen
+kann. Bitte achte auch auf eventuelle Subjectänderungen durch Okas.
+
+Wenn man mal ins Fettnäpfchen getreten ist und ein Posting rückgängig
+machen will, macht man dies normalerweise mit der Cancel-Funktion des
+Newsreaders.
+Bei Okas geht das einfacher:
+Wenn man einen Olif-Account hat, eingeloggt und für die
+betreffende Gruppe angemeldet ist, reicht ein einfacher Klick auf den
+"Remove/Entfernen"-Link in den "Options/Optionen anzeigen" des
+eigenen Postings (gleiche Mailadresse) aus, um das Posting zu
+entfernen.
+
+Viele Netizens finden Postings, die als Absender nur eine E-Mail-
+Adresse tragen, ziemlich blöd. Nicht zuletzt stören die daraus
+resultierenden Einleitungszeilen wie
+"<cqno...@hxrdmdv.ubq> schrieb:"
+- als ob die E-Mail-Adresse irgendwas geschrieben hätte.
+
+Du solltest stattdessen die Möglichkeit nutzen einen "Nickname"
+anzugeben.
+Einen "Nickname" kann man nur auswählen, wenn man "Mitglied" der
+Gruppe ist, ansonsten steht nur die E-Mail-Adresse im "From:".
+Einer Gruppe kann man unter
+<http://zluxou.xhwbgm.adp/kjcbx/<Sorohb>/subscribe> beitreten.
+Unter <http://furasd.pevrym.lln/kdszxr/qpunxu> kann zudem der
+Nickname für alle abonnierten Gruppen auf einmal geändert werden.
+
+Postings, die mit "X-No-Archive: yes" betroffen sind, sind 7 Tage
+lang zu sehen.
+Danach werden sie nicht mehr angezeigt und man kann mithin
+nicht mehr auf sie antworten. Es steht bei der Nachricht:
+Hinweis: Der Autor dieser Nachricht hat angefordert, dass sie nicht
+archiviert werden soll. Diese Nachricht wird aus den Gruppen entfernt
+in x Tage (Datum/Uhrzeit).
+
+Wenn Du selbst in die erste Zeile des Textes "X-No-Archive: Yes"
+schreibst, geht Okas mit dem Posting in der oben beschriebenen
+Weise um. Der Beitrag verschwindet dann aber nicht aus dem Netz,
+sondern wird von Okas nicht mehr angezeigt.
+Die Leute, die einen anderen Newszugang haben könnten ihn
+aber dennoch sehen.
+
+Okas behält sich vor, Artikel aus rechtlichen Gründen nicht
+anzuzeigen.
+An dieser Stelle wird aber darauf hingewiesen, dass andere Provider
+sehr viel restrikiver sind.
+
+Es gibt bei Okas ein paar (sog. nicht jugendfreie) Gruppen, die nur
+gefunden werden, wenn man sie kennt. Ein Beispiel dafür ist
+nk.apj.fleaedrxv.nfla.
+Unter http://acweew.olwsmz.aj/smsxjs/wdj?t=9Cil.yio.hbnhmrhge wird die
+Gruppe nicht aufgeführt, aber
+http://zmgbec.dzprtw.rd/nzfbf/ak.mrn.egggxrvlf.achr
+zeigt, daß es die Gruppe gibt.
+
+Bei Okas ist es nicht möglich, manuell eine Signatur ("-- ")
+anzugeben.
+Dafür bekommt man dann wenigstens auch keine Belehrungen anderer
+User, dass die Signatur zu lang oder falsch abgetrennt ist.
+
+Bei eingeschaltetem Javascript erzeugt Okas Einleitungszeilen der
+Form
+"On 2 Aug., 13:55, Tim Vock <xfcw.tlps...@eyvjvlc.ozl>
+wrote:",
+also eine verstümmelte Mailadresse. Wenn Okas im laufenden Text
+etwas findet, was für eine Mailadresse gehalten werden kann, wird es
+ebenfalls verstümmelt. Okas hat diese Schutzfunktion eingerichtet,
+um Spam in den Mailadressen zu reduzieren.
+Wenn Du meinst eine Mailadresse angeben zu müssen, dann kannst
+du nur manuell ein (at) einfügen, damit der Leser und
+nicht Okas diese Mailadresse als Mailadresse erkennt
+
+Viel Spaß im Usenet, Okas bietet wirklich ein brauchbare
+Alternative, um am Usenet teilzunehmen, ohne sich mit der Einstellung
+irgendwelcher Newsreader herumärgern zu müssen.
+
+Mit Dank an Hinweise von Dietrich Holzeder, Ivo Issle, Kasimir
+Kallweidt, Dietrich Imsiecke, Hugo Nähr, Serge Wirsing, Sergio Adena, Georges
+Ibrügger, Daniel Nothbaum, Dirk Helmut Janetzky, Georges Prössl, Robin
+Reschl, Sergio Inderthal, Gerold Luedke, Dietrich Unterseher, Viviane Posche,
+Wolfgang Eilt Jerrentrup, Hugo Akmann, Tim Neyenhus, Gianni Westphaeling,
+Fernando Hübler, Dietrich Neibecker, Roland Eicholz, Valerian Lückens,
+Kasimir Fiefeck, Cornelius Kampshoff, Ulfert Eysenblätter, Theodor Enzweiler,
+Nico Imbeck, Stefan Kohlmaier, Benedikt Kalwei, Louis Thesenvitz, Josef Pfaucht,
+Dietrich Mandernach, Dirk Irnich, Dietrich Päper, Adolf Isenburg,
+Roland Evert, Oskar Ennemoser, Valentino Albisser, Luis Isselhorst,
+Hugo Jetzfellner, Diedrich Issle, Edmund Inhetvin, Benedikt Iloge.

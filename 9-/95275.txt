@@ -1,0 +1,10 @@
+Wenn ich weiterlaufen lasse, kommen eine Reihe dieser Fehler:
+
+ERROR 1030: Got error 28 from table handler
+ERROR 1030: Got error 127 from table handler
+
+Habe die Docs zur Installation jetzt mehrmals gelesen. ;(
+
+-- 
+Bodo Wiehager <oflz@sdgmmu.ok>, Bildschacherhof
+PGP RSA & DH/DSS public key on request and on public servers

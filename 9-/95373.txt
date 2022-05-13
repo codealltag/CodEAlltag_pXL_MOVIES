@@ -1,0 +1,12 @@
+Win2000
+    Control Panel
+    System
+    Advanced
+    Environment Variables
+
+Aber bei mir sind sie dort gesetzt und es funzt trotzdem nicht (siehe 
+vorheriges Posting von mir).
+
+-- 
+Herwig Klosterkemper <pnvj@syeqcx.ux>, Jellenkofen
+PGP RSA & DH/DSS public key on request and on public servers

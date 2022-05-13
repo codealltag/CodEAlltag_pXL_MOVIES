@@ -1,0 +1,10 @@
+Engelbert Höpfner schrieb folgendes:
+
+
+Uups, dann hab ich da was falsch gesehen.
+
+MFG, Angelo
+-- 
+do
+     fork agent ( eilert );
+repeat;

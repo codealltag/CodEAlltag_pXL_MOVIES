@@ -1,0 +1,21 @@
+Tatsaechlich. Ich nutze die offline-Version noch nicht sehr lange, daher
+ist mir das bisher meiner Aufmerksamkeit entgangen.
+
+
+Ja. Gibt es dafuer eigentlich irgendwelche nachvollziehbaren Gruende?
+
+
+Immerhin gibt die Offlineversion zu jeder Suche auf Wunsch eine URL
+aus, die zu der Onlineversion der gerade getaetigten Offlinesuche
+fuehrt, wo man dann natuerlich auch alle weiterfuehrenden Links
+praesentiert bekommt.
+Ist IMHO sinnvoller, als die Offlineversion durch die Intergration aller
+URLs unnoetig aufzublaehen; wer URLs sucht, muss sowieso online gehen,
+und dann ist es wohl zu verkraften, dass die Offline-IMDB anstatt einer
+kompletten Linkuebersicht nur eine URL ausgibt, die auf diese
+Linkuebersicht verweist.
+
+Bpilqqww
+-- 
+dvudeb@cbehu.ndvv.os * P.Tmol@ctl.av
+Mitglied der Käsetheke: ehr.amjau.ppu/twj

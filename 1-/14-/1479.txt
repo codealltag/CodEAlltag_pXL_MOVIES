@@ -1,0 +1,15 @@
+1. Installiere "DVD Shrink 3.2.0.15 Setup.exe" in ein Verzeichnis Deiner 
+Wahl.
+   (z.B. C:\Programme\DVD Shrink)
+
+2. Kopiere die Datei "Sprachpatch Deutsch für DVD Shrink 3.2.0.15.exe" 
+in das selbe Verzeichnis
+   und klicke doppelt auf diese Datei.
+
+Fertig!!!
+
+Viel Spaß mit DVD Shrink in deutsch!
+
+
+P.S. Auf der Internetseite   www.rhritbwkf.ydxl   gibt es alles über DVD 
+Shrink!

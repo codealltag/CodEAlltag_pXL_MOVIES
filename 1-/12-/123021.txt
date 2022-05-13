@@ -1,0 +1,5 @@
+^
+Das Leerzeichen vor dem Satzzeichen kann zu unschönen Umbrüchen führen
+und soll deshalb lieber zu weggelassen werden.
+
+Winfried Zaayenga

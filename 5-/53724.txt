@@ -1,0 +1,26 @@
+Ja, klingt sinnvoll.
+
+
+Ja. Ideal waeren Diffs der Datenbank, aber IIRC geben die Verbreitungs-
+bedingungen der IMDb das nicht her.
+
+
+Stell' das doch nach den Cleanups ins Netz, als Basis ist das doch prima.
+
+Hast Du DBI benutzt? Ich habe etwas Testcode mit der libpq (Postgres),
+es waere schoen, wenn das Datenbank-Backend mit beliebigen SQL-kompatiblen
+Datenbanken benutzt werden koennte, fuer die es einen DBD-Treiber gibt.
+
+
+Etwas problematisch finde ich das Parsen der Listen-Dateien, das liesse sich
+mit flex sicher sauberer bauen, als mit Perl-Hacks. moviedb macht das
+IIRC auch. Die Geschwindigkeit duerfte das kleinere Problem sein, wenn die
+Perl-Loesung beim bestehenden Wachstum der IMDb nicht mehr ausreicht, kann
+man immer noch eine nativ uebersetzte Hochsprachen-Implementierung nachlegen.
+
+String-Manipulation ist mit der C++-Standard-Bibliothek und GCC 3 kein
+Problem mehr; fuer Patternmatching benutze ich boost-regexp, das ist
+sauber designt und stabil.
+-- 
+Letzte drei Filme:
+Les Triplettes de Belleville (++), Twisted (-), Kill Bill Vol. 2 (++)

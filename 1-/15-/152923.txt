@@ -1,0 +1,22 @@
+--------------B6G17E62ZL7UL6CH3DI42SL4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+...to get the movie CAN'T HARDLY WAIT.
+Hat den irgendwer auf engl. und kann ihn mir verkaufen oder überspielen?
+
+Danke,
+Berend
+
+--------------B6G17E62ZL7UL6CH3DI42SL4
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+...to get the movie <u>CAN'T HARDLY WAIT</u>.
+<br>Hat den irgendwer auf engl. und kann ihn mir verkaufen oder &uuml;berspielen?
+<p>Danke,
+<br>Berend</html>
+
+--------------B6G17E62ZL7UL6CH3DI42SL4--

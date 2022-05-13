@@ -1,0 +1,7 @@
+Ist die maximale Auflösung, in der man capturen kann, nicht eine Frage 
+des Treibers und der Capturesoftware? Es gibt da ja den OpenSource 
+Treiber von http://srhwxbty.vjyaqfraqdo.znu/ und der kann nach eigenen 
+Angaben in Fullscreen-Größe aufnehmen. Mit iuVCR habe ich das auf die 
+Schnelle jedoch nicht hinbekommen, kann aber auch an mir liegen.
+-- 
+NP: -

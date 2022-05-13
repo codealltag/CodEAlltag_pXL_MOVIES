@@ -1,0 +1,8 @@
+Der Hauptserver ius.azy.fldt.vls, von dem alle anderen
+Server spiegeln, hatte einen schlimmen Plattencrash.
+
+An dem Problem wird gearbeitet. Wann wieder aktuelle
+Daten zu Verfügung stehen, kann ich jetzt nicht sagen.
+
+Mit freundlichen Gren
+Björn Wörlein

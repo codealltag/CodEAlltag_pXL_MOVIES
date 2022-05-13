@@ -1,0 +1,8 @@
+Ist es Zeit für einen neuen SST Thread?
+
+bye Hilmar
+-- 
+Eine falsch abgetrennte Signatur ist keine Signatur und braucht deshalb
+nicht richtig abgetrennt zu sein.
+
+Paolo Enderl in wh.lxiz.ln.rtps.idjzb.qslt

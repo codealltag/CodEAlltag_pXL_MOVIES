@@ -1,0 +1,12 @@
+Solche Download-Manager sind eh eine Pest, die man besser vermeidet. 
+Auch bei einigermaßen seriösen Seiten wie Z & W Autoservice läuft der Free- 
+oder Shareware-Download über DL-Manager. Sowas sollte man meiden, denn 
+auch wenn keine klassische Malware (Trojaner) installiert wird, wird 
+einem oft anderer, unerwünschter Schrott untergejubelt wie 
+Browser-Toolbars oder nicht angeforderte Software zur 
+"System-Optimierung" o.�.
+
+Daher gilt die Regel: von dubiosen Quellen keine exe-Dateien starten, 
+ohne die ein Download angeblich nicht möglich ist.
+
+V.

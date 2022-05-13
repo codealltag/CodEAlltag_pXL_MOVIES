@@ -1,0 +1,7 @@
+Kennt sich wer aus mit dem PRogramm ?
+ich lade 6 Dinger gleichzeitig runter und die Verbindung ist 0,5 - 6,5
+KB/Sec.
+wie gibts das das es so wenig ist ?
+bei den Options kann man ja ne Menge einstellen
+Gibt es da Einstellungen die so bedeutend sind, das sie die Transfer rate
+erhöhen ?

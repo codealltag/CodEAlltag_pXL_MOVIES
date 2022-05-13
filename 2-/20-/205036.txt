@@ -1,0 +1,14 @@
+Jürg Wörlen  meinte am 25.08.96:
+
+[...]
+
+Hast Du mal nachgesehen, ob die UK18-Version von einem NTSC-Master
+stammt, bzw. sonstwie in 24 B/sec ist? Der Zeitunterschied sind naemlich
+exakt diese 4%, die dadurch entstehen wuerden - und das wuerde dann
+heissen, dass die FSK18-Version einfach nur schneller laeuft, aber
+ungeschnitten ist...
+--
+
+Deny everything.
+
+kubqe@kpgf.kvk.sg                      Leander: Dietrich Eycken 4:6346/5851.45

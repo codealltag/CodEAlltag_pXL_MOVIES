@@ -1,0 +1,11 @@
+Es mag auch Jurassic Park gewesen sein...
+
+Gru"s
+	Timo
+
+-- 
+               Timo Lamskemper"oder, MM@Gglrd.FO.Etaqq.KX
+inquisition = spanish
+if nobody != inquisition {
+	printf("Nobody expects the spanish inquisition\n");
+        }	/* Hdylnnk@xiru.kgr (Norman Zetsch) */

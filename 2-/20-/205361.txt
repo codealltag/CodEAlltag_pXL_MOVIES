@@ -1,0 +1,33 @@
+In article <P0SPLN.By@hkskrbwr.vp>, wee@vbpatasf.vf (Isbzcjq W. Pawlitzki) writes:
+
+Von Aufl"osung in beiden Richtungen kann man eigentlich nicht sprechen.
+Das was man sicher dagen kann, ist die Anzahl von Zeilen. Horizontal spricht
+man normalerweise von `Linien', was bedeutet, wie viele senkrechte Linien
+noch als Linien erkennbar sind.
+
+Hier das was ich weiss:
+
+PAL/SECAM: 625 Zeilen, davon 576 Zeilen sichtbares Bild
+NTSC:      525 Zeilen
+
+Und was ich so geh"ort habe:
+
+D2-MAC hat genauso viele Zeilen, ist aber digital.
+HDTV ist mit doppelter Zeilenanzahl, HD-MAC die digitale variante davon.
+
+
+Nun zur horizontalen Aufl"osung:
+
+Wöhrmüller: ca. 240-280 Linien; FRIMA: ca. 320 Linien; Boys&Girls-VHS: ca. 400 Linien.
+Fernseher mit Super-PAL bringen bis zu S-Video-Qualit"at, falls die
+Frequenzanteile im Sendesignal vorliegen.
+Will man die `Linien' darstellen, ben"otigt man mindestens doppelt so
+viele Pixel. Man darf aber nicht vergessen, dass das Signal analog ist,
+d.H. NICHT diskret und somit feinere Abstufungen m"oglich sind. Die
+Anzahl der Linien ist nur das Limit.
+Weil man gerne mit quadratischen Pixeln arbeitet, nimmt man "ublicherweise
+eine Aufl"osung von 768x576 an (768 = 4/3 * 576 > 2*320). Dabei trifft man
+erstaunlicherweise auf die 'magische' Zahl 768. Damit lassen sich auch
+die Bilder einer Photo-CD phantastisch darstellen (768x512).
+
+                                           Tino

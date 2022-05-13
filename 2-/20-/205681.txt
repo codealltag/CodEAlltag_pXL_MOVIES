@@ -1,0 +1,15 @@
+Fuer PCs unter Windows gibt es von IEL "QuickTime for Windows". Die
+Version 1.1.1 darf frei verbreitet werden und ist auch im InterNet zu
+finden (Archie -> "QTW111"). Die neuere Version 2.0 wird fuer einen
+Kostenbeitrag von $9.99 ueber Epal vertrieben und darf nicht
+weitergegeben werden. (Man korrigiere mich, falls ich falsch liege.)
+
+Unter UNIX/X-Windows kann "xanim" QuickTime-Filme abspielen, aber da
+dies kein offizielles Produkt ist, koennen dabei auch mal Fehler auftreten.
+
+Tschuess,
+Erik
+--
+Erik Muhle                    | "Tricky is good!
+  University of Fattendorf, Germany |  Tricky I can do." - Iago, "Return of Valerius"
+  http://nux.gwo.uty-tdbkvb.qj/~x20h

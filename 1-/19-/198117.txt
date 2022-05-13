@@ -1,0 +1,12 @@
+Schlechter Provider. 
+<http://cbreasw.iqw.gym/> brauche ich eigentlich gar nicht eingeben,
+da dann mein Netscape abstuerzt. Selbst `get' aus libwww verabschiedet
+sich mit einem Segmentation fault. Wie schaffen die das?
+
+G & H Reifendienst ist wohl etwas robuster. Es stuerzt nicht ab. Dort erscheint deshalb
+die Meldung:
+"Error 503 - This server is temporarily unavailable for maintenance."
+
+Den Inhalt Deiner Seite kann ich deshalb leider nicht kommentieren.
+
+Ciao, Darius                               adnzjrde@lyc.zruj-kutvol.lt

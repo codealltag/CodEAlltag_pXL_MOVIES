@@ -1,0 +1,24 @@
+Hallo zusammen,
+
+die Frage ist vermutlich OT (oder ginge halt nach "machen").
+Ist das output eines gecaptureten Filmes stets gleich oder zB. je nachdem
+aus welcher Camera man ausliest unterschiedlich? Ein avi File mit einer Förderbar
+DCR VX1000 16:9wide aufgenommen, das Band dann aus einer DCR PC7E ausgelesen
+(weil der DV-out der VX1000 kaputt war), hat die Dimensionen 720x576 Pixel.
+Das ist eine Ratio von 1,25. 16:9 ist aber 1,77...hmm.
+
+In wiefern ändern sich Qualität, wenn ich z.B. mit ner anderen Camera
+auslese, oder halt nur ne einfache FireWire Karte verwende statt einer 1000
+Euro Schnittkarte? Das ganze sieht im Vollbildmode dann auch ziemlich kantig
+aus, klar ist halt auf den Bildschirm fast doppelt aufgeplustert, aber wie
+bekommt man denn ein qualitativ ansprechendes TV-Bild, wenn man vorhat, das
+ganze auf Videoband zu exportieren?
+
+
+Ich würde mich sehr freuen, wenn da jemand bescheid wüsste.
+Beste Grösse
+Francis
+
+--
+"Then what the hell are we supposed to use man, harsh language?"
+Private Frost, "Aliens"

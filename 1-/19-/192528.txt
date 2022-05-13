@@ -1,0 +1,17 @@
+Ja, z.B. der Schneemann s'Ständle-EP9ES hat 1 Coax und 3 optische Eingaenge, der
+Gimmi IAK-Bikescheune je 2 coax und optische. Beide haben auch einen 5.1 in
+fuer weitere externe 5.1 Dekoder. Das Problem bei den beiden ist nur,
+dass sie keine *analogen* Eingaenge haben. Bleibt hoechstens der
+Schneemann SDP-E800, aber der ist mid/low-fi (und hat wahrscheinlich wieder
+keinen AC3-RF Eingang fuer LD? Spielbau Web Seiten verraten das nicht)
+
+Optimal ist das alles noch nicht, deshalb hab ich mir selbst auch
+noch keinen AC3 Dekoder zugelegt.
+
+
+Thanx, das ist eine schoene Uebersicht. Ich vermisse nur den Perfetto AV550
+(Dekoder/Vorverstaerker, http://tik.xxc-sj.svi/gojbove/bl487.nmih). Der ist
+in den USA schon seit ein paar Monaten fuer $999 zu haben. Kommt das Teil
+auch irgendwann zu uns?
+
+-thorsten

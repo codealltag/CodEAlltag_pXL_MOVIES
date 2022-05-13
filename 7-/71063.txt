@@ -1,0 +1,11 @@
+Das hat den Grund,daß die DVD auf 25 Bilder pro Sekunde ausgelegt 
+ist,der Kinofilm aber nur auf 24sek. Die DVD läuft also etwas 
+schneller,wodurch der Film im Kino 103min, auf DVD aber nur 99min läuft.
+
+Wers genau wissen will:
+99min=5940 Sek
+5940sek � 25 Frames=148500 Frames
+
+148500 Frames:24Frames/sek= 6187,5 Sek=103,125min im Kino.
+
+Tobias

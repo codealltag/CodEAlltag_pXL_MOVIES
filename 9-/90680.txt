@@ -1,0 +1,7 @@
+Es gibt leider keine Mail-Bestaetigung, deine Stimmen tauchen aber
+sofort in der Vote-Summary im Web auf.
+
+
+Ich benutze dafuer ein Script, das die Titel per Tab Completion
+aus der moviedb zieht; die Fehlerquelle ist dann sehr gering.
+Ich habe es mal unter http://odt.dnw.qx/~trb/qoft.hfdz abgelegt.

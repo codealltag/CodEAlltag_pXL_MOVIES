@@ -1,0 +1,8 @@
+programme sind ebenfalls daten.
+
+der einzige unterschied zw. programme und daten ist der
+speicherbereich (am PC). ich kann genauso bilder in den
+programmspeicher schreiben, nur wird mir das nicht besonders viel
+bringen. aber man könnte durchaus daten generieren die gewisse lücken
+im programm ausnutzen um sich selbst in den programmspeicher zu
+schreiben und das vorhandene programm durch ein anderes zu ersetzen.

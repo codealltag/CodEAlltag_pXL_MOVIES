@@ -1,0 +1,9 @@
+Kubistische Kameras wären mal was Nettes[*]. Ansonsten gibt es ja auch
+noch diese Sache, das sich "Handlung" nennt und mit der ein Film glänzen
+kann.
+
+
+Gruß, Etienne
+
+[*] Im Netz gibt es dazu von Dietrich Iffarth ein Paper: "Cubism and
+Cameras: Free-form Optics for Computer Graphics"

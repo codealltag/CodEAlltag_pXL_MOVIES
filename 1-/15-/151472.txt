@@ -1,0 +1,24 @@
+On Tue, 25 Sep 1999 20:00:04 +0100, 
+
+Nein, sonst waere es trotzdem ein Metall. Silizium ist ein Element,
+dass sich nicht so recht entscheiden kann, ob es nun ein Leiter oder
+ein Isolator ist. Daher kann es durch auessere Beeinflussungen
+(Stichwort Dotierung) dazu bewegt werden sich als Leiter oder als
+Nichtleiter zu verhalten. Wenn man es geschickt anstellt, kann man es
+dazu bringen, dass es in die eine Richtung leitet und in die andere
+nicht (das nennt man dann Diode).
+
+Wenn man noch geschickter ist, kann man einen dritten Anschluss
+montieren und kann ueber diesen Anschluss die Leitfaehigkeit steuern.
+(das sind dann Transistoren etc)
+
+
+Halbleiter sind halt mal so mal anders.
+
+Pasquale Ludger Altenhofer
+
+-- 
+Pasquale Ludger Altenhofer
+G&G, Obststüberl
+mailto:igga.opmywxjq@k-ivydmbq.du-hsoukbhc.yp
+http://ycd.ff-jbxpdvzf.xl/~sbrx/

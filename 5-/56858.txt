@@ -1,0 +1,9 @@
+* Guido Kicken <atqhwos@zbc.oqp>:
+
+
+Das Piepsen muss auch leise sein, weil die durchtickenden Buchstaben von
+einer weiblichen Roboterstimme auch noch _vorgelesen_ werden.
+
+
+Gruß,
+Guido

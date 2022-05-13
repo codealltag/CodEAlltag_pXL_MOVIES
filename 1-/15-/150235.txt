@@ -1,0 +1,57 @@
+Hier stellt sich dann die Frage der technischen Kompetenz der Filmvorführer
+oder des Personals.
+
+Es paßt zwar nicht ganz zum Thema, ich möchte es aber trotzdem hier einmal
+anbringen:
+
+Im Anschluß eines Lehrgangs zum Thema GLM-Bus wurde, um das eben gelernte
+im Einsatz zu sehen, ein Ausflug organisiert. Dazu wurde ein (sehr) großes
+Kino in Süddeutschland besichtigt. Der Geschäftsführer präsentierte ganz
+stolz seinen Laden der auf dem technisch letzten Stand ist.
+
+   Dazu gehörte auch, daß die "Beschallungsanlage" über Bord geworfen wurde.
+Die Musik für das ganze Gebäude liegt auf EINEM NT Server als MP3 vor. Pro
+Kinosaal ist im Vorführraum ein Win95 Rechner mit Soundkarte der die MP3 an
+einen Verstärker für den Saal weitergibt. (Dieser "Saalrechner" hat nebenbei
+bemerkt noch andere Aufgaben als Musik zu dudeln).
+
+   Vorteil lt. Betreiber:
+Für jeden Saal kann ein eigenes Musikprogramm zusammengestellt werden(?).
+Keine Kosten für X CD Player
+Kein suchen nach den CDs.
+
+Es entwickelte sich sinngemäß das ff Gespräch.
+Ich: "Was machen Sie wenn der NT Server ausfällt, oder das Netzwerk?"
+Kino: "Wie ausfällt?"
+Ich: "Es geht halt nicht mehr"
+Kino: "Was soll denn da ausfallen, daß läuft seit X Monaten problemlos?"
+Ich: "Zum Beispiel der Server, die Festplatte, das Netzwerk"
+Kino: "Wie haben in Qualt�tsprodukte investiert. Das fällt nicht aus!"
+
+Im weiteren Gespräch wurde noch erwähnt das auf diesem Server unter anderem
+noch die Webpage, das Kassensystem und der Internetverkauf der
+Eintrittskarten läuft.
+
+Neugierig wie ich bin, begann ich noch einmal ein Gespräch:
+Ich: "Welche Datenmengen fallen denn da bei einem Backup an?"
+Kino: "Backup?"
+Ich: "Ihre Datensicherung"
+Kino: " Ist nicht notwendig"
+
+Ich möchte das hier nicht weiter kommentieren. Wenn die Musikberieselung
+ausfällt, dann stört das nur wenige. Wenn die Webpräsenz ausfällt mag das
+vernachlässigbar sein. Fällt das Kassensystem aus mag man das IRGENDWIE in
+den Griff bekommen.
+    Aber sollte die digitale Projektion der Zukunft in einem Multiplex mit
+10 plus X Sälen ausfallen, wie oft kann sich ein Kino das erlauben?
+
+Mit einem wie oben beschriebenen Fachwissen ist der Betrieb wie ein Rennauto
+das ohne Bremsen auf eine Wand zurast und die Insassen ahnen das noch nicht
+einmal. Der Aufschlag erfolgt; die Frage ist nur wann!
+
+
+--
+MfG
+    Joachim
+
+Computer sind unfehlbar, Axel!                 HAL9000

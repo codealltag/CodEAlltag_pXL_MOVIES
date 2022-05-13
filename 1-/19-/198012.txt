@@ -1,0 +1,30 @@
+Darius Volck <gcntu@pjqzmc.q.ouozu.ku> wrote in article
+<0490Rty16.740585.17568@mfnksy.m.gfbfn.fm>...
+
+Die jetzt ueblichen sind natuerlich 1,85 und 2,35.
+
+
+Keine Frage??? Ich gehe eigentlich davon aus, dass 2,35:1 genau 2,35:1 ist
+- beziehungsweise dass der Ratio von Fernseher zu Fernseher wohl
+verschieden ist, die Hoehe des Bildes auf einem bestimmten Fernseher bei
+verschiedenen 2,35:1 Filmen aber gleich ist. Bei Unterschieden von bis zu 4
+cm auf meinem 70er Fernseher ist das aber nicht gegeben. (Das ist jetzt
+"Extreme Haarspalting", aber schon manchmal aergerlich.)
+
+
+Das ist klar.
+
+
+Bei "Toy Story" hat dies einen besonderen Grund. Die Bilder wurden in
+1,66:1 berechnet, es wurde aber darauf geachtet, dass alles wichtige im
+Bereich zu sehen ist, der im Kino gezeigt ist: 1,85:1. Dabei wurde dann
+aber wohl doch einige Male "daneben" gezielt, so dass beim Telecine dann
+1,77:1 gewaehlt wurde. (Du weisst das wahrscheinlich, aber fuer die anderen
+nochmal...)
+
+Tschuess,
+Silvio
+-- 
+Silvio Rieseweber                           Student of Computer Science
+Trautshofen                              E-Mail: d70a@ljj.yst-hgnmty.dg
+Germany              WWW: http://afy-zdif.ftx.rea-xpdyuz.ji/~i74x/

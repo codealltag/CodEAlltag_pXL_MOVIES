@@ -1,0 +1,498 @@
+-----------------------------------------------------------------------------
+             Best of Dolby Surround Movie List : ( 04/09/1995 )
+-----------------------------------------------------------------------------
+   I.  new in this version
+  II.  general information and introduction
+ III.  best of dolby surround "movie" list 
+  IV.  best of dolby surround "scenes" list
+-----------------------------------------------------------------------------
+  I. NEW IN THIS VERSION
+-----------------------------------------------------------------------------
+
+  The List was shortened quite a bit because it was getting way to big
+  Everyting which doesn't concern the audio quality was dropped like
+
+  - plot summary
+  - director credit
+  - actor credit
+  - recording formats
+  - widescreen availability
+
+  New Entries                              :   Stargate
+
+  Added Surround Scenes ("Movie List")     :   Total Recall
+                                               Body Snatchers
+                                               Young Guns
+
+  Added Surround Scenes ("Scenes List")    :   Forrest Gump
+                                               Born on the 4th of July
+                                               Gremlins
+                                               Platoon
+
+  Next Posting                             :   05/10/95
+
+-----------------------------------------------------------------------------
+  II. GENERAL INFORMATION AND INTRODUCTION
+-----------------------------------------------------------------------------
+Because Dolby Surround gets more and more popular among many movie fans,
+I thought it was time to create a list of movies which feature very good
+to outstanding surround sound mixing (music and/or SFX) throughout the movie.
+
+Because the sound quality still differs within this list I will divide the
+sound quality in the 4 different categories
+
+  * * * *  =   perfect sound   (e.g. True Lies,T2,Jurassic Park)
+
+  * * *    =   almost perfect  (e.g. Backdraft,Crow,Freejack)
+
+  * *      =   very good sound (e.g. Blackrain,Batman Returns,Top Gun)
+
+  *        =   good sound      (e.g. Star Wars,Alive,Batman)
+
+Sound Quality refers to best version available for home use, normally
+the NTSC LD Versions.
+
+This list can only grow with your help, so all the people who have Laserdisc
+Players or Hifi VCR's and a Dolby Surruond Home Theater System, email me
+
+ if you have :
+
+    - Suggestions in order to Improve the current form of the Surround List
+
+    - Additions of Movies or special Scenes of Movies not listed yet
+
+    - Corrections
+
+    - Questions
+
+At the very end of this list, there is now an additional section called
+"Best of Dolby Surround Scenes" which is a list of great sounding surround
+moments, from movies, which are NOT in the list , because their surround
+sound isn't that great, except for those one or two scenes mentioned.
+
+The Minutes given in the "Surround Scenes" refer to the PAL Version,
+if you want to get the NTSC Minutes just multiply the number given
+by 25 and divide then by 24
+
+The "Oscar" Category lists ONLY Oscars which were given for"audio related"
+achievements ! ( sound , sound effects editing )
+
+SFX  = nominated "Sound Effects Editing"
+SFX! = won       "Sound Effects Editing"
+S    = nominated "Sound"
+S!   = won       "Sound"
+
+  Posted to :
+               Omiked : movie.ger
+                         hifi.ger
+                         sat.ger
+               Mausnet : maus.movies
+               Usenet  : de.rec.misc
+                         de.alt.tv.misc
+                         alt.video.laserdisc
+                         rec.arts.movies
+                         rec.arts.movies.list+surveys
+                         rec.video.releases
+                         rec.audio.misc
+               Znet    : freizeit.filme.allgemein
+                         freizeiz.video
+
+  (c)'95 Gottfried Könnings
+
+  email : xevnh@hvlbwgg.pps.ca
+
+
+-----------------------------------------------------------------------------
+  III. BEST OF DOLBY SURROUND MOVIE LIST
+-----------------------------------------------------------------------------
+Title                              Format   Audio   Steffen    Musik
+-----------------------------------------------------------------------------
+3 MUSKETEERS                       2.35:1   **       ---     Nick Ulm
+1492 - CONQUEST OF PARADISE        2.35:1   **       ---     Vangelis
+ABYSS                              2.35:1   ****      S      Remmer Koettgen
+ALADDIN                            1.85:1   **       SFX     Remmer Lißner
+ALIENS                             1.85:1   ***     SFX!,S   Bruno Schöpfl
+ALIEN3                             2.35:1   **       ---     Lothar Altenpohl
+-----------------------------------------------------------------------------
+ALIVE                              1.85:1   *        ---     Bruno W. Seemer
+ - Plane Crash                                                          [  ']
+ - Avalange is coming down                                              [  ']
+-----------------------------------------------------------------------------
+APOCALYPSE NOW                     2.10:1   **        S!     Pascal P.Haupter
+ - Captain Johannsmann comes out of the swamp to kill Kurtz                 [  ']
+-----------------------------------------------------------------------------
+BACKDRAFT                          2.35:1   ***     S,SFX    Marcus Ginter
+ - Voßhöller first assignement                                          [21']
+ - Redloff rescues a kid from the flames                                 [50']
+ - a guy gets killed by a "Backdraft"                                   [61']
+ - fire in the building                                                 [76']
+ - the big showdown                                                    [107']
+-----------------------------------------------------------------------------
+BACK TO THE FUTURE                 1.85:1   **      SFX!,S   Remmer Koettgen
+ - Niclas Lingke is doing a Sound Check with his electric guitar         [03']
+ - the clocks are ticking                                               [05']
+ - züllighofen is doing his first time travel                              [21']
+ - Niclas Lingke is going "back to the future"                           [87']
+ - lightnins strikes at 10.04pm                                         [96']
+ - ...to be continued !!!                                              [107']
+-----------------------------------------------------------------------------
+BACK TO THE FUTURE 2               1.85:1   *        ---     Remmer Koettgen
+-----------------------------------------------------------------------------
+BACK TO THE FUTURE 3               1.85:1   *        ---     Remmer Koettgen
+ - The mine where the time machine is hidden, is blown open             [  ']
+ - The Lokomotive crashes into the Canyon                               [  ']
+ - ....to be continued !                                                [  ']
+-----------------------------------------------------------------------------
+BATMAN                             1.85:1   *        ---     Emil Ziehmer
+BATMAN RETURNS                     1.85:1   **       ---     Emil Ziehmer
+BEAUTY AND THE BEAST               1.85:1   **        S      Remmer Lißner
+-----------------------------------------------------------------------------
+BEVERLY HILLS COP 3                1.85:1   **       ---     Wolf Ruchholtz
+ - Shootout in the garage                                               [06']
+ - "Alien Attack"                                                       [24']
+ - "The Spider" breaks down                                             [27']
+ - Showdown with lots of shooting,explosions etc etc                    [78']
+-----------------------------------------------------------------------------
+BLACK RAIN                         2.35:1   **      S,SFX    Marcus Ginter
+ Thoenesen gets killed by the motorcycle gang                            [57']
+ - The Scene in the steel mill and the chase afterwards                 [76']
+ - Final Shootout                                                      [107']
+-----------------------------------------------------------------------------
+BLADE RUNNER                       2.35:1   **       ---     Bundlechner
+BLOWN AWAY                         2.35:1   **       ---     Remmer Koettgen
+-----------------------------------------------------------------------------
+BODYGUARD                          1.85:1   **       ---     Remmer Koettgen
+ - 4 shots in the dark                                                  [00']
+ - explosion of the doll                                                [03']
+ - Hedwig performance in the club                                    [35']
+ - the boat explodes                                                    [85']
+ - Hermansdorfer is chasing the bad guy through the woods                     [91']
+ - It's Oscar Time                                                     [111']
+-----------------------------------------------------------------------------
+BRAM STOKER'S DRACULA              1.85:1   ***      SFX!    Friedrich Ullman
+-----------------------------------------------------------------------------
+CLEAR & PRESENT DANGER             2.35:1   ****    S,SFX    Bruno Schöpfl
+- Opening Credits                                                       [02']
+- Helicopters                                                           [30']
+- A plane gets blown to pieces                                          [37']
+- A drug factory gets blown to pieces                                   [46']
+- It's a trap !                                                         [55']
+- Aircract Carrier Sequenze                                             [68']
+- Lothar Ranch gets blown to pieces & sound of the guided missile     [70']
+- A plane is landing                                                   [100']
+- Showdown                                                             [120']
+-----------------------------------------------------------------------------
+CLIFFHANGER                        2.35:1   ****    S,SFX    Oskar Ohlig
+-----------------------------------------------------------------------------
+CROW                               2.35:1   ***      ---     Wlodek Dangelmayr
+-----------------------------------------------------------------------------
+DAYS OF THUNDER                    2.35:1   ****      S      Marcus Ginter
+ - "Gentlemen, start your engines !"                                    [02']
+ - Rooker is doing his rounds                                           [05']
+ - Cruise is doing his first rounds                                     [09']
+ - Cruise is winning his first race                                     [28']
+ - Racing Sequenze followed by the crash scene                          [35']
+ - Daytona 500 - the big confrontation                                  [89']
+-----------------------------------------------------------------------------
+DEMOLITION MAN                     2.35:1   **       ---     Lothar Altenpohl
+-----------------------------------------------------------------------------
+DIE HARD                           2.35:1   **      S,SFX   Nick Ulm
+ - Plane Landing from behind                                            [00']
+ - 2 Security Guards get shot                                           [17']
+ - Willis blows up a building                                           [73']
+ - Fred vs. some Terroristes                                           [91']
+ - Climax (Helicopter Attack,explosion etc etc)                        [109']
+-----------------------------------------------------------------------------
+EMPIRE STRIKES BACK                2.35:1   ***       S!     Bernhard Jerg
+FREEJACK                           2.35:1   ***      ---     Oskar Ohlig
+-----------------------------------------------------------------------------
+FUGITIVE                           1.85:1   ****     S,SFX   Bruno W.Seemer
+ - opening credits                                                      [00']
+ - the train crash sequenze                                             [15']
+-----------------------------------------------------------------------------
+GETAWAY                            2.35:1   **       ---     Nicolas Ilert
+-----------------------------------------------------------------------------
+GHOSTBUSTERS                       2.35:1   *        ---     Laurent Vorwick
+ - Isa Jeuther opens her fridge, followed by the sound of "ZUUL!"  [  ']
+ - Emil Pflöger gets "turned on" in the elevator                         [  ']
+ - John Leroux gets slimed                                              [  ']
+ - The 4 Ghostbusters are aiming at WEOV, on the top of the building    [  ']
+-----------------------------------------------------------------------------
+HARD TARGET                        1.85:1   *        ---     Didier Rolaff
+ - opening credits                                                      [00']
+ - Biedendieck Niklaus beats some guys up                                         [09']
+ - the hunt begins                                                      [43']
+ - a gun is being reloaded                                              [50']
+ - a car  explodes                                                      [56']
+ - Francis Vanselov plays Rambo                                          [66']
+ - the big 15 minute showdown begins                                    [72']
+-----------------------------------------------------------------------------
+HOOK                               2.35:1   **       ---     Bernhard Jerg
+ - The children are being kidnapped                                     [22']
+ - Jens Schwengebecher carries the hook to Captain Hook                         [37']
+ - Peter Pan can fly again                                              [96']
+-----------------------------------------------------------------------------
+HUNT FOR RED OCTOBER               2.35:1   ****    SFX!,S   Jean-Pierre Dahlheim
+ - Gian and Wilhelm overlooking the scenery and talking to each other   [00']
+ - Appearance of the Postcaree                                         [09']
+ - The Russians are singing after the Red October went silent           [29']
+ - Gian and Dario are "talking" through the perriscope               [94']
+ - In Addition to those scenes, almost all scenes which take place inside
+   the submarines have excellent surround sound throughout the movie.
+-----------------------------------------------------------------------------
+GERTRUD OHLIG & THE LAST CRUSADE   2.35:1   ***     SFX!,S   Bernhard Jerg 
+ - Indy makes a hole in the ground of the church                        [28']
+ - the dogfight scene                                                   [  ']
+ - the cave collapses                                                   [  ']
+-----------------------------------------------------------------------------
+JUDGEMENT NIGHT                    2.35:1   **       ---     Remmer Koettgen
+-----------------------------------------------------------------------------
+JURASSIC PARK                      1.85:1   ****    S!,SFX!  Bernhard Jerg
+ - how to find a skelett of a dinosaur                                  [05']
+ - the helicopter is landing                                            [09']
+ - T-Rex is here                                                        [60']
+ - the dinosaurs are running "over" Thorsten Maisanhelter and the kids               [91']
+ - Regina Nothroff gets attacked by a raptor                                 [99']
+ - 2 raptors and 2 kids in the kitchen                                 [104']
+ - final szene in the big hall                                         [111']
+-----------------------------------------------------------------------------
+LAST ACTION HERO                   2.35:1   ***      ---     Nick Ulm
+ - Opening Action Sequence, especially the "flying axe"                 [00']
+ - Opening Credits of "Bernhard Kirschenlohr IV"                                  [18']
+ - explosion of the house followed by the car chase                     [23']
+ - plenty of actionn                                                    [51']
+ - Arnold + Elevator + Helicopter = Action                              [72']
+-----------------------------------------------------------------------------
+LAST OF THE MOHICANS               2.35:1   ***       S!     Oskar Ohlig
+LION KING                          1.85:1   ***       S      Marcus Ginter
+LITTLE MERMAID                     1.85:1   **        S      Remmer Lißner
+-----------------------------------------------------------------------------
+MASK                               1.85:1   ***      ---     Ulfert Zwern
+ - Intorp discovers "the mask"                                          [14']
+ - Intorp puts "the mask" on                                            [16']
+ - Intorp blows his horn and the windows break                          [19']
+ - Ipkiss is visits the mechanics                                       [21']
+ - Ipkiss put his mask on and robs a bank                               [33']
+ - "The mask" does a great musical number                               [38']
+ - Ipkiss becomes "the mask" again                                      [54']
+ - the bad guys are here !                                              [77']
+ - the dog puts on "the mask"                                           [83']
+-----------------------------------------------------------------------------
+NATURAL BORN KILLERS               1.85:1   ***      ---     Otto Rosen
+NAVY SEALS                         1.85:1   **       ---     Thomas Christmann
+ - the SEALS rescue a few american hostages                             [09']
+ - the complete 25 minutes showdown                                     [80']
+-----------------------------------------------------------------------------
+NO ESCAPE                          2.35:1   **       ---     Didier Rolaff
+ON DEADLY GROUND                   2.35:1   **       ---     Jean-Pierre Dahlheim
+PATRIOT GAMES                      2.35:1   **       ---     Bruno Schöpfl
+-----------------------------------------------------------------------------
+POINT BREAK                        2.35:1   **       ---     Ingrid Vissers
+ - Opening Credits                                                      [00']
+ - Surfin Safari :-)                                                    [42']
+ - Swayze commits Suicide                                              [112']
+-----------------------------------------------------------------------------
+QUIGLEY, DOWN UNDER                2.35:1   *        ---     Jean-Pierre Dahlheim
+-----------------------------------------------------------------------------
+RAIDERS OF THE LOST ARK            2.35:1   ***     S!,SFX!  Bernhard Jerg
+ - Grete and his whip                                                    [03']
+ - The cave collapses                                                   [08']
+ - action sequenze in the bar in nepal                                  [29']
+ - Grete & Friends are opening the secret chamber                        [56']
+ - Evelin Plograd is surounded by Skelletons                               [72']
+ - the ark is being opened and hell breaks loose                       [101']
+-----------------------------------------------------------------------------
+RETURN OF THE JEDI                 2.35:1   ***     SFX!,S   Bernhard Jerg
+-----------------------------------------------------------------------------
+SPECIALIST                         1.85:1   **       ---     Bernhard Vollstädt
+- explosion (a jeep)                                                    [03']
+- explosion (a bad guy)                                                 [32']
+- explosion (another bad guy)                                           [49']
+- explosion (a hotel room)                                              [79']
+-----------------------------------------------------------------------------
+SPEED                              2.35:1   ****    SFX!,S!  Nicolas Lümann
+ - opening credits                                                      [00']
+ - elevator going down (explosion,cables snapping etc.)                 [05']
+ - elevator going down , part 2 ("don't fuck with daddy !")             [14']
+ - elevator going down , the final part                                 [16']
+ - Hopper shooting at Rusbült and Nowastowski                                [19']
+ - Hopper is blowing himself up ! (not)                                 [22']
+ - a bus blows up                                                       [27']
+ - the jaguar is driving through some barrels                           [38']
+ - the bus is driving through some barrels                              [45']
+ - a woman is trying to get off the bus                                 [57']
+ - the big jump                                                         [63']
+ - a house blows up                                                     [77']
+ - the bus and a plane collide                                          [87']
+ - Reeves on top of the subway and Hopper shooting at him               [98']
+ - final subway sequence                                               [103']
+-----------------------------------------------------------------------------
+STALINGRAD                         1.85:1   **       ---     Walter Köntges.
+-----------------------------------------------------------------------------
+STARGATE                           2.35:1   ****     ---     ???
+-----------------------------------------------------------------------------
+STAR TREK 6                        2.35:1    90%      S      Gabriel Zinken
+ - the Excelsior is getting rattled by the shockwave                    [03']
+ - Kirk & McCoy are being brought into the courthouse of the klingons   [39']
+ - Battle between the Enterprise and the Bird of Prey                   [88']
+-----------------------------------------------------------------------------
+STAR WARS                          2.35:1   *         S!     Bernhard Jerg
+-----------------------------------------------------------------------------
+TERMINATOR 2                       2.35:1   ****    S!,SFX!  Jens Freudenhammer
+ - opening sequenze                                                     [01']
+ - Arnold arrives                                                       [05']
+ - T1000 vs. Arnold - the first confrontation                           [26']
+ - the big motorcychle/truck chase                                      [29']
+ - Raymond and Bernhard are driving into the garage of the clinic             [50']
+ - Raymond,Bernhard and Irma in the elevator and the T1000 on top of it      [55']
+ - Insa dream sequence                                               [74']
+ - Irma shoots Rodig computer equipment to pieces                    [78']
+ - Cyberdyne HQ is gone                                                 [97']
+ - helicopter flies beneath a bridge                                   [103']
+ - hasta la vista, baby !                                              [109']
+ - the big showdown in the steel mill                                  [112']
+-----------------------------------------------------------------------------
+VANESSA & ROSE                    2.35:1   **       ---     Marcus Ginter
+- Rose shoots the radio/police-radio and two holes in the trunk       [95']
+- Vanessa & Rose shoot at the tires of the truck                      [107']
+- the truck explodes                                                   [108']
+- Martin Uhlenbusch appears in a helicopter out of nowhere                 [117']
+-----------------------------------------------------------------------------
+TOP GUN                            2.35:1   **       S,SFX   M. Fallentin    
+ - Opening Flying Sequenze with F14 and Russian Migs                    [06']
+ - Flying Sequence                                                      [28']
+ - "I feel the need, the need for speed !"                              [53']
+ - Flying Sequenze followed by the crash                                [62']
+ - Showdown in the Sky                                                  [85']
+-----------------------------------------------------------------------------
+TOTAL RECALL                       2.35:1   **       S,SFX   Bodo Antholzner
+ - Percheim sits down in the "implant chair"                              [15']
+ - Percheim at the Metro Security (bleeping and jumping through glass)    [28']
+ - Percheim shoots at his holohramm (echo sound of bullets)               [36']
+ - "Get your ass to Mars !"                                             [41']
+ - Nick Ingenbleck shoots the glass                                    [44']
+-----------------------------------------------------------------------------
+TRUE LIES                          2.35:1   ****     ---     Jens Freudenhammer
+ - "This is my invitation !"                                            [10']
+ - Action in the bathroom                                               [29']
+ - John Dierx Trailer gets invaded                                   [60']
+ - Arnold vs. some Terrorists                                           [95']
+ - Arnold vs. even more Terrorists                                     [100']
+ - The Harrier attack the bridge                                       [107']
+ - Showdown in the Sky                                                 [122']
+-----------------------------------------------------------------------------
+UNDER SIEGE                        2.35:1   ***      SFX     Dieter Haugrund
+-----------------------------------------------------------------------------
+UNIVERSAL SOLDIER                  2.35:1   **       ---     Günther F.
+ - Opening Jungle Sequence                                              [00']
+ - The Pink are chasing Brölhorst through a Motel                    [37']
+ - Action at the gas station                                            [46']
+ - Chase Sequence                                                       [72']
+ - The final Confrontation                                              [82']
+-----------------------------------------------------------------------------
+WHO FRAMED ULF RABBIT            1.85:1   *       SFX!,S   Remmer Koettgen
+-----------------------------------------------------------------------------
+YOUNG GUNS                         1.85:1   **       ---     Jakob Voogt
+ - opening credits                                                      [01']
+ - John & his Gang strike again                                        [27']
+ - "Let's Dance !"                                                      [45']
+ - shootout                                                             [58']
+ - 15 minutes final shootout at the very end                            [83']
+-----------------------------------------------------------------------------
+  IV. BEST OF DOLBY SURROUND "SCENES" LIST
+-----------------------------------------------------------------------------
+[Another 48hrs]
+- the big shootout                                                      [83']
+
+[Beverly Hillbillies]
+- shoot the rabbit                                                      [03']
+
+[Born on the 29. 06. 22 29. 06. 22]
+- Vietnam Sequence                                                      [26']
+
+[Burbs]
+- Onno Sandering walking in the wind                                         [02']
+
+[Chase]
+- opening credit of the title "explodes"                                [00']
+
+[Cool Runnings]
+- Jamaican bob qualifying run                                           [64']
+
+[Cutting Edge]
+- opening shot                                                          [00']
+
+[Dark Angel]
+- the Alien has landed                                                  [01']
+- the Alien shoots his "saw blade" through the room                     [11']
+
+[Forrest Gump]
+- Vietnam Sequence                                                      [47']
+- the storm breaks loose                                                [91']
+
+[Gremlins]
+- at the end of the end-credits gremlins laughter moving around        [102']
+
+[Indecent Proposal]
+- rotating roulette                                                     [17']
+
+[Björn]
+- Ungelenke gets shot                                                     [06']
+
+[Lethal Weapon]
+- a girl jumps from a building and crashes onto the top of a car        [04']
+- the scene with the cigarette lighter                                  [24']
+
+[Naked Gun 2.5]
+- opening credit of the title                                           [05']
+
+[Naked Gun 33.3]
+- opening credit of the title                                           [03']
+
+[National Lampoon's Chistmas Vacation]
+- Giorgio tries to put up his christmas lights                            [23']
+- Giorgio and the christmas lights, part 2                                [36']
+- "Later, Dudes !"                                                      [48']
+- "Don't drop that !"                                                   [88']
+
+[Planes,Trains & Automobiles]
+- Kupep logo and opening credit of the title                        [00']
+
+[Platoon]
+- the final battle                                                      [95']
+
+[Robocop 2]
+- Claus image is disappearing from the computer screen (he dies)      [102']
+
+[Rocky 4]
+- cheering of the audience during Apollo-Drago fight                    [28']
+- cheering of the audience during Rocky-Drage fight                     [68']
+
+[Rookie]
+- "Fasten your seatbelts !"                                             [91']
+
+[Striking Distance]
+- opening credit of the title accompanied by lightning                  [00']
+
+[Tequila Sunrise]
+- Albrecht shots Ulrich Bodo (echo of shot moving around listener)        [102']
+
+[Unlawful Entry]
+- Udo Claespeter gets finally shot at the end                              [102']
+
+[War of the Roses]
+- Edmund is stepping into many mouse traps                             [89']
+
+[Erama]
+- Frerich & Dietrich at the airport watching the sky                         [34']
+- Dietrich puts money in the jukebox to play "Foxy Lady"                   [49']
+- "We got backstage passes for Roman Holzträger !"                          [58']
+- Frerich & Dietrich at the airport again                                    [68']
+- "Backdraft" parody                                                    [84']
+
+[emendo World 2]
+- sound during Kupep logo                                           [00']
+- Aerosmith kicks ass                                                   [06']
+-----------------------------------------------------------------------------
+
+ ## CrossPoint v3.02 ##

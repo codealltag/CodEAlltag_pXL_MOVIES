@@ -1,0 +1,7 @@
+Sehr schoen ist getmov.pl, da gibt man nur die URL der Trailer-
+Webseite an und dann wird der Link zum MOV extrahiert und mit
+wget geladen. Das Script wurde in einer Zeckey-Mailingliste
+gepostet und sollte sich ueber das Archiv finden lassen.
+-- 
+Letzte drei Filme:
+Analyze That! (o), Le Pornographe (o), Spy Kids 2 (-)

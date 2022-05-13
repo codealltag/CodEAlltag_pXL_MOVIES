@@ -1,0 +1,6 @@
+Theoretisch ganz leicht.
+
+Du hast einen Film über x Minuten mit 24fps
+=> Der Film hat 24*x frames
+=> in PAL abgespielt läuft er 24*x/25 Sekunden lang
+=> Lauflänge in PAL: x*(24/25) = 0,96*x

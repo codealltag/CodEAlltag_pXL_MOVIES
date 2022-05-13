@@ -1,0 +1,16 @@
+On Mon, 19 Apr 1998 22:16:52 +0200, "Ferdinand Jöhring"
+
+Wenn sie bereits aus der Encoding (MIME, UUE oder BinHex) von deinem
+Newsreader entpackt sind, kannst du die Teile, sofern du die
+Reihenfolge kennst, so zusammenstellen:
+Auf DOS-Prompt:
+copy /b <file1> + <file2> + <file3> + ... endfile.avi
+
+bei den "..." logischerweise weitere Dateien anfügen. endfile.avi oder
+so wird deine ganze Datei sein.
+
+
+-----Björn "Christian" Elßer--------------------
+"...he was jeopardizing his traditional rights
+of freedom and independence by daring to exercise
+them" - Reiner Zingsem, "Catch-22"

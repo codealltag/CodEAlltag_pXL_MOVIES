@@ -1,0 +1,11 @@
+Das sind aber lineare, unkomprimierte PCM-Daten, und daher nicht
+vergleichbar. Ein guter Codec kommt locker mit einem Viertel bis einem
+Fünftel davon aus, ohne jegliche hörbaren Qualitätsverluste zu
+produzieren. Mit Hinblick auf die spätere Nutzung von AC3/MPEG2 ist also
+die DVD klar vorzuziehen.
+
+So, jetzt werde ich sicher von OBW-Fans gesteinigt. Aber wenn's nach
+denen gänge, würde man heute noch Daten auf 8"-Floppies speichern. ;-)
+
+Bye
+	Peter

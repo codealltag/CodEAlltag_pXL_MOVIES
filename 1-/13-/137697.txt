@@ -1,0 +1,4 @@
+Das war die Anzahl der Primfaktoren (allerdings bin ich mir nicht 
+sicher, ob 181 wirklich prim ist, 3 ist es jedenfalls).
+
+Timo

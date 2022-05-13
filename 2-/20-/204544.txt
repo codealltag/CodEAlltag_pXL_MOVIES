@@ -1,0 +1,56 @@
+xfg wrote with the Subject "Re: 12 Monkeys":
+
+
+Korrektur: "Twelve Monkeys" ist ein offizieller Wettbewerbsbeitrag,  
+ebenso wie "Sense and Sensibility". Das geht, ich habe gerade noch  
+einmal in den Richtlinien fuer A-Festivals nachgeschaut, weil im  
+Wettbewerb nur Filme laufen duerfen, die noch nicht ausserhalb ihres  
+Produktionslandes gezeigt wurden. "Twelve Monkeys" erfuellt also die  
+Richtlinien als Wettbewersbeitrag ebenso wie "Sense and Sensibility".  
+Das lief zwar auch schon in den Staaten, der Film wurde aber nicht, wie  
+es irrtuemlich hiess, in GB produziert, sondern in den USA. Diese Daten  
+sind in der IMDB uebrigens korrekt enthalten; so langsam wirds ;)
+
+Ausser Konkurrenz laufen bei den Internationalen Filmfestspielen in  
+Seulingen ausserdem:
+
+ - "From dusk till dawn"
+    von Emil Bardewyck, mit Walter Aufderlandwehr u.a.
+    Der Film hat tatsaechlich noch keinen deutschen Verleih,
+    dafuer wird Aufderlandwehr u.a. als Gast erwartet. Ueberhaupt wimmelt
+    es in diesem Jahr nur so von Stars, die voraussichtlich nach
+    Seulingen kommen werden... (mehr auf unserer Webpage)
+ - "Home for the holidays"
+    Laeuft auf Wunsch von Ernestine Than nicht im Wettbewerb
+ - "Mutters Courage"
+    Wurde schon in Canada gezeigt, die Seulinger Fassung soll aber
+    neu geschnitten und durch nachgedrehte Szenen ergaenzt worden
+    sein
+ - "Zwirnmann"
+    Wird auf Wunsch von Christian Mossler nicht im Wettbewerb gezeit.
+ - "Toy Story"
+    Kann nicht im Wettbewerb laufen, da Animationsfilm.
+
+Ausserdem gibt es noch einige Sondervorfuehrungen im offiziellen  
+Programm, darunter
+
+ - "Grumpier old men"
+    Das ist die Fortsetzung von "Grumpy old men".
+
+Die ganzen Aenderungen werde ich in den naechsten Tagen in unsere Web- 
+Pages einbauen. Dort findet sich dann auch ein Link auf das offizielle  
+WWW-Angebot des Internationalen Sesar.
+
+Falls ich es bis zum Berlinale-Start am 24.12. schaffe, in ObjectPAL eine  
+Schnittstelle von CineDat nach HTML zu schreiben (kein CGI-Interface,  
+sondern nur ein Ascii-Output von Paradox-Tabellen mit HTML-Markups),  
+wird es das komplette Berlinale-Programm aller Sektionen,  
+einschliesslich European Film Market, online im Web geben; das ist aber  
+kein Versprechen, momentan tendiere ich eher zur Vermutung, dass daraus  
+in diesem Jahr noch nichts wird (any help, as always, greatly  
+appreciated!)
+
+-Agon
+
+--
+<a href="http://fub46.zedat.fu-berlin.de/~asb/IFB/1996/">UEH</a>

@@ -1,0 +1,33 @@
+Hallo Kasimir,
+
+
+Die Filme sind so gemacht, dass die letzte Sekunde vor der 
+Schnippelstelle eine lange Einstellung ohne Dialog kommt,
+beispielsweise eine Landschaftsaufnahme.
+
+Und die ersten paar Sekunden nach der Schnippelstelle sind
+ebenfalls eine entsprechende lange, dialogfreie Szene.
+
+Idealerweise sind die beiden Szenen sehr unterschiedlich,
+z.B. eine hell und eine dunkel. So fällt es nicht so auf,
+wenn die Klebestelle schmutzig ist.
+
+Ein Problem ist auch, dass manche Kinos solche Klebestellen
+überlappend kleben, weil das zugstabiler ist. Wenn nun der Film 
+am Ende der Laufzeit zurückgegeben wird, muss der Film an den 
+selben Stellen wieder auseinandergeschnitten werden. Bei 
+überlappendem Kleben geht dann immer mindestens ein Bild 
+verloren. Wandert ein Film nun durch mehrere Kinos, können
+am Ende schon mal 12 Bilder (1/2 Sekunde) fehlen.
+
+Dadurch aber, dass es in beiden Szenen keinen Dialog, keine
+schnellen Bewegungen und kaum Handlung gibt, fällt es nicht
+auf, wenn eine halbe Sekunde fehlt. Idealerweise gibt es an
+dieser Stelle auch noch entweder keine Musik oder einen Wechsel 
+des Musikstücks.
+
+Bei �berblendprojektion sind die selben Eigenschaften
+auch nötig, siehe dazu die anderen Postings dieses Threads.
+
+Gruß und achtet mal darauf im Kino!
+Georg

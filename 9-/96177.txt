@@ -1,0 +1,6 @@
+Hallo!
+Danke für die Antwort, aber leider war nichts dabei,
+mit TMPGEnc geht es auch nicht. Vielleicht ist mein
+.asf File auch beschädigt, obwohl ich es ohne Probleme
+abspielen kann. Sehr strange!
+Erik

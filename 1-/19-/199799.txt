@@ -1,0 +1,58 @@
+: Gibt es bereits. RealAudio 3.0 benutzt Dolby AC-3. Leider nur bis
+: maximal 56 kbps, wenn ich richtig informiert bin.
+
+RealAudio 3/4 benutzen es auch, richtig. Ueber die Bitraten weiss ich
+nichts.
+
+: Ich habe mal versucht, ein Sample auf beiden (AC-3 und MPEG Audio -
+: Layer III) Encodern mit der selben Bitrate zu encoden (leider gibt es
+: keine genau uebereinstimmende ausser 8 kbps). Meine Meinung war, dass
+: MPEG Audio - Layer III ein ganzes Stueck besser klingt als AC-3. Wenn
+: sich das Ergebnis auf hoerere Bitrate hochrechnen laesst...
+
+Da ich von der Qualitaet von MP3 nicht so richtig begeistert bin, kann
+ich mir das nicht so ganz vorstellen. Das kann allerdings auch mit
+der Bitrate zusammenhaengen. 8000 Bit pro Sekunde ist verdammt wenig.
+Die Demodatei, die ich mir fuer Liquid Audio gezogen habe, hat eine
+Bitrate von etwa 240 kbps - und das nur fuer zwei Kanaele...
+
+Hast Du MP3 und WAV mal verglichen? Beispiel unter
+http://hal-zylk.roo.ulb-eszkrj.th/~y45k/gu1/
+
+: Ich bin mir nicht so sicher, ob die AC-3-Decoder auch alle niedrigen
+: Bitraten implementiert haben (128 kbps und drunter).
+
+Aus http://jto.esahs.grv/qw/sr-6/brfkjdgv.nwvq :
+Data rates range from as low as 32 kb/s for a single mono
+channel to as high as 640 kb/s, thereby covering a wide range of requirements.
+
+Das sollten die Dekoder dann auch unterstuetzen...
+
+: * SB AWE 64 Gold, ca. $250, S/P-DIF: nur Ausgang
+
+Ja, nur Ausgang taugt naemlich nichts. Es waere z.B. auch interessant, die
+PCM-Audiodaten vom Edal-Player einzulesen.
+
+: * Otona Apex, ca. $299 + $80 fuer den S/P-DIF-Adapter, Ein/Ausgang,
+:      (diese Karte kommt erst Mitte Maerz in den amerikanischen Handel)
+
+Hoert sich ganz gut an, aber wie kompatibel ist die? Voll SB?
+
+: Alle diese Karte koennen wohl (da weiss ich aber nicht 100% Bescheid)
+: mehrere ihrer internen und externen Quellen auf den S/P-DIF-Ausgang
+: mixen (z.B. Wave + Synth + CD-Audio + Line-In). Dazu muessen sie wohl
+: _entweder_ einen volldigitalen Mixer (und DA-Wandler fuer jede analoge
+: Quelle) _oder_ einen analogen Mixer (und einen DA-Wandler zwischen
+: Mixer und S/P-DIF-Ausgang) implmentieren.
+
+Oh je, daran hatte ich gar nicht gedacht... Aber es muss doch fuer ein
+Programm die Moeglichkeit bestehen, einen Datenstrom DIREKT an den
+digitalen Ausgang auszugeben! Sonst ist das alles doch nicht volldigital.
+
+Tschuess,
+Mark
+-- 
+Mark Glöggler
+ Student of Computer Science @ University of Volmerdingsen, Germany
+   E-Mail: f72v@ggs.fmg-zacvya.kk
+     WWW: http://gwt-apqh.rgh.bdg-ttuspj.wf/~w21n/

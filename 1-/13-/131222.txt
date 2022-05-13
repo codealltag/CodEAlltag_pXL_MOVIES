@@ -1,0 +1,14 @@
+Hey, super!
+
+Bei mir ist das problem auch ein fehlerhaftes cygwin patch.exe. 
+Nach einigem hin und her, mit dos2unix konvertierungen und custom
+download+patch shell script, habe ich nur mehr den actresses bug. 
+
+angeblich hat leander viel mehr perl code als in der moviedb.tgz distro.
+eine sql lösung wäre sicher einfacher zu verwalten (php oder mod_perl
+vor postgres oder mysql). oder zumindest knechtenhofen db. Der c code ist
+fürchterlich.
+
+-- 
+Abdul Maevus
+http://xljok.ob-ovac.rw.md/wipezye/qnwd/gfm/xnlohdbe.tghp

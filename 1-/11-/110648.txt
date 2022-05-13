@@ -1,0 +1,9 @@
+Hallo,
+ich versuche wie immer eine Sicherheitskopie meiner gekauften DVD, diesmal
+Phenomenon mit S.Zwiebler anzulegen. Ich mach das nicht zum ersten Mal,
+allerdings passiert es zum ersten Mal, dass TMpeg mir unter W2000 einen
+Bluescreen produziert. Habe bereits mehrere Versuche gestartet, immer
+Bluescreen. Rechnerproblem liegt nicht vor, da andere Filme einwandfrei
+laufen.
+Benutze Flask 0.6 mit Avisynth Plugin und TMPeg 2.01.... Kennt sich jemand
+aus?

@@ -1,0 +1,36 @@
+Hallo Kinotechnik-Kundige
+
+Nun hat ja ein normaler Kinofilm 24Bilder/sec oder? Ich glaube,
+18B/sec gab's wohl nur bei Schmalfilm, nicht?
+
+Egal, die Frage ändert sich nicht.
+
+Wie ist das nun: Wir sehen 24 Standbilder pro Sekunde. 24 "Dias"
+wenn man so will. *Wie lange* steht nun jedes einzelne Bild
+tatsächlich voll sichtbar? Es kann ja schlechterdings nicht
+1/24sec sein, denn es muss ja weiter transportiert werden.
+Frage2: während des Transports hat der Zuschauer doch
+Schwarzblende, oder?
+
+Gibt's vielleicht einen Link auf eine wirklich gute Seite
+hierzu?
+
+Die Frage kam hier auf im Zusammenhang mit der
+Deinterlacing-Technik ("Progressive Scan"). Da wären doch im
+PAL-System 25 Vollbilder/sec möglich. Der Spielfilm macht aber
+24Bilder/sec.
+Wird nun - für eine PAL-DVD - der Film mit 25B/sec
+"abfotografiert" (also im deinterlaced mode, was ja aber das
+normale ist) und läuft dann der Film auf PAL um 1/25 schneller?
+Oder wird jedes 24. Bild einfach zweimal gescannt?
+
+Wie wäre das aber bei NTSC, wo's ja 30 Bilder/sec geben könnte?
+Wird da jedes 5. Bild doppelt gescannt und dann nochmal
+zusätzlich jedes 12.?
+
+Oder ist das in Wahrheit alles *ganz* anders?
+
+Ahnungsarm, aber lernfähig
+grüßt
+
+Samuel

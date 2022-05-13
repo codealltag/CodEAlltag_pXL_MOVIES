@@ -1,0 +1,7 @@
+Hallo,
+
+du kannst auf den DVD Spielern die fuer Deutschland bestimmt sind NTSC
+Discs aus Japan abspielen weil der Regionalcode gleich ist.
+Darum muss der Spieler auch NTSC abspielen koennen.
+
+Charly

@@ -1,0 +1,87 @@
+LM> Wenn Du Dich da mal nicht täuscht...
+
+Ich taeusche mich nicht. Dolby Sourround bedeutet erstmal, dass Du eine
+Spaltung der Stereo-Basis hast, sprich: Center-Lautsprecher, durch den
+das Stereo=GEfuehl, dass Du sonst nur an einem Punkt im Raum richtig hast,
+naemlich in der dritten Ecke des gleichseitigen Dreiecks, wenn die Laut-
+sprecher in den anderen zwei Ecken stehen, auf den ganzen Raum (fast)
+ausgedehnt wird. 
+Auf die Sourround-Lautsprecher werden die Toene gelegt, die in der Aufnahme
+auch nicht direkt von der Schallquelle kommen, sondern von der Umgebung
+reflektiert werden. Das ganze wird gemacht, indem man die Phasenverschiebung
+in der Stereo-Aufnahme untersucht.
+
+Du bekommst also auf den Sourround-Lautsprechern das, was im Aufnahmeraum
+auch nicht direkt von der Schallquelle aus zu Dir gekommen waere, sondern
+reflektiert worden ist, normalerweise von den Waenden oder was auch immer 
+des Aufnahmeraums.
+
+Dies bedeutet also, dass der Aufnahmeraum besser hoerbar wird, da Du nicht
+auf die Reflektionseigenschaften Deiner eigenen Waende (wie bei Stereo)
+angewiesen bist, nein, diese Eigenschaften werden dabei teilweise ueberdeckt.
+
+Um mir also mal Zahlenwerte aus den Fingern zu saugen, zur illustration:
+
+Bei Stereo hoerst Du 1/3 die Raumakustik des Aufnahmeraums, 2/3 die des 
+Hoerraums, bei Dolby Sourround ist es umgekehrt, also Originalgetreuer.
+
+Nun kommen wir zu Effekten: Wenn Du Musik in einem Studio aufnimmst, dann
+hast Du so gut wie keine Raumakustik mit aufgenommen, und du kannst, indem
+Du Hall dazumischst, einen simulieren.
+Dann kommst Du also wieder zu der Aufteilung wie im vorigen Absatz.
+
+(Musik oder was auch immer aus dem Studio kannst Du nicht verkaufen, wenn 
+Du nicht Hall dazumischst, weil alles unnatuerlich trocken klingt.)
+
+An vielen Dolby Surround-Verstaerkern kannst Du aber auch eine "Adote-
+Akustik", oder was auch immer dazuschalten. Dann hast Du die Raumakustik
+von der Aufnahme zusammen mit der Hoerraum-Akustik und der zugeschalteten.
+
+Das GEhirn muss also ploetzlich drei Rauminformationen entschluesseln, was
+unnatuerlich ist und deswegen dem Prinzip von Dolby Sourround entgegensteht,
+eine moeglichst natuerliche Information dem Gehirn zu praesentieren.
+
+Ferner kann man natuerlich auch die Sourround-LAutsprecher gezielt ansteuern,
+in dem man Toninformationen gegenphasig auf die beiden Stereo-Kanaele mixt,
+und das sollten dann aber auch die einzigen Stellen sein, wo man bewusst
+wahrnimmt, dass hinter (besser: neben) einem auch noch Lautsprecher stehen.
+
+LM> durch den Centerlautsprecher verbessert. Die Surroundeffekte gehören jedoch
+LM> genauso dazu. Die Behauptung, sie würden den Raum unhörbar machen läßt
+
+Surround_effekte_, wie ich sie zuletzt genannt habe, sind sicher aus Kino-
+filmen nicht mehr wegzudenken (bzw. heutzutage gibt's schon besseres...).
+
+Aber es ging um Surround-Effekte, die zuschaltbar sind, und vor vier Absaetzen
+habe ich geschildert, warum ich diese ablehne.
+
+LM> darauf schließen, daß der rückwärtige Kanal maßlos zu laut eingestellt ist,
+LM> bzw. daß die Lautsprecherkombination lausig ist. Denn normalerweise
+
+Nein, es ist gerade das Ziel von Dolby Sourround, den Hoerraum so weit es
+geht zu unterdruecken, und die Raumaktustik zu praesentieren, die der
+Kuenstler gewollt hat.
+
+KÄFFERLEIN> unterstützen die Surroundeffekte die Raumatmosphäre.
+
+Nee, die _Effekte_ eigentlich nicht. 
+
+KÄFFERLEIN> Andererseits ist natürlich nur da Dolby drin, wo auch Dolby draufsteht. Bei
+
+Dolby Sourround ist dahingehen entwickelt, aus einer _gewoehnlichen_ Stereo-
+Aufnahme die Informationen fuer die vier Kanaele herauszufiltern.
+
+LM> einer gewöhnlichen Stereo-Aufnahme kann man natürlich keinen perfekten
+LM> Dolby-Raumklang erwarten.
+
+Doch, kann man. Mann kann nur keine _Effekte_ erwarten, sprich den Einsatz
+der Sourroundlautsprecher als primaere Schallquelle.
+
+cu
+
+ --Zäzilia aka Simon Schweickerdt
+
+-- 
+Ich mu"s schon wieder zum Ende kommen, weil mein Agarosegel vollst"andig 
+polymerisiert ist und ich nun weiterarbeiten kann.
+                                                             -Ulfert Woestenberg

@@ -1,0 +1,13 @@
+Nun, wenn's die Datei komprimiert ergeben soll, nimm einfach die Datei und=
+=20
+entpack sie-so oft du möchtest. Du wirst dann alle "iterativ zu=20
+komprimierenden Filme" finden. Anonsten lies mal ein bischen was über=20
+Informatik für Anfänger. Ausserdem gibt's natürlich ein=20
+Kompressionsverfahren in dem "Dude, where is my Car" ein Byte mit 42=20
+ergibt; setzt aber große Datenmengen auf beiden Seiten vorraus: Wir=20
+numerieren unsere DVD's in der gleichen Art und Weise. Und ich sag dann=20
+eine Nummer. Und "Dude, where is my car" bekommt die Nummer 42 (wobei ic h=
+=20
+die dann doch für anderes freihalten würde.....).
+
+Gruesse

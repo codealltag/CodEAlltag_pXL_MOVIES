@@ -1,0 +1,13 @@
+Das NTSC-TV-Bild hat 60 Hz. Wenn man von einem 24-Hz-Film abwechselnd 2x
+und 3x pro Bild zeigt, ergibt das die 60 Hz. Bei Pal sind es 50 Hz, da
+ist die einfachste Möglichkeit, auf 25 Hz zu erhöhen und jedes Bild 2x
+zu zeigen.
+
+Gruß
+
+Wilhelm
+-- 
+If you want to mail me directly:
+- Use Rot13 on my address
+- Enter "abfcnz" after the "@"
+- Use Rot13 again and delete the "nospam"

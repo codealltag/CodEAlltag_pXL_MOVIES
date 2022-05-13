@@ -1,0 +1,32 @@
+Hi,
+
+  Nachträglich Merry Christmas und vorab schonmal einen guten Rutsch
+wünsch' ich euch. Und eine kleine Anmerkung habe ich noch:
+
+Als ich das letzte Kapitel gepostet habe, haben wir kurz das Thema
+"Download existierender Kapitel" angesprochen. Okay, ist erledigt.
+Ich habe jetzt noch auf die Schnelle ein provisorisches HTML-Frontend
+gebastelt (*sehr* provisorisch), über welches man den aktuellen Stand
+des "Dokuments des Grauens" auch downloaden kann und sie sich zum
+Ausdrucken nicht mühselig per Hand in einer Textverarbeitungssoft-
+ware zusammenpfriemeln muß.
+
+Die existierenden Kapitel sind jetzt alle nach LaTeX umgesetzt und
+unter untenstehender URL liegen sie als PDF bereit. Ganz oben in
+der Liste mit knapp über 13 MB Umfang könnt ihr das komplette Manuskript
+downloaden, derzeit sind's 113 Druckseiten A4. Gleich darunter stehen
+die einzelnen Kapitel als separate PDF-Dateien zur Wahl. Sorry wegen
+der etwas opulenteren Dateigröße, aber 53 Illustrationen fordern nunmal
+ihren Tribut ;-)
+
+Die hier zu findenden Texte weichen von den damals hier geposteten 
+mitunter ab. Stichwort Tippfehler, etc. ;-) Kapitel 2 ("Eine kurze
+Reise durch die Zeit") ist im Umfang etwas gewachsen. Unter anderem
+finden sich darin ein paar Seiten zu zwei Charakteren, bei welchen
+ich ursprünglich vorhatte, ihnen ein eigenes Kapitel zu widmen,
+aber so ist's wohl besser. Namentlich handelt es sich dabei um
+Dominik Lutterbeck und Isa Berwerz. Und halt noch ein wenig Kleinkram
+ist noch neu drin.
+
+-- 
+Clemens Olieslager, jjht@bbfuid.uqkp.ep

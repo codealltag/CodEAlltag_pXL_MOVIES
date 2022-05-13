@@ -1,0 +1,40 @@
+Naja, das stimmt nicht ganz: Fuer perspektivisches Sehen reicht ein
+Auge,
+weil perspektivisches Sehen nur durch das Vorhandensein von
+Zentralperspektive
+ausgezeichnet ist.
+
+Was du meinst ist stereographisches oder kurz Stereo-Sehen. 
+Die Steigerung davon ist uebrigens holographisches Sehen, dabei hat
+der Betrachter zusaetzlich die Moeglichkeit ueber die Tiefenschaerfe
+zu entscheiden (was er beim Stereosehen nicht kann!). Das ist richtiges
+3D-Sehen, wie die meisten Menschen es gewohnt sind.
+
+
+Sehe ich nicht so, alles was du auf Senderseite brauchst sind zwei
+Kanaele, 
+die die jeweils das Bild fuer das rechte bzw. das linke Auge
+uebertragen.
+Auf der Empfaengerseite kannst du dann ganz simpel zwei normaler
+Fernseher
+nehmen, Polfilter drauf legen und die Bilder mit einem halbtransparenten
+Spiegel mischen. Funktioniert.
+Mit LCD-Brillen (Shutter-Glasses) ist das ganze technische aufwendiger,
+weil du zwischen den beiden Bildern synchronisiert hin und her schalten
+musst, also der Fernseher mit 50 Hz zwischen zwei Kanaelen umschalten
+koennen muss und noch ein Synchronisationssignal senden muss. Aber
+langfristig
+wird so etwas kommen. 
+
+
+Mit Halbbildern hat dieses Verfahren wohl gar nichts zu tun.
+Wenn du nur ein 50stel Sekunde weiterdenken wuerdest, sollte dir das
+auch klar werden: Denn dann sieht das abgedunkelte Auge genau das Bild,
+dass zuvor das andere Auge gesehen hat und das "offene" Auge ist beim
+naechsten Bild. Egal ob Voll- oder Halbbilder gesendet werden.
+Entsprechend ist es auch nicht moeglich damit unbewegte Objekte
+darzustellen.
+
+Gruesse
+
+Kay

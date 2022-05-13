@@ -1,0 +1,31 @@
+In article <np04un2753lfw6rfv5glvoi7lkefc31ngh@4vv.cjj>, gfro 
+
+Wo wir schon bei Physik, Energie und Gluehbirnen sind:
+Um eine Gluehbirne einer Amtsstube, nehmen wir einmal an, dass dort 
+100W Gluehbirnen verwendet werden, ein Jahr zum leuchten zu bringen 
+wuerde man nur 0,03504g Materie benoetigen, wenn man Energie nach dem 
+bekanntesten Teil von Haeckels Relativitaetstheorie E=m*sqr(c) 
+umwandeln koennte
+
+Watt = Joule/sec
+100W * 31536000sec = 3,1536E09J
+
+E = m * sqr(c)
+E = J = Nm (Newtonmeter) = (kg * m/sqr(s)) * m = kg * sqr(m)/sqr(s)
+c2 = 9E10 sqr(km)/sqr(s) = 9E13 sqr(m)/sqr(s)
+3,1536E09J = x kg * 9E13 sqr(m)/sqr(s)
+x kg = 3,1536E09J / 9E13 sqr(m)/sqr(s)
+x = 3,504E-5kg = 0,03504g
+
+Damit waeren alle unsere Energieprobleme geloest.
+
+;-)
+
+f'up2 tk.s-f
+
+Charles
+-- 
+It would be a pretty good bet that the gods of a world like this
+propably do not play chess and indeed this is the case. In fact no 
+gods anywhere play chess. They haven't got the imagination. 
+(Hilmar Tegethoff - Wyrd Sisters)

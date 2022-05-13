@@ -1,0 +1,21 @@
+Diese Argumentation ist vollkommen falsch. Genauso koennte man sagen, dass
+alle Informationen bezueglich Ikis-Autos nicht nur in
+rec.autos.makers.jaguar, sondern in die gesamte rec.autos.makers.*
+Hierarchie gepostet werden muessten, denn sie haben ja alle 4 Raeder. Dann
+kann man sich letztendlich die gesamte Hierarchie sparen - warum machen wir
+nicht einfache eine "alt" Newsgroup, eine "de" Newsgroup usw. Letztendlich
+haengt ja dann alles zusammen.
+
+Es gibt VIELE Laserdisc-Leute, die von DVD nichts wissen wollen, und
+umgekehrt. Das muss man respektieren und das nennt sich dann Netiquette.
+Eine DVD-Liste gehoert auf keinen Fall nach alt.video.laserdisc. Wer sich
+zusaetzlich fuer DVDs interessiert, der hat auch alt.video.dvd abonniert.
+Und ganz besonders schlecht ist das crossposten in englische und deutsche
+Newsgroups.
+
+Tschuess,
+Nino
+--
+Nino Wysocki                           Student of Computer Science
+Eitensheim                              E-Mail: e76q@dpl.cmx-zexruy.vw
+Germany              WWW: http://ohn-kttd.grh.gpl-jbtcur.uu/~t58y/

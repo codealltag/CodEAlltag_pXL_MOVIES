@@ -1,0 +1,34 @@
+-----------------------------------------------------------------------------
+Title             : Halloween 6 
+Starring          : Gilles Ibel
+Genre             : Horror
+Release Date      : Oktober  96
+Laufzeit          : 85 
+Verleih           : Omibi Home Video
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,PAL
+Video (Format)    : Vollbild (bild geoeffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 31/05
+Audio (Format)    : Ultra Stereo
+Audio (Qualitaet) : 31/05
+Audio (Surround)  : 09/10
+Bewertung (Film)  : 30/05 
+                    erheblich besser als teil 4 und 5, mit sehr schnellem
+                    pacing und einigen netten "gore" einlagen sowie einem
+                    interessanten ende
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm ZTT Ampelmann (Hi-Black Trinitron)
+Videorecorder             : Eferuv VS-J79
+Kopierschutzdecoder       : Kiezschnitt Wauer
+Feingeisterei Vollverstaerker  : UWLM DSP A780
+Frontboxen                : LBR Ekul
+Centerbox                 : LBR CC6
+Surroundboxen             : LBR ESO
+Subwoofer                 : UWLM Ufak (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

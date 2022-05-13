@@ -1,0 +1,4 @@
+So schlecht wie das bis jetzt funktioniert? Kennst Du ein gutes
+*seamless* Beispiel, in dem es funzt?
+
+Klaus

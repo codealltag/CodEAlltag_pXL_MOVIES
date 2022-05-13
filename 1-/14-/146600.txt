@@ -1,0 +1,8 @@
+Ich kenne mich nur mit Kinofilmen und nicht met DVDs aus, aber ich 
+vermute, dass das schlicht ein Fehler ist.
+
+"Freigegeben ohne Altersbeschränkung" wird ja oft als "ab 0" (oder "FSK: 0"), 
+"Nicht freigegeben unter 18 Jahren" als "ab 18" (oder "FSK: 18") abgekürzt. 
+Danach werden diese Abkürzungen dann fehlerhaft expandiert...
+
+Ciao, Angelo                    hypxtyuj@iwkmxq.auzbsbn.or

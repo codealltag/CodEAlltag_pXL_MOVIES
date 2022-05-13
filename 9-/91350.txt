@@ -1,0 +1,44 @@
+Natürlich macht das sehr viel Sinn. 
+Wenn man will, sollte man einen Artikel flüssig lesen können.
+Mit ROT13 geht das nicht, da man dauernd den Modus umschalten muß.
+(Und das ist bei mir (Gnus) nur mit erheblichen Aufwand möglich.
+Ich habe zwar schon mal überlegt, mir eine Funktion zu programmieren,
+die das mit einem Tastendruck erledigt, aber dann habe ich doch lieber 
+darauf verzichtet, die entsprechenden Threads zu lesen.)
+
+Wenn man den Film schon gesehen hat, braucht man die ganzen 
+Spoilerwarnungen eh nicht mehr. Dann wäre es schön, den ganzen Thread 
+im Klartext lesen zukönnen. Also wäre eine Funktion, die automatisch nur
+die ROT13-Passagen dekodiert und den Rest lesbar läßt ideal.
+
+Threads zu Filmen die ich mir noch ansehen will, lese ich ohnehin nicht 
+sofort, sondern bewahre sie mir auf, bis ich den Film gesehen habe. 
+Also kann für mich auf das Ganze ROT13-Gemurks verzichtet werden.
+
+Momentan geht der Trend in dieser Gruppe aber offensichtlich in die
+andere Richtung. Da werden Leute ausgeschimpft, weil sie Sachen aus
+der Eingangssequenz(!) ohne Spoilerwarnung "verraten".
+Wann müssen wir auch die Filmtitel ROT13 kodieren? 
+
+
+Wenn die Subjektzeile einigermaßen korrekt ist, besteht die Gefahr 
+meist nicht.
+
+
+Ich habe den Eindruck, daß in der letzten Zeit ROT13 deutlich häufiger
+als früher eingesetzt wird.
+
+
+IMHO ist das nicht notwendig.
+Einige Leerzeilen (ca. 10) genügen völlig. Selbst wenn man eine sehr große
+Anzeigefläche für die Artikel hat, so daß der Text mit dem 
+Spoiler auch ohne Scrollen unterhalb des Spoilerspaces im Klartext
+angezeigt wird - wo ist das Problem? Der Spoilerspace fällt in jedem Fall
+eher auf und dann wiess man das man ggf. nicht weiterlesen will.
+Es ist ja nicht so, daß hier die Spoiler in einer Banner-Schrift
+gepostet werden, wo die Buchstaben mehrere Zeilen hoch sind.
+
+Ciao, Vmdiq                                jzjmyijm @nnxkigic.gn
+
+Zuletzt gesehen: 
+Rebell per caso Black Hawk Down Il Consiglio d'Egitto

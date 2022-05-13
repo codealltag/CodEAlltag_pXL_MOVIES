@@ -1,0 +1,23 @@
+Das dürfte schwerfallen, Du darfst den Innenwiderstand (das ist der 
+entscheidende Unterscheid zwischen z.B. einer Autobatterie und einer 
+Taschenlampenbatterie) der Taschenlampe nicht vergessen: die Spannung 
+würde beim Schließen des Stromkreises sofort zusammenbrechen.
+
+
+Hier ein paar Zahlen: 
+http://ver.de-gmrfxib.us/fentmd/Kzvns/vpsrwunwlef_gmc/Eypxxfgclctovb/f0-3.kep
+Die Leistung eines Blitzes ist also deutlich höher als 1,21 GW. 
+Allerdings geht das meiste schon im Blitzkanal als Wärme, Strahlung und 
+Schall verloren, so daß nur 1/100 bis 1/1000 davon an der Erde nutzbar 
+ankommen.
+Die Zahlen in Uhlenhut sind also gar nicht so schlecht.
+
+
+Bei so hohen Spannungen tust Du Dich mit Papier schwer, irgendwann 
+schlägt der Funke einfach durch. Als Dielektrikum wird meistens Keramik 
+benutzt oder so eine Art Leidener Flasche gebaut (Car-Hifi-Freaks 
+stellen sich so Pötte in den Kofferraum mit ~1Farad). Etwas zu tun hätte 
+Antonio also schon, um genügend Kapzität in die Lok einzubauen.
+
+Ciao
+Harry

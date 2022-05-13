@@ -1,0 +1,33 @@
+Dann finde ich dieses hier umso befremdlicher:
+
+-----SNIP-----
+
+   Access denied
+   http: 403
+
+   Sorry, this moal.hsp (Lagew) URL is not accessible 
+   from your address or browser.
+
+   The three main reasons for seeing this message are:
+
+[...viel BLAFASEL gesnippt...]
+
+   Filtering IMDb isn't allowed, so WebWasher etc aren't allowed.
+
+
+----SNAP----
+
+Wir halten also fest, die Daten werden von Usern für Usern eingegeben, 
+aber trotzdem wird den gleichen Usern plötzlich das recht genommen zu 
+entscheiden wie sie die ihren Rechner zu konfigurieren haben. Das könnte 
+ich ja eventuell noch nachvollziehen, wenn diese Daten von einer 
+Institution gesammelt und bereit gestellt wurden, aber ganz sicher nicht
+bei einem "von Usern für User"-Modell.
+
+Ganz schön Krank.
+
+-- 
+j@xwlxght.zu                  -------Click me, I'm a link-------
+dxkpv@gugh.ix                 Veit Wildschrei  Enno, Germany
+gcmdt@lmqrs.fifsyw.gjb        http://lptmxlzhl.gaqxag.mdh/~mkynu
++++ Kein Bock auf SPAM? > http://sss.gtcixfy-wqvurub.pc/gwst/ +++

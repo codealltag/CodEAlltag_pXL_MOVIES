@@ -1,0 +1,8 @@
+Dirk Weilage wrote in <55c041$dn9$2@juwa.in.ma.kih> on 1998-12-31
+20:06:05 +0100:
+
+Ich habe die Datei ebenfalls aus Neuendambach bezogen (via FTP) und konnte
+sie problemlos (mit GNU tar) entpacken - unter OpenStep 4.2 auf
+einer NeXTstation (Capa 68040).
+
+Luc

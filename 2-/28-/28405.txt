@@ -1,0 +1,222 @@
+NG-Statistik drfm für den Februar 2005
+basierend auf ngstat von Reiner Vaagt.
+
+25/10: 2645 postings   +6.05%
+26/10: 2541 postings   -3.93%
+27/10: 2041 postings  -19.68%
+28/10: 2242 postings   +9.85%
+29/10: 1720 postings  -23.28%
+30/10: 2227 postings  +29.48%
+18/11: 1811 postings  -18.68%
+19/11: 1576 postings  -12.98%
+20/11: 1074 postings  -31.85%
+21/11:  658 postings  -38.73%
+22/11: 1142 postings  +73.56%
+23/11: 1425 postings  +24.78%
+
+24/11: 1466 postings   +2.81% (76 Newbies)
+
+
+Die meisten Artikel innerhalb 1 Stunde:
+    17 Artikel zwischen 23.01.2005 09:32:31 und 23.01.2005 10:32:30
+
+Die meisten Artikel innerhalb 24 Stunden:
+   115 Artikel zwischen 20.01.2005 16:45:40 und 21.01.2005 16:45:39
+
+Die artikelst�rkste Nacht war am 25.01.2005:
+    15 Artikel zwischen 0:00 Uhr und 6:00 Uhr
+
+Der kürzeste Zeitabstand beträgt 1 Sekunde,
+    vom 21.01.2005, 13:02:21 bis 21.01.2005, 13:02:22
+
+Der längste Zeitabstand beträgt 13:25:28 Stunden,
+    vom 11.02.2005, 21:21:47 bis 12.02.2005, 10:47:15
+
+Die schnellste Antwort gab es in 1:02 Minute von Emmerich Pfefferhorn
+    auf news:zm87ws$ab3$10$5@tduj.l-xrszfv.giy
+    vom 20.01.2005, 17:35:08 bis 20.01.2005, 17:36:10
+
+Die späteste 1. Antwort gab es nach 9 Tagen, 10:39:58 Stunden
+    von Mirkos Bock auf news:tbvir36z3rtz9bmucl9hogx122tfyyqwt5@0px.jsr
+    vom 01.02.2005, 01:39:28 bis 10.02.2005, 12:19:26
+
+Das älteste unbeantwortete Initialposting im Juli ist vom 21.01.2005, 15:51
+    news:74333684465196.MB9542@bobuxsw.snomo.hwj von Dieter Andress
+
+
+Autoren mit den meisten Postings (1466 Postings)
+
+ Pos | Anz | FUp |  Lin | Avg | KByte | Autor                 | Diagramm    
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+   1 |  82 |  81 | 2268 |  27 | 168.5 | Gilles Zaumsegel        |  5.6%  xxxxx
+   2 |  75 |  65 | 1853 |  24 | 155.5 | Dieter Andress         |  5.1%  xxxxx
+   3 |  59 |  41 | 1251 |  21 | 106.4 | Bernard Zetzsch         |  4.0%  xxxx 
+   4 |  47 |  41 | 1217 |  25 |  99.8 | Ullrich S. Juergen     |  3.2%  xxx  
+   5 |  41 |  39 | 1038 |  25 |  75.7 | Dennis Tröschel        |  2.8%  xxx  
+   6 |  33 |  33 |  821 |  24 |  68.0 | Dieter Boehm         |  2.3%  xx   
+   7 |  31 |  24 |  683 |  22 |  52.2 | Silvio Landenhammer    |  2.1%  xx   
+   8 |  30 |  30 |  449 |  14 |  49.7 | tuo.lfcfxic@alo.zet   |  2.0%  xx   
+  10 |  29 |  27 |  825 |  28 |  62.2 | Ullrich Andermatt         |  2.0%  xx   
+  11 |  28 |  30 |  527 |  18 |  54.8 | Tobias Freemans         |  1.9%  xx   
+  12 |  24 |  26 |  704 |  29 |  54.3 | Ludger Liborius          |  1.6%  x    
+  13 |  23 |  13 |  379 |  16 |  36.3 | Ignaz Imbach        |  1.6%  x    
+  14 |  21 |  22 |  369 |  17 |  34.4 | Mirkos Zijlstra            |  1.4%  x    
+  18 |  20 |  23 |  363 |  18 |  27.2 | Ulf Vahldiek          |  1.4%  x    
+  19 |  19 |  15 |  207 |  10 |  23.0 | Ignaz Kuhlmann         |  1.3%  x    
+  22 |  18 |   5 |  410 |  22 |  32.5 | Raphaël Notorft      |  1.2%  x    
+  23 |  16 |  15 |  312 |  19 |  22.6 | Günter Nordhause      |  1.1%  x    
+  25 |  15 |  19 |  316 |  21 |  21.1 | Alwin I. Findeise    |  1.0%  x    
+-----+-----+-----+------+-----+-------+-----------------------+-------------
+
+
+Autoren mit den meisten direkten Antworten (Top 10)
+
+ Pos | Autor                | FUp | Avg. | Artkl | Diagramm   
+-----+----------------------+-----+------+-------+------------
+   1 | Gilles Zaumsegel       |  81 | 0.99 |    82 | 6.1%  xxxx
+   2 | Dieter Andress        |  65 | 0.87 |    75 | 4.9%  xxxx
+   3 | Ullrich S. Juergen    |  41 | 0.87 |    47 | 3.1%  xx  
+   5 | Dennis Tröschel       |  39 | 0.95 |    41 | 2.9%  xx  
+   6 | Dieter Boehm        |  33 | 1.00 |    33 | 2.5%  xx  
+   7 | Tobias Freemans        |  30 | 1.07 |    28 | 2.3%  x   
+   9 | Ullrich Andermatt        |  27 | 0.93 |    29 | 2.0%  x   
+  10 | Ludger Liborius         |  26 | 1.08 |    24 | 2.0%  x   
+-----+----------------------+-----+------+-------+------------
+
+
+Autoren mit den meisten Threads (105 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm                        
+-----+----------------------+-----+-------+---------------------------------
+   1 | Dieter Andress        |   8 |   149 |  7.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   3 | Dieter Boehm        |   5 |   177 |  4.8%  xxxxxxxxxxxxxxxx         
+-----+----------------------+-----+-------+---------------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (105 Threads)
+
+ Pos | Gründer              | Anz | Artkl | Diagramm                        
+-----+----------------------+-----+-------+---------------------------------
+   1 | Dieter Boehm        |   5 |   177 | 12.1%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   2 | Clemens Neubuhr     |   1 |   157 | 10.7%  xxxxxxxxxxxxxxxxxxxxxxx  
+   3 | Dieter Andress        |   8 |   149 | 10.2%  xxxxxxxxxxxxxxxxxxxxx    
+   4 | Antonio Ingenstau         |   2 |    97 |  6.6%  xxxxxxxxxxxxxx           
+   5 | Emmerich Pfefferhorn     |   1 |    78 |  5.3%  xxxxxxxxxxx              
+   6 | Sandro Feßenbecker           |   2 |    77 |  5.3%  xxxxxxxxxxx              
+   7 | David Junghannß            |   3 |    61 |  4.2%  xxxxxxxx                 
+-----+----------------------+-----+-------+---------------------------------
+
+
+Threads mit den meisten Postings (1466 Postings)
+
+ Pos | Anz | Threads                          | Gründer      | Diagramm     
+-----+-----+----------------------------------+--------------+--------------
+   1 | 157 | Krieg der Welten - Kamerafahrt au| Clemens Niederhäuser 10.7%  xxxxxx
+   2 |  81 | Krieg der Welten SPOILER         | Antonio Ingenstau |  5.5%  xxx   
+   3 |  78 | Mal wieder Boykott?              | Emmerich Berthold  5.3%  xxx   
+   4 |  71 | L'auberge espagnol (Ein Jahr in B| Sandro Feßenbecker   |  4.8%  xxx   
+   5 |  60 | Remmer wurde hochgebeamt         | Dieter Arentz  4.1%  xx    
+   6 |  57 | Erste schlechte Kritik zum "Krieg| Dieter Arentz  3.9%  xx    
+   7 |  51 | Originalfassungen                | Dieter Birgel  3.5%  xx    
+   8 |  47 | OT: Fast schon Pitch Black       | David Junghannß    |  3.2%  xx    
+  10 |  42 | Chronicles of Narnia und Bibel?  | Hertha Tünnesen  2.9%  x     
+  11 |  41 | Leibesvisitation bei "Fantastic F| Dieter Birgel  2.8%  x     
+  12 |  37 | Corps Bride - CGI oder stop-motio| Dieter Langmack |  2.5%  x     
+  13 |  35 | Kritik: Krieg der Welten         | Dieter Birgel  2.4%  x     
+  14 |  31 | Suche Filmbeispiele zu Thema Auss| Udo         |  2.1%  x     
+  15 |  28 | Re: Kritik: Krieg der Welten     | Noah Nungäßer |  1.9%  x     
+-----+-----+----------------------------------+--------------+--------------
+
+
+Verwendeter Newsreader (Alle Postings, 1466 Postings)
+
+ Anz | Newsreader                     | Diagramm                            
+-----+--------------------------------+-------------------------------------
+ 266 | Forte Agent                    | 18.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ 229 | BauSan                        | 15.6%  xxxxxxxxxxxxxxxxxxxxxxxxx    
+ 161 | BikeKult Outlook Express      | 11.0%  xxxxxxxxxxxxxxxxxx           
+ 116 | tin                            |  7.9%  xxxxxxxxxxxxx                
+  97 | Mozilla Thunderbird            |  6.6%  xxxxxxxxxx                   
+  75 | Gnus                           |  5.1%  xxxxxxxx                     
+  74 | /keine Angabe/                 |  5.0%  xxxxxxxx                     
+  73 | ftzpqe.ccxysg.roe              |  5.0%  xxxxxxxx                     
+  66 | 40tude_Dialog                  |  4.5%  xxxxxxx                      
+  62 | mutt-ng devel (Linux)          |  4.2%  xxxxxx                       
+  53 | KNode                          |  3.6%  xxxxx                        
+  47 | Xnews                          |  3.2%  xxxxx                        
+  40 | MacSOUP                        |  2.7%  xxxx                         
+  24 | Bakerman-MIOS Grosshandel            |  1.6%  xx                           
+  22 | slrn                           |  1.5%  xx                           
+  22 | KPZ                           |  1.5%  xx                           
+  13 | mutt-ng                        |  0.9%  x                            
+  11 | CrossPoint                     |  0.8%  x                            
+   9 | Joeken M2                       |  0.6%  x                            
+   3 | knews                          |  0.2%                               
+  <2 | 3 weitere...                   |                                     
+-----+--------------------------------+-------------------------------------
+1466 | GESAMT (23)                    |                                     
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 10 Postings
+(36 Autoren)
+
+ Anz | Newsreader                     | Diagramm                            
+-----+--------------------------------+-------------------------------------
+   6 | Forte Agent                    | 16.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   5 | BauSan                        | 13.9%  xxxxxxxxxxxxxxxxxxxxxxxxx    
+   4 | BikeKult Outlook Express      | 11.1%  xxxxxxxxxxxxxxxxxxxx         
+   2 | 40tude_Dialog                  |  5.6%  xxxxxxxxxx                   
+   2 | Gnus                           |  5.6%  xxxxxxxxxx                   
+   2 | tin                            |  5.6%  xxxxxxxxxx                   
+   2 | /keine Angabe/                 |  5.6%  xxxxxxxxxx                   
+   2 | KNode                          |  5.6%  xxxxxxxxxx                   
+   2 | Xnews                          |  5.6%  xxxxxxxxxx                   
+   2 | ftzpqe.ccxysg.roe              |  5.6%  xxxxxxxxxx                   
+   2 | BBK                        |  5.6%  xxxxxxxxxx                   
+   1 | mutt-ng                        |  2.8%  xxxxx                        
+   1 | KPZ                           |  2.8%  xxxxx                        
+   1 | slrn                           |  2.8%  xxxxx                        
+   1 | BCHC            |  2.8%  xxxxx                        
+   1 | BauSan Thunderbird            |  2.8%  xxxxx                        
+
+
+Postingverteilung über den Monat (1466 Postings)
+
+ Tag | Anz | Diagramm                                                       
+-----+-----+----------------------------------------------------------------
+   1 |  60 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   2 |  53 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   3 |  80 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+   4 |  82 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+   5 |  63 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+   6 |  85 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+   7 |  88 |  6.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   8 |  81 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+   9 |  12 |  0.8%  xxxxxxx                                                 
+  10 |  19 |  1.3%  xxxxxxxxxxxx                                            
+  11 |  54 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  12 |  79 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  13 |  47 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  14 |  71 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  15 |  84 |  5.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  16 |  38 |  2.6%  xxxxxxxxxxxxxxxxxxxxxxxx                                
+  17 |  22 |  1.5%  xxxxxxxxxxxxxx                                          
+  18 |  22 |  1.5%  xxxxxxxxxxxxxx                                          
+  19 |  46 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                           
+  20 |  40 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxx                               
+  21 |  59 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  22 |  32 |  2.2%  xxxxxxxxxxxxxxxxxxxx                                    
+  23 |  29 |  2.0%  xxxxxxxxxxxxxxxxxx                                      
+  24 |  21 |  1.4%  xxxxxxxxxxxxx                                           
+  25 |  14 |  1.0%  xxxxxxxxx                                               
+  26 |  17 |  1.2%  xxxxxxxxxxx                                             
+  27 |  17 |  1.2%  xxxxxxxxxxx                                             
+  28 |  30 |  2.0%  xxxxxxxxxxxxxxxxxxx                                     
+  29 |  59 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  30 |  23 |  1.6%  xxxxxxxxxxxxxx                                          
+  31 |  39 |  2.7%  xxxxxxxxxxxxxxxxxxxxxxxxx                               
+
+HTH ;-)
+Franco
+-- 
+No hay banda.

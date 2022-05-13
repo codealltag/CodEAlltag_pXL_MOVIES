@@ -1,0 +1,26 @@
+Ich auch nichts, es ging mir ja nur um die fehlenden Infos.
+
+
+Ich benutze RLPU unter ZMUN, aber da liegt das Problem nicht, 
+denn ich hatte in allen ASCII-Listen nach dem Namen gesucht, da 
+kam dann tatsaechlich nur "Silvio World" vor (amgesehen von den 
+"Guest Appearences"). Also lag's an den Daten, nicht am Frontend.
+
+Leider kann ich das inzwischen nicht mehr nachvollziehen: Hab mir
+naemlich grade eben die neue Version gezogen, und da steht auf 
+einmal alles drin. Aeusserst seltsam... *gruebel* 
+
+
+Hehe. :-)
+Am Diff konnte es eh nicht gelegen haben, da ich mir vor 2 Wochen 
+die aktuellen Daten *komplett* gezogen hatte.
+
+
+Ok, damit hat sich das Problem wohl geloest.
+
+    -fredi
+
+-- 
+  Fredi Vermeegen - Universitaet Rosenberg
+  mailto:upags@olbvifonod.wbh-oz.sg,  ICQ: 36074349
+  http://ohp.dgwf.rtz-gv.sb/~rfkidc

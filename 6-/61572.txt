@@ -1,0 +1,15 @@
+Ja. Und auf Ami-DVDs ist ein Film in NTSC-Video drauf, dh. mit
+29,irgendwas Hz. Film ist 24 Hz. Da das nicht passt und ein simples
+schnelleres Abspielen nicht hinhaut, wird der 3/2 Pulldown
+durchgeführt. Daraus resultiert das elende Ruckeln in horizontalen
+Schwenks. Hinzu kommt die merklich schlechtere Auflösung. Witzigerweise
+kommt das europ. PAL dem kleinsten HDTV-Standard schon sehr nahe.
+Deshalb gibts ja erst die Querelen um Saran-progressive.
+
+
+Nein.
+
+Tschüss,
+        Claudio
+-- 
+Life's a bitch and then you die!

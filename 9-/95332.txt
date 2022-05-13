@@ -1,0 +1,16 @@
+Luft der Server mysqld-opt schon? In der Anleitung von Imminger
+Beta 8 steht ein entsprechender Hinweis, in Beta 7 fehlte er noch.
+Und hast du eine my.cnf oder my.ini angelegt, falls Du nicht in
+c:\mysql installiert hast?
+
+Eine andere Möglichkeit wäre, dass eine Personal Firewall wie Zone
+Alarm die Verbindung verhindert.
+
+
+Normalerweise mysqld-opt ohne Optionen. Kann mit Doppelklick
+gestartet werden - das Konsolenfenster verschwindet nach ein paar
+Sekunden, aber der Server läuft weiter. Aber am besten nimmt man
+ihn gleich in den Autostart. Wenn er nichts zu tun hat, ist die CPU-
+Belastung unter 0,1%.
+
+Alfons

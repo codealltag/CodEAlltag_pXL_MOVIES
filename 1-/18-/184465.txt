@@ -1,0 +1,9 @@
+THX hat nichts mit Verstärkern und Lautsprechern zu tun, sondern ist
+  ein Qualit�tssicherungssymbol. Wenn eine Stereoanlage/Videorecorder/
+  Videofilm die Qualitätsmerkmale des THX-Kataloges erfüllen dürfen
+  sie das Logo tragen.
+-- 
+Wind*ws95, n:
+    32 bit extensions and a graphical shell for a 16 bit patch to an
+    8 bit operating system originally coded for a 4 bit microprocessor,
+    written by a 2 bit company that can't stand 1 bit of competition.

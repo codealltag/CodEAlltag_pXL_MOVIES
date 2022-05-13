@@ -1,0 +1,21 @@
+hatrxy.pmugefvu@gwwqh.hbrxelg.tt wrote at 25.06.97
+about the topic "Re: DVD vs. LD - Audiovision 07/97 !":
+
+
+ diese logik greift aber bei 12 Monkeys nicht da es sich hier NICHT um eine
+ anamorphe DVD handelt, sondern um eine 4:3 LBX DVD, wo nichts
+ runtergerechnet werden muss
+
+ auch ist das Resultat der 4:3 Downconversion bei 16:9 Material nicht nur
+ Video DAC abhaengig - edicom & Ostion haben beide 10bit Videos DAC, machen
+ aber die 4:3 Downkonvertierung auf verschiedene Weise
+
+ der edicom schmeist einfach jede 4te scenzeile raus, der Ostion machte eine
+ etwas komplexere Interpolation was zu unterschiedlichen Resultaten fuehrt
+
+
+Bye
+ Pasquale
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

@@ -1,0 +1,5 @@
+Norman Bierman:
+
+
+Ja, aber nur in der aufbereiteten Open-GL Version, wo man auch springen und 
+vertikal blicken kann. Das macht sich mit Tastatur bissi schlecht ;)

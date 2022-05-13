@@ -1,0 +1,15 @@
+On the stormy day of Sat, 16. 11. 22 11:22:00 +0200, thou, oh 
+Pascal Linzmeier <c.rsbsvqp@ly-bhcmyee.wz>, said thy word and thy word
+was:
+
+
+Geh mal ins Men von deinem Netscape 4.5, auf "Edit->Preferences->Mail
+& Newsgroups->Formatting" und schalte die Option "Use the plain text
+editor to compose messages" (oder in deinem Fall, auf die dt.
+äquivalente dieser Menüpunkte). Danke.
+
+-- 
+-----Nikolaus "Urban" Klassen---------------------
+"If you ever do it again, I'll eat your liver.
+ With some Wookiee beans and a nice chianti."
+            <Darth Vader, "Rebel Assault II">

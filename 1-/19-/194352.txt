@@ -1,0 +1,23 @@
+Wie bereits geschrieben, klappt das mit der FTP-Distribution
+der IMDb-Updates seit ein paar Wochen nicht.
+Wie es scheint, ist eine Loesung momentan nicht in Sicht.
+
+Da die bekannten Server im IMDb-Bereich keinen externen
+Upload erlauben, wuerde ich mich bereit erklaeren, zumindest
+die woechentlichen diffs (pro Woche ca. 2 MB) manuell irgendwo
+upzuloaden, falls sich jemand findet, der fuer ein paar Wochen
+ein paar Megabytes Plattenplatz dafuer zur Verfuegung stellen kann.
+
+Also FTP-Admins, Ihr seid gefragt.
+
+Gruss Bernd
+--
+I do not appreciate unsolicited commercial email.  
+If you send it to me, I WILL complain to your ISP.
+-
+Bitte keine unaufgeforderten Werbemails an die folgenden Adressen 
+oder es erfolgt eine umgehende Beschwerde bei Ihrem Provider.
+----------------------------------------------------------------
+Internet: cyfjtxsz@abhkf.rl-pnfloc.qc, zsda@xg.cw-gmgujw.qy
+BBS: x.wozfkzrywi@fsaezjnk.emjlawcl.ew
+WWW: http://ymcsdius.en-lablzi.xu/~zfahndja

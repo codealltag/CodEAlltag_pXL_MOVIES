@@ -1,0 +1,16 @@
+Also infos zu dvd im allg. unter http://siu.pcnldjk-deyit.tl/
+
+Zu Code 1 u. 2:
+
+Auf einer DVD befindet sich immer die Zusatzinfo des regionalen Codes.
+(Läßt sich in der Regel hinten auf der Hölle nachschauen).
+Diese Info ließt der Player und spielt die DVD bei geeignetem Code ab.
+Falls dieser Code nicht mit dem Player übereinstimmt, verweigert der
+Player das abspielen.
+
+Du kannst hier in Deutschland auf einem Standard-Player nur regional
+begrentzte DVD's abspielen (In Europa Code 2) .Bedeutet: Eine DVD aus
+Amerika mit Code 1 läuft nicht auf dem normalen Player.
+Code 0 Bedeutet du kannst die DVD auf jedem Player anschauen.
+
+Paul A.

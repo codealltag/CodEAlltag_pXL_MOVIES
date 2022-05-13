@@ -1,0 +1,27 @@
+Moin Frédéric und alle,
+
+ich hab's immer noch nicht kapiert. Kann vielleicht noch mal jemand
+für die ganz Doofen...? Ich habe da nun einen Film und den muss ich
+mit der vorgesehenen Geschwindigkeit abspielen, damit es echt
+aussieht. Sonst ist eben alles langsamer oder schneller als gedacht.
+Soweit so klar. 
+
+Aaaaber: Wenn denn der Film gedreht wird, wird er doch nicht gleich
+dreimal gedreht: "Und jetzt bitte noch mal Szene 111 für Kippertz!" Oder
+wie? Der Film liegt dann doch nur einmal vor, schätze mal mit 24 B/sec
+für die Kinoprojektion. Wenn ich dann daraus ein PAL-Video machen
+will, spiele ich es einfach bei 25 B/sec ab und das fällt dann ja auch
+nicht auf. Wenn aber NTSC 30 B/sec hat, kann ich das doch nicht
+einfach so abspielen (jetzt mal vom Farbformat ohnehin abgesehen).
+Verstehe ich nicht. Und noch viel weniger verstehe ich: Es gibt doch
+NTSC-PAL-Konverter. Was machen die denn? Bilder dazu erfinden, bzw.
+weglassen?
+
+Ich könnte mir denken, dass die Antwort darauf in Franciscos Mail steckt.
+Nur: Wo? Und: Was sind Halbbilder? Bei diesem Bild nur die rechte
+Hälfte und beim nächsten die linke? Ich gebe ja zu, dass ich technisch
+vielleicht auf meiner Leitung sitze, aber - bitte - hat noch jemand
+ein Stückchen Geduldsfaden für mich übrig und versucht es noch mal?
+
+Dank und Gruß
+Oswina

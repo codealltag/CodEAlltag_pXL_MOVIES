@@ -1,0 +1,6 @@
+Kann man bei Euch nicht für bestimmte URLs den Proxy ausschalten?
+Mein Netscape und AFAIR lynx haben diese Option.
+Da die IMDB-Seiten seit einiger Zeit eh eine Haltbarkeit < 1h haben
+bringt der Proxy hier ohnehin kaum etwas.
+
+Ciao, Ihno                           rrvffhgw@dmf.jvjt-vcrpfk.qf

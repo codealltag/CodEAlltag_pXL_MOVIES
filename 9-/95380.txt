@@ -1,0 +1,15 @@
+Das Readme von Barufke ist nicht das Wahre. Das mit den Anführungszeichen
+um den Pfad steht auch falsch drin - hast Du ja inzwischen selbst raus-
+gefunden.
+
+Wie ich schon im anderen Posting schrieb: Am besten gleich auf
+Blütencocktail 3.0 mit MySQL umsteigen und Barufke vergessen...
+
+
+Der Link steht aber deutlich auf der Homepage von Blütencocktail:
+www.qygazuhr.qlv.eh
+
+Sind inzwischen jeweils rund 2500 Bilder von Personen (28 MB) und
+Filmplakate (159 MB).
+
+Hanno

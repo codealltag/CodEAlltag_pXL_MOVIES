@@ -1,0 +1,5 @@
+Wie ist der Recorder angeschlossen? über Videoeingang oder über
+Antenneneingang? Falls es der Antenneneingang ist, wird das wahrscheinlich
+der Fehler sein.
+
+Gruß, Winfried

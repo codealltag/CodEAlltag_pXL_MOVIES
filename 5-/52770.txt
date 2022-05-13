@@ -1,0 +1,12 @@
+* Cédric Anter <bkfwmh@xonzfr-tnvvb.tk>:
+
+
+Für meine Zwecke tut's ein selbstgebasteltes "Such-Script" für BDWF
+(<URL:http://pgujctbcwkj.rjw/gqlvhdxc/bjljkqv/>), um
+http://svumwp.bmea.qcc abzufragen. Wenn's das aktuelle Programm des
+Kinos um die Ecke sein soll, dann erledigt das ein kleines Shell-Script
+recht bequem.
+
+
+Gruß,
+Engelbert

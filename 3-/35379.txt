@@ -1,0 +1,11 @@
+Stimmt, jetzt fällt es mir langsam wieder ein. Ich kann mir Sachen, die ich
+nicht verstehe immer so schlecht merken, und Lost Highway habe ich definitiv
+nicht verstanden (-; Wenn ich mich aber recht erinnere, dann läuft der Film
+doch in einer Art Zeitschleife und der Zuschauer sieht am Ende des Filmes,
+dass tatsächlich Olaf selber die Kassette in den Briefkasten geworfen hat,
+oder?
+
+jwm
+-- 
+gtkmm-1.2.10% ./configure --help
+ --enable-extra-crispy    Roast the chicken extra-crispy (see voodoo option)

@@ -1,0 +1,29 @@
+Was heisst schon "wie sie geplant ist". Momentan wird auf breiter Basis
+DCI mit 1400er-Aufloesung gepusht, was auch nur mit Foerdermitteln und
+der erlaubter Zweitverwertung des Projektors (etwa fuer Vorfuehrungen von
+Fussballspielen) fuer die Kinobetreiber rentabel wird. Fuer den Verleiher
+rechnet es sich nur durch den langfristigen Knebelvertrag (die mitwirkenden
+Kinos muessen drei Jahre die gelieferten Filme spielen).
+
+Die 4K-Modelle, die auf der SIGGRAPH gezeigt wurden sind doch hoechstens
+fuer Freizeitparks attraktiv und fuer normale Kinos auf absehbare Zeit
+nicht finanzierbar. Und wenn erstmal eine breite Basis an billigen Modellen
+installiert ist und die meisten Kunden den Unterschied nicht bemerken...
+(95% aller Zuschauer bemerken ja auch keine Fehler in einer Filmprojektion).
+
+Ich habe mal eine Projektion mit dem Standard gesehen, der auch in der
+"European Docuzone" verwendet wird (1050 bis 1400 Pixel in der Horizontalen)
+und das ist gegenueber 35mm Film ein gewaltiger Rueckschritt. Der Schwarzwert
+ist viel schlechter, der Kontrast ein wenig schlechter und die Aufloesung
+zu gering, so dass man immer noch die Digitalisierung durchschimmern sieht.
+
+Ich sehe ja die Vorteile der Technik (momentan machen die hohen Transport- und
+Kopienkosten speziellere Vorfuehrungen ausserhalb der Grossstaedte de facto
+unmoeglich), aber doch bitte nicht zu Lasten der Qualitaet.
+
+
+Das Bild ist durch die Retro ein bisschen verzerrt, "Mandala" und "Chukje"
+sind ja schon deutlich aelter.
+-- 
+Letzte drei Filme:
+Aragami (+), Million Dollar Baby (++), Bewafaa (++)

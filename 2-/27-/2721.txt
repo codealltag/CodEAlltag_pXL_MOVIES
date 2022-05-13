@@ -1,0 +1,29 @@
+Naja, wenn Du Dir mal ansiehst, was z.B. alles über Salzgeber technisch
+abgewickelt wird, dann sind wir durchaus auf dem Weg zu diesem Modell.
+Die Distribution eines Films in digitaler Form inkl. Mastering und
+Vertrieb ist heute durchaus deutlich günstiger als eine analoge
+Distribution. 
+Manche Mini-Verleiher versuchen sich auch in eigenen Modellen, z.B. mit
+BluRays (bei aktuellen Dokumentarfilmen passiert das häufig), aber
+DCI-kompatible DCPs scheinen sich durchaus durchzusetzen, und zwar
+sowohl im Eigenvertrieb der Mini-Verleiher als auch im Vertrieb über
+Firmen wie Waehlisch.
+
+
+Die haben die Verleiher faktisch nicht, da sie sich in der Regel dafür
+entscheiden, die Kopien unverschlüsselt herauszugeben. Technisch wäre
+eine Verschlüsselung nicht schwierig, aber vermutlich will man sich den
+Aufwand mit dem Schlüssel-Handling ersparen.
+
+
+Leider bezahlt das Publikum den durchaus, es ist nicht unüblich, daß
+Kinos so einen Aufschlag verlangen.
+
+Schöne Größe,
+Eduard
+
+-- 
+Eduard Ufferheide -- http://qca.qxshwn.ntn
+Please use Reply-To: information for replies
+PGP key: http://srmwnn.mnp/GxoxvbhkAiek.eph
+PGP fingerprint: CED3 6074 7F7D 3148 C6F3  DFF2 05FF 3A0B 0D12 4D41

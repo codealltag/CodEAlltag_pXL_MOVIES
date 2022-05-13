@@ -1,0 +1,12 @@
+Also, ab Mitte des Films sind bei meiner Version Tonstoerungen, die
+in unregelmaessigen Abstaenden auftauchen. Auf dem deutschen und englischen
+DS-Sound sind die Stoerungen nicht. Ich muss da aber nochmal ein bisschen
+Zeit investieren, um der Sache auf den Grund zu gehen. Etwas ist aehnliches
+ist bei meinen anderen DVDs allerdings noch nicht aufgetreten. Daher
+vermute
+ich, das meine Hardware in Ordnung ist...
+Auf meiner LD-Version ist der AC3-5.1 Ton ohne diese Stoerungen.
+
+Gruss,
+
+Pascal

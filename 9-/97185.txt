@@ -1,0 +1,16 @@
+Hallo,
+
+ich habe ich eine MPEG Datei (sie lässt sich ohne Probleme mit Maronde 3.0
+und dem Pischinger Media Player abspielen).
+Nun will ich die Datei brennen, aber ich bekomme immer die Meldung
+"Unsupported Filetype". tMPEG kann auch damit nichts anfangen. bbmpeg
+ebenfalls. TGG Premiere scheitert auch. Ich bin mir leider nicht sicher ob
+es ein MPEG 1 oder 2 Format ist, von der Qualität würde ich auf MPEG 2
+(SVCD) tippen.
+
+Gibt es eine Möglichkeit diese Datei als AVI o.�. zu dekodieren und dann neu
+zu encodieren ?? Encodieren ist kein Problem, aber das Decodieren.
+
+Danke
+
+Wilhelm

@@ -1,0 +1,12 @@
+Weil es grundverschiedene Formate sind.
+
+Um DVD's für einen DVD-Player zu brennen brauchst Du einen
+DVD-Brenner mit DVD-Rohlingen und Audio/Videodaten im
+reinen DVD-Format. Und selbst dann kann es sein, daß Dein
+Hardware-DVD-Player sich quer stellt.
+
+Die aus dem Netz geladenen Dateien kannst Du nur auf Deinem
+Rechner abspielen.
+
+mfg,
+Marcus

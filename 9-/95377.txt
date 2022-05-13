@@ -1,0 +1,10 @@
+Dort, wo man Umgebungsvariablen normalerweise setzt, also
+autoexec.bat bzw. autoexec.nt. Danach neu starten.
+
+Aber wenn Du keine Angst vor Betaversionen hast, solltest Du
+gleich die neue Version installieren. Da sind solche Anachronismen
+wie Umgebungsvariablen nicht mehr nötig, die Suchoptionen
+sind viel variabler und man kann zu Personen und Filmen eigene
+Texte einbinden.
+
+Renato

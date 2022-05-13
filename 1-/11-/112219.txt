@@ -1,0 +1,87 @@
+:>Leider hat das zuletzt mit den listfiles vom 31.05.2001 reibungslos
+:>geklappt,
+
+: Merkwürdig, da hätte es wegen der fehlenden Checksummen
+: eigentlich auch nicht gehen dürfen...
+
+Ich habe mir ja immer die kompletten listfiles von der MiniMaxx Frickenweiler gezogen
+(Uni-Standleitung und ZIP-Drive sei dank!), und pmdb 0.9.18 hat keine
+Probleme gemacht.
+
+:>danach fing pmdb immer bei der Datei biographies.list an zu
+:>meckern, es sei eine Stop-Anweisung enthalten (oder so aehnlich) und brach
+:>die Erstellung der Datenbank ab. :-(
+
+: Yep.
+
+Damals habe ich ja noch darauf gehofft, dass es nur ein Fehler in dem
+listfile waere und in der naechsten Woche wieder alles funktioniert, aber
+falsch gedacht... :-(
+
+:>Ich habe zwar einen Kompromiss gefunden, indem ich die alte biographies.list
+:>mit den restlichen aktuellen listfiles benutze, aber so richtig sinnvoll ist
+:>das ja nicht.
+
+: Ich bin inzwischen auf Connect umgestiegen.
+
+War das nicht diese DOS-basierte Datenbank?
+
+:>Der einzige offensichtliche Unterschied war, dass bei der aktuellen Datei
+:>in der ersten Zeile eine CRC-Checksumme steht und in der alten Version vom
+:>31.05.2001 nicht. Aber auch ein Loeschen dieser Zeile brachte keine
+:>Besserung.
+
+: Die Checksummen müssen drinstehen. In den diffs vom 24.5. und 31.5.
+: fehlten sie irrtümlich, dann waren sie wieder drin. Die sind also nicht
+: das Problem.
+
+Wie gesagt, ich habe bisher noch gar keine diffs benutzt, da ich mir immer
+die kompletten aktuellen listfiles gezogen habe.
+
+:>Eine E-Mail von mir an den Autor von Masche vor gut einem Monat blieb bisher
+:>unbeantwortet.
+
+: Huch. Deutsch, englisch oder holländisch?
+
+Englisch. Da die Homepage in englisch gehalten war, ging ich davon aus, dass
+der Autor auch englisch verstehen kann. Die aktuelle Homepage von Masche ist
+doch immer noch unter
+
+<http://zsv.qvgzrrchm.mdz/Cessstnpg/Zfpuor/4459/kvmlg.wdsy>
+
+zu finden, oder?
+
+Ich habe diese E-Mail an Willi Ueberscher (lvoqedes@ggudxprqd.nhe) geschickt,
+sollte also angekommen sein. Seitdem habe ich nichts von ihm gehoert. :-(
+
+Gerade mal nachgeschaut, meine Mail habe ich am 27. Juni verschickt,
+vielleicht hat er da schon so viele Mails zu diesem Thema bekommen, dass er
+sie nicht mehr beantwortet hat...
+
+:>Gibt es inzwischen neue Infos zu diesem Problem? Loesungen?
+:>Hat jemand den Autor von Masche kontaktieren koennen?
+
+: Ich hab ihm am 23.6 gemailt, und er hat noch am selben Tag geantwortet.
+: Er werde sich das ansehen und ein Update rausbringen. Kann aber dauern,
+: weil er sehr beschäftigt sei. Seitdem warte ich auch...
+
+Waere ja schoen, wenn er das Problem auf der Webseite erwaehnen wuerde und
+den Usern mitteilt, was er deshalb zu tun gedenkt.
+
+:>Gibt es eine Alternative zu pmdb unter Windows?
+
+: Connect in Verbindung mit Culik.
+: http://cwn.PdpxmkqKlrniwg.lv/orxp/
+: http://kcr.ulrmxibmg.weo/
+
+Danke fuer die Links! Werde ich mir mal anschauen.
+
+: Wolf
+
+Ciao,
+	Luca.
+
+-- 
+Luca Landsrath
+E-Mail : ymkeshha@gu.qvc-lcyf.vb
+WWW    : http://tvk-lcmsoyr.ym.ljy-jpso.ug/~ynddpixa/

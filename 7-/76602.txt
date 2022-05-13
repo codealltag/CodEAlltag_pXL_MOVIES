@@ -1,0 +1,989 @@
+Alberts Jerling wrote: 
+
+
+[x]Done
+
+@all: Verbesserungsvorschläge? Mehr/Weniger Statistik?
+Ich wäre ja dafür bei bestimmten Werten einfach zu kürzen...i.e.
+weniger als 10 Posts etc. denn im Augenblick ist das ja eine ungeheure 
+Masse an Daten.
+
+Ich wäre bereit das dann immer so gegen Monatsanfang zu posten...
+wenn ich dran denke ;-)
+
+cu
+Salvatore
+
+---------------
+
+Statistics: Messages per Month (26.11.02 - 26.12.02)
+
+de.rec.film.misc
+2003.05	  1942
+2003.06	  1043
+
+-------------
+
+Header-statistics for: From:
+(based on msgs with bodies between 26.11.02 and 26.12.02)
+
+dy.xzn.vdnd.osfk
+	3921	100,00%	(probe count)
+	107	3,58%	Niko Johannpeter <xvncgs@rgfebyshwow.uh>
+	91	3,05%	Ivano Tränkner <cbrn@kwasi.cdx>
+	86	2,88%	"Niko I. Vögtle" <foiax@j.pqo.om>
+	76	2,55%	Alberts Jerling <owygcub@hhm.ls>
+	67	2,24%	Oswald Mehlem <Twkpjwdq.Rpmitku@gst.sx>
+	63	2,11%	Niko Kühlen <ljzkcvd.wqxnhk@pargyof.hj>
+	54	1,81%	Willibald Vogelbacher <gsrgcz.acngy@ggm.ecx>
+	48	1,61%	Johann Greiff <hyfwrq@acq.ur>
+	44	1,47%	tacxuxs@zyz.key (Perjfan Ezmuzuo)
+	42	1,41%	Winfried Trescher <pkzhiuu@egtsoc.cue>
+	37	1,24%	"Kai Imbach" <hofpxz24@scl.gf>
+	37	1,24%	albert hinterscheid <lgzdgowhbs@rtbvknlpbsq.ma>
+	36	1,21%	Vincent 'Valentin' Kulbars <wxlj-8695-24@quf-qimi.rz>
+	34	1,14%	Stefan Thilges' <iw@qekv-wryxcx.ht>
+	34	1,14%	Ulrich Lente <sjhznhukp@p-szfwhk.wq>
+	34	1,14%	Johann Gölzenlichter <KRIWDSUIBZBM@pwpuarlps.nab>
+	33	1,11%	"Veit Groenert" <uzkobjo@yyc.jm>
+	33	1,11%	Fredi Türcke <toymkd.acbah@twxlvcyxl.yvn>
+	32	1,07%	Winfried Niederprüm <czrzp@mqzfzcxn.kzb>
+	32	1,07%	Oswald Inderdohnen <uwnmzn.efvmfgv@dwlfunf.jw>
+	31	1,04%	Valentino Cleef <BHRJJK@fis.hr>
+	29	0,97%	y6894@bztcm.zu (Tguxxpj Actkjwvawo)
+	28	0,94%	Vincent Nienkirchen <wgcqgjc.kejzx@jzum.dy>
+	28	0,94%	"Engelbert M. Vogelhaupt" <ikd@vsc.tz>
+	28	0,94%	Ivo Muggenthaler <ytfo@tusktjayx.lg>
+	27	0,90%	gqbayyth.mtjpk@phx.kd (Vhhgpxya Iekgs)
+	26	0,87%	b7037@uotqf.tq (Tguxxpj Heidbrink)
+	26	0,87%	"Diedrich Ingenthron" <nksgmnu.woqfcqnw@qkvnex.ntfttus.gz>
+	25	0,84%	Jean-Pierre Mehlhaff <bubxmqw@bdj.zr>
+	23	0,77%	Ivano Ignatius <rrha@phoyilvm.nc>
+	23	0,77%	Johann Gert Heinzeler <beposgft@necmt.nj>
+	23	0,77%	Kai Trinkies' <ndao-beoaxb@bxt.ren>
+	23	0,77%	"Raphaël Wustmann" <wyeaia.feqaykfc-@plh.puv>
+	22	0,74%	Niko Waterstradt <exyua@pqhvzzxxh.ais>
+	22	0,74%	Enrico Mensinga <Imul_Cwmkhyld@huz.ku>
+	21	0,70%	Oswald Johannvorderbrüggen <wvv.tptmro@avw.ysv>
+	21	0,70%	Vlki_nbqsvmx@ebo.oawpsdxbehlju.xr (Viktor Eichblatt)
+	20	0,67%	Leopold Carer <oantom@drq.he>
+	19	0,64%	Karlheinz Nak <gxxiq_16@wvt.gui>
+	19	0,64%	Salvatore Jaske <hlljanu@qizvtd.oh>
+	19	0,64%	Viktor Jackob <mebzh@wnu.tb>
+	19	0,64%	Engelbert Loebeck <suwxhkgsq@ahxwdnethj.ea>
+	18	0,60%	Werner Tines <26473Plgao@hkq.qh>
+	18	0,60%	"Nils Imschweiler" <kdogtmuu@niphlhiaf.od>
+	17	0,57%	Kay Jaresch <lbNUJRCI@p4.qds>
+	17	0,57%	Klaas Daufratshofer <Nwlzge.Roptxv@qsz.rj>
+	16	0,54%	Guido Clemensen <kgnpn_enwpbyhc@yju.gp>
+	16	0,54%	Clemens Torberg <TrmdyPfsl@nspeepdbm.vsc>
+	15	0,50%	Torsten Inzenhofer <ldpayapx@lpt.dz>
+	15	0,50%	Valerio Nather <zwibpr.ewcfgdzgg@jkrc.abh-nusgzevc.dw>
+	15	0,50%	Guido Thimmel <rd@kprez.vh>
+	15	0,50%	Viktor Friesland <ufymtn_r@okg.kbz>
+	14	0,47%	Niko Schüle <vwnnclzg@cyfbzyxf.cd.zo.edj>
+	14	0,47%	"Jean-Paul Eßlage" <Yrzab.Ppkmtq@pxuab.ei>
+	14	0,47%	"Valerio Hilleringmann" <bpds32@tpg.kf>
+	14	0,47%	Erwin <Vgxjh.spqhqk@cpckki.ki>
+	13	0,44%	Vincent 'Valentin' Kulbars <dkyh-2259-10@pko-zdgj.lh>
+	13	0,44%	Enrico Ellenbürger <xvcd@yxrv.zi>
+	13	0,44%	Claudio Eisenbrandt <Ufbyq.Qttjqmf@fwj.yog>
+	13	0,44%	Torsten Uphaus <ivyqtiuc@obx.nr>
+	13	0,44%	Johannwille <cgbgfvqaibv@ylc.wd>
+	13	0,44%	Norman Beger <yszhr@lagvqxty-drxzkjztds.hvk>
+	13	0,44%	Viktor Inhetpanhuys <jxgf4zwnmxsuloo@xsougrjraddmk.xbl>
+	13	0,44%	"Oswald Hunkirchen" <it_va@hoy.rl>
+	12	0,40%	Werra Taprogge <mgkbosqYMISMK@nvg.xw>
+	12	0,40%	Michel Bekemann <lxcobl@end.gk>
+	12	0,40%	Onno Große-Onnebrink <bhchyagh@kvi.gx>
+	12	0,40%	Bärbel Isenhagen <pla@yoj.tl>
+	11	0,37%	qedn@ezm.gj (Tksij Rxzxevyvl)
+	11	0,37%	Ernst Fellehners <tvgqts@bhq.lef>
+	11	0,37%	Dennis Gerlings <ylt.psyhgcqkc@wvj.fz>
+	10	0,34%	Kurt Gmeineder <h-patrcif@gpy.lm>
+	10	0,34%	Joachim Thietje <hysfypmdz_sq@dcvtrnfafz.iqg>
+	10	0,34%	"Oswald Althof" <drc.alotgf@xtwix.dy>
+	10	0,34%	"Vito Flechsenhar" <LmhtigPgracy@qeq.vl>
+	10	0,34%	"Salvatore Jaske" <hlljanu@qizvtd.oh>
+	10	0,34%	Noah Faith <bkxdkotlptnr@evyle.ol>
+	10	0,34%	fgazgbmj2@dqw.tme (Wgnwn Dinkelborg)
+	9	0,30%	"Herbert Heintzelmann" <ybig5@jns.oo>
+	9	0,30%	fbrgflp@gsavdil-pjwbebodo.sm (yhfarxi xjydbcpdl)
+	9	0,30%	Viktor Woesthuis <acvutf.yfpkk@d-pugmdm.xa>
+	9	0,30%	"Torsten Int'Zandt" <oiaphxqc@ gvkxlvf.tv>
+	9	0,30%	wnd.fu@fwc.pt (Uko Lpbajgbli)
+	9	0,30%	Mario Issel <auafbrj@oswksmouw.wlh>
+	8	0,27%	fpsvnick <TYFYgdbt.csybm@lex.jxe>
+	8	0,27%	Ivo Schmidmann <nt@ihcxmku.mkfu>
+	8	0,27%	"Kurt Daferner" <Paxgzkrtc@utt.vip>
+	8	0,27%	Kai Errgang <cpxkkuest-xldazc@koj.xkk>
+	8	0,27%	Valentino N. Cleef <mu@awcwzqt.fqa>
+	8	0,27%	Clemens Torberg <XngucFjzi@gunltsbqq.nnk>
+	8	0,27%	"Fandrich Simon" <eexngdle@rms.bb>
+	8	0,27%	Eilt Willinghöfer <klynd@wqc.yv>
+	8	0,27%	zvhjwq@xzi.iq (Fdsyd)
+	8	0,27%	Eckhard Joedecke <wpelhd_i@pbpbt.cs>
+	7	0,23%	Björn Steegmüller <hlyjni@ggw-npbiui.vd>
+	7	0,23%	Michel Vormfenne <utun3828@sse-hivqd.ff>
+	7	0,23%	"Wilhelm Gumpendobler" <yxkjv067@h-rnvthm.ee>
+	7	0,23%	Klaas Uthoff <anvldt@pay-gjs.zy>
+	7	0,23%	"Frauke Eidam" <Qmvpbwykhwv.unvr.Jydwd@jpv.sw>
+	7	0,23%	"N.Teegelbeckers" <bmfa@ghbjgzpphr.xd>
+	7	0,23%	Ulrich Verwold <u.rfpar@jv-lv.ih>
+	7	0,23%	Carlo Thoennes <ugcegk@whzoh.ti>
+	7	0,23%	Nils Vreden <qgjgeq.jtt@obqj-ismbtnwtt.lq>
+	7	0,23%	Victor Mohrlock <vp.gl@dsm.pre>
+	7	0,23%	"Vincent Aufderstroth" <tvehoxss@vmqo.ffp-umwk.tu>
+	7	0,23%	"Volker Gäbelmann" <qruflm@uoy.ya>
+	7	0,23%	"Vincent Andresen" <aqsplmn90@zfn.sa>
+	6	0,20%	Victor Thews <vmms_@upr.zji>
+	6	0,20%	"Valerio Hellenbroich" <qulngh-orgozsjuo@w-zkbyhg.nf>
+	6	0,20%	Willi Iserlohn <bdimelhoewmn@xfw.gbq>
+	6	0,20%	"Ivano Adams" <quugwpsmp@mlm.hsz>
+	6	0,20%	"Kaspar Berghäuser" <imbxwsj@aat.fs>
+	6	0,20%	"Niko Tenbruck" <n_wcscff@zmejkrlwv.btj>
+	6	0,20%	"Engelbert Johanning" <fwxjip@etolbr.frx>
+	6	0,20%	Kurt Hagel <mxwdips@nqkfoitcn.if>
+	6	0,20%	xbczb@lywth-ozenjv.jo (Lqfjq Jxjqz)
+	6	0,20%	Karl Ißleb <Qopqa-Hcacrvbitc@okp.gty>
+	6	0,20%	"Valerius Friedlein" <rwl-uvvr@xuy.ps>
+	6	0,20%	Clemens Steinmacher <wsei@gdjpqa.rz>
+	6	0,20%	Otto Mestwerdt <bn@smzgmj.vvpmgji.ll>
+	6	0,20%	Raphaël Altenhofer <gdbki@xqymes.ns>
+	5	0,17%	Romana Dykmanns <bnsmrvv@ugr.jhc>
+	5	0,17%	Salvatore Johannpeter <mzsjab.fdjr@zhb.oa>
+	5	0,17%	Nicolas Schiestl <uxtzuk@ywka.al>
+	5	0,17%	"Nicolas Iler" <rgijfe@fbz.cn>
+	5	0,17%	Stefan Iserbeck <xwxxfgmxxdjmyq@sst.ge>
+	5	0,17%	Salvatore Inhofer <zndrjl@srgsszb.gn>
+	5	0,17%	Joël Vatheuer <jfegupvv.ihysbki.118521@eklkb.cw>
+	5	0,17%	Klaas Scharschmied <gnufegl.rcjxw@n-jhgevk.td>
+	5	0,17%	Volker Verstegen <c@wwrpdzy.hx>
+	5	0,17%	gali@ulywm.rtu (Ekljyxkzd Jaiqcc)
+	5	0,17%	"Vincent Pauß" <Fvqjreh_X@l-oymxvn.er>
+	5	0,17%	Paul Gumpendobler <ayyp@w16.xi>
+	5	0,17%	Volker Gronov <ppxpwv@exjnmq-zavuh.fs>
+	5	0,17%	Niko Jägg <tsmtbvmw@vwusatlzbp.qu>
+	5	0,17%	oksqyei@evod.pozitjkuwg.fgv-pz.ei (Lgiqtsbh Steinforth)
+	5	0,17%	Volker Veldhuis <8414@pfr.zxq>
+	5	0,17%	Massimo Niklas <jxxjlltf@dwa.bj>
+	4	0,13%	zuuuly@mef.jf (Jean Daniil)
+	4	0,13%	fbxdm@umnt.pd (Jean-Paul Nikolaus Gehrz)
+	4	0,13%	Thorsten Ickerodt <afokpks@lckzfbflh.rgs>
+	4	0,13%	Otto Junke <nbileslm@xxdoz-mcclw.ur>
+	4	0,13%	kbr@ohuhxrwgb.rot (Upvxgqzk Engelhard)
+	4	0,13%	sgoc@hibvra.nq (Ppdaxr Gehrz)
+	4	0,13%	Niclas Tschainer <ykjejusm@wei-hionuerz.yp>
+	4	0,13%	Ivo Alterauge <mu@awcwzqt.fqa>
+	4	0,13%	Volker Daufratshofer <nakhqu@vzmmvcyuyvti.gc>
+	4	0,13%	Niko Schönhaar <b.gsqegvd@ptmyxgq-7386-40-96.wuoezzgmi.ov>
+	4	0,13%	Volkmar Aschersleben <tloqhzwt@ts-qzjhfzl.dq>
+	4	0,13%	Ivano Holländers <uqptje@mvbkdkaqefpfs.kwe>
+	4	0,13%	"Erwin" <Vgxjh.spqhqk@cpckki.ki>
+	4	0,13%	Kay Cloos
+	4	0,13%	"Gerold Ellenkamp" <txglhs0.23.jcpaiq@uivzzfhdadw.vhm>
+	4	0,13%	"Engelbert D." <jfuxta.ujttligmz.ysr@dvdjh.pg>
+	4	0,13%	Kurt Nyman <vdzhvcf.ttkiiyk@ngowc.wg>
+	4	0,13%	Joachim Ahnsorge <zkcxihq@lcx.fm>
+	4	0,13%	"Klaas Schmidmann" <oetrig@mbgkrzmhevusft.xb>
+	4	0,13%	"Oscar Huche" <efobyg@wemoyu-jkckac.ch>
+	4	0,13%	Eilert Döhrer <jldcw@utkjteiwl.oax>
+	4	0,13%	"Ulrich Großekämper" <ydmuvc@yrhrfe-dmodhdvz.eg>
+	4	0,13%	"Noël N." <utjq@xzqxh.aeu.hv>
+	4	0,13%	"Ronny Meierdirks" <dviivg1880@udftonb.miz>
+	4	0,13%	"Viktor Tröscher" <vvvcuir@akr.me>
+	4	0,13%	"Volker Eigenseher" <YVVJ@tjtepp.ko>
+	3	0,10%	"Thierry" <pkoapocth@yruaqlqjbizjq.bwecj>
+	3	0,10%	"Vito Geisenhainer" <rqofyw@loyzm.huv>
+	3	0,10%	"Salvatore Große-Loheide" <iiivcrzc@ypdfgsx.pah>
+	3	0,10%	Engelbert Großhans <cd9sl@u-pwfwbi.al>
+	3	0,10%	"Geschenkeladen" <unnkintwutj@uaru.wv>
+	3	0,10%	Engelbert Bans <FpnorrTyagl@vui.tj>
+	3	0,10%	Otto Mestwerdt <mtmjtke.fdzmvc@pojoglm.lhp>
+	3	0,10%	Engelbert Intlekofer <Iffbne.Foggo@grsioed.go>
+	3	0,10%	Thierry Terschluse <anopu@bjf-x-xvrkxvao.cz>
+	3	0,10%	"Valerius Friedlein" <fcw85@udnvzzv.am>
+	3	0,10%	Eilert <hjhwfcob@exv.wsy>
+	3	0,10%	Pietro Dieter <gwzrlj@pzo.uh>
+	3	0,10%	izn@kba-rht.vx (Yjwulrrf Eggarth)
+	3	0,10%	"Viktor Depel" <volc_uxin@ohi.dc>
+	3	0,10%	Otmar Unhold <aloknqmyd.fbycivjmsp@k-dyqxty.bu>
+	3	0,10%	Eilert Isenreich <fmicfpcj.jitifr@iznda.fu>
+	3	0,10%	"Vincent Tambour" <ngnhufxjd@hpftpde-llylkyzrz.kl>
+	3	0,10%	Eilert Stelzen <ohxnq-ygk@qyw.veh>
+	3	0,10%	"Valerio Isenbiehl" <uyrttpdx@tdjajqc.mx-lvpdby.id>
+	3	0,10%	"Valerio" <tuhrelhl@rwuaqgp.euh>
+	3	0,10%	nety_gpwvgepFagZtsz@dde.ih (Odtv Eichblatt)
+	3	0,10%	"Kaspar Grohne" <Etpy.Xerukeg@gekmgb.wd>
+	3	0,10%	Nicolas Mannfrahs <liqucdwpkalw@d-gsrjcj.eb>
+	3	0,10%	"Engelbert Streitel" <pyidiq.p@ara.na>
+	3	0,10%	Niclas Andergassen <oivjt85@qgydkheu.qb>
+	3	0,10%	"Joachim N. Uphues, www.djkuerw.gt" <kvbbl@sdn.ho>
+	3	0,10%	Nicolas Isenheim <W.N.J.@joe.dag>
+	3	0,10%	Wilfried Bieneck <pnx.nlec@onmr-xkb-wxtw.ejh>
+	3	0,10%	Wilfried Jürss <dichqesykgru@rck.gd>
+	3	0,10%	"Engelbert D.weinbrenner" <h.rycsdno@y-zrlotl.av>
+	3	0,10%	"Engelbert Isselhorst" <ynzbariyw@yuo.sp>
+	3	0,10%	Elbzr@axwhtq-sp-kzrwq.im (Kbzji Locke)
+	3	0,10%	"Clemens Illenseher" <clfw@szmxifdwdjrvtaoxi.pj>
+	3	0,10%	Mark Heinkele <zlrtho.wre@p-gemqdf.el>
+	3	0,10%	Niko Vormbrocke <kotwzlc.ccfflrqz@gdioakf.ba>
+	3	0,10%	"Willi Ingendaa" <oldmhvdbbi@wca.ol>
+	3	0,10%	Niko Schönhaar <u.byhspci@czxbsyq-1386-55-41.kwrxqsnwm.gt>
+	3	0,10%	"Otto Tilman" <jcaixv.qfxlng@o-zrfwui.ol>
+	3	0,10%	"Willibald Theim" <ccsjipnvkh@sua.fj>
+	3	0,10%	"Stefan Everszumrode" <ucotskb@mnxe.qx>
+	3	0,10%	Onno Grunow <mu@awcwzqt.fqa>
+	3	0,10%	Klaas Janßon <fffh_mcea@m-ygzwld.ae>
+	3	0,10%	"Andreas Jäger" <t_sgyfw@srvasnt.etz>
+	3	0,10%	"Kim Illgen" <xkmwi@yyri-o.eh>
+	2	0,07%	Leopold Janßon <Vcnc_Zjqp@who.vk>
+	2	0,07%	Dennis Dennhoven <h.qdozw@cdznrzy.dy>
+	2	0,07%	Oliver Jeinsen <KVlhiugbi@tgx.adb>
+	2	0,07%	"Clemens Isernhinke" <gpexks@zsfxbxx.oye>
+	2	0,07%	Onno Grunow <hcwdolwmlc@web.gq>
+	2	0,07%	ecpjo@oe-nxe-glo.px (Ggek Anycym)
+	2	0,07%	Jean-Paul Iseken <vdajg@sucwhvxnf.vis>
+	2	0,07%	Onno Gelman <tovjpt@qlpoiio.hw>
+	2	0,07%	"J.Ingensand" <vqodygsfcd@moihtqv.ai>
+	2	0,07%	Kim Enggruber <mewv@run.tzd>
+	2	0,07%	"hlbmck" <dclp_b@lyi.uv>
+	2	0,07%	Oswald Fürste <ojasygls@bywcf.tkl>
+	2	0,07%	Nicolas Jungclaus <-gfvp-@ehhomoyqk.su>
+	2	0,07%	Karlheinz Troge <odelhr_syovmr_8320@huh.gk>
+	2	0,07%	vvpguj@zheogeo.qi (ciyqnn  italy)
+	2	0,07%	Nicolas Götschl <dpkzs@dwwxqehkbcvkd.ox>
+	2	0,07%	Willibald Buschbacher <qnrgm@zukrdu.pj>
+	2	0,07%	Ulrich Gräwe <fhmwy.rrvbps@qhmcq.st>
+	2	0,07%	duaw@zkavo.pl (Ykqlhm Sqzgwroali)
+	2	0,07%	"Roman Iser" <rpv@gowzmc.eu>
+	2	0,07%	"Q_CAISAZ" <qdjtjcb@jrz.fqe>
+	2	0,07%	Eilt Eikmeier <hlambyl.qfgrs@d-rtfpyo.zc>
+	2	0,07%	"Niko Ibele" <fsbwth@tbzpp.lvr>
+	2	0,07%	Uda Helck <jcifciwsfl@qwy.xy>
+	2	0,07%	Herbert Feuerhahn <mfyshdzj@girkqyag.db>
+	2	0,07%	Klaas Isenbügel <ytciqm@zr-fokxr.tk>
+	2	0,07%	"Noël K. Altenburg" <xxz@iqspakkpzc.gk>
+	2	0,07%	fdtrhmi74@prnfj.kc (Qfmrxhg Xlrcnt)
+	2	0,07%	Klaas Uthenwold <aopirafcrtj@nkmcwjxcql.xv>
+	2	0,07%	Kai Jablonsky <ui-zbnnbu@kxa.pj>
+	2	0,07%	yx@xvlzbl.zev (Pezossa Kqidczbv)
+	2	0,07%	Volkmar Trautwieser <nwakt@qnl.ut>
+	2	0,07%	"Torsten Ickerodt" <zuej_dqk704@xxm.md>
+	2	0,07%	Volker Dillage <gygn@vkxeelqzox.dsg>
+	2	0,07%	Valerius Jenjahn <Kcnlcb.Gjzgpjplgczgi@a-fshvxm.ny>
+	2	0,07%	Victor Thiveßen <O.Ejbzkfw@ps-wpebtqdnwl.rz>
+	2	0,07%	Nina Lers <hdmmat@hql.ei>
+	2	0,07%	cgjwbtniqwpdlb9@mnmxca.fp (qxk)
+	2	0,07%	Alex Jeuschede <ybubm.vueukls.vmj@kjej-mqblhm.be>
+	2	0,07%	Jutta Hörnlein <Feog@lxp.yib>
+	2	0,07%	Vincent Tennstedt <qgosb@ir.eqe.jl>
+	2	0,07%	kcutlbd@pbh.pw (Cpuaevg.Cqoq)
+	2	0,07%	Vito Tahl <qx46327879@zozczdg.zv>
+	2	0,07%	Vincent Jaschke <qbro@fayr.xch>
+	2	0,07%	vuam@gli.yu (Perjfan Jmfssq)
+	2	0,07%	"Torsten Unferfert" <TmtbZizu@x-rxkbbm.bh>
+	2	0,07%	Volker Schiestl <pindjd@h-qhrahd.ua>
+	2	0,07%	Valentino Grotkopf <hdbdew@rtv-jxhrsgjli.oi>
+	2	0,07%	"Torsten Jenzsch" <m.jwsqsha@q-adejxd.fl>
+	2	0,07%	"Gregor Ibe" <mmjpyjab@prw.gg>
+	2	0,07%	"Vincent Matiwe" <jbxhzwso@iep.ge>
+	2	0,07%	"Gernot Weilerbach" <xkgobpd@o-clrklg.uq>
+	2	0,07%	Reinhard 'stefano Maaßmann <6.92@xiqqbcr.ggn>
+	2	0,07%	"Ulrich O. Jaenke" <gpm@dyx.ksy>
+	2	0,07%	"Vincent Ingenwerth" <pjtwfgp.twfnbaoz34@burex.vl>
+	2	0,07%	"Vincent Däschler" <bzzf@ysff.mh>
+	2	0,07%	"Joachim Inderbieten" <isrkxq@ndxpxaupsm.dlr>
+	2	0,07%	Maike Alberti <kixglmeqgf@cijgp.iyl>
+	2	0,07%	"Vincent Errgang" <FjwhpsqYzjs@luq.ktw>
+	2	0,07%	"Kurt Iller" <xsjdj@o-lthqcj.qw>
+	2	0,07%	ylxtmzsg@erp.wsz (TfPkbswf)
+	2	0,07%	Torsten Blöhbaum <hgqpl@zvoegkantczz.bdb>
+	2	0,07%	"Engelbert Johanning" <ckukkl-pkcnaxy@qmqwty.rz>
+	2	0,07%	"Elias Probach" <ufbsm@krqwyfwmm.crm>
+	2	0,07%	"Stefan Gumpendobler" <mwaktmbg@kmz.uw>
+	2	0,07%	i.c94@iuy.pln (gndewljhtzks)
+	2	0,07%	Ivo Durchdewald <g3@wuvzv.oruojd.gh>
+	2	0,07%	"Eilert Aulbach" <yacelxrnrrb@qvg.fzx>
+	2	0,07%	Timo Ingenstau <rvtzvl@fjf.vq>
+	2	0,07%	"Pietro Schwand" <urvmwxyzvure@kur.fu>
+	2	0,07%	"Kathi Kümpflein" <LhwmlfqJ@xzt.pl>
+	2	0,07%	Nicolas Leischner <dwoivwuw@lvtihye.fhs>
+	2	0,07%	"Ramona Irnich" <akd-jygyk9@wdj.xz>
+	2	0,07%	"Viktor Nießner" <gvcobswnp@syr.sb>
+	2	0,07%	"Oscar Hessmann" <ffwir.ymwacwcds@aou.eo>
+	2	0,07%	puspbo@pypz.ar (Vpkev Peaoof)
+	2	0,07%	Noah Just <yxgqgmvg@adztsbq.app-pkdzbujff.sr>
+	2	0,07%	Nils Imgrunt <afledws@mv-hgkmhpe.ob>
+	2	0,07%	"Arthur Grabow" <xkneux@jur.kd>
+	182	6,10%	(others)
+
+
+-----------------
+
+Header-statistics for: Subject: (Re:/was: skipped)
+(based on msgs with bodies between 26.11.02 and 26.12.02)
+
+de.rec.film.misc
+	2985	100,00%	(probe count)
+	196	6,57%	Kurze Eindrücke: Matrix Reloaded
+	166	5,56%	nochmal Matrix - wer hat ALLES verstanden?
+	158	5,29%	Abfilmer abschrecken
+	125	4,19%	[META] Musik in SciFi-Filmen
+	76	2,55%	Matrix Reloaded: Der beste Film aller Zeiten!
+	72	2,41%	Asis im Kino
+	67	2,24%	Matrix2 - Noch eine Meinung - !!!Spoiler!!!
+	57	1,91%	die besten filme?
+	54	1,81%	Frage zu Matrix Reloaded *SPOILER*
+	49	1,64%	Kleine Vorschau
+	45	1,51%	Matrix: Hauptsache Fortsetzung
+	40	1,34%	Werbung im Kino
+	37	1,24%	2 Tage haltbare DVD's
+	37	1,24%	"The Rock"-Filmmusik - sie ist überall
+	35	1,17%	Matrix Reloaded und die ganze Kritik... (fast kein Spoiler)
+	35	1,17%	Seltsame Dinge in der Matrix und was uns die Zukunft bringen wird...
+	32	1,07%	Matrix Reloaded - Löffel
+	32	1,07%	Warum die Fragen?
+	32	1,07%	Kinoerfolge mit langem Atem gesucht
+	32	1,07%	Matrix Reloaded-Gedanken
+	31	1,04%	[intern] FAQ
+	27	0,90%	Matrix: noch vier Fragen
+	27	0,90%	[OT?] Merkwürdige Blüten des neuen
+	26	0,87%	Matrix Reloaded - Kurzkritik
+	25	0,84%	Film gesucht - Bikinimaedels mit Kalaschnikovs
+	24	0,80%	HURRA!
+	23	0,77%	Kritik: 28 days later - 28 Tage später
+	23	0,77%	Galabau Wiedereröffnung heute in Marlishausen
+	23	0,77%	German movies - request
+	22	0,74%	"Brazil" Gaues-Release FSK12 nicht Originallaufzeit
+	22	0,74%	Kurzkritik: Hero
+	21	0,70%	Kurze Eindrücke: Vito
+	20	0,67%	Was wäre wenn... Matrix und andere Regisseure
+	20	0,67%	X2 - Filmfehler
+	19	0,64%	BORG Spruch gesucht.
+	19	0,64%	Matrix Reloaded - zu komplex für das Kino?
+	19	0,64%	25th Hour
+	19	0,64%	noch ein Matrix-Thread: Musik
+	19	0,64%	OF: dt. Kopie mit engl. Ton
+	18	0,60%	Matrix2 Reloaded - Kinoposter gesucht
+	18	0,60%	Kritik: X-Men 2
+	16	0,54%	Dialoge von Matrix!
+	16	0,54%	Sneak Tip ??
+	16	0,54%	FILMWARNUNG: Halbtot
+	16	0,54%	Gölbasi - Dialog Frage
+	16	0,54%	"Schöner" Filmvorspann gesucht
+	16	0,54%	State 51 / Formula 51
+	15	0,50%	X2
+	15	0,50%	Goofs
+	15	0,50%	Warum trägt Georg Sonnenbrille?
+	14	0,47%	FSK-Einstufung fuer 28 days later
+	14	0,47%	resident evil 2
+	13	0,44%	Brauche Hilfe bei ABIfilm
+	13	0,44%	Animatrix vor oder nach dem Film
+	13	0,44%	Matrix Nr. 3
+	13	0,44%	AniMatrix
+	12	0,40%	City Of God - Kurzkritik
+	12	0,40%	Synchros
+	12	0,40%	Deutscher Filmpreis
+	12	0,40%	Hero - Ästhetik und der Jammer mit der message
+	12	0,40%	V:DVDs
+	11	0,37%	Matrix: Was schimpft der Franzose?
+	11	0,37%	Sherlock Holmes PLPP Edition komplett auf DVD!!
+	11	0,37%	Hero - Ästhetik und der Jammer mit
+	11	0,37%	[OT?] Merkwürdige B
+	10	0,34%	Verfilmte Lyrik - "Poem"
+	10	0,34%	Japanische version von The Ring
+	10	0,34%	Die 173. Matrix Theorie (mit Spoiler)
+	10	0,34%	Matrix2 - Conspirations
+	10	0,34%	Spoiler! Matrix Reloaded - Kurzkritik
+	10	0,34%	Laufzeit Dante's Peak?
+	10	0,34%	Matrix 2: Fragen zu Figuren
+	10	0,34%	Filmkritik: Wilfried Tönsen Pinocchio
+	10	0,34%	Suche Film
+	9	0,30%	[SPOLIER] Re: Matrix - Dialog Frage
+	9	0,30%	OV, OmU oder Synchro
+	9	0,30%	[Suche] Filme zu Liedern & anderes
+	9	0,30%	Fragen zu "Lola rennt"
+	9	0,30%	"Golden Years" von Kay Gronwaldt
+	9	0,30%	Frage zu "Abwärts"
+	9	0,30%	The Transporter - Meine Kritik
+	9	0,30%	Enrico Ingendae as himself in Tom Raider 2?
+	9	0,30%	Matrix - ein bisschen mehr Humor
+	9	0,30%	Kurzkritik: Hero SPOILER
+	9	0,30%	IMDb: ffv.morb.gcx tot?
+	9	0,30%	SF-Jugendfilm gesucht
+	9	0,30%	Hero - Ästhetik und der Jammer mit der
+	8	0,27%	Waldemar - Das Original, was'n das fuer ein Bild?!?
+	8	0,27%	GERMAN FILMS I NEED TO FIND
+	8	0,27%	Kritik: 28 days lat
+	8	0,27%	Kritik: Matrix Reloaded (2002)
+	8	0,27%	Niembs Lenk / Nils Mehlhaff Zwistigkeiten?
+	8	0,27%	australischer Film "Siam Sunset"
+	7	0,23%	Soylent Green, woher ??
+	7	0,23%	Metamorphose auf Video
+	7	0,23%	Cinema Preisausschreiben zu Terminator
+	6	0,20%	Frage Musikverwendung/Gema
+	6	0,20%	Fantaberger Fechter schließt
+	6	0,20%	Minority Report
+	6	0,20%	[OT?] Merkwürdige Blüten des neuen    Juge
+	6	0,20%	Unglaublich - de.rec.tv.serien existiert
+	6	0,20%	Und noch einmal in Amerika
+	6	0,20%	Drei Farben DVD Boxset: Sprache
+	6	0,20%	Syncros
+	6	0,20%	Ghost Dog: Ausgabe des Buchs "Hagakure"?
+	6	0,20%	Clemens Inhülsen
+	6	0,20%	Film gesucht!
+	6	0,20%	Suche Film aus meiner Kindheit! Dringend
+	6	0,20%	Amerikanische Serie gesucht
+	6	0,20%	Matrix Reloded: Meine 0,02 EUR - Schlussfolgerungen und Fragen
+	5	0,17%	the names of the seven dwarfs
+	5	0,17%	Matrix Reloaded-Trailer auf deutsch
+	5	0,17%	Oh Bruder...
+	5	0,17%	Eine Grundlegende Frage zu Matrix SPOILER
+	5	0,17%	Wer spricht das kleine Arschloch?
+	5	0,17%	Once Upon 1
+	5	0,17%	[ comcorder ] Einsteiger
+	5	0,17%	Titel gesucht: Frau und Staubsaugervertreter
+	5	0,17%	Star Wars Episoden 4 - 6
+	5	0,17%	[OT?] Merkwürdige Blüten
+	5	0,17%	Huch?
+	5	0,17%	Product Placement
+	5	0,17%	Final Destination...
+	5	0,17%	Matrix Reloaded Soundtrack: Dickes Lob an Agubi
+	5	0,17%	M:R Ein typischer zweiter Teil?
+	5	0,17%	Review: The Transporter
+	4	0,13%	Animatrix Free-TV-Premiere
+	4	0,13%	[OT?] Merkwürdige Blüten des neuen Jugenschutzrechts
+	4	0,13%	[Suche] Liste aller Pierre Neyenhaus Filme
+	4	0,13%	Hollywood stinkt
+	4	0,13%	OT: S: ältere Deutsche Schauspieler
+	4	0,13%	Im Juli - Gedicht aus der Bibel ?
+	4	0,13%	Matrix 2 - Revolutions Teaser nach dem Abspann, Inhalt?
+	4	0,13%	Abwicklung, unerledigt
+	4	0,13%	Morgen, 20.30 Uhr
+	4	0,13%	28 Days later
+	4	0,13%	Action-Reisser
+	4	0,13%	tausche vcd durch post
+	4	0,13%	Was wäre wenn... Matrix und andere
+	4	0,13%	Suche Filmtitel...
+	4	0,13%	EOS 300 - Teilbelichteten Film wieder benutzen
+	4	0,13%	Filmname vergessen
+	4	0,13%	Probleme mit Firewire-Überspielung von Camkorder
+	4	0,13%	edtv
+	4	0,13%	Frage zu "Der lange, heiße Sommer" mit Simon Larsson
+	4	0,13%	Equilibrium Syncro - Woher?
+	4	0,13%	Theresia - Frage
+	4	0,13%	Schau mir in die Augen Kleines - Sprachvariationen
+	4	0,13%	"Zion" in Matrix [war: Matrix - Dialog Frage]
+	4	0,13%	Suche, alte film mit Johann Jakobs
+	4	0,13%	Winnetou III
+	4	0,13%	Screenshots - Stirb langsam Teil 2
+	3	0,10%	Suche alten Filmtitel über Mondlandung
+	3	0,10%	Desperado 2 (was. Re: Kleine Vorschau)
+	3	0,10%	wenn ich jetzt noch ne Thread starte, hab ich nen Hatrick...
+	3	0,10%	3 comics zur Matrix Premiere
+	3	0,10%	Der Fluch von Darkness Falls
+	3	0,10%	Hero - Ästhetik und der Jammer mit der  message
+	3	0,10%	suche filmtitel
+	3	0,10%	Tango am Ende von "True Lies"
+	3	0,10%	"Nackt"
+	3	0,10%	Viele Fragen zu "Jacobs Ladder"
+	3	0,10%	so.. jetzt such ich auch mal nen Film...
+	3	0,10%	Tanz der Vampire auf DVD?
+	3	0,10%	"Und täglich grüsst das Murmeltier" (Ground Hog's Day)
+	3	0,10%	V: DVD
+	3	0,10%	Suche einen Zeichentrickfilm
+	3	0,10%	Dieter Griepp spielt Zuckerkranken?
+	3	0,10%	Probleme mit Firewire-Uberspielung von Camkorder
+	3	0,10%	Franz. Film gesucht
+	3	0,10%	Ein paar Fragen zu "Good bye Lenin" (Spoiler möglich)
+	3	0,10%	OLIVER vs OLIVER Special Edition
+	3	0,10%	DVD
+	3	0,10%	Filmfinanzierung
+	3	0,10%	[OT?] Merkwürdige Blüten des
+	3	0,10%	Kurze Eindr?cke: Matrix Reloaded
+	3	0,10%	"Und täglich grüsst das Murmeltier"
+	3	0,10%	Western gesucht: Etwas mit einem Zug
+	3	0,10%	X-Men 2 ohne ersten Teil?
+	3	0,10%	[OT?] Merkwürdige Blüten des neuen Jug
+	3	0,10%	Eine Grundlegende Frage zu Matrix MASSIVE SPOILER
+	3	0,10%	Zitate Unforgiven
+	2	0,07%	vcd verkauf ider tausch
+	2	0,07%	Uebersetzungen
+	2	0,07%	Thunderbirds
+	2	0,07%	Sex and the city 12.12 gesucht
+	2	0,07%	Tesis
+	2	0,07%	Physik der Matrix
+	2	0,07%	[OT?] Merkwürdige B löten des neuen Jug   enschutzrechts
+	2	0,07%	"Zion" in Matrix
+	2	0,07%	Product Placement [war: Abfilmer abschrecken]
+	2	0,07%	Die wievielte Matrix?
+	2	0,07%	Deutsche Synchronstimme von Nils Solter in "Colette Grieser"
+	2	0,07%	Bärbel Gehrk
+	2	0,07%	Hero - Ästhetik und
+	2	0,07%	Oscar Schwerdtfeger & Niclas Ilzhöfer
+	2	0,07%	Kino-Empfehlungen [war: Asis im Kino]
+	2	0,07%	MR-Ware Online zu "Matrix Reloaded"
+	2	0,07%	"Schrei nach Leben"
+	2	0,07%	Wutprobe: Eskimo-Spruch
+	2	0,07%	Filmkritik: Leben oder so ähnlich
+	2	0,07%	x2 - Keiner dagegen?
+	2	0,07%	Filmkritik: Das Dschungelbuch
+	2	0,07%	"Schöner" Filmvorsp
+	2	0,07%	Game bei pztzgeij.nx
+	2	0,07%	Suche: Volker Theyson  "Die 90 veruecktesten ...
+	2	0,07%	Star Wars in Ifud '10. 11. 21-Version: unerträglich!
+	2	0,07%	KVK in Mönchengladbach
+	2	0,07%	Ilzhöfer. war Film gesucht (knifflig)
+	2	0,07%	FANTABERG TWÜSCHENWEG
+	2	0,07%	Film "De Lift"
+	2	0,07%	Matrix Reloaded-Score: die erste TV-Verwurstung!
+	2	0,07%	Matrix XP
+	2	0,07%	an observation
+	2	0,07%	4 comics zur Matrix Premiere
+	2	0,07%	komische Theorie, was: Re: Matrix Reloaded - Löffel
+	2	0,07%	Comic über die geplante Indiana Jones DVD
+	2	0,07%	Was wäre wenn... Matrix und
+	2	0,07%	Das fröhliche Themanklauen geht weiter...
+	2	0,07%	Soundtrack Raumpatrouille Orion
+	2	0,07%	Blue Velvet - Frage (ROT13)
+	2	0,07%	Check Out These - and earn money..!!
+	2	0,07%	Franz Dwelck - Meine Nacht bei Romana
+	102	3,42%	(others)
+
+----------
+
+DAU Ulle ;-) (Ranking)
+(based on msgs with bodies between 26.11.02 and 26.12.02, i.e. not killfiled yet ...)
+
+de.rec.film.misc
+Pos.	DAUs	Msgs	Ratio	Who
+1	71	1	71,00	Frank Willibald
+2	240	4	60,00	Kay Cloos
+3	55	1	55,00	Ottmar Gädicke
+4	165	3	55,00	Geschenkeladen
+5	89	2	44,50	Joachim Inderbieten
+6	85	2	42,50	Rosa.Rachel
+7	38	1	38,00	Arzt
+8	215	6	35,83	Kaspar Berghäuser
+9	245	7	35,00	Wilhelm Gumpendobler
+10	35	1	35,00	no-spam
+11	174	5	34,80	Niko Jägg
+12	451	13	34,69	Viktor Inhetpanhuys
+13	92	3	30,67	Valerio
+14	58	2	29,00	Vito Tahl
+15	656	23	28,52	Raphaël Wustmann
+16	85	3	28,33	Thierry
+17	467	17	27,47	Kay Jaresch
+18	27	1	27,00	Gerard Peiffer
+19	305	12	25,42	Werra Taprogge
+20	25	1	25,00	T. Anderheiden
+21	100	4	25,00	Engelbert D.
+22	175	7	25,00	Carlo Thoennes
+23	25	1	25,00	Wilma Schöpfel
+24	25	1	25,00	Willibald Imgrunt
+25	25	1	25,00	Volker Nunenmann
+26	24	1	24,00	Theodor
+27	23	1	23,00	Clemens Jähnke
+28	22	1	22,00	Ulrich Thünnißen
+29	213	10	21,30	Claudio Dinkelborg
+30	140	8	17,50	Valentino N. Cleef
+31	33	2	16,50	Kurt Iller
+32	49	3	16,33	Eilert
+33	144	9	16,00	Valerius Friedlein
+34	285	18	15,83	Erwin
+35	47	3	15,67	Vito Geisenhainer
+36	122	8	15,25	Engelbert Johanning
+37	15	1	15,00	Victor Johann Nothelle
+38	120	8	15,00	bikmnick
+39	30	2	15,00	Maike Alberti
+40	44	3	14,67	Klaas Janßon
+41	14	1	14,00	Torsten Grause
+42	13	1	13,00	Vincent Guttknecht
+43	164	13	12,62	Claudio Eisenbrandt
+44	25	2	12,50	Raphaël Dörries
+45	12	1	12,00	Eilert
+46	12	1	12,00	Engelbert Jörgens
+47	23	2	11,50	Stefan Gumpendobler
+48	79	7	11,29	N.Teegelbeckers
+49	11	1	11,00	Jan Inderthal
+50	11	1	11,00	Luuhuxqi
+51	11	1	11,00	Wilfried Zillekens
+52	11	1	11,00	Pietro Gölder
+53	77	7	11,00	Niko Schönhaar
+54	11	1	11,00	imftcqj34
+55	22	2	11,00	J.Ingensand
+56	11	1	11,00	Ilka
+57	11	1	11,00	KOEMCB
+58	11	1	11,00	Joachim
+59	22	2	11,00	Nils Imgrunt
+60	141	13	10,85	Ipvrujrosjd
+61	32	3	10,67	Engelbert Intlekofer
+62	220	21	10,48	Oswald Johannvorderbrüggen
+63	142	14	10,14	Jean-Paul Eßlage
+64	774	28	10,04	Vincent Nienkirchen
+65	60	6	10,00	Willi Iserlohn
+66	10	1	10,00	Fvdnee
+67	10	1	10,00	Ernest
+68	20	2	10,00	sggmazyyoqqe
+69	10	1	10,00	FRANK
+70	10	1	10,00	jhzzuvw
+71	10	1	10,00	Torsten Ibler
+72	10	1	10,00	ltbhqk.yeerhcq@iog.ocz
+73	10	1	10,00	Franz Lutzenberger
+74	10	1	10,00	Stefan Janek
+75	10	1	10,00	nqacykp
+76	10	1	10,00	Otbnk
+77	10	1	10,00	Vinzenz
+78	80	8	10,00	Igor
+79	10	1	10,00	Ivo
+80	10	1	10,00	edouard
+81	10	1	10,00	christoph
+82	10	1	10,00	Hinrich Miroff
+83	10	1	10,00	Calibrator
+84	10	1	10,00	Oscar
+85	10	1	10,00	kaspar
+86	10	1	10,00	Niclas Köchlin
+87	20	2	10,00	didier
+88	10	1	10,00	Veit
+89	20	2	10,00	Ingo
+90	19	2	9,50	Ulrich Jendrich
+91	19	2	9,50	hlbmck
+92	27	3	9,00	Willibald Theim
+93	58	7	8,29	Michel Vormfenne
+94	58	7	8,29	Vincent Aufderstroth
+95	121	15	8,07	Valerio Nather
+96	46	6	7,67	Valerio Hellenbroich
+97	60	8	7,50	Fandrich Simon
+98	82	11	7,45	Thierry Unmuth
+99	29	4	7,25	Volker Eigenseher
+100	7	1	7,00	Wilfried Ingenweyen
+101	7	1	7,00	Roman Eichenseher
+102	7	1	7,00	Eilert Winkelsträter
+103	173	25	6,92	Jean-Pierre Mehlhaff
+104	102	15	6,80	Torsten Inzenhofer
+105	121	18	6,72	Nils Imschweiler
+106	20	3	6,67	Otto Tilman
+107	52	8	6,50	Ivo Schmidmann
+108	13	2	6,50	Dennis Dennhoven
+109	13	2	6,50	Vincent Matiwe
+110	13	2	6,50	Ulrich Gräwe
+111	32	5	6,40	Nicolas Mannfrahs
+112	121	19	6,37	Viktor Jackob
+113	12	2	6,00	Niko Ibele
+114	24	4	6,00	Klaas Schmidmann
+115	12	2	6,00	Viktor Nießner
+116	24	4	6,00	Viktor Tröscher
+117	6	1	6,00	Nicolas Ilinseer
+118	6	1	6,00	Salvatore Uthoff
+119	36	6	6,00	Ivano Adams
+120	6	1	6,00	Nicolas Neidel
+121	6	1	6,00	Rebecca & Otmar Schinzl
+122	12	2	6,00	Lennart Grabow
+123	12	2	6,00	Eilert Aulbach
+124	6	1	6,00	Johannes Iseken
+125	18	3	6,00	Clemens Illenseher
+126	282	48	5,88	Johann Greiff
+127	45	8	5,63	Eilt Willinghöfer
+128	44	8	5,50	Volker Gäbelmann
+129	11	2	5,50	Gernot Weilerbach
+130	170	33	5,15	Veit Groenert
+131	319	63	5,06	Niko Kühlen
+132	55	11	5,00	Ernst Fellehners
+133	5	1	5,00	Valerius Reissenweber
+134	10	2	5,00	Victor Thiveßen
+135	5	1	5,00	Valentino Diem
+136	10	2	5,00	Valentino Grotkopf
+137	15	3	5,00	Salvatore Große-Loheide
+138	5	1	5,00	Veit Inderkämpen
+139	5	1	5,00	Dieter Ewerle
+140	10	2	5,00	Vincent Derstorff
+141	25	5	5,00	Klaas Scharschmied
+142	30	6	5,00	Kurt Hagel
+143	5	1	5,00	Pietro Ihrens
+144	5	1	5,00	Vincent Gardner
+145	55	11	5,00	Dennis Gerlings
+146	13	3	4,33	Engelbert Isselhorst
+147	13	3	4,33	Thierry Terschluse
+148	12	3	4,00	Jean-Pierre Locke
+149	8	2	4,00	Ulrich O. Jaenke
+150	70	19	3,68	Karlheinz Nak
+151	125	34	3,68	Stefan Thilges'
+152	54	15	3,60	Viktor Friesland
+153	14	4	3,50	Ronny Meierdirks
+154	7	2	3,50	Ramona Irnich
+155	14	4	3,50	Jean-Paul Nikolaus Gehrz
+156	10	3	3,33	Nicolas Isenheim
+157	22	7	3,14	Frauke Eidam
+158	172	55	3,13	Niko Heidbrink
+159	37	12	3,08	Michel Bekemann
+160	24	8	3,00	Kurt Daferner
+161	3	1	3,00	Traude Trier
+162	3	1	3,00	Ivano G d l i feldhoff l
+163	9	3	3,00	Engelbert D.weinbrenner
+164	48	16	3,00	Guido Clemensen
+165	3	1	3,00	Viktor Topfel
+166	3	1	3,00	Stefan Wienhöft
+167	3	1	3,00	Valentino Clüver
+168	12	4	3,00	Niclas Tschainer
+169	3	1	3,00	Clemens Inhester
+169	91	31	2,94	Valentino Cleef
+171	97	34	2,85	Johann Gölzenlichter
+171	65	23	2,83	Ivano Ignatius
+172	35	13	2,69	Oswald Hunkirchen
+174	87	33	2,64	Fredi Türcke
+174	5	2	2,50	Leopold Janßon
+176	5	2	2,50	Volkmar Ingenillm
+177	10	4	2,50	Kurt Nyman
+178	22	9	2,44	Torsten Int'Zandt
+179	11	5	2,20	Eilert Steinforth
+180	10	5	2,00	Stefan Iserbeck
+181	2	1	2,00	Ivo Anetzeder
+182	10	5	2,00	Volker Gronov
+183	10	5	2,00	Salvatore Johannpeter
+184	2	1	2,00	Claus Marco Gäbelmann
+185	10	5	2,00	Vincent Pauß
+186	44	24	1,83	Viktor Eichblatt
+187	23	13	1,77	Norman N.Barrenbrügge
+188	45	26	1,73	Diedrich Ingenthron
+189	5	3	1,67	Mark Heinkele
+190	15	9	1,67	Herbert Heintzelmann
+191	16	10	1,60	Vito Flechsenhar
+192	167	107	1,56	Niko Johannpeter
+193	15	10	1,50	Oswald Althof
+194	3	2	1,50	Pietro Schwand
+195	15	10	1,50	Kurt Gmeineder
+196	35	24	1,46	Clemens Torberg
+197	11	8	1,38	Eckhard Joedecke
+198	38	28	1,36	Engelbert M. Vogelhaupt
+199	66	49	1,35	VinzenzVolkmar Kulbars
+200	4	3	1,33	Andreas Jäger
+201	32	27	1,19	Oscar Imroth
+202	14	12	1,17	Bärbel Isenhagen
+203	15	14	1,07	Valerio Hilleringmann
+204	3	3	1,00	Viktor Depel
+205	1	1	1,00	Werner Jünemann
+206	1	1	1,00	Eckhard Ingenfeld
+207	1	1	1,00	Inga Utermöle
+208	1	1	1,00	Valerio Junggunst
+209	3	3	1,00	Valerio Isenbiehl
+210	2	2	1,00	Roman Iser
+211	1	1	1,00	Valentino Knötzele
+212	1	1	1,00	Volker Egg
+213	2	2	1,00	IVO
+214	1	1	1,00	Ulla Resch
+215	1	1	1,00	Ivo Nimscholz
+216	5	5	1,00	Volker Veldhuis
+217	1	1	1,00	Ivano Voets
+218	1	1	1,00	Niko Bajer
+219	3	3	1,00	Willi Ingendaa
+220	1	1	1,00	Nicolas Isenböck
+221	4	4	1,00	Ulrich Großekämper
+222	1	1	1,00	Volkmar Antony
+223	1	1	1,00	Schachtsieck, Jean-Pierre
+224	2	2	1,00	Torsten Blöhbaum
+225	3	3	1,00	Vincent Tambour
+226	2	2	1,00	Oscar Hessmann
+227	2	2	1,00	Kathi Kümpflein
+228	1	1	1,00	Ilse Uthoff
+229	5	5	1,00	Onno Grunow
+230	2	2	1,00	Vincent Errgang
+231	1	1	1,00	Eilert Geschwent
+232	1	1	1,00	Vincent Scharnagel
+233	2	2	1,00	Vincent Däschler
+234	1	1	1,00	Engelbert Creuzberger
+235	1	1	1,00	Clemens Grässer
+236	10	10	1,00	Joachim Thietje
+237	9	9	1,00	Mario Issel
+238	3	3	1,00	Kaspar Grohne
+239	2	2	1,00	Elias Probach
+240	1	1	1,00	Joachim Mayerl
+241	1	1	1,00	Jean-Luc Duve
+242	3	3	1,00	Kim Illgen
+243	2	2	1,00	Gregor Ibe
+244	1	1	1,00	Nicolas Ingendahl
+245	1	1	1,00	Michel Voßkuhl
+246	1	1	1,00	Walburga Johanning
+247	1	1	1,00	Eilert Reiffer
+248	1	1	1,00	Dietrich Schielein
+249	1	1	1,00	Carsten Ilse
+250	1	1	1,00	Gert Huttenlau
+251	1	1	1,00	Waltraud Schoenrade
+252	2	2	1,00	Karlheinz Troge
+253	2	2	1,00	Torsten Unferfert
+254	1	1	1,00	Eilert Intveen
+255	1	1	1,00	Dennis Eckhoff
+256	35	37	0,95	Kai Imbach
+257	12	13	0,92	Torsten Uphaus
+258	10	12	0,83	Onno Große-Onnebrink
+259	21	29	0,72	Salvatore Jaske
+260	13	18	0,72	Werner Tines
+261	29	42	0,69	Winfried Trescher
+262	6	9	0,67	Otto Mestwerdt
+263	1	2	0,50	Torsten Jenzsch
+264	25	54	0,46	Willibald Vogelbacher
+265	10	23	0,43	Oswald Gert Heinzeler
+266	3	7	0,43	Klaas Uthoff
+267	1	3	0,33	Engelbert Großhans
+268	10	32	0,31	Winfried Niederprüm
+269	1	4	0,25	Gerold Ellenkamp
+270	1	4	0,25	Oscar Huche
+271	10	44	0,23	Vincent Fehsenfeld
+272	11	91	0,12	Ivano Tränkner
+273	1	9	0,11	Viktor Woesthuis
+274	1	34	0,03	Ulrich Lente
+
+------------
+Header-statistics for: X-Newsreader:, X-Mailer:, User-Agent:
+(based on msgs with bodies between 26.11.02 and 26.12.02)
+
+de.rec.film.misc
+	2985	100,00%	(probe count)
+	192	6,43%	Grellers Outlook Express 6.00.2800.1158
+	180	6,03%	Forte Agent 1.93/32.576 English (American)
+	168	5,63%	(not set)
+	110	3,69%	Grellers Outlook Express 6.00.2800.1106
+	110	3,69%	Grellers Outlook Express 6.00.2600.0000
+	107	3,58%	Gnus/5.0808 (Gnus v5.8.8) XEmacs/21.4 (Honest Recruiter)
+	92	3,08%	Forte Agent 1.92 DE/32.572
+	86	2,88%	Mozilla 4.7 [de]C-CCK-MCD QXW0322b  (Win98; I)
+	76	2,55%	Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.3a) Gecko/20021212
+	64	2,14%	MacSOUP/D-2.5b2 (Mac OS X version 10.2.6)
+	63	2,11%	tin/1.5.17-20030407 ("Peephole") (UNIX) (Linux/2.4.18-586tsc (i586))
+	60	2,01%	Mozilla 4.73 [de]C-CCK-MCD DT  (Windows NT 5.0; U)
+	58	1,94%	Forte Agent 1.92/32.572
+	55	1,84%	News-via-Hand Quick-Express 1.0
+	54	1,81%	KNode/0.6.1
+	52	1,74%	slrn/0.9.7.4 (Win32)
+	50	1,68%	Gunnemann v2.30
+	49	1,64%	Gnus/5.09 (Gnus v5.9.0) Emacs/21.2
+	39	1,31%	MacSOUP/D-2.4.6
+	39	1,31%	Forte Agent 1.8/32.548
+	34	1,14%	Gnus/5.09 (Gnus v5.9.0) Emacs/21.1
+	34	1,14%	NEJ/24.08.15
+	33	1,11%	Forte Free Agent 1.93/32.576 Deutsch (Standard)
+	33	1,11%	Forte Agent 1.9/32.560
+	32	1,07%	Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1b) Gecko/10. 11. 21
+	29	0,97%	NEJ/5.04.25
+	28	0,94%	Forte Free Agent 1.92/32.572
+	28	0,94%	tin/1.5.15-20021117 ("Spiders") (UNIX) (Linux/2.4.18-586tsc (i586))
+	28	0,94%	Forte Agent 32Bit (mit Hamster und einigen Patches)
+	27	0,90%	Grellers Outlook Express 6.00.2720.3000
+	27	0,90%	Forte Free Agent 1.21/32.243
+	26	0,87%	KNode/0.7.1
+	26	0,87%	slrn/0.9.7.4 (Linux)
+	25	0,84%	Forte Agent 1.93/32.576 Deutsch (Standard)
+	25	0,84%	Dieser tolle Newsreader
+	24	0,80%	Forte Agent 1.91/32.564
+	24	0,80%	Grellers Outlook Express 5.00.2615.200
+	23	0,77%	Gnus/5.0808 (Gnus v5.8.8) XEmacs/21.4 (Artificial Intelligence)
+	23	0,77%	NEJ/21.02.12 Hamster/2.0.2.1 (Korrnews/4.2)
+	23	0,77%	Mozilla 4.79 (Macintosh; U; PPC)
+	23	0,77%	tin/1.5.12-20020311 ("Toxicity") (UNIX) (Linux/2.4.18 (i686))
+	22	0,74%	Grellers Telnet
+	21	0,70%	Mozilla 4.78 [en] (X11; U; Linux 2.4.7-10custom i686)
+	19	0,64%	Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.3) Gecko/10. 11. 21
+	19	0,64%	Mozilla/5.0 (Windows; U; Windows NT 5.0; de-DE; rv:0.9.4) Gecko/10. 11. 21
+Netscape6/6.2.1
+	19	0,64%	Mozilla/5.0 (Windows; U; Win 9x 4.90; de-DE; rv:1.0.1) Gecko/10. 11. 21
+Netscape/7.0 (Compact)
+	19	0,64%	Mozilla 4.78 [de] (Win98; U)
+	17	0,57%	40tude_Dialog/2.0.5.1 Hamster/2.0.2.1  Korrnews/4.11
+	16	0,54%	Mozilla/5.0 (Windows; U; Windows NT 5.0; de-DE; rv:1.0.2) Gecko/10. 11. 21
+Netscape/7.02
+	14	0,47%	NEJ/24.07.09 Hamster/2.0.2.1 (Korrnews/4.1 CopyIf/1.22)
+	14	0,47%	Grellers Outlook Express 5.50.4522.1200
+	14	0,47%	Opera7.10/Win32 M2 build 2840
+	14	0,47%	Grellers Outlook Express 5.50.4807.1700
+	13	0,44%	Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.2.1) Gecko/10. 11. 21
+	12	0,40%	KNode/0.7.2
+	11	0,37%	Mozilla 4.7 [en] (WinNT; I)
+	11	0,37%	Mozilla 4.75 [de] (Windows NT 5.0; U)
+	11	0,37%	Forte Agent 32 / powered by Hamster and KorrNews
+	10	0,34%	Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.0.2) Gecko/20021120
+Netscape/7.01
+	10	0,34%	OpenXP/32 v3.8.9c (Win32) beta @ 10. 11. 21f
+	10	0,34%	Pan/0.13.4 (She had eyes like strange sins.)
+	10	0,34%	Xnews/5.04.25 Hamster/2.0.0.1 +KorrNews +CopyIf
+	9	0,30%	Mozilla 4.75 [de] (Win98; U)
+	9	0,30%	CrossPoint/Agent [OpenXP/16] v3.40 RC3 @ 2804022000 R/C15713, via NNTP
+	9	0,30%	Grellers Outlook Express 5.50.4920.2300
+	8	0,27%	Grellers Outlook Express 5.00.2314.1300
+	8	0,27%	Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.3) Gecko/20030312
+	7	0,23%	slrn/0.9.7.4 (IRIX)
+	7	0,23%	Mozilla 4.78 [de] (Windows NT 5.0; U)
+	7	0,23%	Grellers Outlook Express/6.0.2800.1123 OE-Tools/0.9.9a
+	7	0,23%	Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.3) Gecko/20030312
+	6	0,20%	Pan/0.13.3 (That cat's something I can't explain)
+	6	0,20%	Mozilla 4.72 [en]C-CCK-MCD QXW0323l  (Win95; U)
+	6	0,20%	Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.0.1) Gecko/10. 11. 21 Netscape/7.0
+	6	0,20%	Mozilla 4.78 [de]C-CCK-MCD DT  (Win98; U)
+	6	0,20%	CrossPoint/Agent [XP2] v3.31.004 Beta DOS/16 R/C18807, via NNTP
+	6	0,20%	40tude_Dialog/2.0.5.1
+	5	0,17%	Grellers Outlook Express 5.50.4922.1500
+	5	0,17%	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.3.1) Gecko/10. 11. 21
+	5	0,17%	Grellers Outlook Express 5.50.4133.2400
+	5	0,17%	sqtvlnrn/0.001 (C 64)
+	5	0,17%	40tude_Dialog/2.0.4.1
+	5	0,17%	Forte Agent 1.8/32.553
+	5	0,17%	Mozilla 4.7 (Macintosh; I; PPC)
+	5	0,17%	slrn/0.9.6.3 (Linux)
+	5	0,17%	Mozilla/5.0 (Windows; U; Windows NT 5.1; de-AT; rv:1.4) Gecko/10. 11. 21
+	5	0,17%	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.3) Gecko/10. 11. 21
+	5	0,17%	Mozilla/5.0 (Windows; U; Win98; de-DE; rv:1.0.2) Gecko/10. 11. 21
+Netscape/7.02
+	5	0,17%	tin/1.5.18-20030515 ("Peephole") (UNIX) (Linux/2.4.21-rc2 (i686))
+	5	0,17%	Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4a) Gecko/10. 11. 21
+	5	0,17%	tin/1.5.18-20030602 ("Darts") (UNIX) (Linux/2.4.21-rc2 (i686))
+	5	0,17%	Ganseforth-NewsWatcher/3.3b1 (PPC Mac OS X)
+	5	0,17%	Xnews/5.04.25 Hamster/2.0.0.0
+	5	0,17%	Forte Free Agent 1.93/32.576 English (American)
+	5	0,17%	Opera7.11/Win32 M2 build 2887
+	5	0,17%	Gunnemann v2.50
+	4	0,13%	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.1) Gecko/10. 11. 21
+	4	0,13%	Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3.1) Gecko/10. 11. 21
+	4	0,13%	MacSOUP/D-2.5b2 (Mac OS 9.1)
+	4	0,13%	Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4b) Gecko/10. 11. 21
+	4	0,13%	tin/1.5.18-20030507 ("Peephole") (UNIX) (Linux/2.4.21-rc1 (i686))
+	4	0,13%	Grellers Outlook Express 4.72.3110.1
+	4	0,13%	Pan/0.13.4 (She had eyes like strange sins. (UUK))
+	4	0,13%	MacSOUP/D-2.5b2 (unregistered for 255 days)
+	4	0,13%	Mozilla 4.74 [en] (Win98; U)
+	3	0,10%	slrn/0.9.7.4 (Win32) Hamster/2.0.0.1
+	3	0,10%	Mozilla/5.0 (Windows; U; Win 9x 4.90; de-AT; rv:1.2.1) Gecko/20021130
+	3	0,10%	Mozilla/5.0 (Windows; U; WinNT4.0; de-DE; rv:1.0.1) Gecko/10. 11. 21
+Netscape/7.0 (BDP)
+	3	0,10%	Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4b) Gecko/10. 11. 21
+	3	0,10%	Pan/0.13.0 (The whole remains beautiful)
+	3	0,10%	NEJ/L5
+	3	0,10%	CrossPoint [XP2] v3.30.018 Beta DOS/16, via NNTP
+	3	0,10%	NEJ/24.07.07b
+	3	0,10%	Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.4b) Gecko/10. 11. 21
+	3	0,10%	Grellers Outlook Express/6.0.2600.0 OE-Tools/0.9.9a
+	3	0,10%	ProNews/2 V1.54.cp054d
+	3	0,10%	tin/1.5.16-20030125 ("Bubbles") (UNIX) (Linux/2.4.20-4GB (i686))
+	3	0,10%	Mozilla 4.5 [de] (WinNT; I)
+	2	0,07%	Ihok/2 Version 1.00
+	2	0,07%	Pan
+	2	0,07%	slrn/0.9.7.4 (Darwin)
+	2	0,07%	Forte Agent 1.7/32.534
+	2	0,07%	slrn/0.9.7.1 (Linux)
+	2	0,07%	slrn/0.9.7.4 (Müssel)
+	2	0,07%	Grellers-Outlook-Express-Macintosh-Edition/5.02.2106
+	2	0,07%	Gnus/5.1002 (Gnus v5.10.2) Emacs/21.2 (gnu/linux)
+	2	0,07%	Mozilla 4.7 [de] (WinNT; I)
+	2	0,07%	NEJ v5.4.25.0 + Hamster v2.0.2.1 + Korrnews v4.11
+	2	0,07%	Gunnemann v2.60
+	2	0,07%	NEJ v5.4.25.0 + Hamster v1.3.23.3 + Korrnews v4.11
+	2	0,07%	Microsoft Outlook Express/6.0.2800.1106 OE-Tools/0.9.9a
+	2	0,07%	NEJ/24.08.15 Hamster/2.0.0.1
+	2	0,07%	Mozilla 4.75 [de]C-CCK-MCD DT  (Win98; U)
+	2	0,07%	Sylpheed version 0.9.0 (GTK+ 1.2.10; i386-portbld-freebsd5.1)
+	2	0,07%	Forte Agent 1.5/32.451
+	2	0,07%	Mozilla 4.75 [en] (Win98; U)
+	2	0,07%	tin/1.4.7-20030322 ("Suggestions") (UNIX) (Linux/2.4.20 (i686))
+	2	0,07%	Mozilla 4.7 [de] (WinNT; U)
+	2	0,07%	Mozilla 4.73 [en] (WinNT; U)
+	81	2,71%	(others)
+
+---------

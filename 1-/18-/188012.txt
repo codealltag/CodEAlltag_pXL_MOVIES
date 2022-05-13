@@ -1,0 +1,35 @@
+G	GENERAL AUDIENCES. All ages admitted.
+	- "Allgemeines Publikum, für alle Alterstufen zu gelassen"
+
+PG	PARENTAL GUIDANCE SUGGESTED. Some material may not be suitable for children.
+	- "Anleitung durch Eltern empfohlen, das Material ist zum 
+	   Teil für Kinder ungeeignet"
+
+PG-13	PARENTS STRONGLY CAUTIONED. Some material may be inappropriate for children under 13.
+	- "Eltern werden nachdrücklich gewarnt, das Material ist für 
+	   Kinder unter 13 zum Teil ungeeignet"
+
+R	RESTRICTED. Under 17 requires accompanying parent or adult guardian.
+	- "Beschränkt, für unter 17jährige nur in Begleitung von Eltern 
+	   oder einer erwachsenen Aufsichtsperson"
+
+NC-17	NO ONE 17 AND UNDER ADMITTED.
+	- "Kindern unter 17 ist der Zutritt untersagt"
+
+X	
+	- "Kein Zutritt für Minderjährige" (im Regelfall also 'ab 18/21')
+	Nicht von der tesco vergeben!
+
+XXX	
+	Nicht offiziell, hat sich die Filmindustrie für Pornos ausgedacht. 
+	Die Altersfreigabe ist mit der des Ratings "X" identisch.
+
+--
+(Quelle: `"Movie Business Book", Simon E. Arhold sowie `http://vun.ibtt.uxu/'")
+
+
+-- 
+Valerius Geierhos
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

@@ -1,0 +1,7 @@
+Gegen das Design habe ich nichts, aber mir fällt kein vernünftiger 
+Grund ein, wieso man für die 5 Bilder mit den Städtenamen, die ja doch 
+nur einfache Links auf Unterseiten sind, unbedingt ein Flash-plug-in
+verwenden muss. Die scrollenden Städtenamen sind reiner Firlefanz und
+scrollen bei meinem Pevog eben leider nicht ...
+
+Henri

@@ -1,0 +1,259 @@
+NG-Statistik drfm für den September 2003
+erstellt mit einem Skript von Claus Kräge.
+
+04/06: 2347 postings
+05/06: 2252 postings
+06/06: 1990 postings
+07/06: 1790 postings
+08/06: 2352 postings
+09/06: 2979 postings
+10/06: 2473 postings
+
+30/06: 3439 postings
+01/07: 1931 postings
+02/07: 2724 postings
+03/07: 1746 postings
+04/07: 2078 postings
+
+
+05/07: 2494 postings
+
+
+Autoren mit den meisten Postings (2494 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 114 | 3595 | 284.9 | Timo B. Poeschl      |  4.6%  xxxxxxxxxxxxx
+   2 | 112 | 2061 | 182.3 | Dennis K. Pupeter     |  4.5%  xxxxxxxxxxxxx
+   3 | 102 | 2746 | 191.4 | Uwe Igor     |  4.1%  xxxxxxxxxxxx 
+   4 |  95 | 3817 | 239.6 | Tom Inhestern        |  3.8%  xxxxxxxxxxx  
+   5 |  75 | 2016 | 143.4 | Alex Clauss       |  3.0%  xxxxxxxxx    
+   6 |  61 | 1557 | 120.8 | Berend Leonhard        |  2.4%  xxxxxxx      
+   7 |  58 | 1645 | 129.1 | Laurent Ziehm       |  2.3%  xxxxxxx      
+   8 |  55 | 2055 | 139.2 | Bodo Obereigner        |  2.2%  xxxxxx       
+   9 |  50 | 1360 |  92.7 | Lennart Langlois             |  2.0%  xxxxxx       
+  10 |  40 |  968 |  79.8 | Ewald Leufgen         |  1.6%  xxxx         
+  11 |  39 | 1405 |  81.3 | Ludwig Gemeiner       |  1.6%  xxxx         
+  12 |  37 | 1230 |  93.8 | Carlos Jaspers         |  1.5%  xxxx         
+  14 |  35 | 1346 |  89.4 | Jakob Bäumchen        |  1.4%  xxxx         
+  16 |  34 |  987 |  73.5 | Johann Bohnet      |  1.4%  xxxx         
+  17 |  32 |  441 |  44.0 | Adam Kalhöfer          |  1.3%  xxx          
+  18 |  30 |  613 |  44.1 | Ingmar Oberbossel      |  1.2%  xxx          
+  19 |  29 | 1050 |  74.4 | Silvio Große-Homann         |  1.2%  xxx          
+  22 |  27 |  313 |  32.9 | Aldo Unterwieser         |  1.1%  xxx          
+  23 |  26 |  960 |  67.3 | Wilfried Lieberwirt          |  1.0%  xxx          
+  26 |  24 | 1217 |  71.7 | Thomas Peigel             |  1.0%  xx           
+  30 |  22 |  825 |  55.1 | Alex Mattßon         |  0.9%  xx           
+  31 |  21 | 1475 |  85.1 | Dominik                 |  0.8%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (309 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                          
+       19 |   3 |  1.0%  x                                              
+       18 |   2 |  0.6%                                                 
+       17 |   2 |  0.6%                                                 
+       16 |   1 |  0.3%                                                 
+       15 |   2 |  0.6%                                                 
+       14 |   6 |  1.9%  xx                                             
+       13 |   2 |  0.6%                                                 
+       12 |   3 |  1.0%  x                                              
+       11 |   3 |  1.0%  x                                              
+       10 |   3 |  1.0%  x                                              
+        9 |   7 |  2.3%  xx                                             
+        8 |   5 |  1.6%  xx                                             
+        7 |  11 |  3.6%  xxxx                                           
+        6 |  12 |  3.9%  xxxxx                                          
+        5 |  10 |  3.2%  xxxx                                           
+        4 |  16 |  5.2%  xxxxxx                                         
+        3 |  34 | 11.0%  xxxxxxxxxxxxxx                                 
+        2 |  37 | 12.0%  xxxxxxxxxxxxxxx                                
+        1 | 115 | 37.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (140 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Dominik                 |  10 |    31 |  7.1%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (140 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Willibald Oberleithner          |   1 |   632 | 25.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Thorsten Interwies        |   2 |   154 |  6.2%  xxxxx               
+   3 | Alex Mattßon         |   1 |   111 |  4.5%  xxx                 
+   4 | Johann Bohnet      |   2 |   109 |  4.4%  xxx                 
+   5 | Claus Hennek         |   4 |    85 |  3.4%  xx                  
+   6 | Klaas Ulber    |   4 |    76 |  3.0%  xx                  
+   7 | Thomas Peigel             |   3 |    75 |  3.0%  xx                  
+   8 | Clemens Flammiger     |   1 |    70 |  2.8%  xx                  
+   9 | Ingmar Oberbossel      |   3 |    69 |  2.8%  xx                  
+  11 | silvio rumml       |   2 |    68 |  2.7%  xx                  
+  12 | David Overkämping       |   2 |    58 |  2.3%  x                   
+  13 | Timo B. Poeschl      |   2 |    57 |  2.3%  x                   
+  15 | Timo Reulein         |   1 |    52 |  2.1%  x                   
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2494 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 632 | High Fidelity ...                       | 25.3%  xxxxxxxxxx
+   2 | 153 | Antipiracy Trailer                      |  6.1%  xx        
+   3 | 111 | [OT] �bersetzungsexperten unter sich    |  4.5%  x         
+   4 |  81 | Harry Potter 3 - Erste Eindruecke       |  3.2%  x         
+   5 |  70 | 12 Angry Men                            |  2.8%  x         
+   6 |  69 | Knastspot Standard?                     |  2.8%  x         
+   7 |  66 | Re: Harry Potter 3 - Erste Eindruecke   |  2.6%  x         
+   9 |  63 | Blöde Blockbuster                       |  2.5%  x         
+  10 |  57 | Kind darf auch mit Eltern nicht ins Kino|  2.3%            
+  11 |  56 | Unbeantwortete Matrix-Fragen (Faschismus|  2.2%            
+  12 |  55 | TPOP-Beitrag zu Punisher (und der K|  2.2%            
+  13 |  52 | Küblböck-Film...                        |  2.1%            
+  15 |  44 | TV-Highlights (11. - 24.09.2003)        |  1.8%            
+  16 |  38 | the day after tomorrow                  |  1.5%            
+  17 |  35 | Ihsleib plant Kill Bill 3?            |  1.4%            
+  19 |  34 | Surreale Filme                          |  1.4%            
+  20 |  31 | Beat Takeshi: Erstes Buch in Deutsch ers|  1.2%            
+  21 |  29 | TV-Highlights (27.08. - 10.09.2003)     |  1.2%            
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (140 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                               
+    19 |   1 |  0.7%  x                                                 
+    18 |   3 |  2.1%  xxxxx                                             
+    17 |   1 |  0.7%  x                                                 
+    16 |   2 |  1.4%  xxx                                               
+    15 |   1 |  0.7%  x                                                 
+    14 |   1 |  0.7%  x                                                 
+    12 |   1 |  0.7%  x                                                 
+    11 |   3 |  2.1%  xxxxx                                             
+    10 |   2 |  1.4%  xxx                                               
+     9 |   4 |  2.9%  xxxxxxx                                           
+     8 |   6 |  4.3%  xxxxxxxxxx                                        
+     7 |   4 |  2.9%  xxxxxxx                                           
+     6 |   5 |  3.6%  xxxxxxxxx                                         
+     5 |  12 |  8.6%  xxxxxxxxxxxxxxxxxxxxx                             
+     4 |  10 |  7.1%  xxxxxxxxxxxxxxxxxx                                
+     3 |  15 | 10.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+     2 |  16 | 11.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+     1 |  28 | 20.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 285 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  69 | JOEH Outlook Express      | 24.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  48 | JTDK                        | 16.8%  xxxxxxxxxxxxxxxxxx       
+  41 | Forte Agent                    | 14.4%  xxxxxxxxxxxxxxx          
+  16 | 40tude_Dialog                  |  5.6%  xxxxxx                   
+  13 | KNode                          |  4.6%  xxxx                     
+  12 | JTDK Thunderbird            |  4.2%  xxxx                     
+  10 | Netscape                       |  3.5%  xxx                      
+  10 | slrn                           |  3.5%  xxx                      
+  10 | MacSOUP                        |  3.5%  xxx                      
+   9 | Xnews                          |  3.2%  xxx                      
+   7 | tin                            |  2.5%  xx                       
+   6 | Hamster                        |  2.1%  xx                       
+   6 | Gnus                           |  2.1%  xx                       
+   5 | Forte Free Agent               |  1.8%  x                        
+   4 | Thunderbird                    |  1.4%  x                        
+   3 | Pan                            |  1.1%  x                        
+   2 | MicroPlanet-Gravity            |  0.7%                           
+   2 | CrossPoint                     |  0.7%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.4%                           
+   1 | Jackpot                        |  0.4%                           
+   1 | Yachtzubehör                          |  0.4%                           
+   1 | Opera7.10                      |  0.4%                           
+   1 | knews                          |  0.4%                           
+   1 | MorVer                         |  0.4%                           
+   1 | JOEH Telnet               |  0.4%                           
+   1 | FCN M2                       |  0.4%                           
+   1 | Yeanshalle                       |  0.4%                           
+   1 | Fietzophren Release            |  0.4%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.4%                           
+   1 | MicroPlanet Gravity            |  0.4%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 104 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  19 | Forte Agent                    | 18.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  18 | JTDK                        | 17.3%  xxxxxxxxxxxxxxxxxxxxxxxx 
+  16 | Microsoft Outlook Express      | 15.4%  xxxxxxxxxxxxxxxxxxxxx    
+   8 | Netscape                       |  7.7%  xxxxxxxxxx               
+   7 | slrn                           |  6.7%  xxxxxxxxx                
+   5 | 40tude_Dialog                  |  4.8%  xxxxxx                   
+   4 | KNode                          |  3.8%  xxxxx                    
+   4 | MacSOUP                        |  3.8%  xxxxx                    
+   4 | JTDK Thunderbird            |  3.8%  xxxxx                    
+   3 | Xnews                          |  2.9%  xxxx                     
+   3 | Hamster                        |  2.9%  xxxx                     
+   2 | Forte Free Agent               |  1.9%  xx                       
+   2 | tin                            |  1.9%  xx                       
+   2 | Gnus                           |  1.9%  xx                       
+   1 | Pan                            |  1.0%  x                        
+   1 | MicroPlanet-Gravity            |  1.0%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.0%  x                        
+   1 | XNews                          |  1.0%  x                        
+   1 | CrossPoint                     |  1.0%  x                        
+   1 | feelings.10                      |  1.0%  x                        
+   1 | MorVer                         |  1.0%  x                        
+
+
+Postingverteilung über den Monat (2494 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  62 |  2.5%  xxxxxxxxxxxxxxxxx                                   
+   2 |  83 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   3 | 146 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+   4 | 156 |  6.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+   5 |  46 |  1.8%  xxxxxxxxxxxxx                                       
+   6 |  64 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+   7 |  93 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   8 | 110 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+   9 | 109 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  10 |  82 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  80 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  12 | 115 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  13 |  92 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  14 |  71 |  2.8%  xxxxxxxxxxxxxxxxxxxx                                
+  15 | 183 |  7.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | 126 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  17 |  98 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  18 |  94 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  19 |  85 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  20 |  81 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  21 |  92 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  22 |  84 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  23 |  93 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  24 |  30 |  1.2%  xxxxxxxx                                            
+  25 |  25 |  1.0%  xxxxxxx                                             
+  26 |   7 |  0.3%  xx                                                  
+  27 |  48 |  1.9%  xxxxxxxxxxxxx                                       
+  28 |  50 |  2.0%  xxxxxxxxxxxxxx                                      
+  29 |  47 |  1.9%  xxxxxxxxxxxxx                                       
+  30 |  42 |  1.7%  xxxxxxxxxxxx                                        
+
+
+HTH ;-)
+Wilfried
+-- 
+"This must be where pies go when they die."
+                                               Twin Peaks - Agent Zwartscholten

@@ -1,0 +1,15 @@
+Weil die Betreiber der MFL das Datenformat an ein paar Stellen
+aendern und keinen Aufwand in die Aenderung des alten Codes
+investieren wollen, der bei ALWIN laeuft.
+
+Das laeuft komplett von der MDB auf LEO unabhaengig, d.h. duerft
+darauf keinen Einfluss haben.
+
+Gruss -- Reinhard Sickert
+
+--------------------------------------------------------------------------------
+Reinhard Sickert                               E-mail: lkoxsp@xoz.ydi
+Minik                     IRC   : Ralph
+der Rizeg Sirnau                              Tel.  : +86 72 / 771 - 31039
+47304 Sirnau                               Fax   : +55 79 / 011 - 92163  
+==> PGP public key available on request <==  WWW   : http://tqf.ljc.ldv/~hdntj/

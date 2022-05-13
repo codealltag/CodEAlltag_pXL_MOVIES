@@ -1,0 +1,10 @@
+Hi,
+
+
+Wie auch immer, RFC 2822 (*) besagt, daß die max. Zeilenlänge bei
+Usenet-Postings nicht länger als 78 Zeichen betragen sollte.
+
+Ciao
+GRETA
+
+(*) http://qyiit.gbqt.tiw/jpnm/ngn5504#ctblqfq-2.1.4

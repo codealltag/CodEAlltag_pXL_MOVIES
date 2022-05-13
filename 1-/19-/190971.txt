@@ -1,0 +1,32 @@
+AFAIK benutzt IMAX  70~mm-Streifen, und die nicht längs, sondern noch quer (siehe Skizze):
+
+normal			     IMAX
+                        o|            |o
+o|-----|o		o|------------|o
+o|     |o		o|	      |o
+o|-----|o		o|	      |o
+o|     |o               o|            |o
+o|-----|o               o|            |o
+o|     |o	        o|            |o
+o|-----|o               o|            |o
+o|     |o               o|            |o
+o|-----|o               o|            |o
+o|     |o               o|            |o
+o|-----|o               o|            |o
+o|     |o               o|------------|o
+o|-----|o               o|            |o
+
+
+<------->	        <-------------->
+  35 mm			     70 mm
+
+Desweiteren gibt es Filme mit doppelter Bildfrequenz, damit rasche
+Bewegungen besser dargestellt werden können (Flimmern tut Kino
+sowieso nicht).
+
+-- 
+Arne Birkman	eMail: ivm<mw>hr<pjr>gsf<yqcmhc>scyu<zhw>dl
+FZC	Tel:   8 60 02 (8-9 11 79)
+
+Note:    e-Mail to qpxx16@pvl.bjk-kfrt.cg will be automatically erased.
+Beachte: e-Mail an qpxx16@pvl.bjk-kfrt.cg wird automatisch gelöscht.

@@ -1,0 +1,30 @@
+Hat sich schon, nur gefaellt mir diese nicht, und ich will auch
+nicht jedesmal Access starten.
+
+Des weiteren wird sich VideoDB dahingehend entwickeln, dass ich
+dann direkten Zugriff (entweder lokal oder via Internet) auf
+die Internet Movie Database plane. Wer schon mal 100 Tausend
+Datensaetze mit Access (_ohne_ relationalte DB im Hintergrund)
+verwaltet hat, der weiss was ich meine...
+
+Natuerlich stimmt es. Hauptkonkurenz zu TCEJ ist eine
+Textverarbeitung oder eine Tabellenkalkulation oder ein
+Datenbanktool. gDas ist mir schon klar. Aber zum einen ist
+VideoDB mit 200, österreichischen Schillingen oder entsprechendem
+Gegenwert in DM sehr billig und es ist, zumindest fuer mich,
+momentan genau das was ich brauche.
+
+Mfg.
+
+Franz Westmann
+
+-- 
+----------------------------------------------------------
+           SuperCut - Dipl.-Ing. Franz Westmann
+             Feistring 45/5/0
+                      3355 Wiedendorf
+                       Austria
+----------------------------------------------------------
+e-mail   : hkzu@hajdgv.snrxuw.ez.al
+Tel & Fax: ++72/7/3373001
+WWW      : http://vljxrk.dlcfdx.wd.wm/~jnma/swfing.xysu

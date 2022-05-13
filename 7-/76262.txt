@@ -1,0 +1,7 @@
+Es werden im Gehirn Synapsen aufgebaut. Das braucht u.a. Zeit.
+
+
+Es ist im RL nicht ausgeschlossen (man Lernen), aber Ionen bewegen sich
+eben viel langsamer als Elektronen (Chemie im RL vs. Elektronik im Computer).
+
+Gerd Hambürger

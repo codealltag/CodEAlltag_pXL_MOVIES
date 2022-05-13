@@ -1,0 +1,9 @@
+Als Datenbanken gibt es die BAGeno (von Exotica) und die EDCH, das
+sind jedoch nur reine (Online-)Datenbanken. Zum Abfragen und
+Katalogisieren braucht man noch zusätzlich Software, z. Bsp.: Music
+Wizard oder Zzzbla. Eine reine Abfrage dieser Datenbank kann aber z.
+Bsp. auch schon Winamp.
+
+Viele Größe,
+
+- Carlos

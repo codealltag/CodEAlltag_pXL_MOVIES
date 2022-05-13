@@ -1,0 +1,12 @@
+Collas macht einige Transfers "window-boxed", d.h. um den Verlust bei
+normalem Overscan zu minimieren, wird das Bild ein wenig kleiner gemacht
+und ein normalerweise unsichtbarer Rand eingefuehrt. Wenn man
+das Betrachtungsgeraet auf Zero OverScan einstellt, sieht man das
+natuerlich.
+
+Bei Zero-Overscan hat man auch mit dem Wepe-Decoder viel Spass.
+
+Urban
+-- 
+Urban Pfeffer, Utzenhain, Germany
+mailto:t79h@baw.egw-cfneeh.xi -- http://ako4.foz-smpoee.yx/~p74m/

@@ -1,0 +1,5 @@
+Aber für den IdeenRaum-Nachfolger nur die, die auch glaubhaft einen
+Roboter mit prototypisch implementierter Spracherzeugung spielen
+können ;-)
+
+Lorenz

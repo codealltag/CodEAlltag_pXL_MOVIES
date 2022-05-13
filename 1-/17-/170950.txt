@@ -1,0 +1,46 @@
+On Mon, 24 Mai 1998 22:08:56 +0200, "paula.kurth"
+
+Damit hättest Du nicht viel Freude. Filme nie durch Glas, wenn es nicht
+unbedingt sein muß.  
+
+In der "normalen" Fotografie gibt es ein Verfahren, welches eigentlich auch
+durchaus in der Filmtechnik zum Einsatz kommen könnte. Theoretisch zumindest.
+Der Trick beruht in Spiegelsystemen innerhalb des Objektives. Das eigentliche
+Problem, welches meistens damit gelöst wird, sind z.B. Bilder von Hochhäusern,
+Türmen etc.; stehtst Du z.B. vor einem Hochhaus und fotografierst schräg nach
+oben, hast Du den Effekt, daß das Gebäude nach hinten umzukippen scheint. Die
+Kanten des Gebäudes liegen nicht mehr parallel zueinander. Da man sich nur in
+seltenen Fällen exakt auf die gleiche horizontale Höhe wie der zentrale Teil
+des Bildes begeben kann (und somit ein waagerechtes, perspektivisch korrektes
+Ablichten flachf�llt), gibt es Objektive, bei welchen "Anfang" und "Ende"
+nicht zwangsläufig auf einer Achse liegen müssen. Stellt man sich am besten so
+vor, daß das Objektiv nicht nur die Form einer Gerade hat, sondern das Licht
+auch einen S-förmigen Weg nehmen kann. Auch das "Fotografieren um die Ecke"
+ist damit möglich, absoluter rechter Winkel vorausgesetzt. Damit kann man
+perspektivische Fehler korrigieren; was normalerweise nicht parallel
+verlaufende Kanten hätte, hat sie wieder, da der Winkel zwischen Front des
+Objektives und Blende ja irgendwo zwischen 0 und 90 Grad liegen kann. Und
+genau diese Kameras benutzt man auch, um Fotos von Spiegeln zu machen. Auf dem
+Bild sieht es aus, als ob man genau vor dem Spiegel gestanden hätte. Doch in
+Wirklichkeit stand man daneben. 
+
+
+Vielleicht arbeiten sie beim Film ja mit ähnlichen Methoden. Wäre imho wohl
+das einfachste, weil das Sicherste. Ich will gar nicht wissen, was los wäre,
+wenn man durch Glas filmen würde und am Schluß auf der großen Leinwand in der
+Ecke dann ein Schmutzpartikel oder gar das Standardproblem einer Reflektion
+auftaucht, die vorher übersehen wurde. Seit ich die oben beschriebene Methodik
+in der Fotographie kenne und es auch mal selbst erlebt habe, achte ich schon
+unwillkürlich auf Szenen mit Spiegeln. Und hier fällt eines stets auf: Wenn
+senkrecht in einen (existierenden) Spiegel gefilmt wird, dann eigentlich nie
+aus einer fließenden Kamerafahrt heraus, was dafür spricht, daß ein Wechsel
+der Hardware stattfand. 
+
+Man könnte natürlich auch das Spezialeffekte-Team bemühen, um die im Spiegel
+sichtbare Crew wieder auszulöschen. Aber das ist viel zu aufwendig. Weshalb
+unnötige Produktionszeit (und damit horrende Kosten) auf sich nehmen, wenn es
+auch auf einfache Art und Weise geht?
+
+cu,
+
+  Alberto

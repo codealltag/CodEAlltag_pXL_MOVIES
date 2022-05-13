@@ -1,0 +1,17 @@
+Hallo,
+
+
+Soweit ich weiss, ist dies nicht nur eine Softwarefrage. Es gibt
+fertige Videoschnittplaetze, die dann vielleicht auch noch
+einen (oder mehrere) PC enthalten, aber daneben noch eine ganze 
+Menge DSPs. Preislich auch nicht fuer eine Privatperson
+gedacht (zumindest wenn er/sie nicht auf das naechste Auto 
+verzichten moechte). Selbst semi-professionelle Schnittsysteme
+nur fuer Ton haben meist schon Erweiterungskarten dabei.
+
+viele Gruesse
+Wolfgang
+
+P.S.: Wie dies beim Film ist, weiss ich nicht, aber dort ist bei 
+digitalen Effekten ist die Situation ja noch verschaerft, da mit 
+einer viel hoeheren Aufloesung gearbeitet wird.

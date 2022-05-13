@@ -1,0 +1,6 @@
+Danke für das Beispiel, tut. (Habe das schlankere aus #1 genommen.)
+Ich werde noch etwas modden, aber das schaffe ich nach dem Beispiel wohl
+allein: Der vorhandene IMDB Knopf der Bookmarkbar ruft die IMDB auf,
+wenn sie schon aufgerufen war, wird zwischen com und de getoggelt.
+
+- G.

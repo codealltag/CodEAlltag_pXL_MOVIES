@@ -1,0 +1,28 @@
+Ack.
+
+
+Missverstaendis. drfm verletzt die Logik in de.ALL. Warum gibt es
+misc-Gruppen? Um darauf hinzuweisen, dass es noch andere Untergruppen
+gibt, ansonsten wäre eine Struktur de.rec.film, de.rec.film.kritiken
+einfacher. Aber gerade durch das Aendern de.a.b zu de.a.b.misc soll die
+Erweiterung der Hierarchie deutlich werden und nicht schon als
+Sicherheitspolster, welches im Fall dieser Gruppe seit mindestens 1 1/2
+Jahren schon sinnlos und irritierend existiert.=20
+
+
+Und zumindest ersteres hat wohl als de.rec.tv angefangen, bis es die
+ersten Untergruppen gab, das ist das de.-System beim Einrichten von
+Gruppen bzw, Umbauen von Gruppen zu Hierarchien.
+
+
+Noe. Vor allem, da in de.alt traditionell misc-Gruppen praktisch nicht
+existieren, da die Hauptgruppe meistens in de.!alt zu finden ist.
+
+Ein Einrichtungsversuch in de.!alt wäre vielleicht trotzdem sinnvoller,
+wenn Traffic vernünftig nachweisbar ist.
+
+
+Done.
+
+So long,
+Jean-Luc E. Unglauben

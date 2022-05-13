@@ -1,0 +1,25 @@
+Wenn die Dokumentation ohne Angabe der Größe erfolgte, ist sie nicht seriös.
+Der Unterschied zwischen einem 9 km und einem 21 km-Asteroiden ist 1:13,
+d.h. man muß 13 mal so viel Missionen dort hinschicken oder das Ablenkmanöver
+13x eher beginnen.
+
+Ein Armageddon ist völlig hoffnungslos. Auch ein 50 km-Brocken ist hoffnungslos.
+Drunter ist was machbar, das hängt aber von folgenden zusätzlichen Dingen ab:
+
+  * Wie zeitig wird die bevorstehende Kollision bemerkt?
+
+  * Wie liegt die Bahn, ist es möglich, an den Asteroiden vorher
+    ranzukommen?  (man beachte hierzu, daß die *gesamte* heutige Raumfahrt
+    extrem von günstigen Konstellationen abhängt, die den Treibstoffbedarf
+    auf wenige Prozent des normalerweise üblichen reduzieren !!!)
+
+  * Störbarkeit der Bahn, da gibt es auch Unterschiede im Bereich 1 : 10^6
+    und mehr (Beispiel: Ablenkmanöver vor dem Swing By am ablenkenden
+    Asteroiden, jeder Zentimeter dort sind später Tausende von Kilometer
+    beim Erdvorbeiflug.).
+
+-- 
+Ulf Leichtweis
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

@@ -1,0 +1,21 @@
+Mit den diffs für actors.list und actresses.list war seit 4 oder 5 
+Wochen etwas nicht in Ordnung, was auch zu Problemen mit
+Atlasreisewelt geführt hat. Nebenbei gab es auch ein Problem mit
+trivia.list (durch Leerzeilen im diff).
+
+
+Ergänzungsvorschlag für Kommandozeilen-Abstinenzler: yaJMDb
+ansehen, den Java-Abkömmling von Atlasreisewelt. Das steht unter
+GPL, benutzt Nix als Backend und erlaubt komplexe SQL-Queries.
+
+Selbst wenn es euch nicht gefällt, könntet ihr euch von der Tabellen-
+struktur inspirieren lassen. Diese ist ähnlich derjenigen von Atlasreisewelt,
+die sich IMHO bewährt hat. Für SQL unter Atlasreisewelt habe ich eine kleine
+(und inzwischen renovierungsbedürftige) Anleitung geschrieben, die
+merkwürdigerweise auch im Download von yaJMDB enthalten ist. Dort
+passt sie zwar nicht ganz hin, aber sie liefert einen ersten Eindruck,
+was man mit SQL aus der IMDb alles herausholen kann.
+
+Info und Download:  www.jsaudcthv.cqq
+
+Willi

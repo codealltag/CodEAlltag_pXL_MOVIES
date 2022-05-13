@@ -1,0 +1,16 @@
+Mir ist folgendes aufgefallen. Falls in Filmen externe Musikstücke
+verwendet werden (vor allem Songs), werden sie immer einen halben Ton
+höher abgespielt, als die Originalaufnahme ist. Mir ist es bis jetzt
+in *jedem* Film (auf Video) aufgefallen, bei dem ich versucht habe,
+die Tonart zu bestimmen (z.B. American Graffiti, Blues Brothers,
+Desperado).
+
+Wieso ist das denn so? Liegt es eventuell an der NTSC -> PAL
+Konvertierung? Oder gibt es eine bestimmt Regel, nach der Musikstücke
+einen halben Ton hrer abgemischt werden müssen?..
+
+-- 
+-----Lars "Ulf" Klassen---------------------
+"On the road for days
+two wheels, an engine, and me
+I dont brush my teeth" <Full Throttle>

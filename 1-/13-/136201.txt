@@ -1,0 +1,53 @@
+Hallo,
+
+
+Richtig, ich habe nachlässigerweise die Begriffe "perspektivisches Sehen"
+und "dreidimensionales Sehen" gleichgesetzt. Man sollte wohl besser vom
+"rumlichen Sehen"sprechen.
+
+
+Die Tiefenschärfe spielt bei der Entfernungseinschätzung des Menschen keine
+Rolle. Selbstverständlich gelten die optischen Grundregeln der Tiefenschärfe
+auch für das menschliche Auge, jedoch werden nicht ausgewertet. Im Gegensatz
+zu einer Kamera erfaßt das Auge ein Bild nicht integral. Es sieht jeweils
+nur einen sehr beschränkten Bereich scharf. Solbad das Auge ein Objekt
+fixiert, wird darauf fokusiert, eine Auswertung der Tiefenschärfe ist aber
+nur bei Vorhandensein von Referenzobjekten möglich. Nur mit Übung und
+Konzentration ist dem Menschen möglich, die unscharfen Regionen des
+sichtbaren Bildes wahrzunehmen.
+gleichzeitig
+basierendes
+
+Richtig, das würde funktionieren. Aber bitte, hältst du es für realistisch.
+Wer würde für einige wenige 3-D-Sendungen zuhause wohl einen solchen Aufwand
+bereiben ?
+
+
+Sieht man mal davon ab, daß ich keine Lust habe meine Glotze nur noch mit
+Brille zu betrachten ist das sogar recht einfach möglich. Senderseitig ist
+die Umschaltung problemlos - hier gibt schon Lösungen, die das können. Die
+Brille benötigt beim Fernsehen (im Gegensatz zum Kino) kein Synchronsignal,
+da die Bildfrequenz extrem zeitstabil ist - die Brille könnte problemlos
+über einen Quarz getaktet werden. Zusätzlich benötigt würde lediglich eine
+Feinjustagem�glichkeit, die die Einstellung der Phasenlage zwischen Brille
+und TV ermöglicht.
+
+Um ein flimmerfreies Bild zu erhalten, müßte die Bildwechselfrequenz
+verdoppelt werden, da der Grenzwert für die Flimmerwahrnehmung des Menschen
+bei etwa 48 Hz liegt (daher auch die 50 Halbbilder beim TV und die
+Zweifl�glblende beim Kino) .
+
+
+Richtig, das abgedunkelte Auge sieht in der Tat das gleiche Bild wie das
+helle Auge, nur eben zu einem späteren Zeitpunkt. Dies ist aber nicht
+entscheidend. Wichtig ist, daß die Bilder, die gleichzeitig wahrgenommen
+werden, eigentlich nicht zueinander gehören und damit in Bezug auf die
+Bewegungsphase voneinander abweichen.
+
+Das mit den Standbildern ist richtig, war ein Denkfehler von mir.
+
+Bringens lassen sich im PAL -Standard keine Vollbilder übertragen. Im
+Zweifelsfall ist halt nur das erste und zweite Halbbild identisch (ist
+beispielsweise bei Filmabtastungen der Fall).
+
+Viele Größe

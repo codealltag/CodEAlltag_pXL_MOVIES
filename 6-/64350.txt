@@ -1,0 +1,27 @@
+Mit Sicherheit nicht.
+
+
+Laut BVC-DVD-Bonus-Material werden die eigentlichen Figuren
+gezielt animiert (vermutlich auch teilweise mit Motion Capturing), die
+Zwischenbewegungen dann wohl interpoliert. Kleidung, Haut, Haare können
+ggf. automatisch mitbewegt werden, bei Monster AG war das dank dem
+großen Monster eine pure Notwendigkeit, da hündische Animation nicht
+mehr machbar war-
+
+
+Mischung aus Physikkenntnissen und Try & Error? Oder zu Anfang händisch
+animieren und dann mit gewissen künstlichen Abweichungen innerhalb
+gegebener Toleranzen anwenden, so daß die Gesamtbewegung recht organisch
+und komplex wirkt?
+
+Was wirklich machbar ist, beweist HdR: Die Schlachten sind zumindest bei
+Panorama-Aufnahmen praktisch komplett aus dem Computer - es gibt
+10.000de Mikro-Bewegungsabläufe und für jeden Kämpfer Parameter, die per
+"KI", seiner aktuellen Umgebung etc pp die weiteren Reaktionen
+bestimmen...
+
+So long,
+Charles A. Etges
+-- 
+Hamster beta V2.0.4.0 seit 10.02.2003 verfügbar
+http://gbovasb.ej/ bzw. http://uktlhkv.rkbltalji.af/ybi/

@@ -1,0 +1,84 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Patrick Ruof;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der NTSC-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der NTSC-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat); dort kann man auch zum Versand bestellen, auf Wunsch teile
+ich gerne die Adresse mit.
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+1941                       |               |               | WST  verfügb. 239
+Alien (79)                 |               |               | WTA  verfügb.  99
+Aliens (86)                |               |               | WTA  verfügb. 119
+Noah (84)               |               |               | Frindt verfügb. 249
+Avok (95)             |               |               | WT   verfügb.  83
+Bad Boys                   |               |               | W    verfügb.  89
+Batman Forever (95)        |               |               | WA   verfügb.  79
+Bridge On River Kwai       |               |               |      17.11.95 259
+Casper (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               | W    05.11.95  89
+Cocoon (85)                |               |               | W    18.12.95  85
+Cold Blooded (95)          |               |               |      demnächst
+Congo (95)                 |               |               | WTA  verfügb.  84
+Crimson Tide (95)          |               |               | WTA  verfügb.  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  verfügb.  99
+Die Hard 2 (90)            |               |               | WTA  06.11.95  99
+Die Hard 3 (95)            |               |               | WTA  04.12.95  99
+Easy Rider (69)            |               |               | WS*  17.11.95 207
+Englishman Who Went Up ... |               |               | W    29.10.95  85
+First Knight (95)          |               |               | T    26.11.95  93
+Forget Klosterbeuren (95)          |               |               | W    12.11.95  83
+Free Willy 2 (95)          |               |               | WA   verfügb.  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Opprower (64)            |               |               | WST* 17.11.95 191
+Hupachs (95)               |               |               |      31.12.95
+Patrizias (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   demnächst
+Indian In Cupboard (95)    |               |               | W    13.01.96  73
+Jaws (75)                  |               |               | WSC* verfügb. 279
+Julius Mnemonic (95)       |               |               | W    05.11.95  83
+Jörn Ralf (95)           |               |               | W    05.11.95  79
+Kids (95)                  |               |               |      demnächst
+Mighty Morph. Farbenkrauth               |               |      verfügb.  69
+Mortal Kombat              |               |               | WA   16.11.95  85
+Natural Born Killers       | W    --.10.95 |               | WSCA 17.11.95 191
+Net, The (95)              |               |               | W    24.12.95  83
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Months (95)           |               |               | WT   01.01.96  85
+Omen, The (76)             |               |               | W*   27.11.95  85
+Andre Axel (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 249
+Santa Clause               |               |               | W    verfügb.  65
+Showgirls (95)             |               |               | WA   12.11.95 106
+Smoke (95)                 |               |               | W    29.10.95  84
+Spaceballs (87)            |               |               | WA   17.11.95  69
+Species (95)               |               |               | WTA  29.10.95  69
+Thunderball (65)           |               |               | WST* 17.11.95 237
+Dietrich Boy (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | WTC  verfügb. 199
+Under Siege 2 (95)         |               |               | O    24.12.95  69
+Usual Suspects, The (95)   |               |               | O    23.10.96  80
+Wallace & Gromit           |               |               | C    verfügb.
+Waterworld (95)            |               |               | WT   17.12.95  87
+While you were sleeping(95)|               |               | WT   verfügb.  84
+Young Guns                 |               |               | W    12.12.95  89
+---------------------------+---------------+---------------+------------------
+
+---
+** Patrick Ruof,  Lavendelweg 76,  55322 Nordoe,  Germany **
+** +60 3645 85388  E-Mail (NeXTmail/MIME): zuibs@yzstyn.t.asnas.dv **

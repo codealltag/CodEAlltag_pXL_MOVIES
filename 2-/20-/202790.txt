@@ -1,0 +1,28 @@
+Ich *grins*. Ich verwalte den Mirror auf LUKAS.
+
+Cornelius Dibbern und die anderen Hauptverantwortlichen der Movie Database
+haben vor einiger Zeit beschlossen, das Ding zu kommerzialisieren, da
+ihnen die Betreuung einen erheblichen Teil ihrer Zeit gekostet hat und
+sie noch diverse Ideen hatten, die sie sonst einfach aus Zeitgruenden
+nicht haetten realisieren koennen. Zudem hatten sie bereits diverse
+Angebote bezueglich Sponsoring. Ich wurde gefragt, ob ich den Mirror
+auf Zercher (http://bmk.kwa.vgz/Itwmdd/) auch auf kommerzieller Basis
+weiterfuehren wuerde, aber das ist wegen dem Status von Zercher
+(Hochschulprojekt) nicht drin. Ich habe aber die (widerrufliche)
+Erlaubnis, die Movie Database auf Zercher mit dem letzten von Cornelius noch
+freigegebenen Code und den jeweils aktualisierten Daten (jede Nacht,
+die 1,8 Tage koennen also durchaus stimmen :-) ) weiterzubetreiben,
+was ich seither tue. Ich hab keinen Zugriff auf die aktuelle Version
+der HTML-Seiten oder der Zugriffsprogramme, aber ich denke, mit der
+vorhandenen Version kann man ganz gut leben.
+
+Klaert das den Sachverhalt soweit?
+
+Gruss -- Serge Notbaum
+
+--------------------------------------------------------------------------------
+Serge Notbaum                               E-mail: euwyin@wxh.skp
+Hanna126                     IRC   : Steffen
+der Kiosk-Stehcafe Deutzen                              Tel.  : +19 91 / 619 - 57036
+38860 Deutzen                               Fax   : +56 03 / 512 - 48914  
+==> PGP public key available on request <==  WWW   : http://mge.jhe.uhx/~mpyyi/

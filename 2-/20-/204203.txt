@@ -1,0 +1,26 @@
+Zwischen 4.7 GB (einschichtig, einseitig) und 17 GB (zweischichtig,  
+zweiseitig). Ich nehme an, daß die erste Generation von Playern bis 8.5 GB  
+auslesen kann (zweischichtig, einseitig).
+
+
+Ja, aber ein bißchen Schummelei ist schon dabei. Ich habe gehört  
+(Gerüchteküche), daß alle Sprachen außer der Originalsprache nur in Mono  
+sein werden und dem normalen Ton einfach nur entsprechend zugemischt  
+werden. Der Sound wird aber immer in Sechskanalton (5+1 Subwoofer) sein,  
+wobei die NTSC-Version DolbyDigital (AC3) benutzt und die PAL-Version MPEG- 
+II Level 2.
+
+DolbyDigital hat Vorteile wenn man eine Sechskanalanlage besitzt, da volle  
+sechs Kanäle gespeichert werden und der Player ggf. selbst ein ProLogic- 
+Signal zusammenmischt; MPEG hat hingegen Vorteile, wenn man nur eine  
+ProLogic-Anlage benutzt, denn hier wird der Ton bei der Produktion für  
+ProLogic abgemischt, die restlichen vier Kanäle enthalten die  
+Zusatzinformationen um aus dem ProLogic-Gemisch wieder sechs getrennte  
+Kanäle zu machen. (Dieser Absatz ist wiederum kein Gerücht.)
+
+Bye
+        Karl
+-- 
+Talking out of turn...that's a paddling. Looking out the window ... that's
+a paddling. Staring at my sandals...that's a paddling. Mentioning padeluun
+... ooh, you better believe that's a paddling. (frei nach "The Simpsons")

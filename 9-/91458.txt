@@ -1,0 +1,21 @@
+Nein, das geht nicht jedem so, denn es gibt natürlich Newsreader, die 
+nicht nur den Body als ganzes ROTen können, sondern auch nur markierte
+Teile davon. Und deshalb ist das kein Nachteil von ROT13, sondern von
+Newsreadern, die das eben nicht können.
+
+Und andererseits gibt es halt Reader, die ein 0x0C nur als weißes Kästchen
+oder als Fragezeichen anzeigen.
+
+Und dann gibt es noch Systeme (bei mir zum Beispiel), bei denen ein ewig
+langer gequoteter Spoilerspace die Gefahr birgt, dass das Posting dem
+Vollquottel-Filter zum Opfer fällt und ungelesen dahinsiecht.
+
+Was ich damit sagen will: Es soll doch bitte jeder mit den Schwächen
+seines Newsreaders leben, oder sich eben einen anderen suchen, statt
+Anderen vorschreiben zu wollen, wie sie posten sollen, und statt wieder
+mal eine kindische Advocacy-Diskussion starten zu wollen, wie in diesem
+Thread geschehen ("die gute alte Zeit ... ClickiBuntiReader ... blabla").
+
+So, und jetzt dürft ihr raten, was ich benutze...  ; �
+
+Ernest

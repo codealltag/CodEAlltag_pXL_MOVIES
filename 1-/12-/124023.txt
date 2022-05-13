@@ -1,0 +1,17 @@
+Hi Erwin,
+
+Du machst hier einen Denkfehler: Die Bildformate 1:1.66 und 1:1.85 etc.
+geben das Seitenverhältnis an, das das projezierte Bild auf der
+Leinwand haben soll - unabhängig davon, ob (und ggf. wie) der Film auf 
+der Kopie gemattet ist oder nicht. Das Seitenverhältnis der 
+"nicht-schwarzen Flächen" auf der Kopie ("Bild" möchte ich sie nicht
+nennen) kann bei beiden Formaten bis zu 1:1.2 sein.
+
+Entsprechend sind die möglichen Fehler prozentual bei 1:1.66 kleiner als 
+bei 1:1.85, weil das eigentliche Bild auf der Kopie einfach größer ist.
+Das setzt natürlich voraus, das der Film wird wirklich in 1:1.66 gezeigt
+wird. Viele Multiplexe und andere Kommerzkinos sind zu einer format-
+richtigen Vorführung ja leider nicht mehr in der Lage. Da wird alles
+in 1:1.85 oder noch schlimmeren gezeigt.
+
+Ciao, Philipp                          zylxo.ysvgtwgo@vkdgp.ox

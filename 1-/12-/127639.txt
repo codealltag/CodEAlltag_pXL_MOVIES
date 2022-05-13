@@ -1,0 +1,40 @@
+Gruseligkeitswettbewerb
+
+23.5 Fragen in ein und demselben Posting sollte für eine Teilnahme reichen.
+
+
+Schön und gut, wenn die gew�schte Raumkrümmung bereits vorhanden ist
+(Wurmloch).
+Aufgepasst: Ansonsten lässt sich der Raum auch nur mit annähernd
+Lichtgeschwindigkeit falten, so dass man genausogut selber fliegen kann...
+
+Hat wohl zuviele Fragen gestellt...
+
+Der Gamma-Faktor gamma(v):=1/sqrt(1-(v/c)^2); c=Lichtgeschwindigkeit im
+Vakuum (~300'000 m/s), beschreibt die Korrelation zwischen einem Wert w0 in
+einem System B und demselben Wert w im System A, in dem die Geschwindigkeit
+von B v beträgt.
+Bsp: A=Erde, B=Raumschiff mit Geschwindigkeit v (von A aus gemessen):
+t0=gamma(v)*t; -> Zeitdilation
+Annahme: Raumschiff umkreist die Erde mit 87% der Lichtgeschwindigkeit. Vom
+Raumschiff aus gesehen vergeht die Zeit auf der Erde jetzt doppelt
+(gamma(v)=2.02) so schnell. Analog dazu funktionieren Massendilation und
+L�ngendilation.
+
+<hypothetisch>
+Bei Überlichtgeschwindigkeit wird bei gamma(v) der Wert unter der Wurzel
+negativ, wir erhalten also Lösungen, die in der Komplexen Zahlenebene (1 x
+i) liegen (i^2:=-1).
+Für v>c würde gelten: gamma(v):= -i/sqrt((v/c)^2-1)
+Der Übergang von reellwertigen Lösungen zu komplexen Lösungen liegt bei c,
+hier findet der eigentliche 'Dimensions�bergang' statt. Wie das dann genau
+aussehen würde wenn alle Werte im rechten Winkel zu den bekannten Werten
+stehen (Verdoppelung aller Dimensionen?) kann ich dir leider nicht sagen...
+</hypothetisch>
+
+So long,
+Samu, Verwirrung stiftend... %-P
+
+--
+ http://ett4.irjgoi.kf/~vdzyojt
+ "On the eigth day, God started debugging"

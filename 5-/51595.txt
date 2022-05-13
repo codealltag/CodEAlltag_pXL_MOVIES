@@ -1,0 +1,13 @@
+CDs gibt es nur bei DTS. 
+Die anderen Digitaltonformate haben die komplette Toninformation auf 
+der Kopie untergebracht. Dolby SRD zwischen den Perforationl�chern und 
+SDDS am äußeren Rand der Kopie außerhalb der Perforation. Deshalb kann 
+eine Kopie sowohl die Toniforamtion für Dolby SRD und SDDS, den Timecode 
+für DTS und die analgon Lichttonspur enthalten.
+
+Bei den anderen Tonformaten kann man natürlich nicht eine Kopie plötzlich 
+mit einem anderen Ton abspielen.
+
+Ciao, Zvfnj                                    iuhmhsfa @ mveoisdv.ms
+
+Zuletzt gesehen: Les Triplettes de Elschbacherhof �� Miete Erste Ehe

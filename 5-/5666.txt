@@ -1,0 +1,11 @@
+Jedes Bild wird zweimal gezeigt[1], man spricht dann eben
+von 2x24 "frames per second". Da ein "Frame" wohl in anderen 
+Kontexten auch identisch zu einem Bild ist, ist das
+begrifflich etwas verwirrend.
+
+[1]
+Transport+Verdunkeln -> Bild 1 zeigen -> Verdunkeln -> Bild 1 zeigen
+-> Transport+Verdunkeln -> Bild 2 zeigen etc.
+
+Gruß
+Arno

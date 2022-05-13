@@ -1,0 +1,6 @@
+Das stimmt nun wiederum so auch nicht: Da der der hintere Center
+matrixcodiert ist, wie du richtig sagst, muß auch ein rechter und linker
+Rear(Effekt)kanal vorhanden sein, um diese Matrix überhaupt bilden zu
+können. Und nur digitale Tonsystem arbeiten mit linkem und rechtem
+Rear-Kanal. Deswegen geht Dolby EX nur in Dolby Digital tauglichen Kinos mit
+entsprechenderUmr�stung/Erweiterung.

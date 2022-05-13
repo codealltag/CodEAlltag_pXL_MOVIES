@@ -1,0 +1,8 @@
+Nachdem die Probleme mit dem Aufbau der Datenbank jetzt beseitigt
+sind, habe ich nun Probleme mit dem Aktualisieren der list-Dateien:
+
+Sowohl die Apply-Diffs-Funktion von Weberei, als auch applydif.exe melden
+"Wrong Diffs" wenn ich versuche, die aktuellen diff-Dateien (16.06.)
+zu verwenden.
+
+Kann mir jemand sagen, was ich falsch mache?

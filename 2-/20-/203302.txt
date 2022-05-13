@@ -1,0 +1,12 @@
+Alle Jahre wieder gibt es ein machtberauschtes Subjekt welche cancels faked
+um seiner meinung nach nicht konforme Newsarticel zu killen. such nach 
+dem cancel im control (z.B. /usr/spool/news/control) finde raus wer es war
+und beschwer dich beim postmaster oder falls er selber sowas ist pranger 
+ihn oeffentlich an :-)
+
+--
+[Standard Disclaimer] in addition I would like to speak with my lawyer ....
+I. Ahnepohl; PoBox 5495; 12925 Detwang; Germany  a.k.a  xua@hsgl.LhZZF.bb
+                  Sokonoke Sokonoke tora-sama ga touru
+$@%9%F%U%'%s(J  $@CN2H!Z%7%k%1![(J  $@$=$3$N$1$=$3$N$18WMM$,DL$k(J
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

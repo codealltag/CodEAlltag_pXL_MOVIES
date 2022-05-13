@@ -1,0 +1,152 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Patrick Züll;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) beim Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+==================================
+Titel mit Dolby-Digital-Ton (AC-3)
+==========================+======+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+2001: A Space Odyssey     | 1968 | WS                  | 07.07.97   | 105
+Absolute Power           *| 1997 | WS                  | 13.07.97   |
+Abyss, The (Dir. Cut)     | 1989 | WS THX              | verfügbar  | 119
+Alamo, The                | 1960 | WS                  | 02.06.97   | 139
+Apocalypse Now            | 1979 | WS THX              | verfügbar  |  96
+Arrival, The              | 1996 | WS SE               | verfügbar  | 139
+Blood and Wine            | 1996 | WS                  | verfügbar  |
+Blown Away                | 1994 | WS                  | verfügbar  | 105
+Capricorn One             | 1978 | WS SE               | verfügbar  |  96
+Courage Under Fire        | 1996 | WS THX              | verfügbar  |  79
+Dangerous Ground         *| 1997 | WS                  | 07.07.97   |
+Daylight                  | 1996 | WS THX              | verfügbar  |  85
+Daylight                  | 1996 | WS THX SE           | demnächst  | 199
+Days Of Heaven            | 1978 | WS                  | verfügbar  |  79
+Dragonheart               | 1996 | WS THX SE CAV       | verfügbar  | 249
+Dumb And Dumber          *| 1994 | WS                  | 04.08.97   |
+Eddie                     | 1996 | WS                  | verfügbar  |  79
+Family Thing, A           | 1996 | WS                  | verfügbar  |  79
+For Your Eyes Only        | 1981 | WS THX              | 30.06.97   | 105
+Ghost & The Darkness      | 1996 | WS THX              | verfügbar  |  79
+Glimmer Man               | 1996 | WS                  | verfügbar  |  69
+Godfather                 | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 2               | 1972 | WS THX SE           | verfügbar  | 105
+Godfather 3               | 1972 | WS THX SE           | verfügbar  | 105
+Heaven's Gate             | 1980 | WS                  | verfügbar  |  96
+Highlander 2              | 1991 | WS THX SE           | verfügbar  | 139
+In Love and War           | 1996 | WS                  | 30.06.97   | 105
+Independence Day          | 1996 | WS THX SE           | --.30. 04. 22   |
+Jade               | 1996 | WS                  | verfügbar  |  79
+Last Man Standing         | 1996 | WS                  | verfügbar  |  79
+License To Kill           | 1989 | WS THX              | 14.07.97   | 105
+Living Daylights          | 1987 | WS THX              | 14.07.97   | 105
+Long Kiss Goodnight, The  | 1996 | WS                  | verfügbar  |  79
+Mars Attacks!             | 1996 | WS                  | 22.06.97   |  75
+Marvin's Room             | 1996 |                     | 30.06.97   |  85
+Metro                    *| 1997 | WS                  | 04.08.97   |
+My Fair Lady              | 1964 | WS THX              | verfügbar  | 115
+Octopussy                 | 1983 | WS THX              | 30.06.97   | 105
+One Fine Day              | 1996 | WS THX              | 16.06.97   |  85
+Original Gangstas         | 1996 | WS SE               | verfügbar  |  79
+Patton                    | 1970 | WS THX SE           | verfügbar  | 179
+Player, The              *| 1992 | WS SE               | 25.08.97   |
+Police Story 4: First St.*| 1996 |                     | 07.07.97   |
+Poltergeist               | 1982 | WS                  | verfügbar  |  79
+Poseidon Adventure, The   | 1972 | WS THX              | 23.06.97   | 105
+Preacher's Wife, The      | 1996 | WS                  | verfügbar  |  85
+Primal Fear               | 1996 | WS                  | verfügbar  |  69
+Ransom                    | 1996 | WS THX SE           | 02.06.97   |  85
+Relic, The               *| 1997 | WS                  | 20.07.97   |
+Rock, The                 | 1996 | WS THX SE Crit      | verfügbar  | 240
+Romeo & Juliet            | 1996 | WS THX SE           | verfügbar  | 105
+Scream                   *| 1996 | WS SE               | 14.07.97   |
+Shine                    *| 1996 | WS SE               | 04.08.97   |
+Sleepers                  | 1996 | WS                  | verfügbar  |  85
+Space Jam                 | 1996 | WS                  | 06.07.97   |  75
+Star Trek: First Contact  | 1996 | WS THX              | 31.05.97   |  85
+Supercop                  | 1992 | WS Crit             | verfügbar  | 105
+That Thing You Do!        | 1996 | WS THX              | verfügbar  |  79
+Trainspotting             | 1996 | WS Crit             | verfügbar  |  96
+Vertigo                   | 1958 | WS THX SE           | verfügbar  | 159
+--------------------------+------+---------------------+------------+-----
+
+=========================
+Titel mit dts-Digital-Ton
+=========================-+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1995 | WS                  | verfügbar  |  96
+Apollo 13                 | 1995 | WS                  | verfügbar  |  96
+Babe                      | 1995 | WS                  | verfügbar  |  79
+Blown Away                | 1994 | WS                  | verfügbar  | 105
+Casino                    | 1995 | WS                  | verfügbar  |  96
+Casper                    | 1995 | WS                  | verfügbar  |  79
+Daylight                 *| 1996 | WS                  | 05.09.97   |
+Dragonheart               | 1996 | WS                  | verfügbar  |  85
+Goldeneye                 | 1995 | WS THX SE           | 09.06.97   | 105
+Hard Target               | 1993 | WS                  | 09.06.97   |  85
+Jurassic Park             | 1993 | WS                  | verfügbar  |  96
+Last Man Standing         | 1996 | WS                  | verfügbar  |  79
+Long Kiss Goodnight, The  | 1996 | WS                  | verfügbar  |  79
+Mask, The                 | 1994 | WS                  | --.05.97   |  85
+Mortal Kombat             | 1995 | WS                  | verfügbar  |  85
+Nutty Professor, The      | 1996 | WS                  | 09.06.97   |  69
+River Wild, The          *| 1994 | WS THX              | 05.09.97   |
+Schindler's List         *| 1993 | WS THX              | 05.09.97   |
+Seven                     | 1995 | WS                  | verfügbar  |  96
+Shadow, The               | 1994 | WS                  | verfügbar  |  75
+Shine                    *| 1996 | WS                  | 04.08.97   |
+Species                   | 1995 | WS THX              | 09.06.97   |  85
+Sudden Death              | 1995 | WS                  | verfügbar  |  85
+Timecop                   | 1994 | WS                  | verfügbar  |  85
+Twilight Man             *| 1996 | WS                  | 05.09.97   |
+Vertigo                   | 1958 | WS                  | verfügbar  | 105
+Village Of The Damned    *| 1995 | WS                  | 05.09.97   |
+Waterworld                | 1995 | WS THX              | verfügbar  |  96
+--------------------------+------+---------------------+------------+-----
+
+===============================
+Titel ohne Digital-Sound-System
+==========================+====--+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+Alaska                    | 1996 | WS                  | verfügbar  |  69
+Bambi                     | 1942 | THX SE              | demnächst  |  59
+Bambi                     | 1942 | THX SE CAV          | demnächst  |  96
+Beavis & Butt-Head Do ... | 1996 | WS                  | 15.06.97   |  85
+Beverly Fiersbach Ninja      *| 1997 | WS                  | 03.08.97   |
+Boot, Das                *| 1982 | WS SE               | 27.07.97   |
+Chamber, The              | 1996 | WS                  | verfügbar  |  69
+Dead Poets Society        | 1989 | WS THX              | verfügbar  |  89
+Extreme Measures          | 1996 | WS                  | verfügbar  |  69
+Fan, The                  | 1996 | WS                  | verfügbar  |  69
+Good Morning, Vietnam     | 1987 | WS THX              | verfügbar  |  89
+Grass Harp                | 1996 | WS                  | verfügbar  |  79
+Gridlock'd                | 1997 | WS                  | 29.06.97   |  85
+High School High          | 1996 | WS                  | verfügbar  |  69
+Olaf Ossenbrunner             | 1996 | WS                  | 29.06.97   |  85
+Lawnmower Man, The        | 1992 | WS THX SE           | demnächst  | 109
+Mirror Has Two Faces, The | 1996 | WS                  | 29.06.97   |  85
+Nutty Professor, The      | 1996 | WS                  | verfügbar  |  69
+One Flew Over The ...     | 1975 | WS THX              | verfügbar  | 119
+Silence Of The Lambs, The | 1991 | WS THX Crit         | verfügbar  |  96
+Irene Sense Of Snow   *| 1997 | WS                  | 18.08.97   |
+Time To Kill, A           | 1996 | WS                  | verfügbar  |  79
+When We Were Kings       *| 1996 | WS                  | 14.07.97   |
+--------------------------+------+---------------------+------------+-----
+
+-- 
+** Patrick Züll, E-Mail (NeXTmail/MIME): okraw@ytpwrc.f.susgj.kh **
+**  "I don't wanna 5 day pass to Disney planet." -- P. Einbrodt  **

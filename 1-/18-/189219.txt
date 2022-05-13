@@ -1,0 +1,12 @@
+Erklaerung:
+
+Dieser Standard umschreibt Umlaute und einige Zeichen, die im Standard
+wiederum besondere Bedeutung haben (Gleichheitszeichen u.ae.) mit
+entsprechenden 7-Bit-Codes.
+
+Dein
+scheint dies noch nicht zu können, der Standard qp ist uebrigens etwa 5
+Jahre alt.
+
+So long,
+Theo F. Kleine-Buckstegge

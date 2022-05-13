@@ -1,0 +1,22 @@
+Hallo,
+
+
+...ich auch...
+
+
+Ack, zum Schneiden von AVIs eignet sich sehr gut VirtualDUB (btw, es
+gibt die neue Version 1.7.2).
+
+Aber, um vom onlinetvrecorder die HQ-Divx-Filme framegenau schneiden zu
+wollen, braucht man noch FFDShow wegen
+dem H264 Codec.
+
+Im VirtualDub "Smart Rendering" markieren, sowie "Fast Recompress" und
+unter "Compression" ffdshow mit H264 als Codec einstellen. Wenn man nur
+über DirectStream Copy schneidet, wird der Schnitt nicht framegenau. Es
+verbleiben  1- 2 Sekunden.
+
+Ansonsten verweise ich auf de.comp.tv+video sowie auf das Forum im
+onlinetvrecoder.com. Dort werden solche Fragen fast täglich gestellt.
+
+Nils.

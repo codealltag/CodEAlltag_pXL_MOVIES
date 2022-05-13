@@ -1,0 +1,18 @@
+Laserdiscs NTSC :
+
+Daylight                      DD ; WS    30 DM
+Dante's Peak              DD ; WS    30 DM
+The Rock                    DD ; WS   35 DM
+Virtuosity                    DD ; WS    35 DM
+Broken Arrow             DD ; WS    35 DM
+Dead Presidents         DD ; WS    35 DM
+Ghost & The Darkness DD ; WS   35 DM
+Lord Of Illussions        DD ; WS    35 DM
+Mars Attacks              DD ; WS    35 DM
+Mission Impossible      DD ; WS    35 DM
+Les Miserables in Concert DS ; WS 30 DM
+Leaving Affaltrach      DS ; WS    30 DM
+Terminal Velocity        DS ; WS     30 DM
+Legends of the Fall     DS ; WS    30 DM
+
+Für's Versenden nehme ich 5 DM pro pakett . Ab 3 LD's entfallen die 5 DM .

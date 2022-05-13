@@ -1,0 +1,21 @@
+Der Datenstrom vom Satellitten kann prinzipiell von *jedem* empfangen 
+und damit aufgezeichnet werden, der sich im Ausstrahlungsbereich des 
+Satelitten befindet. Und damit haben auch bei diesem System "unzaehlige
+Kryptoexperten" alle Zeit der Welt um sich damit zu befassen.
+
+
+Man wird "Sat-Broadcast-Kino" vielleicht nicht mit der 99 Euro
+Schuessel/Anlage vom Billigmark empfangen koennen, aber es wird
+vorhandene Satellittentechnik benutzt werden, denn extra dafuer
+eigene Satelitten mit non-standard-Technik hochzuschicken
+und zu betreiben duerfte die Kosten zu stark in die Hoehe treiben,
+zumal es nur eine zusaetzliche Scheinsicherheit bringt.
+
+Also wird der ambitionierte "Kryptoexperte" auch diesen Datenstrom
+speichern koennen (auch wenn er ihn nicht entschluesseln kann).
+
+Gruesse
+Josef
+
+-- 
+extra interrete nulla vita, et si ulla, non est ita.

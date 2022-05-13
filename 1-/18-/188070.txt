@@ -1,0 +1,24 @@
+Hallo,
+
+Surroundeffekte
+
+Bevor jetzt hier irgendwelche Geruechte die Runde machen: NEIN, die 
+DVD ist nicht falsch gemastert! Bei mir sind die Surround-Kanaele 
+lebhafter als je zuvor.
+
+Seit ihr sicher, dass ihr im Setup-Menue des Kostka A350, den 
+5.1-Decoder unter Punkt 8 des Hauptmenues ordnungsgemaess konfiguriert 
+habt? Dort muss man alle Lautsprecher einzeln einschalten, die 
+angeschlossen sind. Defaultmaessig sind da nur zwei(!) eingetragen.
+
+Herwig
+
+
+-- 
+
+------------------------------------------------------------------
+Herwig Deister
+Email: htlo@drhari.fdyojf.QY-Jpjvvl.SM (MIME and NeXTMail welcome)
+WWW: http://qo.icldiv.TH-Qgvklg.CL/QU/Gktg/
+PGP-Key: http://cr.pooywu.EX-Jekvrt.KC/GA/Bxoi/EEFOqo.ptxr
+------------------------------------------------------------------

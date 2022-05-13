@@ -1,0 +1,11 @@
+On Thu, 08. 11. 21 18:56:39 +0200, Lutz Twardoch
+
+Naja, wenn dieser Katalog irgendwo (an fester Stelle) in
+elektronischer Form vorliegt und die indizierten URLs oder Teile davon
+enthalten sind, dann waere es ja kinderleicht mit Hilfe eines
+Perl-Skripts daraus eine Web-Seite zu basteln, wo man all die
+indizierten Links anklicken kann. Juchhei.
+
+Wer denkt eigentlich noch mit in den Ministerien?
+
+	-Maik

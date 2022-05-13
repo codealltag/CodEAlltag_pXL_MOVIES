@@ -1,0 +1,23 @@
+: Eget/Gefako verwendet ausschließlich dts (seit es dts gibt). Das
+: führt im Heimbereich immer wieder zu Verwirrungen und Ärger, weil
+: z.B. Laserdiscs und VHS-Videos (wenn korrekt beschriftet) mit "dts
+: Stereo Surround" oder "Matrixed Surround Sound" beschriftet sind.
+
+Der Gag ist, dass z.B. "Apollo 13" auf Laserdisc mit Dolby Surround
+kodiert wurde (Info von Winfried Gäbeler (Dolby) in alt.video.laserdisc).
+Trotzdem wird "Matrixed Surround Sound" draufgeschrieben, damit es
+nicht irgendwann mal danebengeht und bei einer nicht mit Dolby
+kodierten Disc "Dolby Surround" draufsteht oder umgekehrt.
+
+: Außerdem ärgert man sich als Laserdisc-Player-Besitzer, weil der
+: Sound zwar in 5,1 Kanälen vorliegt, man ihn aber so nicht bekommen
+: kann.
+
+Verdammt richtig! :( "Apollo 13", "Waterworld", u.v.a.
+
+Tschuess,
+Ronny
+--
+Ronny Middermann
+  Student of Computer Science @ University of Isenburg, Germany
+  E-Mail: u74b@bjs.omn-rduryr.ds     WWW: http://peu.pxj-prnxgk.du/~j80c

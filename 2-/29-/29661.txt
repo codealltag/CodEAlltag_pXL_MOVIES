@@ -1,0 +1,23 @@
+vxbfuy6096@pch.tns teilte mit...
+
+Erklär mal... 
+
+Alles was Leiterbahnen und Halbleiter hat ist speziell zu designen 
+(Führung der Leiterbahnen zur Auslöschung der Spannung) oder zu schützen 
+(Ableitdioden vor den Halbleitern, Vollumh�llung mit Mu-Blech) um es EMP 
+fest zu machen und eine Eigenmagnetisierung zu verhindern. Selbst nackte 
+unverbaute Prozessoren sind nach einem TEMPEST-Test oft unbrauchbar.
+Außerdem es gibt kaum noch Geräte, die von Entfernen der Spannungsquelle 
+mal abgesehen, wirklich auszuschalten sind. 
+Nimm mal ein Funkgerät nach MIL Standard 678-151 (HEMP/EMP Protection) 
+auseinander oder heb es einfach nur mal hoch. 
+übrigens: EMPs gibt es auch bei H�hengewittern oder Sonnenstürmen.
+
+Uwe
+
+-- 
+Uwe Ottmar � Breitensohlweg 69 � 78687 Deberndorf
+qfwrqbrm@qigcemolnzh.lo � http://ffu.nrfqfgyjpnk.vm
+"The POP3 server service depends on the SMTP server service, 
+which failed to start because of the following error: The 
+operation completed successfully." (Windows NT Server v3.51)

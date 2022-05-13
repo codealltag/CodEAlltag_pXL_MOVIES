@@ -1,0 +1,20 @@
+Knut,
+
+
+Eine Relativierung:
+
+Nicht zu komplexe Bilder (ohne dynamics/cloth simulation etc) brauchen
+auch in 35mm res. bei Maya selbst auf einem XP2700 kaum mehr als eine 
+Minute pro Bild.
+
+Nur bei komplexen Bildern mit *vielen* unterschiedlichen dynamischen 
+Simulationen gleichzeitig (Fluessigkeiten,Gase,Kleidung, etc...)
+koennte ich mir vorstellen, auf 30 Stunden pro Bild zu kommen.
+
+Woher stammt diese Deine Angabe ?
+
+Gruesse
+Tobias
+
+-- 
+"Never send a human to do a machines job". - Agent Knippsschild

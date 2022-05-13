@@ -1,0 +1,13 @@
+Hallo,
+
+ich möchte mein Videos in eine Datenbank eintragen. Schön wäre es,
+wenn ich mir die Eingabe von Titel, Regisseur, Besetzung etc. sparen
+könnte. Gibt es irgendwo eine freie Filmdatenbank als CVS-Datei, die
+man einlesen kann?
+
+Merci!
+juh
+
+-- 
+Das Besencenser Bürgerportal
+http://hyvkafbp.bowwarvbjefma.bo

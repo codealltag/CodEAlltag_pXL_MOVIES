@@ -1,0 +1,9 @@
+Björn Fretwurst schrieb/wrote/escribiö:
+
+Ah, das ist toll. Man kann sogar eine Tastenkombination definieren, um 
+z.B. ROT13 zu dekodieren. Der Weg über das Kontextmenü ist etwas mühsam, 
+besonders, wenn mehrere Postings hintereinander ROT13 enthalten.
+
+Danke für den Tipp.
+
+G.

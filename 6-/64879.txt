@@ -1,0 +1,13 @@
+* Vincenzo Kornberger <hugijxr_bocdm@zpt.dw>:
+
+
+Schmalzbrot mit Rosinen zum Frühstück.
+
+
+Bye,
+Paolo
+
+=2D-=20
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;=20
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep  -- Ben Neudörfer in d.c.o.u.bsd

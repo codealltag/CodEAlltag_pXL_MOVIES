@@ -1,0 +1,8 @@
+Hi,
+
+Kann mir jemand sagen, warum in den letzten vier Wochen
+schon wieder über 45 Megabyte Diffs für die Internet
+Movie Database veröffentlicht wurden? Was machen die
+denn da?
+
+Gruß, Ben.

@@ -1,0 +1,12 @@
+Das ist zwar richtig, aber wenn ich daran denke wie in meinem letzten
+Job bei einem ISP IP-Adressen fuer simples Webhosting massenweise 
+IP-Adressen verschwendet^Wbenutzt wurden, kann ich nicht immer nach-
+vollziehen, dass IPs wirklich soo rar gesaeht sind ...
+Aber stimmt schon, ein paar DNS-Namen sind dann doch etwas einfacher.
+
+-msz
+-- 
+CALVIN
+   What if there's no afterlife? Suppose this is all we get.
+HOBBES (with a content smile)
+   Oh, what the heck. I'll take it anyway.

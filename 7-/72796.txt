@@ -1,0 +1,78 @@
+Natürlich. Diesmal beginne ich 1930. Erst mal wieder USA:
+
+1931   596       1951   413       1971   410       1991   687
+1932   561       1952   381       1972   468       1992   717
+1933   521       1953   375       1973   409       1993   707
+1934   559       1954   293       1974   421       1994   826
+1935   628       1955   289       1975   458       1995   874
+1936   583       1956   323       1976   449       1996   946
+1937   611       1957   349       1977   389       1997  1150
+1938   518       1958   309       1978   424       1998  1142
+1939   562       1959   234       1979   405       1999  1282
+1940   545       1960   215       1980   448       2000  1347
+1941   547       1961   246       1981   454       2001  1328
+1942   524       1962   238       1982   458       2002  1304
+1943   458       1963   238       1983   484       2003  1115
+1944   432       1964   272       1984   591
+1945   413       1965   303       1985   655
+1946   421       1966   307       1986   706
+1947   404       1967   336       1987   752
+1948   424       1968   443       1988   833
+1949   398       1969   465       1989   896
+1950   428       1970   573       1990   997
+
+Die Unterschiede zu meinem letzten Posting für 1950 und 1959
+kommen daher, dass jetzt auch Filme ohne Angabe der Länge
+enthalten sind. Die mussten bei der Berechnung der Durch-
+schnittsl�nge natürlich außer Acht bleiben.
+
+Die hohe Zahl ab Mitte der 07. 07. 21 Jahre kommt mir etwas verdächtig
+vor. Da sind jede Menge Filme dabei (grob geschützt ein Viertel),
+bei denen die Angabe der Lauflänge fehlt. Für frühere Zeiten ist
+dieser Anteil weitaus geringer. Es könnte sein, dass sich dahinter
+TV- oder Video-Produktionen verbergen, die von den Einreichern
+bei der IMDb nicht richtig deklariert wurden. Jedenfalls sind
+meine Daten natürlich nur so gut wie die der IMDb.
+
+
+(West-)Deutschland ("Germany" und "West Germany" zusammengefasst):
+
+1931   187      1951    79      1971   145      1991   136
+1932   181      1952    84      1972   134      1992   164
+1933   167      1953   113      1973   118      1993   143
+1934   152      1954   121      1974   107      1994   174
+1935   125      1955   136      1975    94      1995   156
+1936   139      1956   125      1976   103      1996   146
+1937    94      1957   122      1977    90      1997   173
+1938   116      1958   133      1978   115      1998   179
+1939   115      1959   113      1979   134      1999   203
+1940    83      1960   110      1980   109      2000   233
+1941    76      1961    93      1981   124      2001   240
+1942    65      1962    85      1982   112      2002   263
+1943    70      1963    71      1983   126      2003   150
+1944    72      1964    89      1984   128
+1945    32      1965    90      1985   131
+1946     7      1966    82      1986    97
+1947    17      1967   123      1987    86
+1948    35      1968   126      1988   113
+1949    72      1969   155      1989   123
+1950    79      1970   135      1990   113
+
+DDR:
+
+1945     1      1959    25      1970    13      1981    19
+1949     6      1960    25      1971    20      1982    11
+1950    15      1961    29      1972    20      1983    18
+1951    10      1962    27      1973    19      1984    16
+1952     8      1963    26      1974    20      1985    21
+1953     8      1964    20      1975    22      1986    19
+1954    16      1965    27      1976    14      1987    13
+1955    16      1966    13      1977    18      1988    18
+1956    23      1967    21      1978    23      1989    17
+1957    28      1968    19      1979    20      1990    18
+1958    21      1969    15      1980    21
+
+Der "ostdeutsche" Film von 1944 ist übrigens "Figaros
+Hochzeit (1944/I)".
+
+Thomas

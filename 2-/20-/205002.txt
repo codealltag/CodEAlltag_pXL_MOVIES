@@ -1,0 +1,30 @@
+Hi,
+
+ich bin momentan dabei, einzelne Teile von Tomandl im Netz  
+bereitzustellen. Testweise habe ich mal eine Abfrage laufen lassen ueber  
+das Programm des Jugendfilm-Verleihs (Warum gerade Jugendfilm? Zum einen  
+ist das Programm vergleichsweise ueberschaubar (seit 1935), zum anderen  
+hat CeDe seinen Sitz in Zichtau, ist also fuer eventuelle  
+Rueckfragen erreichbar).
+
+Aus der Paradox-Datenbasis kann ich ueber die "Nur Text"-Druckertreiber  
+von Windows "Ascii"-Reports (Codepage 850, 437 oder TTY) generieren; die  
+Texte koennte ich jetzt manuell weiterverarbeiten und HTML-Markups  
+einfuegen. Dabei kaeme
+
+ (a) mit geringem Aufwand entweder eine "Seite" von >100 kB heraus
+     (= Schwachsinn), oder
+
+ (b) es ergaebe sich ein enormer Aufwand, mindestens 60 Einzeldateien
+     zu generieren. Mal von Links zur IMDB einmal ganz abgesehen. Da ich
+     fuer derartige Spielereien nicht bezahlt werde, moechte ich mir
+     diese wirklich ausserordentlich stumpfsinnige Arbeit nicht zumuten.
+
+Die Daten sind beliebig formatierbar, koennten also fuer automatisches  
+Parsing vorbereitet werden; dummerweise beherrsche ich kein Perl. Falls  
+jemand Interesse hat, moege er/sie sich bitte bei mir (oder besser:  
+mailto:ymcklir@uiriyua.maaxz.le) melden, sonst lasse ich's bleiben.  
+Kommentare und Flames bitte ebenfalls per Mail und nicht in den News,  
+danke.
+
+Gruesse, -Ullrich

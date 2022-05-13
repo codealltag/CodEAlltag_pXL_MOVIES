@@ -1,0 +1,23 @@
+NTSC-Videos kannst du in Deutschland in der Regel ohne Probleme
+abspielen, da die meisten modernen Videorecorder NTSC in eine Art
+Pseudo-PAL (PAL60) umwandeln können. Dieses Format hat einen
+Dell-Farbträger wird aber mit 60Hz wiedergegeben (im Gegensatz zu unseren
+50Hz). Das setzt auch einen entsprechenden Fernseher voraus. Aber auch
+die meisten modernen TV-Geräte in Europa können in der Regel PAL60 und
+oft auch echtes NTSC wiedergeben.
+
+Umgekehrt funktioniert das dagegen kaum, da die amerikanischen Geräte so
+gut wie nie eine Funktion zur PAL-Wiedergabe besitzen. Fernseher können
+da in der Regel auch nur NTSC und kommen nicht mit der
+50Hz-Bildwiederholfrequenz zurecht. Die Leute sehen dann _wenn
+überhaupt ein S/W-Bild das ziemlich stark flackert bzw. von oben nach
+unten durchläuft.
+
+
+Du kannst eine professionelle Normwandlung machen lassen. Ist aber nicht
+billig, es sei denn du kennst jemanden mit entspechendem Equipment.
+
+Größe
+Igor
+-- 
+Der phantastische Film von 1895 bis 1970: http://usy.bfaekixiprdoki.hd

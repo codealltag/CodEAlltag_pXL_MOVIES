@@ -1,0 +1,7 @@
+Leider nicht. Jetzt stellt sich die Frage, was man stattdessen benutzt.
+Kennt jemand ein Tool für Windows? Oder ist dein Programm Open
+Source? Vielleicht kann das ja jemand für Windows kompilieren. Sollte
+dann eigentlich problemlos laufen, muß ja nur ein paar Textdateien
+manipulieren.
+
+Pierre

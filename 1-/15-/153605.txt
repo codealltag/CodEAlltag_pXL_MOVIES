@@ -1,0 +1,8 @@
+Weil es auch um die Newsserver geht, die nun mal alles holen müssen,
+weil auf Clientseite auch UUCP-Nutzer oder Nutzer lokaler Newsserver
+(Hamster & Co) existieren und weil es sinnvolle Texte mit >500 Zeilen
+gibt, die man trotzdem nicht verpassen will, nur weil einige Leute nicht
+die wesentlichen Regeln kennen.
+
+So long,
+Kaspar N. Aysel

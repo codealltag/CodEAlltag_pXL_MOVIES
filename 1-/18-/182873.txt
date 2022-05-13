@@ -1,0 +1,73 @@
+Hallo Harm,
+
+auf der Seite nicht, aber unter "http://zyg.qnk.qi/~d0kvszhe/lqffj.vbq",
+wobei die Seite für ein paar Tage nicht erreichbar ist, alternativ unter
+"http://ruz.hgsn-jikete.bx/BZK_qdyvrdhy/gynvsft.qcn", wobei die Leute
+unter der letzten Adresse das Maul sehr weit aufreissen.
+Die Bilder kann ich dir auch zumailen, no Problem.
+Der Umbau selber ist easy. Ich habe jetzt c. 20 DV 505 und einen 909
+umgerüstet plus einem Fehlschlag, der aber nicht an dem Umbau lag.
+
+Hier die Arbeitsschritte:
+
+Gehäuse öffnen, 8 Schrauben.
+Deckel abnehmen.
+Auf der rechten Seite ist eine Platine zu sehen, aus der mehrere
+Flachkabel ragen.
+Diese Platine lösen (4 Schrauben, eine davon mit einem Kabelhalter).
+Metallabdeckung abnehmen (Kühlkörper).
+Die beiden hinteren Flachkabel aus den Steckern ziehen (Vorsichtig dabei,
+das war der Fehlschlag).
+Das vordere Flachkabel ebenfalls lösen.
+Die Platine jetzt vorsichtig aus der Halterung lösen und umdrehen.
+Du siehst jetzt die Rückseite der Platine (Tip, klemm die Platine unter
+einen Laufwerksvorsprung, sie liegt dann in optimaler L�tposition und du
+hast beide Hände frei). Auf der linken Seite der Platine sieht man ein
+gesockeltes IC (Sicht von vorne), daneben sieht man dann die drei L�tpunke
+aus dem Foto. Die beiden Punkte, die am weitestens vom IC entfernt sind
+werden jetzt duch einen tpunkt verbunden. (Der mittlere und der Punkt,
+der der Ger�tevorderseite am nächsten ist).
+Platine wieder umdrehen (Vorsicht mit den Kabeln) und dann wieder
+befestigen (Metallabdeckung nicht vergessen)
+Flachkabel wieder einstecken (Sanft und ohne Gewalt) und dann die erste
+Probe vornehmen.
+Netzstecker rein (Finger weg vom Netzteil) und einschalten. Der Player
+sollte "No Disc" anzeigen. Schon mal ein gutes Zeichen<g>.
+Ausschalten, Stecker raus und das Gehäuse wieder schließen.
+
+Jetzt die Stunde der Wahrheit.
+
+Player an den Fernseher anschliessen (S-VHS, alles andere wäre
+Qualit�tsverschwendung) und folgendes probieren:
+
+Gerät einschalten.
+Taste "MENU" der FB drücken (keine Disc im Player oder offene Schublade).
+Es erscheint das Main Setup Men mit einer einzigen Anwahlm�glichkeit (1
+INITIAL).
+Die Taste 1 der FB drücken.
+Das nächste Men zeigt 2 Eintragungen (1 OSD SET und 2 B.G.COLOR) und
+einen Kasten auf der rechten Seite, in dem "OSD SET." steht.
+Drück die "Display" Taste der FB (oben rechts unter der "Open/Close"
+Taste).
+Der rechte Kasten zeigt jetzt den Regionalcode, der eingestellt ist
+(REGION: 2) und die Softwareversion des Gerätes.
+Drück die Taste "CONDITION" der FB (Unterste Reihe, ganz rechts).
+Jetzt drück einfach die Zahl des gewünschten Regionalcodes über die
+Zehnertastatur der FB ein. ( 1bis 6).
+Nur noch einmal die "MENU" Taste drücken und dann steht dem Filmgenuß
+nichts mehr im Weg.
+Der Player behält den eingestellten Code auch beim Ausschalten, im
+Gegensatz zu den Chipmods, die den Code beim Trennen vom Netz vergessen
+und erst wieder erinnert werden müssen;-)
+Die Macrovisionsumbauten habe ich noch nicht versucht, wer aber nicht gut
+mit dem Lötkolben umgehen kann oder nur eine Riesenspitze hat sollte die
+Finger davon lassen (Dazu zähle ich auch mich). Ein Fehler dabei kann den
+Player killen und das sollte auch dem Service auffallen. 
+
+Carsten
+
+Posted and mailed
+-
+http://rix.kmfz-saihks.dw (HiFi Spezialist Olivier Wagener)
+Dies ist meine persönliche Meinung, nicht die meines Arbeitgebers!
+-

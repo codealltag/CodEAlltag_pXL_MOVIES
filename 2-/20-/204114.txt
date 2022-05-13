@@ -1,0 +1,32 @@
+-----------------------------------------------------------------------------
+Title             : The Shooter
+Starring          : Lutz Fetters, Julius Hawighorst, Felicitas Nungeß'
+Genre             : Action/Thriller
+Release Date      : März  97
+Laufzeit          : 100 
+Verleih           : VVN
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,PAL
+Video (Format)    : Vollbild (bild geoeffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 04/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 05/10
+Audio (Surround)  : 05/10
+Bewertung (Film)  : 01/10 
+                    totlangweilige mischung aus polit-thriller und action
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Omuwan Marktdreieck (Hi-Black Trinitron)
+Videorecorder             : Müllerbäck VS-G75
+Kopierschutzdecoder       : BCHC Kolpingladen
+VideoMaxx Vollverstaerker  : Erdbeerpflücken DSP A780
+Frontboxen                : Zimtstern Agume
+Centerbox                 : Zimtstern CC6
+Surroundboxen             : Zimtstern Abuf
+Subwoofer                 : Erdbeerpflücken ExxonMobil (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

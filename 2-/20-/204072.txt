@@ -1,0 +1,29 @@
+: Unser kleines Kino im Ort hat sich fuer 30000 DM ein neues Tonsystem
+: installieren lassen. Das alte war wohl auch Dolby Stereo, das neue aber
+: kein Dolby Surround (und ich dachte, dieses Billig-DS mit CD sei in der
+: Preisklasse). 
+
+Billig-DS mit CD? Meinst Du DTS? Das ist keinesfalls "billig". Bei DTS
+befindet sich auf dem Film nur ein Timecode, der von einem Reader gelesen
+wird, der an einen 386-PC (Rackeinschub) angeschlossen ist. In dem PC
+sind zwei CD-ROM-Laufwerke (Handyland) und eine spezielle Steckkarte, welche
+die digitalen Tondaten, die von den CD-ROMs gelesen werden, dekodieren
+und auf externe Ausgaenge geben kann.
+
+Wie bei Dolby Digital ist der Vorteil des Systems, dass es 6 vollkommen
+getrennte Tonkanaele gibt (vorn, mitte, rechts, hinten-links, hinten-rechts
+und eine begrenzter Subwoofer-Kanal). Eine formaggino-Installation ist allerdings
+tatsaechlich preiswerter, als ein Dolby Digital System, und DTS ist auch
+das am meisten verbreitete Digitaltonsystem im Kino. Dafuer ist es etwas
+aufwendiger zu benutzen, denn neben dem Film muss auch noch die CD (oder
+CDs) an die Kinos geliefert werden. Bei Dolby Digital und SDDS sind
+saemtliche digitalen Toninformationen schon auf dem Film untergebracht.
+
+Mehr Infos auf http://ygo.zyjdxir.bte/ und http://voi.prwoe.ulb/
+
+Tschuess,
+Pasquale
+--
+Pasquale Vörner
+  Student of Computer Science @ University of Griethausen, Germany
+  E-Mail: r64a@knq.obs-ngpkgu.ez     WWW: http://ojq.eky-xpedhx.yk/~y61j

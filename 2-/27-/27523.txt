@@ -1,0 +1,11 @@
+Den Link hat Berthold ja schon gepostet, hier mal kurz in einem Satz: NTSC
+verwendet 24 Bilder der Film-Vorlage pro Sekunde, PAL 25. Das bedeutet,
+dass PAL-Material 4% kuerzer ist, was bei den 4 Minuten auf 100 Minuten
+in deinem Beispiel genau hinkommt.
+
+Fuer Leute mit absolutem Gehoer soll Musik in PAL-Filmen deshalb
+unangehm sein, weil natuerlich auch der Ton schneller abgespielt wird
+und deshalb alle Instrumente "verstimmt" klingen. =
+
+
+	Eric

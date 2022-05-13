@@ -1,0 +1,40 @@
+Bezug: "Re: VIRUS im Umlauf (was:Bonsai-Do- Opas Musik)"
+  vom: 21.10.99
+
+
+Und wens bei wem schon zu spät war (und beim Franz Olson war's das mit  
+Garantie ;-) ), der kann den Wurm wieder wie folgt loswerden.
+
+<imarchivkram>
+
+-----INFO_ON----
+Seit Silvester verbreitet sich ueber Mails und Newsgroups im Internet der
+"Wurm" (ein Virus der sich ueber das Internet in anderen Rechnern
+einnistet) Happy1999.
+
+Die Mail sieht aus wie eine Grusskarte mit kleinem Attachment - die
+Happy99.exe. Oeffnet man diese Datei, so startet ein kleines Feuerwerk in
+einem Bildschirm-Fenster mit dem Gruss "Happy New Year 1999".
+
+Doch waehrend man sich ueber die vermeintlichen Silvestergruesse freut,
+veraendert Peter die fuer die Internet-Verbindung verantwortliche
+"winsock.dll"-Datei.
+
+Zwar werden so weder Ihr Rechner zerstoert noch wichtige Daten geloescht,
+dafuer wird Ihr Rechner zu einem "Spam-Server", der an jede ausgehende
+Mail oder Newsgroupmessage eine Copy des Sindele. exe-Worms anhaengt.
+
+Und so machen Sie den Schmarotzer unschaedlich:
+
+1) Gehen sie in den DOS-Modus
+2) Loeschen Sie im Verzeichnis c:\windows\system\ die Datei
+        "SKA.EXE" und "SKA.DLL"
+3) Stellen Sie die Winsock32.dll mit dem Befehl
+        Copy wsock32.ska wsock32.dll
+   wieder her.
+
+-----INFO_OFF---
+
+Beste Größe
+
+Antonio

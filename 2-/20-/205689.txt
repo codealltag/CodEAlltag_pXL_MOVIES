@@ -1,0 +1,28 @@
+(Warning : Esus (Blutiger Anfaenger Frage) ;-)
+
+Hallo,
+
+ich moechte mehrere S/W Camera Signale aufnehmen (also BAS, oder ?) und
+zwar wollte ich das auf einem Videorec. ! Ich dachte da das ich einen RGB
+nach Video (FBAS bzw Video-out) nehmen und dem auf jedem Farbkanal eine 
+Kamera (sprich BAS Signal) serviere (wenn keine Kamera dran haengt dann 
+was ?,  Brauch ich den RGB nach Video ueberhaupt ? Langt es wenn ich "ein-
+fach" an die R G B Pins das BAS Signal der Kamera dranhaenge (und alle 
+GNDs zusammen doedele) ! 
+
+So das die S/W Bilder als "Farb(grau)stufen" auf einem Bild/Video ueber-
+lagert werden.
+
+GEHT DAS ? So wie ich mir das denke ? Wie realisier ich das am besten ?
+
+Danke		ingmar
+
+
+-- 
+[standard disclaimer] In addition I would like to speak to my lawyer......
+Deutsches Grundgesetz Artikel 22 : "Die Bundesflagge ist Schwarz-Rot-Gold"
+German Constitution   Article 22 : "The German Flag is Black-Red-Gold"
+
+rkp%kslgw.dzsl@xttkwkb.lq.htt 				   pxv@cekejlzn.mc
+
+It's not a trick,					   it's a .sig

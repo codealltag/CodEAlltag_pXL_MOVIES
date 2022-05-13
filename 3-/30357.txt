@@ -1,0 +1,19 @@
+Dann war es kein Film sondern ein Video. Und welches Video war es? 
+Star Wars - Episode 2ö, wo sie sich bemüht haben besonders schlechte 
+35mm-Prints herzustellen?
+
+
+Bei analogem Film kann man schlecht eine Auflösung angeben, da der
+Film nicht gerastert ist. 
+
+Wenn ich die Werte für Linienauflösung hochrechne, die ich vor 15 Jahren 
+für Diafilm gehört habe, komme ich auf eine "Auflösung" von 4200x3500
+Pixeln für einem einzelnen Frame. Anders als bei digitalen Verfahren
+erhöht sich die Auflösung bei Film aber, da die Bilder nicht gerastert
+sind, sondern die Körnung der einzelnen Frames statistisch verteilt ist.
+Mehrere Frames hintereinander können deshalb etwas feinere Details
+wiedergeben als ein einzelner Frame.
+
+Ciao, Mgogm                                 ctttskaq @ czrmhimy.ke
+
+Zuletzt gesehen: �Suchwiin bulmyeong���Yoja, jeongbenno Mon ange

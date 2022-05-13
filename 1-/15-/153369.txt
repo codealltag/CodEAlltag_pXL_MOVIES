@@ -1,0 +1,16 @@
+[...]
+Nichts gegen unsinniges Verhalten in Filmen (wenn die Boesen nicht so
+bloed waeren, gaebe es 007 schon lange nicht mehr), aber schluessig
+muss es in sich bleiben.
+Nur wie sieht es mit 'Widerspruch zu physikalischen Tatsachen' aus -
+also z.B. die netten, immer brummenden Raumschiffe im Vakuum oder die
+droehnenden Meteoriten, haemmernde Lasereinschlaege o.ae.?
+Hier koennen Fehler schon aergerlich werden.
+
+Ulfert
+-- 
+Dipl.-Inf. U. Usinger  GDTK, TIEFSTADT UTM  st@xoc.shs-krlkxbam.tw
+main()
+{
+        while (isstupid(USER)) ignore(USER);
+}

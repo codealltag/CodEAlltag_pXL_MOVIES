@@ -1,0 +1,100 @@
+Hallo Berthold,
+
+: > Tja, was sonst... Laser-TV bei Ebbert! Muß man gesehen haben. Ein
+: > absolut scharfes Bild aus jeglicher Entfernung, selbst wenn man einfach
+: > eine Stoffbahn mitten in den Strahl hält, wie eifrig demonstriert wurde.
+: > Der ebenfalls ausgestellte R�ckprojektionsfernseher mit derselben Technik
+: > hatte noch einige Probleme (sichtbare Zeileneffekte), aber mit ein paar
+: > mehr Verbesserungen dürfte es nichts besseres mehr in Sachen Projektion
+: > geben.
+
+: Also ich war nicht ganz so beeindruckt wie Du.Das Bild des Laserprojektors
+: war zwar wirklich sehr scharf ,hell und dabei doch erstaunlich kontrastreich
+: aber es war auch recht unruhig.Bei den Sonnenuntergang konnte man ein
+: Flimmern der Farben (besonders rot) sehen das sich über mehrere Zeilen
+: erstreckte.
+
+Ich war nach der Vorfuehrung noch draussen am Stand, wo einer der Entwickler
+des Projektors anwesend war. Er hat sehr kompetent Antworten zu Fragen
+einiger Messebesucher gegeben, die anscheinend ebenfalls recht viel
+ueber Lasertechnik wussten. Ich habe nicht alles verstanden, aber 
+anhand der Schaubilder war die Technik schon zu verstehen (ich hoffe,
+ich gebe das richtig wieder):
+
+Das Laserlicht, welches im Bereich des oberen Lichtsprektrum liegt, wird
+zerteilt, dann durch verschiedene Modulatoren entsprechend gesteuert
+und wieder zusammengefuegt. Interessant ist dann die Projektion, die
+ueber zwei Spiegel funktioniert: Eine rotierende Scheibe, auf deren
+Rand 24 Spiegel aufgesetzt sind, sind fuer den Bildaufbau zustaendig.
+Diese Scheibe dreht sich recht schnell (waren, glaub ich, 1200 U/min) und
+leitet den Laserstrahl auf einen weiteren Spiegel, der dann fuer den
+Zeilenaufbau zustaendig ist.
+Das Problem bei den LaserTV ist ja immer noch etwas der "Speckle"-Effekt,
+der fuer das "Blitzeln" des Bildes verantwortlich ist. Anscheinend
+haben die das Problem wohl nicht ganz geloest.
+
+: Dennoch war es bis zu diesen Zeitpunkt das beste was ich in sachen
+: Projektion gesehen habe (da war ich aber auch noch nicht bei Pirad ;-) ).
+: Den R�ckenprojektor fand ich aber nur schlecht.Das Bild hatte lauter kleine
+: Punkte was doch sehr störte .Da ist mir ein LCD-billig-Projektor noch lieber.
+
+Ja, und er hat horizontale Streifen und dazu noch Fehler im Bild...
+Der Typ meinte, dass es noch mindestens fuenf Jahre dauern wuerde, bis
+der bezahlbar auf dem Markt kommt.
+
+: Wirklich beeindruckt war ich dann aber doch noch bei den neuen Projektoren
+: von Pirad.
+: Der Projektor war klein (wie ein Dia-Projektor) sehr Lichtstark und sehr
+: scharf und das bei einer Bilddiagonale von sicher 4-5m.
+: Die Technichen Daten sprachen auch für sich:
+
+: 2.36 mio Pixel
+: 500 ANSI Lumen
+: Auflösung VGA 1024x768
+
+Hoert sich ja recht gut an. Ich bin zur McGarden gefahren, um mir einen
+Projektor auszusuchen. Den Pirad wollte ich sehen, bin aber leider nicht
+mehr zu gekommen. Aber eigentlich wollte ich sowieso keinen LCD-Projektor.
+
+Dafuer habe ich den UEG von Leseinsel gesehen, der mit den zwei DMD-Chips.
+Ich fand das Bild gar nicht so toll, wie es von der Elwert her
+gehuldigt wurde.
+
+: Leider mit 19900.-DM auch nicht ganz billig.
+: Endlich mal wieder einen Grund um Lotto zu spielen ;-)
+
+Nunja, ich habe mir den Pietät SVP-400 gegoennt. Kostet reell 17.000 DM,
+Messegeraete waren fuer 14.500 zu bekommen. Ich habe ihn noch nicht,
+daher kann ich noch nicht soviel zu sagen (wird wohl naechste oder uebernaechste
+Woche bei mir stehen).
+Aber er hat einen eingebauten Linedoubler, 100Hz, kann 16:9, hat 20 digitale
+Speicher (oder so) fuer die Bildeinstellungen und kann VGA darstellen.
+Das Bild mit dem Linedoubler ist wirklich gut.
+Lotte spielen musste ich dafuer nicht, aber immerhin einige Monate
+hart arbeiten und das Geld zusammenhalten. :) Dafuer kann ich mir jetzt
+noch nicht die Linewand leisten...
+
+
+: Leider hat sich bei der McGarden mal wieder gezeigt das Projektion den Fernseher
+: eben noch nicht ersetzen kann ausser man hat mal eben 20000.-DM übrig.
+: Trotzdem wird wohl dem Laser-TV die Zukunft gehören was aber sicher noch 4
+: Jahre dauern wird bis es bezahlbar wird und wenigstens ansatzweise die Qualitat
+: von heutigen 100hz Fernsehern erreicht hat.
+
+Nunja, ich werde meinen grossen Fernseher abschaffen (habe dann nur noch
+36er im Arbeitszimmer und Schlafzimmer).
+
+: > Die Packma-Vorführung habe ich nun leider selbst nicht gesehen, aber neben
+
+: Da hast Du leider was verpasst.Ich fand die Vorführungen von Packma am besten.
+: Sonst hatte die Halle aber nicht viel zu bieten.
+
+Ich habe die Packma-Vorfuehrung nicht gesehen, aber die ganzen Men in Black
+in der Halle :)
+
+Tschaui, Jonas
+
+--
+
+  Jonas Trenkel
+  University of Groppenbruch, Germany

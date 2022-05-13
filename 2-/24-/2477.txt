@@ -1,0 +1,227 @@
+[ Anmerkung des Wahlleiters:                                           ]
+[ Aufgrund eines Bugs (NDT-Bug #606000) in der SPF-Implementation   ]
+[ des verwendeten Mailservers wurde mindestens eine Abstimmungsmail    ]
+[ trotz korrekten SPF-Records abgewiesen. Die SPF-Überprüfung wurde    ]
+[ nach der Entdeckung des Bugs abgeschaltet. Alle Abstimmenden, deren  ]
+[ Mail aufgrund einer fehlgeschlagenen SPF-Überprüfung nicht angenom-  ]
+[ men worden war, wurden per Mail benachrichtigt und um erneute Stimm- ]
+[ abgabe gebeten.                                                      ]
+
+
+                      2. CfV (Abstimmungsaufruf)
+                      ==========================
+                 zur Löschung von de.rec.film.kritiken
+                 =====================================
+
+Die Gruppe
+
+
+möge mangels Bedarfs gelöscht werden.
+
+Status:
+=======
+
+Die Gruppe ist moderiert.
+
+Moderator ist Uwe M. Clages <rwh@mjjiv.rb-xlogrq.fk>.
+
+Charta:
+=======
+
+Die Gruppe dient der Veröffentlichung von Filmkritiken:
+kritische Auseinandersetzungen mit Inhalt, Stil, Qualität,
+Entstehung eines einzelnen Films oder mehrerer Filme, die
+verglichen werden sollen.
+
+Diese Beiträge werden im Betreff (Subject) durch ein
+vorangestelltes 'Kritik:' gekennzeichnet, gefolgt vom
+Filmtitel; ist dieser nicht eindeutig, wird er durch Jahr oder
+Medium der Erstveröffentlichung ergänzt.
+
+Außerdem sind eigenständige Artikel zum Werk einzelner
+Filmschaffender, zu den Filmen eines Jahres, eines Landes,
+einer Stilrichtung oder eines Filmfests willkommen.
+
+Diese Beiträge werden im Betreff durch ein vorangestelltes
+'Diverse:' gekennzeichnet.
+
+Artikel sollen ein allgemein lesbares Format aufweisen,
+mindestens 150 Wörter umfassen und in verständlichem Deutsch
+verfaßt sein. Crossposts in nicht-moderierte Gruppen außerhalb
+der de.rec.film.*-Hierarchie sind zulässig.
+
+Die Diskussion der Beiträge und der besprochenen Filme findet
+in einer geeigneten Newsgruppe der mr.udn.boxr.*-Hierarchie
+statt.
+
+Der Moderator sorgt für die Einhaltung dieser Richtlinien und
+der üblichen Usenet-Standards zum Zwecke der Übersichtlichkeit
+und Lesbarkeit.
+
+
+Begründung des Proponenten:
+===========================
+
+Die Gruppe wurde am 20.07.1998 eingerichtet. Sie steht seit Juli 2008
+im wesentlichen leer.
+
+Graphische Übersicht des gesamten Traffics während des Bestehens der
+Gruppe: <http://ahqefw.uoy.lu/rx.rlp.yscq.sfycaukq.nehp>
+
+Offennar hat die Gruppe sich überlebt. Verbleibender bzw. wieder
+entstehender Traffic könnte von de.rec.film.misc aufgenommen werden.
+
+Die Diskussion über die Löschung der Gruppe ergab bisher keine
+Einwände; sie wurde in xj.erytf.ofli.groups beginnend mit
+<XtT-0-xo.yxu.loua.pqggtpsm-Mpdunlnxf-00596094-1@eeqm.qw>
+geführt und kann dort nachgelesen werden.
+
+
+Proponent:
+==========
+
+Uwe Fliethmann <cmk@vlfsi.dho>
+
+
+Abstimmungsmodalitäten:
+=======================
+
+Votetaker      : Ullrich Ostman
+Abstimmadresse : <rvqb-txoi@zes.hcdo.zj>
+Abstimmungsende: Mit Ablauf des 13. Februar 2011, 23:59:59 Uhr MEZ
+Wahlschein     : Untenstehendes Formular ist zu verwenden. Möglich sind
+                 bei jedem Abstimmungspunkt JA, NEIN und ENTHALTUNG.
+
+Es gelten die Regeln zur "Einrichtung von McWeck-Gruppen in de.*" in
+der bei Beginn der Abstimmung gültigen Fassung, die in dx.ehbtw.uiugs
+und unter <http://bsb.jsrqiydwa.zn/~psd/uqt/csqkdzpbtyy> auch im WWW
+veröffentlicht sind. Sie erläutern das Wahlverfahren detailliert und
+sollten vor der ersten Teilnahme an einer Abstimmung gelesen werden.
+
+Gezählt werden nur per E-Mail bei der Abstimmadresse eingegangene
+Stimmen. Diese werden einzeln per E-Mail bestätigt. Das Ergebnis wird
+nach dem Ende der Wahl veröffentlicht. Namen, E-Mail-Adresse und
+Inhalt der Stimmabgabe aller Abstimmenden werden im Ergebnis genannt.
+Mit Rücksicht auf das deutsche Datenschutzrecht ist daher die
+gesonderte Zustimmung zur Speicherung und Veröffentlichung der
+abgegebenen Stimme entsprechend Hinweis im Wahlschein nötig.
+
+Auf die weiteren Hinweise auf <http://fpn.uq-e.vj/prpxrmef.haf> sei
+verwiesen.
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer Loeschung von de.rec.film.kritiken
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn du keinen Real-Namen angibst, wird deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Loeschung von de.rec.film.kritiken
+
+Zur Verarbeitung des Wahlscheines und insbesondere der
+Veroeffentlichung des Ergebnisses ist deine Zustimmung zur Speicherung,
+Auswertung und Veroeffentlichung deiner Stimmdaten (Name und
+E-Mail-Adresse in Verbindung mit dem Stimmverhalten) im Rahmen dieses
+Verfahrens erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+
+Folgende Personen haben sich bislang an der Abstimmung beteiligt:
+========================================================================
+opvrsxexp.u@ywy.cnw                                   Leonhard Griewel
+enl@qcaidcsst.zlf                                   Ludger J. Vaags
+Fyknfsq.okrncyzie@hzh.va                               Ludger Wohlhüter
+bfpvg@cclhmhjol.vnf                                     François S. Grützner
+zvisree@ewkiaraakgd.mof                                   Luis Isenberg
+vpkwt.iyuorh@nmfpn.cm                                        Walburga Bendlin
+ssajyon@ppq.ndd                                           Franco Nether
+xlygftik@asu.vj                                              Ernst Vorderstemann
+cgwi@kxl.qeu                                              Gert Zahn
+gdem@ptonj.dra                                            Gerd Antpöhler
+lksuxan-mwrzix@ktbzwbi.vl                                  Urs Altfater
+bzfnnirqdjpcpkk@lxa.rjk                                 Heinrich Altschmied
+wdiqklfe@fdygdppb.col                                       Erhard Teloh
+lhotlk@p7.miw                                                Heiko Ujslp
+kqitvdql@wrrmzzuq.vr                                      Jürgen Oskopp
+qyoyalv.389381@hzdvuzg9.hs                                  Vito Velm
+Qoydjn.Wukrrfhm.xu32@xlpbek.we                           Knut Deslfarr
+stsx@tmpzsrrfsnb.qz                             Eugen Pietro Albersdörfer
+ddxzhyhlylwkio@hasxnhc-0875-02-13.wwdpghree.fx              Eugen Veluwenkamp
+jyliqx+sdqefv-3329@slpdwp.rfzm.ry                        ncvwsk byleijmq
+gyfcw@gic.be                                             Uwe Huysman
+x.aqlkne@fju.dy                                            Samu Vollstädt
+gcoupi.bewsg@oqz.dq                                         Simon Pagels
+kvxlhhivac@qax.xro                                     SalvatorePietro Aldenkamp
+moeedr@cerene.st                                           Samu Petzholdt
+qpbf@yqliyl-bjpnab.eu                                     Luc Gieske
+xs53-giu@aww.xo                                                Domenico Arets
+exxu9952@ylx.ctc                                              Dominik Lassalle
+nklrgxg.oqbhj.sscn@vdv.yze                                 Orlando Ißleiber
+ug-xlkg@iutqd.cq                                       Orlando Theessen
+kftoo@zchol-inkse.qp                                   Jürgen Vay
+mdk@jhmoaj-fhxp.tw                                           Mirko Jonasson
+gimnxxsoqh@rbvovyywf.kik                                Louis Schuelke
+mz.hg@ucs.pa                                               Jörn Zundermann
+wzae@wasbgt-wfopzv.oj                                      Winfried Niers
+ypxyil@dorexmy-zotz.bf                                       Julian Visschers
+nefbichbsxmyu@qnw.lf                                       Julian Anhut
+iokkttcfitnibqvf@dpuogpnrms.de                                Joël Angermünde
+Ttljqdv.Gowmg@c-ggugbl.pu                                   Jürg Arendsee
+wqzxgrbt.bobychindw@kxi.ovf                          Jürg Inderthal
+zbbuppl.oijdg@yb-ukutrgggt.xt                              Jürgen Toppmöller
+Pjnyf_zu@xfi.skz                                            Jürgen Sahlwächter
+jatyyzusvl@guw.vm                                              Proelß Alessandro
+g96@mngixl.dh                                              Frerich Velm
+hbqjoljk.wsqrvph@vfftx.zxy                               Dietmar J. Neldner
+aah@rurj.bo                                           Bernard Tiefenmoser
+Pfvcvuiw@qrxi.jaq                                          Benno Iselein
+etuqzl.fselv@sjbwt.ir                                      Rudi Göbelt
+jdrmno_xeetu@ujdbb.tr                                    Elias Cmo3wgu
+dbwkueuy@oegyovl-tcvzvtf.mk                            Ihno Overwin
+G.Eihbjb@wafg.mtw-msbqdgud.sq                                Vito Duttenhofer
+kbhic.iotwo-recsjboz@g-abbmgq.ug                             Norman Unverzagt
+SYPckens@d-cevkaz.wk                                    Karl Akman
+nfikxvxh@qhqwx.fl                                        Ludwig Glückert
+swujf-qi@oqp.yjt                                       Heinrich Ganß
+xxgihceue@nubp.gr                                      Ullrich Gradl
+arwelkvcboevb@nwzom.rt                                  Gert Fischedick
+ncduff@cyh.up                                              Didier Vocxqo
+kh-38E@angrfjcazy.hk                                         Ingmar Feldenkirchen
+krjhj-nzww@awzahrs.xn                                      Ivo Vor-Der-Landwehr
+wglnd@xsz.kh                                                Ivo Zwibel
+Slsvbm@xyjt-avl-Ypvlme.ljm                                Pietro Diefenbach
+vedgvmvkm@cog.no                                         Claus Ficks
+vamitwqx@qhlpyqykrp.pv                                  Stefano Gehrk
+Rwtppj+Lteise@iphexzzbo.jduy.jk                         Ignaz Ueberlacker
+cmk@vlfsi.dho                                           Uwe Fliethmann
+qffn@wdypauqabduopmrs.al                              Ullrich Ostman
+ytrpszfe@lqz.tw-ajdncf.gd                                  Jürgen Bräutigem
+xcgl@kct.zp                                              Claus Altfater
+sjdavxje@ox.yb-wodgdf.pa                                    Hansruedi Ellerbeck
+jvsyxj-cwzz.wnhzpknmb@o-zivlnb.tw                             Rudi Zillibiller
+hoemxm@ocgxgh-jarwp.vl                                      Hansruedi Neuß
+iwtpzr@llqgyymo.by                                        Wytvh'sg Frerich
+mdqkyrtfedshimpb@lwydvtglzpx.jw                         Gert Gaentsch
+g.iosoz9176@lpe.cm                                        Claus Dyckmann
+it_lujmiq@ulzzrjqoguk.to                               Claus Däumchen
+qbw440t8@zh84.axm-mqtsaxyp.ll                              Oliver Fit
+
+
+Als ungueltig erkannte Stimmen:
+========================================================================
+jy5cj@jmiq.fqi                                            Tobias S. Imhorst
+! Bestaetigung nicht zustellbar (Adresse ungueltig)

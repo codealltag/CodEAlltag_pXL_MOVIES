@@ -1,0 +1,29 @@
+Gaengige
+   nicht
+
+   Auf meiner Systempartition habe ich nicht besonders viel Platz frei, da ich
+   nicht mit solchen Swapfiles rechne (wg. der 64MB Hauptspeicher, wie ich Dir
+   ja schon schrieb). Dein Programm koennte doch selbst dafuer sorgen, dass
+   die Daten geschickt auf die Festplatte ausgelagert werden. Wo ist der
+   Unterschied, ob Du es machst oder Windows 95? Alages ist kein Beispiel,
+
+Woher soll mein Programm wissen, wieviel Speicher das Betriebssystem zur
+Verfuegung hat? Mag sein, dass es eine Systemspezifische API gibt, wo
+man das ermitteln koennte, dann weiss ich aber immer noch nicht, wieviel
+Speicher andere Programme verbraten, wie gross das Swapfile ist oder wie
+gross es werden kann.
+
+Es ist nun mal so, bei einem vernuenftigen Betriebssystem (Monscheuer ist zwar
+keins, will aber so aussehen :) kann ein Programm davon ausgehen, dass 
+Speicher zur Verfuegung steht, ob das nun Hauptspeicher oder virtueller
+ist sollte egal sein. Und wenn man davon nicht ausgehen kann, bleibt
+nur der Ansatz, alles auf der Platte zu machen -> CineBASE.
+
+Ciao,
+  Uwe
+--
+Uwe Jung-König
+mxfwznt@py.no-usraio.vy
+-- 
+Uwe Jung-König
+mxfwznt@py.no-usraio.vy

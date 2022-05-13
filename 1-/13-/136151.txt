@@ -1,0 +1,23 @@
+Hallo,
+
+ich habe mir gerade die Cube DVD angeguckt und mir mal die Zeit genommen,
+mitzurechnen... kann es sein, dass da ein paar Fehler drin sind?
+
+Wenn ich das richtig verstanden habe sind die Quersummen der 3-er kombinationen
+jeweils die x,y,z - Koordinate. Wenn eine dieser 3er Kombinationen nur einen
+Primfaktor hat, gibt es eine Falle?
+
+Wenn dem so ist, passt es nicht so ganz, die waren naemlich mindestens
+im Raum 527 272 717 und einmal in ? 309 466.
+
+Ausserdem musste unser junges Mathemtikgenie bei 565 tatsaechlich ueberlegen.
+
+Oder habe ich die Regeln doch falsch verstanden? Ausserdem ist mir so etwas
+entgangen, wie sie die Permutationsfolge bestimmt hat?
+
+Noah
+-- 
+Dipl-Inf. Noah Beedgen aka Mark. Internet: ocviwb@agbzgwp.yr
+Oberthürstraße 70, 02965 Göhrde, Germany. Tel +78 83 77630257
+----------------------------------------------------------------------------
+"Captain, this ship will not sustain the forming of the cosmos." B'Elana Ingendorn

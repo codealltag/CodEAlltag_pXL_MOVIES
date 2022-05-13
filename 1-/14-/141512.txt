@@ -1,0 +1,4 @@
+Ich habe den Fehler endlich gefunden. Dein Posting im anderen Thread
+brachte die Lösung: Ich hatte bei WinZip die Option "smart CR/LF
+Conversion" aktiviert. Beim Entpacken der list-Files hat das noch
+nichts ausgemacht, bei den diff-Files ist PMDB da wohl "kritischer".

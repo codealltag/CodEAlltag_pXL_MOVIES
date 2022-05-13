@@ -1,0 +1,11 @@
+Die kannte ich wirklich nicht. Ich hatte nach "ROT13" gesucht und nur
+'toogle-rot13-mode' gefunden. Mit "W r" ist es wirklich kein "erheblicher"
+Aufwand mehr, bequem ist es aber auch nicht gerade.
+
+
+Da zunehmend mittem im Satz der ROT13-Mode gewechselt wird, wäre so eine
+Funktion wirklich notwendig, um die Sätze als Ganzes lesen zu können.
+
+Ciao, Pmnyf                               ncecpzec @ rlpfrvuj.oo
+
+Zuletzt gesehen: Non � giusto, Vanessa, Beneker per caso

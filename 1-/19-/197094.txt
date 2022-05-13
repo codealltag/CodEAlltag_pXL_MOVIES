@@ -1,0 +1,23 @@
+Am Fri, 2 Aug 97 18:28:59 CET schrieb
+H.Brftltv@FVslflmz.wm-bac.gf (Wplzpor Wcfbwlz) folgendes zum
+Thema:
+Re: 3D Filme
+
+Hi,
+wie das funktioniert ist nachzulesen in der neuen Beuchert (9/97)
+auf Seite 58: Augenklicks - Interaktives 3D für
+Multimedia-Endgeraete. Ueber ein Linsenrastersystem vor
+einem LC-display werden rechte und linke Teilansicht in
+leicht verschiedene Raumrichtungen geworfen. Das
+Linsenrastersystem wird gesteuert mit Hilfe eines
+Head-Tracking-Verfahrens (Kopfposition wird aus einem
+Kamerabild berechnet), damit die Teilbilder immer richtig
+zum linken und rechten Auge geschickt werden, auch bei
+Kopfbewegungen.
+(Ich hoffe, das war jetzt auch noch nach der notwendigen
+Verkuerzung verstaendlich. Wer mir falsches Zitieren
+nachweisen will oder wissen will, wie man einen Computer nur
+mit den Augen anstelle von Maus und Keyboard steuern kann,
+soll diesen hochinteressanten Artikel selber lesen ;-)
+
+cu, franco

@@ -1,0 +1,15 @@
+Hallo
+
+Ich habe mal theoretische Ueberlegungen zu einer
+Hochgeschwindigkeitskammera gemacht.
+Daten:
+20 us / Bild
+700 Bilder/Film ( => Normalgeschwindigkeit 50 Bilde/s entspricht 14 s
+Laufzeit) 
+
+Will man damit eine Gewehrkugel aufnehmen (1000 m/s) bewegt sich diese
+allerdings immer noch in 20 us um 20 mm. D.h. das Bild wird unscharf.
+
+Wie sieht da zur Zeit der Stand der Technik aus?
+
+Gruss Ulfert

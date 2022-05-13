@@ -1,0 +1,8 @@
+Interessante Bewertungen übrigens:
+
+Arithmetic mean = 8.1,  Median = 9.5
+und dann:
+Weighted average = 4.4
+
+Ich wüsste zu gerne, auf welch seltsame Weise die MMB diesen
+"weighted average" berechnet.

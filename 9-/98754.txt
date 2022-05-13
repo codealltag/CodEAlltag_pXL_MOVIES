@@ -1,0 +1,16 @@
+* otmar maehl:
+
+
+Das ging in der Syncro ein wenig unter. Das Lied "Jumpin' Jack Flash" ist
+in einer bestimmten Tonart geschrieben. Im Englischen heißt Tonart 'Key'.
+'Key' bedeutet aber auch gleichzeitig 'Schlüssel'. IIRC E-Flat oder so.
+
+Schon lang nicht mehr gesehen, ich nehme an man wird mich korrigieren
+wenn ich mich geirrt haben sollte.
+
+Remmer
+
+-- 
+Have you ever noticed that the Klingons are all speaking unix?
+"Grep ls awk chmod." "Mknod ksh tar imap." "Wall fsck yacc!"
+-- Hermann Salemann

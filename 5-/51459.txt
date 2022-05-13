@@ -1,0 +1,244 @@
+NG-Statistik drfm für den August 2004
+erstellt mit einem Skript von Dietrich Jerosch.
+
+02/06: 2347 postings
+03/06: 2252 postings
+04/06: 1990 postings
+05/06: 1790 postings
+06/06: 2352 postings
+07/06: 2979 postings
+08/06: 2473 postings
+
+28/06: 3439 postings
+29/06: 1931 postings
+30/06: 2724 postings
+01/07: 1746 postings
+
+
+02/07: 2078 postings
+
+
+Autoren mit den meisten Postings (2078 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 101 | 2912 | 203.2 | Onno C. Zeitlhuber     |  4.9%  xxxxxxxxxxxxx
+   2 |  82 | 2265 | 163.2 | Sven Tule        |  3.9%  xxxxxxxxxxx  
+   3 |  73 | 2005 | 151.0 | Achim Lofink      |  3.5%  xxxxxxxxxx   
+   4 |  53 | 1002 |  95.1 | Gilles Bertelsmeyer         |  2.6%  xxxxxxx      
+   5 |  49 | 1309 | 100.8 | Ivan Thönnesen         |  2.4%  xxxxxx       
+   6 |  39 |  949 |  64.7 | Aldo Marzell        |  1.9%  xxxxx        
+   7 |  37 | 1347 |  85.4 | Rüdiger Witzman       |  1.8%  xxxxx        
+   8 |  35 |  752 |  66.9 | Gilles S. Zellerer      |  1.7%  xxxx         
+  10 |  33 |  693 |  53.8 | Wilhelm Pascal     |  1.6%  xxxx         
+  11 |  29 |  774 |  51.1 | Gustav Intlekofer        |  1.4%  xxxx         
+  12 |  27 |  835 |  56.0 | Urban Arents             |  1.3%  xxx          
+  16 |  26 |  811 |  55.3 | Severin Maßmann        |  1.3%  xxx          
+  17 |  25 |  547 |  35.2 | Robin 'Rudi' Cores  1.2%  xxx          
+  18 |  24 |  433 |  33.5 | Robin Isenbarth       |  1.2%  xxx          
+  19 |  23 |  671 |  48.8 | Clemens Hüttenloher   |  1.1%  xxx          
+  20 |  22 |  852 |  51.7 | Marc Kreittmayr       |  1.1%  xxx          
+  22 |  20 |  905 |  59.0 | Darius Tschudi        |  1.0%  xx           
+  27 |  18 | 1522 |  82.8 | Oscar                 |  0.9%  xx           
+  30 |  17 |  428 |  32.9 | Nils Lersmacher           |  0.8%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (360 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                                
+       12 |   4 |  1.1%  x                                              
+       11 |   5 |  1.4%  x                                              
+       10 |   7 |  1.9%  xx                                             
+        9 |   5 |  1.4%  x                                              
+        8 |   6 |  1.7%  xx                                             
+        7 |   8 |  2.2%  xx                                             
+        6 |  11 |  3.1%  xxx                                            
+        5 |  15 |  4.2%  xxxxx                                          
+        4 |  25 |  6.9%  xxxxxxxx                                       
+        3 |  39 | 10.8%  xxxxxxxxxxxxx                                  
+        2 |  55 | 15.3%  xxxxxxxxxxxxxxxxxx                             
+        1 | 139 | 38.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (151 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Oscar                 |  10 |    33 |  6.6%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (151 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Dirk Niemiec         |   1 |   255 | 12.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Darius Verheugen     |   2 |   122 |  5.9%  xxxxxxxxxx          
+   3 | Gerard Tummernicht     |   2 |    99 |  4.8%  xxxxxxxx            
+   4 | Richard Kaistra            |   1 |    86 |  4.1%  xxxxxxx             
+   5 | Karsten Tetzlaff        |   1 |    80 |  3.8%  xxxxxx              
+   6 | Otmar Johnßon         |   1 |    63 |  3.0%  xxxxx               
+   7 | Orlando Münninghoff       |   1 |    62 |  3.0%  xxxxx               
+   9 | Gilles S. Zellerer      |   1 |    60 |  2.9%  xxxx                
+  11 | Benedikt Johannisbauer            |   3 |    59 |  2.8%  xxxx                
+  12 | Oskar Hieselmayr          |   1 |    55 |  2.6%  xxxx                
+  14 | Antoine Fluegge       |   1 |    50 |  2.4%  xxxx                
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2078 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 255 | Van Helsing (mit ganz kleinen Spoilern) | 12.3%  xxxxxxxxxx
+   2 | 118 | Argumente gegen Besuch von Multiplexen  |  5.7%  xxxxx     
+   3 |  93 | Remake besser als das Original?         |  4.5%  xxxx      
+   4 |  86 | *G* Mal wieder Zeit für Starship Trooper|  4.1%  xxx       
+   5 |  80 | Females under 18 - Interessant.         |  3.8%  xxx       
+   6 |  63 | gestern in Troja...                     |  3.0%  xx        
+   7 |  62 | Die besten Filmtode                     |  3.0%  xx        
+   9 |  60 | Troy                                    |  2.9%  xx        
+  11 |  55 | Achilles' Tod                           |  2.6%  xx        
+  13 |  50 | Kill Bill 2                             |  2.4%  xx        
+  15 |  47 | Filme, die das Leben verändern          |  2.3%  xx        
+  16 |  46 | Harry Potter und der Gefangene von Azkab|  2.2%  x         
+  17 |  43 | www.ufkoekiyg.fe wird geschlossen       |  2.1%  x         
+  18 |  40 | Onno Grote-Westrich ist tot                    |  1.9%  x         
+  19 |  36 | Die Passion Christi: Der schwarze Mann  |  1.7%  x         
+  20 |  30 | EQUILIBRIUM: Von wo überall zusammengekl|  1.4%  x         
+  21 |  27 | Filmkritik: Der Wixxer                  |  1.3%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (151 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                                
+    13 |   1 |  0.7%  x                                                 
+    12 |   2 |  1.3%  xx                                                
+    11 |   3 |  2.0%  xxxx                                              
+    10 |   5 |  3.3%  xxxxxxx                                           
+     9 |   6 |  4.0%  xxxxxxxx                                          
+     8 |   5 |  3.3%  xxxxxxx                                           
+     7 |   4 |  2.6%  xxxxx                                             
+     6 |   6 |  4.0%  xxxxxxxx                                          
+     5 |   7 |  4.6%  xxxxxxxxx                                         
+     4 |  19 | 12.6%  xxxxxxxxxxxxxxxxxxxxxxxxxx                        
+     3 |  16 | 10.6%  xxxxxxxxxxxxxxxxxxxxxx                            
+     2 |  11 |  7.3%  xxxxxxxxxxxxxxx                                   
+     1 |  36 | 23.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 331 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  97 | Microsoft Outlook Express      | 29.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  55 | GJNH                        | 16.6%  xxxxxxxxxxxxxx           
+  43 | Forte Agent                    | 13.0%  xxxxxxxxxxx              
+  15 | 40tude_Dialog                  |  4.5%  xxxx                     
+  15 | slrn                           |  4.5%  xxxx                     
+  14 | KNode                          |  4.2%  xxx                      
+  14 | Mozilla Thunderbird            |  4.2%  xxx                      
+  11 | Xnews                          |  3.3%  xx                       
+  11 | tin                            |  3.3%  xx                       
+   9 | MacSOUP                        |  2.7%  xx                       
+   8 | Gnus                           |  2.4%  xx                       
+   6 | Hamster                        |  1.8%  x                        
+   6 | Netscape                       |  1.8%  x                        
+   4 | CrossPoint                     |  1.2%  x                        
+   4 | Pan                            |  1.2%  x                        
+   3 | Thunderbird                    |  0.9%                           
+   2 | Gerock            |  0.6%                           
+   1 | Gardena Telnet               |  0.3%                           
+   1 | Oxum                          |  0.3%                           
+   1 | IGZ.10                      |  0.3%                           
+   1 | Wollstübchen Release            |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | Igok M2                       |  0.3%                           
+   1 | Forte Free Agent               |  0.3%                           
+   1 | Gastankstelle            |  0.3%                           
+   1 | VSoup                          |  0.3%                           
+   1 | Ezmnnsmarh.dk - based on NewsPo|  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | Gefako                        |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | Gartencenter Baumschule Turkenburg                 |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 96 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  18 | Gardena Outlook Express      | 18.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  16 | Forte Agent                    | 16.7%  xxxxxxxxxxxxxxxxxxxxxxx  
+  15 | GJNH                        | 15.6%  xxxxxxxxxxxxxxxxxxxxx    
+   8 | 40tude_Dialog                  |  8.3%  xxxxxxxxxxx              
+   5 | slrn                           |  5.2%  xxxxxxx                  
+   5 | MacSOUP                        |  5.2%  xxxxxxx                  
+   5 | Netscape                       |  5.2%  xxxxxxx                  
+   3 | Mozilla Thunderbird            |  3.1%  xxxx                     
+   3 | tin                            |  3.1%  xxxx                     
+   2 | KNode                          |  2.1%  xx                       
+   2 | Hamster                        |  2.1%  xx                       
+   2 | Gnus                           |  2.1%  xx                       
+   2 | Pan                            |  2.1%  xx                       
+   2 | Xnews                          |  2.1%  xx                       
+   1 | Gardena Telnet               |  1.0%  x                        
+   1 | XNews                          |  1.0%  x                        
+   1 | CrossPoint                     |  1.0%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  1.0%  x                        
+   1 | Forte Free Agent               |  1.0%  x                        
+   1 | Ezmnnsmarh.dk - based on NewsPo|  1.0%  x                        
+   1 | Gerock            |  1.0%  x                        
+   1 | Gefako                        |  1.0%  x                        
+
+
+Postingverteilung über den Monat (2078 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  37 |  1.8%  xxxxxxxxxxxx                                        
+   2 |  60 |  2.9%  xxxxxxxxxxxxxxxxxxxx                                
+   3 |  71 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   4 |  53 |  2.6%  xxxxxxxxxxxxxxxxx                                   
+   5 |  72 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   6 |  24 |  1.2%  xxxxxxxx                                            
+   7 |  28 |  1.3%  xxxxxxxxx                                           
+   8 |  44 |  2.1%  xxxxxxxxxxxxxx                                      
+   9 |  56 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+  10 |  46 |  2.2%  xxxxxxxxxxxxxxx                                     
+  11 |  37 |  1.8%  xxxxxxxxxxxx                                        
+  12 |  21 |  1.0%  xxxxxxx                                             
+  13 |  37 |  1.8%  xxxxxxxxxxxx                                        
+  14 |  56 |  2.7%  xxxxxxxxxxxxxxxxxx                                  
+  15 |  62 |  3.0%  xxxxxxxxxxxxxxxxxxxx                                
+  16 |  67 |  3.2%  xxxxxxxxxxxxxxxxxxxxxx                              
+  17 |  82 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  18 |  99 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  19 | 120 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  20 | 103 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  21 | 111 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  22 |  89 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  23 | 158 |  7.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  24 |  81 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  25 |  50 |  2.4%  xxxxxxxxxxxxxxxx                                    
+  26 |  95 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  27 |  70 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  28 |  43 |  2.1%  xxxxxxxxxxxxxx                                      
+  29 |  60 |  2.9%  xxxxxxxxxxxxxxxxxxxx                                
+  30 |  54 |  2.6%  xxxxxxxxxxxxxxxxxx                                  
+  31 |  92 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+HTH ;-)
+Größe
+Vincenzo
+-- 
+No fear. No distractions. The ability to let that
+which does not matter truly slide.

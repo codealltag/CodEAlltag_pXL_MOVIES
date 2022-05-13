@@ -1,0 +1,38 @@
+llqgsrn@hxhwv.qe-uiuvth.bp (Kvspzqmvd Zurstraßen) benutzte seine Tastatur am 25.04.1995 um 09:30:54 Uhr, um
+folgenden Text unter dem Betreff "Re: Kopierschutz auf Videokassetten" zu erzeugen:
+
+
+Im Prinzip nur, weil der Videorecorder empfindlicher ist, was
+verfaelschte Syncronisationssignale angeht.
+
+Es wird nichts weiter getan, als eben diese Synchronisationssignale
+vor jeder Bildzeile etwas zu verunstalten.
+
+Dem Fernseher macht das nichts aus aber ein Videorecorder versucht
+dann, sich aufgrund dieses falschen Signals nachzuregeln und dabei
+kommt es dann zu den Bildstoerungen, da ja lediglich das
+Syncronisationssignal defekt war aber nicht das Bildsignal selbst.
+
+
+Ist es aber garnicht im privaten Bereich.
+
+
+Aeltere Videorecorder kopieren solche Kassetten ohnehin meist klaglos,
+da sie keine automatische Nachregelung haben.
+
+
+War vielleicht auch nur Zufall oder ein anderes System.
+
+BTW: Es gibt genuegend Kopierschutzdecoder auf dem Markt, die nichts
+weiter machen, als das Bildsignal vom Syncronisationssignal
+abzutrennen und letztere einfach selbst neu erzeugen. Damit kannst du
+alle z.Zt. verwendeten Kopierschutzmechanismen (fuer VHS) restlos
+loeschen. Die damit erstellten Kopien lassen sich dann auch ohne
+Kopierschutzdecoder weiter vervielfaeltigen, da sich kein Kopierschutz
+mehr auf der Kopie befindet.
+
+--
+Hanno Fromholds                         O.Zeaxvvy@FEpqaavb.Puldtnca.HV
+
+Famous last words...
+des Software-Entwicklers: Natuerlich hab' ich ein intaktes Backup!

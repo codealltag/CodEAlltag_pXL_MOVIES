@@ -1,0 +1,113 @@
+Das stimmt nicht. Es ist schlicht falsch. Der Film ist auf einer Ami- oder
+Japan-DVD ("NTSC"-DVD) in 24 Vollbildern drauf. Also exakt wie auf der
+Kino-Filmrolle. (Genau genommen ist jedes Bild technisch in zwei Halbbildern
+abgelegt und es wird über ein Flag zusätzlich gespeichert, daß und welche
+beiden Bilder jeweils zu einem Vollbild zusammengehören, aber das ist nur
+ein Detail im Dateiformat.) Erst der US-DVD-Player erzeugt die
+60Hz-Halbbilder über einen im Gerät selbst durchgeführten 3:2-Pulldown.
+
+
+Auch das stimmt nicht. Und das wurde in diesem Thread auch schon anders und
+richtig erklärt: Der Pulldown wird nicht beim Mastering der DVD, sondern
+erst beim Abspielen im Player durchgeführt, und dies verursacht *nicht* das
+ruckeln. Ein Ruckeln kommt, wenn man den Player die 24 Bilder eben NICHT per
+3:2-Pulldown in ein ruckelfreies 60Hz-Signal konvertieren läßt, sondern ihn
+STATTDESSEN ein 50Hz-Signal erzeugen läßt. Dies macht in den USA aber
+niemand, d.h. deswegen ruckelt es da auch nicht.
+
+
+Und auch das ist wieder falsch. Die Auflösung ist bei "NTSC"- und "PAL"-DVDs
+identisch. Jedenfalls die relevante Horiziontal-Auflösung (720 Spalten). Die
+Zeilenstruktur ist in Europa mit 576 statt 480 Zeilen etwas dichter, aber
+wenn Du den Unterschied sehen kannst (das Auge nimmt bevorzugt die
+horizontale Auflösung wahr), dann liegt das daran, daß Dein Bildschirm
+scharze Lücken zwischen die Zeilen schiebt. Die dichtere Zeilenstruktur
+verbessert also das Bild auf schlechten Wiedergabegeräten. Auf guten
+(Projektionsgeräte mit Line-Doublern), ist das nahezu irrelevant. Und Du
+hast bei PAL außerdem dank der dadurch nur 50Hz die Wahl zwischen Pest und
+Cholera, also zwischen aus- oder eingeschalteter 100Hz-Funktion. Das
+60Hz-"NTSC"-Bild ist hingegen automatisch flimmerarm und frei von
+Bildfrequenz-Verdopplungs-Artefakten.
+
+Aber nochmal zur Frage Deines Vorposters, diesmal richtig beantwortet:
+
+
+Nein. Schon die Frage ist Murks. Das, was Dein Fernseher als "NTSC" kann,
+ist eine Fernsehnorm. Die DVD-Formate "NTSC" und "PAL" haben aber nichts und
+überhaupt nichts mit den Fensehnormen NTSC und PAL zu tun! Sie heißen
+nur genauso. Wenn Dein Player also "NTSC"-Scheiben zwangsweise in ein Signal
+konvertiert, wie es bei "PAL"-Scheiben herauskommen würde, also in ein
+50Hz-Signal, dann hast Du ein ruckelndes (oder bei besseren Geräten
+wahlweise ein weniger ruckelndes aber dafür unschärferes) Bild. Wenn Du kein
+Ruckeln willst, d.h. wenn Du die Scheiben so sehen willst, wie sie ein
+Amerikaner oder Japaner sieht (gestochen scharf, flimmerarm und ruckelfrei),
+dann muß Dein Player ein 60Hz-Signal aus "NTSC"-DVDs generieren können (und
+so eingestellt sein, daß er es auch tut) und Dein Fernseher mit
+60Hz-Signalen klarkommen können. Billigplayer können aber eben nur 50 Hz,
+und zwar unabhängig davon, ob Du eine "NTSC"-DVD mit 24 Vollbildern oder
+eine "PAL"-DVD mit 50 Halbbildern einlegst.
+
+Bei "PAL"-DVDs wird die Wandlung in 50 Halbbilder logisch übrigens schon
+beim Mastering durchgeführt, also nicht erst im Player. Das liegt daran, daß
+es bei "PAL"-DVDs lizenzrechtlich verboten ist, das Flag zu setzen, das
+markiert, welche zwei Bilder jeweils zusammengehören bzw. daß überhaupt
+jeweils zwei Bilder zusammengehören. (Das muß ja nicht so sein, und bei
+Fernsehsendungen ist es auch nicht so!) Einige Player analysieren die
+Bildinhalte und versuchen darüber, zusammengehörende Halbbilder zu ermitteln
+bzw zu erkennen, ob es überhaupt Vollbilder gibt. Dies hilft enorm bei
+progressiver Wiedergabe auf guten Wiedergabegeräten, und insofern ist diese
+lizenzrechtliche Einschränkung kein praktisches Problem.
+
+Der entscheidende Punkt ist, daß das "NTSC"-DVD-Format das bessere Format
+ist, und das nicht nur wegen des Speedup-Problems bei "PAL"-DVDs (wenn nicht
+aufwendig durch Tonverzerrer "korrigiert", ist die Tonlage des Soundtracks
+knapp einen Halbtonschritt zu hoch und das Timbre der Darsteller-Stimmen
+verhunzt), sondern auch deshalb, weil nicht sinnlos viel Datenrate mit
+überflüssigen Zusatzzeilen verschwendet wird, so daß weniger stark
+komprimiert werden muß (was man unmittelbar positiv sehen kann). Der
+Nachteil von "NTSC"-DVDs ist lediglich der, daß Billig-Player nicht in der
+Lage sind, das für eine scharfe, flimmerarme und ruckelfreie Wiedergabe
+unbedingt notwendige 60Hz-Signal zu erzeugen. Aber das ist ein Problem
+hiesiger Billigplayer. "PAL"-DVDs zu kaufen ist da ja wohl nicht die Lösung!
+
+
+Wie gesagt: Eine DVD weiß nichts von Fernsehnormen. Das Signal in der
+NTSC-TV-Norm erzeugt der US-Player. Bei uns erzeugt er auf dem
+Composite-Ausgang im schlechten (aber 100% kompatiblen) Fall ein
+PAL-50-Signal und im besseren (nicht 100% zu jedem Fernseher kompatiblen)
+Fall ein PAL60- oder ein anderes Misch-Signal aus PAL-TV-Norm und
+60Hz-Betrieb.
+
+
+Wieder falsch. Die Querelen um Owerläwe-progressive gibt es ausschließlich wegen
+der geschilderten lizenzrechtlichen Einschränkung bei "Owerläwe"-Scheiben, die
+aber wie gesagt kein wirkliches Problem ist.
+
+
+Schließ einen Sonnepur-Fernseher an, und wenn das Bild bei "NTSC"-DVDs
+durchläuft, hast Du einen prima DVD-Player (erzeugt ein 60Hz-Signal bei
+"NTSC"-DVDs) mit dem Du an richtigen Bildschirmen ein perfektes Bild
+erzielen kannst, das Du mit Sicherheit so gut nicht gewohnt bist. Wenn das
+Bild hingegen bei Kameraschwenks ruckelt, dann hast Du einen Scheiß-Player,
+aber dafür kannst Du an den sogar einen Sonnepur-Fernseher anschließen. Und
+vielleicht willst Du das ja.
+
+Ich finde all das im übrigen sehr Endverbraucher-freundlich: Billig-Player
+und Billig-Fernseher passen zusammen, gute Player und gute Fernseher auch.
+Da die Billig-Kombination bei "NTSC"-Scheiben schlechtere Bilder als bei
+PAL-Scheiben liefert und die Kombination guter Geräte bessere Bilder als bei
+PAL-Scheiben, ist ebenfalls verbraucherfreundlich. Schließlich kaufen
+Sonnepur-User Owerläwe-Scheiben und richtige Heimkinobesitzer RC1. Und alle sind
+zufrieden. Ist doch prima! Billig-Player, Sonnepur-Fernseher und "NTSC"-Scheiben
+gleichzeitig scharf und ruckelfrei geht eben nicht zusammen. Und? Genau
+dafür liegen der Kosmetiktudio-Zeitung ja "Owerläwe"-Krüppel bei.
+
+27.11.03 -- Vogelthal.
+
+P.S.: Sorry für den harschen Ton, der sonst nicht mein Stil ist. Aber soviel
+Stu auf einmal zu lesen, regt mich eben wirklich auf -- insbesondere wenn
+das Ganze im gleichen Thread an anderer Stelle schon alles einmal richtig
+stand.
+-- 
+pynxwy uo pgw ojlix lkdmxv.hl
+http://lsa.kjj-kzrrxf.vn/~ppfrud

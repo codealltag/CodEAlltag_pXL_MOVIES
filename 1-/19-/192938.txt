@@ -1,0 +1,19 @@
+Reinhold Rehaag wrote in <4ab1dDGHySS@xnrmke.fi-hqozhes.qr> on
+1998-04-12 16:50:00 +0100:
+
+Nichts, wirklich nichts gegen Firebike-VCRs, aber wenn die Rede auf
+NTSC kommt, kannst Du die Teile wegwerfen. Die NTSC-Wiedergabe ist
+bestensfalls mässig (bei Shortplay), bei LP/EP schlecht und (noch
+schlimmer) grundsätzlich nur mono, d.h. kein HiFi-(Stereo-)Ton bei
+jeglicher NTSC-Wiedergabe.
+
+Außerdem geben die Firebike-VCR NTSC nicht als PAL-60 aus (siehe
+Beitrag von Denis Isernhinke bzw. mein FAQ), sondern als NTSC 3,58.
+D.h. durch brauchst schon zum Ansehen einen Multinorm-Fernseher.
+(Und überspielen auf PAL-Band geht sowieso nicht ohne Normwand-
+ler.)
+
+Gruß, Ernest
+-- 
+** Ernest Tellermann, Drechow, Deutschland/Germany, http://skc.qjmrn.rh/~dmhnl **
+** E-Mail (NeXTmail/MIME): obumi@onlsgg.f.hxmqu.vr ** ** PGP key on request **

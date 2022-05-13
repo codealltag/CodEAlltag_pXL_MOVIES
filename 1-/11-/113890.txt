@@ -1,0 +1,3 @@
+Wie kann ich einen Film aus meiner Vote History löschen?
+Wenn ich ihn in den Recycle Bin kopiere, bleibt er in der History. Es kann
+doch nicht sein, dass ein versehentlich aufgenommener Film ewig dort bleibt.

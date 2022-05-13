@@ -1,0 +1,45 @@
+jaemb@nkfyzf.e.tbvsa.yp wrote at 19.07.98
+about the topic "Re: Deutsche DVDs sind schlechte Osterueberraschung":
+
+
+ Fakt 1 - DTS im kino laueft mit einer deutlich niedrigen datenrate als
+          auf Laserdisc (und vorraussichtlich auf DVD)
+          DTS Kino - zwischen 700-800kb/s (ich glaube 768kb/s bin mir aber
+          nicht ganz sicher)
+          DTS Home - LD - 1536kb/s
+
+ Fakt 2 - der Codierungsalgorythmus zwischen diesen beiden system
+          unterscheidet sich erheblich voneinander
+
+ Quelle:  Mitarbeiter von Erih (Winfried Küstermann und Tara "??")
+
+
+ und in welcher relation stehen diese beobachtungen zu meinen aussagen ?
+
+ ich habe nur gesagt das ich es mir durchaus vorstellen kann das Erih
+ klangliche verbesserungen gegenueber Etafu bringen kann - das ist alles
+
+ davon abgesehen spielt mit sicherheit die verwendete hardware
+ (verstaerker und boxen) eine nicht unwesentliche rolle
+
+ ich koennte mir gut vorstellen das auf richtig gutem equipment die
+ nachteile von AC3 gegenueber unkomprimierten quellen deutlicher hoerbar
+ sind als auf dem equipment was die meisten hier im echo benutzen
+
+
+ unterm strich bringt es wenig die beiden system gegeneinander zu verlgeichen
+ man muesste jedes gegen das unkomprimierte masterband laufen lassen und
+ beurteilen welches format dem am naechsten kommt
+
+ auch werden DTS und DD versionen nicht unterchiedlich abgemischt, sondern
+ die Mastbaender werden durch die entsprechenden encoder gejagt und das wars
+
+ das einzige was Erih versaeumt hat, war bei einigen releases die absenkung
+ der surroundkanaele um 3db wie es fuer den Heimbereich vorgeschrieben ist
+
+
+Bye
+ Franz
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

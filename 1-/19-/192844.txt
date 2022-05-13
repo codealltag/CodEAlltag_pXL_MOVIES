@@ -1,0 +1,26 @@
+On Wed, 04. 11. 22 14:24:23 +0100, "Detlef Ahlborn"
+
+PAL60: ja, 
+echtes NTSC: nur in der gehobenen Preisklasse, und auch da nicht immer
+selbstverständlich, vor allem nicht 3.58 UND 4.43.
+
+
+Jein. 
+Im Videorecorder findet keine Wandlung statt. Auf dem Band werden die
+Luminanz und die beiden Farbdifferenzsignale sowieso getrennt vonein-
+ander aufgezeichnet, und zwar für PAL- und NTSC-Tapes auf völlig iden-
+tische Weise. Erst bei der Wiedergabe entsteht daraus je nach Chipsatz
+
+und Beschaltung ein Farbsignal nach PAL oder NTSC 3.58 oder NTSC 4.43.
+Wobei völlig unverständlich ist, warum für Multinorm-Recorder so viel
+Geld genommen wird, denn der Mehraufwand für die Unterstützung mehre-
+rer Standards ist trivial, vor allem, wenn das Gerät sowieso schon
+NTSC-Wiedergabe als PAL60 beherrscht.
+
+Um auf den Farbkonverter zurückzukommen: Ohne Bildfrequenzumsetzung
+schätze ich den Materialwert für so etwas auf kaum mehr als 50DM, also
+wenn so ein Ding für mehr als 100-150DM verkauft wird, ist das schon
+Wucher ;)
+
+Gruß
+   Mario

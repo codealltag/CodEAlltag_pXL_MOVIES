@@ -1,0 +1,10 @@
+Hartwigs Ungrund schrieb folgendes:
+
+
+Schade. Tank war eigentlich ein schöner Charakter in dem Film.
+
+MFG, Diedrich
+-- 
+do
+     fork agent ( remo );
+repeat;

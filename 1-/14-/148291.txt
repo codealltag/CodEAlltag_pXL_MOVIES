@@ -1,0 +1,21 @@
+Der Film spielt halt in einem Alternativuniversum, wo es einen
+universumweiten Standard für Prozessoren usw. gibt ;-)
+(aber du hast recht: Das Virus am Schluß muß IMHO die hanebüchenste
+Sache in dem ganzen Film gewesen sein)
+
+
+Nicht notwendigerweise:
+1. Entwickeln des Virus und testen unter Softwindows (auf die Weise geht
+   das Testen gefahrlos vonstatten - sofern ein solches Virus überhaupt
+   testbar ist. Aber vielleicht haben sie ja auch noch eben ein
+   Simulation der außerirdischen Raumschiffe geschrieben ;-))
+2. übertragen auf den PC (vermutlich nicht ganz einfach, aber bestimmt
+   möglich)
+
+
+Gruß, Orlando
+-- 
+Then it comes to be
+That the soothing light at the end of your tunnel
+Was just a freight train coming your way
+- Rähder, "No leaf clover"

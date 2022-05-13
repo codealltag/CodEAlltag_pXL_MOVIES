@@ -1,0 +1,148 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Roberto Twachtmann;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+dts   = in "dts Digital" (6-Kanal-Ton; erfordert speziellen Decoder);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers.
+Sie sind nur als Orientierung gedacht. Ein Stern (*) vor dem Titel
+zeigt eine Änderung gegenüber der letzten Liste an.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1994 | WS                  | verfügbar  |  79
+*12 Monkeys               | 1994 | WS SE AC-3          | 23.08.96   |
+*Abyss, The (Dir. Cut)    | 1988 | WS THX AC-3         | verfügbar  | 119
+Affair                    | 1995 | Unrated             | verfügbar  |  79
+Alive                     | 1991 | WS AC-3 CAV SE      | verfügbar  |  95
+American Graffiti         | 1972 | WS THX              | verfügbar  |  79
+Apollo 13                 | 1994 | WS SE THX           | verfügbar  | 189
+*Apollo 13                | 1994 | WS dts              | 10.08.96   |
+Arrival, The              | 1995 | WS AC-3             | verfügbar  |  79
+Before & After            | 1995 | WS                  | verfügbar  |
+Beyond Rangoon            | 1994 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1995 | WS AC-3             | verfügbar  |
+Black Sheep               | 1995 | WS AC-3             | verfügbar  |  79
+Blood For Dracula         | 1973 | WS 103 Min.         | verfügbar  |  99
+Brazil                    | 1984 | WS SE               | verfügbar  | 235
+Broken Trust              | 1994 | WS THX              | verfügbar  |  84
+Cable Guy                 | 1995 | WS                  | 26.07.96   |  69
+*Capricorn One            | 1977 | WS AC-3             | 02.08.96   |
+*Casper                   | 1994 | WS dts              | 10.08.96   |
+Celtic Pride              | 1995 | WS AC-3             | verfügbar  |
+*Chain Reaction           | 1995 | WS                  | 10.08.96   |
+City Hall                 | 1995 | WS                  | verfügbar  |  69
+Crossing Guard, The       | 1994 | WS THX AC-3         | verfügbar  |  85
+*Crow: City of Angels     | 1995 | WS AC-3 SE          | 17.08.96   |
+Days Of Heaven            | 1977 | WS AC-3             | verfügbar  |  79
+*Dead Poets Society       | 1988 | WS THX              | 24.08.96   |
+Dr. No                    | 1961 | WS SE THX CAV **    | verfügbar  | 189
+*Dragonheart              | 1995 | WS THX AC-3         | 28.06.96   |  75
+*Dragonheart              | 1995 | WS THX AC-3 SE CAV  | 09.08.96   |
+E.T. the Extra-Terrest.   | 1981 | WS THX SE           | verfügbar  |
+Enemy Mine                | 1984 | WS                  | verfügbar  |  79
+Eraser                    | 1995 | WS                  | verfügbar  |  65
+Eye For An Eye            | 1994 | WS AC-3             | verfügbar  |  79
+*Family Thing, A          | 1995 | WS AC-3             | 19.07.96   |
+Fear                      | 1995 | WS                  | verfügbar  |  69
+*First Kid                | 1995 | WS AC-3             | 17.08.96   |
+Flipper                   | 1995 | WS                  | verfügbar  |  65
+Four Rooms                | 1995 | WS                  | verfügbar  |  79
+*Frighteners, The         | 1995 | WS AC-3             | 12.07.96   |  69
+*Frighteners, The         | 1995 | WS AC-3 SE          | 27.07.96   |
+*From Dusk Till Dawn      | 1995 | WS                  | 14.06.96   |  78
+*From Dusk Till Dawn      | 1995 | WS JP               | 17.06.96   | 109
+*From Dusk Till Dawn      | 1995 | WS AC-3 SE          | 14.06.96   | 129
+Girl 6                    | 1995 | WS                  | verfügbar  |  79
+*Good Morning, Vietnam    | 1986 | WS THX              | 24.08.96   |
+Great Train Robbery, The  | 1978 | WS AC-3 SE          | verfügbar  |  79
+Halloween                 | 1977 | Crit **             | verfügbar  |  96
+Halloween 6               | 1994 | WS                  | verfügbar  |  75
+Hard-Boiled               | 1991 | WS Crit SE 126 Min. | verfügbar  | 109
+Tanja                  | 1988 | WS SE **            | verfügbar  |  97
+Heavy Metal               | 1980 | WS THX              | verfügbar  |  75
+Highlander                | 1985 | WS THX AC-3 SE      | verfügbar  | 129
+Highlander 2              | 1990 | WS THX AC-3 SE      | demnächst  |
+Idolmaker, The            | 1979 | WS AC-3 SE          | verfügbar  |  79
+Independence Day          | 1995 | WS THX AC-3         | 17.08.96   |  75
+Independence Day          | 1995 | WS THX AC-3 SE      | --.10.96   |
+Iron Eagle IV             | 1994 |                     | verfügbar  |  69
+Jurassic Park             | 1992 | WS dts              | 13.07.96   |  96
+Juror, The                | 1995 | WS                  | verfügbar  |  79
+Killing For Love          | 1994 | Unrated             | verfügbar  |
+*Kingpin                  | 1995 | WS AC-3             | 03.08.96   |
+Last Dance                | 1995 | WS AC-3             | 15.06.96   |
+Last of the Mohicans, The | 1991 | WS THX AC-3         | verfügbar  |
+*Lawnmower Man, The       | 1991 | WS THX SE           | 03.08.96   | 109
+Live And Let Die          | 1972 | WS THX CAV SE **    | verfügbar  | 189
+Mask, The                 | 1993 | WS THX AC-3         | verfügbar  |  79
+Mask, The                 | 1993 | WS THX AC-3 SE CAV  | verfügbar  | 129
+Mission: Impossible       | 1995 | WS THX AC-3         | verfügbar  |  85
+Moll Flanders             | 1995 |WS AC-3             | verfügbar  |  96
+Multiplicity              | 1995 | WS                  | 28.06.96   |  69
+My Fair Lady              | 1963 | WS THX AC-3         | 15.06.96   | 115
+Natural Born Killers      | 1993 | WS SE CAV AC-3      | verfügbar  | 225
+*Nutty Professor, The     | 1995 | WS                  | 14.06.96   |  69
+Original Gangstas         | 1995 | WS AC-3 SE          | verfügbar  |  79
+*Phantom, The             | 1995 | WS AC-3 THX         | 14.06.96   |  79
+*Phenomenon               | 1995 | WS AC-3 THX         | 26.07.96   |
+Zickhusen Experiment   | 1983 | WS SE               | demnächst  |  85
+Pocahontas                | 1994 | WS THX AC-3         | verfügbar  |  59
+Pocahontas                | 1994 | WS THX AC-3 SE CAV  | verfügbar  | 189
+Primal Fear               | 1995 | WS                  | verfügbar  |
+Pulp Fiction              | 1993 | WS THX AC-3 Crit    | verfügbar  | 235
+Quest, The                | 1995 | WS                  | verfügbar  |  69
+Race the Sun              | 1995 | WS                  | verfügbar  |  69
+Rain Man                  | 1987 | WS AC-3             | demnächst  |
+Robocop                   | 1986 | WS THX Crit         | 15.06.96   |  96
+*Rock, The                | 1995 | WS AC-3             | 19.07.96   |  75
+*Rolling Stones: Live ... |      | IMAX THX AC-3       | 13.07.96   |
+Serpico                   | 1972 | WS                  | verfügbar  |  79
+Shadow, The               | 1993 | WS dts              | 13.07.96   |  75
+*Silence Of The Lambs, The| 1990 | WS THX Crit         | 17.06.96   |  96
+Sound Of Music, The       | 1964 | WS THX AC-3         | 08.06.96   | 119
+Speed                     | 1993 | WS THX AC-3         | demnächst  |  59
+Spy Hard                  | 1995 | WS AC-3             | 14.06.96   |  79
+Stand By Me               | 1985 | WS **               | verfügbar  |  85
+Star Trek: DSN #007/#008  | 1992 |                     | 14.06.96   |  65
+Star Trek: DSN #009/#010  | 1992 |                     | 14.06.96   |  65
+Star Trek: TNG #103/#104  | 1990 |                     | verfügbar  |  65
+Star Trek: TNG #105/#106  | 1990 |                     | verfügbar  |  65
+Stargate                  | 1993 | WS THX AC-3 SE      | verfügbar  | 109
+*Striptease               | 1995 | WS                  | 12.07.96   |  75
+Stranger Than Paradise    | 1983 | WS Crit             | verfügbar  |  99
+Substitute, The           | 1995 | WS AC-3             | verfügbar  |  79
+*Tangerine Dream: 3 Phase |      |                     | verfügbar  |  59
+Three Wishes              | 1994 | WS AC-3 SE          | verfügbar  |  99
+Thunderball               | 1964 | WS SE THX CAV **    | verfügbar  | 237
+*Time To Kill, A          | 1995 | WS                  | 25.07.96   |  79
+*Tin Cup                  | 1995 | WS                  | 12.07.96   |  79
+To Die For                | 1994 | WS                  | verfügbar  |  69
+Toy Soldiers              | 1990 | WS                  | verfügbar  |  75
+Toy Story                 | 1994 | WS THX AC-3         | verfügbar  |  59
+*Toy Story                | 1994 | WS THX AC-3 CAV SE  | 12.07.96   | 225
+Truth about Cats & Dogs   | 1995 | WS                  | verfügbar  |  79
+Twister                   | 1995 | WS AC-3             | verfügbar  |  69
+Twister                   | 1995 | WS AC-3 CAV         | verfügbar  |
+Universal Soldier         | 1991 | WS AC-3             | verfügbar  |  79
+Vampire in Mailand       | 1994 | WS AC-3             | verfügbar  |  75
+Virus                     | 1994 |                     | 05.07.96   |  69
+White Squall              | 1995 | WS AC-3             | verfügbar  |
+Wizard Of Oz, The         | 1938 | THX                 | verfügbar  |  65
+Young Frankenstein        | 1973 | WS SE **            | 26.07.96   |
+*Young Sherlock Holmes    | 1984 | WS                  | 26.07.96   |
+--------------------------+------+---------------------+------------+-----
+
+-- 
+** Roberto Twachtmann,  Irmgardstraße 00,  68412 Weschnitz,  Germany **
+** +26 8421 47334  E-Mail (NeXTmail/MIME): ktdut@fxftgg.i.ovakz.py **

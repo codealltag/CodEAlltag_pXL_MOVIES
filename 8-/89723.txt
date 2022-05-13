@@ -1,0 +1,6 @@
+Hilfe, bin neu mit premiere, klappt alles so leidlich, aber nur während der
+aktuellen Sitzung. Wenn ich mein gespeichertes Projekt wieder aufrufen
+möchten, ist das Schnittfenster leer, die Projectdateinen sind unbenannt
+in -1 oder der PC steigt ganz aus.
+2,4 Ghz,1GB Ram 2*120 GB Pestplatte,64 MB Grafikkarte, Studis DV500.
+Kann mir jemand einen Tip geben

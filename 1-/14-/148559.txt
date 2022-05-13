@@ -1,0 +1,33 @@
+Hallo Aldo!
+
+Aldo Cortsen schrieb:
+
+[...]
+
+In diesem Zusammenhang habe ich vor einigen Jahren mal folgendes erlebt:
+Im Löwenzentrum lief "How to make an American Quilt", und zwar eine
+deutsche Kopie (erkennbar an den deutschen Zeit- bzw. Ortseinblendungen,
+d.h. es stand da z.B. "3 Monate später") mit dem englischen Originalton.
+Etwa zur Hälfte des Films kam es dann zu einer recht heftigen
+Bild-/Ton-Asynchronität: Zunächst fiel der englische Ton komplett aus
+und der deutsche Ton war zu hören. Nachdem dies einige Minuten später
+bemerkt wurde, wurde der Film angehalten; beim Wiederanlauf war dann
+wieder der englische Ton da, allerdings um mindestens 10 Sekunden zum
+Bild versetzt! Dieses Spielchen ging dann noch etliche Zeit so weiter
+(was die Zuschauer übrigens mehr amüsierte als verärgerte), bis der
+Vorführer die Sache schliesslich wieder in den Griff bekam.
+
+
+Wieso "mehrfach"? Wenn die CD nachgeführt wird, gibt es doch einen
+Sprung, und da auf den eingeschnittenen Frames ja keine bzw. eine
+falsche Analogtonspur existiert, kann doch der gleiche Ton nicht
+mehrfach wiedergegeben werden?
+
+
+D.h., das CD-Laufwerk richtet sich "stur" nach dem Timecode und es gibt
+keine Fehlerkorrektur, die fehlende Bits aus den
+vorhergehenden/nachfolgenden Bits errechnen könnte?
+
+Gruss
+
+Heinrich

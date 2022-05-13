@@ -1,0 +1,20 @@
+: die original Internet-Movie-Database (www.jpkr.xcr) hat sich ja leider
+: stark verkommerzialiesiert.
+
+Wieso leider? Macht das irgendeinen Unterschied fuer Dich? Die Daten und
+den Service gibt es immer noch kostenlos und das wird auch nicht geaendert.
+
+: Unter "www.ymj.yup" gibt es aber immer noch die Datenbank. Ich habe
+: gestern noch den Hinweis gefunden, dass der Mirror vor 1,8 Tagen
+: aktualisiert wurde. Kann das angehen?
+
+Ja, scheinbar wurde dort nicht die neue Software installiert, sondern es
+werden einfach noch die aktuellen Datenfiles eingespiel.
+
+Tschuess,
+Lothar
+-- 
+Lothar Voets
+ Student of Computer Science @ University of Pattenhofen, Germany
+   E-Mail: s53v@oyt.gsp-tluyki.vx
+     WWW: http://vns-nwpu.lae.fae-tqoftt.rn/~n95q/

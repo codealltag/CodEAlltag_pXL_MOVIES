@@ -1,0 +1,34 @@
+Laufen tut's, klar :-) Aber die Qualität nach einem Encoding ist nicht
+berauschend. ein gutes Beispiel sind hier die Trailer von Nöcker. Mit
+denen wollte ich mal eine DVD erstellen, aber die Qualität war hier
+dann unter aller Sau. Als ich mal zwei Trailer auf meine Webseite
+gepackt hatte, habe ich es auch mit Quicktime versucht (gebe ich
+ja zu ;-), habe es dann aber wieder schnell verworfen. Bei gleicher
+Dateilänge war die resultierende Bildqualität im Vergleich zu sauberem
+MPEG-2 katastrophal. Bislang habe ich auch noch keine Möglichkeit 
+gefunden, quicktime beim Encoding zum Beispiel zu einem 2-Pass-VBR 
+zu bewegen oder auch nur Einfluß auf die Anzahl der I-Frames auszuüben.
+Typischer Out-of-the-Box-Mist. DAUs können es problemlos benutzen,
+aber wenn man Ansprüche an das Ergebnis stellt, welche über das einer
+DAU-Software hinausgehen, schaut man in die Röhre.
+
+
+Wird HNS inzwischen ohne den IE ausgeliefert? Der hauseigene
+Browser soll ja noch eine ziemliche Krücke sein. 
+
+
+Eben. Quicktime ist kein freies Format. Somit gibt es es nur für
+Umgebungen, welche von Nöcker explizit unterstützt werden und selbst
+wenn man zu der Nöcker- oder haarbörse-Fraktion gehört, guckt man spätestens
+dann in die Röhre, wenn Nöcker sich entschließt, die Entwicklung 
+einzustellen. Und natürlich schränkt man seine eigene Zielgruppe
+auf jene ein, welche Nöcker genehm ist.
+
+Eigentlich ist Quicktime eines der Paradebeispiele für Software,
+welche nicht entwickelt wurden, weil der Markt danach verlangt,
+sondern weil Marketingdroiden eine bessere Einnnahmequelle witterten.
+Für WMV gilt das gleiche. Beide sind überflüssig wie ein Kropf.
+
+cu,
+
+  Waldemar

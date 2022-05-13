@@ -1,0 +1,31 @@
+vap_wplijpukn@coxpc.bae.iz wrote at 01.07.97
+about the topic "Q: aktiver Subwoofer":
+
+
+ mit was fuer software hattest du ihn dort gehoert ?
+
+ so habe ich es gemacht und es funktioniert prima
+ (YSTW 150 & A3090)
+
+
+ das bassmanagement bei AC3 richtig einstellen
+
+
+ DSP modi haben i.a. keine auswirkungen auf den bass
+
+
+ der woofer bekommt alle frequenzen unter xxxhz (abhaengig vom verstaerker)
+ dann ggfs. nochmal regelbar am subwoofer (wie beim 150er)
+ die hauptboxen bekommen immer noch ALLE frezuenzen, daher den woofer
+ erst dort einkoppeln wo die mains schlappmachen damit sich die
+ frequenzen nich ueberlappen bzw. doppel gespielt werden
+
+
+ haengt von deinen hauptboxen ab,
+ wenn du "normalen" standboxen hast sollte du ihn bei 60hz einkoppeln
+ bei "normalen" regalboxen etwas hoere so bei 80hz
+
+ wichtig ist natuerlich auch die richtige plazierung des woofers
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

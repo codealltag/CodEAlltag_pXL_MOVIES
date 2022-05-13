@@ -1,0 +1,8 @@
+Ich bekomme keine Fehlermeldung: Ich klicke auf Nero den Odner
+"Meine Filme" an, und dieser Ordner wird auch angezeigt.. In diesen
+Ordner befindet sich der Film mit der Dateieindung   .mpg   Aber er
+wird nicht angezeigt
+
+
+Gruß
+Carlos

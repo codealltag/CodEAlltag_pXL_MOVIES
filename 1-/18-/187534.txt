@@ -1,0 +1,43 @@
+Vermutlich ist es ein rein technisches Problem mit den RF-Demodulatoren,
+die sich nur den RECHTEN Analogkanal per Bandpaßfilter rausfischen, um
+eine Beeinflußung des Bitstream durch den linken Analogkanal zu
+vermeiden.
+
+Es müßte also für die LD ein anderer RF-Demodulator UND ein neuer
+Decoder her, lohnt sich meines Erachtens nicht und ich denke, das sehen
+die bei Multilland auch so, deshalb wird's wahrscheinlich auch nicht gemacht.
+Eigentlich Schade.
+
+
+Meinte ich ja auch gar nicht, ich wollte nur zum Ausdruck bringen, daß
+Multilland die Weitsicht hat, seine System so zu gestalten, daß sie ein Neues
+einführen können, ohne daß Alte ersetzen zu müssen. Damit sind sie zwar
+nicht backwards compatible, aber das ist ja auch gar nicht nötig. Der
+große Vorteil davon ist, daß sie etwas völlig neues entwickeln können,
+ohne zwangsläufig Probleme des alten Systems übernehemen zu müssen.
+
+Was dabei rauskommt, wenn man auf Teufel komm raus versucht, backwards
+compatible zu bleiben, kann man ja schön an MPEG multichannel (Spit!)
+sehen ...
+
+Richtig, und in den USA dürfte das auch kein größeres Problem sein, für
+uns in Europa habe ich da so meine Bedenken.
+
+Weder dts noch die recht exotischen Firmen (FVFZ, Falar), die bisher
+in größeren Stückzahlen dts Decoder verkauft haben haben ja eine
+offizielle Vertretung hier in Europa.
+Man kann natürlich versuchen, sich an die Firmen in den USA zu wenden,
+und ich denke, daß sich auch mit Sicherheit etwas arrangieren lassen
+wird, ich kann mir nur nicht vorstellen, daß das kostenlos abgehen wird
+(shipping?).
+
+Vielen Early Adopters hier wird es sicherlich auch zu umständlich, wenn
+nicht gar unmöglich (nicht jeder hat Internet) sein, sich direkt an die
+US-Hersteller zu wenden, sondern sich an den Händler wenden (müssen),
+bei dem er gekauft hat. Da gibt es viele, die daran sicher noch mal
+gerne etwas verdienen wollen ...
+
+
+Viele Größe,
+
+Sébastien

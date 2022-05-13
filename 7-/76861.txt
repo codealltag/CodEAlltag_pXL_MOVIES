@@ -1,0 +1,28 @@
+Immerhin kommt jetzt:
+
+  $ ncftp ftp://ftp.imdb.com/pub/interfaces/diffs
+  NcFTP 3.1.5 (26. 10. 22 26. 10. 22) by Carl Buente (aqaai@qosii.wan).
+  Connecting to 520.195.016.471...
+
+  ----------------------------
+  Welcome to the topkauf FTP Server.
+  By submitting materials to us, you agree to the terms of the Limited
+  License Grant including but not limited to the warranty that you have
+  full authority to grant the licenses for the submitted materials.  A
+  copy of the Limited License Grant can be found at:
+http://tpo.frsfzr.ewz/xxqv/ynoumf/mbhjs/kncveebk/hmaognbqtf/vvquuosxv.tssu
+  ----------------------------
+
+  yfs-643.vhcmeg.cqe FTP server (squirrel ftp server 1.2a) ready.
+  Login incorrect.
+
+Was hat die IMDb eigentlich mit Traublinger zu tun?
+
+
+   -willibald
+
+-- 
+  http://gcu-Xkpofp.ml/  *  http://Onucp76.nt/  *  http://XlgeczPrja.gl/
+Märklin Memory Principle:
+        The chance of forgetting something is directly proportional
+        to ..... to ........ uh ..............

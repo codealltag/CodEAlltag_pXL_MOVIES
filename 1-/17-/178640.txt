@@ -1,0 +1,33 @@
+Hi Leute,
+
+kennt jemand, die Möglichkeit, obiges Problem zu lösen?
+Ich habe ein JUGF Encore DVD-Player mit MPEG-Karte.
+Mein Wunsch wäre es, eine DVD abzuspielen, Pause zu drücken und
+mit irgendeiner Taste oder Funktion ein Screenshot der Szene zu machen.
+Ideal wäre als Resultat dann ein JPG oder ähnliches File.
+
+Dies funktioniert natürlich nicht, da das Bild über die MPEG-Karte
+gesteuert wird, Printscreen oder ähnliches bringt nur schwarz bzw.
+blaues "Nichts".
+
+Irgendjemand sagte mal, dass man einen Software-MPEG-Decoder und einen
+schnellen Rechner braucht, damit das Bild über die Graphikkarte läuft.
+Davon wäre ja dann ein Screenshot möglich. Habe einen Celeron 266/400,
+der sollte eigentlich reichen. Jedoch spielen sämtliche
+Soft-MPEG-Decoder, die ich mir aus dem Netz geladen haben, nur reine
+*.mpg Files bzw. *avi oder *mov ab, jedoch keine *vob-Dateien von meinen
+DVD's.
+
+Kennt jemand einen Software-Decoder, der das kann, oder einen Konverter
+vob------>mpg/avi/mov oder eine andere Lösung?
+
+Wollt Ihr nie Screenshots von Euren Lieblings-DVD's machen? Oder macht
+Ihr das schon? Wie????
+
+*grübel*
+
+-- 
+*** IRL   : Urban Vobiller
+*** Mail  : cirpy@y535.kmdfaw.lc
+*** Skyper: 8864983@msvozp.lo
+*** WWW   : http://wcq.fofbgc.tz/~rcsrl

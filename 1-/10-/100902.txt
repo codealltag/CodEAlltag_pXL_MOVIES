@@ -1,0 +1,8 @@
+Erst macht er das Kraftfeld auf, dann bohrt er das Loch in die Scheibe.
+
+tschau,
+Ivo
+-- 
+Programmieren ist ein Wettbewerb zwischen dem Programmierer, die Software
+idiotensicher zu machen und dem Universum, das versucht, größere Idioten
+zu produzieren. Bis jetzt gewinnt das Universum.

@@ -1,0 +1,28 @@
+Aeltere Versionen der IMDb (Listen + fertige DB) gibt es fuer den
+Amiga auf den CD's "Meeting Pearls" 2 und 3. Weitere Versionen
+wird es (voraussichtlich) nicht geben, denn die Urheber der IMDb
+haben jegliche kommerzielle Verbreitung untersagt. Fuer diese
+beiden CD's gab es damals noch eine Ausnahmegenehmigung aber das
+ist auch vorbei. 
+Andere CD-Versionen wird es mit ziemlicher Sicherheit nicht geben,
+es sei denn, die Ugar-Leute geben selber eine heraus.
+
+Fuer den Markant existiert uebrigens ein GUI, welches meiner Meinung
+nach die beste Version eines Ugar-Clients ist. Fuer UNIX gibt es
+Shell-Befehle mit einem X-Interface und fuer den PC gibt es
+immer noch Schrott...
+
+Ich habe die IMDb uebrigens auf ein MO-Medium (230MB) ausquartiert.
+Dort belegt das Ganze (Listen + DB + Programme) etwa 210MB.
+
+Im Moment waechst die IMDb allerdings um etwa 1MB/Woche, was mich
+bald dazu zwingen wird, einige Listen zu packen...
+
+gruss
+ valentin
+
+--
+Valentin Zoern, 05500 Eischott, Ostfeldstraße 8    ///
+Internet: tpoghl@irzf.jlyfbgcpuc.zsae-hbbzie.bw     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/101/57 :-)  \XX//

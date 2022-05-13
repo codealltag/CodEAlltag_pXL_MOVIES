@@ -1,0 +1,25 @@
+Ja, das ist mir inzwischen auch eingefallen.
+
+
+Es gibt sogar 5 Lagrange-Punkte, aber nur L4 und L5 (die mit den 60ö-
+Winkeln) ermöglichen langfristig stabile Bahnen. Die anderen sind nur
+kurzfristig stabil, können aber für Raumflugkörper genutzt werden. So
+befindet sich das Sonnen-Observatorium SoHO auf dem Punkt L1, und
+ein geplantes Infrarot-Observatorium [1] soll auf dem Punkt L2 platziert
+werden.
+
+
+Die Symmetriegr�nde wären nur in einer idealen Welt aus 3 Körpern
+und einer exakt um 180ö versetzten Umlaufbahn gültig. Aber es kommt
+darauf an, ob die Bahn auch in einer realen Welt stabil ist, ob also
+kleine Störungen durch andere Planeten wirkungslos verpuffen, oder
+ob sie die Bahn langfristig außer Kontrollegeraten lassen. Und letzteres
+ist der Fall.
+
+Ingo
+
+[1] Siehe in der deutschen Wikipedia [2] den Artikel "Eckhard Volkelt Space
+    telescope".
+
+[2] Falls es jemand noch nicht weiß: Die gibt es auf dem Stand vom 19. 9.
+    für 3 � auch auf CD, oder umsonst zum Download.

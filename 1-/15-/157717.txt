@@ -1,0 +1,19 @@
+Marco Niklos <pscuz@zkrkwsnngt.orp-jj.km>: 
+
+
+Ihr liegt beide falsch.
+
+Umlaute in Headern sind kein Problem, wenn sie mittels MIME korrekt
+deklariert und kodiert werden.  Der ursprüngliche Poster hat
+allerdings tatsächlich unkodierte Umlaute in den Header gesetzt, was
+in der Form falsch und standardwidrig war. 
+
+In diesem Artikel habe ich das Subject wiederhergestellt -- wer dort
+allerdings nur =?ISO-8859-1?Q?läuft?= sieht, weiß jetzt, daß er
+veraltete Sofwtare einsetzt.
+
+
+Nein. Es ist inakzeptabel, daß bei direkter Kommunikation in deutscher
+Sprache auf vier Zeichen verzichtet werden soll, bloß weil ein paar
+monolinguale Programmierer nicht über ihre Tastatur hinausblicken
+können.

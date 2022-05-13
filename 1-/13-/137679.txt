@@ -1,0 +1,25 @@
+Hallo !
+
+Hab das hier grade von dieser angegebenen URL gezogen und gleich 2 Fehler
+gefunden:
+
+-----
+
+
+Falsch, es ist ja 3 hoch 3 hoch 3, der Typ hat das aber falsch
+hingeschrieben als Zahl (HTML Probs ?). Ich nehme an dass es 3 hoch 3 hoch 3
+ist, da ja 2 hoch 8 256, 2 hoch 16 65536 ist (IMHO aus der EDV ;), und 3
+hoch 33 müsste da ja a Irsinn sein !
+
+
+Und zwischen den Räumen selbst, dass das nie erwähnt wird...
+
+
+Völliger Bledsinn, 6 Faces, daher + 6, daher 17582.
+
+Die Seite scheint net grade sehr durchdacht, würde mich also net drauf
+verlassen, dass das stimmt was der so schreibt :)
+
+Größe
+
+Urban

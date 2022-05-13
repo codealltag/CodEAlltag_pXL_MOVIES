@@ -1,0 +1,13 @@
+Hi,
+
+wahrscheinlich gehts so:
+
+aus    2    4    3    5    8    2    5
+mach' MPEG-2:
+           [2] +2 -1 +2 +3 -6 +3 [5]
+
+Diesen Film kannst du auch rueckwaerts anschauen. Wenn
+alle n Bilder ein ganzes Bild gespeichert wird, kannst du auch
+mitten drin anfangen.
+
+Tschau, Kasimir.

@@ -1,0 +1,5 @@
+Ich habe noch in der Movie Database nachgesehen:
+Runtime: USA:129 / Germany:124 / Norway:131
+
+Aber die deutsche Version war mit der amerikanischen identisch, woher
+stammt da dann der Laufzeitunterschied?

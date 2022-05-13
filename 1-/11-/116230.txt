@@ -1,0 +1,11 @@
+Moin!
+
+Ich schaffe es nicht, die letzten diffs (vom 9.9.) für meine lokale
+IMDb (gezogen von rja.ad-wcivfv.ax) zu integrieren. IBPN meldet
+bei allen files CRC-Error. An dem bekannten Problem mit den
+Zeilenumbrüchen liegt es offenbar nicht.
+
+Kann das  jemand bestätigen? Falls ja, liegt es an IBPN oder
+stimmt die Checksumme wirklich nicht?
+
+Heribert

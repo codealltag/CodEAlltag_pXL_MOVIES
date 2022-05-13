@@ -1,0 +1,12 @@
+What? Wenn man von einer reflektierenden Fläche (in der die
+Kamera sichbar wäre) eine Draufsicht haben will, als ob man
+direkt davor stünde, bewegt man sich einfach parallel zu der
+aufzunehmenden Fläche ein wenig zu einer beliebigen Seite
+(so daß man schräg draufsieht) und benutzt ein Shift-Objektiv.
+Da das mit CGI auch ginge ist klar, aber die altmodischere
+Lösung ist im Prinzip nicht schlechter.
+
+
+Gruß,
+
+Norman

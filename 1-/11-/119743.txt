@@ -1,0 +1,9 @@
+Es geht also nicht um die Fallgeschwindigkeit, sondern um das Stoppen
+bzw. die Horizonalgeschwindigkeitsdifferenz Pferd-Reiter infolge des
+Stoßes mit den Balsaholzlanzen. Da die sehr leicht zerbrechen, kommen
+sie kaum dazu, den Stuntman zu stoppen.
+
+Die Stahlseile brauchen wir wahrscheinlich zum Stoppen des Reiters. Die
+Vertikalbeschleunigung ist unabhängig von der Masse des Reiters 9,81 m/s^2.
+
+Joachim "ja, ich poste auch in dsp" Meyermann

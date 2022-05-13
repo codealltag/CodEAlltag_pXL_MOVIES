@@ -1,0 +1,6 @@
+Hat sich inzwischen erledigt. Danke an Carlo, der mir das Programm
+kurzfristig auf seinem Server zur Verfügung gestellt hat.
+Leider steht die Software auf den FTP-Servern, die die Datenbank halten,
+nicht zur Verfügung.
+
+Cornelius

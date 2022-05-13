@@ -1,0 +1,18 @@
+Leonhard> Das Programm ist mir bekannt - ich habe es auch schon hier compiliert.
+Leonhard> Nur meiner Meinung nach >sollte< man halt Hardware fuer Motion-JPEG haben.
+Leonhard> Alles andere ist Notloesung. :)
+
+  Naja, noch brauch man wohl Hardware um  einen ruckelfreien Ablauf zu
+garantieren, aber die Computer werden immer schneller, so dass es bald
+nicht mehr notwendig wird.
+  Wobei man vielleicht   noch die naechste  Generation von  Sparc CPUs
+(UltraSPARC) erwaehnen sollte, da diese  on-chip support fuer MPEG und
+vielleicht auch noch JPEG haben werden.
+
+  Eine gute JPEG Karte fuer Suns ist das  Board von Parallax. Aber das
+will Ernst wohl eher nicht haben, da dies glaube ich ueber 20.000 DM
+kostet (bzw. gekostet hat).
+
+Erich
+--
+LOAD "VMUNIX",8,1

@@ -1,0 +1,43 @@
+Hallo.
+
+Ich hole mir regelmaessig die IMDB-listfiles vom FTP-Server der ChocoLaden,
+um sie mit pmdb zu einer Offline-Datenbank zu verwursten.
+
+Leider hat das zuletzt mit den listfiles vom 24.03.2002 reibungslos
+geklappt, danach fing Titim immer bei der Datei biographies.list an zu
+meckern, es sei eine Stop-Anweisung enthalten (oder so aehnlich) und brach
+die Erstellung der Datenbank ab. :-(
+
+Ich habe zwar einen Kompromiss gefunden, indem ich die alte biographies.list
+mit den restlichen aktuellen listfiles benutze, aber so richtig sinnvoll ist
+das ja nicht.
+
+Ein Vergleich der alten und der aktuellen biographies.list ist nicht
+wirklich einfach, da beide Dateien ungepackt je ca. 85 - 90 MB gross sind.
+
+Der einzige offensichtliche Unterschied war, dass bei der aktuellen Datei
+in der ersten Zeile eine CRC-Checksumme steht und in der alten Version vom
+24.03.2002 nicht. Aber auch ein Loeschen dieser Zeile brachte keine
+Besserung.
+
+Eine Suche auf aialdb.qeeygf.ej brachte eine Diskussion vom April 2002
+zutage, die aber keine Loesung in Verbindung mit pmdb enthielt.
+
+Eine E-Mail von mir an den Autor von Titim vor gut einem Monat blieb bisher
+unbeantwortet.
+
+Gibt es inzwischen neue Infos zu diesem Problem? Loesungen?
+Hat jemand den Autor von Titim kontaktieren koennen?
+Gibt es eine Alternative zu pmdb unter Windows?
+
+Fragen ueber Fragen...
+
+TIA.
+
+Ciao,
+	Roland.
+
+-- 
+Roland See
+E-Mail : hfwxaqwb@dz.qia-bxum.cs
+WWW    : http://lab-wsbkpji.og.nfc-mxwd.rz/~vevktzjx/

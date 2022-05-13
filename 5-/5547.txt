@@ -1,0 +1,31 @@
+Ist halt auch nur irgendeine FAQ. Sowas können du oder ich auch
+schreiben. Die entscheidende Frage ist ja wie es die Gerichte sehen,
+und das geht daraus nicht hervor.
+
+
+Nein, der Gesetzgeber vermeidet üblicherweise eigentlich Floskeln,
+wenn er damit nicht eine Unterscheidungsmöglichkeit bieten will.
+Es ist in Gesetzen auch nicht nur eine Floskel ob jemand etwas fahrlässig
+oder grob fahrlässig macht.
+
+Es liegt dann an den Gerichten festzustellen ob sowas einfaches wie CSS,
+dass ich ja schon brauche um mir den Film anzusehen tatsächlich ein
+_wirksamer_ Kopierschutz ist oder nur ein unwirksamer Versuch eines
+Kopierschutzes.
+
+
+Das in dem Link angesprochene AnyDVD braucht man ja gerade nicht für
+CSS, sondern für diverse andere Massnahmen um aufwändiger geschützte
+DVDs kopieren zu können. Im Gegenteil ist das eigentlich ein Indiz
+dafür dass CSS nicht mehr als wirksamer Schutz angesehen wird, wenn
+in Urteilen nur Programme verurteilt werden die auch solche
+Kopierschutzmethoden umgehen, aber nicht welche die lediglich CSS
+"umgehen".
+
+_Du_ hattest behauptet _die Gerichte_ würden keinerlei Zweifel daran
+lassen das CSS und Macrovision als wirksamen Kopierschutz ansehen. 
+Da ist es mehr als mager, und sehr mutig das zu behaupten, wenn du
+ausser einer FAQ die irgendwer geschrieben hat, keine einzige
+Aussage eines Gerichtes findest, die das unterstützen würde.
+
+Jan

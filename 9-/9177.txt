@@ -1,0 +1,26 @@
+Am 13.06.2009 schrieb Dario Hoefert:
+
+
+Nur weil einiges am Rechtssystem unlogisch ist heißt das nicht, dass man
+nicht vieles logisch ausdrücken kann/könnte. ;)
+
+Z.B.: "Menschen töten ist nicht erlaubt." Das ist einfach und logisch
+(vorausgesetzt "Menschen", "töten" und "erlauben" ist hinreichend genau
+definiert). 
+
+Schwieriger werden dann Ausnahmen, wie "Notwehr" oder ähnliches. Wenn es um
+Gesetze für Menschen geht, kann man beliebig ungenau bei der Formulierung
+sein, um dann im Einzelfall das Gesetz vom Gericht auslegen zu lassen. Bei
+Robotern müsste man da schon sehr viel genauer sein. 
+
+Trotzdem sollte es durchaus möglich sein, viele Verhaltensregeln logisch
+auszudrücken und ggf. bei unvorhergesehenen Übertretungen nachzubessern. So
+wird es ja auch bei Gesetzen für Menschen gemacht. Wobei es bei Robotern
+wie gesagt von Vorteil ist, dass diese sich genau an diese Gesetze halten
+_m�ssen_, und so auf einige der Kontrollinstrumente verzichtet werden kann,
+die nötig sind, um Menschen dazu zu bringen, sich an Gesetze zu halten. 
+
+annabell
+
+-- 
+Diplomacy - the art of letting someone have your way.

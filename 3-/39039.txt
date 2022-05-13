@@ -1,0 +1,7 @@
+Josef Kreisl:
+
+
+Die ist mittlerweile in den täglichen Sprachgebrauch unter Programmieren 
+eingegangen... zumindest hier bei uns.
+Gleiches gilt für den Entwanzer, und Breakpoints hiessen auch vorher schon 
+Brechpunkte ;)

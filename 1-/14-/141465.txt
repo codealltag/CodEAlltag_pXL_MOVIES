@@ -1,0 +1,44 @@
+On the stormy day of Sun, 27 Sep 1999 16:00:28 +0100, thou, oh 
+Janina Helene Thumm <bfqfdtd@goqmgefcbwspqv.po>, said thy word and
+thy word was:
+
+
+*fingerknacks* 
+Wie gut, daß ich mit Wind Commander nichts anfangen kann... *g*
+
+Das überspielen von NTSC-Videos auf PAL ist nur nach Überwindung
+einiger Hürden möglich. Das Problem ist:
+1) Die Farbkodierung
+2) Die Zeilenanzahl (525 Zeilen NTSC -> 625 Zeilen PAL)
+3) Anzahl Bilder pro Sekunde (60 bei NTSC -> 50 bei PAL).
+
+a) Die handelsüblichen Videorekorder, die "NTSC Playback on PAL TV"
+unterstützen, sind lediglich für die Wiedergabe geeignet, da sie nur
+die ersten 2 Punkte berücksichtigen und das Bild dann einfach im
+PAL-Standard, aber mit 60 Hz ausgeben (daher heißt es auch PAL60). Die
+meisten TV-Geräte schaffen die zusätzliche Hertz-Belastung, aber das
+überspielen auf PAL-VCRs entfällt. Wenn man gelegentlich NTSC-Videos
+nur guckt, reicht ein derartiges Modell, und das sind die aktuellen
+VCRs in der Regel.
+
+b) Wenn man wirklich ein NTSC-Band auf PAL überspielen will, braucht
+man dann einen VCR, der echtes NTSC ausgeben kann, einen Normwandler
+(der die eigentliche Umwandlung vornimmt) und einen PAL-VCR. Gute
+Normwandler kosten allerdings recht viel.
+
+c) Ferner gibt es echte Multisystem-VCRs, die Formate bei der
+Wiedergabe und Aufnahme hin- und herkonvertieren können, also eine
+eingebaute Normwandlung haben. Kostenfaktor: ~1000 DM, können auch
+schon billiger sein.
+
+Wofür man sich entscheidet, hängt letztendlich vom Einsatzzweck und
+Investitionsbereitschaft ab. Wenn du wirklich nur das paar NTSC-Videos
+gelegentlich schauen willst, reicht Lösung a) vollkommen. :o)
+
+Yours sincerelly,
+Viva la Revoluciön,
+
+-- 
+-----Herbert "Ignaz" Klassen-------------------------------------
+"Es wird im deutschen Fernsehen überhaupt zu wenig zensiert."
+<Didier Schütten, drts>

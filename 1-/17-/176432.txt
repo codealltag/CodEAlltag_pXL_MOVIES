@@ -1,0 +1,5 @@
+Why don't  these conversions do Region 4 ?
+
+There's 100's of thousands of Itabo A110, A150, A310 etc out there.  Why
+is it that all the developers of these "code free" kits are ignoring Region
+4.  I can buy plenty of 1 and 2.  What is the technical difficulty with 4 ?

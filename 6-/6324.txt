@@ -1,0 +1,6 @@
+Tatsächlich, das funktioniert. Ich hatte den Eindruck gehabt,
+man *müsse* den ersten Block ausfüllen, und der Rest sei bloß
+Verfeinerung.
+
+-- 
+<http://jzkyrydvlv.pi/ut/> � Validator für RFC 4646

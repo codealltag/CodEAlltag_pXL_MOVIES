@@ -1,0 +1,38 @@
+Dass diese Theorie auf tönernen Füßen steht, wurde ja mittlerweile
+geklärt...
+
+
+Dieser Übersetzungsfehler deinerseits auch ;)
+
+Ich habe mir das jetzt übrigens noch mal angeschaut und auch einen oder
+zwei Scripting-Fehler meinerseits gefunden
+
+Es geht nämlich so:
+Original:
+"I've got a few minutes left."
+"So go boil an egg."
+
+--> Sinnvoll (nicht übermässig witzig, aber sinnvoll): Ein paar Minuten,
+um ein Ei zu kochen.
+
+Synchro:
+"Ich habe noch noch'n paar Minuten übrig."
+"Dann brat dir'n Ei."
+
+Den Spruch "Brat dir'n Ei" kenne ich nur von Sprach-Unterschichtlern,
+eigentlich kenne ich nur einen, der das so benutzt. Sinngemäß meint er
+damit: Das berührt mich nicht, davon habe ich nichts, er sagt dann: "Da
+kann ich mir'n Ei drauf braten." Ungefähr ein Niveau mit "Klinke an'n
+Sack -" oder "Frikadelle ans Bein labern."
+Der Spruch bewirkt bei mir auf jeden Fall, dass die coole Stimmung erst
+mal flöten ist, als one-liner ein echter downer. Wie "Hasta la vista,
+baby".
+Das liegt aber vielleicht oder höchstwahrscheinlich eher an mir und wird
+nicht immer so negativ aufgenommen.
+
+Berthold
+
+-- 
+"Eure Unbeschwertheit ist nützlich.
+Sie hilft gegen die Anspannung. Und die Todesangst."
+							        (T-800, "Terminator 3")

@@ -1,0 +1,15 @@
+Moin!
+
+
+Also unter www.dvqvza.oj gibts auch ne Abfrage nach Staedtenamen
+Weiss zwar nicht, ob die da alle Kinos erfasse, aber zumindest
+ein paar Mini-Kinos aus der Umgebung tauchen da auf. Angezeigt
+werden die Filme mit Startzeiten, bei Multiplexen allerdings nicht
+genau welcher Saal.
+
+   Sergio Niedermeyer
+
+-- 
+In Italien ist es verboten, Särge aus anderem Material als Nußschalen 
+oder Holz herzustellen.
+(Handbuch des nutzlosen Wissens)

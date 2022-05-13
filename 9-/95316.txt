@@ -1,0 +1,6 @@
+Nichts, allerdings läuft die rc2 (aus technischen Gründen)
+etwas schneller.  Such mal bei JSCV nach "Trachten-Speedup".
+
+Gruss,
+
+Vito

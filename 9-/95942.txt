@@ -1,0 +1,8 @@
+Generell würde ich an dieser Stelle empfehlen, bei Hinweisen auf 
+einen Film neben der IMDB-URL auch noch Titel und Jahr 
+mitanzugeben, das ist meist kein großer Aufwand. Manch einer 
+liest seine news offline und so hat er eine Möglichkeit mit dem 
+Hinweis was anzufangen, ohne online zu gehen. Nur so nebenbei.
+
+Gruß,
+Hero

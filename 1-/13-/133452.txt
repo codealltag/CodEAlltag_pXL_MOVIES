@@ -1,0 +1,44 @@
+Ein Bildstrichfehler ohne sichtbaren Bildstrich.
+
+Wenn das noch nicht Erklärung genug ist, holen wir mal ganz weit aus:
+Auf dem Film sind die einzelnen Bilder übereinander, durch einen
+(meist schwarzeren) Streifen getrennt, den Bildstrich.
+Bei 35mm-Film, wie Du ihn in den Kinos hast, ist jedes Bild incl.
+Bildstrich 4 Perforationslöcher hoch. Bei der Projektion steht der
+Filmausschnitt eine Weile still vor der Bildmaske. Wenn dann die 
+Blende des Projektors geschlossen wird, wird der Film ruckartig
+4 Perforationl�cher weiter gezogen, so dass man, wenn die Blende
+wieder aufgeht, das nächste Bild sieht. Das setzt natürlich voraus,
+dass immer genau ein ganzes Bild mittig vor der Bildmaske ist und die 
+angrenzenden Bildstriche oberhalb und unterhalb liegen. 
+Bei einem Bildstrichfehler sieht man plötzlich den Bildstrich auf 
+der Leinwand, darüber den unteren Teil eines Bildes und darunter 
+den oberen Teil des nächsten Bildes. Das kann passieren, wenn der 
+Film falsch eingelegt wurde, falsch zusammengeklebt wurde (so dass 
+ein einzelnes Bild  plötzlich nur 1-3 Perforationslöcher hat) 
+oder beim Transport der Film durchrutscht und nur drei Perforationslöcher 
+weitertransportiert wird. Zur Korrektur "dreht man den Bildstrich raus", 
+indem man den Film vor der Bildmaske langsam nach oben oder unten bewegt,
+bis die Bilder wieder mittig liegen.
+
+Bei Breitwandfilmen.ist das eigentliche Bild nur 2.5 Perforationslöcher 
+hoch. Der Film wird aber (damit das Ganze zu den anderen Bildformaten
+kompatibel ist) trotzdem für jedes Bild 4 Perforationslöcher weiter
+transportiert. Entsprechend viel Platz ist zwischen den einzelnen Bildern
+auf dem Film. Bei einigen Filmen sind die Bilder maskiert. Dann hast Du 
+da dicke schwarze Balken. Andere Filme sind nicht maskiert. Da wird dann 
+das eigentliche Bild nahtlos nach oben und unten fortgesetzt.
+Bei der Projektion müssen von dem vorhandenen 4 Perforatiosl�cher 
+hohen Filmstreifen genau der mittlere Ausschnitt mit dem 
+2.5 Perforationslöcher hohen eigentlichen Bild auf der Leinwand zu 
+sehen sein. Wird der falsche Ausschnitt gezeigt, ist das Bild auf 
+der Leinwand oben abgeschnitten, dafür sieht man dann unten Fußboden 
+o.�. das eigentlich nicht mehr gezeigt werden soll. Umgekehrt kann das 
+Bild auch zu tief sein. Dann ist unten ein Teil abgeschnitten dafür 
+sieht man oben die Fortsetzung der Kulissen oder Mikros und 
+Gegenlichtblenden, die eigentlich von der Bildmaske kaschiert werden 
+sollten. Das sind dann die "versteckten Bildstrichfehler", bei denen 
+der Bildstrich falsch eingestellt ist, auch wenn man den eigentlichen 
+Bildstrich nicht auf der Leinwand sieht.
+
+Ciao, Valentin                       rafaj.bhumeyyo@qzlgk.tr

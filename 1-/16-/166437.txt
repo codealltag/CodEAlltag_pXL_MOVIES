@@ -1,0 +1,23 @@
+Richtig. Wohlgemerkt: könnten.
+Um die Karte als Normwandler benutzen zu können, müssen sich TV-Ein-
+und Ausgang gleichzeitig aktivieren lassen, und zwar in unterschied-
+lichen Betriebsarten (einmal PAL, einmal NTSC). Zudem muß der Overlay-
+betrieb (Einblendung des Video in das VGA-Bild) auch bei aktiviertem
+TV-Out möglich sein.
+Kann durchaus sein, daß das mit der Carepoint immer noch geht, aber man
+sollte es prüfen, da es in anderen Bereichen definitiv Rückschritte
+gegeben hat.
+
+(übrigens: Der Normwandel-Trick funktioniert grundsätzlich auch mit
+TV-Karten in Verbindung mit einer Grafikkarte mit TV-Out).
+
+
+Videokopierschutz. Die Struwelpeter und die Carepoint reagieren da so Bersen-
+sibel drauf, daß sie bisweilen schon bei Dropouts fälschlich auf
+Macrovision erkennen, und die Aufnahme abbrechen.
+
+
+Die ALTE hatte das Problem nicht. Die G-Version hat es, genau wie die
+Carepoint.
+
+Werner

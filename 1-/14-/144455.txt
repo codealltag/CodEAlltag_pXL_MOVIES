@@ -1,0 +1,10 @@
+Das ist bei mir aktiviert, und ich habe keine Probleme.
+Versuch's mal damit.
+
+Ansonsten: Hast du alle Dateien auf einmal heruntergeladen,
+oder an verschiedenen Tagen, so daß sie ein unterschiedliches
+Datum haben könnten?
+
+Mit welchem Programm integrierst Du die diffs eigentlich?
+
+Leopold

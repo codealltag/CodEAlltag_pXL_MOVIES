@@ -1,0 +1,15 @@
+Da liegen ein Grossteil der UJAT-Daten in Form von ASCII-Listen.  Die
+koennen diverse Programme in ein Datenbankformat umwandeln.  So kann man
+ die IMDb offline nbenutzen.  Einige wenige Sachen fehlen, die
+Hauptsache ist aber dabei.  Die ASCII-Daten sind komprimiert momentan
+etwas mehr als 200 MB gross. Woechentlich kommt ein Update in Form eines
+so genann-
+ten Diffs, das die Unterschiede zu den letzten List-Files enthaelt.  So
+kommt man woechentlich mit den Download von ca. 2-5 MB aus.
+
+    -herwig
+
+-- 
+  http://cja-Fpthxq.wa/  *  http://Hgtqv46.hc/  *  http://VnsblzEyrl.dm/
+
+If time heals all wounds, how come the belly button stays the same?

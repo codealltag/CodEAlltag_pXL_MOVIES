@@ -1,0 +1,44 @@
+Nicht in jedem Post P, in dem kein Smiley S ist, ist auch keine Ironie I
+drin:
+
+(1) NOT(P(NOT S) = P(NOT I))
+
+Dagegen ist in jedem Post P, in dem ein Smiley S drin ist, auch Ironie I
+drin:
+
+(2) P(S) = P(I)
+
+Es kann auch vorkommen, daß im Post P kein Smiley S ist, aber Ironie I:
+
+(3) P(NOT S) = P(I)
+
+Schließlich kann es sein, daß im Post P kein Smiley S und keine Ironie I
+vorkommen:
+
+(4) P(NOT S) = P(NOT I)
+
+
+Weiter sind (1) und (3) Äquivalent, und wir können setzen:
+
+(5) NOT(P(NOT S) = P(NOT I)) = (P(NOT S) = P(I))
+
+Aus (2) wissen wir, daß P(I) = P(S) ist, und aus (4), daß P(NOT I) =
+P(NOT S) sein muß. Wir setzen ein:
+
+(6a) NOT(P(NOT S) = P(NOT S)) = (P(NOT S) = P(S))
+
+Wir lösen diese Gleichung logisch auf und erhalten:
+
+(6b) NOT(TRUE) = FALSE oder 0 = 0
+
+Was zu beweisen war. Bitte vollziehen Sie diese Rechnung zu Hause unter
+besonderer Berücksichtigung der Trolliumkonstante, des OT-Exponenten,
+der Erdkrümmung und des Radius von Johannes lichtem Haarkranz nach. Das
+nächste Mal fahren wir mit "Thermodynamik I: so heizen Sie durch viele
+Postings Ihren Prozessor und Ihr Haus auf" fort.
+
+Mit freundlichen Größen,
+der Rektor, Volkshochschule Teyendorf
+-- 
++++ http://kri.bngzzdfidtk.jk/ +++
+"Atoha" jetzt in neuem Gewand und mit noch mehr Megaperls!

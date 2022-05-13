@@ -1,0 +1,17 @@
+FElectron FElectron schrieb unter anderem folgendes zum Thema
+"Video-Kopierschutz geknackt":
+
+
+Wenn das ein MacroVision-Decoder ist, wuerde ich ihn nicht kaufen.
+Mit einem sogenannten Videoverstaerker, kriegt man wirklich alles weg,
+denn der Verstaerker baut nicht auf ein spezielles
+Kopierschutzverfahren auf, sondern trennt einfach das sichtbare Bild
+von der Synchronisation und erzeugt diese selbst neu.
+
+Da bis heute saemtliche VHS-Kopierschutzmechanismen lediglich an der
+Synchronisation herumspielen, kriegt man auch alle damit weg.
+
+--
+Luc Erfurth                           O.Bqyuxzk@VYgwlore.do-stk.HQ
+
+Mein Name ist Bröhl, ist bin fort!

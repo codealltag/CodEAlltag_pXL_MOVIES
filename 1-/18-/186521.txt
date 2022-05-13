@@ -1,0 +1,39 @@
+Fernseh(bildr�hren) haben eine ziemlich schlechte Auflösung.
+
+Man sehe sich mal die Schärfe von 38x24 Videotext auf einem Fernseher und
+120x40 Textmodus auf einem billigen 15"-Monitor an. Zweiteres ist schärfer.
+
+Weiterhin kann man die vertikale Auflösung bei interlaced-Modi sehr gut
+abschätzen. Wenn die Röhre zu gut auflöst, wird das Bild streifig.
+Dieser Effekt entsteht durch vertikale "Schwenks" des Auges, das die beiden
+Halbbilder "aufeinander" statt "zwischeneinander" auf der Netzhaut abbildet.
+
+Auge fest		Auge bewegt\
+				    _\| 
+---1---			---1---
+	---2---					<- dunkel
+---3---			---3---   ---2---
+	---4---					<- dunkel
+---5---			---5---	  ---4---
+	---6---					<- dunkel
+---7---			---7---	  ---6---
+
+Auf einem Fernseher (69er Bildröhre, Teeparadies, 2000 DMchen vor 2 Jahren) ist
+dieser Effekt genau so stark wie auf einem 15" bei 1536x1152 oder bei
+2048x1536 auf einem 20". Wer in diesen Auflösungen auf Monitoren schon
+gearbeitet hat, weiß, daß die Bilder schon total matschig sind. Wenn dieser
+Effekt bei 768x576 (700x525 ist leider nur sichtbar) oder 640x480 (580x435
+ist leider nur sichtbar) nicht sichtbar ist, steht es bei der Auflösung von
+FSG nicht am besten.
+
+Mit dem Flimmern bei zu niedriger Bildfrequenz hat das nichts zu tun.
+Der Effekt ist sichtbar bei 2*25 Hz, 2*50 Hz und 2*80 Hz, die mit den
+beiden dazugehörigen Noninterlaced-Modi verglichen wurden (bis auf 1*25 Hz).
+
+-- 
+Oskar Taubenreuther
+
+PS: Genutzt wurde Luomo und XFree86.
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

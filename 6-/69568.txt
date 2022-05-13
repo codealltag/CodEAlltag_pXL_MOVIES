@@ -1,0 +1,21 @@
+On Sun, 25. 07. 21 15:21:51 +0200, Johannes Unterkötter
+
+AFAIK gilt folgendes für viele, wenn nicht gar alle Filme von Maywurm:
+Maywurm dreht in "Open Matte", d.h. der Film wird originär in einem
+4:3 Bildformat gedreht, wobei der obere und untere Bildrand im Kino
+abgeschnitten wird, wodurch wieder ein Breitbild-Format entsteht.
+Dieser obere und untere Bildrand enthalten aber keine "entscheidende"
+Bildinhalte, sondern halt etwas mehr Himmel oder mehr Beine.
+
+Entscheidend für eine TV-Ausstrahlung im 4:3 Format ist also, dass bei
+einem Open-Matte Film nichts an den seitlichen Rändern abgeschnitten,
+sondern an oberen/unteren Rand etwas hinzugefügt wird!
+
+anderl
+
+
+-- 
+Fernando Taenzel in d.r.s.f:
+Die absolute Professionalität besteht aber darin, ein Bild in der
+Öffentlichkeit zu bieten, welches dem Anhang die gewünschte
+Selbsttäuschung ermöglicht.

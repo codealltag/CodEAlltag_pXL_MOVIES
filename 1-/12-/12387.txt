@@ -1,0 +1,24 @@
+Angenommen es wäre eine verspiegelte Scheibe, dann wäre eine Ausrichtung 
+nicht notwendig, weil sich diese genau in der Mitte des Schilds 
+befindet, und somit die Strahlen der Sonne immer im optimalen Winkel 
+(nämlich senkrecht) auf die Scheibe auftreffen.
+
+Dagegen spricht wiederum, dass während des Fluges mindestens einmal der 
+Winkel des Raumschiffs zur Sonne nicht komplett senkrecht gewesen sein 
+muß. Wäre immer eine genau senkrechte Ausrichtung des Schiffes gegeben 
+gewesen, hätte man sich nämlich den Aufwand mit den sich ausrichtenden 
+Spiegeln sparen können. Stattdessen wäre eine flache oder leicht konvexe 
+vollständig verspiegelte Fläche sicherlich weniger komplex und 
+fehleranfällig gewesen.
+
+Ohnehin macht diese Spiegelausrichterei bei näherer Betrachtung wenig 
+Sinn. Je weiter sich das Raumschiff der riesigen Sonne nähert, desto 
+größer werden die Winkel, mit denen einzelne Strahlen auf eine einzelne 
+Spiegelfläche auftreffen. Während die Strahlen beim Start des 
+Raumschiffs noch ziemlich senkrecht auftreffen, dürften die Winkel der 
+Strahlen, die in der Nähe der Sonne auf einen einzelnen Spiegel 
+auftreffen, mindestens in einem Bereich von +/- 30ö liegen. Da wäre dann 
+eine verspiegelte Fläche mindestens genau so gut (oder schlecht).
+
+Gruß
+Siegfrieds

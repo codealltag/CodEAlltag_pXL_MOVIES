@@ -1,0 +1,43 @@
+Wie willst Du die produzieren?
+
+Es gibt theoretisch vier Möglichkeiten einen Film zu untertiteln:
+ 1. Man entfernt auf der entgültigen Kopie mittels Fräse, Laser oder
+    ätzenden Chemikalien die Farbschicht. Dann sind die Untertitel weiß.
+    Schwarze Untertitel kann man so prinzipbedingt nicht erzeugen.
+    (Allerdings kann man bei gefrästen Untertiteln tiefe Rillen in das 
+    Trägermaterial hineinfr�sen. Dann sieht man bei der Projektion die 
+    Kante zwischen Trägermaterial und Rille als dunklen Rand. Dieser Rand
+    liegt aber nicht in der Schärfenebene der Bildschicht. Filmeinleger 
+    lieben es auf diese Ränder scharfzustellen, weil dann der Rest des 
+    Films unscharf ist.)
+
+    Dieses Verfahren ist das am weitesten verbreitete. Es ist besonders
+    für kleine Kopienzahlen ökonomisch.
+
+ 2. Dunkle Untertitel auf jede einzelne Kopie drucken. 
+    Mit einem Techicolor-ähnlichen Prozeß sollte das technisch kein
+    Problem sein. Ich habe aber noch nie gesehen oder gehört, dass das 
+    gemacht wurde. Das liegt vermutlich daran, daß so nur dunklere
+    Schriften als das Bild möglich sind. Die könnte man bei den meisten 
+    Filmen nur sehr schlecht lesen.
+
+ 3. Man belichtet die Untertitel in das Zwischennegativ ein. 
+    Damit kriegt man die qualitativ höchstwertigsten Untertitel mit
+    sehr schönen Schrifttypen und sehr suaberen, scharfen Kanten hin.
+    Da die Untertitel über das Bild belichtet werden, sind sie weiß.
+    Das Weiß ist dabei so hell, wie die hellstm�glichen Stellen im Bild.
+    (Beim Verfahren 1 sind die Untertitel noch etwas heller, da die 
+    Bildschicht offenbar auch an weissen stellen etwas Licht absorbiert.)
+    Dieses Verfahren wird angewendet, wenn große Kopienzahlen benötigt 
+    werden, da dann nicht mehr jede Kopie einzeln untertitelt werden muß.
+
+ 4. Man belichtet die Untertitel auf die entgültige Kopie ein.
+    Da es sich um Negativmaterial handelt, würden die Untertitel 
+    schwarz (was im allgemeinen nicht oder nur schwer lesbar ist.)
+    Zudem wäre es das mit Abstand teuerste Verfahren. Folglich wird
+    es AFAIK nicht angewendet.
+
+Weisse Untertitel mit schwarzem Rand sind AFAIK nur bei digitaler 
+Nachbearbeitung von Videos möglich.
+
+Ciao, Niklaus                             osedu.pcolnguu@ixyrl.ef

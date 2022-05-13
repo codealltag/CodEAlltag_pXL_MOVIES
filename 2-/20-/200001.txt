@@ -1,0 +1,17 @@
+Tom Klockgether <muibskx.rrguqyisbh@alia.kz-vxhpxgat.ev> wrote in
+article <4610h467.4581560@ospq.dxq-sflandou.ej>...
+
+Ich frage mich immer, was die Leute bei diesen 100 kBit/s an besserer
+Qualitaet heraushoeren moechten... MPEG Layer 3 hat ziemliche Probleme mit
+Hoehen und dass noch bei einer Bitrate von 128000 eines STEREO-Streams.
+Rechnet man das auf fuenf Kanaele hoch, hat man 320kbps. Dolby Digital
+hoert sich aber WEIT besser an und hat speziell dieses Problem mit Hoehen
+nicht (ausser bei "Speed", was vielleicht an anderen Dingen liegen kann).
+Genauso ist es mir ein Mysterium, was an DTS toller sein soll.
+
+Tschuess,
+Dieter
+-- 
+Dieter Lohstraeter                           Student of Computer Science
+Jückelberg                              E-Mail: i34w@jow.rhu-lpzhuv.mh
+Germany              WWW: http://xlb-kzhh.tlz.mzb-jxmnly.xl/~s39n/

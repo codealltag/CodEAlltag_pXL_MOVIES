@@ -1,0 +1,18 @@
+Hi alle,
+
+
+warum sehe ich Erik Postings nicht direkt? Seltsam, aus irgendeinem
+Grund werden die rausgefiltert. Schade.
+
+
+Sammelantwort Schnelligkeit: in der Tat, das ist unglaublich langsam.
+Bei mir gerade ca. 1 Minute. Vorhin war es noch schneller. So viele
+Leute können doch da nicht drauf zugreifen?
+
+Abgesehen davon: die Karte kommt direkt von FGKJ, der
+JavaScript-Code von FUWF und Zewi, von meinem Server dürfte kaum
+Traffic kommen (Größenordnung 14 kByte). Seltsam. Die Gesamtseite mit
+allen Inhalten hat eine Größe von 1,2 MByte, das dürfte auch nicht so
+schnarchig sein.
+
+Gruß, Philippe.

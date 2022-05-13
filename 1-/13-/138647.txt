@@ -1,0 +1,37 @@
+Keine Ahnung, ob Zelluloidfilme regelmässig raubkopiert werden.
+
+
+Logischerweise doch: Bisher gab es ja gar keinen Kopierschutz, der
+Film war einfach da. In Zukunft muss man erst mal irgendwo einen
+Datenstrom abfangen, entschlüsseln und speichern. Es bieten sich also
+mehrere Ansätze für einen komplexen Kopierschutz.
+
+Die aktuellen Gerüchte besagen: Der Kinobesitzer bekommt gar keine
+Medien in die Hand, sondern einen spezialisierten Satelittenempf�nger,
+der mit dem Projektor verbunden ist.
+
+[....]
+
+Es ist aber wie es ist: 720x576, bei NTSC sieht's noch schlechter aus.
+
+ Die Komprimierung auf DVD ist MPEG2, die
+
+Eher 1:20, schwankt aber.
+
+Aber wo ist da der Witz? Da raubkopiert man doch lieber gleich von
+einer DVD, das geht auch mit handelsüblichen PCs.
+Der springende Punkt ist aber nach wie vor die Verbreitung: Der DeCSS
+wurde deshalb entschlüsselt, weil jeder Zugang zu mehreren
+Softwareplayern hatte, in welchen der Schlüssel steckt. Und das auf
+der ganzen Welt. Die Chance, dass ein paar fähige Dekrypter sich damit
+befassen war also gegeben. Mit dem digitalen Kinofilm werden aber nur
+sehr wenige Leute und vor allem hauptberuflich zu tun haben, ausserdem
+reicht ein PC (zumindest die nächsten paar Jahre) als Raubwerkzeug
+nicht aus.
+
+
+Wie gesagt, der Aufwand wäre gigantisch; da greift man besser zur DVD,
+die hat dann genau die gewünschte handliche Auflösung und Datenrate.
+Und passt von der Datenmenge prima auf eine DVD ;-)
+
+Hero

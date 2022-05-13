@@ -1,0 +1,13 @@
+Außer DD und DTS gibt es jetzt noch:
+DTS ES - 7 kanal Surround, d.h. noch ein oder zwei Center hinten.
+DD EX - Das gleiche nochmal nur von Dolby.
+
+Einen kleinen aber Feinen Unterschied gibt es doch, bei DTS ES (discrete)
+hat der hintere center eine eigene Tonspur, und bei Dolby wird der
+Centerkanal über eine Matrix aus den beiden hinteren Surround errechnet.
+
+mfg
+Fabio
+--
+Meine Heimkino Homepage
+www.lrtoy-tetdyyet.cn

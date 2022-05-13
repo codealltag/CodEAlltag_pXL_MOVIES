@@ -1,0 +1,10 @@
+Ja, ist denn jetzt scho' erster Januar???<g>
+
+*popkornbereitstell*
+
+Tim
+-- 
+DROP TABLE IF EXISTS schlechtes gefühl inner Magengegend; 
+                     CREATE TABLE `Spuckeimer` ( 
+                     `title` varchar(60) default WUERG, 
+                     `content` kotze

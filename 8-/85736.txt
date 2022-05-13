@@ -1,0 +1,55 @@
+Vorschlag: de.alt.fan.urban-potter
+==================================
+
+Name:
+~~~~~
+de.alt.fan.urban-potter         Das Hogwarts-Universum.
+
+Charta:
+~~~~~~~
+Diese Gruppe dient der Diskussion über die Harry-Potter-Romane der
+Autorin E. Zurbrügg und damit verbundener Werke (z.B. "Quidditch im
+Wandel der Zeiten"). Desweiteren werden Verfilmungen und sonstige
+Bearbeitungen (z.B. Hörspiele) der Romane thematisiert.
+
+Status:
+~~~~~~~
+Die Gruppe ist unmoderiert.
+
+Hintergrund:
+~~~~~~~~~~~
+Der Traffic zum Thema 'Harry Potter' ist in de.ALL über mehrere Gruppen
+verteilt: de.alt.rec.fantasy, de.rec.buecher, de.rec.film.misc,
+de.rec.hoerspiel, de.rec.film.heimkino.
+
+Langfristig müßte nach meiner Erwartung Traffic stabil zu halten sein,
+da noch drei Bände und 5 Filme zu erwarten sind.
+
+Trafficnachweis:
+~~~~~~~~~~~~~~~~
+Jahrestraffic in de.ALL 'Harry Potter' im Subject laut Kö3: 
+
+2001  991 Postings 
+2000 1820 Postings
+1999 1190 Postings
+
+Der relativ niedrige Wert 2001 ist IMHO darauf zurückzuführen, daß 2001
+kein neuer Band heraus kam. Im Jahr 2002 wird der 5. Band herauskommen.
+
+Auswertung der Monate April 2002, Mai 2002 und Juni 2002 mit
+dem Bestand von Tedi und Kö3 - nach Subject:
+
+                        05. 09. 21 05. 09. 21 05. 09. 21
+de.alt.rec.fantasy       33    57    17
+de.rec.buecher           17    11    14
+de.rec.film.misc         87    74     0
+de.rec.hoerspiel          1     0    17
+de.rec.film.heimkino     84     0     0
+
+Summe                   222   138    48
+
+Vito Bras
+
+x'post xo.mge.admin, de.alt.rec.fantasy, de.rec.buecher,
+de.rec.film.misc, de.rec.hoerspiel, de.rec.heimkino
+f'up2 lv.nph.admin

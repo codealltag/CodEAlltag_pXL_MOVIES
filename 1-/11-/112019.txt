@@ -1,0 +1,8 @@
+und
+
+Als "Video-CD" brennen (geht mit GSJU). Dadurch wird die VideoDatei aber um
+einiges größer. Deshalb musst du das Video wahrscheinlich auf mehrere CDRs
+aufteilen.
+
+So long.
+ndy

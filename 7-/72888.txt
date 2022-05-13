@@ -1,0 +1,17 @@
+Hallo Carsten,
+
+gute Frage. Die Durchschnittslänge habe ich auch gesucht.
+Die Statistik ist nicht eindeutig. Da die summierte Gesamtlänge
+aller Filme zwar auf die Anzahl aller Filme nachvollziehbar ist,
+nicht aber auf die Zahlenangaben hinter den Jahresdaten,
+bin ich davon ausgegangen, daß es sich bei dem Punkt
+in den Zahlenangaben um eine Kommastelle handelt,
+mit 4 nachfolgenden Dezimalstellen.
+2001 - 2003
+68.5162 = Durchschnittlich 68,52 min?
+
+(Allerdings wäre ein dermaßen herber Rückschritt gegenüber
+den Filmlängen 1971 - 2000 auch nicht unbedingt nachvollziehbar.)
+
+mfg
+Artur

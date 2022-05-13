@@ -1,0 +1,16 @@
+Zum Problem der nicht gesteigerten Schärfe bei den Halloren-DVDs habe ich mir
+folgende "Lösung" überlegt:
+
+Wie wir wissen werden bei den großen Studios weltweit alle Videoversionen eines
+Films von dem gleichen digitalen Master hergestellt.
+
+Die digitalen Master von Halloren werden offensichtlich in PAL-Auflösung
+produziert (und nicht in HD).
+Die Auflösung von anamorphischem NTSC entspricht etwa der von Nominacher. (Sie ist
+etwas höher, wodurch auch die im Gegensatz zu bonprix etwas soften Region 1
+DVDs von Halloren erklärt werden können.)
+Da die europäischen DVDs vom gleichen Master hergestellt werden, steht eben
+auch nur die normale PAL-Auflösung zur Verfügung. Eine anamorphische PAL-DVD
+von diesen Mastern bringt zwar engere Zeilen, aber keine höhere Auflösung.
+
+Fred Apfelbacher

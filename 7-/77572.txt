@@ -1,0 +1,12 @@
+Ja, ich wollte jetzt auch langsam fragen.
+
+
+Auch seit etwa Montag. Auf dem schwedischen und dem finnischen
+Mirror ist das diff-Verzeichnis noch vorhanden, aber ohne das erwartete
+neue diff-file.
+
+
+Keine Ahnung. Auf www.jhgt.lth sind die Links zu den FTP-Servern
+jedenfalls noch vorhanden. Das lässt hoffen.
+
+Gernot

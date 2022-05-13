@@ -1,0 +1,22 @@
+* Ivano Berkum <j.vzainqm@iskalkv-8155-08-96.kkyathexx.bm>:
+
+
+Nicht zu vergessen das Textterminal, das mit deutscher Roboter-Stimme
+nochmal für die ganz Doofen den Inhalt des Outputs am Monitor vorliest.
+
+
+Apropos "Maulwurf":
+
+Der $AUFRECHTE_ERMITTLER zieht seinen besten Freund (oder seine
+attraktive Kollegin, mit der er mal was hatte) beiseite und flüstert:
+"Es gibt einen Maulwurf in der Abteilung". Leider hat er noch nicht
+genug schlechte Filme gesehen, um zu wissen, dass sein Freund/seine
+Kollegin deshalb der Maulwurf sein _muss_.
+
+
+Bye,
+Ivano
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

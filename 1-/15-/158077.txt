@@ -1,0 +1,11 @@
+Die Ascii-Files sind mittlerweile bei 310562446 Bytes
+und die fertige Datenbank ist 227349266 Bytes gross.
+
+Also ziemlich aufwendig, und die ändert sich jede Woche.
+
+Gruss Wolf
+
+Made with Amiga
+
+-- 
+pwurg@jcrov.vwgc.zl

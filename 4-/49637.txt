@@ -1,0 +1,18 @@
+Ok, das überzeugt mich.
+
+
+Das allerdings nicht. Dieses Beispiel zeigt, dass es fehlerhafte Synchros
+gibt. Dass es ausschließlich schlechte gibt (d.h. keine guten), kann es
+mitnichten zeigen, zumindest sträubt sich mein Logikmodul massiv gegen eine
+solche Schlussfolgerung. Zudem: Du räumst zunächst ein, dass solche Fehler
+auch in einer OmU passieren können, kommst zu Deinem Schluss jedoch
+lediglich für Synchros, mit welcher Begründung? 
+
+Insgesamt finde ich die Kritik an Synchros, die sich auf mangelhafte
+Übersetzung stützt, am schwächsten, da dies in nahezu gleichem Maße auch die
+OmU treffen kann. Und gerade in diesem Beispiel handelt es sich ja wohl
+eher um eine schwache Leistung des Übersetzers, denn eine bewusste
+Veränderung. So was kann also auch dem OmU-Übersetzer passieren.
+
+Gruß,
+Tino

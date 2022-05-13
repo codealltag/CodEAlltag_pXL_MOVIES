@@ -1,0 +1,7 @@
+Ein Rootkit kann sich doch sowieso nur installieren, wenn man als
+Administrator angemeldet ist. Es sollte mittlerweile hinreichend bekannt
+sein, dass man als eingeschränkter Nutzer seine Arbeit macht und den
+Administrator nur verwendet um trusted Software zu installieren.
+
+-- 
+Gruß Frank

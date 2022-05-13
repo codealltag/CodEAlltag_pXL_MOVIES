@@ -1,0 +1,256 @@
+NG-Statistik drfm für den November 2004
+erstellt mit RTFH von Ivan Illenseher.
+
+27/03: 2252 postings
+28/03: 1990 postings
+29/03: 1790 postings
+30/03: 2352 postings
+31/03: 2979 postings
+01/04: 2473 postings
+
+21/04: 3439 postings
+22/04: 1931 postings
+23/04: 2724 postings
+24/04: 1746 postings
+25/04: 2078 postings
+26/04: 2494 postings
+27/04: 2645 postings
+28/04: 2541 postings
+29/04: 2041 Postings
+
+
+30/04: 2242 Postings
+
+Autoren mit den meisten Postings (2242 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  84 | 2114 | 145.5 | Dietmar Kittelmann      |  3.7%  xxxxxxxxxxxxx
+   2 |  68 | 2169 | 125.6 | Dietmar Int-Veld            |  3.0%  xxxxxxxxxxx  
+   3 |  61 | 1639 | 119.6 | Luciano Zurmühl        |  2.7%  xxxxxxxxxx   
+   4 |  52 | 3335 | 210.3 | Walter Aschenbrücker          |  2.3%  xxxxxxxx     
+   5 |  51 | 1108 |  68.0 | Wilhelm Lenthe         |  2.3%  xxxxxxxx     
+   6 |  50 |  714 |  59.3 | Christoph Schek         |  2.2%  xxxxxxxx     
+   7 |  47 | 2344 | 144.6 | Helmut Grip           |  2.1%  xxxxxxx      
+   8 |  44 | 1200 |  78.9 | Walter Meizner        |  2.0%  xxxxxxx      
+   9 |  39 | 1002 |  74.2 | Henry Twehues       |  1.7%  xxxxxx       
+  10 |  36 | 1216 |  75.0 | Sascha Zieske            |  1.6%  xxxxxx       
+  12 |  34 |  789 |  50.9 | Claudio Haeusser           |  1.5%  xxxxx        
+  13 |  33 | 1430 |  88.0 | Carsten Kleine-Kleffmann         |  1.5%  xxxxx        
+  15 |  31 |  942 |  65.2 | Luc Hams        |  1.4%  xxxxx        
+  17 |  29 |  873 |  50.7 | Gerard Küper           |  1.3%  xxxx         
+  18 |  27 |  639 |  52.8 | Wilhelm L. Dworacek      |  1.2%  xxxx         
+  19 |  26 |  431 |  44.2 | Andree Langeman        |  1.2%  xxxx         
+  20 |  25 |  436 |  34.7 | Andree E. Debelt     |  1.1%  xxxx         
+  21 |  24 |  336 |  34.2 | Christian Bleimund            |  1.1%  xxxx         
+  22 |  22 | 2002 | 113.8 | Eric Eggenkamp   |  1.0%  xxx          
+  25 |  21 | 1157 |  67.9 | David Kühbauch        |  0.9%  xxx          
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (333 Autoren)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                              
+       24 |   1 |  0.3%                                                 
+       22 |   3 |  0.9%  x                                              
+       21 |   3 |  0.9%  x                                              
+       20 |   2 |  0.6%                                                 
+       19 |   2 |  0.6%                                                 
+       17 |   5 |  1.5%  xx                                             
+       16 |   3 |  0.9%  x                                              
+       15 |   4 |  1.2%  x                                              
+       14 |   2 |  0.6%                                                 
+       13 |   2 |  0.6%                                                 
+       12 |   4 |  1.2%  x                                              
+       11 |   4 |  1.2%  x                                              
+       10 |   6 |  1.8%  xx                                             
+        9 |   6 |  1.8%  xx                                             
+        8 |  12 |  3.6%  xxxxx                                          
+        7 |  16 |  4.8%  xxxxxxx                                        
+        6 |   9 |  2.7%  xxxx                                           
+        5 |   6 |  1.8%  xx                                             
+        4 |  28 |  8.4%  xxxxxxxxxxxx                                   
+        3 |  31 |  9.3%  xxxxxxxxxxxxxx                                 
+        2 |  60 | 18.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+        1 | 104 | 31.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (148 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Adam                 |   7 |    10 |  4.7%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (148 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Joachim Thiergärtner        |   3 |   261 | 11.6%  xxxxxxxxxxxxxxxxxxxx
+   2 | Claudio Eickbusch          |   2 |   226 | 10.1%  xxxxxxxxxxxxxxxxxx  
+   3 | Wolfram Dapper-Neufeind             |   3 |   157 |  7.0%  xxxxxxxxxxxx        
+   4 | Ivan Radsch         |   4 |   113 |  5.0%  xxxxxxxxx           
+   5 | Ingo Vormbaum         |   1 |    99 |  4.4%  xxxxxxx             
+   6 | Darius Distelrath         |   1 |    94 |  4.2%  xxxxxxx             
+   7 | Claudio Haeusser           |   2 |    73 |  3.3%  xxxxx               
+   8 | Raphaëls Zornig            |   1 |    63 |  2.8%  xxxxx               
+   9 | Wolfgang Zingrebe     |   4 |    61 |  2.7%  xxxx                
+  11 | Wilhelm Lenthe         |   4 |    51 |  2.3%  xxxx                
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2242 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 237 | Superman ist tot                        | 10.6%  xxxxxxxxxx
+   2 | 122 | Der Flop des bisherigen Jahres          |  5.4%  xxxxx     
+   3 | 104 | 7 Zwerge: Schon jemand gelacht?         |  4.6%  xxxx      
+   4 |  99 | Der Spoiler Thread (noch ohne Spoiler)  |  4.4%  xxxx      
+   5 |  94 | Sind Eure Cinemaxxe auch so schlecht?   |  4.2%  xxxx      
+   6 |  86 | TV-Highlights (6. - 18.11.2004)        |  3.8%  xxx       
+   7 |  73 | Warum gehen die Leute nicht ins Kino?   |  3.3%  xxx       
+   8 |  69 | Wie funktioniert echter Schrecken im Fil|  3.1%  xxx       
+   9 |  63 | Nachvertonung Bourne-Verschwoerung      |  2.8%  xx        
+  10 |  62 | Quote fuer den deutschen Film?          |  2.8%  xx        
+  11 |  61 | Offtopic??                              |  2.7%  xx        
+  12 |  41 | Kein störendes Handy-Gebimmel mehr in Fr|  1.8%  x         
+  13 |  34 | Wie haben sie es gemacht, Frau Meisenhelter? |  1.5%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (148)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                    
+    41 |   1 |  0.7%  x                                                 
+    34 |   3 |  2.0%  xxxxx                                             
+    33 |   2 |  1.4%  xxx                                               
+    32 |   1 |  0.7%  x                                                 
+    31 |   1 |  0.7%  x                                                 
+    29 |   1 |  0.7%  x                                                 
+    27 |   3 |  2.0%  xxxxx                                             
+    25 |   2 |  1.4%  xxx                                               
+    23 |   1 |  0.7%  x                                                 
+    22 |   3 |  2.0%  xxxxx                                             
+    21 |   1 |  0.7%  x                                                 
+    20 |   1 |  0.7%  x                                                 
+    19 |   1 |  0.7%  x                                                 
+    18 |   2 |  1.4%  xxx                                               
+    17 |   3 |  2.0%  xxxxx                                             
+    16 |   1 |  0.7%  x                                                 
+    14 |   3 |  2.0%  xxxxx                                             
+    13 |   1 |  0.7%  x                                                 
+    12 |   1 |  0.7%  x                                                 
+    11 |   2 |  1.4%  xxx                                               
+    10 |   3 |  2.0%  xxxxx                                             
+     9 |   2 |  1.4%  xxx                                               
+     8 |   7 |  4.7%  xxxxxxxxxxxx                                      
+     7 |   7 |  4.7%  xxxxxxxxxxxx                                      
+     6 |   8 |  5.4%  xxxxxxxxxxxxxx                                    
+     5 |  11 |  7.4%  xxxxxxxxxxxxxxxxxxxx                              
+     4 |  14 |  9.5%  xxxxxxxxxxxxxxxxxxxxxxxxx                         
+     3 |  13 |  8.8%  xxxxxxxxxxxxxxxxxxxxxxx                           
+     2 |  10 |  6.8%  xxxxxxxxxxxxxxxxxx                                
+     1 |  28 | 18.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (alle, 314 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  62 | Müllensieper Outlook Express      | 19.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  59 | Migob                        | 18.8%  xxxxxxxxxxxxxxxxxxxxxxxx 
+  41 | Forte Agent                    | 13.1%  xxxxxxxxxxxxxxxxx        
+  22 | 40tude_Dialog                  |  7.0%  xxxxxxxxx                
+  21 | Migob Thunderbird            |  6.7%  xxxxxxxx                 
+  14 | slrn                           |  4.5%  xxxxx                    
+  13 | MacSOUP                        |  4.1%  xxxxx                    
+  12 | KNode                          |  3.8%  xxxxx                    
+  11 | Netscape                       |  3.5%  xxxx                     
+  10 | Xnews                          |  3.2%  xxxx                     
+  10 | Hamster                        |  3.2%  xxxx                     
+   8 | tin                            |  2.5%  xxx                      
+   7 | Gnus                           |  2.2%  xx                       
+   4 | Thunderbird                    |  1.3%  x                        
+   2 | Pan                            |  0.6%                           
+   2 | Forte Free Agent               |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+   2 | Izume M2                       |  0.6%                           
+  <2 | 12 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+ 314 | GESAMT (30)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (57
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  13 | Migob                        | 22.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   8 | Forte Agent                    | 14.0%  xxxxxxxxxxxxxxxx         
+   5 | Netscape                       |  8.8%  xxxxxxxxxx               
+   4 | Hamster                        |  7.0%  xxxxxxxx                 
+   4 | Müllensieper Outlook Express      |  7.0%  xxxxxxxx                 
+   3 | KNode                          |  5.3%  xxxxxx                   
+   3 | slrn                           |  5.3%  xxxxxx                   
+   3 | Migob Thunderbird            |  5.3%  xxxxxx                   
+   2 | Xnews                          |  3.5%  xxxx                     
+   2 | MacSOUP                        |  3.5%  xxxx                     
+   2 | 40tude_Dialog                  |  3.5%  xxxx                     
+   1 | Thunderbird                    |  1.8%  xx                       
+   1 | tin                            |  1.8%  xx                       
+   1 | MotorCars            |  1.8%  xx                       
+   1 | Militärladen                        |  1.8%  xx                       
+   1 | Gnus                           |  1.8%  xx                       
+   1 | Pan                            |  1.8%  xx                       
+   1 | Forte Free Agent               |  1.8%  xx                       
+   1 | Forte Agent 32Bit (mit Hamster |  1.8%  xx                       
+
+
+Postingverteilung über den Monat (2242 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  36 |  1.6%  xxxxxxxxxxxxxxxx                                    
+   2 |  34 |  1.5%  xxxxxxxxxxxxxxx                                     
+   3 |  37 |  1.7%  xxxxxxxxxxxxxxxx                                    
+   4 |  91 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+   5 | 118 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | 116 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   7 |  79 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+   8 |  44 |  2.0%  xxxxxxxxxxxxxxxxxxx                                 
+   9 |  32 |  1.4%  xxxxxxxxxxxxxx                                      
+  10 |  30 |  1.3%  xxxxxxxxxxxxx                                       
+  11 |  92 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  12 |  93 |  4.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  13 |  87 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  14 | 118 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  15 |  78 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  16 |  83 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  17 |  36 |  1.6%  xxxxxxxxxxxxxxxx                                    
+  18 |  71 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  19 |  79 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  20 | 111 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+  21 |  53 |  2.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  22 |  68 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  23 |  28 |  1.2%  xxxxxxxxxxxx                                        
+  24 |  47 |  2.1%  xxxxxxxxxxxxxxxxxxxxx                               
+  25 |  70 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  26 | 111 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+  27 |  77 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  28 |  79 |  3.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  29 |  96 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  30 |  76 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  31 |  72 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+
+
+HTH ;-)
+Massimo
+-- 
+"Pascale, I am holding in my hand a small box of chocolate bunnies."
+                                               Twin Peaks - Agent Thelen

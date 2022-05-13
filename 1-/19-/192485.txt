@@ -1,0 +1,29 @@
+Okay, Du hast Recht, die MPEG Karte muesste ich da natuerlich dazurechnen.
+700,- DM geht aber auch noch einigermassen...
+
+
+etwas
+soviel
+
+
+Letzteres waere kein Problem (ich spule nicht dauernd in der Gegend herum
+und schaue Filme meistens komplett), das Problem ist nur: gibt es da
+Probleme mit der Abschirmung bzw. mit Verlust?
+
+
+Das stimmt laut RPLP nicht, zumindest nicht fuer die Zukunft: gerade weil die
+Software leichter zu hacken ist, soll der region code ueber das Laufwerk
+kontrolliert werden (eventuell per EPROM veraenderbar).
+
+
+Bei den Creative Laufwerken scheint es wohl noch zu klappen, ich habe schon
+einen Hack gesehen (siehe posting zu diesem Thread).
+
+
+Danke und viele Gruesse,
+
+Pascal
+
+--
+Pascal Dabelstein
+http://rbm.jmqt.eye-whocgzgid.si/~qapzthz

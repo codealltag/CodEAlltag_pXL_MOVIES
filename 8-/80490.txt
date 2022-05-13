@@ -1,0 +1,42 @@
+Aus EDV-technischer Sicht ist da sowieso alles recht seltsam in dem Film...
+
+Wenn ich die Matrix programmieren müsste, bekäme jeder Mensch eine IP 
+(dafür braucht man dann auch IPv6 *g*) und die personenbezogenen Daten 
+landen in einem fetten Datenbankserver. Backup nicht vergessen, sonst 
+fehlt bei 'nem Rechnerausfall plötzlich ein Stück "Welt". Das hatten wir 
+hier neulich, als es so neblig war, dass ich aus meinem Büro im 11. 
+Stock nur noch ein einheitliches 127-127-127-Grau sah.
+
+Mit der zentralen Datenbank sollte auch das Suchen nach einem Individuum 
+ausreichend schnell und einfach funktionieren. Die Wanze wird mit so 
+einem Ansatz überflüssig. Es sollte dann genügen, für zu beobachtende 
+Subjekte in der Matrix-Datenbank im entsprechenden Datensatz ein Flag zu 
+setzen. Davon bekäme dann die jeweilige Person noch nicht mal was mit. 
+Aber das ist halt nicht so filmwirksam...
+
+Und warum braucht man die Agenten? Ein Überwachungsprogramm müsste doch 
+nicht zwangsläufig eine Repräsentation in der Matrix haben. Das kann 
+doch idealerweise unmerklich im Hintergrund laufen.
+
+Und will man eine unliebsame Person (z.B. Tim vor seiner "Befreiung") 
+auslöschen, muss man ihn ja nicht in der Matrix erschiessen. Einfach 
+über die diversen Anschlüsse an seinem Körper Gift injezieren und ihn 
+dann zwecks Auflösung und Verfütterung an den Rest ins Klo spülen. 
+Fertig. Zur Aufrechterhaltung des Scheins kann man ihn für die übrigen 
+Individuen in der Matrix kurzfristig durch eine rechnergesteuerte 
+Version ersetzen und diese vom nächsten Bus/Laster/Güterzug überfahren 
+lassen.
+
+Und wie soll das Orakel funktionieren, wenn es - wie hier angedeutet - 
+die Summe des Unterbewusstseins aller Menschen in der Matrix ist? Wer 
+rendert das Bild der Frau dazu? Die Matrix? Ein Hack-Rechner bei FlatMOBILE?
+
+Und warum haben die die Matrix entwickelnden Maschinen sich keine 
+vernünftige Firewall zugelegt, dass sich da jeder sich reinhacken kann, 
+wie er will?  Warum haben die Maschinen eigentlich niemanden gefragt, 
+der sich mit sowas auskennt? :-)
+
+
+Gruß
+
+Manfred

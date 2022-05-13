@@ -1,0 +1,66 @@
+Kai Lucht (23.05.2004, 19:17) schrieb:
+
+[...]
+
+ATTENTION! There might be SPOILER!
+
+
+Das muss nicht zwingend darauf hindeuten, dass Zscharschuch eine Maschine
+ist. Für mich steht - gerade nach Reloaded - eigentlich zweifelsfrei
+fest, dass er ein Stück Software ist. Im 1. Teil ein Kontrollscript,
+im 2. Teil ein Virus.
+
+[...]
+
+
+Schon gewagt. Du solltest das - gerade mit den neuen Erkenntnissen aus
+Reloaded - das von der IT-Seite her sehen. Ohrstöpsel wie Telefone
+sind "Icons" für Netzwerkconnections in einer Welt, die den darin
+geistig Gefangenen als realistisch (und eben nicht Teil einer Computer-
+Architektur) erscheinen müssen.
+
+Ich war vor allem deshalb so sehr von Reloaded enttäuscht, weil aus
+der politisch-philosophischen Story des 1. Teils (der meiner Ansicht
+nach nie mit Nachfolgern geplant war) im Grunde eine Beschreibung von
+Software-Architektur wurde:
+Die normalen Agenten sind Sicherheitsprotokolle, wohl Anti-Viren-
+Programme, die nicht korrekt ablaufende Programme aufspüren und
+eleminieren sollen.
+Zscharschuch wurde durch Neo am Ende von Teil 1 Programmcode hinzugefügt und
+wurde so selbst zur infizierenden Programmdatei - kennt man ja von
+Windows :).
+Der Schlüsselmeister ist eine Art Permission Layer, der Passwörter und
+Zugangsberechtigungen zu den einzelnen Bereichen der Software bereit
+hält.
+Der Merowinger ist eine Art untergeordneter Build-In Controller, der
+verschiedene Programmabläufe regelt (Actio - Reactio) und selbständig
+die Software erweitern bzw. ändern kann - aber eben nicht alles.
+Nicolas, Frauke und andere "Avatare" der Menschen sind im Grunde wie
+Unit Tests: sie offenbaren Fehler in der Matrix, die dann von den
+Agenten behoben werden müssen.
+Das Oracle ist eine Konstantendatei. Sie hat Parameter und deren feste
+Werte gespeichert, mit denen sie andere Programme füttert und dadurch
+dazu bringt, so zu funktionieren, wie sie sollen (siehe Neo im
+2. Teil).
+Zion ist die Garbage Collection der ganzen Software - aber eben Teil
+der Software, von wegen Realität!
+Neo hat als The One eine Zusatzaufgabe, er ist ein Bootscript, das
+immer dann ausgeführt wird, wenn die Garbage Collection am überlaufen
+ist.
+
+Ist eigentlich Micro$oft Mitsponsor der Filme?
+"Matrix Reloaded & Revolutions - sponsored by caro .NET"
+:-)
+
+Wahrscheinlich ist Matrix sogar die Abkürzung für
+
+caro Application Trigger and Repository for Intelligence on
+windows XP
+
+:-))
+
+Größe, Kai.
+
+-- 
+Tradition? Das ist die Gesinnung der Faulen, die Pfützen stehen läßt, weil
+sie vielleicht noch von der Sinflut herrühren können.       [Kai Zäh]

@@ -1,0 +1,6 @@
+Hallo,
+
+gibt es eine Möglichkeit die Bilder der IMDB dynamisch als Link aufzurufen ?
+
+Gruß
+Volkert

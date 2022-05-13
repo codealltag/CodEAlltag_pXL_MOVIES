@@ -1,0 +1,3 @@
+Unten auf der Seite findest du die Formel, nach der die Bewertung für
+die Top 250 berechnet wird. Da geht auch noch die Stimmenanzahl mit
+rein.

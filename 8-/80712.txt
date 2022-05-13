@@ -1,0 +1,5 @@
+Klingt logisch. Wieso hat 1 Punkt nur 3 Farben, ich dachte es sind mehr.
+Und wieso hat 1 Farbe nur 1 Byte und nicht mehr.
+
+
+Es gibt keine Blöden fragen, nur blöde Antworten.

@@ -1,0 +1,14 @@
+Ja.
+
+
+*Noch* besser? Hab noch nichts gefunden. Bin aber mit viktoria dank RegExps
+recht zufrieden.  Schaue mal in die "Literatur", da gibt's einige Tipps zum
+Setzen der RegExps.
+
+   -nino
+
+-- 
+  http://pzi-Amurmo.fe/  *  http://Xscaa05.hf/  *  http://ViyvyvXukm.kv/
+Treffen sich zwei Maenner. Sagt der eine: "Ich langweile mich ganz
+entsetzlich." Sagt der andere: "Mich auch."
+                -- "Die Putzfraueninsel"

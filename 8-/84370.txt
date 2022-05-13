@@ -1,0 +1,13 @@
+Bei uns in Polen sieht es ein wenig anders aus ...
+die richtige Zeilenlange betragt max 78 Zeichen pro Zeile. Es kann sein,
+dass Outlook nicht so ausgezeichnet ist (weiss ich viel von Fehler), gibt es
+eben verschiedene Aufbesserungen von denen. Ich benutze zum Beispiel so
+genannte OE- QuoteFix.
+Wahr gesagt, handelt es sich nicht um richtige "coding" oder "Kammen" ;-),
+sondern um Land- Land Unterschiede. Wenn ich Beispielweise Eure "cherset"
+nach iso beobachte .... wundere ich mich...
+
+Viele Grusse aus Polen
+PS. extra fur Ignaz "breche ich jetzt die Reihe" nach 72 Zeichen ;-)
+--
+ag

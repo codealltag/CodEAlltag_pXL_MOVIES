@@ -1,0 +1,47 @@
+in article 56934394533390.99949.54534991@nm-hk9.voy.yel, Stefan,
+
+Möglichkeit A:
+
+Der Ton wird während der Aufnahme separat aufgenommen (Früher auf sog.
+Senkelband, heute auf DAT), während der Postproduktion bearbeitet,
+geschnitten, gemischt etc. und dann, wenn der Film in einem Kino vorgeführt
+werden soll kommt der Ton auf die Filmrolle. Auch hier gibt es zwei
+Möglichkeiten:
+
+1) Der fertige 16mm Positivfilm wird mit einer Magnetspur versehen (sog.
+Magnetrandspur) und darauf kommt dann der fertige Ton (Im Prinzip wie wenn
+Du auf dem Kassettenrecorder was aufnimmst) Wird heute kaum noch gemacht, da
+zu teuer und nicht haltbar. Eigentlich nur noch im Semiprofibereich oder
+ambitionierte Amateure.
+
+2) Während des Kopiervorgenges vom 16mm Negativ auf das Positiv wird auch
+ein sog. Lichttonnegativ mit aufbelichtet, so daß das 16mm Positiv auch eine
+Lichttonspur beinhaltet, die dann im Projektor wieder ausgelesen werden
+kann. Das ist das übliche Verfahren, auch bei 35mm Kinokopien, auch heute
+noch auf analogem Weg, aber auch viele digitale Verfahren arbeiten mit
+Lichtton, nur, daß der dann so ähnlich wie ein Strichcode aussieht und nicht
+mehr wie Schwingungswellen.
+
+Möglichkeit B:
+
+Früher wurden im aktuellen Bereich, als noch keine Videokameras im Einsatz
+waren auch Kameras konstruiert (z.B. von EDT oder auch Erren), die im
+Gehäuse einen Tonkopf enthielten, der direkt während der Aufnahme den Ton
+vom Mikro auf eine auf dem Negativ aufgebrachte Magnettonspur aufnahmen.
+Schneiden konnte man das Material danach nur sehr eingeschränkt, aufgrund
+des Bild- Tonversatzes und ich glaube, dieses Verfahren gibt es heute
+wirklich nicht mehr!
+
+
+Dazu muß entweder das Negativ des Filmes oder ein Positiv abgetastet werden,
+sprich in Videosignale umgesetzt werden. üblich bei heutigen
+Fernsehproduktionen sind Negativabtastungen. Der fertige Ton kommt dann
+hinterher auf die Sende-MAZ.
+
+
+Bitte.
+
+Ullrich
+
+-- 
+<< Mitglied im Komitee zur Einführung der Senkrechtbestattung >>

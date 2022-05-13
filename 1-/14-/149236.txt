@@ -1,0 +1,51 @@
+Hallo Ernest,
+
+Leider ist Deine Beschreibung recht ungenau, so daß ich nur Vermutungen
+anstellen kann, was Du gesehen hast. Um der Sache tiefer auf den Grund zu
+gehen, wäre es hilfreich zu wissen, von welchem Ausgangsmaterial
+(Original-Negativ, Positiv-Kopie, Low-Contrast-Kopie usw.) die Sende-MAZ
+hergestellt wurde.
+
+Wenn es sich um ein  Farbflackern kurz vor oder nach einem Bildwechsel
+handelt, ist folgender Grund naheliegend:
+
+Wie Du vielleicht weit, wird das Kameranegativ erst nach Abschluß des
+"kreativen Bildschnitts", der an Hand einer Arbeitskopie oder auch digital
+erfolgt, manuell nachgeschnitten. Diesen Vorgang nennt man "Abziehen". Dabei
+werden die Kamerarollen getrennt und der Film entsprechend der Arbeitskopie
+zusammengesetzt.
+
+Die einzelnen Filmstücke werden dabei mit Filmkitt zusammengeklebt. Filmkitt
+ist kein Klebstoff im klassischen Sinne, sondern es handelt sich um eine
+speziell auf das Filmmaterial abgestimmte L�sungsmittelkombination
+(Hauptbestandteil Aceton). Diese weicht den meist aus Triacetat bestehenden
+Schichtträger des Filmmaterials an und "verschweißt" so die beiden
+Filmstreifen miteinander.
+
+Leider reagiert nicht nur der Schichtträger auf diese
+L�sungsmittelkombination, sondern auch die fotografische Schicht.  Bei
+unsauberer Verarbeitung können geringe Lösungsmittelreste aus der
+Klebestelle austreten und den Bildbereich verunreinigen. Gleiches geschieht,
+wenn die Abzieherin im Kopierwerk den frisch geklebten Film zu schnell
+weiterrollt. Die noch feuchte Klebestelle kommt dann auf der Rolle mit
+darüber- bzw. darunterliegenden Filmschichten in Kontakt.
+
+Wenn man mal davon ausgeht, daß nur geringe Kittmengen ausgetreten sind, muß
+das unter Umständen nicht einmal auf der späteren Kinokopie sichtbar sein.
+Trotzdem ist die fotografische Schicht geschädigt, was zu einer vorzeitigen
+Alterung und damit zu Farbverschiebungen, meist im Rotbereich, führen kann.
+Wirklich sichtbar wird der Fehler erst nach Jahren, wenn eine neue
+Vorführkopie oder eine Filmabtastung fürs Fernsehen hergestellt werden soll.
+
+Bei genauer Analyse ist meist nur das Bild vor und/oder nach der Klebestelle
+geschädigt. Dies fällt oft in der Projektion nicht auf, das das Auge durch
+den Bildwechsel abgelenkt ist. Auffälliger sind die Schäden, die durch zu
+frühes Aufwickeln entstanden sind. Je nach Rollendicke ist je ein Filmbild
+zwischen etwa 5 und 30 Bildern (bei 35 mm Normalfilm) vor bzw. nach der
+Klebestelle farbverf�lscht, was bei der Projektion zu einem deutlich
+sichtbaren Farbflackern führt.
+
+Ich hoffe, Deine Frage beantwortet zu haben!
+
+Juan Druckenbrodt
+www.pxxmlhempyk-bnghbl.nr

@@ -1,0 +1,31 @@
+4,5 GB (einschichtige oder zumindest recompressed) sollten nicht unter
+13 h zu bekommen sein
+
+4,5*1024*1014*8
+--------------- = 13,653 (h)
+768*60*60
+
+da die Esatot aber gerade ihre DL-Raten verdoppelt, kann man diese
+Zeit noch halbieren, macht also ca. 7h. Es wird nicht ständig mit
+voller Bandbreite gesaugt, dafür aber dann mehrere Streams parallel -
+ergo: wie gehabt sind Filme ohne weitere Zusatzkosten nach einem WoE
+auf der Platte und dann gebrannt im Player.
+
+
+Bis BluRay nennenswerten Marktanteil hat, wird die Brandbreite und die
+Kompressionsfähigkeit der Algorithmen nochmal nachgelegt haben. Zur
+Not gibt es dann eben 'nur' die recompresste DVD-grosse Version, so
+wie heute es eben nur die DivX-Version auf CD zum Renner gebracht hat,
+der sogar die Gerätehersteller zum Anbieten kompatibler Player
+nötigte.
+
+
+Die will man beim Download aber meist nicht, sonst hätte DivX nicht so
+einen Erfolg.
+
+
+Gerald
+-- 
+Kernschmelze. Das ist wieder eins dieser billigen Schlagworte. Wir
+nennen dies eher einen unangeforderten Spaltungs�berschuss.
+                                   (Mr.Reuper)

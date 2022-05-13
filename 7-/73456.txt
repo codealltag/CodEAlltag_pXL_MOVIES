@@ -1,0 +1,15 @@
+Ich wollte nur ein wenig klugschei�en wegen der "einen Oktave". Ein
+Tonhöhenunterschied von einer Oktave entspricht einer Frequenz-
+verdoppelung, mit den üblichen vier Prozent Speedup verändert sich die
+Tonhöhe gerade mal um einen Halbton.
+
+
+Der O-Ton, schätze ich. Bei der deutschen Spur dürfte die Tonhöhe
+korrigiert worden sein.
+
+	Tschau,
+	    Timo
+
+-- 
+Hobbes: How come we play war and not peace?
+Samu: Too few role models.              -- David Ellermann, Samu and Igor

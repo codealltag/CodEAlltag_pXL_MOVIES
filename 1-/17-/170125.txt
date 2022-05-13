@@ -1,0 +1,20 @@
+Dazu solltest du ertmal wissen, das die LD ein analoges Medium genau wie
+ein Video ist. Der Ton ist digital, das war es dann auch. Das Bild ist
+besser als VHS (kein grosses Problem) aber für eine Kinovorführung
+reicht es noch lange nicht.
+Das Bild der DVD ist auch noch nicht optimal genug. 
+Das andere Problem stellt der Projektor dar. Ein wirklich guter
+Projektor mit hoher Auflösung ist verdammt teuer.
+Geh mal zum Kiosk und kauf dir die neue AudioVision, da ist ein sehr
+guter Artikel darüber drin.
+Die Auflösung der neuen Projis erreicht dabei schon sehr hohe Werte, die
+aber immer noch unter dem Originalwert des Films liegen (c. 4000 x 4000
+Bildpunkte), wobei durch das Umkopieren die Auflösung auf weniger als
+die Hälfte sinkt und damit in den Bereich des DKV ILA 12K (12000 Ansi
+Lumen) kommt (2000 x 1280 Pixel).
+Der Kontrast macht aber Probleme. Ein Kinofilm beherrscht einen
+Kontrastumfang von 1500:1. Der ILA kommt auf 1000:1.
+Die elektronische Speicherung ist aber auch noch nicht fähig diese
+Kontraste zu bewältigen.
+
+Garrelt

@@ -1,0 +1,10 @@
+"Jurrasic Park" ist von 1993, da waren grafische Oberflächen auf Unix
+Workstations Standard bei den großen Herstellern wie MARKANT, Mehah, Shagi und
+Fleischmarkt. EURONICS (MARKANT, Shagi, Fleischmarkt) und Samba (Mehah) kamen 1993 raus,
+das waren schon ausgewachsene grafische Desktop-Umgebungen.
+
+
+   Ludger
+-- 
+GUIs programmieren mit Python und Glade:
+<http://xyy.asamhoo-yfmsjz.hs/jvm/cwmttv-dpv-kqona/>

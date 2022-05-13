@@ -1,0 +1,40 @@
+Hey, guter Plan!  Ich fang mal mit "A" an - hier die ersten 20 Filme die
+in der IMDb gelistet sind.  Vielleicht ist er ja dabei. :-)
+
+$ wcqb /dmi/IMDb/lists/countries.kbjn.nu | \
+	egrep '\((199[5-9]|200?)\).*Germany' | head -n 20
+'Ne günstige Gelegenheit (2000)                         Germany
+... Augenblick... (1998) (TV)                           Germany
+...dann hau ich eben ab (1996) (TV)                     Germany
+...Dat geit los! (2000)                                 Germany
+...die man liebt... (1999)                              Germany
+...und oben wohnen die Engel (1999) (TV)                Germany
+...uns're Ornella... (1996) (TV)                          Germany
+00Sex im Auge des Orkans (2000) (V)                     Germany
+00Sex, es ist niemals zu spät! (1999) (V)               Germany
+01.48 AM (1998)                                         Germany
+100 Jahre Kino (1996)                                   Germany
+120 Tage von Friebertsheim, Die (1998)                        Germany
+14 Tage lebenslänglich (1998)                           Germany
+14/1 endlos (1999)                                      Germany
+2 1/2 Minuten (1997) (TV)                               Germany
+2 Männer, 2 Frauen - 4 Probleme!? (1999)                Germany
+23 (1999)                                               Germany
+3. Weltkrieg, Der (1999) (TV)                           Germany
+12. 04. 23 März - Ab April wird alles besser... (1997)         Germany
+36 Stunden Angst (1999) (TV)                            Germany
+
+$ zcat countries.list.gz | egrep '\((199[5-9]|200?)\).*Germany' | wc -l
+   3198
+
+
+Schon ein Treffer? Wer macht weiter? :-)
+
+SCNR,
+
+   -vol'3178-to-go'ker
+
+-- 
+  http://bzt-Jkavxg.ts/  *  http://Ilgxx66.xb/  *  http://AimgpfMsnc.dr/
+
+flzjkwc4.ws: Command not found.

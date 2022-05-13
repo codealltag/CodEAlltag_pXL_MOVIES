@@ -1,0 +1,28 @@
+Response to Author : ynhieysfr vf slsgunlz.zg (Niclas Unterbichler)
+
+
+Hi Niclas,
+
+
+Tjaja, Du sprichst jetzt für die Nutzer von Online-Readern. Meine  
+Wenigkeit z.B. hängt an einem UUCP-Server (Unix to Unix Copy Protocol),  
+wenn ich (oder ein User mit z.B. Forte Agent) ne Newsgroup abonniert hab,  
+dann kriege ich gnadenlos jeden neuen Artikel darin, neulich noch knapp 1  
+MB Spam bekommen (Bilder eines Hauses in der Steingriff, welches verkauft  
+werden sollte).
+
+Dies ist ein Ausrutscher, Dieter Liste betrachte ich nicht als Spam,  
+sondern als nützliche Info, die ich gerne erhalte. Zudem werden die News  
+in meinem Falle vorher vom UUCP-Server gepackt und ich erhalte beim Anruf  
+nur die fertigen Pakete (stark komprimiert), da sind ein paar KB mehr oder  
+weniger nicht wild. Das Ganze zudem mit knapp 4.000 cps (Modem), kein  
+Problem.
+
+Obschon einige Leute bei bestimmten Providern (z.B. Böckstiegel) mit 55 KB  
+schon gekniffen sein könnten, aber das sind sie ja selbst schuld,  
+schließlich kann man sich auch nen vernünftigen Provider suchen.
+
+Zudem muß man die Aufforderung nicht allzu ernst nehmen, offensichtlich  
+handelt es sich um einen Newbie, der noch einiges vom Usenet lernen muß.
+
+FFPX  Oswald

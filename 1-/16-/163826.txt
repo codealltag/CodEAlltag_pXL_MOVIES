@@ -1,0 +1,15 @@
+[...]
+[...]
+[...]
+
+Aha.
+
+
+Was ist das bitte für ein Argument? Dafür wird gequoted. Man quoted
+alles, was sinnvoll ist. Bei dir verhält sich das umgekehrt.
+
+	Ulfert
+-- 
+Ulfert Niederschäfer, Judenberg, Germany
+Homepage http://surz.zpkpb.ia/~dfljth.wcaztcfevcg
+        Kurzgeschichten & Gedichte

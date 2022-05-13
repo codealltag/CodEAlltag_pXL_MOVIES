@@ -1,0 +1,10 @@
+die bewerten die? ich hielt das für eine Art Registriernummer, ähnlich
+Katalognummern oder vielleicht Primärschlüssel einer Datenbank, die
+nur dazu Deint, einen Film eindeutig identifizierbar zu machen (denn
+Titel und Credits können sich ja ändern...)
+
+
+Konrad
+-- 
+Selig sind die Bekloppten,
+denn sie brauchen keinen Hammer

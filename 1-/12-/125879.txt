@@ -1,0 +1,31 @@
+Wäre es wirklich so schrecklich wenn man in diese Newsreader einen 
+automatischen Zeilenumbruch (beim lesen, nicht beim schreiben) einbaut?
+
+Wenn man die lynx-engine nimmt könnte man auch ohne Probleme HTML...
+Oje, jetzt bin ich zuweit gegangen, stimmt's? 
+
+Jetzt mal im Ernst: Geht es Dir nicht auf die Nerven dass man Text aus 
+Newsgroups nicht vernünftig copy-pasten kann? (Wegen dem Zeilenumbruch und 
+den ">")
+Stört es Dich nicht, dass nach ein paar Ebenen die Zitaten nur noch total 
+verstümmelt übrigbleiben?
+
+Nein, Kai, es sind nicht technische Gründe, der einzige Grund für den 
+Zwangszeilenumbruch ist die "Das haben wir immer schon so gemacht" 
+Mentalität, sonst gar nichts.
+
+Wie alles was sich weigert sich selbst weiterzuentwickeln wird auch das 
+Usenet irgendwann einmal ersetzt werden. Das immer schlechter werdende 
+newsserver-Angebot der ISPs und die immer wichtiger werdenden Webforen sind 
+da die Vorboten.
+Eigentlich schade drum, denn in den meisten Punkten finde ich das Usenet 
+sehr gut - gerade weil man es von der Console und von allen Plattformen aus 
+nutzen kann.
+
+Trotzdem einen wunderschönen Gruß,
+
+Jochen
+
+-- 
+Jochen Brökers
+        http://Ohrggyydlo.yni

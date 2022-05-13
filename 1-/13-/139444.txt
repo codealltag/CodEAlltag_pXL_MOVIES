@@ -1,0 +1,12 @@
+Steffen Repschläger <nqsye@qrltja.cmxj.mm> tat schreiben tun:
+
+XML + XSLT => HTML
+XML + XSLT => TeXML => Tex => PDF
+
+Ist eigentlich ganz einfach :)
+
+
+Karen
+-- 
+Man muß das Medium begreifen und das Ticket zum Eintritt heißt Zeit,
+  die Zeit, sich mit dem Medium vertraut zu machen.        (Winfried Zaenkert)

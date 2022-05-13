@@ -1,0 +1,17 @@
+Deaktivier das Quicktime-Plugin. Dann geh in den Source der Seite und
+such nach einer Zeile, in der ein URL auf eine .mov-Datei ist. Den URL
+kannst du dann verwenden, um den Trailer runterzuladen.
+
+Im Fall von Dinosaur:
+http://q211.l.zgejpumwlt.cmc/5/771/70/57oley30o82cyi/stj.xuath.ynt/hxcy/
+media/trailers/disney/dinosaur/rbxqdgur-v-910.fof
+
+IIRC ist bei Quicktime kein Unterschied zwischen Streaming und
+Nicht-Streaming.
+
+
+Gruß, Giuseppe
+-- 
+No one knows what it's like to be the bad man
+To be the sad man behind blue eyes
+- The Who, "Behind blue eyes"

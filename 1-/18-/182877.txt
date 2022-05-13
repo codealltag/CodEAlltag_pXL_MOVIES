@@ -1,0 +1,78 @@
+Hi.
+Ich habe keine Ahnung, wie sich die TFT-Displays in den nächsten 10 Jahren
+entwickeln. Desweiteren ist eine 80er Bildröhre bei weniger als 3,50 Meter
+Betrachtungsabstand etwas unscharf.
+
+
+Das Problem von h�heraufl�sendem TV ist, daß es nicht "entweder oder" heißen
+darf. Alle bisherigen Ansätze laufen allerdings darauf hinaus. Deshalb
+*werden* sie sich nie durchsetzen. Wenn die CD spezielle Verstärker,
+Lautsprecher etc. erfordert hätte, hätte sie sich auch nie durchgesetzt.
+
+Für wenige DM Aufpreis könnte man 100 Hz-Fernseher für HD-TV aufbohren. Dann
+gäbe erst einmal Wiedergabegeräte für HD-TV, die nicht 30.000 DM kosten.
+Dann hätte man eine Chance DVD Plus-Geräte zu verkaufen, es könnten dann
+Medien dafür produziert werden.
+
+Wenn es im Jahr 2007 120 cm-Flachdisplays für 1000...2000 DM und 40 GB-DVDs
+gibt, bessere Irrelevanzkodierungen als MPEG2 kein Problem mehr darstellen,
+wäre es schade, wenn diese Technik nicht für HD-TV verwendet würde.
+
+
+Diese HD-TV Verfahren sind Anfang der 24. 06. 21 entwickelt worden und ist *ANALOG*.
+
+
+Ich sehe den Zugang eher über externe Zuspielger�te, wie zum Beispiel
+DVD-Spieler. Nachrichten in LandShop-Auflösung reicht mir völlig aus. Dafür
+müssen die Fernsehgeräte allerdings in der Lage sein, Modi mit mehr als
+768*576 abzubilden. Bei Computermonitoren war das ja auch kein Problem.
+Hätte man sich für jede neue Auflösungen einen neuen kaufen müssen, würden
+wir immer noch bei 640*480 rumhängen. Ob es sinnvoll ist, 1536*1152 auf
+einem 14"-Monitor darzustellen, ist eine ganz andere Frage. Aber ich habe
+die Auswahl, ob ich 640*480@96Hz oder 800*600@77Hz oder 1024*768@60Hz
+verwenden möchte.
+
+
+Betreibe mal einen guten 82 cm-Fernseher per RGB-Anschluß an einem Computer
+und stelle ein paar hochauflösende Bilder dar. Stelle dann auf das normale
+Fernsehbild zurück.
+
+Mit extra neuen Geräten wird es nie ein HD-TV geben, da gebe ich recht. Der
+Wunsch der Unterhaltungselektronik, direkt die Leute zu neuen Geräten
+Geräten zu bewegen, wird *nie* funktionieren.
+
+Was man aber nicht machen darf, ist, mögliche Wege zum HD-TV durch
+Kurzsichtigkeit zu verbauen. Und das wird z.Z. leider gemacht. Wenn im Jahr
+2003 allen auf einmal einfällt, daß eine kleine Modifikation für 5 DM in den
+Fernsehern ab 1500 DM die Einführung eines bestimmten Zugangs zu HD-TV
+ermöglich hätte, dann ist es eben dann einfach zu spät.
+
+Zu diesen Dingen zählt das Einstellen eines anamorphen Bildformates wie die
+Synchronisation des 100 Hz-Fernsehers auf mehreren Vertikalfrequenzen, was
+schaltungstechnisch sehr einfach ist (z.B. 2*25 Hz, 2*30 Hz, 2*33.3 Hz, 2*40
+Hz, 2*50 Hz, 2*60 Hz). Die Horizontalfrequenz wäre weiterhin konstant 31.25
+kHz oder 31.47 kHz.
+
+In 2 bis 3 Jahren hätte es keine Probleme mehr bereitet, daß ein DVD-Spieler
+andere Timings als "2*25 Hz, 31.25 kHz, 768*576 Bildpunkte, 625 Zeilen" und
+"2*30 Hz, 31.47 kHz, 640*480 Bildpunkte, 525 Zeilen" generieren zu lassen
+(nur über RGB-Ausgang).
+
+Leider sieht die Spezifikation der DVD so was nicht vor. Herzlichen
+Glückwunsch an die Entwickler.
+
+Denn das hätte die ZVF-Industrie wieder etwas ankurbeln können. Ottonormal�
+verbraucher kann zwar auf HD-TV mit 1,5-facher Auflösung umschalten, hat
+dann allerdings nur noch 67 Hz Bildwiederholfrequenz, und seine 72er
+Bildröhre ist auch nicht die, die alles herausholt.
+
+Aber so, wie es zur Zeit ist ist, wird er auch weiterhin zur 72er Röhre
+greifen, weil eine 84er/96er teuerer ist und ein größeres, aber unschärferes
+Bild erzeugt. Bei einer Zimmerbreite von 3,45 Meter ist eine 72er Bildröhre
+schon etwas zu viel.
+
+-- 
+Roberto Thevs
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

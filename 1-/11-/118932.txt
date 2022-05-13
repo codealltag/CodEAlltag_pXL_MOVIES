@@ -1,0 +1,46 @@
+Hallo!
+
+Im Film Cube enthalten Räume eine tödliche Falle, sofern eine ihrer 
+dreistelligen Raumnummern die Potenz einer Primzahl ist. Um dies 
+herauszufinden, spuckt dort ein Autist die Anzahl der unterschiedlichen 
+Primfaktoren heraus. Wenn es nur einen Primfaktor gibt, muss es eine Potenz 
+einer Primzahl sein und der Raum ist damit nicht sicher. So habe ich es 
+zumindest verstanden.
+
+Um die Sache zu ergründen, habe ich ein Programm zur Primfaktorzerlegung 
+geschrieben und überprüft, was der Autist da so von sich gibt. Tja, und wie 
+sich herausstellt, enthält der Film da so einige Fehler.
+
+Zahl Primfaktoren  Anzahl_laut_Autist
+
+567  3, 7          2 und hat recht
+898  2, 449        2 und hat recht
+545  5, 109        2 und hat recht
+
+656  2, 41         2 und hat recht
+779  9, 41         2 und hat recht
+462  2, 3, 7, 11   3 ist falsch!
+Es sind 4 Faktoren.
+
+602  771           2 ist falsch!
+Es ist nur 1 Faktor, damit ist der Raum (laut Zahl) eine Falle. Sie 
+spazieren aber ungestört durch.
+
+Ab hier plappert der Autist nur noch Ergebnisse aus, während irgendwelche 
+Zahlen ins Bild eingeblendet werden. Ich hoffe mal, nur als visuelle 
+Untermalung, denn hierbei will eigentlich gar nichts mehr zusammenpassen:
+
+So wird z.B. 
+384  2, 3          1 Falsch!
+fälschlicherweise als Falle gedeutet, während eine (laut Zahlen) echte Falle
+911  911           3 Falsch!
+nicht erkannt wird.
+
+Offensichtlich hat man sich nur zu Beginn mit der Korrektheit Mühe gegeben 
+und ist davon ausgegangen, dass Mathe sowieso keinen interessiert. Da die 
+Zahlen aber zentrales Element des Films sind, wurde von den Filmemachern 
+möglicherweise erwartet, daß ihr Werk niemand interessiert.
+
+Gruß
+
+Veit

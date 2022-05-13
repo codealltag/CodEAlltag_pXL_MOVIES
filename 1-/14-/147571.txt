@@ -1,0 +1,6 @@
+Frage :
+
+woher will BackFactory wissen welcher Film kommt und die erlaubnis bekommt die
+FSK anzugeben ?????
+
+thx Thomas

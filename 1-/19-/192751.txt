@@ -1,0 +1,19 @@
+In der klanglichen Qualitaet gibt's wohl kaum relevante Unterschiede,
+solange man das Teil nur fuer Filme benutzt. Das Hauptproblem bei
+eigentlich allen billig-Dekodern ist die mangelnde Konfigurierbarkeit.
+Wie sieht's denn bei Deinem Teil in Punkto Bassmanagement aus? Kann
+ich die Uebergangsfrequenz vom Tiefpass fuer den subwoofer frei
+einstellen? Oder ist die fix auf 100Hz?  Hab ich ueberhaupt noch die
+Wahl die mains und/oder rears als large einzustellen, wenn ein subwoofer
+im Spiel ist?  Kann das Teil auch AC3-Prologic decodieren?  etcpp.
+
+
+Welcher AC3 Dekoder soll denn das sein, der so billig ist?  Ich kenn in
+der Klasse nur den Peze AVD-2020 fuer $500, und der benutzt leider noch
+den alten Zoran Chip, der auch im AVR-3200 ist.
+
+
+...und dann schaffst Du Dir ein weiteres Geraet mit AC3/MPEG an. Was nun?
+Kann man Dein Teil auch als DPL Dekoder fuer den Video/TV benutzen?
+
+-berthold

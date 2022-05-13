@@ -1,0 +1,25 @@
+Fup2 poster
+
+
+Eben. Aber ich muss gestehen, dass ich durch Erichs Kriterien
+überhaupt nicht durchblicke.
+
+Anyway, drfm ist alles, aber keine DAU-Senke:
+
+Header-statistics for: Newsreader (grouped, per msg.)
+(based on msgs with bodies between 06.07.2004 and 05.08.2004)
+de.rec.film.misc
+	2635	100,00%	(probe count)
+	584	22,16%	"Mozilla/NetScape"
+	529	20,08%	"Forte Agent"
+	398	15,10%	"Microsoft Outlook"
+
+Insofern leiste ich brav Abbitte.
+
+Tschüss,
+        Berthold
+-- 
+"The PROPER way to handle HTML postings is to cancel the article,
+then hire a hitman to kill the poster, his wife and kids, and fuck
+his dog and smash his computer into little bits. Anything more is
+just extremism." - Johannes Thulen

@@ -1,0 +1,14 @@
+Das sind die US-amerikanischen Altersfreigaben:
+
+G      GENERAL AUDIENCES. All ages admitted.
+PG     PARENTAL GUIDANCE SUGGESTED. Some material may
+            not be suitable for children.
+PG-13  PARENTS STRONGLY CAUTIONED. Some material may
+            be inappropriate for children under 13.
+R      RESTRICTED. Under 17 requires accompanying parent or adult
+guardian.
+NC-17  NO ONE 17 AND UNDER ADMITTED.
+
+Gruß
+
+Denis

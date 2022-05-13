@@ -1,0 +1,8 @@
+Hallo,
+
+das Programm Virtual Dub meldet immer, wenn ich versuche die Datei zu
+öffnen: pck syncronisation error.
+
+Danke
+
+Dieter

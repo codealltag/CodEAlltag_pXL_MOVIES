@@ -1,0 +1,23 @@
+Am 30-06-97 um 16:47 schrieb pfn@aygc96.utc.udr-wtql.jq
+unter dem Betreff: Re: S-Video nach FBAS Konverter?
+
+
+Ich war eigentlich der Meinung, daß FBAS nur über Cynch oder über
+Scart übertragen wird. Und ich möchte halt von meinem Verstärker
+(Lorinser DSP-A3090) nur mit einem S-Video Kabel zum TV/Proj.
+gehen. Ich möchte halt nicht zwei Kabel legen und andauernd
+zwischen den eingängen hin und her schalten. Da der Lorinser nicht
+zwischen S-Video und Cynch wandelt brauche ich irgendeine
+Möglichkeit wie ich meinen SAT Receiver an den S-Video Eingang
+stöpseln kann. Denn alle anderen Geräte sind mit S-Video
+angeschlossen (VCR, LD, DVD, Camera).
+
+Mfg.
+
+Sascha
+
+-- 
+Sascha Gaiß
+
+rr@ogathsz.id
+http://hle.qjjnw.vz/~qbnwwzphy

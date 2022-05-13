@@ -1,0 +1,16 @@
+* Volker Hefner <ekhhvpamjl@lglhv.ko>:
+
+
+"Welchen Belag soll die Pizza haben?"
+
+
+SCNR
+
+Bye,
+Oswald
+
+-- 
+[oswald] > du -hs mutt-manual
+328k    mutt-manual               *WOW!*
+[oswald] > du -hs gnus-manual
+1.9M    gnus-manual              *GASP!*

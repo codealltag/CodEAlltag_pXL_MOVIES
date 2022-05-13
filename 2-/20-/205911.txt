@@ -1,0 +1,16 @@
+uaf@fgkv.GnOXZ.jn (Hinderk V. Gröper) writes:
+
+Mal sehr populär ausgedrückt:
+
+JPEG        für Standbilder.
+
+Motion-JPEG für schnell aufeinanderfolgende _einzelne_ (d.h. voneinander
+            unabhängige) Standbilder, davon aber bis zu 25 Bilder/sec.
+
+MPEG        für Bewegtvideo, d.h. keine _einzelnen_ Bilder, sondern ein Bild hängt
+            von den vorausgegangenen Bildern ab. Dadurch wesentlich geringere
+            Datenrate als Motion-JPEG, im Umkehrschluß (bei gleicher
+            Bildwiederholfrequenz) deutlich bessere Qualität als Motion-JPEG.
+
+-- 
+mtk@iaxhi.mbe.peq                                           Fazer auf Betäubung!

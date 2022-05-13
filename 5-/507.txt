@@ -1,0 +1,15 @@
+Nicht persönlich nehmen, aber anhand der Fragestellung
+ist davon auszugehen, dass du keinerlei Erfahrung in
+diesem Gebiet hast. Daher schlage ich vor.
+
+1) Mit "DVD Decrypter" den Hauptfilm der DVD rippen,
+   dabei werden alle VOB Dateien auch gleich zu einer
+   Datei zusammengefügt, da man nur mehr mit mit...
+
+2) ...VirtualDub od. einem anderen Encoder nach Wahl
+   in eine AVI umrechnen lässt.
+
+3) Gerade Programme für deinen Anwendungsfall
+   gibt es wie Sand am Meer.
+-- 
+orlando: Adam

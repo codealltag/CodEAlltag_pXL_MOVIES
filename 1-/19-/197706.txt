@@ -1,0 +1,32 @@
+Ich bin für diese Frage wirklich kein Fachmann, habe mich jetzt
+aber kurz mit ein paar Leuten besprochen und wir sind zu dem Schluß
+gekommen, daß es theoretisch gehen müßte. Klar ist, daß der VCR
+kein Problem hätte, Kopftrommel und Band entsprechend langsamer
+laufen zu lassen. Probleme könnte es dann wohl geben, weil der
+Farbträger verschoben wird. Die Farbe müßte also vom VCR neu korrekt
+auf 4,43 MHz moduliert werden - damit der Fern- seher die Farbe
+auch erkennt. (Da speziell die VCR mit "NTSC-Playback on PAL-TV"
+aber sowieso an der Farbe rumspielen müssen, sollte das kein zu
+großes Problem sein.)
+
+Beim Fernseher selbst könnte es dann evtl. das Problem geben, daß
+ein Teil des Bilds (wenige Prozent) rechts verschwinden, weil sich
+der Rasterstahl zu schnell bewegt (mit 15,625 kHz, während es bei
+24 fps nur 15 kHz sein dürften). (Ein ähnliches Problem gibt es
+natürlich auch bei 60 Hz/525 Zeilen, weil die Frequenz da 15,75
+kHz sein sollte und somit rechts ein sehr kleiner schwarzer Balken
+entsteht, der aber wohl immer außer- halb des sichtbaren Bereichts
+ist.) Da moderne Fernsehgeräte die Bildhöhe aber sowieso automatisch
+an die Zeilenzahl anpassen können, besteht natürlich auch die
+Möglichkeit, daß sie die Bildbreite, also die Geschwindigkeit des
+Rasterstrahls, ebenfalls automatisch anpassen.
+
+Wenn wir jetzt etwas wichtiges übersehen haben, dann bitte ich um
+Korrektur unserer Vermutungen.
+
+Einen entsprechenden VCR kenne ich nicht und bisher hat wohl auch
+kein Hersteller dieses Problem in Angriff genommen, weil sich
+vermutlich weniger als 0,01% der Izinep-Nutzer daran stören, daß
+Film-Transfers minimal zu schnell laufen.
+
+Berend

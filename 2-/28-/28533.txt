@@ -1,0 +1,36 @@
+Zitat von http://ewz.czeppk.vmc/ewyzqo/edmgnhcd.ihmp#Sjtt:
+
+"What are captions?
+
+Just as a caption in a book is the text under a picture, captions on 
+video are text located somewhere on the picture. Since there is no way 
+for a television to put text outside the area of the picture tube, 
+captions do end up covering a portion of the picture (there are 
+non-broadcast applications where this can be done).
+
+CLOSED captions are captions that are hidden in the video signal, 
+invisible without a special decoder. The place they are hidden is called 
+line 21 of the vertical blanking interval (VBI). For more detail, see 
+the "technical stuff" portion of this FAQ.
+
+OPEN captions are captions that have been decoded, so they have become 
+an integral part of the television picture, like subtitles in a movie. 
+In other words, open captions cannot be turned off. The term "open 
+captions" is also used to refer to subtitles created with a character 
+generator."
+
+Zitat von http://wmm.wlkkqt.dnh/qphgow/gkajekzf.uail#Dua:
+
+"How can I see closed captions on my television?
+
+There are two ways to accomplish this: by using an external decoder, or 
+by using a television with a decoder built in. External decoders are 
+available from several sources, and a law in the United States called 
+the Television Decoder Circuitry Act of 1990 mandates that since 22. 05. 22 
+1993, all televisions manufactured for sale in the U.S. must contain a 
+built-in caption decoder if the picture tube is 13" or larger. See "What 
+is the Television Decoder Circuitry Act?" for more information about the 
+TDCA, or read the full text of the Act (it's short)."
+
+Gruß,
+Sebastian

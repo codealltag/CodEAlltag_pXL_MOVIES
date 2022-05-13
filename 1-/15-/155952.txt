@@ -1,0 +1,18 @@
+Das ist halt so üblich. Es gibt dafür auch einen guten Grund:
+Falls du mal im Verlauf einer Diskussion mehr als eine Ebene zurück
+quotest, bekommst du jedesmal so ein kleines Dingeling (das hier zum
+Beispiel: ">") mehr am Anfang deiner Zeile. 
+
+     Soooo, und wenn du jetzt, sagen wir mal 5 Postings aufwärts
+quotest und da 5 mal ein ">" steht und am Ende noch ein Space, dann
+hast du, wenn du jetzt eine Zeile mit, sagen wir mal, 72 Zeichen Länge
+dranhängen tust, auf einmal eine Zeile mit 5+1+72=78 Zeichen. 
+
+     Und jetzt kommt der Clou: üblich und weitverbreitet ist eine
+Zeilenlänge von 80 Zeichen, und wenn man die überschreitet, wird's
+halt unleserlich. Deswegen ist irgendjemand mal auf die Idee gekommen,
+das mit den 72 Zeichen einzuführen.
+
+
+Mit freundlichem Gruß,
+Nikolaus Zollstabs

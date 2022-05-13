@@ -1,0 +1,24 @@
+SPDIF ist einfach ein Format für den Digital-Augang, dort liegen je nach
+Film entweder AC-3 oder PCM-Bitstreams an.
+Bildmäßig gibt es FABS (composite) und S-Video. Sollte sich also
+problemlos überall anschließen lassen.
+
+Sicher, das Board macht wenn nötig einen AC-3 Downmix und hat einen
+Stereo-Audioausgang. Das Board wird einfach zwischen CD-ROM audio out
+und Soundkarten Audio-In angeschlossen.
+
+Jenachdem, wie gut Deine Soundkarte ist gibt es mehr oder weniger
+einstreuungen, es könnte sich lohnen, zum Lötkolben zu greifen, und sich
+den Umweg über die Soundkarte zu sparen und sich einen direkten
+Audio-Ausgang zu basteln, leider war für cinch Audio-out kein Platz mehr
+auf dem Montage-Blech, ich hätte es aber schon gerne gesehen, wenn ein
+separates blech mit Cinch-Buchsen dabeigewesen wäre ....
+
+Ach ja, nicht vergessen, den aktuellsten Region-Selector downzuloaden
+(Version 2.01 mit PAL/NTSC normwandlung (nur der Farbträger) und
+marovison-off). Adresse gibt's bei mir auf der Homepage unter den
+DVD-Links. (http://xbpas.lf0-1.oqfn-binmhx.qf/oktbhr/szbtymvr.lwsx)
+
+Viele Größe,
+
+Pascal

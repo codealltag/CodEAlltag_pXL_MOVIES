@@ -1,0 +1,18 @@
+Geht es Euch auch so, daß Ihr bei der Bedienung der IMDB zwischen der de
+und der com Variante hin- und herschalten müsst, falls es um deutsche
+Suchanfragen gefolgt von internationalen Kritiken. bzw. deutsche Titel
+zu fremdsprachlichen Filmen geht?
+
+Da ich das recht häufig mache, d.h. in der URL, z.B.
+
+http://hkt.kaqj.tmd/bndiy/ly6185079/
+http://ehi.stkl.bf/smpbi/bm4127052/
+
+de gegen com oder andersherum zu tauschen (zielen, markieren, tippen und
+Eingabe), frage ich mich, ob jemand dazu einen bequemen Toggle Knopf hat
+(Greasemonkey, o.�.)?
+Oder ob ich nur falsch mit der IMDB umgehe?
+
+Gruß
+
+- P.

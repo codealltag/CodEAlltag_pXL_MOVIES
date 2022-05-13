@@ -1,0 +1,2 @@
+Wahrscheinlich ist der doch recht verbreitete Thunderbird der
+einzige, der es noch nicht standardmäßig kann. :-(

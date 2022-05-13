@@ -1,0 +1,75 @@
+Ignaz Vomhof schrieb:
+<Hallo, Digital-Filmer, 
+<habe noch eine Wissensluecke betreffend Nachvertonungsmoeglichkeiten bei
+DVC. Gemeint ist nicht PC oder Babenham, sondern das Schneiden von der
+Camera in den Digital-Recorder. Efoma hat ja 4 Audiospuren (2xStereo) zur
+Verfuegung. Wie laeuft das ab, wenn man das Masterband nach dem Schnitt
+zusaetzlich zum O-Ton mit Kommentar und Musik versehen moechte? Wer hat
+Erfahrung? >
+
+Da ich seit 5 Jahren mit einem Harddiskrecordingsystem zur
+Filmnachvertonung arbeite, habe ich damit einige Erfahrungen gesammelt. Von
+den Anfaengen, bis zu den ersten Versuchen mit dem DVC-Recorder von Zierrath
+(mit  RCTC auf der Control L (Lanc) Schnittstelle). 
+Auf diesem Recorder habe ich fuer eine Bekannte einen fertig geschnittenen
+Filmbeitrag von 20 Minuten synchron auf der PCM-Spur abgemischt. Das
+Verfahren ist zwar nicht so kompliziert, dennoch waren einige Probleme zu
+loesen. Der komplette Ablauf, und eine Einfuehrung in das Harddiskrecording
+ist in einem Artikel "Harddiskrecording in der Praxis" von unserer Homepage
+herunterzuladen (zum Offline lesen): 
+http://lemwsghs.jcbbibhcaw.pth/nkulzxxrj/rgimg/VMG1.okz
+
+Seit letztem Wochenende ist mein System nun komplett:
+Das fehlende Glied in der Kette war ein Kaestchen, das den RCTimeCode vom
+Zierrath DVC Recorder bzw. Hi8 Recorder in MidiTimeCode uebersetzt. 
+Das Kaestchen heisst "icut" und ist von der Firma velocenter. (Es gibt auch
+noch ein WIF, MIF und BIF fuer VITC und sogar fuer chemische Filme).
+Damit wird mein Harddiskrecordingsystem (und auch viele andere
+professionelle und semiprofessionelle Systeme) voellig auf den
+Videorecorder synchronisiert. 
+
+Der Ablauf ist nun wie folgt: 
+- Auf dem Film sollte eine Startmarke mit Bild und Ton (z.B. eine Klappe)
+vorhanden sein!
+- Der O-Ton von dem Film wird auf die Festplatte ueberspielt (auch schon im
+Synchronmodus). Er dient nur als Referenz und wird vor dem zurueckspielen
+stumm geschaltet!
+- Eine O-Ton Kopie kann zur Bearbeitung herangezogen werden.
+- Die Musik, Geraeusche usw. werden plaziert (wie beim Filmschnitt auf der
+Timeline).
+- Jede Spur wird einzeln in der Lautstaerke bearbeitet (O-Ton wird
+eventuell gefiltert).
+- Die gesamte Abmischung wird richtig (keine Uebersteuerungen) ausgepegelt.
+- Anhand der Startmarke (oder sogar nur dem absoluten TimeCode) wird das
+Bild und der Ton synchron ausgerichtet.
+- Im Modus "Slave" gibt der Zierrath Recorder den RCTC aus. Bei Start im
+AudioDubModus laeuft das Harddiskrecordingsystem synchron mit (bei
+richtiger Wahl der Zeitkonstannten, Vorlaufzeit und gleichem Zeitcode (25
+Frames bei PAL) ).
+- Auf der PCM Spur entsteht die komplette (unverrueckbare) Tonabmischung.
+LIPPENSYNCHRON UEBER STUNDEN
+
+Harddiskrecordingsysteme gibt es fuer PC, Mac und eigenstaendige Systeme
+(z.B. Valentik). Leider sind die normalen Soundkarten aber nicht fuer eine
+Synchronisation durch den MidiTimeCode geeignet. (Oder nur die SW?)
+
+Da es zur Zeit auf dem Consumersektor nur den Zierrath DVC-Recorder gibt, ist
+fuer die Nachvertonung zur Zeit nur ein RCTC/MTC/LTC Konverter interessant.
+(Der FNO Consumer DVC Recorder soll ein VITC auf 5Pol-NewEdit
+ausgeben.)
+
+Mir sind zur Zeit zwei Geraete bekannt:
+Valentik SI-80 S
+http://xzw.ovlodnqb.tgw/qbaussax/GM/FVfzpj_LBX.xazp
+
+Velthaus LIF
+Velthaus Studiotechnik
+Nixengasse 63
+95117 Neßmersiel
+Tel: (508) 6514610
+
+
+Viele Spass beim Nachvertonen
+Benno
+
+PS: Ich werde nicht von velocenter (oder jemand anderen) gesponsort!

@@ -1,0 +1,12 @@
+Kein Quatsch, bei Matussek wird das tatsächlich so gemacht, und von NTSC stand
+oben nichts.
+
+
+Nein, bei NTSC wird jedes ungerade Filmbild 2mal, jedes gerade 3mal
+abgetastet. Dadurch ergibt sich eine (Halb-)Bildrate von 60Hz.
+
+Ingolf
+
+-- 
+_ // Ingolf Umbach  Roter Torweg 05  D-32792 Lupendorf  +00 350 5401641
+\X/  kfgzf@oqkkfje.mxg.aia / wajgx@rmm.vjnmm.omu.ue / jbohs@fhad.kie-mx.ci

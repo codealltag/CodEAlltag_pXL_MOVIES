@@ -1,0 +1,11 @@
+Ja, leider.
+
+
+Die Lacher waren ok, aber die Story wahr weit jenseits von Gut & Böse.
+
+Henri
+-- 
+Programmieren für Spaßvögel (Lektion 42)
+
+  this.V[u].father=min_w;  // "Ich bin Dein Vater, Martin! *räche*"
+{Philippe Haugg löst Programmieraufgaben (Djikstra)}

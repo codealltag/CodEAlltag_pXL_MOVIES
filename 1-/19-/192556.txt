@@ -1,0 +1,15 @@
+Ich beziehe mich auf die Nachricht von Gustav.Andresson :
+
+AL> A propos Zone Lock. Hat jemand das PC-DVD Paket von PEO
+AL> mal ausprobiert? Beachtet die Abspiel-Software den Regionalcode?
+AL> Kann man die Software hacken?! ;)
+
+Soweit ich weiß, "merkt" sich der CD Player nach ca.
+fünfmaligen Abspielen von CDs mit einem bestimmten
+Ländercode diesen und spielt dann nur noch CDs mit diesem
+Ländercode ab.
+
+Das ganze soll EPROM-technisch ablaufen, also spielt da
+Software keine Rolle.
+
+ Wußten Sie schon, daß Friedhofgärtner für ihren Beruf über Leichen gehen?

@@ -1,0 +1,13 @@
+:  Programmgenre                                   Datenrate
+:  --------------------------------------------------------------
+:  Hochwertiges Fernsehprogramm                    6 bis 8 MBit/s
+:  Programm mit raschen Bewegungen (z. B. Sport)   6 bis 8 MBit/s
+:  Spielfilm                                       4 bis 6 MBit/s
+:  Zeichentrickfilm                                      2 MBit/s
+:  [ Vergleichswert: HDTV ]                             25 MBit/s
+
+Zum Vergleich:
+
+Die heutigen MPEG 1 Filme haben eine Datenrate von 1,2 MBit/s
+
+-Clemens

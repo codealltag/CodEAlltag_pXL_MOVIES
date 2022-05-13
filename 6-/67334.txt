@@ -1,0 +1,21 @@
+* "David Achcenich" <DetrnG-A@i-mocuum.fp>:
+
+
+Weil es dem Zuschauer...
+
+,----
+`----
+
+
+...ob der witzlosen Dialoge, der dürftigen Story und der ernüchternden
+Erkenntnis, hier mal wieder dumpfe Massenware vorgesetzt zu bekommen,
+die sich dann auch noch durch philosophisches Getue verbrämen möchte,
+gleich _mehmals_ den Magen umdreht.
+
+
+Bye,
+Willi
+
+=2D-=20
+[willi]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

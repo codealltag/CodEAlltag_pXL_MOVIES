@@ -1,0 +1,36 @@
+Hallo,
+
+
+Die Option "Smart Rendering" gibt es nur in der 1.7.x-Version.Unter dem
+Register "Video" (unterhalb von "Full Processing mode") zu finden.
+
+
+Ok.
+
+
+Ok:
+
+Wenn du Corvette installiert hast, müsstest du im Unterordner
+"Compression" die Zeile  'Corvette Codec' haben. Diesen Codec anklicken,
+dann auf konfigurieren gehen - es öffnet sich das Corvette-Toolfenster
+und dort
+als Encoder "H264" einstellen.
+
+Das war's. Video schneiden und neu abspeichern. VirtualDub wird dann
+fast genauso schnell arbeiten, wie ein DirectStream Copy. Falls der
+Vorgang sehr lange dauert, Einstellung nochmals überprüfen.
+
+
+Was ist das für ein Video? Mit dem Tool "G-Spot" kannst du die Attribute
+des Videos genau auslesen. Ich kann nichts sagen, ich hatte so ein
+Phänomen nicht.
+
+
+Keine Ahnung, ich kenne das Programm GMRR nicht.
+
+Man kann dir in der comp.video+tv Gruppe sicherlich weiterhelfen oder
+auch gut im Forum vom skgzmsgxwceiaqlf.fff
+
+Zu den letzten beiden Punkten bin ich echt überfragt.
+
+Guido.

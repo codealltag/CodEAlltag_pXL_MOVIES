@@ -1,0 +1,27 @@
+Das sind alles Kandidaten fuer rigides Gegenchecken: Wenn Du das
+Genre eines schon bestehenden Eintrages aendern willst, solltest Du dem
+Listen-Maintainer eine Begruendung mitschicken, warum Du der Ansicht
+bist, das dein Eintrag richtiger ist. Er kennt den Film ja in der Regel
+nicht und wenn er dich nicht kennt gibt es ja erstmal keinen Grund
+warum Du mehr Recht haben solltest als ein Eintrag, der schon besteht.
+
+Trivia und Movie Connections neigen auch zum Rauschen, auch hier hilft
+eine Begruendung sicher.
+Goofs hab' ich noch nie substantiell submittet, aber ich erinnere mich,
+das dazu mal was in einem der Newsletter stand, wie sie die genau
+handhaben (Die alten gibt es auf dem Fasel-FTP-Server).
+
+Fuer manche Datensparten ist der Backlog einfach auch sehr, sehr gross
+(fuer Trivia galt das auch mal, kenne da aber den aktuellen Stand nicht).
+Wenn dir Webforen nichts ausmachen kannst Du auch in dem Spezialforum
+nachfragen, da lesen mehrere IMDb-Listenmaintainer mit und die koennen
+dir sagen, bei welchen Listen es gerade klemmt.
+
+
+Moeglicherweise ist das zu wenig Film und zu sehr Medienexperiment.
+Frag' einfach per Mail bei lnbynaj@bttc.oml nach, am besten mit
+Referenz zu dem Trouble-Ticket, das Du fuer die Einreichung bekommen
+hast.
+-- 
+Letzte drei Filme:
+Kal Ho Naa Ho (++), Oswina Hornaff (++), The Making of the "Lord of the Rings" (+)

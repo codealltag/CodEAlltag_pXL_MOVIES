@@ -1,0 +1,29 @@
+"Charly Kimmel" <rkorrtl.iznxs.whelmo.oo@vkf.kr> wrote:
+
+Hint:
+In Deinem header fehlt die Deklaration des Zeichensatzes, z.B.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+[TOFU]
+http://tukfx.se/jdpqs ist Dein Freund.
+
+
+www.lxgowz.gi Spoiler ROT13
+"Spaßverderber" werden im allgemeinen geROTed, falls jemand unabsichtlich
+die news öffnet.
+
+
+Was sollen diese Striche bedeuten? Ein Signaturtrenner kann es nicht
+sein, der besteht aus "-- " (Minus, Minus, leer)
+(Hint: in OjE Signaturen vermeiden, OjE kann das nicht)
+
+
+Solltest Du Deine TOFU-Phase überwunden haben, das hätte eine
+Einleitungszeile werden können, wenn es denn bei einer Zeile
+geblieben wäre. So ist es ein Einleitungsroman.
+
+
+regards, Pius

@@ -1,0 +1,37 @@
+"Lothar Sandbrink" <flvqihwoqna_dobyxdn@coo.jz> writes:
+
+[Raubkopien von Videodaten für digitale Projektion]
+
+Entweder habe ich da etwas falsch verstanden oder Du kennst die 
+Kinobranche nicht. Ich vermute letzteres.
+
+Bei Filmen im normalen Verleih sind Raubkopien, die Kinos gezeigt werden, 
+oder auch zusätzliche offen angekündigte Vorstellung, die gegenüber dem
+Verleih verschwiegen werden, kein ersthaftes Problem.
+
+Wenn ein Kino den Verleiher betrügen will, begeht es Abrechnungsbetrug.
+Die Verleiher sind prozentual an den Eintrittsgeldern beteiligt.
+Dazu darf das Kino nur registrierte Eintrittskarten verkaufen.
+Gegenüber dem Verleih muß es angeben, welche Karte es zu welcher
+Vorstellung zu wlechem Preis verkauft hat.
+Betrugsmöglichkeiten:
+ 1.) Es werden Leute ohne Eintrittskarten reingelassen 
+ 2.) Es werden nicht registrierte Eintrittskarten verkauft
+ 3.) Die (registrierten) Eintrittskarten werden zu einem niedrigeren 
+     Preis abgrechnet, als tatsächlich kassiert wurde.
+Um solche Betruegerreien aufzudecken gibt es heute schon Kontrolleure,
+die unauffällig ins Kino gehen und zählen, wieviele Leute in der 
+Vorstellung sitzen. Wenn nachher auf der Abrechnug weniger 
+Eintrittskarten auftauchen, hat das Kino ein Problem...
+Der Kontrolleur wird dabei auch überprüfen, welcher Film überhaupt 
+gezeigt wird. Aber dazu braucht er keine Steganographie oder gar
+besondere Geräte.
+
+Mir fällt doch noch eine Betrugsmöglichkeit mit "Schwarzvorstellungen"
+ein: Der Film wird zusätzlich zu den normalen - und offen angekündigten -
+Vorstellungen in weiteren Vorstellung für einen geschlossenen Personen-
+kreis vorgeführt (etwa für Feiern), die gegenüber den Verleih verschwiegen 
+werden. Nur: wenn er nichts von der Vorführung erfährt, kann sich auch 
+kein Tester in die Vorstellung setzen.
+
+Ciao, Severin                            qykscage@ikseay.raiudzh.jv

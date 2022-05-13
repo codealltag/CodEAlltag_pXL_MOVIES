@@ -1,0 +1,22 @@
+Es ist in der Tat so, dass die Blende bei modernsten Projektoren vor
+jedem Einzelbild sogar 3 mal Auf- und wieder Zugeht. Dieses 72 Herz
+Flackern  kann kein Auge mehr als solches erkennen. Auch die etwas
+groessere Pause zwischen 3maligem Aufleuchten (kontinuierlicher
+Filmtransport) wird dann nicht mehr erkannt.
+
+Der Film hat dann also 24 (neue) Bilder pro Sekunde, die 72 mal pro
+Sekunde aufleuchten und nicht mehr als Flimmern wahrgenommen werden.
+
+(Wie grossformatige Animationen auf dem Computer, die vielleicht nur 10fps
+erreichen, deren jeweils "gueltiges" Bild aber mit 70Hz flimmerfrei
+dargestellt werden. Hier kann man dann hoechstens ein Ruckeln bemerken.)
+
+Live long, eat Phosphor.
+
+--
+    Tobias Jerger, Student der                       // A M I G A
+    Elektrischen Informationstechnik.                //  A4000/030 CV64
+    E-Mail: pypqle@ordupng.rfq-xs.cr             \\ //   1,6 GB, MV1438
+    WWW: http://xcg.xjxpvsb.cih-ac.qr/~wdyxyq/    \X/    Real Multitask
+
+    "Computers are like airconditioned rooms, so do not open WINDOWS !"

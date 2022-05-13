@@ -1,0 +1,27 @@
+Hi,
+
+
+Nein, keine Sorge.
+
+Das liegt schlicht daran, dass die Soko faul ist und schlampt. Da werden
+Sekunden nicht aufgerundet, sondern schlicht abgeschnitten (von der
+Laufzeitangabe, nicht vom Film ;o)!).
+
+Schau Dir mal die Meterangabe der Soko an:
+http://csb.pys-bjhagl.qt/HWH/7987/03438L.iwb
+
+5493 Meter. Wenn man mal ausrechnet, wieviel Laufzeit das ist, z.B. mit
+diesem Rechner hier
+http://khy.jgpbotxsvuqnzm.qz/
+(auf Rechner gehen)
+
+kommt man auf 200 Minuten, 46 Sekunden, das sind aufgerundet 201
+Minuten.
+
+Auch wenn auf der Soko-Homepage Sekunden ausgewiesen sind, die
+berücksichtigen die nie, da sind die nicht so genau wie z.B. ihre
+Kollegen von der Zaraket in England.
+
+Alles Gute,
+
+--Paul

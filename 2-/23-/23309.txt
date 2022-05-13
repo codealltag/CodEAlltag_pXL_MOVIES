@@ -1,0 +1,29 @@
+Hm... das ist mindestens sprachlich unsauber: Neutrinos reagieren nicht,
+sie *unterliegen* der schwachen Wechselwirkung, d.h. das ist die einzige
+Möglichkeit für sie, mit dem Rest der Welt zu interagieren.
+Und diese WW heißt nunmal so, weil sie äußerst schwach ist - was die
+Wahrscheinlichkeit für eine Interaktion mit anderer Materie (und nichts
+anderes ist ein Messvorgang) so gering macht. Nur deswegen durchdringen
+die Neutrinos Materie so problemlos.
+Das Neutrino ist nachdem es gemessen wurde übrigens weg.
+
+
+Die grüße der Messanlage ist vor allem ein statistisches Problem :-)
+*Im Prinzip* spricht nichts dagegen, den Messaufbau von z.B.
+Superkamiokande in Schuhschachtelgr��e nachzubauen. Nur ist dann die
+Wahrscheinlichkeit, daß man mal ein Neutrino misst, so winzig, daß von
+einem Messaufbau eigentlich keine Rede mehr sein kann, man bekommt dann
+ganz überwiegend Rauschen, d.h. ein entsprechend kompakter Detektor
+misst schlicht nichts.
+Nur so als Vergleich: Superkamiokande hat ein Volumen von 50.000m und
+sieht etwa 8 Neutrinos pro *Tag*. Und diese Rate lässt sich auch mit
+anderen Materialien kaum steigern.
+
+
+         Joël
+
+-- 
+Adblock-Filterregelsatz für den ruhebedürftigen Surfer :-)
+http://lcz.neae.cwp-asrisboau.sq/~ess3/ntya/zlfintx.hml
+AdblockPlus für Motorradwerkstatt und Wattwurm, mit DIV-Blocking:
+http://sxav.fxotsnfh.ysb/wvxslwd.paq

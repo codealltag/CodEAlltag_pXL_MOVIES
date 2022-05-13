@@ -1,0 +1,6 @@
+Das tolle ist: Dieses Verfahren kann man iterieren. Wenn man das .mp3
+wieder in wav umbenennt und nochmal komprimiert, spart man wieder 90%.
+
+;-)
+
+	Karl

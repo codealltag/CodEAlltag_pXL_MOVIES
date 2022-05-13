@@ -1,0 +1,29 @@
+Moin,
+
+mit den neuesten diffs ist mir applydif.exe bei trivia.list mit einer
+Schutzverletzung abgeschmiert. Als Ursache fand ich folgende
+kaputte Stelle im diff:
+
+68853,68854c68874,68875
+<   describing his experience making _Alien(c)� (1991)_ (qv) to Premiere
+<   Magazine.
+---
+A
+l
+i
+e
+n
+
+Es handelt sich dabei um einen Eintrag zu "Full Frontal (2001)". Das
+muss mit einem Texteditor folgendermaßen abgeändert werden:
+
+68853,68854c68874,68875
+<   describing his experience making _Alien(c)� (1991)_ (qv) to Premiere
+<   Magazine.
+---
+
+Allerdings stimmt dann die CRC-Checksumme nicht mehr. Deshalb
+muss man applydif manuell mit dem Parameter -force aufrufen,
+dann klappt's wieder mit der Nachbarin.
+
+Joseph

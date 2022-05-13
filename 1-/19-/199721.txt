@@ -1,0 +1,29 @@
+Am 18-30-16 um 21:19 schrieb tqbqthd.wnccehyhqe@djvs.ce-jfjoiwur.cd
+unter dem Betreff: DVD und deutsche Twelve Monkeys
+
+
+Mich würde mal interessieren ob jemand anders die von mir
+beschreibenen Bildstörungen zu beginn des 3. Kapitels auch
+gesehen hat.
+
+
+Das ist MPEG Audio, das nennt sich glaube ich auch Musicam. Der
+NLWO kann über seinen optischen digital Ausgang entweder
+das AC-3 Signal oder ein PCM Signal ausgeben.
+
+Wobei man irgendwie auswählen können soll, ob das PCM Signal von
+der MPEG Tonspur generiert wird oder ob ein Downmix der Dolby
+Digital 5.1 Tonspur gemacht werden soll.
+
+Ich hoffe doch das irgendwann einmal auf dem Display des 3090
+"AUTO : AC-3" stand, bzw "DOLBY SUR. AC-3". Wenn der Player auf
+Pause oder Stop geht wird der 3090 warscheinlich auch dort
+"AUTO : PCM" anzeigen. So ist das jedenfalls bei mir mit Dolby
+Digital Laserdiscs.
+
+Mfg.
+
+Michael Däumler
+ /\_\    __    * BBS Analog: +80 8863 10290 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +11 6393 97025 **  /\_\   \/_/
+        \/_/   * Voice:      +33 0137 79619 *   \/_/

@@ -1,0 +1,15 @@
+Ivano Noël wrote: 
+
+
+Es ist sogar sehr gut möglich, dass es 95% überdurchschnittliche
+Autofahrer gibt.
+
+Ein Beispiel:
+
+5 Autofahrer haben die Note 6,0
+95 Autofahrer haben die Note 1,0
+
+Der Durchscnitt ist 1,25, also eine Eins Minus, und offensichtlich
+sind 95% der Autofahrer dieses Beispiels besser als der Durchschnitt.
+
+	-is

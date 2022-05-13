@@ -1,0 +1,22 @@
+On Sun, 5 Dez 1998 12:19:01 +0200, "Urs Reumschüßel"
+
+Jein.
+
+Tatsächlich ist ein EMP (wie der Name schon sagt) ein elektromagneti-
+scher Impuls, also ein sehr schnell (Picosekundenbereich) an- und
+wieder abschwellendes elektromagnetisches Feld. Dadurch werden in
+elektrischen Leitern sehr hohe Spannungen induziert, die ungeschützte,
+elektronische Geräte zerstören sollen. Die Auswirkungen sind ähnlich
+denen eines Blitzeinschlags, aber im Gegensatz zu diesem nicht punktu-
+ell, sondern flächendeckend.
+
+Der Stromfluß wird also nicht unterbrochen, im Gegenteil, es fließt
+kurzzeitig sehr viel mehr Strom, als einem lieb ist. Ein Ausfall der
+Energieversorgung ist höchstens eine indirekte Folge davon, weil die
+Steuerungselektronik bei den Energieversorgern zerstört wurde. Abge-
+sehen von diesem Punkt ist das Energienetz weitgehend immun gegen EMP.
+Ebenso übrigens auch die altertümliche Röhrentechnik; ein Grund, warum
+diese im militärischen Bereich lange Zeit noch verwendet wurde (und
+wird?).
+
+Norman

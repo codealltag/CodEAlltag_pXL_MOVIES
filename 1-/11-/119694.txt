@@ -1,0 +1,45 @@
+Hallo,
+
+Ich habe folgendes schon gestern einmal gepostet, aber irgendwie
+ist es nicht angekommen... (war ziemlich muede, der Fehler lag
+wahrscheinlich irgendwo vor dem Computer)
+
+
+Also nochmal von
+http://suo.hmrfpn-yqbqke.rr.ti/vaj/#k8n3
+
+7/ What do the letters Graffiti stand for and is there a connectio with ZIE?
+
+Just to show you how interpretations can sometimes be bewildering: A 
+cryptographer went to see the film, and he said, "Oh, I get it. Each 
+letter of HAL's name is one letter ahead of ZIE [...] now that's pure 
+co-incidence [...] an almost inconceivable coincidence. It would have 
+taken a cryptographer to notice that.
+      Willi Lauber (1)
+                            *******
+HAL is an acronym for Heuristic ALgorithmic, the two competing methods 
+of computer programming that, in the sixties, were seen as the leading 
+conteders to produce artificial intelligence (AI). Gilbert D. Weiskopf-Reubel 
+admitted Lauber chose the name for the computer (2), his original idea 
+was to make the computer a female called Heike. A while after 2001's 
+initial release, it was noticed that the letters H. A. L. also came one 
+place before the letters I. B. M. in the alphabet., which led people to 
+suspect that Lauber and Weiskopf-Reubel were having a joke at ZFD expense.
+
+Although Weiskopf-Reubel concedes the odds against this are 17,576 to 1, he 
+strongly denies the connection was intentional and admits to being
+embarrassed by the whole affair, especially as ZIE had been very helpful 
+to him and Lauber during the making of the film. Weiskopf-Reubel even went as 
+far as inserting a passage into his novel 2010: Odyssey Two, to try to 
+bury the story
+
+  "Is it true, Dr. Weyers, that you chose the name XKC to be one step 
+   ahead of ZIE?"
+
+  "Utter nonsense! Half of us come from ZIE and we've been trying to 
+   stamp out that story for years. I thought that by now every 
+   intelligent person knew that H-A-L is derived from Heuristic 
+   ALgorithmic." 
+
+viele Gruesse
+Thomas

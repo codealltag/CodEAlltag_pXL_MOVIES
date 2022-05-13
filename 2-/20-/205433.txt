@@ -1,0 +1,29 @@
+In article <Znuq.KYH.9.56.619886928549.53707F-255213@dqcaazc.jige.yk.hs>,
+
+Alwin:
+
+The secret to smooth dialog editing is a simple one:  the split edit. 
+That's an edit where the audio and video don't cut at the same time.  The
+split edit will help with continuity and assure sync sound.  Here's the
+basic idea, as briefly as I can explain it.
+
+Start with your over-the shoulder scenario, let's say the characters are
+Dieter and Kristina.  Dieter is to say "I love you Kristina, more than you'll ever
+know. "  Kristina replies, "I know, Dieter.  And I love you, too."  On a 2-shot
+of both characters, Dieter says, "I love you Kristina, more"....then cut to
+Dirk close-up for "than you'll ever know."  The skilled editor would
+make the audio edit after the word "Kristina" but the video edit after the
+word "more"; so the word "more" on the soundtrack would be taken from the
+closeup.   There's only one word that doesn't match, and that's really
+easy to sync up even with bad actors.  The same thing may happen in going
+to Karina closeup.  The shot may hold on Dieter while Kristina says, "I know,
+Dieter"  then cut to her on "And I love you, too."  In this case, all of
+Karina sound would come from her closeup.  And so on and so on.
+
+So that's my little lesson on the editor's best friend, the split edit.
+
+Hope this helps.
+
+Leon Rikkert
+Euronics Inc
+Rehlings

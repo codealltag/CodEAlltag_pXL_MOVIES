@@ -1,0 +1,72 @@
+Hallo Leute,
+
+ich möchte die Bilder von mindestens 4 hochauflösenden Farb-Kameras
+gleichzeitig auf 4 DVD-Brennern so mitschneiden, dass die DVDs auf jedem
+handelsüblichen Home-DVD-Player mit möglichst besserere Qualität als
+normale Fernsehsendungen wieder abgespielt werden können .
+
+Zu jedem Bild sollte unbedingt auch der Ton von wahlweise einem Einzigen oder
+je 1 Mikrofon pro Kamera aufgezeichnet werden.
+
+Ausserdem sollte sich:
+1.  jedes der 4 Kamerabilder einzeln auf dem Monitor anzeigen lassen,
+2.  jedes Kamerabild mit einstellbarer Geschwindigkeit nacheinander
+    ... als Slideshow anzeigen lassen,
+3. alle 4 Bilder  gleichzeitig als Quadbild anzeigen lassen,
+
+4. sich die Sache nach Möglichkeit auf 8 oder 10 Kameras erweitern lassen;
+
+das alles mit und ohne laufende DVD-Aufzeichnung auf entsprechend vielen DVD-
+Recordern.
+
+Ich habe noch keinerlei Hardware dafür und bin deshalb flexibel bei der Auswahl.
+
+Die Kameras sollten aber ein (manuelles) Zoomobjektiv von ca. 3..6mm Brennweite
+oder ein CS-Objektivgewinde haben, nach Möglichkeit mehr als 420 Linien
+auflösen, mind. VGA-Auflösung bieten und 25 Halbbilder liefern können, um eine
+Umrechnung auf deutschen TV-Standard zu vermeiden.
+
+Die Software sollte nach Möglichkeit unter Windows laufen.
+
+Gehen tut es wahrscheinlich mit Kameras mit eingebautem Webserver.
+
+Man könnte mehrere einzelne Programme (welche weiss ich noch nicht!)
+für jede IP-Adresse starten:
+4 Browserfenster für Vollbildanzeige,
+4 Brennerprogramm-Instanzen zum Brennen
+usw..
+
+dieser Ansatz ist aber nicht optimal zumal die Kameras mit eingebautem
+Webserver relativ teuer sind, aber auch qualitativ nicht überzeugen.
+
+Ich habe auch spezielle PCI-Karten gesehen die den Anschluss mehrerer
+Kameras (bis zu 16) ermöglichen mit entsprechender Software.
+Die scheint mir aber überwiegend für Überwachungsaufgaben designed zu
+sein; ob damit gleichzeitig auch DVD-Aufnahmen möglich sind habe ich noch
+nicht in Erfahrung bringen können!
+  Da die Kameras dort über BNC-Anschlüsse angeschlossen werden habe ich
+Zweifel an der Bildqualität,
+S-VHS-Anschlüsse würden eine höhere Bildqualität vermuten lassen.
+
+Als letztes bin ich noch über (Web-)-Kameras mit Fire-Wire oder USB2-
+Anschluss gestolpert, die aber überwiegend keinen hochwertigen Eindruck
+bei mir hinterlassen haben, aber vielleicht gibt es ja auch was Brauchbares ???
+
+
+Da ich keinerlei Erfahrungswerte in dieser Angelegenheit habe suche ich
+nach Informationen und Erfahrungen die bei der Realisierung hilfreich
+sein können.
+
+Gruss an alle die dies lesen
+
+Dank an alle die mir antworten
+
+Ivo
+
+----------------------------------------------------------------------------------------------------------
+
+PS:
+
+An alle Platzwarte und Wichtigtuer ...
+  ... und Leute die zwanghaft immer nur ihren unqualifizierten Senf abgeben müssen:
+ **** Eure Meinung (z.B. zu Mehrfach-Postings) ist hier definitiv nicht gefragt !!! ***

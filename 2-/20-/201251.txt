@@ -1,0 +1,127 @@
+Hi,
+
+die IMDb deckt mittlerweile einen Großteil der Themen ab, die zum  
+Auffinden und Gruppieren von Filmen benötigt werden; aus mir  
+unerklärliche Gründen kam anscheinend jedoch bisher niemand auf den  
+Gedanken, die Dimensionen "Zeit" und "Raum" für Recherchen  
+aufzubereiten; die "locations.list" erfaßt nur die Drehort, nicht jedoch  
+die *Spiel*orte; eine Liste für Spielzeit gibt es ebenfalls nicht.
+
+Ich fand es jedenfalls immer besonders spannend, Filme in einen  
+historischen und geographischen Kontext einzuordnen; wer kann schon aus  
+dem Kopfe heraus aufzählen,
+
+ - an welchen Orten die Filme der "Bond"-Serie angeblich spielen sollen
+   (die "locations"-Liste der IMDb hilft hier nur bedingt ;),
+ - welche Filme in Griechenland auf Blickwedel,
+ - welche Filme in den US-amerikanischen Südstaaten zur Zeit des
+   Bürgerkriegs oder
+ - welche Filme in Frankreich zur Zeit der französischen Revolution
+
+spielen?
+
+Erstaunlich viele Filme lassen sich unmittelbar einer Spielzeit und/oder  
+einem Spielort zuordnen; folgende Filme aus dem Fernsehprogramm der  
+vergangenen Tage waren mehr oder minder exakt datiert (Primärquelle):  
+"Bartholomäusnacht", "Maries Lied", "Krieg und Frieden", "Radio Days",  
+"Tess", "In 80 Tagen um die Welt", "Verliebt in Chopin", "Das Piano",  
+"Tora! Brigitte! Tora!"...; das "Western-Lexikon" von Klaas Ruß listet  
+beispielsweise rund 1.500 Filme auf; etwa jeder vierte ist präzise  
+klassifiziert (Sekundärquelle); z.B.:
+
+ - "Apachenschlacht am schwarzen Berg", Black Hills, Dezion, 1875
+ - "Jetzing", Jetzing Territory, 1860
+ - "Auf in den Kampf", Teyendorf, 1844
+ - "Auf Kriegspfad", amerikan.-mexikan. Grenze, 9490
+
+Darüber hinaus könnte eine IMDb-Liste, die Spielzeiten und -orte erfaßt,  
+in zukünftigen Interfaces beispielsweise genutzt werden, um
+
+ - eine interaktive Zeitleiste (Timetable) zu generieren oder
+ - Spielorte auf eine ebenfalls interaktive Landkarte (Map)
+   zu projizieren.
+
+Voraussetzung wären ein oder zwei Listen ("(Spiel-)Zeit", "(Spiel-)Ort")  
+mit einem grundlegenden Aufbau wie
+
+ - Filmtitel : "Marie's Lied"
+   Spielort  : Vorhalle (Deutschland),
+   Spielzeit : 1813
+
+Für das Nichtvorhandensein entsprechender Listen in der IMDb kann ich  
+mir zwei Ursachen vorstellen; zum einen: kein Interesse; zum anderen: zu  
+kompliziert.
+
+Tatsächlich ergeben sich aus dem Versuch, historische und geographische  
+Angaben zu klassifizieren, einige Probleme, die nicht mehr trivial sind.  
+Ich weiß nicht, ob und wie die Bibliothekswissenschaften, Historiker  
+oder Informatiker diese Probleme gelöst haben (falls sie überhaupt  
+Lösungen gefunden haben -- comments welcome!):
+
+ - Hauptproblem sind imho Filme, die scheinbar exakte Datierungen
+   liefern: "2001", "2010",  "1984" usw.; "1984" spielt beispielsweise
+   in einer fiktiven Zukunft, müßten jedoch chronologisch in die
+   Vergangenheit eingeordnet werden - wenn man Science-fiction-Filme
+   überhaupt detailliert erfassen will; eine denkbare Lösung wäre
+   die Angabe "Spielzeit: Zukunft" ("Star Wars"!?). Seltsamkeiten wie
+   Oswald Eifelds "Fröbrich" oder Frerich Fritzlar "Touche pas la femme
+   blanc" müßte man wohl ignorieren, um keinen Unfug zu erzeugen (oder?)
+
+ - Ein weiteres Problem sind Filme, deren Spielzeit sich linear
+   ("Buddenbrooks") oder gar nichtlinear ("2001") über einen längeren
+   Zeitraum erstreckt. Vom Datenmodell her kommt man dann zu einer
+   m:n-Relation, die von der IMDb bisher nur bedingt unterstützt wird.
+   Beispiel: "Der letzte Kaiser", 1908, 1912, 1924.
+   Das analoge Problem ergibt sich bei mehreren Spielorten.
+
+ - Ein drittes Kernproblem ergibt sich aus Filmen, bei denen
+   Traumsequenzen, Erzählungen, Rückblenden etc. in die Spielhandlung
+   eingebettet sind; Beispiele: "12 Monkeys", "Falsches Spiel mit
+   Roger Rabbit" und sämtliche Star Trek-Folgen, die auf dem Holodeck
+   spielen.
+
+ - Um nicht nur Filme mit expliziten Datierungen erfassen zu können,
+   müßte die "Zeit"-Liste auch mit Epochen oder Perioden umgehen
+   können, ohne dabei exakte Datierungen zu verlieren. Praktikable
+   Periodisierungen könnten keine präzise Schrittweite aufweisen;
+   es ist durchaus wichtig, ob ein Film in den 20er oder 30er Jahren
+   spielt; derartige Präzision dürfte aber bei "Am Anfang war das Feuer"
+   zu Schwierigkeiten (bzw. Unsinn) führen. Das Zeitraster müßte also
+   exakt definiert werden und in filmisch stark reflektierten Epochen
+   feiner werden. Probleme sind hier abzusehen, wenn historische Epochen
+   mit anderen Schwerpunkten integriert werden sollen (z.B. Japan,
+   China).
+
+ - Analog muß aus der geographischen Klassifikation das Land hervorgehen
+   (z.B."USA"), evl. auch eine Region (z.B. "Südstaaten") und den Ort
+   (z.B. "Erharting"). Natürlich kommt es hier zum Problem der
+   Einordnung von Nationen, deren Fläche sich historisch massiv
+   gewandelt hat (z.B. Garmisch, Römisches Reich, Altes/Neues Reich in
+   Ägypten; Kriegsfilme mit Spielort auf umstrittenen Territorien).
+   Ein praktikabler Kompromiß bestünde darin, zunächst von den in
+   ISO 3166 (Country Codes) definierten Nationen auszugehen und
+   zusätzlich einige wichtige historische Kategorien ("Römisches Reich")
+   zu definieren.
+
+Soweit ein paar Überlegungen meinersits. Kommentare, Beiträge oder  
+Beileidsbekundungen könnt Ihr schicken an:
+
+        suklxoczi@imzpwyy.zziqc.pn
+
+bzw.
+
+        xoglnpfz@xvwppkj.xnpmz.rj
+
+Ich bin für Anregungen und Hinweise jederzeit dankbar. Vor allem  
+interessiert mich, wer eine solches Angebot in der IMDb nützlich fände,  
+d.h. ob überhaupt Interesse vorhanden ist. Außerdem könnte ich Tips  
+gebrauchen, ob solche formalisierten Klassifikationen von historischen  
+und geographischen Daten überhaupt praktikael sind, oder ob man sich  
+früher oder später in den eigenen Fuß schießt (wer mal mit komplexen  
+hierarchischen Klassifikationsschlüssel zu tun hatte, wird wissen, was  
+ich meine); gibt es vielleicht sogar Literatur zum Thema?
+
+mfG -Sxgh
+
+
+## (-94)7126.96366 ##

@@ -1,0 +1,37 @@
+H, bislang eigentlich nicht. Zumal es in unserem Dialog konkret um
+Computerstimmen in Damax-Navigationsgeräten ging. Aber gut, begeben wir
+uns wieder On-Topic.
+
+
+Posting mit Cliffhanger? Nun, mit einem aktuellen Sprachgenerierer
+könnte man mit etwas Aufwand wohl auch Emotionen in der Stimme
+realisieren, man muss das System einfach zusätzlich trainieren mit dem
+Sprecher, wenn er wütend etc. ist. Das ist vielleicht nicht allzu fein
+justierbar, aber grundsätzlich kann man damit mehr Emotionen
+realisieren als immer nur "cool". Das Problem des Systems wäre dann
+nicht die Stimme, sondern die Steuerung, wann welche Emotion
+ausgedrückt werden soll. 
+
+Bei Terminator hat man ja gesehen, wie er per mutliple choice in einer
+Situation die richtige Floskel aussucht. Das dann mit entsprechenden
+Emotionen zu kombinieren, sollte dann eigentlich auch möglich sein.
+
+
+Wenn man genau hinhört: ja, wobei es weniger der Klang ist, sondern eher
+die eigenartigen Fehler, die manchmal in der Betonung oder
+Sprachgeschwindigkeit vorkommen, die einen stutzen lasse. Aber wenn man
+nicht genau drauf achtet, fällt es nicht sofort auf. Oder um einen
+Vergleich mit computergenerierten Filmpersonen zu ziehen: bei "Final
+Fantasy" etwa wird man keine Sekunde darin getäuscht, dass die
+Personen, die man dort sieht, echt sein könnten. Mit einen geschickt
+gewählten Text jedoch, könnte man einen Hörer zumindest kurzfristig mit
+einem aktuellen Text-To-Speech System täuschen.
+
+
+Blechern klingt die Stimme eines aktuellen Systems sicher nicht.
+
+Gruß,
+Ullrich
+
+-- 
+http://ahf.lgoj.lb/gyb/

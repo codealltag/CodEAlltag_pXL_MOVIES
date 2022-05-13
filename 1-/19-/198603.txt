@@ -1,0 +1,53 @@
+Hi Georges Neurer !
+
+Du schriebst zum Thema Re: Videoschnitt am PC
+in /DE/REC/FILM/MISC:
+
+OK> Die Software fuer die AV-Master laeuft jetzt (endlich) unter NT. Damit
+OK> ist das
+OK> Ganze stabiler und schneller als mit Win95.
+
+"stabiler" oder wirklich "stabil" ?
+Wenn mit NT Version 4.0 gemeint ist, habe ich zumindest bei der  
+Stabilitaet so meine Zweifel...
+
+Ist das Problem mit dem Ton und dem Cache, das im JDR angesprochen  
+wurde, inzwischen behoben? (AFAIR gab es einen Mordslaerm, wenn man die  
+Wiedergabe vorzeitig gestoppt hat)
+
+Mit welcher Software wird die AV-Master jetzt geliefert?
+
+OK> Ich verwende hier einen PPro 200, 128 MB RAM, 2*4 GB Plattenspeicher,
+OK> Kameras
+OK> von Weith und entsprechende Recorder. Movies werden fuer Presentations
+
+Aehm...mehrere Kameras und Recorder?
+
+OK> und WebPages
+OK> verwendet. Laeuft insgesamt recht gut, ist aber vielleicht fuer den
+OK> ambitionierten
+OK> Heimanwender doch eine recht grosse Investition ...
+
+Zum Einstieg geht es ja vielleicht auch eine Nummer kleiner :-)
+Wenn 48 MB RAM fuer den Anfang auch reichen braeuchte ich z.B. fuer's  
+erste nur:
+
+AV Master:       1129,- DM
+Festplatte 4GB:  1500,- DM
+
+Also ca. 2700,-DM.
+
+Wenn ich aehnliche Bearbeitungsmoeglichkeiten mit herkoemmlicher  
+Videotechnik haben wollte, muesste ich mir mindestens noch zwei Timecode- 
+faehige Videorecorder anschaffen. Dazu einen Schnittcomputer und ein  
+Effekt-Videomischpult, und wahrscheinlich ein paar TBCs.
+
+Klingt irgendwie eine Groessenordnung teuerer, obwohl das arbeiten damit  
+natuerlich angenehmer waere.
+
+Bye!
+
+           Luigi
+
+ixmf@isobmwj.vbzor-pbqj.dm
+(PGP key per Empfangsbestaetigung)

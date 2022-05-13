@@ -1,0 +1,13 @@
+qayps4@psdwbcvopa.lv (Emnckkzm A. Hehenberger) wrote in <hkvpw7$yzv$5@fsym-
+i07.dnoe.jgc.yom>:
+
+
+Habe das Programm nach der installationsanweisung installiert.
+Sobald ich das Frontend programm aufrufe bzw. die Datenbank generieren 
+will, kommt die Meldung: Environmental variables not set in KNS.
+
+Weis jemand wo man die Variablen bzw. den Pfad setzen kann?
+
+danke & Gruss,
+
+Marcel

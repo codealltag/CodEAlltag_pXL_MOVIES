@@ -1,0 +1,37 @@
+sscd@qo.lyyp wrote at 17.09.98
+about the topic "Re: DVD-Bewertung: The Devil's Advocate (1997)":
+
+
+ man gehe von einer Single-Side/Single-Layer DVD aus
+ selbige hat eine Kapazitaet von 4,7 Gbyte, welches 37600 mbit entspricht
+ angeblich wird 5% "head-room" beim mastering mit eingeplant
+
+ ferner gehen ca. 1%-5% fuer das Menu Design drauf
+ (die simplen AZZ/optikuss Menus ca. 1% , die aufwendigen animierten Menues
+  von Zimmermeier koennen schonmal 5% verschlinen)
+
+ also wuerde man ca. bei 35000 mbit liegen bevor es logeht
+ (angenommen das Menue verschlingt 2.5%)
+
+ um mal ein aktuelles beispiel zu nehem - Jumanji - 100 minuten = 6000s
+
+ 35000/6000 = 5.83 mbit/s Datendurchsatz insgesamt
+
+ davon gehen jetzt nochmal die 6 audio tracks runter
+ (in diesem falle 4 * .384 mbit + 2 * .192 mbit = 1.92 mbit)
+
+ die speicherplatz der untertitel ist vernachlaessigbar gering
+ so ist man dann bei ca. 3.91 mbit/s fuer die Bildinformation
+
+
+ nein, deshalb steht da oben ja auch "errechnet"
+
+ aber ein paar tests haben ergeben das sich die errechnete datenrate
+ groesstenteils mit der tatsaechlichen datenrate deckt
+
+
+Bye
+ Luis
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

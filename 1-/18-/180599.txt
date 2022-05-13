@@ -1,0 +1,22 @@
+Ausgangspunkt:
+ein 3 Galonen Behälter
+ein 5 Galonen Behälter
+
+Ziel:
+genau 4 Galonen Wasser
+
+So wird gemacht:
+1. 5 G Behälter randvoll füllen
+2. den 3 G Behälter mit dem Wasser aus dem 5 G Behälter randvoll füllen,
+bleiben 2 G Wasser im 5 G Behälter
+3. 3 G Behälter entleeren
+4. die restlichen 2G Wasser aus dem 5 G Behälter in den 3 G Behälter füllen,
+damit sind dann die 2G Wasser in dem 3G Behälter
+5. den 5G Behälter wieder vollmachen
+6. mit dem Wasser des 5G Behälters den 3G behälter bis zum Rand füllen,
+bleiben 4G im 5G Behälter
+
+Alles klar? Ich hoffe man kanns nachvollziehen.
+
+Bye,
+Oscar.

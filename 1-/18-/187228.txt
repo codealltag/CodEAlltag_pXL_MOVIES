@@ -1,0 +1,45 @@
+:-)
+
+     Mein Rat: Nicht auf LD/DVD begrenzen. Wenn überhaupt, dann  Nägel
+     mit  Köpfen und auch andere Medien wie VHS mit einbeziehen. Sonst
+     hockt irgendwann wer da und weiß nicht wohin, weil er mit  seinen
+     VHS-Videos wieder keine passende Gruppe für sich findet. Elitäres
+     Gehabe aufgrund des optischen Mediums wäre imho unangebracht.
+
+     Wie sieht es aus mit anderem  Heimkino-Equipment  als  Discs  und
+     Player an sich? Ich sage nur Tonsysteme.
+
+     Nicht vergessen, daß bei Deinem  Entwurf  auch  die  Chartas  von
+     de.rec.film.misc sowie de.rec.tv.* geändert werden müssen. DVD/LD
+     brauchen in drtt nicht mehr  on-topic  zu  sein,  wenn  es  dafür
+     eine eigene Gruppe gibt.
+
+     Eine Gruppe für alles, was mit Heimkino zu tun hat.  Brettleichen
+     vermeiden.  Und  auch  nicht  überschnappen,  nur  weil  ein paar
+     Spinner  aus  a.v.dvd  gleich  eine   ganze   Subhierarchie   als
+     Schwanzverl�ngerung zur Wahl gestellt haben. Besser abwarten, bis
+     spezifischer Traffic innerhalb der  neuen  Gruppe  wiederum  eine
+     weitere  Untergliederung  auf  lange  Sicht  hinfällig  macht (am
+     besten nach dem *.misc-Modell, spart Anpassung der  existierenden
+     Charta.  Damit  wäre  de.rec.tv.*  jedoch  hinfällig,  eine  neue
+     Subhierarchie müsste mit  einberechnet  werden).  Dann  wäre  zum
+     Beispiel eine spätere Unterteilung in
+
+     de.*.dvd       (DVD)
+     de.*.misc
+     de.*.dolby     (Dolby Digital)
+
+     möglich, wohingegen sich  Themen,  bei  denen  sich  eine  eigene
+     Gruppe  vielleicht  nicht  lohnen würde (z.B. ww.*.laserdisc oder
+     hh.*.bym) dann automatisch in der misc-Gruppe tummeln würden. Das
+     wäre  eine  Methode  (und  imho die sicherste) um von vorneherein
+     dafür zu sorgen, daß das jetzige  Problem  erst  gar  nicht  mehr
+     auftreten  kann. Ansonsten steht man früher oder später wieder da
+     und muß versuchen,  mit  einer  neuen  Gruppe  die  Probleme  von
+     mehreren  existierenden  zu  lösen.  Und wir sehen ja gerade, wie
+     genau das bei de.rec.tv.technik die Hose ging.
+
+
+     Das waren meine Gedanken zu diesem konkreten Vorschlag.
+
+                   - Patrick Niedermüller, Voice: +35-054-1299294 -

@@ -1,0 +1,9 @@
+Sound Editing != Sound Effects Editing. Regulärer Tonschnitt ist das
+Äquivalent zum Schnitt des Bildes. Da der Schnitt des Tons nicht
+analog und zeitgleich zu dem des Bildes erfolgt. Im Endprodukt
+gehen dann Bild und Ton wieder mehr oder weniger Hand in Hand. SFX-Editing 
+beinhaltet die Herstellung und Einbindung akustischer Spezialeffekte.
+
+cu,
+
+  Waldemar

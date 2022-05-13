@@ -1,0 +1,30 @@
+On 9 Sep 1998 08:56:42 +0100, Oscar Keitel
+
+Wenn Du spiegelfreies Glas auf ein anderes Bild legst und das Ergebnis
+dann abfilmst oder abfotografierst, hast Du ein heftiges Problem mit
+der Tiefenschärfe. Der Übergang zwischen dem auf Glas gemalten Bild
+und dem darunterliegenden ist stets sichtbar, und gerade dann mußt Du
+auf jeden Fall nachbearbeiten, schon alleine die entstehende Kante.
+Wenn Du zwei Bilder zu einem zusammenfügen möchtest, kommst Du um eine
+Maske generell nicht herum (eine partielle Belichtung _ist_ eine
+Maske. Hast Du z.B. ein Dia vom Ihno Igor und eines von einem Ballon,
+kannst Du die zwei Dias nicht einfach Übereinanderlegen, da sich die
+Farben des Ballons dann mit dem Blau des Himmels (oder was auch immer
+an dieser Stelle auf dem Dia von Ihno Igor zu sehen ist) innerhalb des
+RGB-Farbraumes vermischt).
+
+Der wichtigste Aspekt bei der Glasmalerei ist, daß Du hinter dem
+Gemälde eine Lichtquelle aufstellen kannst, wodurch das abgelichtete
+Bild im gleichen Farbraum abgebildet ist, in welchem das aufnehmende
+Medium, in unserem Fall also der Film, arbeitet. Auf deutsch: Wäre es
+kein Glas, sondern ein Printmedium, würde es sich generell von einem
+real abgefilmten Landschaftsbild sichtbar unterscheiden (weniger
+darstellbare Farben). Dementsprechend kannst Du bei Glasmalerei auch
+Farben benutzen, die es beim Malen auf Papier u.�. gar nicht gibt, da
+bei letzterem der CYMK-Farbraum zur Geltung kommt.
+
+War das verständlich?
+
+cu,
+
+  Charly

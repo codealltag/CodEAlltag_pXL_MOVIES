@@ -1,0 +1,11 @@
+Hallo, ist vielleicht nicht ganz die richtige newsgroup, aber vielleicht
+kann mir trotzdem einer helfen.
+Ich möchte den Quicktime installieren (nachem ich es deinstalliert habe)
+Nachdem ich den QuiktimeInstaller runtergeladen haben und ausführe, bricht
+dieser nach ca. 24 kb mit der Fehlermeldung ab " Kann QTUninstall.dll ihc
+downloaden ".
+Was soll ich machen? brauche den Quicktime-Player doch für meine ganzen
+Trailer!
+Ach ja: Mein Betriebssystem ist Win2000
+
+Mathäus

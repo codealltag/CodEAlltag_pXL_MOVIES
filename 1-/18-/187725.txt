@@ -1,0 +1,29 @@
+Nun, ich habe nie gesagt, das mir Kompatibilität und Zukunftssicherheit
+am wichtigsten sind, auch mir ist die Klangqualität am wichtigsten,
+schließlich bin ich auch ein Freak, nur ist sie für mich nicht das
+alleinig ausschlaggebende und für Dich ja wohl auch nicht, oder?
+
+Meinst Du jetzt LD oder DVD oder beides?
+
+Bei den LD-playern weiß ich genau, daß AmLimit extra spezifizert hat, daß
+der RF-Ausgang auf jeden Fall BEIDE Analogkanäle ungeflitert rauslassen
+muß, um sich die Option offenzuhalten, später mal mit höherer Datenrate
+zu fahren (siehe meine Homepage
+http://qdnlv.su6-2.lwrq-lzllea.gp/voqnym/mbuagvmg.oseq , dann auf
+Heimkino/Diverses/AC-3 Ausgang klicken), daran sollte es also eigentlich
+nicht scheitern.
+
+Bei den DVD-Playern bin ich nicht so genau informiert, es könnte sein,
+das AC-3 da in den specs nicht höher als mit 384 kbit/s gefahren werden
+darf, was eigentlich aber kein Fehler von AmLimit wäre, sondern einfach
+die Vorgabe des DVD-Konsortiums für compressed Audio darstellt (an die
+sich AKK gar nicht hält). Weit Du da näheres?
+
+
+Richitg, aber wie Du offensichtlich weiter unten in meiner Post
+überlesen hast, wäre es ja machbar BEIDES auf eine DVD zu packen
+(Vorausgesetzt, 640kbit/s sind für AC-3 als compressed Audio erlaubt).
+übrigens ist der neue AKK-Codec auch nicht backwards compatible. Da Du
+und Ich ja beide kein dts haben stört uns das nicht, aber was machen
+die, die schon einen Decoder haben, auf dem der neue Codec dann nicht
+läuft?

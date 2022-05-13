@@ -1,0 +1,69 @@
+2. RfD zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            de.rec.film.misc
+                            ================
+
+Alte Tagline
+============
+
+be.xpy.eyzq.hlzv       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Im Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Filmen, deren Schauspieler
+und Crews sowie Tricktechnik und Filmmusik diskutiert, solange es keine
+speziellere Gruppe zum jeweiligen Thema gibt.
+
+Hintergrund
+===========
+
+siehe 1. RfD <Rfd-1-Aenderung-de.rec.film.misc-09.07.2002-1@dana.de> 
+und folgende Diskussion
+
+Änderungen gegenüber 1. RfD
+===========================
+
+Kurzbeschreibung um Trägermedien (Video, DVD) und Redundanzen (Filme) 
+gekürzt.
+
+Der angehängte Satz "solange es keine speziellere Gruppe zum jeweiligen
+Thema gibt" ist ein Standardsatz aus de.ALL, der es dem jeweiligen
+Poster berät festzulegen, wann die speziellere Gruppe zuständig ist.
+
+Der Verweis auf "Fernsehthemen" kann dann gestrichen werden, da der Satz
+durch die Ergänzung "solange..." überflüssig wird. Der zusätzlich letzte
+Absatz aus dem Chartaentwurf im 1.RfD wird dadurch auch überflüssig.
+
+Der Verweis auf "eigene Filme" kann ebenfalls gestrichen werden, da zum
+einen eigene Filme in drfm einen verschwindenden Anteil ausmachen, zum
+anderen aber Eigenproduktionen auch von der neuen Charta abgedeckt werden.
+
+"Tricktechnik" wird durch einen Hinweis aus der Diskussionsphase zum 1.
+RfD aufgenommen. Filmmusik wird in drfm diskutiert und wurde deswegen in
+den 2. Entwurf mit aufgenommen. Weitere als wichtig angesehene Buzzwords 
+für drfm sind willkommen.
+
+Proponent
+=========
+Volker Inderdohnen <bycogac.ezyir@ur-kmsshxqkf.dj>
+
+-- 
+Fertige Artikel für vs.kaeco.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <nvikbhguo@aewx.gz>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <xjbf:su.zejoi.vzlfq> und unter <http://eye.epvf.px/bts>.

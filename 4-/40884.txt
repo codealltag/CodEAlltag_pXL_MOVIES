@@ -1,0 +1,12 @@
+Nope, nicht ein Plugin installiert (rot13 muß ich mir aber dringend 
+wieder besorgen) und bei News IIRC alles auf default. Daß die deutsche 
+Version beim Kompilieren ein "don't ignore ^L Flag" setzt, glaube ich 
+eher nicht.
+Weiß übrigens jemand zufällig, wie ich dem Thunderbird beibringe Links 
+auf News-Postings richtig zu interpretieren, d.h. beim anklicken die 
+Teile nicht als Mailadresse mißzuverstehen, die Postings runterzuladen 
+und anzuzeigen? (Vermutlich eine FAQ, aber meine Trägheit heute ...)
+
+
+Ciao
+Wolfgang

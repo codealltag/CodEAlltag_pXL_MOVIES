@@ -1,0 +1,12 @@
+Tut er nicht, das erledigt Dein Auge (plus Gehirn), bzw. die Trägheit
+desselben.
+
+
+Der Fernseher ("normal", also keine 100-Hz-Technik) zeigt die beiden
+Halbbilder genau so an, wie sie aufgenommen wurden: also *nacheinander*
+und um jeweils eine Rasterzeile vertikal gegeneinander verschoben. Die
+oben schon erwaehnte Traegheit des Auges interpoliert daraus sozusagen
+die Illusion zweier vollstaendiger Bilder.
+
+-- 
+Wilhelm Tuchbreiter

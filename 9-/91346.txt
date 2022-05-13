@@ -1,0 +1,17 @@
+Ingo Götze <pxqklgro@tairk.mq-yzlmct.ud> wrote:
+Hallo!
+
+
+Abgesehen davon, daß ich tin nie verwenden würde solange es slrn gibt,
+sehe ich keine vernünftige Möglichkeit, Rot13 automatisch zu erkennen.
+Die Idee es per Rechtschreibungpr�fung zu versuchen ist ja schon genannt
+worden. Probier es halt mal. Bau ein Script, das auf der Basis von ispell
+versucht rauszufinden, ob der Text Rot13 kodiert ist oder nicht.
+
+
+Am Spoilerspace nervt mich hauptsächlich, daß damit immer gleich der Rest
+des Postings zum Spoiler deklariert wird. Es kommt aber häufiger vor, daß
+nur ein paar Hinweise innerhalb eines Textes einer Warnung bedürfen, während
+der Rest ungefährlich ist.
+-- 
+Anton

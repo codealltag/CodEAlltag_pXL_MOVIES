@@ -1,0 +1,12 @@
+Kabel
+
+Solange der Player nicht modifiziert hast in Sachen Macrovision, hast Du
+zusaetzlich zum PAL/NTSC-Problem (der Videorekorder muss auch NTSC
+*aufnehmen* koennen, was sehr unwahrscheinlich ist) den Kopierschutz am
+Hals, ja. Mit einem NTSC-Videorekorder und einem einfachen
+Kopierschutzdecoder ist das aber leicht machbar.
+
+Manuel
+--
+Manuel Ostholthoff, Hüttenbühl, Germany
+mailto:r56i@sjy.mmh-jkgvvu.gx -- http://cxj0.kiw-bkosle.ny/~g18n/

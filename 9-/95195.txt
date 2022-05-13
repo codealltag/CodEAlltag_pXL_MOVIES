@@ -1,0 +1,14 @@
+1. Mein Fehler ... es heisst "Patch.exe" und nicht "Path.exe"
+2. "Patch.exe" ins Directory /lists und ausführen. Die orginal 
+   actor.list wird in actor.org umbenannt und die neue actors.list ist 
+   mit Patch modifiziert. Die lässt sich dann mittels megacompany.exe 
+benutzen 
+   (ohne Fhler).
+
+
+Hast du build.exe im /lists liegen?
+Wenn ja, schmeiss es raus. Es soll ins /KopfArbeit.
+
+-- 
+Leonhard Großehambrinker <tdti@axjntt.ol>, Jöllenbeck
+PGP RSA & DH/DSS public key on request and on public servers

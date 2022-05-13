@@ -1,0 +1,25 @@
+Mir auch nicht.
+
+
+patch ignoriert leere Patch-Files klaglos.
+
+Ich habe jetzt nachgeschaut: 
+In den ganzen Diff-Archiven diffs-0312*.tar.gz (also vom 16.Mai bis 6.Jun)
+ist die Größe von diffs/biographies.list 0 Bytes. Meine biographies.list
+vor dem Patch diffs-040102.tar.gz hatte deshalb noch das Datum 9. Mai.
+Der Patch diffs-040102.tar.gz erwartete aber das Datum 6. Jun!
+Also hätte zumindest im Patch diffs-040126.tar.gz der File
+diffs/biographies.list nicht leer sein dürfen.
+
+Ich habe mir jetzt die aktuelle biographies.list.gz vom FTP-Server
+gezogen um die fehlenden Patches zu überbrücken. Wenn man die auf den
+Stand vom 6. Jun zurück patched, funktionieren die Patches 
+diffs-0401*.tar.gz wieder wie gewohnt.
+
+Allerdings mußte ich schon Neujahr in moviedb.h MAXFILMOGRAPHIES
+von 1023 auf 2047 hochsetzen, sonst kam bei den Schauspielercredits
+teilweise Müll raus.
+
+Ciao, Qoshk                             zdcgnbks @ vukvujrl.ul
+
+Zuletzt gesehen: Dina Rosmarie Year Zero The Last Samurai

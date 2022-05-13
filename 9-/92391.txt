@@ -1,0 +1,55 @@
+The doctor is [IN]
+
+[Gruppensitzung. Der behandelnde Arzt Dr. Dalke und Oberschwester
+Tamara Lunke sitzen den bedauernswerten Patienten gegenüber.]
+
+"Ja, liebe Patienten, diese Woche haben wir ja schon einige Fortschritte
+gemacht, wie ich aus euren weitgehend sehr zufriedenstellend
+ausgefüllten Fragebögen ersehen kann. Einzig unser Gianni ist wieder
+einmal aus der Reihe getanzt. Warum tust Du uns das immer an, Gianni?"
+
+[Gianni Klaus ist hell aufgeregt. Er fingert nervös an seinem
+Skarabäus-Amulett]
+
+"Aber ich habe den Fragebogen doch noch nicht mal ausgefüllt! Und
+'Starship Troopers' ist wirklich-"
+
+"Das reicht! Ich will nie mehr davon hören! Schwester Lunke, bringen
+Sie Gianni auf die 'Kranken'station!" [blinzelt]
+
+[Schwester Lunke zerrt den zum Steinerweichen schreienden Gianni aus
+dem Saal.] 
+
+"Gut. Kommen wir nun zum Fragebogen. Die meisten von euch haben richtig
+erkannt, daß der poetische 'The Thin Red Line' und der kompromißlose
+'Terminator' ihre Konkurrenten, den säligen 'Saving Private Ryan' und
+den Mainstream-Kracher 'Terminator 2' in allen Belangen deklassieren und
+daß 'Starship Troopers' eine einmalig gelungene, zynische
+Propagandasatire ist."
+
+[Im Hintergrund hört man das leise Wimmern Gerhards aus der
+'Kranken'station.]
+
+"Was allerdings die Wahl zwischen U.Denzer und Adele Nyman betrifft, so muß
+ich euch leider sagen, daß hier nicht sehr viele Fortschritte erzielt
+wurden. Vor allem Wilfried, Holger, Leander und Luigi sollten sich
+überlegen, ob sie drfm als geheilte Männer verlassen oder für immer hier
+bleiben möchten."
+
+[Die Angesprochenen senken die Köpfe. Holger murmelt etwas, das wie
+"Thiemke" klingt.]
+
+"Wer nicht nur Adele Nimtsch klassisch schöne Züge, sondern auch ihr
+unüberbietbares Talent, ihr magnetisches Charisma und ihre liebenswert
+sympathische Ausstrahlung in jeder ihrer Rollen übersieht, verdrängt
+schon willentlich! Bei dieser Frage erhält nur Wolf einen halben Punkt
+für Originalität.
+Das wär's dann auch für heute. Morgen treffen wir uns wieder, und dann
+sage ich euch, welche Filme ihr ansehen müßt, um wieder zu
+rechtschaffenen Bürgern zu werden. Ab ins Bett, und keine
+Action-Blockbuster unter der Bettdecke! Hausaufgabe: 'Sense and
+Sensibility' und 'Jude' ansehen und jeweils einen 15-seitigen
+Besinnungsaufsatz schreiben!"
+
+Leitung Geschlossene Anstalt drfm
+Dr. vet. Steffen

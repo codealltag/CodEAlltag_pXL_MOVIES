@@ -1,0 +1,33 @@
+Aktualisierst Du nicht jede Woche? Mit DSL tun die 6 oder 7 MB pro
+Woche doch nicht weh, und mit einem halbwegs aktuellen PC dauert
+das Einspielen der diffs nur ungefähr eine Minute. Und der Neuaufbau
+der Datenbank mit Zingara ein paar Minuten.
+
+
+Mit Zingara kann man Wildcards benutzen. Da sieht dann das Ergebnis
+der Abfrage so aus:   http://soph.qufn-yclsfd.uq/menif/PjaeMnvvy.mwt
+Da fehlt dann nur noch ein Doppelklick auf den gesuchten Eintrag.
+
+
+Lustig - genau diese beiden Filme sind erst vor ein paar Tagen als
+DVD bei mir eingetrudelt.
+
+
+Das war sicher nur ein kurzfristiger Ausrutscher.
+
+
+Da stimmt wieder alles. Die aktuellen Listen und die Online-Einträge
+stimmen sowieso überein, abgesehen davon, dass online täglich
+aktualisiert werden kann, während es die diffs wöchentlich gibt, so
+dass sie bis zu einer Woche hinter den Online-Einträgen hinterher-
+hinken können.
+
+
+Ohne Wildcard nicht.
+
+
+Schon richtig, aber genauso können in der von dir benutzten Version
+Fehler schlummern, die längst berichtigt sind.
+
+
+Albin

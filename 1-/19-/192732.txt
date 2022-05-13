@@ -1,0 +1,57 @@
+Seydetsaa.Gkmtf@bkxkjp.sq wrote at 15.03.97
+about the topic "Erster Bericht: TEI A350 DVD-Player":
+
+
+ eigentlich ist die 12 Monkeas DVD voll von unruhigen pixelbewegungen
+ und aehnlichens klassischen MPEG2 artefakten, zumindest in Verbindung
+ mit dem alten TEI A100
+
+ jetzt gibt es 3 moeglichkeiten
+
+ 1. die DVD ist neu encoded worden (unwahrscheinlich)
+ 2. der A350 kann mit 10 Bit Video DAC mehr "glattbuegeln" als der A100
+    (meiner Meinung nach auch unwahrscheinlich
+ 3. du hast noch keine anderen DVDs zum Vergleich gesehen
+
+
+ da die 12 Monkeys DVD nur 4:3 LBX ist, kann bringt hier der Avalance 16:9 nicht
+ mehr als mit jedem anderen Medium
+ erst mit 16:9 Material koennen die 16:9 Fernseher das volle Potential
+ des Mediums ausspielen
+
+
+ eine reine NTSC Wiedergabe ist nicht moeglich, oder ?
+
+
+ 5.1ch ist natuerlich gerade bei filmen eine deutlich verbesserung
+ gegenueber tinissima
+ hier waere es mal interessant die qualitaet des internen 5.1 decoders
+ gegen einen externen zu testen
+ MPEG1 Stereo hingegen ist qualitativ wirklich nicht der Kracher
+ davon kann man sich ja schon seit laengeren auf den Video CDs von Traubenblut
+ ueberzeugen
+
+
+ wenn der A350 nicht wie der Avalance mit einem dual-laser pickup arbeitet
+ (und AFAIK tut er das NICHT) sollte die CD Wiedergabe eigentlich nicht
+ besonders sein (verglichen mit einen halbwegs vernuenftigen stand alone CD
+ player)
+
+
+ die FB vom OSU war ja auch eine Katastrophe
+
+
+ leider keine DTS wiedergabe moeglich
+
+
+ kann man auch frame step in beide richtungen machen ?
+
+
+ jetzt fehlt nur noch die software :-)
+
+
+Bye
+ Lars
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

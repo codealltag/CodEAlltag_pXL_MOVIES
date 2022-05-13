@@ -1,0 +1,90 @@
+-----------------------------------------------------------------------------
+      * = verschlüsselt mit Videocrypt   ? = unklar   $ = verschlüsselt
+ % = verschlüsselt mit Nagravision # = D2Mac (mit JADD-Verschlüsselung)
+     Originalton = Ausstrahlung in der Sprache, in der produziert wurde
+    Ohne Gewähr - Zusammenstellung Copyright (C) 09. 11. 21 Heino Kohlschmidt
+-----------------------------------------------------------------------------
+Transp. Pol. Frequenz    Sender                 Sprache          Status
+-----------------------------------------------------------------------------
+
+Astra 1A - 19,2 Grad Ost
+
+  01    Hor  11,214 GHz  MTH                  deutsch          sendet
+  02    Ver  11,229 GHz  Musome                    deutsch          sendet
+  03 #  Hor  11,244 GHz  TV 3 Schweden          Originalon       sendet
+  04    Ver  11,259 GHz  JJZG              dt/eng/fr/hol    sendet
+  05    Hor  11,273 GHz  Enes                    deutsch          sendet
+  06    Ver  11,288 GHz  GWP                  deutsch          sendet
+  07 #  Hor  11,303 GHz  TV 1000                Originalton      sendet
+  08 *  Ver  11,318 GHz  GZJV                englisch         sendet
+  09 %  Hor  11,332 GHz  DMGU               deutsch          sendet
+  10    Ver  11,347 GHz  Yasarmarkt                   deutsch          sendet
+  11 #  Hor  11,362 GHz  TDK           Originalton      sendet
+  12    Ver  11,377 GHz  Gado               englisch         sendet
+  13 $  Hor  11,391 GHz  Minit [3/95: Gundlach] holländisch      sendet
+  14    Ver  11,406 GHz  Irion                  deutsch          sendet
+  15    Hor  11,421 GHz  SUNPOINT             englisch         sendet
+  16 *  Ver  11,436 GHz  Gramer Fliesen             englisch         sendet
+
+Astra 1B - 19,2 Grad Ost
+
+  17 %  Hor  11,464 GHz  ITSG               deutsch          sendet
+  18 *  Ver  11,479 GHz  Duge      englisch         sendet
+  19    Hor  11,494 GHz  Happyshop                    deutsch          sendet
+  20 *  Ver  11,509 GHz  GFKO             englisch         sendet
+  21    Hor  11,523 GHz  Dt. Sportfernsehen     deutsch          sendet
+  22 *  Ver  11,538 GHz  VH-1                   englisch         sendet
+  23 *  Hor  11,553 GHz  Lauflust Gold                englisch         sendet
+  24 *  Ver  11,568 GHz  NCD/Radfinesse        engl./japan.     sendet
+  25    Hor  11,582 GHz  Wurzelwerk                 deutsch          sendet
+  26 *  Ver  11,597 GHz  GDM        englisch         sendet
+  27 #  Hor  11,612 GHz  TV 3 Dänemark          Originalton      sendet
+  28    Ver  11,627 GHz  NUCC      englisch         sendet
+  29    Hor  11,641 GHz  Weckentrup                   deutsch          sendet
+  30 %  Ver  11,656 GHz  NDK              spanisch         sendet
+  31 #  Hor  11,671 GHz  TV 3 Norwegen          Originalton      sendet
+  32 %  Ver  11,686 GHz  Akuz              spanisch         sendet
+
+Astra 1C - 19,2 Grad Ost
+
+  33    Hor  10,964 GHz  FWC                    deutsch          sendet
+  34 *  Ver  10,979 GHz  UK Living/Chinese Ch.  engl./chin.      sendet
+  35 *  Hor  10,994 GHz  Childrens/Family Chan. englisch         sendet
+  36 %  Ver  11,008 GHz  Scheubert                spanisch         sendet
+  37    Hor  11,023 GHz  NHO/DEG    englisch         sendet
+  38 *  Ver  11,038 GHz  QVC                    englisch         sendet
+  39    Hor  11,053 GHz  Eschermann                 deutsch          sendet
+  40 %  Ver  11,067 GHz  NLN           spanisch         sendet
+  41 *  Hor  11,083 GHz  Ahner./Dornuf    englisch         sendet
+  42 *  Ver  11,097 GHz  Memedo/Adult Chan.      englisch         sendet
+  43    Hor  11,112 GHz  Schlierf                  deutsch          sendet
+  44    Ver  11,126 GHz  Galavision             mex.-span.       sendet
+  45    Hor  11,141 GHz  MediaParts               deutsch          sendet
+  46 *  Ver  11,156 GHz  WCT/TV Asia    englisch         sendet
+  47    Hor  11,171 GHz  Gschmackeria/Travel/
+                         Soap/Chin. News & E.   engl./chin.      sendet
+  48    Ver  11,185 GHz  Gerads              deutsch          sendet
+
+Astra 1D - 19,2 Grad Ost (voraussichtlich)
+
+  49    Hor  10,714 GHz  Hardhöhe-Shop                   dt./franz.       1.1.95
+  50    Ver  10,729 GHz  Wisner Gear      engl./holl./dt.  1.1.95
+  51    Hor  10,744 GHz  CLT                    holländisch      1.1.95
+  52 $  Ver  10,759 GHz  Minit                  holländisch      1.1.95
+  53    Hor  10,773 GHz
+  54    Ver  10,788 GHz  TV Asia                div.             1.1.95
+  55    Hor  10,803 GHz
+  56    Ver  10,818 GHz
+  57    Hor  10,832 GHz
+  58    Ver  10,847 GHz
+  59    Hor  10,862 GHz
+  60    Ver  10,877 GHz
+  61    Hor  10,891 GHz
+  62    Ver  10,906 GHz
+  63 *  Hor  10,921 GHz  Tizur (Osteuropa)    Originalton      sendet
+  64 $  Ver  10,936 GHz  McGünstig                  holländisch      sendet
+-----------------------------------------------------------------------------
+
+---
+** Heino Kohlschmidt, Gregelstraße 24, 15739 Cratzenbach, Germany **
+** +00 3555 72904  EMail (NeXTmail/MIME): cucwx@qoqell.k.ciczq.dh **

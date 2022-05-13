@@ -1,0 +1,20 @@
+: Hallo,
+
+: da gibt es doch die Videokameras die einem die Bilder "scharfrechnen" bzw
+: so ein fuzzylogic Antiwackel drinhaben.
+
+: Wie funktioniert sowas ?
+
+Also das Funktionsprinzip ist wohl, dass man von jeweils aufeinander-
+folgenden Bildern die Differenz ermittelt und sie dann solange gegeneinander
+verschiebt, bis die Differenz minimal wird. Wenn es jemand genauer er-
+klaeren kann, nur zu.
+
+Christof
+
+--
+--------------------------------------------------------------------------------
+Christof Heimsohn
+MKN, Fachbereich Jändl
+iznkopar@mrm.hlngzopdfv.yu-zmyilfqsz.kb
+http://frmd38.uka.ibcqustego.dq-zqxuebpmz.yt/~gnvzzmft/nlgf_iwa.zhix

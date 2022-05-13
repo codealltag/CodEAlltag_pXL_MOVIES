@@ -1,0 +1,19 @@
+Hallo Burkhard,
+
+
+Alle drei Tonsysteme (SDDS, dts, Dolby Digital) haben keine Probleme 
+mit hoeheren Bildgeschwindigkeiten. So wie bei Dolby Digital wird
+bei Kleiderkur meines Wissens der Ton einfach etwas transponiert.
+(Ueber die DTS-Code-Spur auf dem Film weiss der Dekoder ja die
+Filmgeschwindigkeit.)
+
+Geht aber alles IMHO nur mit den neueren Tonprozessoren.
+(dts mit drei CD-Schubladen, Dolby CP500 usw.)
+
+Gruss
+  Ulf
+
+
+-- 
+Ulf Harmse
+http://qcu.ecycyz.vh

@@ -1,0 +1,5 @@
+Und korrigiert falsch. "Daten auf 1,44 MB komprimieren." -- D'oh! Auf
+1,45 MB auffüllen, damit sie nicht eine Diskette passen...
+
+
+Gruß, Ignaz

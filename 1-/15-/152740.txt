@@ -1,0 +1,11 @@
++--[ Hanspeter 'The Lars' Klassen ]---[ bdibydt@xku.xdn ]
+
+Jau, genau die meinte ich, und wenn du die Feststellung machst, kannst 
+du mir nicht ein paar nennen, die empfehlenswert sind, und an die man 
+in deutschen Videotheken kommt?
+
+Gruesse,
+	Samu
+-- 
+   Samu Vornholz                |  perl -MIO::Socket -e 'IO::Socket::INET->new\
+   idif4711@ih-jngcyongp.bj   |  (PeerAddr=>"quf.ajvs.vap:670")->send("bye",\

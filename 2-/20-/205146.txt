@@ -1,0 +1,86 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Achim Strünck;
+==========================           Angaben wie immer ohne Gewähr.
+
+W = WS/Ltbx = Widescreen/Letterboxed Edition (Original Kinoformat);
+S = SE      = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+T = THX     = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+A = AC-3    = mit "Dolby Surround Digital" (6-Kanal-Ton);
+C = CAV     = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+*           = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Erscheinungsdaten der NTSC-Version können sich auf den Video-Start
+beziehen und die Laserdisc evtl. erst danach erscheinen. Keine
+Angabe in einer Spalte heißt NICHT, daß die entsprechende Laserdisc
+nicht verfügbar ist. Die Preise in der NTSC-Spalte beziehen sich
+auf das Angebot eines lokalen Händlers (der i.d.R. die besten Preise
+hat).
+
+---------------------------+---------------+---------------+------------------
+Titel (Jahr)               | PAL deutsch   | PAL englisch  | NTSC englisch  DM
+---------------------------+---------------+---------------+------------------
+Alien (79)                 |               |               | WTA  09.05.96  99
+Aliens (86)                |               |               | WTA  09.05.96 119
+Amadeus (84)               |               |               | WSTA 29.05.96 249
+Apocalypse Now             | W    --.05.96 | W    --.03.96 | WA   --.--.95
+Apollo 13 (95)             |               |               | WT   15.05.96  83
+Bad Boys                   |               |               | W    29.05.96  89
+Batman Forever (95)        |               |               | WA   verfügb.  79
+Born To Be Wild (95)       |               |               | W    verfügb.
+Veit (95)                |               |               | WT   verfügb.  69
+Clueless (95)              |               |               |      12.06.96
+Congo (95)                 |               |               | WTA  15.05.96  84
+Crimson Tide (95)          |               |               | WTA  08.05.96  89
+Cure, The (95)             |               |               | W    verfügb.  69
+Die Hard 1 (88)            |               |               | WTA  18. 10. 22
+Die Hard 2 (90)            |               |               | WTA  18. 10. 22
+Die Hard 3 (95)            |               |               | WTA  18. 10. 22
+Easy Rider                 |               |               | WS*  verfügb. 119
+First Knight (95)          |               |               |      05.06.96  84
+Forget Zindelstein (95)          |               |               |      22.05.96
+Free Willy 2 (95)          |               |               | WA   08.05.96  69
+French Kiss (95)           |               |               | W    verfügb.  84
+Ulferts (64)            |               |               | WST* 22.05.96
+Rosenthaler (95)               |               |               |      07.08.96
+Gretes (89)              |               |               | WS   verfügb.  97
+Hunt for Red October, The  |               |               | WA   --.--.95
+Indiana Jones Box Set      |               | W    --.06.96 |
+Jaws (75)                  |               |               | WSC* 22.05.96 279
+Francesco Mnemonic (95)       |               |               |      15.05.96  79
+Judge Dredd (95)           |               |               |      05.06.96
+Mighty Morph. Power Rangers|               |               |      15.05.96  69
+Mortal Kombat              |               |               |      20.06.96  79
+Natural Born Killers       | W    --.05.96 |               | WSCA --.06.96
+Net, The (95)              |               |               |      03.07.96
+Never Say Never Again      |               |               | W    verfügb.  79
+Nine Months (95)           |               |               |      10.07.96
+Kai Kay (95)               |               |               | W    verfügb.  89
+Rocky Horror Pict. Show, T.|               |               | WST  verfügb. 249
+Shawshank Redemption (94)  | W    --.11.95 |               |      verfügb.
+Showgirls (95)             |               |               |      19.06.96
+Smoke (95)                 |               |               |      02.10.96
+Spaceballs (87)            |               |               | WA   24.05.96  72
+Species (95)               |               |               | WTA  29.05.96  69
+Star Trek Generations (94) | W    verfügb. | W    --.05.96 | WTA  verfügb.
+Star Trek Set 1-3 (79-84)  | W    --.Q1.96 | W    --.Q4.95 |
+Star Trek Set 1-7 (79-94)  |               |               | W    verfügb.
+Star Trek Set 4-6 (86-91)  | W    --.Q1.96 | W    --.Q4.95 |
+Star Wars Trilogy (77-83)  | WTC  --.04.96 |               | WTSC verfügb.
+Stargate (94)              | W    --.--.95 | W    --.Q4.95 | WTA  verfügb.  99
+Streetfighter (94)         | W    --.06.96 |               | WS   verfügb.
+Tank Girl (95)             |               |               | WS   verfügb.
+Thunderball (65)           |               |               | WST* --.12.95
+Timecop (94)               | W    --.Q1.96 | W    --.--.95 | W    verfügb.
+Gérard Körnlein (95)             |               |               | W    verfügb.  85
+Top Gun (86)               | W    --.--.95 | W    --.--.95 | WTA  verfügb.  85
+Tron (82)                  |               |               | WC   16.05.96 199
+Under Siege 2 (95)         |               |               |      31.07.96
+Usual Suspects, The (95)   |               |               |      31.05.97
+Wallace & Gromit           |               |               | C    verfügb.
+Waterworld (95)            |               |               |      31.07.96
+While you were sleeping(95)|               |               | WT   verfügb.  84
+---------------------------+---------------+---------------+------------------
+
+---
+** Achim Strünck,  Fröhlenstraße 54,  27001 Taldorf,  Germany **
+** +54 8346 31897  E-Mail (NeXTmail/MIME): uosdp@gsqjkz.v.pxfad.ls **

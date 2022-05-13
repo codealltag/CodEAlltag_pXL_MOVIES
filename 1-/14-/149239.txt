@@ -1,0 +1,6 @@
+edit-> preferences-> mail&newsgroups -> messages: wrap messages at 72
+lines.
+
+bye...
+-- 
+Paul Westarp                              x2641844@sigmh.onn-kvbyg.bb

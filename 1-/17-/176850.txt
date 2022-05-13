@@ -1,0 +1,25 @@
+Hi,
+
+sorry, falls dies einigen Übel aufstößt, aber ich dachte mir, daß ich
+in dieser Gruppe am ehesten jemanden finde, der das gleiche Problem
+hat:
+
+Ich versuche, das aktuelle DIFF-File der IMDB mittels WinZip zu
+entpacken, um damit meine (Windows)-IMDB-Datenbank zu aktualisieren.
+Bisher gab es hier keine Probleme, aber an dieser Monsterdatei (> 15
+MB) verschluckt sich Winzip 7, sprich, die tar-Datei wird aus der
+gz-Datei ausgepackt, kann dann aber nicht in die einzelnen Dateien
+ausgepackt werden. Fehlermeldung: Error reading header after
+processing 11 entries.
+
+Hat jemand eine Lösung für das Problem? Liegt es eventuell an Windows,
+d.h. Linux-User haben kein Problem? Ist die Datei kaputt?
+(Runtergeladen von sxv.sc-joypia.dc)
+
+TIA, wil
+
+-- 
+Axiom #2: 
+"Ability to type on a computer terminal is no guarantee of sanity,
+intelligence, or common sense."
+-- willibald

@@ -1,0 +1,7 @@
+Dann habe ich im letzten Jahr eine KI programmiert. Ist
+irgendjemand an dem Stückchen Quellcode intersiert?
+
+Es steuert so einen sen kleinen Khepera.
+
+
+Romy - Man kann Abstraktion auch übertreiben

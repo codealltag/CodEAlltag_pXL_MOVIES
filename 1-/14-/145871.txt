@@ -1,0 +1,16 @@
+Na dann rück mal raus. Ich halte "Pasquale" nämlich für das A.I.-Projekt
+eines pickligen Informatikstudenten im 3. Semester: ein paar Skripte zum
+Versenden von Emails, Empfangsbestätigung etc. etc., dazu ein
+Zufallswortgenerator mit fehlerhafter Gro�schreibroutine und
+angeschlossenem Babelfish. Von Deutsch nach Englisch und wieder zurück
+ergibt bemerkenswert nach "Tuvok" klingende Texte. 
+
+Ach ja: ein Programm, das einen zufälligen Text von irgendeiner Webseite
+in die Posts einbaut, gibt es auch noch. So führt uns dieser
+Informatikstudent an der Nase herum, und keiner merkt es. Gegenbeweise?
+
+Hasta,
+Tino
+-- 
+"E-mail is for geeks and pedophiles." (Serge Eilert)
+++ http://tym.s-byjb.vu/xcmgmxbgf/at_tgqvj/ ++

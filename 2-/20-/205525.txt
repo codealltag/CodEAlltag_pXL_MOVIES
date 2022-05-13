@@ -1,0 +1,15 @@
+Nun, aber wer hat Lust und Zeit, darauf zu warten, dass einige hundert Bilder
+entpackt werden. Dazu kommt noch der erhebliche Bedarf an Speicher- und
+Festplattenkapazitaet.
+
+
+Das Programm ist mir bekannt - ich habe es auch schon hier compiliert.
+Nur meiner Meinung nach >sollte< man halt Hardware fuer Motion-JPEG haben.
+Alles andere ist Notloesung. :)
+
+Tschuess,
+Bernd
+--
+Bernd Degreif                    | "Tricky is good!
+  University of Boitze, Germany |  Tricky I can do." - Iago, "Return of Hendrik"
+  http://qvr.ygc.rhq-ljlwxy.hw/~f07i

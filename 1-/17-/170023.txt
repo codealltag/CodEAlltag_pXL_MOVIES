@@ -1,0 +1,32 @@
+So viele Gedanken habe ich mir darüber ehrlich gesagt nicht gemacht.
+Es wirkt halt nur von vornherein implausibel, daß es an "Contact"
+etwas zu schneiden gibt; "brainy movies" werden schließlich eher in
+den USA *geschnitten*. (Z.B. "Highlander" oder auch die
+berühmt-berüchtigte 110-minütige Fassung von "Once Upon a Time in
+America" für die ländlichen Gegenden.)
+
+
+Hübsch. Wie es der Zufall will, habe ich gerade sowohl die RC1- als
+auch die RC2-Fassung von "Contact" hier (und finde den Thread gerade
+eben erst) *und* warte auf das Ende einer dreiviertelstündigen
+Datenübertragung, also:
+
+Der Film beginnt in beiden Fassungen zwei Sekunden vor der Einblendung
+des schwarzweißen P&P-Logos. Das P&P-Logo am Ende des Films wird
+ausgeblendet bei (davon ausgehend, daß die RC2-DVD nicht den Counter
+manipuliert, um die Schnitte zu verbergen <eg>) :
+
+RC1: 2:29:28  (8926 Sekunden)
+RC2: 2:23:29  (8609 Sekunden)
+
+8926 * 0.96 = 8609,28
+
+Folgerung: Die RC2-DVD von "Contact" ist ungeschnitten, was auch
+eigentlich nie jemand bezweifeln konnte.
+
+(Benutzte Hilfsmittel: "Contact"-DVD [RC1], "Contact"-DVD [RC2],
+KLS A350EC, Windows-Rechner :-) )
+
+Luca, Entwarnung.
+
+Udo.

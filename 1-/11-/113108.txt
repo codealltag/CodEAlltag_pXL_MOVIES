@@ -1,0 +1,14 @@
+Am besten wäre es wohl, beide Titel anzugeben:
+
+{Wann}, {Wo}
+"{Deutscher Titel}" ({Land} {Jahr}) von {Regisseur}
+"{Originaltitel}"
+mit {Schauspieler}
+* {Sonstiges}
+
+
+Mit freundlichen Größen,
+  Carlo
+
+-- 
+Ich verbiete es, diese Signatur nachzumachen.

@@ -1,0 +1,17 @@
+Ja, ganz einfach :
+
+K3 : Kanister mit 3 Gallonen
+K5 : Kanister mit 5 Gallonen
+
+1. K3 füllen
+2. K3 in K5 entleeren, in K5 sind jetzt 3 Gallonen Wasser
+3. K3 füllen
+4. K3 in K5 umfüllen, bis K5 voll ist, aber nicht überläuft.
+   -> in K3 verbleibt jetzt genau eine Gallone Wasser, da in K5 max.
+      noch 2 Gallonen hineinpassten.
+5. K5 leeren.
+6. K3 in K5 umfüllen (in K5 sind damit 1 Gallone Wasser).
+7. K3 füllen.
+8. K3 in K5 entleeren, damit enthält K5 jetzt 4 Gallonen Wasser.
+
+Alles klar ?

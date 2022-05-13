@@ -1,0 +1,16 @@
+Hallo!
+
+Weiß jemand, was mit der Internet Movie Database los ist?  
+(Gemeint ist hier _nicht_ die WWW-Schnittstelle, sondern die Listen
+zur Erstellung einer lokalen Datenbank.)
+
+Unter	ftp://ftp.fu-berlin.de/pub/misc/movies/database/
+und	ftp://uiarchive.cso.uiuc.edu/pub/info/imdb/
+
+tut sich seit dem 29. März nichts mehr. Eigentlich klappte das mit
+den wöchentlichen Updates seit langer Zeit ohne Probleme.
+
+Ciao,
+ Dirk.
+-- 
+http://umj.spzsmnyojd.nsc-szhv.vq/%8Jtgw/

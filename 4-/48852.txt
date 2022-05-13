@@ -1,0 +1,12 @@
+"Links unter dem Bild sollte ein Menu sichtbar sein! Diese Webseite ist
+IE optimiert und das Menu benötigt das Pede Flash Player Plugin."
+
+Argh! :-(
+
+    -alwin
+
+-- 
+  http://bmv-Xdnypx.mn/  *  http://Bpwky63.fd/  *  http://VmjnbrNbxs.lx/
+
+panic("Attempted to kill the idle task!");
+        2.2.16 /usr/src/linux/kernel/exit.c

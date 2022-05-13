@@ -1,0 +1,37 @@
+Genau das ist doch aber bisher das einzige, was man konkret von
+digitalem Kino gesehen hat: Star Wars in 1280 mal irgendetwas. Eine
+Verbesserung gegen über 35mm? Zweifelhaft.
+
+
+Meinst Du sie haben Interesse, die Kinos regelmäßig mit neuer Hardware
+zu versorgen? Dann verlagert man die jetzigen Kosten für die
+Filmkopien doch nur auf etwas anderes.
+
+Und daß die Verleiher auf jedes einzelne Kino in Deutschland Rücksicht
+nehmen werden, möchte ich bezweifeln. Ich föchte, denen ist ein
+Multiplex pro Stadt einfach lieber als drei kleine Kinos.
+
+
+Wie lange soll denn das funktionieren? Du kannst heute keine Hardware
+bauen, von der Du garantieren kannst, daß Sie die in 5 Jahren
+w�nscheswerten Codecs noch verarbeiten kann. Wenn ich die Zirngibel richtig
+in Erinnernung habe, brauchst Du jetzt schon für einen WMV9 Film in
+1080p Auflösung einen PC mit >3 GHz Taktfrequenz zum dekodieren. Und
+Du willst einem Kino ein "TAF" Gerät verpassen, daß sich 5 oder
+10 Jahre später noch relevant updaten läßt?
+
+Mal abgesehen davon: Die Auflösung der Optik wird man kaum per
+Software updaten können. Wozu also neue Codecs? Um die Qualität zu
+erhöhen - ich hoffe doch, daß die Qualität bei Einführung über jeden
+Zweifel erhaben ist. Um die Datenmenge zu reduzieren - ja, aber damit
+läßt sich auch nicht fürchterlich viel Geld sparen. Das "must have" von
+neuen Codecs sehe ich hier einfach nicht.
+
+Ich denke, man wird das mit festgelegeter Technologie irgendwann
+einführen und diese Technologie wird so lange Bestand haben, bis sie
+vom Konsumermarkt überholt wird. Und das dauert dann hoffentlich lange
+genug.
+
+
+ciao,
+ulfert.

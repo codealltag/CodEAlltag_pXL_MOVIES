@@ -1,0 +1,22 @@
+Nabend François,
+
+
+Was muss ich tun, damit er ein digitales PCM Signal schickt ?
+
+
+Natuerlich nicht, ich bin ja kein Masochist aber das Review war schon in  
+Ordnung so, weil man im Normalfall eben nicht weiss, dass es geht. Ich  
+wiederhole mich zwar ungern aber zwischen uns gibt es ja des oefteren  
+leichte Verstaendigungsprobleme, also nochmal, no sweat:
+
+- Auf der Huelle prangt die Aufschrift Dolby Digital Stereo mit dem
+  grafischen 2-Frontkanal only Symbol
+- Auf der DVD steht nochmal dasselbe
+- Der Receiver erhaelt ein Stereosignal, kein Surroundsignal
+
+Die DVD ist mit Absicht als Stereoversion im Handel, es steht explizit so  
+drauf. Wenn man sie einfach so reinwirft und abspielt, wie man das halt so  
+macht, laeuft sie in Stereo. Es ist kein Fehler, es steht so aufgedruckt  
+und ist so aufgespielt, verstehst du jetzt, wo dein Denkfehler liegt ?
+
+MfG, Erhard

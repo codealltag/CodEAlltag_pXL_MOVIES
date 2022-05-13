@@ -1,0 +1,4 @@
+Aber nur ca. die Hälfte des Threads, da da die andere Hälfte
+ein "X-No-Archive: yes" hat.
+
+cu, Rudolf

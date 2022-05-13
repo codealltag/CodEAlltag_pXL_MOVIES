@@ -1,0 +1,13 @@
+Mich wuerde mal interessieren, wie sich das anhoert. Die Decoder werden
+wahrscheinlich die Abspielfrequenz des Tons leicht erhoehen, da ja auch
+normale Projektoren leichte Toleranzen bei der Geschwindigkeit haben werden
+(oder sind die mega-genau?). Doch irgendwann kommt sicherlich der Punkt, an
+dem der Ton zum Bild auseinander laeuft und dauernd neu angesetzt werden
+muss.
+
+Tschuess,
+Hartmut
+-- 
+Hartmut Rooth                           Student of Computer Science
+Reinshagen                              E-Mail: i51h@bfo.scv-jcokbh.he
+Germany              WWW: http://zfu-oljl.buc.rgw-bxwsaq.jt/~g09h/

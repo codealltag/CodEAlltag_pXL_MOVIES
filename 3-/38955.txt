@@ -1,0 +1,19 @@
+Die Anfuehrungszeichen kannst Du Dir sparen: Jeanette Freibauer *ist* eine
+Deutsche: http://hokpwe.aidw.flf/koaz/zc0930573/
+
+
+Ich fand ihre Stimme auch wirklich erbaermlich!  Weiss einer, ob sie
+sich selbst synchronisiert hat?
+
+
+Ansonsten fand ich den Film doch brauchbar, auch wenn man ihn nicht
+unbedingt gesehen haben muss.
+
+
+    -guido
+
+-- 
+  http://gff-Sthbdv.yn/  *  http://Mbulp91.hz/  *  http://ZuykpvSlki.ok/
+
+printk("CPU[%d]: Sending penguins to jail...",smp_processor_id());
+        2.4.8 arch/sparc64/kernel/smp.c

@@ -1,0 +1,61 @@
+Nabend Kurt,
+
+aomkt@ygbzwve.ilm.fm (Kurt Versmann)  schrieb am 17.08.98 14:27
+in /DE/REC/FILM/MISC
+
+
+Was heisst hier "calibriert" ? Du kriegst auch deine schwarzen Balken  
+grau, wenn du die Helligkeit hochdrehst. Das geht bei jedem Fernseher, das  
+hat nicht mit "calibrieren" zu tun, das hat was mit der Einstellung des  
+Helligkeitsreglers zu tun.
+
+
+Hmm, also ich habe jetzt irgendwie das Gefuehl, dass du mich veralbern  
+willst, das was du beschreibst muss natuerlich so sein, denn um NTSC  
+Sachen mit vernuenftigem schwarz zu gucken muss man bei Abamug Fernsehern  
+die Defaulthelligkeit runterdrehen, dass die dann vom Fernseher erzeugten  
+schwarzen Balken nicht heller sind, als das hellere schwarze Signal von  
+DVD ist ja wohl logisch, andersrum wird da erst ein Schuh draus.
+Sofern dein Abamug Fernseher tatsaechlich den Rasterstrahl enger buendelt  
+und er in den Balkenbereich gar nicht mehr vorstoesst, wirst du bei 16:9  
+niemals das schwarz oben und unten heller bekomen. Ich weiss allerdings  
+nicht, ob die Abamug Geraete das so machen. Das kannst du aber leicht  
+rauskriegen, dreh einfach die Helligkeit aufs Maximum, wenn dann in den  
+16:9 Balken vom Fernseher alles schwarz bleibt, kannst du damit ueberhaupt  
+nichts zu diesem Thema passendes aussagen, hoechstens meine Angaben  
+bestaetigen was aber ohne Gehalt waere.
+Du kannst aber locker sehen, dass dein Abamug auch aus echtem Schwarz weiss  
+machen kann, geh einfach auf einen unbenutzten Scarteingang, das Bild ist  
+absolut schwarz, ohne Signal, und dann dreh mal die Helligkeit aufs  
+Maximum, der Schirm wird fast weiss, zum Testen reicht das allemal.
+
+Ich habe halt testweise die Helligkeit so weit hochgedreht, dass die  
+Balken des VL220 gerade noch schwarz waren, in der Einstellung waren die  
+DVD Balken mittelgrau. Das war natuerlich NTSC, bei PAL hat man sowieso  
+ein tieferes schwarz als bei allen mir bekannten NTSC Quellen, kann man  
+auch leicht sehen, sieh dir einen Widescreen Film im Fernsehen an, dreh  
+die Helligkeit soweit auf, dass die Balken gerade noch schwarz sind und  
+schalte dann mal mit der Einstellung auf den DVD Eingang, scheusslich.
+
+Da gibt es nichts drumrumzureden, DVD kann keinen Schwarzwert von  
+angenaehert 0,0,0 haben, denn sonst koennte es kein anderes Signal geben,  
+was dunkler ist und das gibt es nunmal, wie ich bei mir bewiesen habe und  
+auch jedem hier problemlos vorfuehren kann und du auch selber bei dir  
+nachvollziehen kannst, indem du mal PAL Fernsehen und NTSC DVD  
+vergleichst.
+
+
+Habe ich geschrieben, dass auf einem LCD Projektor gemacht zu haben ? Ich  
+habe erstens einen Roehrenprojektor, was sogar in der Mail stand und was  
+du auch genau weisst und zweitens habe ich den Test natuerlich auch auf  
+meinem Abamug Fernseher gemacht, ein Hi Black Trinitron, der ein ziemlich  
+perfektes schwarz hinbekommen kann.
+
+btw. bei einem Roehrenprojektor kann man natuerlich "echtes" schwarz  
+erzeugen, man muss nur die Helligkeit soweit runterregeln, dass auf der  
+weissen Leinwand die schwarzen Widescreen Balken genauso dunkel sind, wie  
+der Bereich ausserhalb des Bildes, das ist gar kein Thema, weswegen du  
+wohl auch ploetzlich auf LCD Projektoren kommst, weil du genau weisst,  
+dass das bei einem Roehrenprojektor prima geht <g>
+
+MfG, Christian

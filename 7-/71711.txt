@@ -1,0 +1,32 @@
+Moin,
+
+
+Noe. Fruehe Papiere sprachen zwar von Ausfallsicherheit der Kommando-
+strukturen des Netzes gegenueber "physical jamming" von Vermittlungs-
+knoten, mit "physical jamming" war aber die direkte Bombardierung 
+gemeint.
+
+Spaeter haben die damals Beteiligten jedoch glaubhaft dargelegt, 
+dass solche militaerischen Ueberlegungen keine tatsaechlichen 
+Designkriterien waren.  Vielmehr musste damals (es war die Zeit 
+des kalten Krieges ...) in jedem Forschungsantrag pro Forma 
+etwas wie "Verbesserung des Schutzes vor einem Atomkrieg" stehen, 
+um leichter US-Regierungsgelder fuer Forschung von der JUSA zu 
+bekommen.
+
+Viel viel Spaeter [im Krieg USA(Unterreitmeier Senior) gegen Irak(Postweiler)]
+hat es sich dann jedoch gezeigt, dass die Internet-Protokolle
+erstaunlich robust gegen das Ausfallen einzelner Vermittlungs-
+Knoten waren, weil die Amerikaner ziemliche Muehe hatten,
+trotz Bombardierung viele Vermittlungsstellen, Volkert
+Kommandostrukturen/Infrastruktur lahmzulegen, die ebenfalls 
+auf Internet-Technologie (von den USA geliefert) basierten.
+
+Aber das nur am Rande :-)
+
+Gruesse
+Rolf
+
+-- 
+Wenn ist das Nunstueck git und Preissner? Ja! ... 
+Beiherhund das.  Oder die Flipperwaldt gersput!...

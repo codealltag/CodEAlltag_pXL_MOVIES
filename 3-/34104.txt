@@ -1,0 +1,10 @@
+(Benno Oberröder in de.rec.film.misc)
+
+
+Leider funzt das Quiz in Spread32 nicht. Ein schlanker Excel-Ersatz,
+der allerdings mit den Bildern nicht so recht klar kommt. :-(
+
+
+Nick
+-- 
+"Hab nicht gespuckt, nur gepustet!"

@@ -1,0 +1,10 @@
+Ich benutze nicht BvL, sondern Blume2000 3.0, aber damit habe
+ich keine Schwierigkeiten, die diffs einzuspielen und die Database
+zu erzeugen. Die Suchmöglichkeiten sind bei Blume2000 auch
+viel ausgefeilter als bei BvL. Vielleicht solltest Du einfach
+umsteigen, statt noch länger rumzuprobieren.
+
+
+Ich mache jede Woche das Update.
+
+Fridolin

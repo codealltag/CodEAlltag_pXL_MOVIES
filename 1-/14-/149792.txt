@@ -1,0 +1,22 @@
+Ich glaube auch nicht, dass solche Systeme zur Abrechnungskontrolle
+kommen werden, da sie entweder zu fehleranfällig oder zu aufwendig
+sind. Zudem genügen zur Kontrolle Stichproben. Die wird man am besten
+wie gehabt durch einen menschlichen Kontrolleur durchführen.
+Zudem muß man ja auch noch kontrollieren ob der verlangte Eintriitspreis
+mit den Angaben auf der Abrechnug übereinstimmt.
+
+Allerdings habe ich mal von der Idee gehört, so ein System mit dem
+Kassensystem zur Platzreservierung zu koppeln. Dann braucht man keine
+Zwangsplazierung mehr, sondern der Zuschauer kann wählen, ob er
+freie Platzwahl oder lieber eine Reservierung hat. Freie und reservierte 
+Plätze werden durch LEDs angezeigt. Wenn sich jemand auf einen freien
+Platz setzt, wird dies den Kassencomputer gemeldet, so dass der 
+betreffende Platz nicht mehr reserviert werden kann.
+Allerdings habe ich meine Zweifel ob das funktioniert. 
+Mögliche Probleme:
+ - Leuten mit Reservierung gefällt ihr Platz nicht. Sie setzen sich 
+   auf eienn der freien Plätze. Somit sind zwei Plätze blockiert.
+ - Die Leute setzen sich um oder gehen, nachdem sie den Platz belegt
+   haben, nochmal raus. Wie soll das System darauf reagieren?
+
+Ciao, Denis                      jaxwqzun@jqkhth.eoswuwp.ts

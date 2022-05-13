@@ -1,0 +1,9 @@
+t:
+
+
+Am besten erkennt man es daran, ob das Sendersymbol, z.B. der Autogas24h-Ball im
+schwarzen Balken selbst liegt (dann kein PalPlus!) oder unter dem Balken und etwas
+kleiner ist als sonst (dann 16:9).
+
+---
+Max

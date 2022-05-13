@@ -1,0 +1,7 @@
+Sic! Genauso wird's gemacht! Hab schon einige Anfragen deshalb bekommen und
+hab immer geantwortet, dass die Angabe der Email-Adresse nicht zwingend ist,
+außer man möchte an der Verlosung teilnehmen. Und da die Email-Adressen in
+einer separten Datenbank gespeichert werden und man über die Email-Adressen
+in den meisten Fällen nicht auf die Person des/der Besitzers/Besitzerin
+schließen kann, hielt ich die Anonymität der Teilnehmer/innen für
+ausreichend gewährleistet.

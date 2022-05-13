@@ -1,0 +1,7 @@
+Das ist ein normales Verhalten von VCDs da hier die Subchannel mit für Daten
+herangezogen werden,die Kapazität einer 700 Cd kann dabei bis zu einem 1G
+betragen (Laut Explorer anzeige)
+Kopieren kann man solche CDs am einfachsten mit CloneCD mit
+Subchannels lesen,und der Option Subchannels unkorrigiert zurückschreiben beim
+Schreiben.
+dusty

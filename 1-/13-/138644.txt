@@ -1,0 +1,47 @@
+Ich halte diese These durchaus auch fuer ein wenig blauaeugig.
+Gehe ich jetzt davon aus, dass bei Kinofilmen (also:
+Zelluloid-Kopien!) die Gefahr besteht, dass sie kopiert werden, 
+wenn sie zu den Kinos ausgeliefert werden (und das passiert wenn,
+dann nicht oft bzw. im _wirklich_ grossen Stil), dann wird sich
+das mit Filmen auf dem digitalen Medium sicherlich nicht erschweren.
+Denn auch die mit proprietaeren Maschinen ausgeruesteten Kinos sind
+_irgendwie_ auch in einer Hand, die nicht 100%ig vom Verleih
+kontrolliert werden kann. Und die "sauteuren professionellen
+Maschinen" koennen sicherlich auch durch Coding-Software emuliert
+werden. Wahrscheinlich ist somit, dass sich der Kopiertschutz 
+von Filmen auf digitalem Medium aus der Natur des Mediums nicht
+verbessern wird.
+
+
+Komprimieren ist immer drin. Da Datengiganten auch fuer die Kinos 
+eine Kostenfrage ist, werden sicherlich nicht die Filme gaenzlich
+unkomprimiert bei denen auf dem Raid liegen, sondern in einem
+'handhabbaren' Format (DVC?) abgelegt. 
+
+
+Schock' mich bitte nicht! Ich bin bislang eigentlich davon
+ausgegangen, dass DVD mindestens HDTV-Aufloesung hat (also
+Groessenordnung 1900x1080), sonst lohnt sich das alles gar 
+nicht. (Comments?) Die Komprimierung auf DVD ist MPEG2, die
+trotz einer fuer das Auge nicht sichtbaren Komprimierung von
+schaetzungsweise 1:10 oder hoeher arbeitet.
+
+Wenn man nun einen solchen Datengigant irgendwo erhalten hat,
+koennen diese Daten durchaus auf eine kleinere Aufloesung
+heruntergerechnet werden, damit sich der Film dann leichter auf
+dem PC anzeigen laesst - immerhin in DVD-Qualitaet. Und dieses
+Runterrechnen muss ja nicht in Echtzeit geschehen, sondern kann
+auch als Batch-Job ein paar Tage vor sich hinnudeln.
+
+Die gegenwaertige Entwicklung der PC-Technik zeigt ausserdem,
+dass fuer einen gewissen Consumer-Bereich durchaus ein Markt
+besteht, bei dem es sich lohnt, Entwicklungen aus dem
+Profi-Bereich in einer Low-Cost Variante zu verkaufen - die
+besten Beispiele hierzu sind die 3D-beschleunigten Grafikkarten
+und die Video-Karten, die bereits jetzt schon nicht selten MPEG
+Kompression mit anbieten. 
+
+Ich sehe in dieser Hinsicht also durchaus harte Zeiten fuer den
+Kopierschutz kommen.
+
+Manuel

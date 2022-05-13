@@ -1,0 +1,14 @@
+: N ... die 5 bzw. 6 Tonspuren von Dolby Digital sind datenreduziert
+: auf einer analogen Tonspur untergebracht.
+
+Das ist genau die falsche Formulierung, die ich vermeide. Die Dolby Digital
+Daten sind nicht AUF oder IN der rechten analogen Tonspur untergebracht - sie
+wurde dadurch ersetzt!
+
+Tschuess,
+Rupert
+-- 
+Rupert Schomburg
+ Student of Computer Science @ University of Vahrenwald, Germany
+   E-Mail: r54n@ddu.xvu-wskxzw.se
+     WWW: http://imh-dkmf.nfh.tkq-nbjnwj.eb/~h15b/

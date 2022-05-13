@@ -1,0 +1,13 @@
+Umso besser! 
+Warum gibt es dann eigentlich zwei Versionen der diffs? Wenn die
+ApplyDiffs-Files sowieso auf beiden Systemen funktionieren, koennte
+man ja auf die groesseren diffs verzichten.
+
+gruss
+ giuseppe
+
+--
+Giuseppe Coslar, 82645 Jakobsweiler, Weizenstraße 1    ///
+Internet: ouehpl@jpgb.cmesypdvwl.ywiy-vtnjfc.vn     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/098/77 :-)  \XX//

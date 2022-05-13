@@ -1,0 +1,33 @@
+[Snip]
+Ich habe jemand anderem in einer e-mail geantwortet, und das werde ich hier 
+jetzt zitieren.
+}*Eine Zahl p, wobei p > 1 und p Element von N ist, heisst Primzahl, wenn 
+}sie genau zwei Teiler hat, nämlich Eins und sich selbst.* Damit haben wir 
+}nun das, worauf Ihr so beharrt habt, aber nicht weil 1 nur 1 Teiler hat, 
+}sondern, weil es von der Definition fuer Primzahlen ausgeschlossen wird. 
+}Damit ist auch 0 ausgeschlossen.
+Aus diesem Grund, denn das ist die *amtliche* Definition fuer Primzahlen, die 
+auch das mit *naemlich Eins uns sich selbst* enthalet, an was ich mich 
+geklammert habe, stimmt das, was ihr sagt. Man kann natuerlich fuer vieles 
+Regeln aufstellen, wenn man die Ausnahmen, Ausreisser, oder wie man es nennen 
+will, von der Definition ausschliesst. Ich beuge mich da der Mehrheit, aber 
+Primzahlen sind wie vieles andere auch, nur vom Menschen bezeichnete, 
+erschaffene ... Dinge, die abstrakt sind, und damit immer zerdiskutierbar.
+
+ist doch nichts mathematisches, und vor allem nichts informatisches, denn wenn 
+ich sage, *bei meiner Programmiersprache beginnen Arrays, Vektoren oder was 
+auch immer bei 0, bei 1, bei 10 oder bei A*, dann ist das so, die anderen 
+werden sich daran halten muessen, wenn sie diese verwenden wollen, ist aber 
+reine Festlegungssache.
+
+Ist ja auch nicht wirklich so, denn auch das ist IMHO Festlegungssache.
+Ich kann Dir auch sagen (als mathematisches Beispiel) 1+ 1 = 10, und Du wirst 
+mir erklaeren, dass das nicht stimmt. Es ist aber trotzdem richtig, wenn der 
+Zahlenraum, den wir verwenden, der binaere ist.
+
+Tino
+-- 
+I Could not bring myself to believe that if knowledge presented a danger,
+the solution was ignorance. To me it always seem that the solution had to
+be wisdom. You did not refuse to look at danger, rather you learned how to
+handle it safely.  (Philipp Zschernack)

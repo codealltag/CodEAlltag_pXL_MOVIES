@@ -1,0 +1,8 @@
+Das Ding wertet primär einmal den Sync-Code aus und gibt Steuerimpulse
+ab.
+Was man daraus macht ist eine andere Frage. Möglichkeiten - auch
+interessante - gäbe es wohl durchaus.
+Ich hab irgendwo mal was gehört z.B. von einer Echtzeit-Untertitelung
+mittels Laser direkt auf die Leinwand.
+Aber eingesetzt wurde es bisher soweit ich weiss eben nur für solche
+Strobo-Effekte.

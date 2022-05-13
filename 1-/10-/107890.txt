@@ -1,0 +1,10 @@
+mir
+
+In Echtzeit könnte das schon fast hinhauen. Habe auch schon DVDs mit 24 bis
+25 Frames encodiert. Habe einen NLWO XP1700+
+Aber Du darfst nicht vergessen, daß Serien meistens Interlaced im TV laufen,
+so daß Du es wohl noch deinterlacen mußt. Und ich glaube kaum daß Du das
+auch noch in echtzeit schaffst, oder?
+
+Grösse
+Valentin

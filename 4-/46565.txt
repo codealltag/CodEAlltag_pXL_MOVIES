@@ -1,0 +1,12 @@
+DVD-Shrink kopiert ja auch nicht, sondern berechnet neu und bannt dann
+das ergebnis seiner Berechnungen auf eine HD oder einen Rohling.
+Kopieren ist was anderes und wird durch CSS nicht beeinflusst.
+
+Aber ich glaube, dass Du das jetzt nicht hören wolltest
+
+
+Wilhelm
+-- 
+Only wimps use tape backup: _real_ men just upload their important stuff
+on ftp, and let the rest of the world mirror it.
+              [David Ohls]

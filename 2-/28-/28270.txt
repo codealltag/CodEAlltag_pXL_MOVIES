@@ -1,0 +1,7 @@
+Prinzipiell ja. Zum einen durch entsprechend gesetzte UOPs, die die
+Titelauswahl deaktivieren. Zum anderen durch Pre-Commands, die das
+Abspielen des Titels von zuvor gesetzten Registerwerten abhängig
+machen (wesentlich fieser, da auch auf UOP-freien Playern wirksam).
+
+-- 
+Norman Tobias

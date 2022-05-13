@@ -1,0 +1,115 @@
+Zur Einhaltung des Status Quo wäre es das Beste, in der Tat. 
+
+
+Und hier hast Du noch ein Problem angesprochen, welches gerade für
+diese Verkaufsangebote ausgesprochen evident ist. Discs sind keine
+Computerteile, Waschmaschinen oder Möbel und verkaufen sich derart
+brutal schlecht, daß ein langes Expire mehr als nur vorteilhaft ist.
+Es kommt sehr oft (wenn nicht gar meistens) vor, daß eine Disc noch
+2-3 Monate im Schrank liegt, bis man einen Abnehmer gefunden hat.
+Bei rg.ffkdw.* wäre man gezwungen, das gleiche Angebot andauernd
+zu posten und für wesentlich höhere Netzbelastung zu sorgen. Das
+schnellere Verschwinden eines Artikels ist bei diesem Genre meines
+Erachtens nach kein stichhaltiges Argument.
+
+Mir ist vollkommen klar, daß man in Bezug auf die Verkaufsangebote
+überhaupt keine Argumente akzeptieren muß, denn wenn überhaupt werden
+sie von den Teilnehmern dieser Gruppe lediglich toleriert. 
+
+Um darzustellen, was hierbei meine Gedankengänge sind, erörtere ich
+das Problem jetzt einfach mal kurz. 
+
+Gegen die Verkaufsangebote spricht ganz klar, daß sie erstens formal
+off-topic sind, zweitens uninteressierte Leser sie durchaus auf eine
+Stufe mit SPAM stellen dürften und drittens, daß es irgendwann
+aufgrund des anstehenden DVD-Booms überhand nehmen könnte.
+
+Wer hier sein Verkaufsangebot postet, hat dafür jedoch auch Gründe.
+Laserdiscs und DVD's sind wesentlich mehr als ein Teil, welches man
+verscherbelt. Sie sind Sammlergegenstände und dazu auch noch
+ausgesprochen spezifisch, mit einem kleinen Kreis potentieller
+Interessenten. Ein Verkaufsposting in de.markt.* zu posten heißt,
+die Disc mit hoher Wahrscheinlichkeit gar nicht zu verkaufen.
+Sämtliche Interessenten (könnte man durchaus mit Besitzern der
+notwendigen Hardware gleichsetzen) würden hierdurch gezwungen,
+sich de.markt.* zu subscriben und 99% für sie uninteressanten Traffic
+in Kauf zu nehmen - und zwar dauerhaft, denn mit dem Kauf einer Disc 
+ist die Sache ja nicht erledigt. Ein "V:Laserdiscs" wird von Leuten
+wie Nils Christianssen, Tom Hanekamp, Dieter Oskamp oder auch mir
+(um ein paar Namen zu nennen) stets gelesen. Gerade hinsichtlich von
+UUCP-Teilnehmern erachte ich dies als unrealistisch, da sie den
+Traffic in Kauf nehmen *müssen* und nicht die Möglichkeit haben,
+anhand der Header interessantes Material herauszupicken. Hier liefe
+es schonmal darauf hinaus, daß so mancher (bei steigender
+Netzbelastung, s.o.) seine Telefonrechnung um 10 Mark oder mehr nach
+oben schrauben muß, um die geschützten 20 KB monatlicher Anzeigen zu
+erhalten. Da das nicht jeder Interessent macht, liegt wohl auf der
+Hand - die Anweisung, in jq.zgxgy.* zu posten ist bei diesen Artikeln
+in etwa gleichbedeutend mit einer generellen Unterlassung.
+
+de.rec.film.misc stellt einen Treffpunkt dieser Interessenten dar,
+weshalb es sich als "Opfer" für die Verkaufsanzeigen sehr gut eignet.
+Ich ziehe daher in Zweifel, ob die Verkaufsanzeigen off-topic sind.
+Unzulässig gemäß der Formalismen der TLH und der Charta, aber
+durchaus (auch von aktiven Teilnehmern dieser Gruppe) erwünscht und
+daher auf keinen Fall mit SPAM gleichzusetzen. Ich bitte darum, dies
+zur Kenntnis zu nehmen.
+
+
+Letztendlich läuft es lediglich auf eines hinaus: Auf eine Kollision
+eines Anteils der Teilnehmer mit der Reglementierung. Der Knackpunkt
+ist der Terminus des Verkaufs, hier scheiden sich die Geister; das
+jeweilige Objekt wäre durchaus on-topic, wie ich in meinem
+vorhergegangen Artikel dargestellt habe. Es ist unbestreitbar, daß
+schon alleine Ausdrücke wie "Laserdisc" oder "DVD" in den Augen
+einiger Leser gänzlich verschwinden soll, am besten nach
+de.rec.tv.technik, da man das ja schließlich nicht liest. Zumal
+gehofft wurde, das Heimkino völlig aus de.rec.film.misc verbannen zu
+können.  Darauf nehme ich jedoch keinerlei Rücksicht, denn beidem
+kürzlich abgelaufenen PTSF waren etliche Leute aus dieser Fraktion mit
+dieser Regelung einverstanden und hätten bei diesem in dieser Hinsicht
+unausgegorenen Wahlaufruf stattdessen auch mit "Nein" stimmen können,
+anstelle sich mit ihrer "Ja"-Stimme in eine endgültige Sackgasse zu
+manövrieren. Es ist eine knallharte Unterstellung meinerseits, aber
+ich behaupte trotzdem, daß kein derartiges Geschi gemacht werden
+würde, wenn alle drei Tage ein 15-Zeilen-Artikel um den Verkauf von
+Filmstar-Autogrammen, Karten zu Filmpremieren oder den Tausch von
+Filmpostern eintrudeln würde. Daher apelliere ich, das persönliche
+Interesse bei der anhaltenden Anti-Heimkino-Bewegung auszuschalten
+und mehr Objektivität walten zu lassen. 
+
+Ich mache den Vorschlag, daß man sich nicht an Formalismen aufhängt,
+sondern sich eher darüber Gedanken macht, inwiefern die eingangs
+erwähnte Toleranz angebracht wäre. Bei anderen Artikeln klappt das
+offensichtlich auch recht gut - angefangen von der ständigen
+Verquickung von DTS im Kino sowie DTS im Heimbereich (was ja nicht
+aufzufallen scheint - ach ja, das wird ja einfach schon aufgrund des
+Subjects nicht gelesen, aha) bis hin zu Didier 100 KB langem FAQ,
+welches zum größten Teil Themen beinhaltet, welche definitiv off-topic
+sind und bei welchen sich niemand genötigt sieht, sich auf Formalismen
+zu berufen. Ich will nicht durchsetzen, daß Verkaufsanzeigen von Discs
+jetzt hier plötzlich generell am richtigen Platz sind, um das gleich
+klarzustellen.
+
+Ich bin der Meinung, daß ein gewisses Maß durchaus tolerierbar ist und
+man sich hier auf eine Grenze untereinander einigen kann - zum
+Beispiel fiele mir ein, daß pro Teilnehmer nur eine
+Verkaufsanzeige monatlich gepostet werden darf, bis eine Möglichkeit
+besteht, dies anderweitig in einem ähnlichen angemessenen Maß zu
+erledigen (Beispiele wären eine neue Marktgruppe oder auch nur eine
+Mailingliste, auf welche monatlich mal hingewiesen wird. Letzteres
+wäre imho das einfachste und auch beste, doch ich kann technisch
+keine einrichten und die existierende "Laserdisc"-Liste ist in
+technischer Hinsicht eine unakzeptable Netzkatastrophe, From: wird
+zerschossen, mehrfaches Gaten über ZConnect mit massiven
+Headerverlusten, Header werden inkorrekt und unzulässig genutzt, etc.
+Vielleicht findet sich ja ein Admin, der dazu in der Lage wäre - da
+daß Thema mittlerweile anscheinend auch in yq.zdy.lwypksmhbg
+breitgetreten wird, dürfte das wohl möglich sein).
+
+Anstelle gegeneinander loszugehen, sollte wir einen Kompromiß
+schaffen. Alles andere wäre imho ein Armutszeugnis.
+
+cu,
+
+  Louis

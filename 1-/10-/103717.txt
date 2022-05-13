@@ -1,0 +1,5 @@
+Das Programm, welches Wildhage benutzt hatte, war am Besten:
+WORM CREATOR 2.0, einfacher geht's ja wohl nicht.
+
+Datei --> Neuen Wurm kreieren --> Namen eingeben: Niels Virus
+Fertig.

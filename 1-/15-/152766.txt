@@ -1,0 +1,14 @@
+Leider gibt es da nicht allzu viel. Aktuell ist eigentlich nur das "Lexikon
+des internationalen Films" (bei EDG www.bygjbkau.fl, ziemlich
+umfangreich, aber auch ziemlich teuer (149 DM))
+"Antiquarisch" gibt es noch das geniale "Cinemania 97" von Reifenprofi (oft am
+Grabbeltisch beim Discounter um die Ecke, um die 50 DM, auf Englisch) und
+dann noch "Movieline", die CD-Version der gleichnamigen Datenbank im WWW
+(gibt es bei VNFK fuer 8.80 DM). Ebenfalls bei VNFK gibt/gab es auch noch
+diverse Genre-Lexika (Western, SF etc.) von Markt&Technik, die aber wenig
+Informationen bieten.
+Eine andere Alternative: Daten der IMDB aus dem Netz ziehen, auf CD brennen
+und ein entsprechendes Frontend  verwenden.
+
+Viele Gruesse
+Viktor

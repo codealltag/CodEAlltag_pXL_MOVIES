@@ -1,0 +1,7 @@
+Hallo Udo Nordhofen
+
+
+[ ] mich auch
+[x] gut das wir drüber geredet haben
+(*) RadioButtons sind besser
+( ) CheckBoxen sind besser

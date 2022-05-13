@@ -1,0 +1,29 @@
+Es wird auf Negativmaterial aufgenommen, das beim Umkopieren
+farbgefiltert wird. Teilweise mehrfach, und bei Ausstrahlung oder
+DVD-Mastering kommt ggf. auch nochmal sowas. Insofern ist aus dem
+fertigen Bild schonmal generell nicht unbedingt auf die tatsächlich
+vorhandenen
+Farbtendenzen zu schliessen.
+
+In der Regel wird auf das beim Filmen verwendete Licht gefiltert. Wenn
+man also mit Halogenlicht beleuchtet und das beim Kopieren als
+farbneutral einstellt, sind alle Lichtquellen mit der gleichen
+Farbtemperatur auch neutral, beispielsweise Autoscheinwerfer.
+Abweichungen nach gelb oder blau kommen dann in erster Linie von
+leicht unterschiedlicher Farbtemperatur. Man kann aber sicherlich auch
+mit Filterfolien Feintuning betreiben.
+
+Ferner: Wenn Lichtquellen im Bild z.B. bei Nachtszenen hinreichend
+hell sind, um im Positiv nur noch rein weiss abgebildet zu werden
+(Positivfilm durchsichtig), dann können die sowieso keine
+Farbdominaten haben und werden demzufolge rein weiss.
+
+Und der fehlende 'Blendeffekt' kommt sehr wahrscheinlich daher, dass
+die beim Film verwendeten Optiken in der Regel state-of-the-art sind,
+was Vergütung und Streulichtverhalten angeht. Wenn man mit einem
+Scheinwerfer direkt in die Kamera leuchtet, sieht das ggf. weit
+weniger dramatisch aus als z.B. bei billigen Zoomobjektiven für
+Fotokameras.
+
+Gruss,
+Niederasphe.

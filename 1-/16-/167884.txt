@@ -1,0 +1,118 @@
+Hi,
+
+ich habe im Laufe der letzten Woche nach dem Posten  der ersten drei
+Kapitel des "Dokuments des Grauens" (besserer Titel fiel mir nicht
+ein) recht viel Mail erhalten. Da einige Fragen sich des öfteren
+wiederholen, schreibe ich es nochmal hier, als Mini-FAQ sozusagen.
+
+
+F: Habe ich Dein Einverständnis, das Material in einer Textverarbei-
+   tung zu bearbeiten, auszudrucken und zu sammeln?
+A: Ja. Hätte ich etwas dagegen, würde ich es bestimmt nicht posten.
+   Ich lege nur Wert darauf, daß der Text nicht weitergegeben wird,
+   in welcher Form auch immer.
+
+F: Warum so viele Fußnoten und verschiedene Schreibweisen von Titeln?
+A: Geschrieben wird der Krempel gleich in StarOffice. Das Posting in
+   drfm ist von einmaliger Natur, da ich mir die Möglichkeit einer
+   Weiterverwertung offenhalten möchte, dementsprechend tippe ich das
+   Zeug auch nicht in einem herkömmlichen Texteditor wie die Filmbe-
+   sprechungen. In der originalen Fassung werden diverse Stilmittel
+   (Italics, Bold) gezielt eingesetzt und dazu gehören auch Fußnoten.
+
+F: Weshalb sind manche Filmtitel "so geschrieben", andere hingegen "IN
+   GROßBUCHSTABEN"?
+A: Das ist die Umsetzung verschiedener Schriftstile aus dem Original.
+   Für die Usenet-Fassung halte ich diese Vorgehensweise am besten. 
+   Filmtitel, die "normal" geschrieben sind, sind im Original in Kur-
+   sivschrift zu finden. Das ist in der Regel bei allen Eigennamen der
+   Fall, auch bei Büchern. Ein simpler Querverweis eben. Steht da was
+   in GROßBUCHSTABEN, so bedeutet das, daß der genannte Film an an-
+   derer Stelle noch explizit erwähnt wird. Die explizite Erwähnung 
+   ist jene genauere Beschreibung, an welcher auch die Fußnote mit den
+   Daten zum Film zu finden ist (und der Filmtitel im betreffenden Ab-
+   schnitt natürlich nicht in GROßBUCHSTABEN geschrieben ist, denn
+   das wäre ja redundant). Die GROßBUCHSTABEN sind der Ersatz für den
+   ursprünglichen Fettdruck. Ich empfehle, bei Eigenbearbeitung der
+   Texte dementsprechende Schriftstile zu verwenden.
+
+F: Wie lange wird es dauern, bis wir am Ende des 20. Jahrhunderts an-
+   gekommen sind?
+A: Schätzungsweise 5 Jahre bzw. etwa 80 Kapitel. Es steht daher in den
+   Sternen, ob das Projekt jemals beendet wird. Falls nicht, dürfte es
+   aufgrund des streng chronologischen Vorgehens aber auch ziemlich
+   schnuppe sein, denn was man hat, das hat man.
+
+F: Warunm machst Du das?
+A: Hobby. Außerdem ist es nicht das erste Mal, daß ich ein Buch im 
+   freien Markt suche, es nicht finde und dann beschließe, es mir dann
+   notgedrungen selbst zu schreiben. Wenn ich mal alt und debil bin,
+   kann ich dann wenigstens einen EOIL-Ordner aus dem Schrank puhlen
+   und mich darüber freuen, daß ich nicht immer veralzheimert war.
+
+F: Warum sind so viele Tippfehler drin?
+A: (*) <- Arschloch-Smilie
+
+F: Wird es eine Fassung im WWW geben?
+A: Weiß noch nicht. Die begleitenden Grafiken stehen zwar bereit, aber
+   erstens fällt mir im Moment ums Verrecken kein brauchbares Layout
+   des Textes ein, zweitens müsste ich mir erst noch eine Reihe von
+   Schikanen einfallen lassen, um brhn und Konsorten abzuwehren (auf 
+   mein Copyright lege ich bei diesem Projekt Wert und den Daten-
+   klauern möchte ich es nicht zu leicht machen) und drittens habe ich
+   im Moment überhaupt keine Lust, mich schon wieder mit HTML und 
+   Krankheiten proprietärer Browser rumschlagen, denn vor allem bei 
+   letzterem liege ich von mehreren Seiten unter Mail-Dauerbeschuß und
+   es geht mir tierisch auf den Keks.	
+
+F: Gibt es noch lange Besprechungen von Filmen, wie gewohnt?
+A: Natürlich. Derzeit ist wieder eine in Arbeit, auch wenn ich momen-
+   tan mehr Lust aufs "Dokument des Grauens" habe.
+
+F: über einige Filme aus dem "Dokument des Grauens" würde ich gerne 
+   mehr wissen.
+A: Bei lohnenden Objekten wird es einen Begleittext in Form einer 
+   Filmbesprechung geben, wie man sie bislang von mir gewohnt war. 
+   Diese ist dann vom eigentlichen Text unabhängig, also kein Bestand-
+   teil des Dokuments.
+
+F: Wann kommt das nächste Kapitel?
+A: Ich werde wohl etwas langsamer machen, da im Jahr 1919 wohl eine 
+   separate Filmbesprechung notwendig wird. Eigentlich wollte ich mir
+   Mitte des Monats endlich den DVD-Player anschaffen, doch wie konn-
+   te es anders sein, der hier befindliche Fernseher ist verreckt und
+   ein neuer muß her. Ergo muß ich Zeit schinden :-)
+
+
+Und da die Frage wohl unausweichlich ist, kommt auch hier gleich die
+Antwort:
+
+F: Was ist das für ein Index, der mit Kapitel 4 gepostet wurde?
+A: Das ist das Stichwortverzeichnis der Originalversion. Jedes Auf-
+   tauchen eines in Fettschrift bzw. GROßBUCHSTABEN erwähnten Filmes
+   wird hier eigentlich verzeichnet. Da Seitenzahlen in der Usenet-
+   Fassung keinen großen Sinn machen, habe ich diese rausgeworfen.
+   Die Verweise durch den Index sind zwar nicht mehr vorhanden, aber
+   es sollte kein Problem sein, trotzdem zumindest die eigentliche
+   zentrale Erwähnung des Filmes zu finden. Die Jahreszahl steht ja
+   dabei und besonders schlaue Zeitgenossen haben bestimmt schon be-
+   merkt, daß die Filme innerhalb eines dokumentierten Jahres alpha-
+   betisch sortiert sind.
+     Durch die zweite Liste mit den alternativen Titeln sollte man die
+   Möglichkeit haben, Informationen über einen Film auch dann zu fin-
+   den, wenn man den Originaltitel nicht kennt oder beim Blättern in
+   der Fernsehzeitung über einen um 3 Uhr nachts gesendeten Film 	
+   stolpert und wissen möchte, ob es sich lohnen könnte, jetzt extra 	
+   wegen dieses Films noch in die Stadt zu radeln und eine Videokas-
+   sette zu kaufen. Hütten wir die Seitenzahlen im Index noch, wäre
+   es nun kein Problem mehr, nach "Die Nacht der reitenden Leichen" zu
+   suchen, an "La Noche del Terror Ciego" verwiesen zu werden und dann
+   über dessen Erwähnung im Zuge der Katharer-Thematik in Kapitel 2
+   zu stolpern. So sollte das eigentlich funktionieren.
+     Ich poste den Index in unregelmäßigen Abständen. Im Laufe der 
+   Zeit wird er wohl ziemlich lang werden, weshalb ich ihn früher oder
+   später wohl alle 10 Kapitel neu veröffentlichen werde.
+
+
+-- Buckenmaier Park - Das Forum für den phantastischen Film --
+--   http://tnzda.lqqx.jq/qgdvmqcq/vzmgtu/njtwp.iykm  --

@@ -1,0 +1,54 @@
+Hallo Arnold,
+
+
+Was ist "ein kurzer Abstand zur Wand"? Wie breit willst Du umgekehrt Dein 
+Bild haben? Hast Du die Möglichkeit, den Beamer hinter die Sitzposition an 
+die Decke zu hängen oder muß er zwingend über oder gar vor Dir (Dachschräge) 
+hängen?
+
+
+Ein 16:9-Projektor ist bei solchen Bedingungen unbedingt zu empfehlen! Bei 
+4:3 hat man halt in der Regel ca. 30% weniger Bildbreite als bei einem 
+16:9-Gerät.
+
+
+Das ist nicht zwingend eine Frage "LCD oder DLP", sondern kommt mehr darauf 
+an, ob es sich bei dem Beamer um ein für Konferenzräume optimiertes Modell 
+(4:3-Seitenverhältnis, große Helligkeit auf nicht zu großem Bild) oder eines 
+für den Heimkinobearf handelt (16:9-Seitenverhältnis, breites, aber nicht zu 
+helles, weil für Projektion im abgedunkelten Raum optimiertes Bild).
+
+
+Ich habe den PT-AE 500 von LKL. Der hat eine relativ weitwinklige 
+Optik, so daß der auch bei Aufstellung direkt über dem Betrachtungsort oder 
+sogar vor Dir auf dem Tisch stehend ein relativ breites Bild erzeugt. Ist 
+ein LCD-Projektor mit HDTV-Auflösung und jeder Menge Anschlüssen. Nachteil: 
+Er hat einen fest eingebauten Shift von etwa 10:1 (ca. 9% der Bildhöhe unter 
+der Achse des Objektivs, der Rest darüber) und keine Justiermöglichkeit 
+(geht nur digitaler Shift). Pat bei mir aber perfekt, und ist auch eher für 
+kleine Räume zugeschnitten. Der Zoom sind ebenfalls nur ca. 10%, ich kann 
+für 2,4m Leinwandbreite Entfernungen von 3,3 bis 3,8m einstellen (umgekehrt 
+würde ich bei meinen 3,6m Projektionsentfernung noch gerade so eine 280er 
+Leinwand nutzen können). Der kostet Liste ~2000, aber düfte auch schon für 
+ab 1500 Euro zu kaufen sein (meiner hatte im Sommer in einer Aktion vom 
+Geschenkladen 1555 Euro gekostet).
+
+Zu der Frage DLP/LCD: Wenn Du mit einem preiswerten DLP-Gerät in die Nähe 
+der Weitwinkelgrenze des Objektivs gehst, mußt Du davon ausgehen, daß das 
+Gerät nicht mehr den angegebenen Nennwert des Kontrasts schafft. Der 
+Kontrast gilt bei diesen Geräten oft nur für die Telestellung des Objektivs. 
+Hintergrund: DLPs generieren aufgrund der Funktionsweise ein 
+"Komplementärbild", das das Licht enthält, das von den Spiegeln 
+"weggeschaltet" wurde. Dieses Komplementärbild läuft aber von der optischen 
+Achse des Objektivs weg auf eine Blende. Diese Blende ist bei teureren 
+Geräten variabel gestaltet je nach Zoomstellung des Objektivs, bei den 
+preiswerteren Geräten aber in der Regel fest und wird dort nur bei 
+Telestellung des Objektivs ideale Wirkung entfalten, bei Weitwinkelstellung 
+kann man mehrere 10% des Kontrastverhältnisses durch Streulicht verlieren.
+
+Gute Links: schau' am besten mal bei Kukun rein, die haben sehr gute 
+Vergleichstests.
+
+Gruß, Fridolin
+--------------------------------------------------
+Für Antworten bitte ohne Punkt im Namen!

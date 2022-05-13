@@ -1,0 +1,30 @@
+Hallo!
+
+Ich bin sicher in der falschen Gruppe, aber irgendwie habe ich keinen
+rechten Anlaufpunkt gefunden...
+
+Folgendes Problem: ich bastle an astronomischen Animationen...
+Videoschnittplatz mit dvnow und ROG Premiere 6.0 ist vorhanden. Ich
+habe jetzt jede Menge astronomischer Animationen in den
+unterschiedlichsten Formaten. Jetzt will ich alle diese Animationen auf
+eine DVD packen und ein Men dazu stricken...
+Problematisch dabei, dass sich die meisten Animationen nicht auf
+720x576 Punkte hochrechnen lassen, weil dann nicht mehr anschaubar.
+Deshalb streikt mein DVDit!, welches ich zum DVD-Brenner dazu bekommen
+habe...
+Wenn ich aber (zum Testen) mal einen Film mit der passenden Auflösung
+nehme, dann steigt das DVDit! mit folgender Fehlermeldung aus: "Each
+GOP header must be preceded by a sequence header." Was soll das?
+Ehrlich gesagt, habe ich nicht die Zeit, mir jede Menge Seiten im Web
+anzuschauen, nicht das Geld, um eine Firma mit der Erstellung der DVD
+zu beauftragen, ich will einfach meine Animationen auf eine DVD und ein
+Men dazu...
+
+Bin für jeden Tipp, auch auf passendere Programme (dürfen ruhig etwas
+Geld kosten!) oder andere Informationsquellen (andere Gruppen?)
+dankbar...
+-- 
+Mit freundlichen Größen
+Pierre Ukert
+Schulplanetarium Sothel
+Tel. + Fax +63-(3)598-305601

@@ -1,0 +1,23 @@
+Hi,
+ich moechte mir die IMDb gerne lokal installieren. In Frage kommen
+dazu fuer meinen PC zwei verschiedene Abfrageprogramme:
+1. CINEBASE, DOS
+2. MOVIEBASE, Win95/NT
+
+Da ich mir ungerne 50 MB ohne Vorbereitung runterziehe, haette ich
+noch einige Fragen:
+
+Wie steht es mit der Weiterentwicklung der Datenbanken?
+Verwendet Vute dasselbe Datenformat wie Gimberlein?(Im Manual steht
+etwas von "preloaded data avaiable"; sind das nur die indizierten
+Listen oder erweitert?)
+Funktionieren die beiden Abfragetools auch wenn nur ein Teil der
+Listen vorhanden ist?(Die DVD, LD und Italian AKA Listen sind fuer
+mich ziemlich uninteressant)
+Falls ja, welche brauche ich zwingend?
+
+Dank im Voraus,
+-- 
+Carsten Obernöder, Isling, Germany
+Get WJL Episoden Manager at:
+www.hukpkznfg.vbo/dajyndldikluuj/4867

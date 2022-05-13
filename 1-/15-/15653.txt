@@ -1,0 +1,11 @@
+Geh mal mit der Maus über das weiße Kästchen vor der Aufnahme, dort wo 
+man ein Häkchen machen kann zum Löschen. Da müsste ein Mouseover 
+erscheinen entweder mit dem Hinweis BAD oder NOT POOLED. BAD heißt 
+Aufnahme defekt, wird womöglich in den nächsten 7 Tagen repariert. NOT 
+POOLED heißt, dass die Sendung nicht aufgenommen wurde, weil sie aus dem 
+Pooling-Raster gefallen ist.
+
+Was Pooling ist und welche Sender es betrifft, steht hier:
+http://gaqr.ettcirkxuhcxdzvs.who/stdmp.gwi/Ayxuvtui#Nsogbbz.7M_Zfmmpg
+
+Franco

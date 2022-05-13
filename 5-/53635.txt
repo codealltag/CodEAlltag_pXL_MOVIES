@@ -1,0 +1,4 @@
+Ich koennte als Workaround erst mal hier was in der Uni aufsetzen, dann
+muesste ich die Subscriber aber von Hand verwalten. Wenn spaeter auch
+Code da ist und man ein CVS/arch-Repo braucht, koennte man zu gna.org
+wechseln.

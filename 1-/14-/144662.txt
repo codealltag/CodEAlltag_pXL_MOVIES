@@ -1,0 +1,27 @@
+Hallo,
+
+es wird dabei nicht nur ums liebe Geld gehen.
+Wenn er es ohne eine schriftliche (!) Zustimmung von Harbing verwendet
+hat, dann ist die Klage durchaus berechtigt. Immerhin hat er dann gegen das
+Urheberrecht verstossen. Und da sind die Gesetzte in den USA viel haerter
+als bei uns (siehe FBI Warnung auf Video/DVD).
+
+Stellt Euch mal vor Ihr entwickelt/erfindet/programmiert was. Ihr seid stolz
+drauf und hofft damit ein paar Mark zu verdienen. Jetzt kommt aber jemand
+daher und klaut Euch die Entwicklung. Jemand verwendet sie ohne Euer Wissen
+und verdient damit Geld.
+Wie wuerdet Ihr reagieren ?
+Ich wuerde erstmal eine Unterlassungserklaerung verschicken und falls dieser
+jemand es dennoch weiter verwendet, dann gibts eine Klage.
+
+Was anderes ist es, wenn es der GPL unterliegt. Mit dieser Lizenz kann jeder
+mit dem Endpodukt machen was er fuer richtig haelt, auch Geld verdienen.
+Aber, wenn man etwas weitereintwickelt, dann muss (!) man das Ergebniss
+ebenfalls unter die GPL stellen und allen zugaenglich machen.
+Dies duerfte aber in dem o.g. Fall nicht so sein.
+
+Das hat nichts mit Harbing zu tun. Jeder andere Produzent wuerde genauso
+reagieren.
+
+MfG
+Felix

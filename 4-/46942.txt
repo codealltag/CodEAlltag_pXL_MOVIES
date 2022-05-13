@@ -1,0 +1,47 @@
+Jaja, aber das muss ja hier nicht durchdiskutiert werden - f'up nach
+nx.prc.ccu o.�. vielleicht?
+
+
+Umstellung auf HDTV, DVB-T, Bluray. Übertragung der Fussball-WM in
+HDTV-3D-Holoprojektion, was weiss ich denn...irgendein Killerfeature
+wird sich finden, damit die Lemminge loslaufen und über die Klippe
+springen
+
+
+Nunja, gerade mit neuen Formaten bzgl. Bildauflösung und Tonkanälen
+lässt sich das schaffen. Und M$ versucht nicht umsonst,
+Gerätehersteller und 'Contentprovider' ins Boot zu holen und z.B. WMV
+als Codec durchzudrücken.
+
+
+Ich hab nicht soviel Ahnung über die Möglichkeiten. Aber CSS wurde
+deshalb gebrochen, weil aus einem Player der Schlüssel extrahiert
+werden konnte und der für alle DVDs galt. Was wenn Schlüssel
+Herstellerspezifisch vergeben werden und sicherer implementiert
+werden? Und wenn doch einer leakt, dann werden eben aus allen
+folgenden gemastertern DVD diese Schlüssel entfernt und der Hersteller
+darf zusehen, wie er mit den verärgerten Kunden klarkommt, deren
+Geräte keine neuen DVDs abspielen - und in der nächsten
+Gerätegeneration einen neuen Schlüssel teuer lizensieren und sicherer
+implementieren müssen...nur so als Idee und ohne lange über
+Nebeneffekte nachzudenken - ggf. f'up setzen, wenn das ausdiskutiert
+werden soll (aber ich will da lieber keine Leute auf dumme Ideen
+bringen)
+
+[usw]
+
+Ich bin mir sicher, dass er es verstanden hat - nur behaupte ich, er
+ist unwillig, darüber mit einem Kosumenten zu kommunizieren.
+
+
+eben. Aber dann will ich auch keine Knastschwuchtelspots im Kino sehen
+müssen und auch die legale Möglichkeit, mir Kopien anzufertigen  - die
+Formulierung mit der Umgehung eines "wirksamen Kopierschutzes" ist ja
+wohl hanebüchen. 
+
+
+Siebelt
+-- 
+Konsens, so ein Blödsinn, dann brauchen wir ja keine Newsgroup
+mehr ;-)
+[Ludger Clemendt in vv.xgp.ogccr.coth]

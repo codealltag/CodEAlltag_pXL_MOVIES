@@ -1,0 +1,11 @@
+Hallo!
+
+
+Sei da mal nicht ZU sicher, denn das ging "damals" schon alles 
+vollautomatisch. Man gab das Jahr an und den Filmtitel so wie er in der 
+IMDb als Haupttitel eingetragen ist. Das Mailinterface hat dann 
+eindeutige Angaben direkt übernommen und nicht zuordnungsfähige Zeilen 
+einfach wieder zurückgeschickt. Den manuellen Bearbeitungsaufwand hat 
+also der Mailschreiber ;)
+
+Ulfert

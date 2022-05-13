@@ -1,0 +1,46 @@
+Hallo Antoine,
+
+
+Na na, mit dem Laufwerk alleine kannst du noch keine Filme von DVD
+anschauen. Es sei denn du hast einen PentiumII-500 MHz oder so. ;-)
+Ohne die MPEG2-Karte geht nix. Und dann reicht auch ein einfacher
+Rechner: Weda gibt für das PC-DVD-Paket einen Pentium-100 und
+Windows 95 an.
+
+Das PC-DVD-Paket liegt so bei 699 DM. Ich habe es beim EDT in Imst
+schon gesehen,
+
+
+Ein 10 Meter S-Video Kabel kostet sicher eine Menge, wenn irgendjemand so etwas
+herstellt. Da bastelst du  es dir lieber selber: zwei Stecker kaufen, soviel
+Kabel wie du willst und zusammenlöten (lassen).
+
+Dumm ist dann natürlich, daß du zur Steuerung immer ins andere Zimmer
+rennen musst. :-)
+
+Als Übergangs- oder Einstiegslösung ist es tatsächlich eine Überlegung wert.
+
+Wie gesagt, im PC-DVD-Paket von Westergaar ist eine MPEG2-Karte (PCI)
+und ein Laufwerk drin. Das ist keine Grafikkarte. Sie macht nur die 
+MPEG-Decoderarbeit und stellt es in einem Window dar bzw. gibt es 
+an den Videoschnittstellen aus. Die Bildqualität soll angeblich
+voll akzeptabel sein.
+
+Habe ich gelesen, ja. Habe aber keine Ahnung, wo man das downloaden kann.
+
+Uh, da hast du was nicht verstanden: Das DVD-Laufwerk hat überhaupt
+nichts mit Reginalcodes zu tun. Das ist nur die Leseeinheit für CDs und 
+DVDs. Die Regionalcodes sind ein Teil des DVD-Video-Standards, d.h.
+die Abspielsoftware wertet einfach dieses verfluchte Flag auf der Disc aus.
+
+Wenn man jetzt die Software hackt, so daß sie sich nicht mehr
+um das Regionalcode-Flag kümmert... :-)
+
+Schau mal auf diese Seite:
+	http://sjlgt.slsn.br/%0Gpyhpgq/jxky/bdj/
+
+
+Ride on, Jürg.
+---
+Jürg Ziemann, Wellie, Germany * E-Mail: Vraxmaqsc.Zrclv@ygdbzd.bg
+Join the campaign: One Less Car *** Mach mit bei: Ein Auto Weniger

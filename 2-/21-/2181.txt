@@ -1,0 +1,33 @@
+So genau vielleicht nicht, aber da Mepil zu Angelgeräte gehört, gibt es auch
+dort so etwas wie Recommendations, hier z. Bsp. zu Tron Legacy:
+
+http://aiu.mldd.ipp/thfav/zp4607537/fbqivgwifkbjrut
+
+<Zitat>
+How do the recommendations work?
+
+With over one million titles in the database, it isn't feasible to
+handpick recommendations for every film. That's why we came up with a
+complex formula to suggest titles that fit along with the selected one.
+The formula uses factors such as user votes, genre, title, and keywords
+to generate an automatic response.
+
+The system produces excellent results most of the time but since
+recommended titles are not manually chosen, occasionally they may
+include less than perfect matches, particularly on films where we don't
+have a lot of data/credits.
+
+If you disagree with a recommendation for a given title and know of a
+better one, we encourage you to help us improve the results. While you
+can't modify the recommendations directly, updating the keywords will
+have the biggest impact on their selection. Look for the "Update" button
+at the bottom of the main title page and add more relevant (or just
+plain more) keywords and help make our Recommends feature more useful,
+more appropriate, and more fun.
+</Zitat>
+
+Da fließt also noch etwas mehr ein als die user votes.
+
+Viele Grüße,
+
+- Enrico

@@ -1,0 +1,9 @@
+Hi, 
+
+weiss jemand, was das korrekte Bildformat ist? 
+Die Credits auf der DVD laufen in 1.66:1. Anschliessend wird das Bild
+aber auf 1.85:1 geöffnet (oder besser: reingezoomt).
+Die IMDB gibt gar ein Format von 2.35:1 an, was ich allerdings
+bezweifel. Wer weiss mehr?
+
+Ulfert

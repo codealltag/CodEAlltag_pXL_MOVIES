@@ -1,0 +1,14 @@
+In article <pzkjbv.363.3@dtxhcm.sy>, Enrico Päpcke wrote:
+
+Moin,
+
+[...]
+
+Vorschlag: jeder trimmt seine Signatur auf eine Zeile und die so 
+gesparte "Bandbreite" wird dann auf ein "Bandbreitenkonto" überwiesen, 
+aus dem dann für Spoilerspace geschöpft wird.
+
+Gut? :)
+
+-- 
+[ERROR #1134876: SIG MISSING]

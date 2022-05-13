@@ -1,0 +1,25 @@
+Sagen wir mal so: Die meisten Spots laufen über viele Wochen, und bei 
+Saisonartikeln ist der richtige Zeitpunkt Monate im Vorraus bekannt. Ich 
+kann mir nicht vorstellen, daß die kurzfristig besetzt werden, denn dann 
+sind die attraktivsten Slots bereits weg.
+
+
+Meines Wissens läuft das bei den Privatsendern genau so, und zwar nicht 
+erst neuerdings. Es gibt ein relativ starres Sendeschema, darin geniesst 
+das Hauptprogramm (die Werbung) Vorrang mit festen Sendeplätzen, das 
+Füllprogramm (Filme,Serien) muss sich anpassen.
+
+Da deshalb die Tonhöhe verändert werden soll, kommt mir allerdings 
+ebenfalls spanisch vor. Normalerweise läuft die Längenanpassung gerade 
+bei Serien eigentlich eher über das mehr oder weniger starke Kürzen von 
+Vor- und Abspännen.
+
+Wahrscheinlich ist das Tonh�henproblem eher unterschiedlichen 
+Produktionswegen geschuldet:
+- Für TV Konvertierung von NTSC auf PAL: in Echtzeit, mit korrektem Ton, 
+aber Einbussen bei der Bildqualität.
+- Für DVD Konvertierung vom Film-Master auf PAL: perfektes Bild, aber 
+durch die abweichende Framerate (24->25fps) leichte Verschiebung der 
+Tonhöhe. Auch bekannt als "IOKR Speedup".
+
+Valentin

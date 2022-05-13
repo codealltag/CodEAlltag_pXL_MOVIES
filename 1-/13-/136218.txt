@@ -1,0 +1,8 @@
+Wie schon in der Antwort von Rainer: Die ASCII-Daten gepackt (gzip) sind
+momentan ca. 120MB. Dann werden die auf Deinem Rechner in ein (eigenes?)
+Datenbankformat umgewandelt. Je nach Plattform sind die "gebauten" Daten
+unterschiedlich gross. Bei mir unter Käshäusle sind's momentan ca. 240MB,
+unter DOS/Windows soll's aber ein gutes Stueck groesser sein, mein ich
+irgendwo gelesen zu haben. 
+
+   -uwe

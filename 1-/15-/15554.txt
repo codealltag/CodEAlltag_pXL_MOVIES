@@ -1,0 +1,13 @@
+Hallo Eilt,
+
+
+mag ja sein, aber ohne Administratorrechte kannst ja fast nichts machen,
+ich hatte meinem Sohn das hoechste Benutzerrecht unter Administrator gegeben
+und all 5 min stand er da mit, Pappa, das gehtnicht... Irgendwann gings mir
+einfach auf den Zeiger und ich hab ihm Administratorrechte agegeben.
+Ist ja auch sein Rechner, nur aus Erfahrung kann man lernen.
+Das wichtigste Kriterium war halt, dass ohne Adminrechte die meisten
+Update nicht liefen.
+
+Gruss
+Franco

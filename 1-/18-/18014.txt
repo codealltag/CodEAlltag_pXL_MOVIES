@@ -1,0 +1,6 @@
+Danke fuer den Link. Es scheint mir so, als ob die tatsaechlich den 
+anderen Blickwinkel per CGI nachmodulieren. Ganz schoen viel Aufwand :)!
+
+-- 
+   Salvatore Isermann (yoduq@pgj.hwu-uvphognu.tm)              Freedom for
+"The meaning of my life is to make me crazy"            Vorlonships

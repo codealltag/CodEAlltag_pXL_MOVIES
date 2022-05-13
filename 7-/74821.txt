@@ -1,0 +1,31 @@
+Es kommen auch nicht alle Newsreader so blendend mit allen Formen von
+Spoilerspace klar. Insbesondere Netscape-Versionen kappen gerne leere
+Zeilen, so dass bei einer Antwort vom unbedarften Newbie der Spoiler mit
+Pech auf den ersten Blick sichtbar ist. Dann kann man sich das ganze
+Gehampel auch gleich sparen, Spoiler ins Subject pinnen und den lieben
+Gott einen guten Mann sein lassen. Ob das aber einem angenehmen
+Miteinander in einer heterogenen Umgebung zuträglich ist, lasse ich mal
+dahingestellt.
+
+Kurz: Von bewährt haben kann in Bezug auf Spoilerspace eher nicht die
+Rede sein. Im Gegenteil, bewährt hat sich Rot-13, da hier ausgeschlossen
+ist, dass ohne Benutzeraktion irgendwas entschlüsselt wird. ROT-13 ist
+zudem artikelweit mit einem Tastendruck ent- und verschlüsselt, wenn man
+einen vernünftigen NR einsetzt. Wer das nicht tut, soll bitte nicht über
+etwaige Unbequemlichkeiten meckern, denn die sind ja gerade erwünscht.
+Alternativen sind für jedes relevante BS vorhanden. Häufige ein-Wort-
+Verschlüsselungen innerhalb eines Artikels sind imho nervig ohne Ende.
+Hier mal der Ansatz aus drtb zur gleichen Problematik.
+
+ ,---- [ Lopif-FAQ ]
+ `----
+
+Und weiter unter Punkt 7:
+
+ ,----
+ `----
+
+Tschüss,
+        Italo
+-- 
+Shit doesn't just happen. Shit takes time. Shit takes effort.

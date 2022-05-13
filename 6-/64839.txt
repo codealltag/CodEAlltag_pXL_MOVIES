@@ -1,0 +1,243 @@
+NG-Statistik drfm für den Oktober 2004
+erstellt mit einem Skript von Cédric Vaagt.
+
+17/01: 2347 postings
+18/01: 2252 postings
+19/01: 1990 postings
+20/01: 1790 postings
+21/01: 2352 postings
+
+22/01: 2979 postings
+
+
+Autoren mit den meisten Postings (2979 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  86 | 2121 | 175.1 | Luis Lünink          |  2.9%  xxxxxxxxxxxxx
+   2 |  77 | 1933 | 134.6 | Ivan Fiefhaus           |  2.6%  xxxxxxxxxxxx 
+   3 |  73 | 1912 | 138.5 | Pasquale Lützenkirchen        |  2.5%  xxxxxxxxxxx  
+   4 |  72 | 1436 | 122.3 | Günther W. Obermaier     |  2.4%  xxxxxxxxxxx  
+   5 |  68 | 1041 | 104.8 | Günther Unverhaue        |  2.3%  xxxxxxxxxxx  
+   6 |  62 | 1306 |  92.7 | Ben Laval             |  2.1%  xxxxxxxxxx   
+   7 |  53 | 1426 |  97.4 | Claus Elsäßer         |  1.8%  xxxxxxxx     
+   8 |  52 |  947 |  76.1 | Noah Dieckman        |  1.7%  xxxxxxxx     
+   9 |  49 | 1237 |  96.7 | Maurice Velten        |  1.6%  xxxxxxx      
+  10 |  47 | 1121 |  75.6 | Guy Vits          |  1.6%  xxxxxxx      
+  13 |  46 |  934 |  83.9 | Manfred Grünbaum          |  1.5%  xxxxxxx      
+  14 |  39 |  641 |  53.8 | Ullrich Maylandt       |  1.3%  xxxxxx       
+  15 |  36 | 1291 |  85.3 | Mauro Tenzler       |  1.2%  xxxxx        
+  17 |  35 | 2799 | 150.6 | Gérard                 |  1.2%  xxxxx        
+  19 |  33 |  855 |  61.8 | Fernando Unverrich         |  1.1%  xxxxx        
+  21 |  32 | 2251 | 149.8 | Bodo Imholt            |  1.1%  xxxxx        
+  22 |  31 |  831 |  60.4 | Paolo Davinghausen        |  1.0%  xxxxx        
+  23 |  30 |  804 |  54.5 | Siebelt Langenfeld            |  1.0%  xxxx         
+  25 |  29 |  879 |  45.5 | Günther Liessem           |  1.0%  xxxx         
+  26 |  28 |  637 |  47.8 | Willibald Klinkspon    |  0.9%  xxxx         
+  28 |  25 |  640 |  37.1 | reinhard                  |  0.8%  xxxx         
+  29 |  23 |  832 |  47.3 | Ulfert Voßenkaul            |  0.8%  xxx          
+  31 |  22 |  984 |  59.6 | Uwe Ehrenschwender        |  0.7%  xxx          
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (411 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                
+        8 |   5 |  1.2%  x                                              
+        7 |  19 |  4.6%  xxxxxx                                         
+        6 |  10 |  2.4%  xxx                                            
+        5 |  22 |  5.4%  xxxxxxx                                        
+        4 |  20 |  4.9%  xxxxxx                                         
+        3 |  40 |  9.7%  xxxxxxxxxxxxx                                  
+        2 |  59 | 14.4%  xxxxxxxxxxxxxxxxxxx                            
+        1 | 145 | 35.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (227 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Gérard                 |  20 |    72 |  8.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Claus Elsäßer         |  10 |    71 |  4.4%  xxxxxxxxxx          
+   3 | CT                    |   6 |    12 |  2.6%  xxxxxx              
+   4 | Günther Liessem           |   5 |    93 |  2.2%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (227 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Kai Drenkert      |   1 |   293 |  9.8%  xxxxxxxxxxxxxxxxxxxx
+   2 | Fernand Dähms       |   3 |   260 |  8.7%  xxxxxxxxxxxxxxxxxx  
+   3 | Mauro Tenzler       |   4 |   241 |  8.1%  xxxxxxxxxxxxxxxxx   
+   4 | Maurice Notkamp       |   1 |   107 |  3.6%  xxxxxxx             
+   5 | Günther Liessem           |   5 |    93 |  3.1%  xxxxxx              
+   6 | Ben Laval             |   2 |    82 |  2.8%  xxxxx               
+   7 | Christoph Theisen          |   2 |    80 |  2.7%  xxxxx               
+   8 | Pasquale Lützenkirchen        |   2 |    79 |  2.7%  xxxxx               
+  10 | Gérard                 |  20 |    72 |  2.4%  xxxxx               
+  11 | Claus Elsäßer         |  10 |    71 |  2.4%  xxxxx               
+  12 | Raphaels Tröscher        |   3 |    70 |  2.3%  xxxxx               
+  13 | Siebelt Oberscheidt          |   2 |    65 |  2.2%  xxxx                
+  14 | Garrelt Galloway       |   1 |    58 |  1.9%  xxxx                
+  15 | Norman Dellwisch   3 |    55 |  1.8%  xxx                 
+  16 | Fernando Eichelkraut          |   1 |    54 |  1.8%  xxx                 
+  17 | Cédric Dannmeyer       |   3 |    52 |  1.7%  xxx                 
+  18 | Günther Dermühl      |   1 |    51 |  1.7%  xxx                 
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2979 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 293 | Das leidige Thema - Film-Downloads!     |  9.8%  xxxxxxxxxx
+   2 | 209 | Alte Filme - neu gesehen (nicht fuer Mat|  7.0%  xxxxxxx   
+   3 | 204 | Die dümmsten Dialoge/Szenen             |  6.8%  xxxxxxx   
+   4 | 107 | Matrix Revolutions: Doof                |  3.6%  xxxx      
+   5 |  79 | Filme mit grösster Rausgeherquote       |  2.7%  xx        
+   7 |  71 | Matrix: Revolutions - erste Gedanken    |  2.4%  xx        
+   8 |  58 | Endzeitfilm-Liste                       |  1.9%  xx        
+   9 |  55 | Paradoxe / Unerklärliches               |  1.8%  xx        
+  10 |  54 | Umfrage: Beste Dialoge/One-liner        |  1.8%  xx        
+  11 |  51 | HdR - Return of the King SE             |  1.7%  x         
+  12 |  47 | Sinn von Vorfilmen                      |  1.6%  x         
+  13 |  46 | Matrix - Zusammenfassung                |  1.5%  x         
+  14 |  45 | "Matrix Revolutions"                    |  1.5%  x         
+  15 |  44 | Re: Kritik: Kill Bill Volume 1          |  1.5%  x         
+  16 |  43 | Ulfert Litzenroth - Sag niemals nie            |  1.4%  x         
+  18 |  41 | Findet Nemo                             |  1.4%  x         
+  19 |  38 | Eure liebsten Listen                    |  1.3%  x         
+  20 |  36 | Französische Actionfilme                |  1.2%  x         
+  21 |  34 | TV Movie: Die 100 besten Filme          |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (227 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]
+    14 |   1 |  0.4%                                                    
+    13 |   3 |  1.3%  xx                                                
+    12 |   4 |  1.8%  xxx                                               
+    11 |   6 |  2.6%  xxxx                                              
+    10 |   4 |  1.8%  xxx                                               
+     9 |   4 |  1.8%  xxx                                               
+     8 |   8 |  3.5%  xxxxxx                                            
+     7 |   7 |  3.1%  xxxxx                                             
+     6 |   6 |  2.6%  xxxx                                              
+     5 |  11 |  4.8%  xxxxxxxx                                          
+     4 |  11 |  4.8%  xxxxxxxx                                          
+     3 |  20 |  8.8%  xxxxxxxxxxxxxxx                                   
+     2 |  26 | 11.5%  xxxxxxxxxxxxxxxxxxxx                              
+     1 |  65 | 28.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 382 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 110 | Microsoft Outlook Express      | 28.8%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  55 | LHUZ                        | 14.4%  xxxxxxxxxxxxx            
+  51 | Forte Agent                    | 13.4%  xxxxxxxxxxxx             
+  27 | Netscape                       |  7.1%  xxxxxx                   
+  18 | KNode                          |  4.7%  xxxx                     
+  17 | Xnews                          |  4.5%  xxxx                     
+  15 | slrn                           |  3.9%  xxx                      
+  14 | tin                            |  3.7%  xxx                      
+  13 | MacSOUP                        |  3.4%  xxx                      
+  11 | 40tude_Dialog                  |  2.9%  xx                       
+  10 | Gnus                           |  2.6%  xx                       
+   7 | Pan                            |  1.8%  x                        
+   7 | Forte Free Agent               |  1.8%  x                        
+   6 | Hamster                        |  1.6%  x                        
+   4 | MicroPlanet Gravity            |  1.0%                           
+   2 | CrossPoint                     |  0.5%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | CrossPoint [XP2]               |  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+   1 | Agent                          |  0.3%                           
+   1 | Opera7.20                      |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | Hogwasher                      |  0.3%                           
+   1 | Microsoft-Outlook-Express-Macin|  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | TIN [UNIX                      |  0.3%                           
+   1 | ProNews                        |  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | Opera7.22                      |  0.3%                           
+   1 | OpenXP                         |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 135 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  31 | LTL Outlook Express      | 23.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | Forte Agent                    | 17.8%  xxxxxxxxxxxxxxxxxxxx     
+  24 | LHUZ                        | 17.8%  xxxxxxxxxxxxxxxxxxxx     
+   8 | Netscape                       |  5.9%  xxxxxx                   
+   7 | Xnews                          |  5.2%  xxxxx                    
+   6 | slrn                           |  4.4%  xxxxx                    
+   5 | 40tude_Dialog                  |  3.7%  xxxx                     
+   4 | MacSOUP                        |  3.0%  xxx                      
+   4 | Gnus                           |  3.0%  xxx                      
+   4 | KNode                          |  3.0%  xxx                      
+   3 | tin                            |  2.2%  xx                       
+   3 | Forte Free Agent               |  2.2%  xx                       
+   2 | Pan                            |  1.5%  x                        
+   2 | Hamster                        |  1.5%  x                        
+   2 | MicroPlanet Gravity            |  1.5%  x                        
+   1 | CrossPoint                     |  0.7%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.7%                           
+   1 | Agent                          |  0.7%                           
+   1 | MorVer                         |  0.7%                           
+   1 | Opera7.10                      |  0.7%                           
+   1 | News-via-Hand Quick-Express    |  0.7%                           
+
+
+Postingverteilung über den Monat (2979 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  46 |  1.5%  xxxxxxxxxx                                          
+   2 |  93 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+   3 |  50 |  1.7%  xxxxxxxxxxx                                         
+   4 |  33 |  1.1%  xxxxxxx                                             
+   5 |  54 |  1.8%  xxxxxxxxxxxx                                        
+   6 | 137 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+   7 | 115 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+   8 |  73 |  2.5%  xxxxxxxxxxxxxxxx                                    
+   9 |  66 |  2.2%  xxxxxxxxxxxxxx                                      
+  10 |  72 |  2.4%  xxxxxxxxxxxxxxxx                                    
+  11 | 147 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  12 | 117 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  13 |  79 |  2.7%  xxxxxxxxxxxxxxxxx                                   
+  14 |  58 |  1.9%  xxxxxxxxxxxxx                                       
+  15 |  85 |  2.9%  xxxxxxxxxxxxxxxxxxx                                 
+  16 |  92 |  3.1%  xxxxxxxxxxxxxxxxxxxx                                
+  17 |  87 |  2.9%  xxxxxxxxxxxxxxxxxxx                                 
+  18 | 129 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  19 | 157 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+  20 | 154 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  21 | 142 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  22 |  51 |  1.7%  xxxxxxxxxxx                                         
+  23 |  57 |  1.9%  xxxxxxxxxxxx                                        
+  24 | 102 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  25 | 107 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  26 |  83 |  2.8%  xxxxxxxxxxxxxxxxxx                                  
+  27 | 133 |  4.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  28 | 235 |  7.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  29 |  96 |  3.2%  xxxxxxxxxxxxxxxxxxxxx                               
+  30 | 129 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+
+
+HTH ;-)
+Größe
+Luis

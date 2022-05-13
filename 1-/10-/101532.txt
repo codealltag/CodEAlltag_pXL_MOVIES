@@ -1,0 +1,11 @@
+Hallo Pasquale,
+
+
+aha, 3D-Position in seinem Helm. Hmmm, und wie soll das bei *zwei*
+Ohren gehen? Ein Mensch kann nur dadurch dreidimensional orten, indem
+er den Kopf dreht. Ein Helm kann also nur ein Stereo-Signal liefern,
+das aber je nach Kopfdrehung (denn das macht man ja reflexartig)
+variiert.
+
+So long,
+  -+- Raphael -+-

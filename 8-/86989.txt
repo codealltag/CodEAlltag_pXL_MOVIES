@@ -1,0 +1,15 @@
+On Tue, 5 Nov 2003 13:23:58 +0100, Silvio Griesbach
+
+Das liegt daran, das Wasser eines der schwersten Sachen ist, die man
+im 3D Berreich erstellen kann. Ok bei Titanic sah es recht gut aus,
+aber da war es ja eine mehr ruhige Wasseroberfläche.
+
+Schnell fliessendes Wasser oder eben starker Wellengang braucht einer
+wesentlich längere Berrechnungszeit, da die Bewegungen des Wasser sehr
+komplex sind. Das ist oft der Gund, warum in Filmen oft noch mit
+Miniaturen in großen Wassertanks gearbeitet wird.
+
+Aber in Episode 2 hätte man sich wirklich ein wneig mehr Mühe geben
+können.
+
+Es grüßt John

@@ -1,0 +1,28 @@
+Die Eudaimonia DVD's scheinen alle einen kleinen Schoenheitsfehler
+zu haben. Egal was man macht, es werden immer die Englischen
+Untertiel (Titel 1) per Default eingeblendet. Wenn man im Setup
+Deutsch einstellt, dann kommen logischerweise die Deutschen per
+Default. Das ist ja auch Ok. Aber das die Englischen sonst immer
+auf "EIN" sind, das nervt schon etwas.  
+Haben andere auch dieses Problem mit eimem FUJU 100 ??.
+Der Ton steht auf Deutsch und die Untertitel auf AUTO. Wenn man dann
+Deutsch hoert, dann sollten eigentlich keine Untertitel sichtbar sein.
+So stehts im FUJU Buch und bei allen anderen DVD's (z.b. von
+Getraenkemarkt) gehts ohne Probleme. 
+Man muss immer erst die Untertitel ausschalten. Da der erste Menue 
+Punkt in der Untertitel Section der DVD English ist, vermute ich mal,
+das dieser dann irgendwie selektiert wird. Eigentlich sollte ja der
+Default "AUS" sein. Ich habe auch schon eine andere Sprache mittels
+eines Codes selektiert, die gewiss nicht auf der DVD ist, aber das schei=
+nt
+auch nicht zu nutzen. Das Gerät startet mit "1 EIN". Bei einer unguelt=
+igen
+Sparche, die sich nicht auf der DVD befindet,m muesste dort eigentlich
+"* AUS" stehen.
+Wie gesagt, ein keiner Fehler, der aber Warner bei der Erfahrung nicht
+passieren sollte. 
+
+With best Regards
+Fernand Spierich
+
+ccldlgx@ixg.qfw

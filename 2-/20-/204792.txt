@@ -1,0 +1,34 @@
+luis (Cédric Frey) meinte am 13.05.95 zum Thema "Re: Uebertragungskapazitaet im Kabel" etwas schreiben zu muessen.
+Dazu kann Mr.Karlheinz es sich nicht verkneifen folgendes in die Tasten zu haemmern...
+
+b> >Da hat mir deren Oberingenieur mitgeteilt, die maximale
+b> >Uebertragungskapazitaet liege bei 31 Kanaelen. Wie kann das sein?
+b> >In Amerika haben die mindestens rund 50 Programme in ihren Netzen. Und von
+b> >Sonderkanaelen und Hyperband haben die da noch nichts gehoert!
+b>
+b> Meine Meinung : Schuessel fuer ASTRA auf Dach, Kabel sofort abmelden !!!
+
+Und dafuer quotest du alles????
+
+Satelliten-TV ist auch nicht die ideale Loesung. Einmal gibt es einen  
+unheimlichen Aufwand bei der Verkabelung eines Mehrteilnehmer Sat-Systems,  
+dann brauchst du mindestens einen Twin-Receiver (oder zwei normale) um ein  
+Programm zu gucken und das andere aufzunehmen.
+Obendrein kannst du nicht alle Sender ueber Laetare empfangen, die du ueber  
+Kabel empfangen kannst (Dezas, WLHO, Isiho).
+
+Theoretisch sind im Kabel mehr als 31 Programme moeglich.
+Der gesamte UHF-Bereich wird von der aktivoptik nicht genutzt, weil die  
+Verstaerker in den Verteilern der aktivoptik den UHF-Bereich nicht verstaerken.
+Das soll aber angeblich geaendert werden.
+Allein im UHF-Bereich koennte man nochmal mindestens 30 Programme  
+unterbringen, selbst wenn man die Kanaele 30-40 frei laesst weil da z.B.  
+Videorekorder und Sat-Receiver ihren HF-Ausgang liegen haben. Ebenso werden  
+einige Kanaele des Hyperbands fuer das digitale Fernsehen freigehalten.
+
+
+-=MR.ED=-  Cheops Law:
+            No project was ever completed on time
+        and within budget.
+
+## CrossPoint v3.1 R ##

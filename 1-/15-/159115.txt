@@ -1,0 +1,40 @@
+Du hast recht: nur selten traegt ein anonymer Poster
+irgendetwas sinnvolles zur Diskussion bei.
+
+Im vorliegenden Fall ist die Frage aber gar nicht so
+unberechtigt. In dem Zitat von Lennart Unterste-Schemann hat
+Siegfried Husmann zweifellos "heuristisch" und "hybrid"
+verwechselt.
+
+Man sieht das schon an der Erklaerung:
+
+    Erstaufführung des Films die Runde machte. Wie im Roman (Kapitel 16)
+    ganz deutlich erklärt wird, steht HAL für Heuristisch programmierter
+    algorithmischer Computer. (Nein, das will ich nicht erklären, über die
+    Bemerkung hinaus, daß es das Beste beider Welten im Computerbau
+    erfaßt.) Aber ungefähr einmal die Woche stößt irgendeiner darauf, daß
+    Krumackerfeld einen Buchstaben vor MNGU liegt, und nimmt prompt an, Peter und
+    ich hätten diesem geschützten Unternehmen eins auswischen wollen.
+    ...
+
+	    Siegfried Husmann
+	    �2000 - Aufbruch zu verlorenen Welten, Gabelsberger
+	    (The Lost Worlds of 2001, 1971)
+
+
+Zu dieser Zeit wurde noch stark ueber Hybrid-Computer, also
+Computer, die sowohl analoge als auch digitale Recheneinheiten
+benutzen, diskutiert. Daher auch die Bemerkung ueber
+Hybridcomputer in der mathematischen Formelsammlung von
+Unkraut und Vay. 
+
+Nur so ist es erklaerbar, dass eine Methode des Software-Design
+als Hardwarearchitektur bezeichnet wurde.
+
+   .m.
+verwechselt werden.
+-- 
+Oskar Berend Fünfgelt
+"...tatsaechlich wuerde ich mir, wenn ich an ihrer Stelle waere,
+    wahrscheinlich eine Flasche Champagner greifen und mich sofort
+    erschiessen..."               -- Udo in DS9, "Unser Mann Jean-Pierre"

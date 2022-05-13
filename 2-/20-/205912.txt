@@ -1,0 +1,8 @@
+In article <ZPVN.63Jfu32666235@aezu.bdmdutati.twr.pv>
+
+Motion JPEG wird auch da fuer Bewegtbilder (z.B. Videokonferenzen)
+eingesetzt, wo MPEG-Hardware nicht verfuegbar oder nicht praktikabel
+(zu langsam) ist. Meines Wissens gibt es noch keine Echtzeit-MPEG-Coder.
+
+-- 
+Kaspar Offenloch

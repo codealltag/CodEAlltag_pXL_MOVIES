@@ -1,0 +1,49 @@
+Hallo !
+
+
+konnte bei einem freund nun auch mal mehr oder weniger ausgiebig mit dem
+heyhey Änderungsdienst "herumspielen" und musste feststellen das der an seinem einzigen
+digitlan coaxialeingang wirklich nur AC3 signal verwerten kann.
+darauf wird auch in der Anleitung explicit hingewiesen
+
+Es ist also NICHT moeglich die von mir vorgeschlagenen methode, einen  
+digitlan PCM bitstream anstelle des AC3 2.0 signal an den Verstaerker zu  
+senden und selbigen dann Prologic encoden zu lassen, anzuwenden.
+(die analoge variante ist natuerlich immer moeglich)
+
+Ich habe eine Reihe von AC3 2.0 DVDs getestet und musste festellen das bei
+fast der Haelfte der Scheiben der heyhey nur AC3 2.0 Stereo wiedergab.
+
+ u.a. wurden folgende titel nur in Stereo wiedergegeben
+
+ - While You Were Sleeping
+ - Robocop 2
+ - Maniac Cop
+ - Prince Of Darkness
+
+ entweder fehlt bei all diesen DVDs der Surround Flag, was ich mir insofern
+ aber nicht vorstellen kann, weil man dann mit sicherheit schon etwas
+ darueber gelesen haette, oder der Mirko hat Probleme diesen Flag immer
+ richtig zu erkennen.
+
+ Zumal ja 2 von diesen Scheiben von Rheintourist stammen und die haben ja ihre
+ DVD von Flash Gordon aus genau dem Grund des fehlenden Surround Flags
+ auch zurueckgerufen.
+
+ Dann habe ich noch eine AC3 1.0 Quelle getestet (multimarkt L.Vacation)
+ und musst feststellen das es hier moeglich war einen Stereomodus zu
+ erzwingen - warum es dann nicht auch moeglich ist eine AC3 2.0 Quelle in
+ einen Prologic Mode zu zwingen, wird wohl auf ewig ein Geheimnis der
+ heyhey Entwickler bleiben.
+
+ Ferner musste ich feststellen das die 100% Kanaltrennung bei AC3 beim
+ heyhey eher auf eine 95% Kanaltrennung hinauslaueft.
+ Bei der abgespielten 1.0 Quelle konnte man noch hoerbare Signale aus
+ den beiden Frontlautsprechern vernehmen - sowas darf eigentlich nicht sein.
+
+
+Bye
+ Raimund
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

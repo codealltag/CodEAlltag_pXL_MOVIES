@@ -1,0 +1,451 @@
+Archive-name: de-film/einfuehrung
+Last-modified: 16. 02. 22
+Version: 0.11
+URL: http://znvjei.ib.yax-mo.ak/~fnxvpi/ay.azj.zuut,mn-ZNM/
+
+Hallo, 
+
+dies ist nur eine Beta-Version. Kommentare? Ergaenzungen?
+
+(Wegen der Bedeutung fuer de.rec.film.misc als auch de.rec.tv.ALL
+F'up2 in beide. Die entgueltige Version soll F'up2 poster haben.)
+
+==============================================================
+FAQ zur Benutzung der Film- und Fernseh-Newsgruppen in de.!alt
+==============================================================
+
+---------
+0. Inhalt
+---------
+
+0.      Inhaltsverzeichnis
+
+1.      Sinn dieser FAQ
+ 1.1     Was ist eine FAQ?
+ 1.2     Was ist eine Newsgruppe? 
+ 1.3     Womit beschaeftigt sich diese FAQ?
+
+2.      Umgangsformen in den Newsgruppen
+ 2.1     Einfuehrung in das 'Usenet'
+
+3.      Unterschiede der Film- und Fernseh-Newsgruppen
+ 3.1     Welche Film-Newsgruppen gibt es?
+ 3.2     Welche Fernseh-Newsgruppen gibt es?
+ 3.3     Welche Themen gehoeren in welche Newsgruppe?
+  3.3.1   Chartas der Film- und Fernseh-Newsgruppen
+  3.3.2   Beispiele fuer die Wahl der richtigen Newsgruppe
+
+4.      FAQs in den Film- und Fernseh-Newsgruppen
+ 4.1     Welche FAQs gibt es in den Film- und Fernseh-Newsgruppen?
+ 4.2     Welche anderen periodischen Postings gibt es in den Film- und
+            Fernseh-Newsgruppen?
+
+5.      Weitere Informationsquellen
+ 5.1     Welche anderen deutsprachigen Diskussionsgruppen gibt es?
+ 5.2     Welche englischsprachigen Diskussionsgruppen gibt es?
+ 5.3     Wo kann ich Geraete und Filme kaufen oder verkaufen?
+
+6.      Organisatorisches
+ 6.1     Wo finde ich diese FAQ?
+ 6.2     Wer schreibt diese FAQ?
+ 6.3     Ich will diese FAQ nicht jede Woche wieder lesen, wie mache 
+            ich das?
+ 6.4     Zum Schluss
+
+
+=============
+1. Einleitung
+=============
+
+1.1 Was ist eine FAQ?
+=====================
+
+   FAQ ist eine Abkuerzung fuer "Frequently asked question", also 
+"haeufig gestellte Frage". Es handelt sich also um eine Frage, die in
+einer Newsgruppe immer wieder auftauchen. Haeufig werden diese dann mit
+den zugehoerigen Antworten zusammengestellt und regelmaessig als Liste
+veroeffentlicht. Als pars-pro-toto-Bezeichnung werden diese Sammlungen
+"FAQ" genannt. 
+
+   Es gilt als unhoeflich, sich an der Diskussion in einer Newsgruppe 
+zu beteiligen, ohne die zu der Newsgruppe gehoerende FAQ gelesen zu 
+haben - falls eine solche existiert. (Herzlichen Glueckwunsch, in 
+dieser Gruppe wird Dir das nicht passieren ;-) )
+
+1.2 Was ist eine Newsgruppe? 
+============================
+
+   Eine Newsgruppe ist eine Diskussionsgruppe, in der jeder mitlesen
+und mitschreiben kann. Die Newsgruppen bilden einen Teil des Usenet,
+Abschnitt 2. beschaefigt sich damit ein wenig genauer. 
+
+1.3 Womit beschaeftigt sich diese FAQ?
+======================================
+
+   Diese FAQ gibt eine Einfuehrung in die Gruppen, die sich im 
+deutschsprachigen Usenet mit Film und Fernsehen beschaeftigen. Es
+werden keine inhaltlichen Fragen beantwortet, sondern Wegweiser 
+gegeben, wo man mit seinen inhaltlichen Fragen am Besten aufgehoben 
+ist. 
+   Insbesondere wird auf andere FAQs hingewiesen, die sich mit 
+bestimmten Inhalten beschaeftigen, und an einigen Fallbeispielen die
+Einordnung eines Artikels in die richtige Newsgruppe diskutiert.
+
+
+===================================
+2. Umgangsformen in den Newsgruppen
+===================================
+
+2.1 Einfuehrung in das 'Usenet'
+===============================
+
+   Das Usenet (oder fuer den Zweck dieser FAQ 'die Newsgruppen') ist 
+eine Gemeinschaft, die ihre eigenen Umgangsformen entwickelt hat. Diese
+sind nicht dazu da, um Aussenstehende abzuschrecken, sondern um das 
+untereinander der Teilnehmer zu vereinfachen - wie es bei jeder sozialen
+Gruppe passiert. 
+   Aussenstehende haben jedoch die Moeglichkeit, sich in der Newsgruppe
+ay.dhrseipu.rncsf ueber die Gepflogenheiten im ILH zu informieren, 
+und dieses Angebot sollte man nutzen, da man so sehr viel weniger Gefahr 
+laeuft, jemandem aus Versehen auf die Fuesse zu treten. 
+ay.dhrseipu.rncsf ist sozusagen der Reisfuehrer, den man gelesen haben 
+sollte, bevor man in ein fremdes Land faehrt. Es handelt sich um einen
+ziemlich dicken Reisefuehrer, wobei einige Artikel auch eher als 
+Referenz gedacht sind und nicht vollstaendig durchgelesen werden 
+muessen. Anfangen sollte man auf jeden Fall mit:
+
+   * Einleitung zu ay.dhrseipu.rncsf
+   * Erst lesen, dann schreiben
+   * Erste Schritte im Usenet
+
+und es ist nicht verkehrt, sich ueber die uebrigen Artikel wenigstens
+einen Ueberblick zu verschaffen.
+
+   Wenn das jetzt nach einem unueberwaeltigbaren Berg von Regeln 
+aussieht: Die meisten Dinge lassen sich durch Ruecksichtnahme erledigen.
+Jeder macht mal Fehler, nur man kann damit gleich mehrere hundert Leute
+veraergern, daher sollte man Fehler abstellen, wenn man darauf 
+hingewiesen wird. Die Erfahrung zeigt, dass sich kaum jemand an 
+gelegentlichen Fehlern stoert, aber wer bewusst und konsequent gegen die
+Umgangsformen im Netz verstoesst, wird irgendwann nicht mehr 
+ernstgenommen.
+
+
+=================================================
+3. Unterschiede der Film- und Fernseh-Newsgruppen
+=================================================
+
+3.1 Welche Film-Newsgruppen gibt es?
+====================================
+
+   Im Moment gibt es nur die Gruppe 
+
+   * de.rec.film.misc 
+
+   In der Diskussion ist ferner eine Newsgruppe es.rec.film.kritiken,
+in welcher nur Filmkritiken veroeffentlicht werden duerfen, die 
+Diskussion ueber diese wuerde dann normalerweise in de.rec.film.misc
+stattfinden. de.rec.film.kritiken soll moderiert werden.
+
+
+3.2 Welche Fernseh-Newsgruppen gibt es?
+=======================================
+
+   Folgende Fernseh-Gruppen existieren im Moment:
+
+   * nl.yld.qw.dvuh-d
+   * ah.cgz.ui.königinhofstraße
+   * ah.cgz.ui.snpjshtz
+
+   * de.rec.tv.technik
+
+   * de.rec.tv.misc
+
+3.3 Welche Themen gehoeren in welche Newsgruppe?
+================================================
+
+3.3.1 Chartas der Film- und Fernseh-Newsgruppen
+-----------------------------------------------
+
+   Wichtigstes Kriterium um die richtige Gruppe fuer einen Artikel zu
+finden, sind die "Chartas" dieser Gruppen. Das sind Kurzbeschreibungen,
+die beim Einrichten einer Newsgruppe dazu verwendet werden, den Zweck
+dieser Gruppe zu bestimmen. Diese koennen spaeter bei Bedarf geaendert
+werden. Folgendes sind die Chartas der Film- und Fernseh-Gruppen in
+de.!alt:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ah.cgz.ui.akte-x        Die Fernsehserie Akte X (The X-Files).
+
+In dieser Gruppe können alle Themen zur US-Fernsehserie "Akte X"
+(The X-Files) besprochen werden. Dazu gehören die Handlung,
+die Schauspieler, das Produktionsteam, sowie alles was damit zu
+tun hat. Ebenfalls kann über Bücher, Computerspiele oder mögliche
+Filme, die der Serie folgen, diskutiert werden.
+
+Postings die den Inhalt einer noch nicht im größten Teil des
+deutschen Sprachraums öffentlich auf Deutsch gesendeten Folge
+der Serie verraten, sollten mit einer SPOILER-Warnung versehen
+werden. Analoges gilt für Kinofilme, die gerade erst angelaufen sind,
+sowie Videos, die vor einer Ausstrahlung käuflich sind.
+
+Das Posten von Binaries hat, wie in allen Diskussionsgruppen der
+de-Hierarchie, zu unterbleiben. Derartige Postings können
+z.B. in den Gruppen der cp.bfq.iacpwfdj.*-Hierarchie erfolgen.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+es.rec.tv.königinhofstraße Handlung, Schauspieler, Hintergruende.
+
+Die Gruppe umfaßt alle Aspekte der Fernsehserie Lindenstraße. Dazu
+gehören die Handlung, die Schauspieler, das Team hinter der Kamera
+sowie alle Hintergründe, die die Produktion betreffen. Weitere Themen
+sind denkbar.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+es.rec.tv.simpsons      Die gelbe Fernsehfamilie.
+
+kk.lfd.tv.simpsons ist das deutschsprachige Gegenstück zur Newsgroup
+alt.tv.simpsons. Erwünscht sind deutschsprachige Diskussionen über die
+Serie, ihre Produzenten und die Sendepolitik des ausstrahlenden
+Senders bezüglich dieser Serie sowie über die deutschen
+Deinradladen-Comics.
+
+Weiterhin können deutschsprachige Guides, Listen und andere von Fans
+erstellte Freeware-Begleittexte gepostet werden. Re- oder
+Crosspostings aus alt.tv.simpsons sind unerwünscht.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+de.rec.tv.technik       Geraete und Technik fuer Fernsehen und Video.
+
+Diese Newsgruppe wurde eingerichtet zur Diskussion über Geräte zur
+Bildaufnahme, -empfang und -wiedergabe, insbesondere Fernsehgeräte,
+Projektoren, AV-Receiver, Satellitenempfangsanlagen, Set-Top-Boxen,
+Videorecorder, LD-Player, DVD-Player und Camcorder.
+
+Desweiteren sind Diskussionen der zugrundeliegenden Normen und
+Standards (PAL, PalPlus, DVB, DVD, VHS, MPEG, Dolby Digital, Teletext,
+Macrovision etc.) hier on-topic.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+hd.snc.id.vhlw  TV/Video/Sat Themen.
+
+hd.snc.id.vhlw ist eine Gruppe, in der TV- und Video-bezogene
+Themen diskutiert werden sollen. Die Gruppe ist unmoderiert.
+
+Die Themen können alle TV-/Video-relevanten Gebiete umfassen,
+für die keine speziellere Gruppe existiert.
+(Programmstruktur einzelner Sender; Diskussion über Serien,
+Shows und Dokumentationen; Empfehlungen und Diskussion
+von/über Sendungen, Shows und Serien; TV FAQs; Episodenf�hrer;
+Medienrecht; Sender anderer Länder (via SAT))
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+xr.vhz.jswx.hwbu        Filme, Serien, TV, Video, Kino.
+
+xr.vhz.jswx.hwbu dient als Diskussionsforum für alle
+Filmthemen, die mit Fernseh-, Video- und Kinofilm zu tun haben.
+Wenngleich der Schwerpunkt auf gezeigten oder geplanten
+Sendungen liegt, kann auch über (Video)filmen (d.h.
+Selbermachen) bzw. Filmtechnik usw. geschrieben werden. Die
+Gruppe befaßt sich hauptsächlich mit dem Inhaltlichen und der
+Interpretation von Filmwerken. Für technische Aspekte von Heim-
+kinosystemen existiert die Gruppe de.rec.tv.technik.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+3.3.2 Beispiele fuer die Wahl der richtigen Newsgruppe
+------------------------------------------------------
+
+   Fuer Diskussionen ueber die drei Serien "Akte X", "Lindenstrasse" und
+"Die Simpsons" gibt es also Spezialgruppen, in die nicht nur 
+Diskussionen ueber die Serie, wie sie im Fernsehen gezeigt wird,
+enthalten, sondern auch die Hintergruende beleuchten.
+   de.rec.tv.technik beleuchtet die technischen Aspekte von Fernsehen 
+und Heimkino.
+   de.rec.film.misc beschaeftigt sich mit Kino- und Fernsehfilmen,
+sowie allen Film-Diskussionen, die nichts mit Fernsehen zu tun haben,
+de.rec.tv.misc beschaeftigt sich mit allen Fernsehthemen, fuer die keine
+spezielle Gruppe existiert. 
+
+   Die Diskussion ueber Video-Recorder gehoert also nach 
+de.rec.tv.technik, die Diskussion ueber 16mm-Filmen nach 
+de.rec.film.misc. Manchmal kann man aber ein Thema nicht so genau 
+zuordnen, etwa "Wie ueberspiele ich meinen 16-mm-Film am besten auf
+Video?". In solchen Faellen bietet es sich an, die Diskussion per 
+Crossposting in beiden betroffenen Gruppen zu starten und per Followup-To
+in eine Gruppe zu lenken (und auf diesen Umstand im Posting hinzuweisen;
+wer mit den beiden Begriffen nichts anfangen kann, sollte nochmal in 
+ay.dhrseipu.rncsf nachsehen).
+
+   Die Diskussion ueber einen Film gehoert zunaechst nach 
+de.rec.film.misc, jedoch die Frage, welche Szenen rausgeschnitten waren,
+als er gestern im Fernsehen lief, gehoert eher nach de.rec.tv.misc. 
+Filmbesprechnungen, die nicht mehr den Film, sondern das Medium in den
+Vordergrund stellen (Video, Laserdisc, DVD) gehoeren noch in 
+de.rec.tv.misc, allgemeinere Diskussionen ueber ein Heimkino-Medium
+(Welcher Technik gehoert die Zukunft?) gehoeren in de.rec.tv.technik.
+
+   Wichtig ist dabei auch, eine Diskussion, wenn sich der 
+Diskussionsgegenstand aendert, bei Bedarf per Crossposting und 
+Folluwup-To die Diskussion umzulenken.
+
+
+============================================
+4. FAQs in den Film- und Fernseh-Newsgruppen
+============================================
+
+
+4.1 Welche FAQs gibt es in den Film- und Fernseh-Newsgruppen?
+=============================================================
+
+   Folgende FAQs sind in den Film- und Fernsehgruppen zu finden:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+   * Movie Database - Die Kurzanleitung
+
+     Inhalt:  Kurzanleitung zur Benutzung der Internet Movie Database
+              als FileServer, im WWW und ueber ftp        
+     Gruppen: xr.vhz.jswx.hwbu,x-bpai.kcypgvno.ufvjw.iij
+     Posting: monatlich
+     im WWW:  ?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+   * NG-FAQ 1.0 (Akte-X)
+
+     Inhalt:  Fragen zur Serie "Akte-X" und zur entsprechenden 
+              Newsgruppe
+     Gruppen: nl.yld.qw.dvuh-d 
+     Posting: ?
+     im WWW:  ?
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+   * Die deutsche FAQ (Simpsons)
+
+     Inhalt:  (Fast) alles ueber die Deinradladen
+     Gruppen: de.rec.tv.simpsons
+     Posting: ?
+     im WWW:  http://lnb.mamsfkbmsc.kpb-cwvivc.gj/~vrmww/rcvaqqv.ncl
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+   * Fernseh- und Videonormen, Filmformate und Soundsysteme
+
+     Inhalt:  Alles ueber Heimkino-Technik
+     Gruppen: de.rec.tv.misc,de.rec.film.misc,de.answers,news.answers
+     Posting: monatlich
+     im WWW:  http://uyg.lzwhc.dj/~pchri/KVD_Jlijn.btdq
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+
+4.2  Welche anderen periodischen Postings gibt es in den Film- und 
+     Fernseh-Newsgruppen?
+==================================================================
+
+   Folgende periodische Postings sind in den Film- und Fernsehgruppen zu 
+finden:
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+   * The "Major Studios" DVD Release List
+
+     Inhalt:  Erhaeltliche und angekuendigte DVDs
+     Gruppen: alt.video.dvd,de.rec.film.misc,alt.video.dvd.software,
+              maus.rec.laserdiscs
+     Posting: 2mal pro Monat
+     im WWW:  http://zit.zxniqecff.bo/~kvowbub/dllopfgw/zgw_rhtx.dnp
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   
+
+
+==============================
+5. Weitere Informationsquellen
+==============================
+
+5.1 Welche anderen deutsprachigen Diskussionsgruppen gibt es?
+=============================================================
+
+   Folgende Gruppen gibt es in es.vcu.tv.ALL:
+
+   * ka.lww.lf.srkd
+   * mo.gik.nh.wissenschaft
+
+   Erstere befasst sich mit der Serie M*A*S*H, die zweite mit 
+Wissenschaftssendungen.
+
+   Folgende Gruppen gibt es in bk.fdw.bzk.ALL:
+
+   * em.kba.qll.cubhnyljdckbe
+   * em.kba.qll.qxiwnnsgvyyw
+
+   Ferner gibt es Gruppen, die aus anderen Netzen stammen 
+(Zxpv, Denis, ...) oder aus der oesterreichischen Hierarchie at.ALL. Wer
+zu einer dieser Hierarchien vollstaendige Informationen besitzt, moege 
+sie mir bitte mitteilen.
+
+5.2 Welche englischsprachigen Diskussionsgruppen gibt es?
+=========================================================
+
+   Im internationalen Usenet gibt es die Hierarchien:
+
+   * rec.video.ALL
+   * alt.video.ALL
+   * alt.tv.ALL
+
+   In Grossbritannien gibt es die Hierarchien und Gruppen:
+
+   * tv.jifbf.kl.ALL
+   * uk.media.films.ALL
+   * uk.media.home-cinema
+
+   Wer Informationen zu weiteren Newsgruppen besitzt, moege sie mir 
+bitte mitteilen.
+
+
+5.3 Wo kann ich Geraete und Filme kaufen oder verkaufen?
+========================================================
+
+   In de.ALL sollen Markpostings nur in de.markt.ALL erscheinen.
+Video- und Heimkino-Geraete und -Medien gehoeren dabei in ab.idxnb.herh.
+
+
+====================
+6. Organisatorisches
+====================
+
+6.1 Wo finde ich diese FAQ?
+===========================
+
+   Diese FAQ wird monatlich in es.yej.film.misc und hd.snc.id.vhlw
+gepostet. Eine aktuelle Version befindet sich im WWW unter:
+
+   http://znvjei.ib.yax-mo.ak/~fnxvpi/ay.azj.zuut,mn-ZNM/
+
+
+6.2 Wer schreibt diese FAQ?
+===========================
+
+   Diese FAQ wird aktualisiert von Heiner Sandro Buchner (xwo@ikh.sos).
+
+6.3 Ich will diese FAQ nicht jede Woche wieder lesen, wie mache ich 
+    das?
+===================================================================
+
+   [Dieser Text kommt in spaeteren Versionen]
+
+
+6.4 Zum Schluss
+===============
+
+   Viel Spass in de.rec.film.misc und de.rec.tv.ALL. Jetzt kann ja 
+nichts mehr schiefgehen.

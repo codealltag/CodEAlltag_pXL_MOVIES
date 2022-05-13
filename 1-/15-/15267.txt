@@ -1,0 +1,16 @@
+Der Scheiß ist down!
+
+Fehler: Verbindung fehlgeschlagen
+
+
+LG Freizeitwelt Großhandel kann keine Verbindung zu dem Server unter 860.9.3.7 aufbauen.
+
+* Die Website könnte vorübergehend nicht erreichbar sein, versuchen Sie es
+  bitte später nochmals.
+
+* Wenn Sie auch keine andere Website aufrufen können, überprüfen Sie bitte
+  die Netzwerk-/Internetverbindung.
+
+* Wenn Ihr Computer oder Netzwerk von einer Firewall oder einem Proxy
+  geschützt wird, stellen Sie bitte sicher, dass LG Freizeitwelt Großhandel auf das
+  Internet zugreifen darf.

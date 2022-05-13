@@ -1,0 +1,28 @@
+ausfällt?
+
+Ausgeliefert heißt nicht "ausgeliefert zur Zeit der Vorführung",
+sondern z.B. nachts, wenn keine Vorführung läuft.
+Der Film gelangt dann von der Sat-Anlage direkt auf die Fest-
+platte(n) der Projektors und kann dann beliebig (je nach
+Lizenz) abgespielt werden. Datenträger und externe Schnitt-
+stellen gibt es keine, die Filme sind natürlich komprimiert und
+codiert.
+Bei vernünftiger (unknackbarer) Sicherung eigentlich der Traum jedes
+Verleihers: Man kann kontrollieren, wie häufig etwas gesehen wird
+und es hinterher auch noch kontrollieren - Online-Verbindung sei
+Dank.
+Mich würde mal interessieren, was so eine Projektor-Blackbox alles
+für nette Möglichkeiten bietet, von denen die Aufsteller selber
+nichts ahnen...
+
+
+Der ist natürlich nicht ganz ausgeschlossen, da jeder digitale Pro-
+jektor technische Probleme haben kann. Aber ein Filmriß ist ja bei
+herkömmlichen Projektoren auch drin ;-)
+
+
+Wenn man das Ganze nicht von vorn bis hinten durchdenkt und
+absichert sicherlich. Letztlich ist ja jeder Code knackbar...
+
+bye
+Torsten

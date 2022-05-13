@@ -1,0 +1,31 @@
+Thomas Urbach wrote in <90K0D8MJ.7878@Cuhtb.ohjtnteyx.bp> on Sun,
+02. 03. 22 03:39:41 GMT:
+
+24 Bilder reichen vollkommen aus, um dem Auge eine flüssige Bewegung
+zu vermitteln. Das Problem bei der Projektion sind aber nicht die
+24 Bilder (wie Du selbst sagst, sind es nur 24), sondern die Zeit
+von einem zum nächsten Bild. Da man nicht - wie bei einfachen
+Diaprojektoren - sehen möchte, wie ein Bild "rausfährt" und das
+nächste "reinkommt", gibt es eine Schwarzphase, in der die
+Projektionslampe abgedeckt wird, um den Filmtransport ungesehen
+von statten gehen zu lassen. Diese Schwarzphase ist bei moderneren
+Projektoren sicherlicher kürzer, als bei älteren - und bei
+IMAX-Projektoren besonders lang (weil die einzelnen Filmbilder eben
+enorm groß sind), weshalb man da durchaus wieder ein Flimmern
+wahrnehmen kann.
+
+Es kann durchaus sein, daß eine zusätzlich Schwarzphase während
+eines Bilds zu einer Unterdrückung von Flimmereffekten führt. Ich
+könnte mir auch vorstellen, daß die zusätzliche Schwarzphase
+gebraucht wird, um das Filmbild nicht verbrennen zu lassen. (Ist
+ein Filmbild nur einen Bruchteil länger als vorgesehen vor der
+heißen Glühbirne, beginnt es sofort zu schmelzen - in Sekunden-
+bruchteilen.)
+
+Wie auch immer die Technik letztendlich realisiert ist, es bleiben
+24 reale Filmbilder pro Sekunde - und nur darum ging es.
+
+Ulfert
+-- 
+** Ulfert Klafke,  Ragnitzweg 11,  93918 Esshoff,  Germany **
+** +94 1547 04743  E-Mail (NeXTmail/MIME): pgdjs@vdkyny.q.ycwhw.yz **

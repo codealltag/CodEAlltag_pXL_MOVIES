@@ -1,0 +1,22 @@
+In article <9ovdzdk9c6.jdk@vpbmcq.rtp.ik> frerich t <qd@vzfrul.eci.yp> writes:
+
+	[...]
+
+
+ MS> Da fehlt ein / am Ende. (Ja, ich weiss, dass es auch ohne
+ Groovy> geht. Weisst Du auch, wieso und wieso man es trotzdem angeben
+ MS> soll? :-)
+
+ tm> 
+
+	[...]
+
+ tm> 
+
+Die müssen einen interessanten Algorithmus benutzen.
+
+Wie bestimmt man nur anhand des Namens, ob eine Datei oder ein
+Verzeichnis gemeint ist?
+
+Die Clients haben nichts zuzudichten und wenn man auf ein Verzeichnis
+verweist, gehört ein "/" ans Ende des URI.

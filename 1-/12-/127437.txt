@@ -1,0 +1,18 @@
+Hallo,
+
+
+Ich gehe mal fast davon aus, daß man ein Programm, das variierende
+Schriftgröße auf Etiketten bringt, selbst schreiben muß. Für ein
+kommerzielles Programm mit den üblichen Hilfsmitteln (also Crystal
+Reports u. �.) ist der Aufwand einfach zu groß.
+
+Ich habe hier noch eine uralte selbstgeschriebene Filmverwaltung, die
+von CD zu Adressen alles archiviert (in Visual Basic). Ich bin mir
+allerdings nicht sicher, ob der Etikettendruck auf jedem Drucker
+funktioniert (sprich: richtig formatiert wird). Bei Bedarf kann ich die
+mal auf meine Seite hochladen. Ein Nachteil war eh, daß man Etiketten
+nur seitenweise ausgeben kann. Vielleicht tippsel ich in naher Zukunft
+mal was neues.
+
+Größe
+Volkmars

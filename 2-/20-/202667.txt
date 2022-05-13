@@ -1,0 +1,37 @@
+Ich wage zu behaupten, daß der Satz richtig formuliert war. Du
+meinst eher, daß er inhaltlich falsch ist. Und da stimme ich Dir
+- bedingt - zu. Wir sagen jeden Tag falsche Sachen (z.B. "die Sonne
+geht auf") und machen uns keine Gedanken um die wirklichen
+(physikalischen) Vorgänge - weil sie in dem Moment nicht wichtig
+sind.
+
+
+Aber wenn ich sage, daß die analogen Audiospuren analogen Ton
+enthalten, dann ist das ok? Dabei ist das technisch noch viel
+falscher - wenn man falsch überhaupt steigern kann. :-) Von der
+Laserdisc kommt sowieso nur _EIN_ kontinuierliches Signal, das vom
+Player in seine Bestandteile zerlegt werden muß. Jeder einzelne
+Teil wird anders aufbereitet: Bild, digitaler Ton, analoger Ton.
+Und auf dem "Raum", den bisher der rechte Analogkanal belegt hat,
+ist nun eben Dolby-Digital-Ton untergebracht - und der muß wieder
+anders aufbereitet werden (zum Glück ziemlich wenig und mehrheitlich
+im Dolby-Digital-Decoder). Hört man sich den fraglichen "Raum" an,
+wie er vom Analogaudioteil aufbereitet wird, dann hört der sich
+eben etwas komisch an, weil er falsch aufbereitet wurde.
+
+Da es also auf der Laserdisc nicht mal eine analoge Tonspur gibt
+(in dem Sinne, wie ein Mehrspurtonband wirklich viele Spuren hat),
+was ist da eigentlich die korrekte Formulierung? Ich könnte also
+das Frequenzband, daß bisher den analogen Ton für rechts gehalten
+hat, als die "Spur" bzw. den "Kanal" bezeichnen und dann sehr wohl
+sagen, daß Dolby Digital auf dem rechten analogen Kanal ist.
+
+Und wenn Dich mal wieder jemand fragt, warum Du Dolby Digital nicht
+aus einer Analog-Ton-Buchse bekommst, dann antwortest Du einfach
+mit der Frage: "Dann kann man Dolby Digital auch auf VHS-Video
+verwenden?"
+
+Valentin
+---
+** Valentin Amelunxen,  Nasnitzer Hauptstraße 62,  53152 Unterweickenhof,  Germany **
+** +51 0801 70785  E-Mail (NeXTmail/MIME): mrdgx@biysbb.d.rmhgq.ox **

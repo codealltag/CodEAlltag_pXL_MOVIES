@@ -1,0 +1,55 @@
+3. RfD zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            xr.ghi.film.misc
+                            ================
+
+Alte Tagline
+============
+
+nq.bdz.nlfn.acis       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Film ab! Nicht nur im Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Filmen, deren Schauspieler,
+Regisseure und Crews sowie Tricktechnik und Filmmusik diskutiert,
+solange es keine speziellere Gruppe zum jeweiligen Thema gibt.
+
+Hintergrund
+===========
+
+Siehe 1. RfD <Rfd-1-Aenderung-de.rec.film.misc-09.07.2002-1@dana.de>
+und 2. RfD <Rfd-2-Aenderung-de.rec.film.misc-16.07.2002-1@dana.de>
+und folgende Diskussionen
+
+Änderungen gegenüber 2. RfD
+===========================
+
+Buzzword 'Film' wieder in der Kurzbeschreibung enthalten.
+
+"Regisseure" wird durch Hinweise aus der Diskussionsphase zum 2. RfD
+aufgenommen.
+
+Proponent
+=========
+Niclas Pommering <crrdibr.eeiav@gu-ghfucvdrs.sl>
+
+-- 
+Fertige Artikel für xq.euwut.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <rauahblxu@pkid.uj>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <yglj:gd.bltbx.dynbv> und unter <http://iju.pvak.ld/wjw>.

@@ -1,0 +1,23 @@
+Schön sind bei Mitte bis Ende der 80er-Filme immer die 40x25-Bildschirme,
+auf denen irgend ein tolles Programm läuft, was die Welt versenken soll
+und auf dem Bildschirm etwas in der Form:
+
+10 FOR I=0 TO 99
+20 A(I)=I*ATN(I)
+30 B=B+A(I)
+40 NEXT I
+50 PRINT B
+60 END
+_
+
+steht. Manchmal gibt's das auch als 10-Zeiler mit MID$ und VAL-Befehlen.
+
+
+PS:
+Heißt Jean-Luc nun Hélène oder Hélène Jean-Luc ;-)
+
+-- 
+Rupert Wekenmann
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

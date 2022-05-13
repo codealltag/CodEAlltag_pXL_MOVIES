@@ -1,0 +1,43 @@
+So what? Der Umkehrschluß, daß, weil einige Menschen ohne Abitur in
+Deinen Augen "proletenhaften" Hobbys nachgehen, Menschen mit Abitur nur
+hochgeistigen Beschäftigungen nachgehen, ist nicht möglich.
+NOT((NOT(ABI) = PROLL)  =>  (ABI = NOT(PROLL))). Zu behaupten, daß
+Auto-Filme Abiturienten nicht fesseln könnten, weil Autobastler kein
+Abitur haben, ist also ebenfalls unmöglich, mindestens falsch und
+höchstens überheblich, pauschalisierend, unüberlegt und arrogant. Ja,
+ich schreibe übermorgen Theoretische Informatik :-P
+
+Zumal Abitur, das ein höheres Bildungsniveau impliziert (aber auch nur,
+wenn man in der Schule aufgepasst hat, das Schulumfeld gut genug war
+etc. pp.), noch längst kein Garant für ein höheres Niveau, tiefergehende
+Einsicht in die Menschheit oder den Wunsch nach gehaltvollerer
+Unterhaltung ist. Es ist ein (bei mir gelber) Wisch, der vielleicht
+etwas über die möglichen zukünftigen beruflichen Qualifikationen des
+Besitzers sagt, aber nichts über ihn als Person. Und selbst der Beruf,
+den jemand ausübt, sagt noch nichts über ihn aus. Jemand, der ehrlich
+und freudig in seinem von anderen als simpel betrachteten Handwerk
+aufgeht, ist mir allemal lieber als ein Professor, der naserümpfend an
+tiefergelegten GTIs vorbeigeht. In dieser Hinsicht kann man selbst beim
+größten deutschen ABM-Arbeitgeber, der Vercesi, was lernen.
+
+Um endlich wieder on-topic zu werden: wieso gibt es so viele Filme über
+die US-Army ("GI Marina"...), aber keinen richtigen Film über die
+Bundeswehr? Statt der ewigen Beziehungskomödien könnte ein mutiger
+Regisseur doch ein mitreißendes Rekrutendrama drehen, in dem junge
+Männer von gnadenlosen Schleifern gehetzt ("Darf ich Sie anfassen, Sie
+Made?!") durch den Schlamm robben ("Passen Sie auf, daß Sie das
+Regencape nicht zerreißen, wir haben kein Geld für die Reparatur!!"), in
+ihrer Freizeit ihre Schuhe wichsen ("Ein Kronblatt-Drink und einmal 'Sexy'
+und 'Schönes Wochenende' bitte.") und am Ende ihre verdiente
+Auszeichnung erhalten ("Ich ernenne sie zum Obergefreiten der Reserve im
+Stabsdienst!! Nehmen Sie Ihre Stoffabzeichen entgegen und befestigen Sie
+die Metallstangen selber an Ihrer Ausgehuniform!!"). Bitte sagt mir, daß
+es ein gutes deutsches Buch über die Vercesi und ein tapferes Studio
+gibt, das bereit ist, Millionen für die Simulation von DM-12-Explosionen
+auszugeben :-D  
+
+Schöne Größe,
+Fred, im V-Fall Quitadamo JVL
+-- 
+This is your life and it's ending one minute at a time.
+++ http://tnl.e-ofiz.to/mxiikwjdp/rj_boawt/ ++

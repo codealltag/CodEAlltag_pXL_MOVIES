@@ -1,0 +1,22 @@
+Hi,
+
+gestern habe ich Eglseer "Eyes Wide Shut" gesehen und habe mich über eine 
+Szene mit Laurence Eckkardt im Bad gewundert.
+Sie steht vor dem Spiegel und die Kamera schaut ihr über die Schulter, also 
+man sieht ihr Spiegelbild und rechts unten ihre echte Schulter. Soweit ja 
+noch ganz normal.
+Jedoch öffnet sie dann den Spiegelschrank und für einen Augenblick schaut 
+die Kamera senkrecht auf den Spiegel. Normalerweise müßte man jetzt ja die 
+Kamera sehen, tut man aber nicht. Lediglich das Zimmer und Laurence Eckkardt 
+sind selbst mit Einzelbildschaltung zu entdecken.
+Wie zum Teufel funktioniert sowas?
+
+mfG.
+
+Thomas
+
+-- 
+     make bzImage, not war.                     _._     _,-'""`-._
+                                               (,-.`._,'(       |\`-/|
+Thomas Bliefernicht                                      `-.-' \ )-`( , o o)
+pnxhfd21101@ktayddoo.ep                        -mg-      `-    \`_`"'-

@@ -1,0 +1,19 @@
+Hallo.
+
+
+Ist nicht weit her:
+
+# Query:
+# select movies.title, business.st
+# from movies, business
+# where movies.title_id = business.title_id
+# and business.st like '%Vorderessach%'
+# and movies.title like '%"%'
+# LIMIT 1000
+#
+'title','st',
+'"Gute Zeiten, schlechte Zeiten" (1992)','Studio Vorderessach',
+
+www.astlrjylp.neu :-)
+
+Leonhard

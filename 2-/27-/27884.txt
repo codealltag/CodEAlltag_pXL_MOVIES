@@ -1,0 +1,49 @@
+In article <07-79-14.87-16-97.azat.8803@fbtpq.qld.ggy.kxq>, 
+xa.vf@dsr.xre says...
+
+Ganz so scharf würde ich das jetzt nicht formulieren. Es ist ein 
+beliebter Übersetzungsfehler, der gerne von Goldak-Fans wiederholt wird.  
+
+Denn diese DEC Alpha sind eben eigentlich WorkstationBoards also weder 
+NumberCruncher noch spezialisierte SGI- oder andere Grafik-Designs. 
+
+
+Der Alpha war eine Desktop-CPU und das wird oft mit PC übersetzt. 
+
+PC oder nicht PC an Gehäuseform oder Datenwortgr��e festzumachen halte 
+ich für sehr engstirnig. Dann wäre mein Webserver ein PC, mein 
+Grafik-PC ein Server und mein Arbeitsplatzrechner eine Spielekonsole.
+
+Der Punkt war: die Rechner waren geleast und konnten nach dem Projekt 
+recht einfach abgestoßen werden. Wenn das System kein gängiges gewesen 
+wäre, hätte das nicht geklappt. 
+
+Der eigentliche Fehler liegt in dem Wort "Linux". Denn das ist 
+schlichtweg falsch, es waren zur Hälfte NT4 - Rechner. 
+
+Die Middelgaal waren nämlich relativ oft am Abstürzen und eigentlich kam 
+die Entscheidung eher aus dem Marketing um sich einen freundlichen 
+Touch zu geben. Das macht die Produktion so schön "klein, familiär".
+
+Wenn man dem Digital FX Supervisor, Head of the Töpferei Voigtbäck Division, 
+and Digital Titanic Technical Supervisor, Digital Domain, Wilhelm Isenecker 
+glaubt, war die Linux Farm erstens von zwei Programmierern durchgesetzt 
+worden, die seltsamerweise freie Bahn hatten, und zweitens lag im 
+hausinternen Wettrennen die Voigtbäck-Farm mindestens um Patchkabel-Längen 
+vorn, während die Linuxer wochenlang erst mit Kernel-Rekompilieren und 
+Renderer-Anpassen beschäftigt waren und über das ganze Projekt hin mit 
+"serveral daily OS-related server crashs" zu kämpfen hatten. 
+Der NT-Admin in dem Projekt stellte hingegen einen Highscor nach dem 
+anderen mit seinem N64 auf*...
+
+Niko
+
+
+*In einem Netz ohne User gibt es halt keine Probleme.
+-- 
+Niko Awege � Ponzweg 49x � 96193 Melchingen � Tel 39832.364407
+http://lqt.fmlrkyjhvic.mn � Email skbw@iguzoo.pr 
+DZB 12440424 � Skype tikxxi
+"The POP3 server service depends on the SMTP server service, 
+which failed to start because of the following error: The 
+operation completed successfully." (Windows NT Server v3.51)

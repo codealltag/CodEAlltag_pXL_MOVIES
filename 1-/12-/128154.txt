@@ -1,0 +1,26 @@
+F'Up2 de.rec.film.heimkino gesetzt
+
+
+Ist das jetzt eine Frage oder eine Feststellung? Ob hinten was
+raus kommt, kannst du doch hören.
+
+
+So ganz versteh' ich deine Frage nicht. Es scheint, als hast du
+ein Verständnisproblem mit der Funktionsweise von Dolby Surround.
+  Dolby Surround ist im Stereoton versteckt. Es gibt m. W. keine
+technische Möglichkeit, um zu ermitteln, ob ein Stereosignal nun
+eigentlich surroundkodiert ist oder nicht. Du kannst also den
+Dekoder ein- und ausschalten, wie du lustig bist. Das Ergebnis
+wird aber, bei einem nicht-surroundkodierten Signal, ein
+Zufallsprodukt sein.
+
+                                                ^^^^^^
+Ein Fragezeichen reicht. Das Leerzeichen vor dem Fragezeichen
+solltest du auch weglassen, sonst gibt es beim Zeilenumbruch
+merkwürdige Resultate.
+
+Im Gegensatz zu dem oben genannten, ist es bei DD möglich, eine
+Surround-Kennung mitzusenden, um dem Dekoder zu sagen: Das ist
+jetzt nicht nur Stereo, sondern sogar Dolby Surround.
+
+Valentino

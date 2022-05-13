@@ -1,0 +1,8 @@
+Nein. Achte mal auf meine Signatur.
+
+Torsten
+-- 
+Eine Signatur sollte nicht länger als etwa vier Zeilen sein und mit
+den Zeichen �-- � (ohne Anführungszeichen) in einer eigenen Zeile vom
+vorangehenden Teil des Postings abgetrennt werden. Manche Newsreader
+erledigen das automatisch.

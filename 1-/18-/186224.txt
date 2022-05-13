@@ -1,0 +1,23 @@
+Hallo Erwin,
+tut mir Leid, wenn ich gestern etwas unfreundlich geklungen habe, das war nicht
+beabsichtigt.
+Nochmal:
+Das DTS-Signal auf dem Film ist ein digitales Timecodesignal, das allein der
+Synchronisation dient (an welcher Stelle im Film wird welcher Teil der CD
+gespielt?).
+Dieses Signal ist im Kopierwerk so nah an die Perforation kopiert worden, daß es
+in einem Akt nicht fehlerfrei zu lesen ist, weshalb der Ton auf Alternativen
+(entweder SRD oder SR) umspringt. In der deutschen Version ist das, bei
+entsprechender Ausstattung der analogen Tonanlage, kaum zu hören, wohingegen es
+bei der englischen Version, die dann zwangsläufig auf _deutsch_ umschaltet,
+recht deutlich zu bemerken ist :-)
+
+Was meinst Du also mit Inhalt?
+
+Gerd
+
+--
+"Siehst Du /dieses/ Licht?" - Blues Brothers
+�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�~�
+Gerd Iserloh * Laurenziplatz 98 * 08819 Ganharting * Tel 4991/713458
+   Auvncymnpw@lgr.au  *  Fax 2398/645956  *  Mobil 5649/7822737

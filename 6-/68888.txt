@@ -1,0 +1,16 @@
+Ersetze r durch rr
+
+
+Ersetze n (am Zeilenende?) durch ein Leerzeichen?
+Oder durch nichts? Man muesste vorher vielleicht noch zu
+der gewuenschten Zeile springen. Pattern /Kenned/ oder so
+aehnlich...
+
+
+"Sorry, could not resist"
+
+
+Das sind Kommandos fuer den Zeileneditor ed (oder auch vi)
+unter Unix. Also ein ganz kryptischer Inside-Joke.
+
+	-Valerian

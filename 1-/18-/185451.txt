@@ -1,0 +1,13 @@
+$ grep 20 movies.list | grep 000 | grep -v " 2000 "
+20000 lieues sous les mers (1906)                       1906
+20,000 Leagues Under the Sea (1915)                     1915
+20,000 Feats Under the Sea (1916)                       1916
+20,000 Leagues Under the Sea (1953)                     1953
+"20,000 Leagues Under the Sea" (1996/I) (mini)          1996
+"20,000 Leagues Under the Sea" (1996/II) (mini)         1996
+
+-- 
+Hubert Bräuler
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

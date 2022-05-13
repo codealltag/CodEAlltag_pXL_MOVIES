@@ -1,0 +1,199 @@
+NG-Statistik drfm für den Mai 2004
+erstellt mit Ampelmann von Ben Venhorst.
+
+20/05: 3439 postings
+21/05: 1931 postings
+22/05: 2724 postings
+23/05: 1746 postings
+24/05: 2078 postings
+25/05: 2494 postings
+26/05: 2645 postings
+27/05: 2541 postings
+28/05: 2041 Postings
+29/05: 2242 Postings
+30/05: 1720 Postings
+31/05: 2227 Postings
+
+19/06: 1811 Postings
+20/06: 1576 Postings
+
+
+21/06: 1074 Postings
+
+Autoren mit den meisten Postings (1074 Postings)
+
+ Pos | Anz | Lin | KByte | Autor                 | Diagramm             
+-----+-----+-----+-------+-----------------------+----------------------
+   1 |  28 | 816 |  51.4 | Salvatore Jaenecke        |  2.6%  xxxxxxxxxxxxxx
+   2 |  26 | 987 |  71.5 | Siegfried Eickenroth         |  2.4%  xxxxxxxxxxxxx 
+   3 |  21 | 714 |  42.0 | Ludger Bross        |  2.0%  xxxxxxxxxxx   
+   5 |  19 | 550 |  33.4 | Oscar Liepelt            |  1.8%  xxxxxxxxxx    
+   6 |  18 | 319 |  27.5 | Volkmar R. Wiedenmeyer     |  1.7%  xxxxxxxxx     
+   7 |  17 | 452 |  28.4 | Ronald Puß            |  1.6%  xxxxxxxxx     
+  11 |  16 | 407 |  32.0 | Benno Heet          |  1.5%  xxxxxxxx      
+  13 |  15 | 183 |  17.0 | Hanno Underbrink         |  1.4%  xxxxxxxx      
+  14 |  14 | 449 |  26.9 | Hedi Zeiß      |  1.3%  xxxxxxx       
+  15 |  13 | 273 |  20.6 | Theodor Büthe          |  1.2%  xxxxxx        
+  18 |  12 | 301 |  23.0 | Theodor Tommes        |  1.1%  xxxxxx        
+  22 |  11 | 279 |  20.7 | Theodor Glatzer         |  1.0%  xxxxx         
+  24 |  10 | 255 |  16.8 | Hanno Bowinkelmann       |  0.9%  xxxxx         
+-----+-----+-----+-------+-----------------------+----------------------
+
+
+Autoren mit wenig Postings (295 Autoren)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                            
+       10 |   3 |  1.0%  x                                              
+        9 |  10 |  3.4%  xxx                                            
+        8 |   8 |  2.7%  xx                                             
+        7 |   6 |  2.0%  xx                                             
+        6 |   7 |  2.4%  xx                                             
+        5 |  13 |  4.4%  xxxx                                           
+        4 |   9 |  3.1%  xxx                                            
+        3 |  33 | 11.2%  xxxxxxxxxxxx                                   
+        2 |  52 | 17.6%  xxxxxxxxxxxxxxxxxxx                            
+        1 | 131 | 44.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (127 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Siegfried Eickenroth         |   8 |   105 |  6.3%  xxxxxxxxxxxxxxxxxxxx
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (127 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Siegfried Eickenroth         |   8 |   105 |  9.8%  xxxxxxxxxxxxxxxxxxxx
+   3 | Ivan Diebel           |   2 |    60 |  5.6%  xxxxxxxxxxxx        
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1074 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 |  89 | Ungeschriebene Hollywood-Regeln         |  8.3%  xxxxxxxxxx
+   2 |  52 | Sven = Gottfried Unkraut                      |  4.8%  xxxxxx    
+   3 |  46 | Ist Danielle Lüppert wirklich soo schlecht?  |  4.3%  xxxxx     
+   4 |  34 | Spiegel Kommentar zu UT bei "Der Unterga|  3.2%  xxxx      
+   6 |  33 | Kritik: Der Fluch - The Grudge          |  3.1%  xxxx      
+   8 |  31 | Gesucht: Schwäbischer Film?             |  2.9%  xxx       
+   9 |  30 | "Last Action Hero" - noch ok?           |  2.8%  xxx       
+  10 |  26 | Suche Sci-Fi-Film aus den ca. 80ern - bz|  2.4%  xxx       
+  11 |  25 | kurioser Einfall eines Kinobetreibers?  |  2.3%  xxx       
+  13 |  22 | Guter spanischsprachiger Film gesucht   |  2.0%  xx        
+  14 |  21 | Der Clown                               |  2.0%  xx        
+  15 |  20 | TV Tipps                                |  1.9%  xx        
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (127)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                              
+    10 |   1 |  0.8%  x                                                 
+     9 |   3 |  2.4%  xxxxx                                             
+     8 |   5 |  3.9%  xxxxxxxx                                          
+     7 |  10 |  7.9%  xxxxxxxxxxxxxxxxx                                 
+     6 |   7 |  5.5%  xxxxxxxxxxxx                                      
+     5 |   8 |  6.3%  xxxxxxxxxxxxxx                                    
+     4 |   6 |  4.7%  xxxxxxxxxx                                        
+     3 |  19 | 15.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+     2 |  11 |  8.7%  xxxxxxxxxxxxxxxxxxx                               
+     1 |  29 | 22.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (alle, 279 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  51 | Asialaden Outlook Express      | 18.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  46 | Atuf                        | 16.5%  xxxxxxxxxxxxxxxxxxxxxxx  
+  37 | Mozilla Thunderbird            | 13.3%  xxxxxxxxxxxxxxxxxx       
+  34 | Forte Agent                    | 12.2%  xxxxxxxxxxxxxxxxx        
+  22 | 40tude_Dialog                  |  7.9%  xxxxxxxxxxx              
+  11 | KNode                          |  3.9%  xxxxx                    
+  11 | slrn                           |  3.9%  xxxxx                    
+  10 | tin                            |  3.6%  xxxxx                    
+   7 | Netscape                       |  2.5%  xxx                      
+   7 | Xnews                          |  2.5%  xxx                      
+   7 | MacSOUP                        |  2.5%  xxx                      
+   6 | Hamster                        |  2.2%  xxx                      
+   6 | G2                             |  2.2%  xxx                      
+   5 | Forte Free Agent               |  1.8%  xx                       
+   3 | Gnus                           |  1.1%  x                        
+   3 | Pan                            |  1.1%  x                        
+   2 | GABW M2                       |  0.7%  x                        
+  <2 | 11 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+ 279 | GESAMT (28)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (25
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+   5 | Forte Agent                    | 20.0%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | Mozilla Thunderbird            | 16.0%  xxxxxxxxxxxxxxxxxxxx     
+   4 | Mozilla                        | 16.0%  xxxxxxxxxxxxxxxxxxxx     
+   2 | Microsoft Outlook Express      |  8.0%  xxxxxxxxxx               
+   2 | Gnus                           |  8.0%  xxxxxxxxxx               
+   1 | Netscape                       |  4.0%  xxxxx                    
+   1 | Xnews                          |  4.0%  xxxxx                    
+   1 | mutt-ng                        |  4.0%  xxxxx                    
+   1 | Forte Agent 32Bit (mit Hamster |  4.0%  xxxxx                    
+   1 | tin                            |  4.0%  xxxxx                    
+   1 | Hamster                        |  4.0%  xxxxx                    
+   1 | MesNews                        |  4.0%  xxxxx                    
+   1 | KNode                          |  4.0%  xxxxx                    
+
+
+Postingverteilung über den Monat (1074 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  70 |  6.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+   2 |  39 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+   3 |  23 |  2.1%  xxxxxxxxxxxxxxxx                                    
+   4 |  10 |  0.9%  xxxxxx                                              
+   5 |  51 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+   6 |  35 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   7 |  21 |  2.0%  xxxxxxxxxxxxxx                                      
+   8 |  16 |  1.5%  xxxxxxxxxxx                                         
+   9 |  31 |  2.9%  xxxxxxxxxxxxxxxxxxxxx                               
+  10 |  33 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  11 |  73 |  6.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  12 |  55 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  13 |  60 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  14 |  62 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  15 |  58 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx            
+  16 |  21 |  2.0%  xxxxxxxxxxxxxx                                      
+  17 |  32 |  3.0%  xxxxxxxxxxxxxxxxxxxxxx                              
+  18 |  40 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  19 |  14 |  1.3%  xxxxxxxxx                                           
+  20 |  17 |  1.6%  xxxxxxxxxxx                                         
+  21 |  18 |  1.7%  xxxxxxxxxxxx                                        
+  22 |  21 |  2.0%  xxxxxxxxxxxxxx                                      
+  23 |  18 |  1.7%  xxxxxxxxxxxx                                        
+  24 |   8 |  0.7%  xxxxx                                               
+  25 |  21 |  2.0%  xxxxxxxxxxxxxx                                      
+  26 |  36 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  27 |  19 |  1.8%  xxxxxxxxxxxxx                                       
+  28 |  13 |  1.2%  xxxxxxxxx                                           
+  29 |  21 |  2.0%  xxxxxxxxxxxxxx                                      
+  30 |  76 |  7.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  31 |  62 |  5.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+
+
+HTH ;-)
+Manuel
+-- 
+The trick is not to care.

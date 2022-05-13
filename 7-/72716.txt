@@ -1,0 +1,24 @@
+Oskar Depner wrote: 
+
+
+Hi Oskar. Ich verwende Fort Agent 1.92 Zumindest in meiner Version
+gibts unter "Options" --> "General Preferences" --> "Message List" den
+Punkt "Enable Threading by Subject"
+
+Das Ding deaktivieren, und wenn du den Agent as nächste Mal startest
+dann sollte das eigentlich passen.
+
+f'up2p da OT
+
+qgb
+Mathias
+
+P.S. Der Fort Agent ist in der Grundeinstellung mMn nach nicht viel
+besser als Outlook Express. Aber wenn (und das kann man) ihn gescheit
+einstellt dann ists einer der besten Newsreader die ich kenne.
+
+-- 
+Whether they ever find life there or not, I think 
+Jupiter should be considered an enemy planet. 
+
+                        - Cédric Bulte

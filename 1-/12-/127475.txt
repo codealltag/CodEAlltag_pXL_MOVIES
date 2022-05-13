@@ -1,0 +1,15 @@
+Hallo Vinzenz,
+
+
+Ja. "Vollständiges" SDDS ist 7.1, also 2 * Surround, einmal Subwoofer 
+(".1") und 5 Kanäle hinter der Leinwand (links, halblinks, mitte, 
+halbrechts, rechts). Diese Anordnung ist historisch bedingt, denn vor 
+50 (?) Jahren hatten viele Magnetton-Filme und Kinos 5 Kanäle hinter 
+der Leinwand. Damals waren die Leinwände allerdings noch größer.
+
+Es gibt aber auch 5.1-SDDS, was in den meisten Kinos heute üblich ist. 
+Dabei werden die Halbau�en-Kanäle einfach zu je 50% auf Center und 
+Links/Rechts verteilt. Für ein normalgroßes Kino reicht das auch aus.
+
+Gruß
+  Ronald

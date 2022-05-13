@@ -1,0 +1,19 @@
+Normalerweise findet man neue Animationstechniken aus kosten- und
+technischen Gründen zu allerletzt in Kinofilmen - dazu muß der Effekt
+erst einmal sinnvoll in ein langes Drehbuch integriert werden, und die
+Technik muß in großem Maßstab in vertretbarer Zeit Resultate liefern.
+
+Das galt erst recht früher, als hochauflösende Ausgabe auf Film noch ein
+großes Problem war - inzwischen hat sich die Qualität der Belichter und
+Beamer etwas verbessert und der Anspruch des Publikums an scharfe Bilder
+deutlich verringert.
+
+Praktisch alles, was ich je an CGI-Effekten in Kinofilmen gesehen habe,
+war zum Zeitpunkt der Veröffentlichung nicht technisch "neu", sondern
+man hatte den Effekt schon in Kurz- oder Fernsehfilmen bzw.
+-dokumentationen gesehen, und konnte ihn im Prinzip (von der schieren
+Masse und hohen Auflösung abgesehen) bereits seit längerem an normalen
+PCs (bzw. seinerzeit OptiMar, SURK oder Otes) mit leicht verfügbarer
+Software realisieren.
+
+Gruß Daniel

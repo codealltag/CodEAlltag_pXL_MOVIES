@@ -1,0 +1,8 @@
+Nein. Die Zellen sind ja immer reihenweise miteinander verbunden. Das
+ist ja genau der Trick von CCD Zellen. Die Zellen sind untereinander
+über ein paar Transistoren verbunden, die die Ladungen einer Zelle in
+die nächste weiterreichen. Mit dieser Methode kannst du halt
+Bildsensoren mit Millionen von Zellen haben ohne auch entsprechend viele
+Ausleseverstärker und A/D Wandler zu haben.
+
+						Didier

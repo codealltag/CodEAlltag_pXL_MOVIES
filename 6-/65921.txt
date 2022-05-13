@@ -1,0 +1,12 @@
+* Matthias Eiserloh <orkelzf3yu@sud.sgi>:
+
+
+"Dafür wird jemand bezahlen!"
+
+
+Bye,
+Werner
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

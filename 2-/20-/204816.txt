@@ -1,0 +1,12 @@
+Hallo,
+
+ich weiss dass dies nur am Rande mit Filmen zu tun hat - dennoch
+finden sich hier wahrscheinlich die meissten Wissenden.
+
+weiss jemand, wo auf dem Scart (Euro-AV) - Stecker das Sync-Signal
+fuer den RGB-Eingang liegt? Ich will mir naemlich grad einen Adapter
+"SCART <--> getrennte BNC's fuer R/G/B/H-Sync/V-Sync" bauen, finde
+jedoch in keiner Beschreibung die Belegung der Sync-Signale auf dem
+Scart-Stecker.
+
+- Cédric

@@ -1,0 +1,48 @@
+nicht?
+
+Es basiert auf jeden Fall auf gesammelten Erfahrungen.
+z.B..
+Herdplatte anfassen --> [x] Nein, gefährlich, schon mal verbrannt.
+                        [ ] Ja, keine Argument dagegen
+
+Nur weil das ganze unterbewußt passiert und man
+diesen ja/nein Prozeß selber nicht wahrnimmt sondern einfach
+das Ergebnis als solches "nein, gefährlich" durchführt
+heißt das nicht das der Prozeß nicht standgefunden hat.
+
+Ich hab mal einen Bericht gesehen indem beschrieben wurde
+wie das Gehirn bzw. der Mensch Bewegungsabläufe Koordiniert.
+Das funktioniert im Prinzip genau so wie bei den Robotern
+
+Hand soll Glas greifen
+  -Gehirn schickt einen Befehl an die Hand (bewegung 30 cm
+    in diese Richtung, nach 2 sek stop) Ergebnis soll sein=
+    Glas gefaßt
+  -Hand führt die Bewegung aus (30 cm nach 2 sek stop)
+  -Hand gibt Signal an Gehirn "Position erreicht"
+   Für das Gehirn ist das Glas jetzt schon erreicht
+   ach wenn das Gehirn sich verschätzt hat beim greifen
+   so denkt es doch das es genau da ist wo es sein soll.
+
+  -Auge erfaßt neue Position schickt die Daten ans Gehirn
+  -Gehirn vergleicht Information Hand mit Information Auge.
+   Stimmen sie überein dann ist die Bewegung geglückt und
+   wird als erledigt angesehen, stimmen die Informationen
+   nicht überein folgt Neuberechnung und Korektur.
+
+Also das ganze sieht doch sehr mechanisch aus als wäre es ein
+Programm.
+
+Oder z.B wie das Auge funktioniert.
+
+Wenn man mit den Augen über eine Fläche führt also einer
+imaginären Linie nach so merkt man das das Auge den Strich
+nicht kontinuierlich folgt. Vielmehr handelt es wie ein
+Scanner. Es nimmt die Bilder Punktartig auf. Es führt
+zu einem bestimmten Punkt, stoppt und analysiert das bild
+führt dann weiter stoppt und analysiert wieder. Wenn man
+nicht aufpaßt merkt man das nicht aber wenn man sich
+selbst beobachtet merkt man das man dem imaginären
+Strich punktartig folgt etwas so ___.___.___.__.
+
+Wow bin ich off Topic gegangen

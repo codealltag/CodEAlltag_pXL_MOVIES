@@ -1,0 +1,24 @@
+Äußerst sinnvoll, wenn man keine replyfähige Mailaddresse angibt. T=
+olle
+Sache.
+[F'up 2 de.rec.film.heimkino]
+
+
+Es stimmt zwar das die VGA Ausgänge von Laptops häufig ziemlich mies
+sind, aber DVI ist keine Lösung. Die meistens Laptops haben gar kein DV=
+I
+und außerdem ist DVI lediglich bis 15m spezifiziert, wobei die meisten
+Transmitter schon davor keine zuverlässige Verbindung hinbekommen.
+Extrem teure Speziallösung wie Wandler von DVI auf Glasfaser und zurü=
+ck
+mal außer acht gelassen, dürfte VGA über ein möglichst gutes Kabe=
+l
+(einzelne Koaxleitungen für RGBHV) (evt. mit Verstärker) wohl noch di=
+e
+beste Lösung sein. Beamer haben eh selten eine Auflösung größer a=
+ls
+1024x768, weshalb sich auch die miesen VGA Ausgänge weniger bemerkbar
+machen. Falls die Treiber im VGA Ausgang des Laptop etwas schwach sind,
+dann hilft ja immer noch ein zusätzlicher Verstärker.
+
+						Ivano

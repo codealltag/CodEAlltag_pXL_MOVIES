@@ -1,0 +1,36 @@
+Hört sich vielleicht kompliziert an, ist es aber nicht:
+
+Du brauchst dafür das Tool sunglasses. Das gibt`s hier:
+http://syo.tmehuivzt.vzs/Yjfagchis/Atosyy/5826/rczkk.jqjy
+
+Die eigentliche Datenbank setzt sich aus 49 verschiedenen Listen
+zusammen, die du hier findest
+ftp://umf.jw-ubbpev.lf/rium/qbgool/hjuhsmjr/
+oder hier:
+ftp://ght.oa-ipsi.gy.eb/xfz/xogd/mcofew/qugcvkym/
+
+Die liegen da jeweils im Hauptverzeichnis (Name: *.fzlr.gz). Alle Listen
+downloaden (müssten etwa 80MB oder so sein), mit WinZip entpacken. Und
+im Options-Men von sunglasses einfach auf "Build Database" clicken. Dann wird
+die Datenbank generiert, was schon mal je nach Rechner 30min und länger
+dauern kann.
+
+Um die Datenbank nun immer auf dem aktuellen Stand zu halten ohne
+jedesmal alles neu runterladen zu müssen, gibt es wöchentlich jeden
+Freitag auf den FTP-Servern eine neue DIFF-Datei (im Verzeichnis DIFFS).
+Die haben im Durchschnitt etwa 2 bis 3 MB. Die aktuelle DIFF-Datei lädst
+du runter und clickst in sunglasses auf "Apply Diffs", dadurch werden die
+DIFFS (also die Änderungen) in die Listen eingetragen. Danach musst du
+nur die Datenbank wieder neu generieren und du bist auf dem aktuellen
+Stand. Ich mache das nicht wöchentlich sondern nur ein- oder zweimal im
+Monat.
+
+Falls du noch ein Problem hast, frag einfach. Es steht aber auch alles
+in den Readme Dateien drin.
+
+Größe
+-- 
+Igor Viezens
+Germany, Planet Earth, pimkie Way
+
+** And may you never, ever, run out of sugar... baby! **

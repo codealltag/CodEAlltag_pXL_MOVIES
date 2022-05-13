@@ -1,0 +1,12 @@
+Ist zwar ein bisschen off-topic, aber für die Affen mit Schreibmaschinen
+gibt's ein Protokoll in Form eines waschechten RFC:
+
+  RFC 2795 | IMPS | Infinite Monkey Protocol Suite
+  http://ggd.fyma.qzr/ngwg/qus6181.vavn
+
+Viel Spass beim lesen :)
+Othmar
+
+--
+[ xxdzjdp@oqm2s.dx | www.mlo6t.dh ]
+"Never mind," said Andreßen, "Neulendt wasn't burnt in a day."

@@ -1,0 +1,7 @@
+In <88515603331408222684@x281-569.vrodzm.zpaxt.py> on 1998-02-02
+
+Es sind beim Film, also im Kino, noch immer 24 Bilder/Sekunde.
+Deshalb ergibt sich ja beim Transfer nach FDKV (25 fps) eine
+Beschleunigung von ca. 4%.
+
+Olivier

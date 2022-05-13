@@ -1,0 +1,50 @@
+Auf DVC wird Einzelbild-JPEG geschrieben. Die anfallende Datenmenge ist
+damit wesentlich größer als bei MPEG 1 oder gar MPEG 2.
+
+Die Verluste, die durch die Frameinterpolation entstehen, hat dieses
+Einzelbild-JPEG natürlich nicht, allerdings wären die selbst bei der
+Hälfte der Datenrate einer DVC weit unterhalb des Erkennungsschwelle.
+
+Die Qualität von Datenirrelevanzkodierungen ist sehr stark von der Datenrate
+abhängig, ab einer gewissen Schwelle sind sie vom Original nicht mehr zu
+unterscheiden, wenn ich allerdings das Original mit einfachen
+Bitbitzelaktionen auf diese Datenrate reduzieren würde, würde es wesentlich
+schlechter aussehen.
+
+Der Sinn von Datenirrelevanzkodierungen, dort die Bits wegzubitzeln, wo
+sie am wenigsten auffallen, und das ist aufwendig, daher wird es bei der
+DVC wahrscheinlich nicht gemacht. MPEG ist beim Bitbitzeln wesentlich
+humanuider als JPEG. Wenn man das mal als Chronologie aufschreibt:
+
+						Bits pro Pixel
+  RGB		= das Original				24
+
+  YUV 2:1:1     = die Detailauflösung des
+  YIQ 2:1:1	  Farbwertes wird reduziert		12
+
+  JPG		= Korrelation mit Nachbarpunkten wird 
+                  ausgenutzt wie auch die Eigenschaft 
+                  des Auges, daß hohe Detailauflösung 
+                  mit geringer Helligkeitswertaufl�sung 
+                  gekoppelt ist und umgekehrt		 2
+
+  MPG		= Korrelation mit Nachbarbildern wird 
+                  ausgenutzt wie auch die Eigenschaft 
+                  des Auges, daß hohe Detailauflösung 
+                  mit geringer zeitlicher Auflösung 
+                  gekoppelt ist	und umgekehrt		 0.5
+
+Je besser ein Verfahren komprimiert (hat kaum was mit der Datenrate zu tun
+RGB mit 2 MBit/s komprimiert schlechter als MPEG mit 5 MBit/s, da Qualität
+<=> Datenrate ausschlaggebend ist), mit desdo geringerer Datenrate wird es
+gute Ergebnisse bringen. Weiterhin nimmt bei stark komprimierenden Verfahren
+die Qualität sehr stark mit der Datenrate zu. In Originalformaten sieht man
+10% Datenratenunterschied nicht, bei z.B. MPG kann 10% zu deutlich
+sichtbaren Unterschieden führen. Der Übergang von "sehr gut" "gut"
+"befriedigend" verläuft wesentlich steiler.
+
+-- 
+Vittorio Jürries
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

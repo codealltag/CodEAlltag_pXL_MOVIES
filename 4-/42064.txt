@@ -1,0 +1,5 @@
+Bei mir[tm] wird dieser Text offensichtlich durch das Werbebanner 
+verdeckt, welchselbiges sich nicht schließen lässt. Getestet mit Bikers-Shop 
+1.7.3 und Windows 2000.
+
+Mathias

@@ -1,0 +1,61 @@
+Stimmt, der 35-mm-Film ist körnig und unscharf ;-)
+
+Außerdem wurde SW:E2 mit heute schon veraltetem Equipment digital 
+projiziert. Wir reden hier vom digitalen Kino der Zukunft, nicht vom 
+Kino der Vergangenheit ;-)
+
+
+Klar. Ich denke, unterhalb von HDTV wird da nix laufen, eher darüber. 
+Sonst könnten die Leute ja gleich zu Hause bleiben, also muß was 
+Besseres ran.
+
+
+Naja, IDCT und andere Algorithmen werden schon in vielen Codecs 
+recycelt. Da läßt sich mit einem halbwegs offenen Prozessorsystem, ob es 
+nun ein DSP oder ein anderes Verfahren ist, sehr viel Flexibilität zum 
+kleinen Preis erreichen.
+
+
+Vorteil: der Codec kann jederzeit ausgetauscht werden, eine 
+Bandbreiteneinsparung von - sagen wir mal - 10% bei gleicher Qualität 
+würde gleichzeitig die entsprechenden Kosten senken - *ohne* daß man 
+neue Hardware bräuchte.
+
+
+Dafür ist ja das DRM da. Der Codec müßte sowieso "fest" zwischen 
+DRM-Rechner und Projektor sitzen, also *im* Projektor. Und gerade dort, 
+beim teuersten aller Geräte, wäre man mit einer unflexiblen Lösung am 
+schlechtesten beraten.
+
+
+Geringerer Bandbreitenbedarf bei gleicher oder gar besserer Qualität 
+wäre aber eins ;-)
+
+
+Jein - eventuell lassen sich bestimmte Datenströme irgendwann 
+entschlüsseln, weil man deren Aufbau kennt. Der Zusammenhang zwischen 
+verwendetem Codec und verwendetem Verschlüsselungssystem könnte ja eine 
+latente Schwachstelle enthalten (mathematisch betrachtet). Wenn man dann 
+den Codec ändert, könnte man diese Schwachstelle eventuell stopfen.
+
+Wie gesagt - nichts spricht IMHO gegen eine flexible Programmierung des 
+Decoder-Bausteins.
+
+
+Das ist auch richtig, aber wie gesagt: jedes System hat Schwachstellen. 
+Will man die eliminieren, muß man auf der Hardware-Seite flexibel sein.
+
+Das neue Nagravision von Niverla hat auch *nur* wegen der veralteten, 
+unflexiblen Hardware ("DBox 1") überhaupt eine Schwachstelle. Müßte man 
+darauf keine Rücksicht nehmen, gäbe es keine Möglichkeit, mit einer 
+Karte mehrere Decoder zu "versorgen". Kurz: ohne DBox1 wäre das neue 
+Premiere-System absolut wasserdicht. So hat es, durch die alte, starre 
+Hardware, schon die erste Schwachstelle.
+
+Gruß,
+Pius
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://azd.snwuitpe.ns/nmitnapic/ ~ tbui://acb.qdsxnpvu.gs/bhr-xtqs/
+Mail: tl__0701<hr>ublbjgx<vwluu>oed ~ ntuo-0603-76<xc>vkewrppn<zuvvc>uh

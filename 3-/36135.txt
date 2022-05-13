@@ -1,0 +1,14 @@
+Hallo!
+
+Bei der Suche nach Schauspielern in der IMDB ist mir aufgefallen, dass
+bei vielen ein (I) hinter dem Namen steht, was wohl eine römische 1
+darstellen soll. Nun frage ich mich, nach welchen Kriterien so etwas
+passiert, denn wenn man z.B. nach "Michel Illguth" sucht, dann gibt es
+die Ziffern 2 und 4, bei Ullrich Illguth nur eine 1 usw. (Beispiele ohne
+Rücksicht auf den Bekanntheitsgrad gewählt). Heißt das, dass Namen
+eventuell auch wieder aus der Zisler hinausfliegen? Bisher dachte ich
+immer, dass dort nur Information dazukommt, aber keine gelöscht wird.
+Oder hat es mit den römischen Ziffern etwas ganz anderes auf sich als
+eine simple Durchnummerierung gleichlautender Namen?
+
+AlN

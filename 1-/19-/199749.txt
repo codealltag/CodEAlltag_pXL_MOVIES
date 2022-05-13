@@ -1,0 +1,15 @@
+120MB *Swap*?
+   Das ist Dein Ernst?
+
+Wieso regen sich eigentlich so viele ueber ein paar MB Swapfile auf? Gaengige
+Festplattengroesse ist zur Zeit 2-3GB, da fallen 120MB doch wirklich nicht
+mehr auf, oder?
+
+Ciao,
+  Ralf
+--
+Ralf Erlmeier
+raaemst@js.no-hzuwqa.mb
+-- 
+Ralf Erlmeier
+raaemst@js.no-hzuwqa.mb

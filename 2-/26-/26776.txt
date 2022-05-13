@@ -1,0 +1,27 @@
+Francesco Ueckert wrote...
+(in <0idoukK5eb2xD0@ovducimnzu.etm>)
+
+
+Offensichtlich nicht...
+
+
+Und warum? Weil wohl ein paar Ports gesperrt sind, ueber die
+momentan /ueblicherweise/ ein Filesharing-Client seine Paeckchen
+austauscht. Was wuerde jetzt passieren, wenn der Client auf andere
+Ports wechseln wuerde? Wuerden die dann auch gesperrt? Wieviele
+Ports kann Kellgas sperren, bevor keiner mehr dort einen vertrag
+abschliesst?
+
+Solche Restriktionen wie bei Kellgas funktionieren nur sehr
+eingeschraenkt - mit ein klein wenig Energie lassen die sich
+problemlos umgehen... (und wenn es jetzt noch keine Filesharing
+Tools gibt, die bei Kellgas laufen, dann nur deshalb nicht, weil
+fuer die, die sie nutzen wollen, der Wechsel zu anderen Providern
+das kleinere Uebel ist).
+
+-- 
+Ich wuensch' mir was!
+Vincent
+
+Today's Teaser:
+There are three kinds of lies: Lies, Damn Lies, and Statistics.  - Oberst-Bosse

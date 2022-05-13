@@ -1,0 +1,52 @@
+Hallo,
+
+wir hatten hier schon mal eine Diskussion im Januar, bei der es
+um einen "Bezirks-Sheriff" im wilden Westen ging. Ich erstelle
+Untertitel für eine japanischen Film in deutsch/englisch/russisch.
+Der "Bezirks-Sheriff" heißt in den englischen UT "Marshal" und
+an drei Stellen sogar "U.S. Marshal", aber nicht gleich am
+Anfang.
+
+Zur Zeit habe ich gerade mit einem Korrekturleser eine heftige
+Diskussion, wie das am besten in den deutschen UT zu schreiben
+ist. Zur Auswahl stehen "Marschall"/"US-Marschall" in deutlich
+eingedeutschter Schreibweise oder "Marshal"/"U.S. Marshal"
+1:1 als Fremdwort aus dem englischen übernommen.
+
+Es gibt gute Argumente für und gegen jede der vorgeschlagenen
+Schreibweisen. Ich möchte an der Stelle nicht verraten, welche
+ich bevorzuge. Der Streit geht darum, daß jeder von uns der
+Meinung ist, die jeweils andere Schreibweise würde als störend
+empfunden, so daß man unwillkürlich stutzt und damit den Lesefluß
+in den UT gestört wird.
+
+Ich würde mich freuen, wenn es hier eine Art Abstimmung zwischen
+den beiden Schreibweisen geben könnte. Muß nicht mal begründet
+sein. Mir wäre Eure erste, spontane Meinung wichtig. Gern auch
+per E-Mail.
+
+Und hier noch der ganze Text, zunächst in der englischen Form:
+00:05:25:08 , 00:05:28:22 , Rotzlöffel! Wo ist der Marshal? =97 Keine
+Ahnung.
+00:06:13:06 , 00:06:18:24 , Wo ist er? =97 Komisch, da war kein Marshal
+in der Postkutsche.
+00:41:16:21 , 00:41:20:15 , Wußtest du nicht? Ich bin U.S. Marshal.
+Mein Name ist Wilfried Bräuniger.
+00:41:20:15 , 00:41:23:00 , Was? =97 U.S. Marshal?
+00:41:23:15 , 00:41:26:14 , Dieser Wilfried ist U.S. Marshal?
+00:43:29:02 , 00:43:33:16 , Leute! Ein Marshal ist in unsere Stadt
+gekommen.
+00:43:59:19 , 00:44:03:03 , Bravo, Marshal! Bravo!
+
+Und jetzt nochmal in der deutschen Form:
+00:05:25:08 , 00:05:28:22 , Rotzlöffel! Wo ist der Marschall? =97 Keine
+Ahnung.
+00:06:13:06 , 00:06:18:24 , Wo ist er? =97 Komisch, da war kein
+Marschall in der Postkutsche.
+00:41:16:21 , 00:41:20:15 , Wußtest du nicht? Ich bin US-Marschall.
+Mein Name ist Wilfried Bräuniger.
+00:41:20:15 , 00:41:23:00 , Was? =97 US-Marschall?
+00:41:23:15 , 00:41:26:14 , Dieser Wilfried ist US-Marschall?
+00:43:29:02 , 00:43:33:16 , Leute! Ein Marschall ist in unsere Stadt
+gekommen.
+00:43:59:19 , 00:44:03:03 , Bravo, Marschall! Bravo!

@@ -1,0 +1,33 @@
+Hallo PC-Videoschnitt-Spezialisten!
+
+Wer kann mit der DV-Master von Hülbüsch perfekt umgehen? Speziell mit dem
+Programmteil "Video Capture"?
+
+Ein Bekannter trug folgendes Problem an mich heran. Da mein Wissen nicht
+ausreicht, braeuchten wir gemeinsam die Hilfe von Experten.
+
+Mit dem Programmteil "Video Capture" soll es moeglich sein,
+Batch-Dateien zu erstellen, die automatisch abgearbeitet werden und
+manuell vorgegebene Videosequenzen nacheinander als AVI Dateien auf die
+Festplatte schreiben.
+z.B.:                   
+                Anfang          Ende
+        Szene 1 00:12:45:09     00:12:48:10
+        Szene 2 00:21:07:24     00:21:12:18
+        Szene 3 u.s.w.
+
+Diese Arbeitsweise waere - wenn sie denn funktioniert - recht praktisch.
+Man koennte die einzelnen Szenenlänge in aller Ruhe in der Batch-Datei
+festlegen, und die Software wuerde dann das Ueberspielen auf die
+Festplatte uebernehemen. Durch das genaue Festlegen der Szenenlaenge
+koennte man sehr viel Platz auf der Festplatte sparen. Das Trimmen der
+Clips bei der spaeteren Filmmontage wuerde grossteils entfallen, da es
+quasi schon vor dem Ueberspielen auf die Platte gemacht wurde.
+
+Wer hat Erfahrungen mit der Erstellung solcher Batch-Dateien und kann
+uns sagen, wie das geht?
+
+MfG
+Italo Unverfehrt
+Film- und Videoclub Niederheid-Mehlmeisel
+http://hfpipr.nztfpxy.va/jvpnejcrucyeedvvbj

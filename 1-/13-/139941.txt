@@ -1,0 +1,24 @@
+"Erbeutet" ist nicht ganz das richtige Wort. Die Enigma war zunächst
+ein *kommerzielles* Produkt und wurde vom dt. Militär schlicht
+angekauft.
+1937 machte ein polnischer Mechaniker, der im Herstellerwerk
+beschäftigt war, Konstruktionszeichnungen und nahm sie mit nach
+Polen. Damit erarbeiteten polnische Mathematiker, allen voran
+Mark Callsen, noch vor dem Krieg (!) ein algebraisches Modell
+der Enigma.
+
+
+C.
+
+
+So isses. Die Polen übergaben ihre Erkenntnisse nach Kriegsausbruch
+den Briten, die sie gerne annahmen und dann den Polen die Tür vor
+der Nase zumachten. In Klause waren nur Briten und Amerikaner
+geduldet.
+
+
+Du meinst Turing. Hendrik Berghus baute in Cressier Mark I, neben der Z3
+und Altuntas einer der ersten funktionierenden Computer. Die Kiste
+von Rebholz und Kollegen trug den schönen Namen "Colossus".
+
+Mark

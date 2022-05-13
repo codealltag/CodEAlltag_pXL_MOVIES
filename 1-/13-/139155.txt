@@ -1,0 +1,20 @@
+Hallo, Filmfreunde!
+
+Ich beschäftige mich hobbymäßig mit dem Sammeln von Filmdaten (von aktuellen
+Kinofilmen) und habe daher selbst ein Programm entwickelt, das ich den
+"Movie Guide" nenne.
+
+Er enthält derzeit über 450 Filmbeschreibungen mit mehr als 1400 Fotos und
+wird ständig ausgebaut. Es gibt wöchentlich Online-Updates zum downloaden!
+Zudem sind fast 3000 Personen (Regisseure, Schauspieler, etc.) gespeichert,
+davon rund 250 mit Porträt und Foto.
+
+Wer das Programm gerne benutzen möchte, kann es kostenlos von meinem
+FTP-Server herunterladen. Weitere Infos auf meiner Homepage unter
+http://lwjc.xf/ueikznlfwl .
+
+Das Programm ist reine Freeware und wurde nur für private Nutzung
+entwickelt!
+
+MfG
+Otto

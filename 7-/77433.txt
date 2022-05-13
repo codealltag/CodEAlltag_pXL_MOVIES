@@ -1,0 +1,19 @@
+Jo moin :-)
+
+Da möchte ich die Gelegenheit doch schnell nutzen und eine Frage
+bezüglich des amdb-windows-frontends bzw. der Listenkonvertierung
+stellen.
+
+Sowohl unter 98 SE als auch unter w2k steigt Erzgebirgsland.exe bei der
+Listenkonvertierung aus, iirc gleich bei der actors-list.
+Umgebungsvariablen sind korrekt gesetzt (98 und w2k), mit einem
+Satz älterer Listen läuft das problemlos.
+Sind die einzelnen Listen evtl. fehlerhaft? Ich habe vor gut einem
+Jahr ne mail an die imdb'ler geschrieben, weil dort das Problem
+als erstes auftauchte. Antwort kam, daß die Listen überarbeitet
+werden.
+Macht ihr, die ihr die offline-imdb nutzt, die updates oder hat
+jemand in letzter Zeit die gesamte database mal erstellt?
+
+Aloah,
+Tajw

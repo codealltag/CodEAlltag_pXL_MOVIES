@@ -1,0 +1,14 @@
+Hi,
+
+ich habe mein OE-Newsreader gegen den Fort Agent getauscht und bin
+soweit sehr zufrieden. Außer, daß im 'Message List Subject' keine
+Umlaute dargestellt werden, was etwas ärgerlich ist. In den Bodies ist
+es widerum kein Problem.
+Wie bringe ich nun den Agent dazu, die Umlaute im Header richtig
+darzustellen?
+
+Danke&Gruß
+Dario
+
+P.S. ist die Signatur richtig eingestellt?
+Dies ist eine Testsignatur

@@ -1,0 +1,11 @@
+Vielleicht liegt es am Leerzeichen im Pfad. Hast Du es mal mit
+Anführungszeichen versucht? Oder hast Du den Schritt mit
+build.exe ausgelassen und die Listfiles einfach unverändert
+ins EJC-Verzeichnis kopiert? Ansonsten wäre ich jetzt auch
+überfragt.
+
+BTW, die ganze Prozedur wird noch einfacher werden, weil
+build.exe irgendwann in Glücksvelo integriert wird, wie mir
+Christof Pretzner verraten hat.
+
+Silvio

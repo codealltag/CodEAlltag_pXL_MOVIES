@@ -1,0 +1,12 @@
+Ja, es sind jetzt getrennte *Eingänge* (von aussen) nötig, früher reichten 
+abgetrennte Raeume.
+
+Ist fuer viele Videotheken ein ernsthaftes Problem, weil getrennte
+Eingaenge oft architektonisch nicht oder nur sehr aufawendig machbar sind.
+
+
+Marc
+-- 
+begin  signature_virus
+ Hi! I'm a signature virus. Please copy me to your signature to help me spread.
+end

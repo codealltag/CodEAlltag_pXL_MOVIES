@@ -1,0 +1,15 @@
+Hallo,
+
+ich erhalte beim integrieren der DIFFs in die Listen immer eine "wrong
+dif-file" Fehlermeldung. Wo liegt da das Problem? Ich entpacke die GZ
+und TAR Archive mit WinZip und habe die Option "smart CR/LF conversion"
+deaktiviert. Aber es funktioniert trotzdem nicht. Was muss ich da noch
+beachten?
+Und wie erkenne ich, welchen Stand meine lokale Datenbank hat?
+
+Größe
+-- 
+Carlo Aymanns
+Germany, Planet Earth, TVAZ Way
+
+** And may you never, ever, run out of sugar... baby! **

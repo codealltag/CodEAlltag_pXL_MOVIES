@@ -1,0 +1,119 @@
+Hallo Sandro,
+
+Gut so.
+
+Ich hab's mal getestet. Konnte mir es leisten, da ich erst Samstag nacht ein
+Komplett-Backup meines Rechners gemacht hatte, das jetzt auch wieder drauf
+ist ...;-)
+
+Um Deine Neugier zu befriedigen: Da ich als Systemadministrator einer Schule
+und Onkel dreier computerbegeisteter Neffen zunehmend mit dieser Problematik
+konfrontiert bin, bin ich da sensibilisiert.  Erst kürzlich habe ich wieder
+einen - fremden - Rechner von zwei Dialern bereinigt, die sich mein Neffe
+offenbar auf irgendwelchen Cheats-Seiten gefangen hatte. Dank Firewall blieb
+die Telefonrechnung sauber. Aber darauf kann man sich nicht bei allen
+Dialern verlassen.
+Normalerweise komme ich selbst nicht auf Seiten, wo mir ein Dialer angeboten
+wird. Also ein gefundenes Fressen für einen Test...;-)
+
+Zu _diesem_  Dialer:
+Ein Rechtsklick auf den URL läßt den eigentlichen Namen "dialer.exe"
+erkennen. Da man URLs in der Regel nicht mit Rechtsklick ansteuert, sieht
+der Benutzer davon aber nichts. Stattdessen startet er mit Doppelklick wohl
+eben diese .exe-Datei, möglicherweise das Setup-Programm des Dialers. Dessen
+Startbildschirm wartet brav im Hintergrund. Deshalb sieht man ihn erst,
+nachdem man  IE und Newsreader wieder geschlossen hat. (Zwischenzeitlich war
+ich eine Sekunde auf dieser Seite des "Efene", habe dort aber außer einer
+Sammlung von URLs vor purpurnem Hintergrund nichts gesehen. Die habe ich
+natürlich nicht ausprobiert.
+Der Startbildschirm stellt sich im Dialogtext als X-Diver (Bild unter
+www.nyjwfhjwbcfb.zj ) vor, in der Menüzeile wird er angekündigt als "Update
+der Internetverbindung". Brav wird auch noch darauf hingewiesen, dass die
+Einwahl 25 Euro kostet. Das ist nach dem kürzlich erfolgten Rückzug der 300
+Euro- und 900-Euro-Dialer der höchste verbliebene Tarif für einen Dialer,
+den die Firma namens Mälzer vertreibt. (Infos dazu unter
+www.nyjwfhjwbcfb.zj ).
+
+Soweit zunächst ist das rechtlich nicht zu beanstanden, bis auf die
+Tatsache, dass hier versucht wurde, den Dialer unter einem offensichtlichen
+Täuschungsversuch und an einem dazu nicht geeigneten (erlaubten?) Ort, wo
+man auch nicht unbedingt damit rechnet -  dieser NG - an den Mann zu
+bringen.
+
+Problematisch wird es im folgenden. Hier heißt es, den
+Internet-Verbindungsstecker ziehen, wenn man nicht auf dem Computer über
+geeignete Schutzmaßnahmen verfügt: Der Dialer läßt die Alternativen
+"Beenden" oder "Abbrechen" nicht zu. Auch das "x" zeigt keine Wirkung. Wohl
+oder Übel: Wer einmal das Setup gestartet hat, muß es beenden und den Dialer
+installieren.  (Task beenden über STRG-ALT-ENTF habe ich nicht versucht,
+dafür aber vor dem weiteren Vorgehen die Verbindung vorsichtshalber
+unterbrochen. Möglicherweise hat er sich deshalb nicht vollständig
+installiert. Eine späterer Suchlauf brachte jedenfalls keine Hinweise.
+
+Danach testweise mit Konrad!Web aufgerufen. Der Startbildschirm zeigt
+beruhigend den Namen meines Providers. Auch im DF-Netzwerk scheint sich
+nichts eingenistet zu haben.
+
+Trotzdem (es soll mittlerweile Dialer geben, die sich gut tarnen können):
+Vorsichtshalber sauberes Backup zurückgespielt und Ruhe war's.
+
+Dialer
+
+Du meinst die Standardstufe "mittlere Sicherheit". Auf jeden Fall. Nichts
+leichter als das.  Mit dem Klick auf einen Banner o.�. - man verspricht Dir
+z.B. einen "Highspeed-Zugang" -  startest Du eine Download-Routine. Das
+Vorgehen unterscheidet sich nicht vom Download eines "normalen" Programms.
+Warum auch? Du forderst das Programm an und es wird auf Deinen Rechner
+geladen, wo es sich mittels einer Autostart-Routine selbst ausführt.
+Kriminelle Anbieter gehen einen Schritt weiter. Dort läuft das Setup im
+Hintergrund ab, ohne dass Dir entsprechende Meldungen präsentiert werden. Du
+merkst davon in der Regel nichts.
+Gehe mal auf die Site des angesehenen bulgarischen Sicherheitsexperten
+Neukämper (www.ahtsxgja.nib) und schau Dir mal an, was der mittels
+JAVA-Skript und ActiveX auf Deinem Rechner alles anstellen kann. Das Dumme
+ist nur, dass bei abgeschaltetem Skripting viele "unverfängliche" Seiten
+nicht mehr funktionieren, da der Nutzer einen gewissen optischen Reiz und
+auch Komfort erwartet. Z.B. sind der Warenkorb eines Online-Kaufhauses und
+auch die Online-Formulare mit denen man so schön kommunizieren kann,
+skriptgesteuert. Ohne Skripting keine bewegten Bilder und kein Einkaufen...
+
+Wenn der Anbieter das so vorsieht...
+
+Auf was bezieht sich das "vorher"? Sicher nicht auf den Download des
+Dialers. Gerade unseriöse Anbieter leben von der Unvorsichtigkeit der
+Nutzer. Oft verstecken sie die Hinweise in kleiner Schrift und in einem
+Pop-Up-Gewitter. Wer da immer nur OK klickt, um -zig Fenster zu schließen,
+hat schon verloren.
+
+Die meisten Dialer - aber auch nicht alle - weisen vor der Einwahl auf ihren
+Tarif hin. Dazu sind sie gesetzlich verpflichtet und ohne diesen Hinweis
+stehen sie im Streitfall vor Gericht als Verlierer da. Wenn der Hinweis aber
+da ist, und Du klickst trotzdem, hast Du auch vor dem Richter schlechte
+Karten. Erkläre dem dann mal, dass Du Dich wochenlang nur per Zufall auf
+diesen ominösen Seiten eingewühlt hast...
+
+
+Schön, dass sich wenigstens einer hier dafür zu interessieren scheint ;-)
+Deshalb ausnahmsweise auch als Mail an Dich direkt.
+
+hoffentlich verständlich antwortend
+Severin
+
+Software, ohne die kein Rechner ins Internet sollte - alles auch als
+Freeware erhältlich!:
+
+Firewall (kein hundertprozentiger Dialerschutz und auch kein Freibrief für
+Sorglosigkeit!)
+Antiviren-Programm mit Hintergrundscanner (aktuell!)
+
+ergänzend:
+
+Ants (gegen Trojaner)
+Ad-Aware (gegen Spyware)
+Webwasher (gegen Werbebanner und Pop-Ups; zusätzlich Skript-, URL- und
+Cookiefilter)
+
+Infosites im Internet:
+
+www.nyjwfhjwbcfb.zj
+www.cyuohgwklycx.rp

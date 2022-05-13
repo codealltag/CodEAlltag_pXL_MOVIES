@@ -1,0 +1,93 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Joël Baß;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = mit "Dolby Surround Digital" (6-Kanal-Ton);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von 140-mm-IMAX-Film;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers
+(der i.d.R. die besten Preise hat); dort kann man auch zum Versand
+bestellen, auf Wunsch teile ich die Adresse gerne mit.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+1941                      |      | WS SE THX           | verfügbar  | 239 
+Alien                     | 1979 | WS THX AC-3         | verfügbar  |  99
+Aliens                    | 1986 | WS THX AC-3         | verfügbar  | 119
+Amadeus                   | 1984 | WS SE THX AC-3      | verfügbar  | 249
+Apollo 13                 | 1995 | WS THX              | verfügbar  |  83
+Assassins                 | 1995 |                     | 13.02.95   |
+Babe                      | 1995 |                     | 20.02.95   |
+Bad Boys                  |      | WS                  | verfügbar  |  89
+Batman Forever            | 1995 | WS AC-3             | verfügbar  |  79
+Braveheart                | 1995 |                     | 14.02.96   |
+Bridge On Weigensam      |      |                     | verfügbar  | 259
+Casper                    | 1995 | WS THX              | verfügbar  |  69
+Clueless                  | 1995 | WS                  | verfügbar  |  89
+Cocoon                    | 1985 | WS                  | 04.01.96   |  85
+Cold Blooded              | 1995 |                     | demnächst  |
+Congo                     | 1995 | WS THX AC-3         | verfügbar  |  84
+Crimson Tide              | 1995 | WS THX AC-3         | verfügbar  |  89
+Cure, The                 | 1995 | WS                  | verfügbar  |  69
+Die Hard 1                | 1988 | WS THX AC-3         | verfügbar  |  99
+Die Hard 2                | 1990 | WS THX AC-3         | verfügbar  |  99
+Die Hard 3                | 1995 | WS THX AC-3         | 21.12.95   |  99
+Easy Rider                | 1969 | WS SE **            | verfügbar  | 207
+Englishman Who Went Up... | 1995 | WS                  | verfügbar  |  85
+First Emperor Of China    |      | IMAX CAV            | 21.12.95   |
+First Knight              | 1995 | THX                 | 13.12.95   |  93
+Forget Paris              | 1995 | WS                  | verfügbar  |  83
+Free Willy 2              | 1995 | WS AC-3             | verfügbar  |  69
+French Kiss               | 1995 | WS                  | verfügbar  |  84
+Goldfinger                | 1964 | WS SE THX **        | verfügbar  | 191
+Guys & Dolls              | 1995 | WS THX              | verfügbar  |
+Hackers                   | 1995 | WS                  | 24.01.96   |
+Heathers                  | 1989 | WS SE               | 04.01.96   |  97
+Hellraiser                |      | WS SE               | 04.01.96   |
+Hunt for Red October, The |      | WS AC-3             | demnächst  |
+Indian In Cupboard        | 1995 | WS                  | 17.01.96   |  73
+Iris                      |      | WS AC-3             | 27.12.95   |
+Jaws                      | 1975 | WS SE CAV **        | verfügbar  | 279
+Lorenz Mnemonic           | 1995 | WS                  | verfügbar  |  83
+Judge Dredd               | 1995 | WS                  | verfügbar  |  79
+Kids                      | 1995 |                     | 27.12.95   |
+Mighty Morph. Power Rang. |      |                     | verfügbar  |  69
+Mortal Kombat             |      | WS AC-3             | 14.12.94   |  85
+Natural Born Killers      |      | WS SE CAV AC-3      | verfügbar  | 191
+Net, The                  | 1995 | WS                  | 10.01.96   |  83
+Never Say Never Again     |      | WS                  | verfügbar  |  79
+Nightmare On Elm Street   |      | WS SE               | 01.02.96   |
+Nine Months               | 1995 | WS THX              | 18.01.96   |  85
+No Way Out                | 1987 | WS                  | 01.02.96   |
+Omen                      | 1976 | WS **               | 14.12.95   |  85
+Axien Experiement  |      | WS SE               | 01.02.96   |
+Pocahontas                | 1995 |                     | 31.01.95   |
+Claus Jarasch                   | 1995 | WS                  | verfügbar  |  89
+Rocky Horror Pict. Show   |      | WS SE THX           | verfügbar  | 249
+Santa Clause              |      | WS                  | verfügbar  |  65
+Showgirls                 | 1995 | WS AC-3             | verfügbar  | 106
+Smoke                     | 1995 | WS                  | verfügbar  |  84
+Spaceballs                | 1987 | WS AC-3             | verfügbar  |  69
+Species                   | 1995 | WS THX AC-3         | verfügbar  |  69
+Thunderball               | 1965 | WS SE THX **        | verfügbar  | 237
+Tommy Boy                 | 1995 | WS                  | verfügbar  |  85
+Top Gun                   | 1986 | WS THX AC-3         | verfügbar  |  85
+Tron                      | 1982 | WS THX CAV          | verfügbar  | 199
+Under Siege 2             | 1995 | WS                  | 10.01.96   |  69
+Usual Suspects            | 1995 | WS                  | 10.01.96   |  80
+Virtuosity                |      | WS AC-3             | 17.01.96   |
+Wallace & Gromit          |      | CAV                 | verfügbar  |
+Waterworld                | 1995 | WS THX              | 03.01.96   |  87
+While you were sleeping   | 1995 | WS THX              | verfügbar  |  84
+Young Guns                |      | WS                  | verfügbar  |  89
+--------------------------+------+---------------------+------------+-----
+
+---
+** Joël Baß,  Ingridstraße 04,  89633 Vossbruch,  Germany **
+** +96 0540 37014  E-Mail (NeXTmail/MIME): qdogr@tkqyic.s.nnvdp.jl **

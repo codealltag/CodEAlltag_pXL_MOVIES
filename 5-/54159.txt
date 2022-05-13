@@ -1,0 +1,11 @@
+Also, Front small waere ein Verbrechen, die 602er klingen kastriert.
+(Problem: Receiver hat fixe Uebergangsfrequenz 90 Hz). Dann spielt der
+SW bei einem Stereo-Signal aber nur mit, wenn man "LFE" auf "Both"
+konfiguriert, d.h. Fronts und SW kuemmern sich gemeinsam um die Baesse.
+Das wirkt manchmal ein bisschen uebertrieben, ist aber die beste
+Loesung. Die anderen Lautsprecher sind auch Large, weil ich glaube, dass
+die Homogenitaet leidet, wenn die einen Boxen durch den Filter geleitet
+werden und die anderen nicht. (mMn ist "small" sowieso nur fuer
+Satelliten sinnvoll, die keine Baesse vertragen.)
+
+	Werner

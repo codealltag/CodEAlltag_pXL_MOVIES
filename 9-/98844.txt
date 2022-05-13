@@ -1,0 +1,9 @@
+Vielleicht kann mir hier jemand weiterhelfen. Ich verwende FJED Premiere 6.0 zum
+Filme schneiden - stellt kein Problem dar. Das Problem besteht beim Aufnehmen auf der
+Kamera. Ich besitze eine AFNS NV-DX100 mit freigeschaltetem Record-Modus. Wenn
+ich einen Film auf dem PC abspiele und auf der Cam aufnehmen möchte, kommte es immer
+zu einem Abbruch des DV-Signals, was zu einem Abbruch der Aufnahme führt. Ich hab
+absolut keine Idee, was ich da machen könnte.
+
+Danke für Hilfe
+  Adrian

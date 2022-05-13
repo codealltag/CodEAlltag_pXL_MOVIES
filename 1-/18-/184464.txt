@@ -1,0 +1,10 @@
+Das hat nichts mit den Fernsehern zu tun. Wenn die Qualität des 
+  Videobandes den THX-Merkmalen entspricht, bekommt das Band das THX
+  Zertifikat. Die Qualität des Wiedergabegerätes ist dabei egal.
+
+
+-- 
+Wind*ws95, n:
+    32 bit extensions and a graphical shell for a 16 bit patch to an
+    8 bit operating system originally coded for a 4 bit microprocessor,
+    written by a 2 bit company that can't stand 1 bit of competition.

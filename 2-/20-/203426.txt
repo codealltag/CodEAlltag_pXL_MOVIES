@@ -1,0 +1,13 @@
+Und? Bei vierfacher Auflösung sind die Artefakte, die man auf schlecht  
+kodierten Video-CDs (und nur dort) gelegentlich sehen kann auch nur 1/4 so  
+groß, also praktisch nicht mehr wahrnehmbar.
+
+Abgesehen lassen sich in hoher Auflösung Bilder besser komprimieren, da  
+der Anteil hochfrequenter Signale, die für den Schärfeeindruck wichtig  
+sind, bei der Kompression jedoch teilweise weggefiltert werden, absinkt.
+
+Bye
+        Udo
+-- 
+Es ist besser zu schweigen, und für einen Narren gehalten zu werden, als
+den Mund zu öffnen und alle Zweifel zu beseitigen.

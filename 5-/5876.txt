@@ -1,0 +1,8 @@
+Hallo!
+
+Ich suche ein Programm, mit dem man Kfz-Hobbywerkstatt-Dateien
+in AVI-Dateien konvertieren kann. Kann mir jemand einen Tip
+geben?
+
+MfG
+Raphael

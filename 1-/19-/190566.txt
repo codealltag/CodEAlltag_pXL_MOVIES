@@ -1,0 +1,28 @@
+--------------5366F509D3ACEA3BB08F33A4
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+  Nette Seite. Zwar ein paar tote Links, aber trotzdem sehr schön.
+
+Charly
+
+--------------5366F509D3ACEA3BB08F33A4
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+
+<HTML>
+
+<BLOCKQUOTE TYPE=CITE>
+
+<P>Ich empfehle mal meine :-) <A HREF="http://www.movieguide.deGrosse">http://tje.fmfahuhpaj.ku</A>
+Grosse Point erscheint
+<BR>&uuml;brigens Mitte M&auml;rz.
+
+<P>Ciao
+<BR>Heinrich</BLOCKQUOTE>
+&nbsp; Nette Seite. Zwar ein paar tote Links, aber trotzdem sehr sch&ouml;n.
+
+<P>Charly</HTML>
+
+--------------5366F509D3ACEA3BB08F33A4--

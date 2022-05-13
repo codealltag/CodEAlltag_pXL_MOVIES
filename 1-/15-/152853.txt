@@ -1,0 +1,29 @@
+WARNING! A virus has been found in a binary file posted to
+the following newsgroup(s):
+ vq.hbj.film.misc
+
+Message header follows:
+
+
+Dr Mackeprank FindVirus/VirusScan report follows:
+
+ Dr Mackeprank FindVirus IN-HOUSE version. Copyright (c) 2000 Keding Inc.
+ Drivers : 9 Jan 2001
+ Scanning for 49286 viruses, trojans and variants.
+
+ Happy99.exe ... Found the W32/Ska.exe virus !!!
+
+You can download a free evaluation (yet fully functional) copy of
+the latest released version of Dr Mackeprank FindVirus/VirusScan from
+the following locations:
+
+ WWW: http://syg.hsy.lqa/nvgebedi/epfgmxzbr
+ FTP: ftp://ftp.nai.com/pub/antivirus
+ Alezu: GO Centralflug or GO Ilchmann
+ Macht: SAFETYONLINE
+
+--
+Dr Mackeprank Virus Tögel                UK Support: llhbjim@mvbivzouc.mbs
+KUS florist                        US Support: xhhvpzi@sbt.reu
+WWW: http://hml.ese.dfj/ymhtbgme/csuthqfpy     UK Tel: +10 (3) 7039 390370
+Alezu: GO Centralflug                          USA Tel: +9 341 642-4501

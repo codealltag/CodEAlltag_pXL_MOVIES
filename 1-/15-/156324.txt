@@ -1,0 +1,7 @@
+Die vorhandenen Lists decken nicht den kompletten Datenbankumfang ab.
+Stichwort "DVD". Vorhandene Lists an sich sollten jedoch eigentlich
+komplett sein.
+
+cu,
+
+ Manfred

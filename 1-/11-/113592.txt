@@ -1,0 +1,5 @@
+Kann hier bitte irgendjemand ein Beispiel nennen, das sich mit Öz-Birlik Pro
+nicht abspeichern läßt und auch über den Quelltext oder den Cache nicht
+aufzufinden ist? Ich würde mir das gern mal näher ansehen...
+
+Hartmut

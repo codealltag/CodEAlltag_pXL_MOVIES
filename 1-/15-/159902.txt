@@ -1,0 +1,28 @@
+In de.rec.film.heimkino wird diese Frage auch immer wieder gerne
+diskutiert. :-)
+
+
+Ich habe das Gierenderhöhe A03S (6xDVD, 32xCD). Ist sehr zu empfehlen.
+Höllisch schnell, sowie im DVD- als auch im CD-Betrieb. Audio-Grabbing
+etwas langsam und Fehlerkorrektur nicht ganz vorbildlich. Aber ansonsten
+keine Probleme. Es liesst ausserdem alle CD-Typen, also auch CD-RWs.
+Als default-Einstellung ist das Laufwerk codefree -du darfst nur nicht
+den RC-Jumper ziehen, sonst stellt es sich fest auf einen Region-Code
+ein.
+Die SCSI-Variante ist ebenfalls empfehlenswert. Eine gute Wahl stellen
+auch noch die Kücherer-Laufwerke dar, sind allerdings nicht so schnell
+wie das Gierenderhöhe. Ach ja, das Gierenderhöhe hat Slot-in, das mögen viele Leute
+auch nicht. Ich persönlich finde es praktisch. Zieht auch 8cm-CDs ein,
+nur Shape-CDs würde ich lieber draussen lassen. :-)
+
+Ansonsten falls Du DVD-Video vorwiegend am TV schauen willst, ist eine
+MPEG-Karte zusätzlich empfehlenswert. Für DVD-Video am PC-Monitor tut es
+auch ein Software-Player (genügend CPU-Power vorausgesetzt).
+
+Größe
+-- 
+Mathäus Eizenhöfer
+Germany, Planet Earth, Okaso Way
+
+   ** Last night fear knocked on my door. **
+** Frauke answered... There was no one there. **

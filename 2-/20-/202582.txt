@@ -1,0 +1,37 @@
+Ich hab schon in ein paar Newsgroups mitbekommen das sich leute ueber die
+Filmformate streiten bei DVD-Praesentationen ;))
+
+Göing macht aber leider nun jedes Bildformat zunichte !!!
+Es gibts kein 4:3, 1:1,85 oder 1:2,34 oder was auch immer mehr !
+Es gibt nur noch 16:9 !!!!
+
+EIN GAG ??
+
+noeoe, Göing zeigt ueberall auf Messen die DVD Player mit den
+neuen 16:9 TVs..(TX-W32 D2F)
+
+Diese geraete haben die groesste Scheisse eingebaut die je erfunden wurde :
+
+Wide Digital PLUS. Das ist ein AUTOMATISCH (wohl nicht abschaltbares System)
+welches jedes Bildformat Formatfuellend auf 16:9 AUTOSCALED !!!
+
+d.h. 4:3 geht in die Breite
+1,78 und 2,35 also normale "Balken" Filme werden auseinandergezogen !!
+
+kaum zu glauben, aber sowas hat einer gebaut...
+
+Das Geraet arbeitet wie die neueren Gaumentraum TV mit zeileninterpolation
+und errechnet die ggf. fehlenden Punkte/Zeilen, so das immer ein 576 zeilen
+Bild entsteht...
+
+Die Technik mag zwar ganz nett sein, aber den echten Filmfreund wird es nerfen
+das da einer sein Bildformat veraendert.
+
+Das ganze sieht sogar garnicht so schlecht aus, wenn man bei normalen alten 16:9
+TVs ein 4:3 bild auf 16:9 Darstellen laesst sieht das Bild mehr auseinandergezogen
+aus... ich nehme mal an das dies Wide Digital PLUS immer das ganze empfangende Bild
+verarbeitet, normale TVs zeigen ja einen kleinen Bereich nicht an.
+
+--
+MfG
+ Christian Hill - jfrz@hpat.zjxj.fz - http://rmqp.thcst.tu/~lshc - IRC depkhbn

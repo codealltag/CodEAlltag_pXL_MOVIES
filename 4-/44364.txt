@@ -1,0 +1,242 @@
+NG-Statistik drfm für den Februar 2004
+erstellt mit PG-Bikes von Hermann Amrhein.
+
+29/08: 2252 postings
+30/08: 1990 postings
+31/08: 1790 postings
+01/09: 2352 postings
+02/09: 2979 postings
+03/09: 2473 postings
+
+23/09: 3439 postings
+24/09: 1931 postings
+25/09: 2724 postings
+26/09: 1746 postings
+27/09: 2078 postings
+28/09: 2494 postings
+29/09: 2645 postings
+
+
+30/09: 2541 postings
+
+Autoren mit den meisten Postings (2541 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  84 | 1897 | 133.9 | Mehmet K. Pöter     |  3.3%  xxxxxxxxxxxxx
+   2 |  79 | 2400 | 144.3 | Joachim Fahnenstich             |  3.1%  xxxxxxxxxxxxx
+   3 |  72 | 1886 | 136.1 | Lutz Endresz      |  2.8%  xxxxxxxxxxxx 
+   4 |  65 | 1999 | 128.8 | Nino Abels-Vehns          |  2.6%  xxxxxxxxxx   
+   6 |  60 | 1097 |  82.1 | dirk waßmuß          |  2.4%  xxxxxxxxxx   
+   7 |  56 | 1508 | 108.9 | Pasquale Füterer        |  2.2%  xxxxxxxxx    
+   8 |  50 | 1003 |  81.4 | Joachim Vowinkel       |  2.0%  xxxxxxxx     
+   9 |  49 | 1500 |  98.7 | Nils Rührup        |  1.9%  xxxxxxxx     
+  10 |  46 |  854 |  75.2 | Heimo Christa         |  1.8%  xxxxxxx      
+  11 |  45 |  528 |  44.4 | Ullrich Tewiele         |  1.8%  xxxxxxx      
+  12 |  42 | 1088 |  75.1 | Nikolaus Freitäger     |  1.7%  xxxxxxx      
+  13 |  41 | 1035 |  89.3 | Siegfried Lente        |  1.6%  xxxxxx       
+  14 |  39 |  708 |  66.5 | Mehmet Notdurfth        |  1.5%  xxxxxx       
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (370 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                            
+       11 |   2 |  0.5%                                                 
+       10 |   4 |  1.1%  x                                              
+        9 |   7 |  1.9%  xx                                             
+        8 |   8 |  2.2%  xxx                                            
+        7 |   5 |  1.4%  x                                              
+        6 |  15 |  4.1%  xxxxx                                          
+        5 |  20 |  5.4%  xxxxxxx                                        
+        4 |  20 |  5.4%  xxxxxxx                                        
+        3 |  37 | 10.0%  xxxxxxxxxxxxxx                                 
+        2 |  75 | 20.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+        1 | 121 | 32.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (183 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Joachim Fahnenstich             |   8 |    45 |  4.4%  xxxxxxxxxxxxxxxxxxxx
+   2 | Maik                 |   7 |    36 |  3.8%  xxxxxxxxxxxxxxxxxx  
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (183 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Nicolas Friedly       |   2 |   210 |  8.3%  xxxxxxxxxxxxxxxxxxxx
+   2 | Orlando Grevens        |   2 |   176 |  6.9%  xxxxxxxxxxxxxxxxx   
+   3 | Lutz Averdunk            |   2 |   156 |  6.1%  xxxxxxxxxxxxxxx     
+   4 | Nino Klappauf         |   5 |   113 |  4.4%  xxxxxxxxxxx         
+   5 | Hermann Weisskapp         |   3 |   108 |  4.3%  xxxxxxxxxx          
+   6 | Urs Gatena          |   3 |   106 |  4.2%  xxxxxxxxxx          
+   7 | Valerian Möcke          |   1 |    84 |  3.3%  xxxxxxxx            
+   8 | Pasquale Füterer        |   2 |    83 |  3.3%  xxxxxxxx            
+   9 | Heimo Mandewirth         |   2 |    81 |  3.2%  xxxxxxxx            
+  10 | Arne Hussels      |   2 |    73 |  2.9%  xxxxxxx             
+  11 | Nino Hüskes       |   3 |    62 |  2.4%  xxxxxx              
+  13 | Ullrich Tewiele         |   1 |    54 |  2.1%  xxxxx               
+  14 | Ullrich Zehreis       |   1 |    53 |  2.1%  xxxxx               
+  15 | Noah Newen     |   1 |    50 |  2.0%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2541 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 204 | Filmempfehlungen: Wendungen             |  8.0%  xxxxxxxxxx
+   2 | 165 | [3/5] Nanu.. kein Thread               |  6.5%  xxxxxxxx  
+   3 | 155 | Content-Mafia laeuft Amok: Legale DVDs "|  6.1%  xxxxxxxx  
+   4 |  99 | Anti-Raubkopie-Strategie bei "(T)Raumsch|  3.9%  xxxxx     
+   5 |  93 | Laecherliche 007-Nachfolge-Diskussion   |  3.7%  xxxxx     
+   6 |  84 | "Sieben" uncut auf Deutsch?             |  3.3%  xxxx      
+   7 |  80 | Gerüchte über StarWars 7-9              |  3.1%  xxxx      
+   8 |  79 | Product Placement                       |  3.1%  xxxx      
+   9 |  75 | Kritik: I, Robot                        |  3.0%  xxxx      
+  10 |  61 | Filme und begrenzter Raum...            |  2.4%  xxx       
+  11 |  54 | Zuschauerzahlen Volkmar der Zauberer     |  2.1%  xx        
+  12 |  53 | The Village                             |  2.1%  xx        
+  13 |  50 | Was können sie tun?                     |  2.0%  xx        
+  14 |  49 | Berühmte Sätze der Filmgeschichte       |  1.9%  xx        
+  15 |  40 | [OT] Letzte Mahnung                     |  1.6%  xx        
+  16 |  36 | I Robot und der Audi rsq                |  1.4%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (183 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]                                              
+    34 |   1 |  0.5%  x                                                 
+    32 |   2 |  1.1%  xxx                                               
+    31 |   1 |  0.5%  x                                                 
+    29 |   1 |  0.5%  x                                                 
+    26 |   2 |  1.1%  xxx                                               
+    23 |   1 |  0.5%  x                                                 
+    22 |   5 |  2.7%  xxxxxxxxx                                         
+    21 |   1 |  0.5%  x                                                 
+    20 |   3 |  1.6%  xxxxx                                             
+    19 |   1 |  0.5%  x                                                 
+    15 |   1 |  0.5%  x                                                 
+    14 |   1 |  0.5%  x                                                 
+    13 |   4 |  2.2%  xxxxxxx                                           
+    12 |   6 |  3.3%  xxxxxxxxxx                                        
+    11 |   6 |  3.3%  xxxxxxxxxx                                        
+    10 |   4 |  2.2%  xxxxxxx                                           
+     9 |   4 |  2.2%  xxxxxxx                                           
+     8 |   4 |  2.2%  xxxxxxx                                           
+     7 |   7 |  3.8%  xxxxxxxxxxxx                                      
+     6 |  14 |  7.7%  xxxxxxxxxxxxxxxxxxxxxxxxx                         
+     5 |  10 |  5.5%  xxxxxxxxxxxxxxxxxx                                
+     4 |  23 | 12.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+     3 |  17 |  9.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+     2 |  20 | 10.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+     1 |  28 | 15.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 342 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  76 | ZLT Outlook Express      | 22.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  56 | Zerlin                        | 16.4%  xxxxxxxxxxxxxxxxxxx      
+  51 | Forte Agent                    | 14.9%  xxxxxxxxxxxxxxxxx        
+  19 | 40tude_Dialog                  |  5.6%  xxxxxx                   
+  18 | Zerlin Thunderbird            |  5.3%  xxxxxx                   
+  15 | slrn                           |  4.4%  xxxxx                    
+  14 | Netscape                       |  4.1%  xxxx                     
+  12 | KNode                          |  3.5%  xxxx                     
+  11 | Xnews                          |  3.2%  xxx                      
+  10 | Thunderbird                    |  2.9%  xxx                      
+   8 | MacSOUP                        |  2.3%  xx                       
+   7 | tin                            |  2.0%  xx                       
+   7 | Hamster                        |  2.0%  xx                       
+   6 | Forte Free Agent               |  1.8%  xx                       
+   5 | Gnus                           |  1.5%  x                        
+   3 | IHT M2                       |  0.9%  x                        
+   3 | Pan                            |  0.9%  x                        
+   2 | OpenXP                         |  0.6%                           
+   2 | MicroPlanet-Gravity            |  0.6%                           
+  <2 | 17 weitere...                  |                                 
+-----+--------------------------------+---------------------------------
+ 342 | GESAMT (36)                    |                                 
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 111 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  26 | Forte Agent                    | 23.4%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  23 | Zerlin                        | 20.7%  xxxxxxxxxxxxxxxxxxxxxxx  
+  14 | Microsoft Outlook Express      | 12.6%  xxxxxxxxxxxxxx           
+   5 | 40tude_Dialog                  |  4.5%  xxxxx                    
+   5 | slrn                           |  4.5%  xxxxx                    
+   5 | Zerlin Thunderbird            |  4.5%  xxxxx                    
+   4 | tin                            |  3.6%  xxxx                     
+   4 | Xnews                          |  3.6%  xxxx                     
+   4 | MacSOUP                        |  3.6%  xxxx                     
+   3 | Hamster                        |  2.7%  xxx                      
+   3 | KNode                          |  2.7%  xxx                      
+   3 | Netscape                       |  2.7%  xxx                      
+   2 | Gnus                           |  1.8%  xx                       
+   2 | Thunderbird                    |  1.8%  xx                       
+   2 | Forte Free Agent               |  1.8%  xx                       
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%  x                        
+   1 | Zeemanns                        |  0.9%  x                        
+   1 | ZLT Telnet               |  0.9%  x                        
+   1 | Pan                            |  0.9%  x                        
+   1 | Opera7.23                      |  0.9%  x                        
+   1 | ZJJ            |  0.9%  x                        
+
+
+Postingverteilung über den Monat (2541 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 124 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+   2 | 163 |  6.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+   3 | 118 |  4.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+   4 |  82 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+   5 | 122 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+   6 |  73 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+   7 |  46 |  1.8%  xxxxxxxxxxxxx                                       
+   8 |  45 |  1.8%  xxxxxxxxxxxxx                                       
+   9 |  66 |  2.6%  xxxxxxxxxxxxxxxxxxx                                 
+  10 |  73 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+  11 |  74 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+  12 |  62 |  2.4%  xxxxxxxxxxxxxxxxxx                                  
+  13 |  43 |  1.7%  xxxxxxxxxxxxx                                       
+  14 |  35 |  1.4%  xxxxxxxxxx                                          
+  15 |  46 |  1.8%  xxxxxxxxxxxxx                                       
+  16 |  66 |  2.6%  xxxxxxxxxxxxxxxxxxx                                 
+  17 |  85 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  18 |  80 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  19 |  84 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  20 |  69 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+  21 |  76 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  22 | 119 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  23 | 175 |  6.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  24 | 113 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  25 | 108 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+  26 |  73 |  2.9%  xxxxxxxxxxxxxxxxxxxxxx                              
+  27 |  94 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  28 |  37 |  1.5%  xxxxxxxxxxx                                         
+  29 |  45 |  1.8%  xxxxxxxxxxxxx                                       
+  30 |  82 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  31 |  63 |  2.5%  xxxxxxxxxxxxxxxxxxx                                 
+
+
+HTH ;-)
+Rudolf
+-- 
+"Der vollkommene Bühnenheld ist Stefano. Der vollkommene Filmheld ist
+ Karola."                                                    Heribert Wilberding

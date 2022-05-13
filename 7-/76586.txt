@@ -1,0 +1,54 @@
+Nicht wenn Orte in der Matrix Abschnitten im Kraftwerk entsprechen und
+die Bottiche entsprechend rumtransportiert werden. Ansonsten siehe
+unten.
+
+
+Müssen sie nicht. Ersteres kann -- ausgehend davon, daß der Glibber ab
+und zu gereinigt wird[*] -- beim Reinigen ähnlich wie bei der Dialyse
+ausgefiltert werden, und für letzteres gibt es unter den vielen
+Schläuchen bestimmt einen, der in den Eierstöcken endet.
+
+[*] Was passiert eigentlich mit Ausscheidungen?
+
+Noch eine interessante Frage: Wenn ein Mensch in der Matrix Schnupfen
+hat, hat er dann auf in dem Bottich Schnupfen? Und wer putzt ihm dann
+die Nase?
+
+
+Vielleicht kann man den vergifteten Menschen nicht recyclen.
+
+
+Damit nicht jedem Arzt im Studium von einer alten Dame befohlen wird:
+"Stellen Sie in Zukunft Herzschlag fest."
+
+
+Woher weit du, wieviele Menschen es auf der Erde gibt?
+
+
+Natürlich. Schließlich müssen Sperma und Eizellen nicht entnommen
+werden, wenn die Personen Sex haben. Das kann lange vorher passieren[*];
+Sperma und Ei werden tiefgekühlt und sobald sich sowas wie Sex anbahnt
+an den richtigen Ort gebracht.
+
+Außerdem: Ein Tag mehr oder weniger, wem fällt das schon auf?
+
+[*] Gibt höchstens ein Problem, wenn ein Junge beim ersten Samenerguß
+gleich Sex hat.
+
+Einen Augenblick, Jean... ah:
+
+---- sex.c ----
+
+if (male->savedSperm == null)
+  male->makeTemporarilyImpotent();
+
+---------------
+
+Auch daran wurde also gedacht.
+
+
+Gruß, Sebastian
+
+P.S: Gibt es Buffer Overflows in der Matrix?
+-- 
+PGP RSA Key: 0x83CCA63F / B499 2ABB DC6E C450 F89C F551 F2A8 CC59

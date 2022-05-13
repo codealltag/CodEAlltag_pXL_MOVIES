@@ -1,0 +1,27 @@
+Hallo!
+
+Ich mach mal nen XPost+fup2 de.comp.tv+video, da is das sicher besser
+aufgehoben.
+
+
+Das hängt davon ab, was denn so an Technik vorhanden ist. Habt ihr einen
+digitalen Camcorder? Kann der von analoger Quelle (Composite/S-Video)
+aufnehmen? Verbindung zu PC via Firewire? Ist von der Bedienung her
+sicher die einfachste Variante. Ansonsten bleibt nur Capture-karte bzw.
+falls vorhanden Composite oder S-Video Eingang.
+
+
+Manche Videoschnittprogramme können sowas von sich aus, ansonsten mal
+nach Vekrotanimationsprogrammen suchen, die auch als "normales" Video
+ausgeben können.
+
+Das alles braucht normalerweise aber eine gewisse Einarbeitungszeit, da
+hättet ihr besser also etwas früher angefangen. :)
+
+Gruß,
+
+Bernhard
+
+-- 
+* Bernhard  *  neu--->   http://abs.ejuuch-wdlpj.bc  <---neu  *  VNSA-Fan *
+"Es gibt immer einen einfacheren Weg."                  [Murphy's Law]

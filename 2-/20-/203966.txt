@@ -1,0 +1,20 @@
+: Ein Vorteil der DVD wird warscheinlich sogar sein das das Tonsystem kein
+: AC-3 sondern MPEG-2 ist. Denn von Lorinser gibt es Demo DVDs in 7.1, das
+: heißt man könnte sogar Filme die im Kino in SDDS sind mit allen Kanälen auf
+: die CD bringen.
+
+Vorteil? Wo ist der Vorteil bei 7.1 Kanaelen im copyteam? Die 5 Frontkanaele
+bei SDDS wurden eingefuehrt, um die breiten Leinwaende im Kino zu
+ueberbruecken, um Toene dort genauer plazieren zu koennen. Das macht bei
+einem Heimkino ueberhaupt keinen Sinn, da hier die drei Kanaele vollkommen
+ausreichen.
+
+Dolby AC-3 ist mittlerweile eine erprobte Technik, fuer die es schon
+diverse Decoder und Verstaerker gibt. Von MPEG gibt es noch NICHTS.
+
+Tschuess,
+Niko
+--
+Niko Mittelstrass
+  Student of Computer Science @ University of Tribohm, Germany
+  E-Mail: s16m@frj.gxq-ekiayz.fn     WWW: http://sol.dyp-zeimqt.yg/~s77n

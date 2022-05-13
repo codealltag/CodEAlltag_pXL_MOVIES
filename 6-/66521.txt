@@ -1,0 +1,8 @@
+Also zumindest bei der IMDb Pro geht es. Grade mal probiert und es
+gab 1498 bei der Query 'Search: "Released in 'Germany' between 22. 02. 22 
+and 22. 02. 22 and Only Movies and Display Distributors, US Box Office, 
+Biggest Weekend, Budget sorted by Title"'.
+
+cu,
+
+  Eckhard

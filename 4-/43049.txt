@@ -1,0 +1,6 @@
+Sie funktioniert nicht zu 100%.  Die Elektronik ist defintiv
+suspekt. Sorry, als Programmierer betrachte ich einen Zustand als
+"kontaminiert" und weise Programme an, lieber nichts zu tun.
+
+Maschine defefekt => Versuchsabbruch durch automatisches
+Herunterfahren.

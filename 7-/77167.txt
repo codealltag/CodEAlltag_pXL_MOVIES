@@ -1,0 +1,62 @@
+Hallo!
+
+Nein.
+
+
+Nein, das Kraftwerk stellt nur eine Sicherheitssperre zu bestimmten
+virtuellen Räumen innerhalb der Matrix-Simulation dar.
+Dadurch, dass die Matrix-Simulation so abläuft, dass die simulierten,
+virtuellen Objekte in ihrem Verhalten den uns bekannten, realen Objekten
+entsprechen und "Sicherheitsmechanis aktiviert = virtuelles Kraftwerk
+liefert virtuellen Strom" und "Sicherheitsmechanismus deaktiviert =
+virtuelles Kraftwerk liefert keinen virtuellen Strom", kann der
+Sicherheitsmechanismus nur deaktivert werden, indem das virtuelle Kraftwerk
+virtuell deaktiviert (in diesem Fall virtuell zerstört).
+
+Da sich alle virtuellen Objekte in der Matrix-Simulation wie reale Objekte
+verhalten und das virtuelle Kraftwerk anscheinend neben dem Zweck als
+Sicherheitssperre auch noch den Zweck der virtuellen Stromversorgung (für
+die umliegenen virtuellen Häuserblocks) gehabt hat, geht der virtuelle Strom
+in all den anderen virtuellen Häusern ebenfalls aus.
+Da auch die virtuellen Häuser realen nachempfunden sind, führt ein
+Ausbleiben des virtuellen Stroms auch bei ihnen zu den selben Effekten, die
+reale Häuser bei realem Stromausfall zeigen (Licht geht aus).
+
+
+Das virtuelle Kraftwerk hat keinen Bezug zur realen Energiegewinnung (in
+welcher Form die auch immer sein mag...)
+
+
+Durch den Anschlag ist keine reale Energieversorgung zusammen gebrochen,
+sondern das virtuelle Kraftwerk wurde deaktiviert, was zu einem virtuellen
+Stromausfall mit all seinen Folgen in der virtuellen Welt hatte.
+
+
+Sie haben keinen Bezug zur realen Welt, genauso wie in "Matrix 1",
+jedenfalls haben sie keinen Bezug:
+virtuelle Welt ----> reale Welt.
+
+Umgekehrt gilt ja schon:
+reale Welt (Teile davon - Rechner, Hardware, Software,...) erzeugen die
+virtuelle Welt. Fällt etwas in der realen Welt aus, dann ist die Simulation
+sicher gestört oder läuft gar nicht mehr.
+
+
+Wird im ersten Film erlärt (wenn der Geist meint, er stirbt gerade, stirbt
+auch der dazugehörende Körper)
+
+
+Ich denke, sie sind richtig. Kann mich auch irren (weil vielleicht der
+dritte Teil doch eine Überraschung bringt), aber das würde schon nach einer
+besonderen Erklärung verlangen, sollten sich die Macher plötzlich sowas
+einfallen lassen.
+
+
+Wann werden aus der virtuellen Welt heraus reale Maschinen zerstört?
+So weit ich mich erinnern kann, ist die einzige reale Waffe gegen die realen
+Maschinen ein realer EMP (z.B. von einem realen Schiff aus).
+
+Kannst Du mir einen Fall nennen, wo von der virtuellen Welt heraus reale
+Maschinen zerstört worden sind?
+
+Ciao, Ingolf

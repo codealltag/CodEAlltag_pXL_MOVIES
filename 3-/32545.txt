@@ -1,0 +1,20 @@
+Was heißt "Emotionen rüberbringt"? Wieviel Emotionen bringt der
+Tagesschausprecher rüber? Die Stimme ist "echt" insofern, als der Klang
+nicht blechern oder sonstwie unnatürlich klingt (wie das eben bei
+vielen Computerstimmen in Filmen der Fall ist), sondern tatsächlich
+"menschlich", und die Sätze eine Melodie haben, also nicht monoton
+heruntergerasselt werden (insofern hört sich das sogar besser an, als
+so manch ein Mensch, der ungeübt im Vorlesen ist und bei längeren
+Texten "leiert"). Selbst Verschleifungen an Wortenden oder Verschlucken
+von Buchstaben sind eingebaut, wie es bei menschlichen Sprechern
+üblicherweise vorkommt.
+
+Letztlich liegt der Computer-Stimme ja eine echte zugrunde, die in ihre
+Phoneme zerlegt wurde.
+
+
+Gruß,
+Wilhelm
+
+-- 
+http://sny.bomd.iz/uje/

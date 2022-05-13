@@ -1,0 +1,28 @@
+Raphael> Basiert die eigentlich auf dem   Star  Trek Universum ? Begriffe   wie
+Raphael> "Phaser" oder "beamen" lassen das wahrscheinlich erscheinen.  Wenn ja,
+Raphael> handelt  der Film doch    nach der Gruendung  der  Sternenflotte (2161
+Raphael> ?).  Davon hat man  aber nicht viel gemerkt (es  kamen ja keine Aliens
+Andre> vor).
+
+#pragma spell_on
+
+  Moegen 500 Schnecken ueber Deine Tastatur kriechen!
+
+#pragma spell_off
+
+  Um Himmelswillen, Time  Trax hat _nichts_ mit  StarTrek zu  tun :-). Time
+Trax ist zwar ganz nett, aber das Niveau dieser Serie wird wohl kaum an das
+von StarTrek (TNG, DS9, Voyager) oder auch Babylon 5 rankommen.
+  Es handelt sich bei  Time Trax nicht   um eine Serie, die  eingefleischte
+SciFi Fans  ansprechen soll, sondern stellt  fuer meine Begriffe  eher eine
+Konkurrenz zu Quantum Leap dar  (nennt sich auf Plendl  glaube ich "Zurueck in
+die Vergangenheit" oder so).
+
+  Begriffe  wie "Phaser"   und "beamen"  werden  gerne  zur Synchronisation
+genommen, weil sie wohl  irgendwie "kultig" sind.  Aber sie kommen auch oft
+im Englischen vor,  weil StarTrek  einen nicht  gerade geringen Anteil  zur
+verfilmten SciFi Welt beigetragen hat.
+
+Christian
+--
+LOAD "EMACS",8,1

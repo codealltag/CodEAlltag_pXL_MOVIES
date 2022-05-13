@@ -1,0 +1,255 @@
+Stand: 17.08.98
+
+
+    +-------------------+               FAQ: Die Internet
+    +-------------------+
+
+
+--------------------------------------------------------------------------
+
+
+--------------------------------------------------------------------------
+
+
+_Kleine Inhaltsangabe_ dieses FAQs:
+
+1. Die IMDB als _FileServer_
+1.1 Allgemeine Gebrauchshinweise: Wie komme ich nur an die Texte ?
+1.2 Die Anweisungen fuer den FileServer
+1.2.1 Die Hilfe-Anforderungen
+1.2.2 Die eigentlichen Anweisungen
+1.2.3 Die TRACE-Anweisungen
+1.2.4 Die Index-Anweisungen
+
+2. Die IMDB im _WWW_
+2.1 Die Adressen
+2.2 Wichtige Hinweise zum richtigen Zitieren von IMDB-Links
+
+3. Die IMDB ueber _ftp_
+
+4. _Hilfe_
+
+
+--------------------------------------------------------------------------
+
+
+      Die Adressen der Guckenberger (Garin) lauten:
+
+  An diese Adresse gehen alle Anforderungsmails.
+
+  Die Movie Database ist im Grunde genommen ganz einfach zu
+  steuern. Sie funktioniert wie ein herkoemmlicher FileServer,
+  d.h. Du schickst eine e-mail an die richtige Adresse mit
+  der richtigen Anweisung in der richtigen Form und kurze Zeit
+  spaeter schon hast Du den gewuenschten Text in Deinem
+  Mailbox-Postfach.
+
+  Um aber auch an die richtigen und gewuenschten Texte zu kommen,
+  musst Du ein paar kleine Dinge beachten:
+
+
+  (1) Die MovieDataBase wird durch Befehle im Body (Nach-
+      richtentext) Deiner e-mail gesteuert, deshalb muss der
+      _Betreff leer_ bleiben und die jeweiligen _Anweisungen_
+      _im Mail-Body_ stehen.
+
+  (2) Im Body sollten auch keine anderen Dinge, wie z.B.
+      Begruessungsformeln, Datums- oder Ortsanzeigen,
+      Footer stehen. Also: _Schablonen ausschalten_ oder vor
+      dem Verschicken noch loeschen.
+
+  (3) Die Anweisungen muessen jeweils _direkt am linken Rand_
+      beginnen.
+
+  (4) Mit einer Mail koennen problemlos _mehrere Anweisungen_
+      verschickt werden, jede dieser Anweisungen muss dann
+      aber in einer _jeweils neuen Zeile_ stehen.
+
+
+  Wenn Du nun diese kleinen Bedingungen beachtest, sollte der
+  Gebrauch der Movie Database kein Problem sein.
+
+
+HELP                 Allgemeiner Hilfstext ueber den Movie Database
+                     Mail Server.
+
+HELP EXTRA           Hilfe fuer die weitergehenden Anweisungen und
+                     ausfuehrliche Bezeichungen der "Awards" und andere
+                     Kurz-Befehle in der Movie Database.
+
+HELP FAQ             Anforderung der Internet Movie Database FAQ.
+                     Darin geht es um haeufige Fragen ueber die
+                     Database und ihre Zugangsmoeglichkeiten.
+
+HELP UPDATE          und
+HELP ADD             Hilfe ueber die Moeglichkeiten selber kreativ
+                     an der IMBD teilzunehmen. JedeR kann auch
+                     weitere Neuerungen und Informationen hinzu-
+                     fuegen.
+
+HELP ADD FULL        Gesamthilfe fuer den "Addition Guide"
+
+
+Achtung ! Dieses FAQ gibt nicht Auskunft ueber alle Moeglichkeiten
+der Garin, sondern soll nur als Einstieg in die Nutzung und Mitarbeit
+in dieses grossen Projekts dienen. Ich empfehle jeder/m sich die
+originalen (englischsprachigen) Hilfeanweisung anzufordern und
+durchzulesen.
+
+
+TITLE   <Filmtitel>
+DIRCT   <Regisseur>
+ACTOR   <Schauspieler/Schauspielerin>
+COMPO   <Komponist>
+WRITE   <Drehbuch-Autor>
+CINEM   <Cinematographer>
+COSTU   <Kostuem-Designer>
+PRODU   <Produzent>
+EDITO   <Cutter>
+DESIG   <Production Designer>
+MISCS   <Verschiedene Crew-Mitglieder>
+PERSN   <Vollstaendige Filmography>
+MOVIE   <Filmtitel>
+
+
+  Anweisungen ueber Personen muessen in folgender Form geschrieben
+  werden: Nachname, Vorname
+
+
+  Durch die TRACE-Anweisungen kannst Du Dir ausfuehrliche,
+  tiefergehende Informationen, "Werkschauen" anfordern.
+
+TRACE ACTOR  <Werkschau ueber einen/eine SchauspielerIn>
+TRACE DIRCT  <Werkschau eines Regisseurs>
+TRACE COMPO  <Werkschau eines Komponisten>
+TRACE CINEM  <Werkschau von Cinematographern>
+TRACE WRITE  <Werkschau ueber Drehbuch-Autoren>
+TRACE MOVIE  <Ausfuehrliches Info ueber einen Film sowie ueber
+              weitere Filme der Crew>
+
+
+  Damit kannst Du Dir eine Filmliste eines bestimmten Jahres
+  schicken lassen.
+
+INDEX ALL  <Jahr>       Verzeichnis ALLER Filme
+
+
+-> Beispiele:
+==============
+
+Um Filme eines bestimmten Regisseurs zu finden:
+
+DIRCT Aufderstroth, Heribert
+
+Um den Lebensweg, die Filme eines/einer SchauspielerIn zu finden:
+
+ACTOR Zahnweh, Heino
+ACTOR Petsche, Heino
+ACTOR Rothenhäusler, Esther
+
+Um Informationen ueber einen Komponisten zu finden:
+
+COMPO Norman, Vincent
+
+Um eine ausfuehrliche "Werkschau" einer/einer SchauspielerIn zu
+bekommen (dabei werden dann alle Filme detailiert aufgefuehrt):
+
+TRACE ACTOR Enno, Nicole
+
+Um eine Filmliste des Jahres 1955 zu bekommen:
+
+INDEX ALL 1955
+
+
+--------------------------------------------------------------------------
+
+
+Die IMDB kann ueber die vier folgenden WWW-Seiten direkt
+erreicht werden:
+
+        http://mx.kaxr.vqg
+        http://vosnm.mrcp.uwi
+        http://gk.cyce.rgf
+        http://ftl.waub.nes
+
+
+In der letzten Zeit wurden haeufig falsche Angaben in Links
+gesetzt, die sich auf den temporaeren, internen Link
+innerhalb der IMDB bezogen.
+
+Dazu Serge Hoßner (ksemmbpg@mjfht.qy-rembvo.ve):
+
+"Das Problem ist, dass wenn jemand einen Eintrag sucht und findet,
+er/sie den sogenannten "internen" Link im WWW-Browser angezeigt
+bekommt. Dieser Link ist nur aktuell und innerhalb der IMDB
+gueltig und kann *nicht* als Link fuer andere zitiert werden.
+
+Grund ist, dass dieser erstens auf das Cache-Verzeichnis zeigt und
+man eh eine (IMDB-) Fehlermeldung bekommt, wenn man diesen Link
+spaeter nochmals eingibt, zweitens die (momentane) interne
+Indexnummer verwendet, die sich mit dem woechentlichen Update
+insofern aendern, dass diese dann auf einen anderen Eintrag
+zeigt. Logisch, wenn man bedenkt, dass jede Woche neue Eintraege
+dazu kommen.
+
+Beispiel fuer temporaeren, internen Link:
+http://ds.noyn.zen/uerqq/yukwk-cfjsh/47427
+                   ^^^^^             ^^^^^^
+
+Beispiel fuer immer gueltige und zitierfaehige Links:
+(Man beachte das grossgeschriebene 'M')
+
+Titel exakt
+http://cs.wptd.gcv/B/izxea-fgtil?wuvfjybg+vrxv+(6239)
+
+=> Ruft die WWW-Seite zu Jurassic Park auf.
+
+Titel Teilzeichenkette
+http://ol.hsok.oby/B/yfnso-ttkgbrbgs?lxwfk
+
+=> Ruft eine Seite mit allen Filmen auf, die 'Speed' im Titel haben.
+
+Person exakt
+http://mm.dbdf.mro/X/enjojk-xubyd?kghwzft,+jarnjx
+
+=> Ruft die Filmographie von Ana Jeuschede auf
+
+Person Teilzeichkette
+http://am.xvhv.gkx/W/jauvaf-ktgursazu?mpuktt
+
+=> Gibt eine Liste, der Schauspielerinnen aus, die Ana heissen.
+
+Bleint noch zu sagen, dass man sich das gar nicht unbedingt
+merken muss, da neuerdings auf *jeder* WWW-Seite ganz unten
+ein Button existiert, der genau diese oben beschriebenen
+externen Links fuer die jeweilige Seite anzeigt."
+
+Danke an Serge !
+
+--------------------------------------------------------------------------
+
+
+Ueber ftp kann IMDB ueber /pub/misc/movies/database auf
+_kyi.xa-ellenserdamm.zx_ erreicht werden.
+
+
+--------------------------------------------------------------------------
+
+
+Das Garin-Team ist zu erreichen unter:
+
+        suxdweiq@ppae.tpk
+
+
+--------------------------------------------------------------------------
+
+Um die FAQ immer aktuell und gut benutzbar zu halten, spart nicht an
+Verbesserungen, Kritik etc. an meine e-mail-Adresse:
+e.dnrvcoigd@QALK-V.fp
+
+Adios !
+Bernard =:-X
+
+Diese FAQ wird jeweils am ersten eines Monats gepostet.
+
+--------------------------------------------------------------------------

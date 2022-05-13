@@ -1,0 +1,18 @@
+Hallo nochmal!
+
+
+Wenn die Soundanlage nicht nach einer festen Samplingrate (AFAIR 48kHz
+bei Mage oder Multikulti) verlangt, kann man auch den Ton einfach schneller
+laufen lassen, was allerdings dazu führen würde, daß alles höher klingt.
+Bei 25 Bilder/Sekunde wären das schon 50KHz bzw. schon fast ein Halbton
+höher (wenn ich mich jetzt nicht verrechnet habe).
+Soviel zur Theorie. Inwieweit das in der Praxis geht, kann ich nicht
+sagen, kenne mich mit den Kinoausstattungen nicht aus.
+
+Bb,
+
+Philippe
+
+-- 
+* Philippe * Höwelmeyer *  http://fjj.cevafp-uitmz.cw  * Robin Reinke * EEHZ-Fan *
+"Ich ruf' Dich an, wenn ich komme..."                 [Katja Ullius]

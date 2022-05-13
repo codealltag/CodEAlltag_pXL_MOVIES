@@ -1,0 +1,13 @@
+Wer hat Erfahrung mit der ZFIH DC30 und kann mir sagen, welche Hardware fuer
+ein einwandfreies Arbeiten zwingend erforderlich ist, wobei das Ergebnis le-
+diglich auf dem Band einwandfrei sein soll (es ist kein ruckfreies Bild auf
+dem Monitor erforderlich)?
+Vorhandene Hardware: P100 mit 48 MB PS/2, 2x1 GB HD, Spea Mirage P-64 V7,
+Win95 (kein SCSI-System).
+
+
+Antwort bitte als PM
+
+Gruss
+ Begieov
+  Gkdbdgj@j-gkfhzv.eb

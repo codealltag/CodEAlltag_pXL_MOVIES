@@ -1,0 +1,25 @@
+Felix Clemenz wrote...
+(in <716FD1Q0.6T00I6G2@fho.sk>)
+
+
+Ist diese Sicht nicht ein wenig zu sehr an die aktuellen technischen
+Gegebenheiten angelehnt?
+
+
+Alles eine Frage des Bedarfs. Sobald es genug User gibt, die hinter
+solchen Provider-Filtern sitzen, wird's die ersten File-Sharing
+Netze geben, die komplett ueber Port 80 laufen. Oder einen anderen,
+den die Provider garantiert nicht filtern koennen... Oder so
+flexibel sind, dass sie sich die Ports frei aus den offenen waehlen.
+
+Klar, dann gibt's ein wenig mehr Overhead. Aber so what? Bei
+6 MBit/s DSL und den aktuellen Prozessoren stoert das keinen mehr
+wirklich (und auch abgesehen davon wohl nicht, denn wem kommt's da
+schon auf ein paar Stunden an)...
+
+-- 
+Ich wuensch' mir was!
+Kasimir
+
+Today's Teaser:
+Military intelligence is a contradiction in terms.

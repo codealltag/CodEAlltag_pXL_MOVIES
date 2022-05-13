@@ -1,0 +1,13 @@
+Jörn 'Jakob' Bärsch:
+
+
+Warum eigentlich nicht. So kriegt man genau das was man will ;)
+Wer ebenfalls Interesse an so einem Programm hat, kann es sich gerne
+runterladen und evtl. Verbesserungsvorschläge machen...
+
+http://frg.nqshnqdmmb.jd/pzrdv/yooefw.lhf
+
+Ist nur eine EXE, Datenbanken werden nicht gebraucht, das speichert sich
+alles in einer XML Datei. Wers ernsthaft nutzen will, sollte noch nicht zu 
+viele Daten eintragen, da bei neu dazu kommenden Feldern der alte Bestand
+(noch nicht?) übernommen wird...

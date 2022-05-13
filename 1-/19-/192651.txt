@@ -1,0 +1,44 @@
+Am 17 Jul 1997 00:35:00 +0100, imyyx@uchwens.ocs.sk (Ewqnrpyyt Voget)
+schrieb:
+Hallo Raymond,
+A/B wie immer nur auf Messen, mangels verfügbarer Hardware halten wir uns
+im Laden da etwas zurück. acametto ist mir etwas zu windig von der
+Verarbeitung und dieser andere Decoder (ADA?) sah eher wie ein Digitaldruckzentrum
+Bausatz aus, nur kosten die Teile nicht gleich 2500 Mark. Ich gebe DTS
+eine kleine Zukunft im Bereich der Quadrophonie, dort ist die hohe
+Datenrate und der damit gewonnene Qualitätssprung richtig wahrnehmbar, da
+das Ohr und natürlich der Besitzer desselben<g>, sich voll auf die Musik
+konzentrieren. Im Heimkinobereich sieht das anders aus, dort werden wir
+von einer Vielzahl von akustischen und visuellen Reizen überflutet.
+Dadurch wird das Sounderlebnis zum Bestandteil eines ganzen und da noch
+riesige Unterschiede rauszuhören wird ganz schwierig, ich sehe mir
+jedenfalls den Film mit offenen Augen an und schließe sie nicht um
+vielleicht noch eine Ecke mehr Raum rauszuhören. Was ich bis jetzt gehört
+habe, war nur minimal besser als ECKHARD und lohnt den Hype eigentlich nicht
+und es ist eine Menge Hype im Spiel. Mich stört auch die unbeschreibliche
+Arroganz der DTS Leute, die nicht aus den Schuhen kommen um das System
+endlich lauffähig zu bekommen (DVD) und dann den anderen praktisch
+mitteilen, das sie gefälligst zu warten hätten, bis das System fertig ist,
+es ist ja schließlich Teil der Specs. Das erinnert mehr als einmal an
+ZBM und MPEG-MC.
+BTW, hast du schon davon gehört, das die DTS Scheiben, die man zu kaufen
+bekommt, extra abgemischt wurden? Die hinteren Kanäle sind viel lauter als
+die im DD Track. Lauter = besser, dieser Trick ist uralt.
+Die Frage ist auch, wie klingt DTS, wenn die Datenrate reduziert wird? Ist
+der Rechenalgorithmus nur nicht effektiv genug? Mit 1.4 MBit/s kann auch
+MNMD deutlich bessere Ergebnisse erzielen, nur muß dann überall ein
+Kompromiss in Sachen Handling oder Spielzeiten gemacht werden. Die gute
+Klangqualität bei geringen Datenraten zeignet doch das MNMD System aus, es
+ist auch nie für HiFizwecke konzipiert worden, wobei man anmerken muß, das
+die MiniDisc mit ihrem ATRAC System (SDDS verwendet ähnliches) auch nicht
+als HiFimedium erschaffen wurde, sondern als Ablösung für den Walkman. Die
+Entwicklung dieses Systems zeigt aber das hohe Potential, das auch noch in
+MNMD steckt, da sich dort nur der Encoderteil weiterentwickelt hat, bei
+gleichzeitiger Abw�rtskompabilit�t.
+Bye,
+Jean-Claude
+(Sorry, wurde doch länger als geplant)
+
+http://iabwbhl.qyc.mpa/IPrvzfdex
+Following sig is only valid in newsgroups with english lanngueage, hh yu know what i mean;-)
+Just english for Runaways, my German is a lot better (hope so):-))

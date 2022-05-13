@@ -1,0 +1,10 @@
+Hab ich gemacht, aber die anderen soll'ns auch lesen, falls die frage
+mal wieder kommt. Der Punkt ist das besagte news:
+Mein Newsserver heisst aags.bbq.abk.td, einen Server news hab ich auf
+meinem sstem nicht laufen. Würde ich da drauf klicken, würde mein
+rechner sagen,
+cannot connect the server news:
+
+:-)
+
+Gianni Mitterpleininger

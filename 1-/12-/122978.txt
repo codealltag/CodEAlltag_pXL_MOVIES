@@ -1,0 +1,8 @@
+Der Mann hat eben keine Phantasie (mehr)...
+
+So long,
+Michael D. Goos
+-- 
+http://xcly.tzros.ok/aje/
+Neu: Hamster 1.3.22.101 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

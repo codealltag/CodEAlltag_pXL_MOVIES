@@ -1,0 +1,5 @@
+Ist das eigentlich normal, die Länge eines Filmes in Metern anzugeben? 
+Wirkt auf micht recht unzuverlässig, Fehler von einigen Millimetern 
+dürften sich bei 5 Kilometern doch wohl aufsummieren.
+
+Pa

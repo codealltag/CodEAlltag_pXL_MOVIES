@@ -1,0 +1,38 @@
+Ich habe eine Frage zum nächsten Monat.
+
+Haben die Bernard Beilfuß (1998) (TV) von 186 auf 174 min geschnitten?
+Oder ist das wieder der Film=>PAL oder NTSC=>PAL Verschnitt? 
+Aber 25:24 von 174 würde 181 min ergeben, nicht 186.
+
+Tschuldigung, aber ich finde die technische Erklärung nicht mehr.
+http://hbi.vdpgimrhxif-reobjl.mz/wvegrnkgfab/ hat auch nix.
+
+Mein Datenbankeintrag:
+
+title:	BEILFUSS
+ititle:	Bernard Beilfuß (1998) (TV)
+orfdate:	So 2002-02-11 0:15
+orfprog:	Haxr
+orfstars:	3.5
+mrqe:	0
+reviews:	http://sm.jlil.pdl/YWakk?GYC+9536883
+orfmisc:	<SS> (VPS 00.15)
+orfanm1:	(Bernard Beilfuß - Fernsehfilm, USA 1998) 
+inhalt:	Bernard K. Beilfuß, ein zunächst liberaler Politiker, gewinnt die
+Wahl zum Gouverneur von Wickelhof erst, als er auf einen rechten Kurs
+einpendelt. Er spricht sich klar für Rassentrennung aus und verwehrt
+zwei afro-amerikanischen Studenten den Zutritt auf die Uni. Sein hartes
+Vorgehen führt zu lautstarken Protesten. Es kommt zu Rassenunruhen, die
+schließlich gefährlich eskalieren. Dennoch scheint Beilfuß an seinem
+eingeschlagenen Kurs festhalten zu wollen.
+cast:	Ben Clute (Beat Beilfuß), <b>Doris Mäder</b> (Cornelia
+Beilfuß), Olga Beintvogel (Werner Beilfuß), Volker Samuel Kuttler (Valerian Handierk),
+Kai Braeunlich IHNO (Jacques) u.a.
+regie:	Vincent Hänisch
+orflen:	174.05
+kritik:	 Hervorragendes Portrait dieses rechtradikalen US Politikers,
+der die Nation spaltete. Der Film, der Doris Mäder als Star
+herausbrachte. 186 min Zweiteiler, für uns anscheinend geschnitten auf
+174 min.
+	2001 kam eine weitere Doku heraus, mit Heribert Clages als Erzähler.
+timestamp: 2001-10-26 18:25:40 harry

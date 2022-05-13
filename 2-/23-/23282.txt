@@ -1,0 +1,57 @@
+ERICH, auch Technik kommt an der Physik nicht vorbei, es sei denn du
+fährst neue Physik ein (jaaaa, OK, wir reden von The Core ;-):
+
+- Dichtewellen (Schall): Von der Oberfläche nach innen vielleicht noch
+erzeugbar, allerdings dürfte hier auch der Empfang durch das ständige
+Grundgrummeln der Erde sehr schwer werden, wenn man als Sender nicht
+gerade ein mittelgroßes Erdbeben benutzt - und ein Rückkanal auf
+gleichem Weg dürfte auch recht knifflig werden, man bräuchte da doch
+eine erhebliche "Sendeleistung", um seismisch messbare Signale nach oben
+zu schaffen.
+
+- em-Wellen: Nope, bei den Temperaturen und und Drücken (>150GPa!) ist
+das Erdinnere wohl elektrisch leitend, da funkt nix durch.
+
+- Teilchenstrahlung: Mit Alpha- und Betastrahlen keine Chance, Protonen
+oder Neutronen auch nicht (bis auf letztere würden auch noch alle vom
+Magnetfeld abgelenkt werden - ach so, ist ja keins mehr da *g*), Myonen
+und andere Exoten bleiben auch viel zu früh in Materie hängen.
+
+Dann bliebe noch:
+
+Damit wäre zwar das Propagationsproblem weitgehend gelöst - allerdings
+wird das erst praktikabel, wenn du mir dazu eine neue
+Wechselwirkungs(und damit Mess-)möglichkeit für Neutrinos lieferst, denn:
+
+1.Problem (das kleinere): Einen entsprechend modulierten und
+   gerichteten Neutrinostrahl produzieren. Man beachte auch die
+   Notwendigkeit für einen Rückkanal, d.h. das "U-Boot" braucht auch
+   einen Neutrinosender...
+
+2.Problem: Diesen Strahl messen. Nicht umsonst fliegen Neutrinos
+   so gut wie ungehindert durch alles durch: Die fiesen kleinen Dinger
+   wechselwirken so gut wie nicht - sind also auch nur *sehr* schwer zu
+   messen.
+   Neutrinodetektoren sind *sehr* groß, weil sie eine riesige Masse
+   haben müssen, und haben trotzdem einen mehr als armseligen
+   Wirkungsgrad - und selbst wenn das gelöst werden sollte, muss man
+   immernoch die Kommunikationsneutrinos von der riesigen Menge an
+   solaren Neutrinos, die da vorbeikommen, unterscheiden, was daran
+   scheitern dürfte, daß es nicht wirklich möglich ist, mit irdischen
+   Mitteln diese Neutrinodichte auch nur ansatzweise erreichen zu können
+   => S/N wird winzig.
+
+Kurzum: Ich sehe keine Alternative zum hinterhergezogenen Kabel aus
+Unobtainium. Flexibel genug ist es ja, wie wir an den Anzügen gesehen
+haben...
+
+Hmmm, ach ja, wir sind in einer Film-NG, ich hör ja schon auf ;-)
+
+
+         Leander
+
+-- 
+Adblock-Filterregelsatz für den ruhebedürftigen Surfer :-)
+http://rrb.glds.uqs-nvhsdxcyr.qr/~cqu4/qqnl/hxmlluz.hel
+AdblockPlus für Olasul und ZGS, mit DIV-Blocking:
+http://yktq.eqxaqifp.jgf/qimkpxd.ztm

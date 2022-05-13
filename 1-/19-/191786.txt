@@ -1,0 +1,29 @@
+Moin !
+
+
+Es koennte aber sein, dass die Computerspielindustrie frueher oder spaeter
+von CD-ROM auf DVD wechselt und dann tatsaechlich auf die Idee kommt, MPEG2-Video
+und AC3 Sound zu integrieren. Dies wuerde bedeuten, dass man neben dem DVD-ROM i.allg.
+auch eine Dekoderkarte braucht, damit der Prozessor sich ggf. mit anderen Dingen 
+beschaeftigen kann (ich bezweifle ja eh etwas, dass ein aktueller P2 Video und 
+Sound dekodieren kann, und selbst wenn wird immer noch spezielle Hardware fuer 
+die Anschluesse benoetigt).
+Der Markt fuer Dekoderkarten ist ja noch etwas duenn gesaeht, ausserdem kriegt
+man sie bei dem Creative-Kit mehr oder weniger kostenlos dazu, wenn man die 
+Preise von DVD-ROMs vergleicht.
+Code-free bekommt man geschenkt, wo in spaeteren DVD-ROMs die Abfrage ja 
+in Hardware realisiert werden soll (laut Fahrbar) und ein teurer Umbau faellig waer.
+Ich weiss nicht, ob das beiliegende Wing Commander IV AC3 unterstuetzt (moeglich 
+waers ja), aber die Videos sollen wohl MPEG2 sein. OVERSEER von Accesssoftware
+soll sowohl MPEG2-Videos als auch AC3-Sound bieten.
+Insofern finde ich die Frage nach der Bildqualitaet schon berechtigt, und das 
+wuerde mich auch interessieren. Und insbesondere eine Antwort auf die Frage, 
+ob die Dekoderkarte auch PAL60 oder nur echtes NTSC ausgeben kann. Und ob 
+das Bild der anderen Grafikkarten auch auf dem Fernseher ausgegeben werden 
+kann (denn es wird ja durchgeschleift). Any Clues ? ;-)
+
+Gruesse,
+Samuel
+-- 
+Samuel Lüderßen
+bo@mognykoqfr.qwm-tndr.kk

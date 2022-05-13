@@ -1,0 +1,7 @@
+Dass immer mehr Kinos Extended-Dound-Formate nachrüsten ist ja nicht
+zu übersehen. Dabei wird in einzelne Säle aber immer nur entweder
+DD-EX oder DTS-ES eingebaut. Da beide im Kino ja mit einer Matrix
+funktionieren, frage ich mich, warum man beide Programme nicht
+kombinieren kann und evt. auch die Surround-Kanäle von SDDS über eine
+Matrix laufen lassen kann. Weiss jemand darauf eine plausible Antwort?
+Michel

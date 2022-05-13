@@ -1,0 +1,11 @@
+Einen drehbaren Polarisationsfilter koennte man ja noch problemlos bauen 
+(auch wenn es bei der erforderlichen Groesse nicht ganz billig wuerde)
+Man braucht aber zwei (bzw. sehr, sehr viele - fuer jedes Pixel einen), 
+die koennen dafuer aber fest installiert sein.
+
+In normalen Kinos geht ein Polarisationsverfahren uebrigens auch nicht.
+Dazu braucht man eine Silberleinwand. Die meisten Kinos haben aber eine
+weisse (Perlmut?) Leinwand, weil diese bei normalen Filmen fuer eine
+wesentlich gleichmaessigere Bildhelligkeit sorgt.
+
+Ciao, Valerius                                   gtinzjxe@zpa.nvsb-obsyzu.yz

@@ -1,0 +1,14 @@
+Kommt auch wieder auf die Technik an.
+
+XpanD z.B., eine der Mit-Shutterbrille-Varianten, projiziert die 24
+*Bilder*/Sekunde/Auge mit 72fps - 72 *Frames*/Sekunde/Auge.
+Der Projektor selbst arbeitet dabei natürlich mit 72fps*2=144fps, sind
+ja zwei Augen ;-)
+
+Da flimmert selbst bei mir, der ich sonst immer recht flimmerempfindlich
+bin, nichts. Ich bezweifle aber auch, daß irgend eine der derzeit
+verwendeten Methoden tatsächlich unter 24fps fällt. Selbst normales
+Analogkino hat ja schon 48fps (bei 24 Bildern/s)
+
+
+     Valerio

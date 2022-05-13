@@ -1,0 +1,20 @@
+Hi Eilert,
+
+
+der Player an sich ist nicht das Problem, sondern die Direkeinbindung 
+der HD Trailer Buttons auf der Seite. Dadurch wird direkt das QuickTime 
+PlugIn initialisiert, was an der Stelle erstmal unnötig ist. Wenn man 
+sich dann einen Trailer anschauen möchte, dann sollte der erst bei 
+Auswahl initialisiert werden.
+
+
+Evtl. eine Unterseite für Trailer in ihren unterschiedlichen Formaten 
+und Auflösungen.
+
+bye
+Carsten
+
+-- 
+.R.P.I.C carsten picco internet concepts http://fgy.abfm.rz
+::::: part of Müssel multimedia http://urd.dvpzvju.em :::::
+visit http://uyc.zbqckbuvc.vu & http://fjcvt.bpoibo-netegw.bg

@@ -1,0 +1,28 @@
+Das ist nicht ganz richtig. Ihr geht immer davon aus, daß Kamera 1
+anfängt zu knipsen und dann alle nacheinander bis 120 durchgegangen
+werden.
+
+Es ist vielmehr so, daß alle Kameras zu jedem Zeitpunkt gleichzeitig
+knipsen, so daß man schon anhand der Einzelbilder *einer einzigen*
+Kamera die komplette Animation erstellen könnte. Dadurch erhält man
+bei 120 Kameras sehr viel mehr Bildmaterial, als hier bisher
+"vermutet" (denke ich mal) wurde. Das ist auch das eigentlich neue und
+spektakuläre an der ganzen Technik.
+
+So wäre es bei Bedarf z.B. möglich Liane erst mit einem langsamen
+Kameraschwenk im Sprung zu begleiten, dann die Kameraposition zu
+arretieren, sie ihre Beine strecken zu lassen und dann den Schwenk
+beliebig weiterlaufen zu lassen, ohne an die Handlungszeit gebunden zu
+sein.
+
+Wesentlich ist, daß die Kameraschwenks absolut unabhängig von der Zeit
+sind und man sich *hinterher* am Computer überlegen kann, wie es am
+besten aussieht. Die von euch vermutete zeitversetzte Aufnahme wäre
+sehr viel ineffizienter, da sie die Anzahl der möglichen Arrangements
+für das Endergebnis empfindlich eschränken würde.
+
+	François
+-- 
+François Jentsch, Penzenreuth, Germany
+Homepage http://sbyk.vdlxf.cq/~erbmgp.vwpreikhhet
+        Kurzgeschichten & Gedichte

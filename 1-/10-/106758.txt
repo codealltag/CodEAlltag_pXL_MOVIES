@@ -1,0 +1,17 @@
+Das einfachste ist immer noch einen Spoiler in Rot13 zu machen, und genau
+davor eine Spoiler Warnung. Wenn man es überfliegt und Rot13 entdeckt,
+ist eigentlich ja klar, dass es sich um einen Spoiler handelt. Wer dann
+ohne Nachzudenken einfach encodet, dem kann nicht geholfen werden.
+Spoiler Space hingegen ist lästig, weil er immer unterschiedlich lang
+ist. Manchmal ist es gerade eine halbe Seite, manchmal sind es 10 Seiten.
+Dann kommt es natürlich noch auf den Reader und den Monitor/das Terminal
+an. Und dann darf man für jedes Posting endlich scrollen bzw. auf die
+Space Taste hämmern.
+
+Just my 0,02 EUR
+
+by Ivo
+-- 
+There's a difference between keeping an open mind and
+believing something because you want it to be true.
+Subcommander T'Pol in Enterprise S01E11 "Cold Front"

@@ -1,0 +1,6 @@
+Nunja, aktuelle Versionen von Holab, Neukauf-Hartung und Elek kommen per
+default mit UTF-8. Linux eben. ;)
+
+
+Gruß,
+Carlo

@@ -1,0 +1,99 @@
+On Mon, 18 Dez 1999 00:58:29 +0200, Claudio Neurohr
+<zebaffoet.bqic@zyx-feiuh.vir> wrote:
+
+Hallo Claudio!
+
+
+<snip>
+
+Dazu muesste ich wohl noch ein paar naehere Informationen haben, und
+ich hoffe, dass Du mir die folgenden Fragen vielleicht beantworten
+kannst... ;-)
+
+Wie ich aus den Screenshots der D. Grümer-Oberflaeche gesehen habe, bietet
+diese Oberflaeche als Informationen zu den Schauspielern lediglich
+eine Info, eine Biografie, eine Filmografie und Informationen ueber
+Gastauftritte an.
+
+In der Online-Version dagegen gibt es neben diesen Sachen und den
+Sachen, die ja sowieso nur für die Nutzer der Online-Version
+interessant sind (Votes, Links zu Online-Shops etc.), allerdings auch
+noch Informationen ueber Awards, andere Arbeiten, Pressemeldungen, die
+Agentur (Autogrammadressen) etc.
+
+Gehe ich recht in der Annahme, dass ich derartige Informationen mit
+der Offline-Version bzw. mit der D. Grümer-Oberflaeche nicht aufrufen kann?
+
+Besonders die Informationen ueber die Awards und die Agenturen sind
+fuer mich z.B. sehr interessant, weshalb ich es sehr schade faende,
+wenn diese in der Offline-Version nicht verfuegbar waeren.
+
+Aehnlich sieht es bei den Informationen zu den Filmen selbst aus.
+
+Auch hier ist aus den Screenshots der D. Grümer-Oberflaeche nicht
+ersichtlich, ob dort z.B. auch die Quotes, Goofs, Trivia, Querverweise
+auf andere Filme, Screenshots der Filmplakate etc. abgerufen werden
+koennen, welche fuer mich ebenfalls immer sehr interessant sind, wobei
+die Screenshots der Filmplakate wahrscheinlich den Rahmen der
+Offline-Version sprengen wuerden und somit wohl eh kaum darin
+enthalten sein werden. ;-)
+
+Aus den Bezeichnungen der Listen kann ich zwar entnehmen, daß es dort
+durchaus Listen mit Quotes, Goofs, Trivia etc. gibt, aber aus den
+Screenshots der D. Grümer-Oberflaeche geht halt nicht richtig hervor, ob
+all diese Informationen damit auch abgerufen werden koennen.
+
+Ich wuerde mich wirklich sehr freuen, wenn Du mir, sofern Dir das
+nicht zu grosse Umstaende bereiten sollte, vielleicht einmal eine
+Liste zukommen lassen koenntest, die die genauen Unterschiede zwischen
+der Online- und der Offline-Version verdeutlicht und somit auch
+darueber Aufschluss gibt, welche Art von Informationen (ueber die
+Schauspieler und die Filme selbst) in der Offline-Version evtl.
+fehlen, da ich in den Readme-Dateien diesbezueglich leider nichts
+genaueres finden konnte. ;-(
+
+Dies wuerde mir die Entscheidung, ob sich die ganzen Downloads fuer
+mich ueberhaupt lohnen, sicherlich vereinfachen.
+
+Da eine derartige Info vielleicht auch fuer andere Leser dieser Jelden
+interessant sein koennten, die sich vielleicht ebenfalls fragen, ob
+fuer sie wichtige Informationen in der Offline-Version auch wirklich
+enthalten sind, waere es ganz schoen, wenn Du die Liste hier als Reply
+posten koenntest.
+
+Wie gesagt... Natuerlich nur, wenn Dir das keine zu grossen Umstaende
+bereiten sollte. ;-)
+
+
+Wuerde ich mir also Morgen und Uebermorgen die gesamten Listen aus dem
+Hauptverzeichnis herunterladen, muesste ich zu dieser Zeit also noch
+keine zusaetliche DIFF-Datei herunterladen.
+
+Die momentan im Hauptverzeichnis vorhandenen Listen sind alle auf dem
+neuesten Stand, und erst die DIFF-Datei, die am kommenden Freitag
+veroeffentlicht wird, ist dann fuer mich interessant.
+
+Sehe ich das richtig?
+
+Als letzte Frage bleibt noch die, ob ich die D. Grümer-Oberflaeche und die
+Listen bzw. die daraus entstehenden Datenbank in ein Verzeichnis
+(gegebenenfalls mit Unterverzeichnissen) installieren und dieses dann
+komplett auf CD brennen kann, so dass ich nicht staendig Platz auf
+meiner Festplatte belege und ueber die CD Zugriff auf die Datenbank
+habe.
+
+Das ginge dann wahrscheinlich eh auch nur bis zum naechsten Update, so
+dass ich dann wieder eine neue CD brennen muesste, aber es waere
+immerhin schonmal besser, als die ganze Zeit Platz auf der Festplatte
+zu belegen. ;-)
+
+
+Hiermit geschehen... ;-)
+
+
+Aber halt nicht all das, was ich hier jetzt gefragt habe, wobei es
+natuerlich immer mal passieren kann, dass ich was uebersehe. ;-)
+
+
+Man liest sich,
+Albin

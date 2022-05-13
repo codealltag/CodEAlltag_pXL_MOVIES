@@ -1,0 +1,123 @@
+Eine kleine Reise durch die 3-D-Technik
+
+Grundsätzlich benötigt perspektivisches Sehen  zwei unterschiedliche
+Bildreize, die den Augen getrennt voneinander zugeführt werden müssen.
+
+Im Bereich der Kinotechnik (3-D-Filme, IMAX-3D usw.) ist die Angelegenheit
+recht einfach. Es gibt zwei verschiedene Verfahren. Bei beiden werden zwei
+Projektoren benötigt, die für jedes Auge getrennt, die entsprechenden
+Bilder liefern.
+
+Beim ersten Verfahren werden die Bilder wechselweise auf die Leinwand
+projiziert. Der Zuschauer trägt eine spezielle elektronische LCD-Brille,
+deren Gläser mit einem Taschenrechnerdisplay (schwarze Ziffern) verwandt
+sind und die sich unabhängig voneinander vollständig abdunkeln lassen.
+
+Eine Elektronik sorgt nun dafür, daß das rechte Brillenglas immer dann
+durchsichtig ist, wenn das Bild für das rechte Auge projiziert wird und
+schaltet es undurchsichtig, wenn das Bild für das linke Auge von der
+Leinwand strahlt. Die Synchronisation der Elektronik-Brille mit den
+Filmprojektoren erfolgt über eine Infrarotschnittschnittstelle (wie bei der
+Fernbedienung), deren Sender ober- oder unterhalb der Leinwand angebracht
+ist.
+
+Das zweite Verfahren projiziert beide Bilder gleichzeitig, wobei vor jedem
+Projektor ein sog. Polarisationsfilter angebracht ist. Ich möchte hier jetzt
+nicht näher auf die Funktionsweise eines Polfilters eingehen - wer sich
+dafür
+interessiert, auf meiner Homepage www.pbogyzmbkwi-zjwymw.sk wird unter
+anderem auch dies erklärt - nur soviel: Bei einem Polfilter ist es wie bei
+dem Mann mit der Leiter: Quer geht er mit Leiter nicht durch die Tür,
+hochkant aber problemlos.
+
+Die beiden Polarisationsfilter vor den Projektoren  sind  um 90 Grad
+gegeneinander verdreht. Die Brillen enthalten ebenfalls zwei Polfilter,
+wobei das Filter fürs rechte Auge um 90 Grad zum Filter fürs linke Auge
+verdreht ist. Damit läßt der jeweilige Polfilter in der Brille nur das Licht
+des Projektors durch, dessen Filter die gleiche Winkelstellung aufweist. Das
+Licht des zweiten Projektors wird weitgehend ausgeblendet.
+
+Beide Verfahren sind im Bereich des Fernsehens nicht einsetzbar. Es lassen
+sich zwar grundsätzlich zwei verschiedene Bilder darstellen (sowohl
+nacheinander oder auch gleichzeitig), jedoch lassen sich diese beim
+Betrachter so ohne weiteres nicht auf das gewünschte Auge verteilen. Das
+Polarisationsverfahren scheidet grundsätzlich aus, da beim Fernsehen
+bekanntlich nur eine Bildquelle zur Verfügung steht, die nicht gleichzeitig
+in zwei Ebenen polarisiert werden kann. Ein auf einer LCD-Brille basierendes
+System wäre grundsätzlich denkbar, allerdings wäre es mit einem
+unrealistisch
+hohen technischen Aufwand verbunden.
+
+In der Frühzeit des 3-D Fernsehens (Ende der 70er Jahre beispielsweise
+"Klimbim") behalf man sich  mit den ja allseits bekannten Rot-Grün-Brillen.
+Die zwei benötigten Bilder wurden gleichzeitig gesendet, jedoch eines in
+grüner und eines in roter Farbe. Nach den Prinzipien der subtraktiven
+Farbmischung (siehe wieder meine Homepage www.pbogyzmbkwi-zjwymw.sk ) sperrt
+das grüne Brillenglas das rote Bild des Fernsehgerätes und umgekehrt,
+wodurch jedes Auge wieder nur eins der beiden gesendeten Bilder sieht.
+Nachteil dieses Verfahrens ist, daß das wahrgenommene Bild zwar
+dreidimensional, aber auch nur schwarz/weiß ist.
+
+Das derzeit im Fernsehen aktuelle 3-D-Verfahren ist eigentlich gar keins. Es
+werden nur einige Effekte, die beim Fernsehen sowieso vorhanden sind,
+geschickt ausgenutzt:
+
+Grundsätzlich werden beim Fernsehen pro Sekunde 25 Bilder projiziert, jedoch
+nicht vollständig, sondern halbbildweise. Das heißt, im ersten Durchgang
+schreibt der Elektronenstrahl die ungeraden TV-Zeilen auf den Schirm, im
+zweiten Durchgang die geraden Zeilen. Tatsächlich erfolgt der Bildaufbau
+damit 50 mal in der Sekunde. Für das Auge verschmelzen beide Halbbilder zu
+einem Vollbild.
+
+Normalerweise wäre zu erwaren, daß die Bildinhalte der beiden Halbbilder
+identisch sind. Dies ist jedoch nur dann so, wenn die Aufnahmen ursprünglich
+mit einer Filmkamera gemacht wurden (Spielfilm im Fernsehen) oder sich auf
+dem Bild nichts bewegt (beispielsweise Landschaftsaufnahme).
+
+Sind die Aufnahmen mit einer elektronischen Kamera gemacht worden, gibt es,
+je nach Stärke der Bewegung, Abweichungen zwischen den beiden Halbbildern.
+Dies kommt daher, weil eine Videokamera die beiden Halbbilder nicht aus
+einem Vollbild generiert, sondern einfach nacheinander aufzeichnet. In der
+Zeit zwischen der Aufnahme des ersten und zweiten Halbbildes hat sich das
+Aufnahmeobjekt eben je nach Geschwindigkeit der Bewegung oder des Schwenks
+mehr oder weniger stark verändert.
+
+Vielen Videorecorder-Besitzern wird dieser Effekt bekannt sein. Wenn das
+Gerät ein Standbild wiedergibt, steht nicht immer der gesamte Bildinhalt
+still - einige Teile (beispielsweise die sich gerade bewegende Hand des
+Schauspielers) zittern seltsam hin und her - der Videorecorder zeigt zwei
+unterschiedliche Halbbilder.
+
+Normalerweise setzt das menschliche Gehirn die beiden Habbilder (auch wenn
+diese sich etwas voneinander unterscheiden) zu einem Vollbild zusammen. Dies
+geschieht für beide Augen gleichzeitig. Und genau hier setzt die zum Einsatz
+kommende Brille an, die keinesfalls einen Webegag darstellt.
+
+Eines der Brillengläser  ist einfach nur ein Glas (man könnte es auch
+weglassen), das zweite ein Graufilter, welches die Lichtmenge, ähnlich einer
+Sonnenbrille, reduziert. Da der menschliche Sehapparat darauf ausgelegt ist,
+helle Lichtreize mit höherer Priorität zu verarbeiten als dunklere, wird
+das Bild des lichtreduzierten Auges vom Gehirn geringfügig später
+wahrgenommen. Das Graufilter ist in seiner Dichte so bemessen, daß das Bild
+bei den meisten Menschen mit einer Verzögerung von 1/50 Sekunde wahrgenommen
+wird.  Da die Wahrnehmung des zweiten Auges verzögerungslos verarbeitet
+wird, sieht das linke Auge immer ein anderes Halbbild als das rechte. Je
+größer nun die Unterschiede zwischen diesen Halbbildern sind, desto
+plastischer wirkt das Bild. Die derzeit gezeigten "3-D-Sendungen" sind daher
+eigentlich gar keine, sondern nur sehr bewegt aufgenommene, normale
+Fernsehbeiträge.
+
+Theoretisch könnte man nach diesem Prinzip auch unbewegte Objekte
+dreidimensional darstellen. Die beiden Halbbilder müßten dazu von zwei
+parallelversetzten Kameras stammen. In der Praxis ist dies jedoch nicht
+möglich, da sich hierdurch die Bildwechselfrequenz auf 25 Hz (normal 50 Hz)
+verringern würde. Ein so gesendetes Landschaftspanorama hätte zwar eine
+plastische Wirkung, es würde jedoch extrem stark flimmern.
+
+Fragen beantworte ich gerne - bitte zusätzlich auch via E-Mail an
+z.kjkqupm@uom.qtu versenden.
+
+Viele Größe
+Christoph Christoffel
+z.kjkqupm@uom.qtu
+www.pbogyzmbkwi-zjwymw.sk

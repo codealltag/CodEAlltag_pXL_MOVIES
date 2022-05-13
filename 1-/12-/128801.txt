@@ -1,0 +1,13 @@
+Am 04 Feb 2001 schrieb Thorsten Novack:
+
+
+Die Umrechnung von 12 Zoll zu einem Fuß ist etwas größer als dezimal
+(Faktor 10). :-)
+
+Tschüss,
+        Nils
+-- 
+"The PROPER way to handle HTML postings is to cancel the article,
+then hire a hitman to kill the poster, his wife and kids, and fuck 
+his dog and smash his computer into little bits. Anything more is 
+just extremism." - Clemens Dohmann

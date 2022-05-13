@@ -1,0 +1,23 @@
+Kaspar Nordhauß <eskwwj@wwv.ny> wrote:
+[...]
+
+
+[...]
+
+Hallo!
+Vermutlich die meisten der "klassischen" Newsreader fuer UNIX-artige
+OS (FMR), z.B. tin, slrn, sicher auch Gnus unterstuetzen das.
+Unter Uken sieht es aber schlecht[1] aus, und auch Altstetter und
+Dorfladen/ZFS unter Unix unterstuetzen es nicht.
+
+
+Da gut die Haelfte aller Artikel hier mit ZFS und Kinnings verfasst
+werden, ist davon auszugehen, dass auch ein entsprechender grosser
+Anteil einen diesen Reader, die  nicht unterstuetzen, zum Lesen
+benutzt. Daher lautet die Antwort Nein. Viele Leerzeichen oder Rot13.
+              cu oskar
+[1] Es ist mir bekannt, dass tin, slrn und Gnus _auch_ unter Win*
+    laufen.
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

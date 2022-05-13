@@ -1,0 +1,18 @@
+Hi Louis,
+
+
+Im MPEG-Standard sind zwei Ausgabeformate fuer NTSC definiert,
+einmal 30 fps und einmal 29,97 fps.
+
+Ich habe den Standard gerade nicht hier, aber ich habe eine Quelle
+im Web gefunden, die sagt, dass in MPEG-2 MP@ML nur folgende Framerates
+erlaubt sind:
+
+- 23.976 Hz (3-2 pulldown NTSC)
+- 24 Hz (Film)
+- 25 Hz (PAL/SECAM or 625/60 video)
+- 29.97 (NTSC)
+- 30 Hz (drop-frame NTSC or component 525/60),
+
+Gruss
+  Patrice

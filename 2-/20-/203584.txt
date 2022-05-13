@@ -1,0 +1,59 @@
+==========================
+Laserdisc-Neuerscheinungen           Zusammengestellt von Henry Ziegelbaur;
+==========================           Angaben wie immer ohne Gewähr.
+
+WS    = Widescreen/Letterboxed Edition (Original Kinoformat);
+SE    = Special Edition (besondere Fassung i.d.R. mit Zusatzmaterial);
+THX   = Bild- und Tontransfer unterlag der THX-Qualitätssicherung;
+AC-3  = in "Dolby Digital" (6-Kanal-Ton);
+CAV   = Laserdisc-Format das Sonderfunktionen (z.B. Standbild) bietet;
+IMAX  = Transfer von IMAX-Großbild-Film;
+Crit  = Criterion Collection Special Edition;
+JP    = Japan-LD, d.h. i.d.R. engl. Sprache mit jap. Untertiteln;
+**    = Ton nicht in "Dolby Surround" (oder kompatiblem Verfahren).
+
+Die Preise beziehen sich auf das Angebot eines lokalen Händlers
+(der i.d.R. die besten Preise hat); dort kann man auch zum Versand
+bestellen, auf Wunsch teile ich die Adresse gerne mit.
+
+--------------------------+------+---------------------+------------+-----
+Titel (englisch, NTSC)    | Jahr |                     | Release    | DM
+--------------------------+------+---------------------+------------+-----
+12 Monkeys                | 1995 | WS                  | 16.12.96   |  79
+12 Monkeys                | 1995 | WS SE               | 16.12.96   |
+Abyss, The (Dir. Cut)     | 1989 | WS THX AC-3         | 07.01.97   | 119
+Alive                     | 1992 | WS AC-3 CAV SE      | 31.12.96   |  95
+Amadeus                   | 1984 | WS AC-3             | 02.01.97   |  95
+Amadeus                   | 1984 | WS SE THX AC-3      | verfügbar  | 325
+Amadeus                   | 1984 | WS THX AC-3         | verfügbar  | 149
+American Graffiti         | 1973 | WS THX              | 23.12.96   |  79
+American President, The   | 1995 | WS                  | verfügbar  |  69
+Apollo 13                 | 1996 | WS SE THX           | 16.12.96   | 189
+Assassins                 | 1995 | WS AC-3             | 09.01.97   | 129
+Balto                     | 1995 | WS THX              | verfügbar  |  65
+Bed of Roses              | 1996 |                     | 25.11.96   |  79
+Beyond Rangoon            | 1995 | WS                  | verfügbar  |  79
+Bio-Dome                  | 1996 | WS AC-3             | verfügbar  |
+Black Sheep               | 1996 | WS AC-3             | 06.01.97   |
+Blood For Dracula         | 1974 | WS 103 Min.         | 26.11.96   |  99
+Braveheart                | 1995 | WS THX AC-3         | verfügbar  |  99
+Broken Arrow              | 1996 | WS THX AC-3         | 31.12.96   |  79
+Broken Trust              | 1995 | WS THX              | verfügbar  |  84
+Casino                    | 1995 | WS                  | verfügbar  |  85
+City Hall                 | 1996 | WS                  | 27.01.97   |  69
+Cold Blooded              | 1995 |                     | demnächst  |
+Crossing Guard, The       | 1995 | WS THX AC-3         | 25.11.96   |  85
+Cutthroat Island          | 1995 | WS THX AC-3 SE      | verfügbar  |  89
+Days Of Heaven            | 1978 | WS AC-3             | verfügbar  |
+Dead Man Walking          | 1995 | WS SE               | 25.11.96   |  85
+Dead Presidents           | 1995 | WS AC-3             | verfügbar  |  79
+Dead Presidents           | 1995 | WS AC-3 CAV Crit    | verfügbar  | 189
+Decoy                     | 1995 |                     | verfügbar  |  79
+Devil in a Blue Dress     | 1995 | WS                  | verfügbar  |  69
+Dr. No                    | 1962 | WS SE THX CAV **    | 23.12.96   | 189
+Executive Decision        | 1996 | WS AC-3             | 06.01.97   |  79
+Eye For An Eye            | 1995 | WS AC-3             | 02.12.96   |  79
+Father of the Bride II    | 1995 | WS AC-3             | 25.11.96   |  85
+Flesh For Frankenstein    | 1973 | WS 95 Min.          | 26.11.96   |  99
+Four Rooms                | 1996 | WS                  | 30.12.96   |  79
+French Connection, The    | 1971 | WS                  | verfügbar  |

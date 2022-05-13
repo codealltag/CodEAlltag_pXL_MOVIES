@@ -1,0 +1,70 @@
+Ja, hier in Oberölsbach kommt es auf das Kino an. Einige tendieren zur 
+Unschärfe. Ein paar von ihnen haben technische Probleme, bei anderen 
+führe ich die Unschärfe auf Unvermögen oder Deinteresse zurück. 
+Manchmal ist es auch eine Kombination aus beidem.
+
+
+Der "Autofocus" aus den Diaprojektoren würde Dir nicht helfen, 
+denn anders als der Name suggeriert stellt er nicht automatisch das Bild 
+auf der Leinwand scharf. Er hält vielmehr den Abstand Dia <-> Objektiv
+konstant. Man muß also das Bild zuerst manuell scharfstellen, dann sorgt
+der "Autofocus" dafür, dass sich die Schärfe nicht mehr ändert.
+
+Beim Diaprojektor gibt es zwei Gründe, warum die Lage des Dias nicht
+immer konstant ist:
+ a) Unterschiedlich dicke Diarahmen
+ b) Erhitzung und thermische Ausdehnung des Dias, die zum "Ploppen"
+    führen kann.
+
+Bein einer Filmprojektion sind die beiden Punkte nicht in dem Ausmaß 
+gegeben:
+ - Der Film wird an EINE feste Filmbahn angedrückt.
+   Höchstens Staub oder Abrieb, der zwischen Film und Filmbahn gerät,
+   sowie Schwankungen in der Dicke des Filmstreifens kann den Abstand 
+   verändern.
+ - Da der Film mit 24 B/s transportiert wird, ist die Erwärmung nicht
+   so stark. Lediglich bei sehr lichtstarken Projektoren wird sie
+   zum Problem. Hier behilft man sich mit Wärmeschutzfilter und der
+   Kühlung der Filmbahn und des Films selbst.
+Zudem wäre der "Autofocus" des Diaprojektors viel zu langsam. Bis der
+ein Abstandsänderung ausgeglichen hat, ist dre Film schon einige
+Bilder weiter transportiert und damit der alte Abstand wieder 
+hergestellt.
+
+Beim Filmprojektor gibt es aber noch einen anderen Effekt, der zum 
+Eindruck eines "unscharfen" Bildes führen kann: Schlechter Bildstand.
+Da können die einzelnen Bilder 100% scharf sein, wenn sie nicht
+exakt übereinander sondern leicht versetzt projeziert werden, wirkt
+das Resultat unscharf, da dann die Bilder auf der Leinwand "wackeln",
+Besonders in Filmtransportrichtung ist dies ein Problem, z.B. durch
+Spiel im Getriebe oder ausgeleierte Perforationslöcher.
+Hier hat Dorer vor einigen Jahren ein System vorgestellt, dass
+Schwankungen im Bildstand automatisch durch eine Korrekturoptik
+ausgleichen soll, Ich persönlich habe das System aber noch nicht gesehen.
+
+Gründe die zu einem unscharfen Bild im Kino führen können:
+ - Die Schärfe wird nicht richtig eingestellt. 
+   Da der Vorführer (so es ihn überhaupt noch gibt) die Schärfe aus dem
+   Vorführraum schlecht beurteilen kann, wird dies meist per Fernsteuerung
+   aus dem Saal gemacht. (Dort wo es noch richtige Vorführer gibt, auch
+   per Telefon.) In der Regel sind dafür die Leute am Einlass zuständig.
+   In den Multiplexkinos sind die aber unterbezahlt/inkompetent/mit dem
+   Popcornverkauf beschäftigt. Die Fernbedienung ist meist hinter einer
+   kleinen Klappe neben dem Eingang. Der ist oft in der hintersten Ecke 
+   des Saales, so daß man von dort aus die Schärfe besonders schlecht 
+   beurteilen kann. Wenn die Drucktaster vernünftig beschriftet sind 
+   (und Du Dich nicht erwischen läßt) kannst Du selsbt versuchen die 
+   Schärfe nachzujustieren.
+ - Schlechte oder vredreckte Objektive
+ - Verdreckte Projektionsfenster
+ - ungünstige Projektionsachse 
+    * Spiegelprojektion (argh!)
+    * Bild kann nur teilweise scharf gestellt werden.
+ - Schlechter Bildstand
+    * ausgeleiherter Projektor
+    * ausgeleiherte Kopie
+ - Unscharfes Bild auf der Kopie
+    * Fehler/Schlamperei im Kopierwerk
+    * Blur-Filter bei der digitalen Nachbearbeitung.
+
+Ciao, Reiner                       bqpoa.obgiebgz@wglpf.ky

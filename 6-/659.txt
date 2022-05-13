@@ -1,0 +1,30 @@
+Das ist halt für die Anbieter eine bequeme Möglichkeit, sich die teure 
+doppelte Lagerhaltung und doppelte Vertriebslogistik zu sparen.
+
+Und für diejenigen Kunden, die noch keinen BD-Player haben, ist die 
+Sache auch nicht Übel: Wenn der alte DVD-Player in einigen Jahren 
+schliesslich doch das Zeitliche segnet und durch einen BD-Player ersetzt 
+wird, müssen sie sich ihre Lieblingsfilme nicht noch einmal kaufen, 
+sondern haben schon etliche Scheiben im Regal stehen.
+
+
+Die beigelegte DVD ist eine DVD mit allen Eigenschaften, die eine DVD 
+üblicherweise so hat.
+
+Für den Download dagegen gibt es keine Konventionen, das legt der 
+Anbieter individuell fest, und kann von pixeligem MPEG1 im 
+Briefmarkenformat bis zu H264 mit DTS-Tonspur praktisch alles sein.
+
+
+Ich würde auf wmv oder H264 in irgend einem DRM-fähigen Container 
+(z.B.Flash) tippen. MPEG2 ist im Internet eher unüblich, da es unnötig 
+viel (teure) Übertragungsbandbreite verbrät.
+
+überall und unbegrenzt abspielbar ist ziemlich unwahrscheinlich, da wird 
+meistens irgend ein DRM dranhängen. Wie restriktiv dieses ist, 
+entscheidet der Anbieter individuell.
+
+
+Frag' den Anbieter, das kann er halten wie er will.
+
+Laurent

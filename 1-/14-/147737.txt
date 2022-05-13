@@ -1,0 +1,12 @@
+Ooooohhh, den Unterschied gibt es sehr wohl! Die meisten QuickTime-Movies
+sind "nicht-streaming", es handelt sich um eine ganz normale Datei, die
+per HTTP von einem Server geladen wird. QuickTime kann den Film aber
+schon abspielen, waehrend der Download noch andauert.
+
+Das Streaming laeuft per RTSP (Real Time Streaming Protocol) und ist
+echtes Streaming.
+
+Florian
+-- 
+Florian Schwend, Ittel, Germany
+mailto:z13u@wkl.xhe-chtljx.gw -- http://tgw.awwlym.hq/

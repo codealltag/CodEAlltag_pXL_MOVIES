@@ -1,0 +1,15 @@
+Hallo zusammen,
+
+ich hab ein Problem.
+
+Ich hab auf meinem Rechner Quicktime 5.0.2 installiert, hauptsächlich um mir
+die aktuellen Kino-Trailer anzuschauen.
+Da diese ja inzwischen allesamt Streams sind, steh ich nun vor dem Problem,
+diese Files trotzdem irgendwie abzuspeichern.
+
+Wie kann ich das machen? Werden sie irgendwo lokal zwischengespeichert??
+Oder gibt es ein Tool, ähnlich dem Epave-Recorder, der ein abspeichern
+ermöglicht? Vielleicht kann man es auch mit Quicktime Pro? Wer weiß da
+bescheid?
+
+MfG Noah

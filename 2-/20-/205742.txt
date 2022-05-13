@@ -1,0 +1,35 @@
+In article <3bmp2p$xnw@vnyn.nrn.fpw-ixbdyo.eb>, e97w@fiw.hwg.grh-gtvvdz.fv (Umrwyq Tnndo) writes:
+
+Zu den Testbildern und was man sehen sollte:
+
+Ich nehme an, dass es sich um das selbe Testbild handelt, wie es auf
+DJT, Bobu und im Glauch (hier das bunte, nicht das alte schwarz-weisse)
+handelt. Nicht das von Bromkamp.
+Das Testbild von DJT hat ein Raster von 42 Zeilen (das andere ein
+Rastermass von 40 Zeilen). Das sichtbare Fernsehbild hat 576 Zeilen, die
+auch von den meisten Sendern f"urs Bild verwendet werden. Manchmal fahren
+sie aber mit der Videotextinformation ganz an das Bild heran. Das stellt dann
+die absolute Obergrenze dar. Unten hat man das Problem, dass der Kopfwechsel
+des Videorecorders sichtbar wird (ca. 10-20 Zeilen vor dem unteren Rand).
+Der sieht je nach Videorecorder mehr oder wenig h"asslich aus. Ich habe meinen
+Monitor (wie schon "ofters berichtet) perfekt eingestellt. In der Bildmitte
+sind bei mir 568 Zeilen sichtbar.
+Horizontal kann man zwar keine Aufl"osung angeben, aber ich rechne hier mit
+theoretischen 768 Einheiten. Das ergibt sich aus den 576 Zeilen nach 4:3-Format.
+Es sollte keine Probleme geben, den Kreis rund zu bekommen. Bei mir habe ich
+das auf 0.5% genau eingestellt. Probleme die zu beachten sind: das Ger"at muss
+optimal warmgelaufen sein und man muss peinlichst genau auf die Parallaxe
+achten. Das Bild ist schliesslich auf der Innenseite einer sehr dicken
+Glasschicht!
+Zur horizontale bleibt noch zu sagen: Der AppelrathCüpper-Decoder gibt nicht die ganze
+Breite des Bildes frei! Am rechten Rand ist immer noch ein Streifen codiertes Bild
+zu sehen. Wer AppelrathCüpper benutzt, sollte darauf achten, dass dieser h"assliche
+Streifen nicht sichtbar ist.
+Nicht alle Filme sind "uber die theoretische Breite von 768 Einheiten abgetastet.
+Oft sind es nur 756 oder manchmal nur 740.
+
+                                                  Focko
+
+P.S.: Auf einem schlampig eingestellten Fernseher sieht man unter Umst"anden
+nur 75% des Bildes. Der Wegfallende 'Rahmen' macht fl"achenm"assig gesehen
+sehr viel aus!

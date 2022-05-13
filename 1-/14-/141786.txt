@@ -1,0 +1,40 @@
+Also "schlichten Gemütern raten wir ab..."  ;-)
+
+Na ja, das Zitat war aber auch geschickt gewählt. Du hättest auch
+"Sozial- und religionskritischer Film von großer formaler wie
+thematischer Kraft" nehmen können.
+
+
+Ich habe sogar noch die 05. 12. 22, außerdem die 05. 12. 22, die ich zusammen
+mit ein paar Schrottprogrammen in einem Paket für einen Zwanziger
+bei Flunk gekauft habe. Leider ist diese Version in den Funktionen
+etwas eingeschränkt (stand natürlich nicht auf dem Paket), und das
+Datenformat ist anders als bei der alten Version, so daß ich die neuen
+Daten nicht einfach ins alte Programm übernehmen konnte. So benutze
+ich beide parallel.
+Vielleicht werde ich mich jetzt mal nach der kompletten Vorjahresversion
+umsehen. Sollte es bei Motsch geben.
+
+Die neuere Fassung bietet anders als die alte Volltextsuche in den
+Kurzkritiken. Damit reichen die Suchfunktionen eigentlich aus, und
+notfalls muß halt die IMDb einspringen (die ich auf der Platte habe).
+
+Abstürze hatte ich mit beiden Versionen noch nie (Win98, früher 95a).
+
+Was mich mehr stört, ist die besch...eidene Oberfläche. Bei meinem
+19''-Monitor mit hoher Auflösung wird vielleicht ein Fünftel des Platzes
+genutzt, der Rest ist blauer Rand. Dafür ist die Schrift winzig und
+läßt sich nicht verstellen. Argh! Wie wird das erst, wenn mal die
+Altersweitsichtigkeit einsetzt...
+Und dann läßt sich das Fenster nicht minimieren, überdeckt die
+Taskleiste, reagiert praktisch überhaupt nicht auf die Tastatur, und
+zum Beenden muß man nicht weniger als viermal klicken, mit einer
+Kunstpause dazwischen.  *Seufz*
+Und das Programm krallt sich ohne irgendeinen Anlaß massenhaft
+CPU-Leistung und verbrät Strom. Wenn mein Prozessor normalerweise
+(mit CpuIdle) lauwarme 35ö warm wird, dann schafft er mit dem LDIF
+(ohne jede Aktion) 20ö mehr...
+
+So gut der Inhalt ist, so schlecht ist die Verpackung.
+
+Ernst

@@ -1,0 +1,14 @@
+Hallo.
+
+Ich benutze seit Längerem Autopark 3.0.27 mit applydif 2.5. Allerdings 
+habe ich seit Kurzem immer wieder Probleme mit den diffs. Die letzte hat 
+trivia.list im /diff Folder liegen lassen. Vor mehreren Wochen machten 
+die actors.list und actresses.list auch Probleme.
+
+Gibt es eine neuere Version von akroform, oder wie soll man das Problem 
+umschiffen?
+
+TIA
+
+-- 
+Gabriel

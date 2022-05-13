@@ -1,0 +1,11 @@
+Das funktioniert nicht unbegrenzt, da die Digitaltonger�te mit einer
+Fehlerkorrektur für den Fall ausgestattet sind, daß einige Timecodes
+bzw. Datenblöcke nicht gelesen werden können. Die verschluckt sich, 
+wenn der Film zu schnell läuft. Die Geräte sind für 24 B/s ausgelegt, 
+aber so daß leichte Geschwindigkeitsschwankungen des Projektors ohne 
+Aussetzer oder Synchronit�tsverlust verkraftet werden.
+
+Ciao, Csabr                           shkpqdzv @ qvedrrky.ps
+
+Zuletzt gesehen: Geschlossene Gesellschaft, Zeit zu leben, 
+Le lait de la tendresse humaine

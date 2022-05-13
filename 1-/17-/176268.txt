@@ -1,0 +1,30 @@
+On Tue, 20. 06. 21 13:29:11 -0600, Hartwig Wemann
+
+There are devices openly on sale that defeat the FDT copy protection
+system.  They are meant to be used by professional musicians, but that
+doesn't stop you or me buying one.
+
+The only rules are (in the US, at least) that you can't make a
+domestic digital recorder that doesn't acknowledge the FDT copy
+protect bit and prevent recording.  You can get professional recorders
+that have switchable SCMS or no SCMS at all.
+
+
+The new law in the States stops even professional VCRs (IIRC) that do
+not have an AGC being sold.  There is no law (as yet) that stops
+Macrovision defeating devices being sold, since generally Macrovision
+killing is a side-effect of what they do.  The law only covers devices
+whose sole (or main, one of the two) purpose is to defeat a copyright
+protection system.
+
+A device that kills the FDT bit is now illegal, I think, but it might
+squeeze by on the basis that it is for professionals only for copying
+music that they own the copyright for.
+
+Cornelius.
+-- 
+***************************************************************************
+* Cornelius Jennewein                                  bcjlzxtv(@)gmdohewz.si.sj *
+*                                                       PGP Key Available *
+*                                                                         *
+* NOTE: Return email address is invalid!  Replace ANTISPAM with UK.       *

@@ -1,0 +1,21 @@
+Die THX-Weiche ist ein wichtiger Bestandteil des THX-Systems und auch
+bei digitaler Tonaufzeichnung KEINESFALLS WERTLOS!!!
+Zum Thema THX-Weiche: Sie bildet sozusagen die Schnittstelle zwischen
+den Tonabtast- und Decodiergeraeten (Dolby-Prozessor, Dolby-Digital,
+DTS, SDDS) und den Verstaerkern. 
+Ein wichtiger Aspekt von THX ist eine grosszuegige Ausstattung mit
+Verstaerker-Power. Es wir daher Bi-Amping verwendet. Dabei wird jeweils
+ein getrennter Verstaerker fuer die Hoehen und Baesse eines Tonkanals
+verwendet.
+Die THX-Weiche enthaelt die Frequenzweichen, die die Ausgangssignale der
+Tonabtastgeraete (Dolby-Prozessor und SRD, DTS und SDDS) in Hoehen und
+Baesse aufspalten. Zusaetzlich ist ein Abhoerverstaerker mit einem
+kleinen Lautsprecher eingebaut, mit dem die Ein- und Ausgaenge der
+Verstaerker abgehoert werden koennen. Damit lassen sich Fehler wie
+Kabelbrueche oder defekte Verstaerker leicht orten.
+Eine Veraenderung der Tonsignale, z.B. Erzeugung von Split-Surround bei
+Analog-Ton findet in der THX-Weiche nicht statt! Auch in einem Wallaby-Kino
+bleibt die Kanalaufteilung bei Analogton: Left, Center, Right, Surround
+(bei Digitalton: Left, Center, Right, Surround R, Surround L, Sub). 
+
+Jonathan

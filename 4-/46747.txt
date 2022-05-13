@@ -1,0 +1,38 @@
+,----
+
+Vorübergehend bzw. flüchtig sind sie, man verbreitet sie nur die
+kurze Zeit während des eigenen Downloads.
+
+
+Das technische Verfahren ist peer2peer. Wesentlicher Teil dieses
+Verfahrens ist eine automatische Lastverteilung auf alle
+Teilnehmer.
+
+Dinge, die viele Ressourcen brauchen, weil sie von vielen Leuten
+nachgefragt werden, müssen auf viele Teilnehmer verteilt werden.
+Meist benutztes Verfahren ist dabei, dass genau die, die auch Last
+erzeugen, die verbrauchten Ressourcen etwas später 1:1 ans Netz
+zurückgeben.
+
+
+Hier wirds schwierig. Die Teile der Dateien, die man runterlädt,
+liegen im Cache (wird oft auch temp-Verzeichnis genannt) der
+p2p-Software, von wo aus sie irgendwann zu der Datei
+zusammengesetzt werden, die man angefragt hat. Während sie im
+Cache liegen, werden sie auch an andere Leute hochgeladen.
+
+Die Kopie im Cache könnte man also auch als Vermittlung ansehen,
+und zwar zwischen dem Urheber und Dritten. Die Dritten könnten
+auch direkt vom Urheber runterladen. Allerdings wird seine Leitung
+das nicht schaffen, deshalb hat er es ja in ein p2p-Netz gestellt,
+damit es sich dort in den verteilten Caches verbreitet und er
+nicht alleine die Bandbreite zur Verfügung stellen muss.
+
+`----
+
+Privatkopie ist eine rechtmäßige Nutzung, d.h. Zwischenkopien (im
+RAM, in Routern, in p2p-Tempverzeichnissen), die notwendig sind,
+um eine Privatkopie zu erstellen, sind zulässig.
+
+-- 
+Bernd

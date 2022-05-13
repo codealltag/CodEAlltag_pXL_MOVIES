@@ -1,0 +1,14 @@
+Du kannst getrost davon ausgehen, daß  in solchen Fällen 
+ein
+
+\
+ \    f(i)     
+ /
+/__
+ i=1
+---------------
+      n
+
+mit f(i) := Dauer des Prüfvorgangs Laufende Nr. i
+
+gemeint ist.

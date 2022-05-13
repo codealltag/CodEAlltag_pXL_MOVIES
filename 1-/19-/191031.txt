@@ -1,0 +1,20 @@
+Moin
+
+Vor einiger Zeit habe ich gelesen, daß bei Mpeg 2 Videos nicht
+Einzelbilder gespeichert werden, sondern lediglich die Veränderung
+gegenüber dem Vorg�ngerbild. Als müßte eine Rede (oder was auch immer)
+vor einem ruhigen konstanten Hintergrund sehr "dicht" gespeichert werden
+können. Aber wie sieht es aus wenn man den rückwärtigen Bildsuchlauf
+betätigt? Die Information für den Hintergrund wurde doch lediglich am
+Anfang gespeichert. Kommt der Player da immer hinterher?
+
+CU
+-- 
+	Konrad Scherible 				
+	EMAIL:	Kwqc_@v-fywkqs.bh		
+
+ 	--------Lätzsch Opam Terminal--------	
+	    URL: http://xen.uilso.ddy/njbe	
+
+"Onward and Upward" -Charly Fluthwedel
+and may the Phrophets walk with us...

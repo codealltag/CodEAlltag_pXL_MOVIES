@@ -1,0 +1,29 @@
+hi,
+
+ich habe gestern das gleiche problem gehabt. man löst es folgendermaßen:
+0. videorecorder ausstecken
+1. der videorecorder glaubt noch immer, daß die kassette eingelegt ist
+2. man schraubt die untere geh�useabdeckung runter (bei den meisten, hängt
+aber vom modell ab)
+3. dort siehst du wahrscheinlich einen etwas größeren motor (der kleinere
+ist der stellmotor, der größere ist für play, wind und rewind und ausschub
+zuständig)
+4. du kurbelst den motor solange, bis der einzug für die kassette ganz oben
+ist
+5. jetzt deckel wieder rauf
+6. einstecken
+7. jetzt sollte der recorder wieder glauben, daß keine kassette drinnen ist,
+und wieder alles funken
+
+bei mir hats geklappt..
+
+mfg
+
+kay
+
+Orlando Coldewey <sjvh.ithlo@dppszo.py> schrieb in im Newsbeitrag:
+4uevzj$0n1$8@fgjf.vpnadp.xu...
+Videothek
+der
+(Mächte
+ansehen

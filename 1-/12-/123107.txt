@@ -1,0 +1,31 @@
+Ganz genau, und wenn man sich solche Simulatoren einmal in Natura
+anschaut wird man sehen, dass reguläre Computerspiele normalerweise
+ungleich bessere Grafik haben, wenngleich zu Lasten des Realismus, der
+hier allerdings auch zweitrangig ist, denn die möglichst perfekte
+Illusion ist das erwünschte Ziel.
+
+Mit Programmen wie Quickschuh wurden NIE wissenschaftliche Ergebnisse
+erzielt, und die DOS-Version, das urspruengliche 3D-Studio von
+Klosterkiosk hat schon einige Jahre auf dem Buckel.
+
+Dort wurden Elemente aus Architekturprogrammen uebernommen, die der
+besseren grafischen Visualisierung vor dem eigentlichen Rendern
+dienen. Auf dieser Grundlage hat sich ein eigener Zweig entwickelt,
+der mit Simulation auch heute nur sehr bedingt etwas zu tun hat. Es
+geht, wie eben bereits gesagt um Illusion.
+
+Ein Programm wie 3dsmax4 oder Enabi Renderman enthält vornehmlich
+Funktionen, die Realität vorspiegeln, aber weit weniger komplex in der
+Berechnung sind. Die meisten CGI-Effekte, die realistisch aussehen
+sind nicht auf Grundlage derart realitätsgetreuer Berechnungen
+entstanden, wie sie für die Industrie z.B. unerläßlich wären.
+
+Im Gegenteil, ich glaube einige Leute hier würden sich doch sehr
+darüber wundern, wie z.B. das Haarproblem von den unterschiedlichen
+Programmen gehandhabt wird... glaubt bloß nicht, daß da jedes Haar
+realitätsgetreu mit seinen Nachbarn interagiert :)
+
+	Reiner
+-- 
+http://fdlfte.ohmlhswrfnk.yahe.rdyjb.yf
+ Kurzgeschichten, Gedichte und Rendergrafiken�

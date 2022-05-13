@@ -1,0 +1,16 @@
+Hallo!
+
+: gibt`s eine Art IMDB zum Download für den offline-Betrieb?
+
+Nichts praktikables. Alle mir bekannten Tools in dieser Richtung werden
+nicht mehr weiterentwickelt. Du kannst Dir natuerlich die ganzen Textfiles
+herunterladen und in eine ModeAtrium-Datenbank stopfen oder so ;)
+
+bye,
+     Olivier
+-- 
+_-_  _   Fohi club member #1540
+_-_-_  preparing for relaunch:  www.ynvsnbfq.bc
+    -
+ eMail: Ggpwlr.Ewchqeize@taj.znx-rzudxmpkt.uy
+   IRC:  TngwctImp  eMail privat: hx@caf.cd

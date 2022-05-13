@@ -1,0 +1,6 @@
+Kennt vielleicht irgendjemand eine Möglichkeit, PAL60-Filme (wie sie
+NTSC-fähige Videorecorder produzieren) mit einer Fast AV-Master-Karte zu
+grabben? Kann man eventuell die Farbsignale vertauschen, damit das Bild
+nicht schwarzweiß im Computer ankommt? Wäre für alles Tips sehr dankbar!
+
+Raphaël

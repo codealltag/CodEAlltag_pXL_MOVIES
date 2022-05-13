@@ -1,0 +1,13 @@
+Siebelt Junghänel schrieb in Nachricht ...
+
+Schön, aber Deine Artikel sind kaputt, denn sie kommen ohne
+References-Header. Das führt bei einem threadenden Newsreader
+dazu, dass Deine Beiträge völlig kontextfrei in der Gegend
+herumstehen.
+
+Bitte korrigiere das.
+
+Ciao,
+Pascal Z
+-- 
+Originaltextverfasser Benno Leneschmidt in vkef

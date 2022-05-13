@@ -1,0 +1,12 @@
+[F'up nach es.jdkzp.sdm-ayobw.mpdz]
+
+
+Wie kommst Du auf das Limit? Im RFC 822 kann ich nichts davon entdecken.
+Und auch in RFC 821 (SMTP-Protokoll) scheint es kein Limit für RCPT
+Kommandos zu geben. In jedem Fall ist das irrelevant, weil ich ja
+beliebig viele Mails mit gleichem Inhalt absetzen kann.
+
+        hp
+
+--
+   _  | Enno B. Jonghe             | In der neuen Online-Nummer ist

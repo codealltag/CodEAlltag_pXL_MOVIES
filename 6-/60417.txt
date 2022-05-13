@@ -1,0 +1,32 @@
+Und vorher nicht? Es gab einige Wochen lang nur diffs, in denen die
+biographies.list 0 Byte hatte. Anscheinend war der zuständige Bearbeiter
+kurzfristig im Urlaub, Knast, Entzug oder sonstwas. Wie dem auch sein
+mag, es führte dazu, dass die für Windows kompilierte Version von
+ApplyDiffs den Dienst verweigerte. Die Lösung bestand darin, jeweils
+die leere biographies.list aus den diffs zu löschen und dann das Update
+zu machen.
+
+Seit den vorletzten diffs hat die biographies.list wieder Inhalt. Wenn
+man biographies.list (nicht das diff, sondern das listfile) im ursprüng-
+lichen Zustand belassen hatte, dann funktionierte ApplyDiffs (vermut-
+lich :) auf Anhieb. Wenn man, wie ich, zwischendurch eine Komplett-
+version heruntergeladen hatte (chz, 50 MB), um aktuell zu bleiben,
+dann stimmte natürlich die Checksumme nicht mehr. Genauer gesagt,
+die Checksumme der Datei selbst stimmte natürlich, aber die Ckeck-
+summen, die ApplyDiffs vergleicht, um passende diffs für die richtigen
+listfiles zu finden, passten nicht mehr zusammen.
+
+Die Lösung bestand darin, die vorletzten diffs nochmals ohne
+biographies.list dr�berzub�geln, dann nochmals das damals aktuelle
+komplette biographies.list herunterzuladen (nochmal chz) und dann
+abzuwarten. Die nächsten (also neuesten) diffs ließen sich dann
+wieder komplett und ohne Probleme einspielen.
+
+
+Verwendet das "make update-local" das offizielle ApplyDiffs vom
+IMDb-FTP-Server? Falls ja, könnte meine Erzählung aus der heilen
+Gamma-Welt auch für dich anwendbar sein. Das würde bedeuten:
+Einfach noch ein paar Tage abwarten und es mit den nächsten diffs
+nochmal versuchen. Wenn nicht - keine Ahnung ...
+
+Luigi

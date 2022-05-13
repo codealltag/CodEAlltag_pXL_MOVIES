@@ -1,0 +1,15 @@
+Es geht nur, wenn es kein selbstleuchtendes Display, sondern eines mit
+rueckseitiger Beleuchtung ist, also extra zuschaltbares Licht, das von
+hinten kommt. Es gibt viele verschiedene Display-Konstruktionen, die
+allesamt -zumindest landlaeufig- LCD genannt werden. Was enthalten
+Deine Taschengeraete?
+
+Probleme gibt es mit der Lichtstaerke und/oder mit der Lichtenergie
+bzw. Infrarot- und UV-Resten am Display - je nach Projektionslampe.
+Die optische Dichte der Displays ist hoch, selbst bei denen, die
+extra fuer diesen Zweck gefertigt wurden.
+
+Meine Versuche beschraenken sich auf grosse uralt-Overhead-Displays.
+Lass hoeren, was Dir widerfahren ist!
+
+Gruss                raymond

@@ -1,0 +1,76 @@
+Ich zweifle nicht, sondern lerne. Danke.
+
+
+Ja, aber der 3:2-Pulldown alleine, also wenn sonst nirgendwo (nicht im
+Player und nicht im Wiedergabegerät) die 50Hz aufgedrückt werden, der
+ruckelt nicht erkennbar. Das muß man mir schon vorführen. (Siehe dazu auch
+den Beitrag von Theo Cauffmann in diesem Thread vom "18.03. 11:12", der
+dasselbe schreibt.)
+
+
+Aber wenn die Pixel schon "liegende Rechtecke" sind (wenn also die vertikale
+Auflösung schon höher als die horizontale ist), dann spielt es von der
+Wahrnehmung her kaum noch eine Rolle, wenn man die vertikale Auflösung noch
+weiter erhöht und die horizontale gleicht (also die schon "liegenden
+Rechtecke" noch flacher macht). Es sieht nur deshalb besser aus, weil mehr
+Zeilen auf den R�hrenschirm geschrieben werden. Mit z.B. einem Linedoubler
+davor oder anderem Interpolierer, der dieses Anzeigeproblem unabhängig davon
+löst, wird das wahrgenommene Bild bei vertikaler Aufl�sungserh�hung kaum
+merklich schärfer. Aus diesem Grund reicht es z.B. auch völlig, in einem
+IMAX-Kino 70mm-Filme zu verwenden. Die horizontale Auflösung ist da
+gegenüber den 35mm-Filmen verdoppelt, aber die vertikale bleibt gleich. Das
+sieht man aber nicht, da die horizontale Auflösung die für den Eindruck
+führende Auflösung ist.
+
+
+Ja klar, aber dort sind solche Geräte sinnlos. Ich habe jahrelang AFN in
+60Hz geschaut und Heerhorst usw. in 50Hz. Ersteres war völlig ruhig, aber
+letzteres vom Vollbildflimmern her nicht zu ertragen. Und wenn ich auf
+100Hz-Fernseher schaue, tun mir auch die Augen weh (und das höre ich von
+anderen Leuten auch). Ich benutze heute einen besonders trügen
+Computermonitor mit 50Hz, da der ein ähnlich ruhiges Bild erzeugt wie mein
+Fernseher bei den 60Hz, aber mir graut davor, wenn der mal kaputt geht. Ich
+muß dann vermutlich über einen Computer mit TV-Karte fernsehen oder so, denn
+auf den schnellen Fernseher-Röhren halte ich weder 50Hz noch die
+erbärmlichen Ergebnisse gängiger 100Hz-Generatoren aus. Ein solches Problem
+hätte ich in den USA auf keinem Gerät beliebiger Preisklasse.
+
+
+Also drei der vier Fernseher des Haushalts, in dem ich lebe, und auch mein
+Monitor (also 4 von 5 Geräten) können nicht auf 60 Hz synchronisieren. Das
+jüngste von den Geräten *ist* ein HHWZ-Fernseher, und der kann es auch
+nicht. Der einzige, der es kann, ist ein ganz alter Multisystem-Fernseher
+von Usul, der sogar echtes NTSC3,36 kann, und sogar mitsamt Ton -- 
+selbst über HF. (Damit hatte ich AFN über Zimmerantenne empfangen.)
+
+
+Es war nur meine Behauptung falsch, daß der 3:2-Pulldown erst vom Player
+erzeugt wird. Und dieses "Wissen" hatte ich aus einer Fachzeitschrift (einer
+"Honeymoon" aus dem Jahr 1998). Es ist mein Fehler, daß ich das nicht
+überprüft habe.
+
+Ach ja, in meinem anderen Posting gestern habe ich auch was falsch
+geschrieben (und in dem Moment, als mir das gestern abend einfiel, mein Auto
+zu Schrott gefahren :-( ), nämlich dies:
+
+:> und interpolieren sich zusätzlich aus den 576
+:> Zeilen 833 Zeilen zusammen. Das macht dann in einem
+:> 16:9-Ausschnitt des 4:3-Bildes 576 Zeilen.
+
+Die Angabe "833 Zeilen" stammt von Landesbehördenzentrum und bezieht sich auf die
+Gesamtzeilen des Lillebino-Signals einschließlich der nicht sichtbaren. Es werden
+also 625 Zeilen zu 833 interpoliert und damit 576 sichtbare zu 768
+sichtbaren. Dann paßt's auch wirklich mit der 1:1-Übernahme von den Zeilen
+einer anamorphen PAL-DVD. Den Fehler hat aber außer mir selbst offenbar
+keiner gemerkt.
+
+übrigens ist das ein klarer Vorteil des PAL-Systems: Man kann auf
+LCD-Bildschirmen mit 1024x768 Pixeln die Zeilen der anamorphen DVD direkt
+übernehmen und muß nur horizontal interpolieren. Das betrifft zwar wieder
+nur die vertikale Auflösung, aber immerhin. Wenn man Vorteile sucht, kann
+man den nehmen.
+
+19.03.04 -- Cornelius.
+-- 
+nmcsoc ud bxy ltjve hbtlne.bz
+http://acq.xkg-zaydpv.vz/~txsdth

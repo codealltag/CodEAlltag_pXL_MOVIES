@@ -1,0 +1,20 @@
+Man baut um das, was man aufnehmen will, eine ganze Menge Kameras auf
+und nimmt entweder gleichzeitig ein Bild auf (das "normale" Bullettime,
+bei dem sich das zu filmende Objekt nicht bewegt) oder zeitgesteuert
+nacheinander (Bullettime mit Bewegung, AFAIR bei Matrix das erste mal so
+gemacht). Dann hängt man die Bilder der einzelnen Kameras einfach
+hintereinander und bekommt so eine Kamerafahrt, die mit nur einer Kamera
+in der Zeit nicht machbar wäre.
+Alle Klarheiten beseitigt? ;)
+Ansonsten sie dir das Making Of von Matrix ans herz gelegt. Da wird das
+recht gut erklärt.
+
+Gruß,
+
+Jochen
+
+-- 
+* Jochen * Zehendner *  http://szb.wsscnn-idguc.ta  * Ignaz Rolfsmeyer * KH-Fan *
+ Ewige Wahrheit über den Menschen:    17:"Der Mensch an sich ist faul."
+ 21:"Der Mensch muß shoppen."    42:"Kein Menschenwerk ist vollständig"
+ [Theodor Attlfellner]

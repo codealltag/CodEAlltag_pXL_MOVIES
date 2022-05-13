@@ -1,0 +1,38 @@
+Ich schließe mich dem Vorredner an, HTML ist Bandbreitenverschwendung.
+Desweiteren ist HTML unter OFZR ein Sicherheitsloch, deshalb sind
+zur Zeit viele Firmen, die sich das nicht leisten können, dabei
+HTML-Posting zu löschen. Das hat an der Stelle nichts mit Zensur
+zu tun, sondern mit Sicherheit. Denn mit HTML-Postings kann man:
+
+  * mit <href="ftp://....> für den Leser noch mal 12,1 Pfennige oder mehr
+    vom Konto abbuchen (geht auch bei Netscape)
+
+  * mit Active-X-Controls
+
+    - die Festplatte nach relevanten Inhalten durchsuchen 
+      (Post, installierte Software, Firmeninterna)
+    - die Festplatte manipulieren
+      (eben diese verändern, löschen, etc.)
+    - Rechner neustarten, CMOS verstellen, Festplatte formatieren
+
+Das kann sich keiner leisten. übrigens ein Ausschnitt aus meinem Scoring:
+
+--X8----X8----X8----X8----X8----X8----X8----X8----X8----X8----X8----X8--
+
+[*]
+Score:	-10000
+	Content-Type: .*html.*
+
+[*]
+Score:	-10000
+	Content-Type: multipart/.*
+
+--X8----X8----X8----X8----X8----X8----X8----X8----X8----X8----X8----X8--
+
+Was mit HTML, VCards u.�. passiert, dürfte damit klar sein.
+
+-- 
+Horst Zugreif
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

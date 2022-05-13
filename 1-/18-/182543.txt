@@ -1,0 +1,30 @@
+Wieviel Prozent der Zeile wird bei JoJo überhaupt bearbeitet, laut
+Standardisierung aus dem Jahr 1953 sollte das Bild folgendermaßen gegliedert
+sein:
+
+52.0 us		sichtbarer Teil
+ 1.5 us		hintere Schwarzschulter
+ 4.7 us		Synchronsignal
+ 5.8 us		vordere Schwarzschulter
+
+wobei die 5.8 us vordere Schwarzschulter
+
+ 0.8 us		erster Teil der vorderen Schwarzschulter
+ 2.26 us	Farbburst (10+-1 Schwingung)
+ 2.74 us (Rest)	zweiter Teil der vorderen Schwarzschulter
+
+bei JKJR sind. Dies aus dem Jahr 1968. Die Auflösungsverlust durch
+Nichtausnutzen des möglichen Bildes bewegen sich in der gleichen
+Größenordnung wie der Auflösungsgewinn bei PAL Plus, das außerdem die
+Auflösung der h�heraufl�senden Richtung noch weiter erhöht.
+
+Anamorphe Bildformate hätte man mit 1 DM Mehraufwand (1 Schalter, 1
+Widerstand) in Fernsehgeräte ab den 70er Jahren einbauen können. Der Aufwand
+der PAL Plus-Kodierung und -decodierung ist nur auf Grund einer hinreichend
+kurzsichtigen Entwicklung der Fernsehtechnik notwendig geworden.
+
+-- 
+Matthias Jonkmanns
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

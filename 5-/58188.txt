@@ -1,0 +1,22 @@
+Als was. Als digitales Datenmaterial ?
+Kaum. Immer mehr Filmproduktionen werden fuer Post-Produktion
+digitalisiert, dann digital bearbeitet, und erst zum schluss
+fuer die Kinovorfuehrung/Distribution wieder auf Filmpositiv
+belichtet.
+
+
+Anscheinend hast Du da etwas nicht verstanden.
+
+Die Qualitaet der Bilddaten wird nicht dadurch schlechter, dass
+mpeg-4 anstatt von mpeg-2 (DVD) zur komprimierung verwendet wird,
+sondern daran, dass diverse DVD-Raubkopierer die schon nicht so 
+guten Bilddaten der DVD viel zu stark und mit schlechten 
+Encondern komprimieren, um diese meist auf 650 MB o.ae. zu 
+quetschen.  
+Denn: Je staerker die Komprimierung desto schlechter die Bildqualitaet.
+
+Gruesse
+Detlef
+
+-- 
+extra interrete nulla vita, et si ulla, non est ita.

@@ -1,0 +1,52 @@
+Film mit nur 24 Bildern/s würde auch unerträglich flimmern, weil zwischen
+den Leuchtphasen, in denen das gesamte Bild vollständig zu sehen ist,
+sehr lange Dunkelphasen sind, da schließlich der Film transportiert
+werden muß. Aus diesem Grund wird jedes Bild zweimal gezeigt, d.h.
+die "Glühbirne" einmal zwischendurch abgedeckt. Man sieht daher 48
+Bilder/s.
+
+Fernsehen in USA/Japan/usw. hat 60 Halbbilder/s (abwechselnd gerade und
+ungerade Zeilen), weil dort der Wechselstrom 60 Hz hat. Es wird dort also
+beim Kopieren auf die Fernseh-MAZ von 24 Voll- auf 60 Halbbilder/s
+umgetastet (Zwischenbilder "errechnet"). Da bei uns wegen des
+50-Hz-Wechselstroms nur 50 Halbbilder/s gezeigt werden (dieser
+Zusammenhang ist natürlich heutzutage nur noch historischer und nicht
+mehr technischer Natur) und aufgrund der zu geringen Differenz 25-24
+nicht umgetastet werden kann, wird ein Film im Fernsehen hier zwangsweise
+4,2% zu schnell abgespielt.
+
+Das auch im Kino zu machen, dafür gäbe es keine Entschuldigung, denn auch
+wenn man die zu schnelle Bildfolge nicht unbedingt (bewußt!) erkennt, man
+hört doch einen ganz schrecklich zu hohen Ton. (Ein B ist 1,059mal die
+Frequenz des A, d.h. ein 1,042mal zu schnell abgespieltes A ist fast ein B!
+Und auch wer kein absolutes Gehör hat, nimmt die so völlig verschrobene
+Tonart unbewußt wahr.) Die richtige Abspielgeschwindigkeit ist also zigmal
+wichtiger als irgendein Jackwerth-Logo oder sowas.
+
+Die ersten Staffeln von ST:TNG habe ich seinerzeit auf Ahip gesehen. Dieses
+wurde über amerikanische Kasernen terrestrisch in NTSC ausgestrahlt, d.h.
+mit einem Multisystem-Fernseher auch in 60 Hz dargestellt. Dort und *nur*
+dort konnte man also die Originalfassungen von Kinofilmen auch in
+Originalgeschwindigkeit sehen/hören. Zusammen mit dem flimmerarmen Bild
+war das paradiesisch. (Auch die heutigen 100Hz-Fernseher flimmern, weil die
+wegen der nicht-progressiven Abtastung der Bildquellen lediglich die
+Halbbilddarstellung verdoppeln können. Das Zwischenzeilenflimmern ist dort
+also unverändert 25 Hz -- lediglich das Gro�fl�chenflimmern ist reduziert.)
+
+Mich würde mal interessieren, ob es wahr ist, daß es tatsächlich Kinos gibt,
+die ihren Projektor nicht mit exakt 24 Bildern/s laufen lassen oder die
+aus irgendeinem anderen Grund die Tonhöhen nicht korrekt reproduzieren.
+Die Diskussionen in diesem Thread erschrecken mich regelrecht, da fehlende
+Filmzeit nach meiner Erfahrung lediglich von vergessenen Filmrollen herrührt.
+(Z.B. habe ich mal "Das Boot" gesehen, in dem in der Mitte etwa 20 Minuten
+am Stück -- dem spannendsten Stück -- fehlten. Ein anderes Mal fehlten die
+letzten 20 Minuten von "Spiel mir das Lied vom Tod".) Weiß wenigstens jemand,
+wieviel Meter der Director's Cut von ST:FC lang ist? Wird überhaupt
+der Director's Cut gezeigt? (Im Kino liefen ja z.B. gerade wieder Abyss und
+Terminator II und andere Christof-Zinnhobel-Filme, die diesmal im Director's Cut
+viele zig Minuten länger und inhaltlich drastisch konsistenter waren.)
+
+23.06.96 -- Pasquale.
+-- 
+gatqlv@xshchatdbv.tlx-zshouw.lm (PGP key available)
+http://wyc.yiranmvpih.dbp-cgqram.da/~oxopfp/orgsbhpwwpqzmwbr.sfou

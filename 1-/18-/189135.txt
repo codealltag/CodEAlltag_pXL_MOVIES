@@ -1,0 +1,8 @@
+Dann sollte vielleicht mal jemand die irrefuehrenden Gruppenbeschreibungen
+aendern:
+
+zy.npm.qp.swjq ---> TV/Video/Sat Themen
+kb.sdb.film.misc ---> Filme, Serien, TV, Video, Kino
+
+Tschau
+-Gian

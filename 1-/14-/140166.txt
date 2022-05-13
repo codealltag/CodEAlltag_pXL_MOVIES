@@ -1,0 +1,11 @@
+Womit natuerlich Reibungswiderstand und Schwerpunkt nicht relevant waeren...
+
+
+Wahrscheinlich wurde die Massenverteilung des Autos nicht beruecksichtigt. Der
+Schwerpunkt war einfach an der falschen Stelle. Diese ganzen Newtonschen
+Gleichungen gelten naemlich alle nur jeweils fuer einen punktsymmetrischen
+Koerper und nicht fuer ein Auto mit vier Raedern, von denen zwei angetrieben
+werden und das auch noch eine eher unsymmetrische Massenverteilung und
+grottenueble Aerodynamik aufweist.
+
+Samuel

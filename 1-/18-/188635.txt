@@ -1,0 +1,65 @@
+-=[ DVD-Charger ]=-
+                                               V1.0
+                "The ULTIMATE 'upgrade' for your DVD-Player!'
+
+
+The MOST advanced DVD 'upgrade', the DVD-Charger chip. The DVD-Charger
+
+is a small chip which you will need to install into your DVD player.
+After the easy installation your player will be able to perform many 
+more interesting functions!
+
+The features...
+- Select the region code of your player!
+  With our DVD-Charger installed you will be able to select the true, 
+  real region code of your player. True region code recognition!
+- Video standard selection! (PAL, NTSC, etc...)
+  You will be able to select every possible video standard!
+- Color subcarrier frequency selection! (4.43Mhz, 3.57Mhz, etc...)
+  Now you're able to select the color frequency which is compatible 
+  with your tv! All possible frequencies are supported.
+- Disable macrovision!
+  With our DVD-Charger you're able to completely disable the 
+  macrovision copy protection!
+- Disable the copy generation management system!
+  A DVD player can hide data in the video signal. You're able to 
+  disable this system if you wish!
+- Manually select the blanking level!
+  Picture too bright or too dark? Well, you're now able to manually 
+  correct it!
+- Reset your pin-code!
+  Handy if you forgot your parental-lock pin-code.
+
+The installation...
+- You don't have to remove/cutt/damage anything in the player!
+- Our chip is installed by connecting some wires between the chip and
+  some points on the mainboard!
+- No external switches! 
+- The installation is very easy with our detailed manual!
+- Our chip can always be easily removed if needed!
+
+Our DVD-Charger...
+- True region code recognition! Not region 0 but the real thing!
+- Now you're able to watch NTSC titles in COLOR on your PAL TV!
+- No external switches! All selections are made with the remote!
+- All possible video standards and color frequencies are supported!
+- ALL titles will play WITHOUT any stop/play tricks!
+- Your player will keep it's full functionality!
+- After installation you're still able to save the user settings!
+- Now you're able to correct a picture which is too bright/dark!
+- No more macrovision side-effects on backups and equipment!
+
+For more information, questions and orders:
+ - We offer 2 versions...
+   The BASIC version costs $150 and only supports region selection.
+   The ADVANCED version costs $200 and supports ALL features!
+ - All prices include postage and packaging, we can ship worldwide.
+ - We offer quantity discounts. Dealers/distributors wanted!
+ - The DVD-Charger includes a very detailed step-by-step manual and 
+   enough wire for the modification.
+ - E-mail: wbl@lnn-azadgmp.bkj
+ - Homepage: http://jsa.hny-zoldksc.opm
+ - We also developed the Gafak-ChargerII chip for the JUGF GHT.
+
+Best regards,
+DVD-Charger Team

@@ -1,0 +1,20 @@
+Hi,
+
+
+Hier in Eickeloh haben die Kinos den Kinotag am Dienstag wieder
+abgeschafft. Die Auslastung war naemlich mit Kinotag Mo+Di so:
+
+	Mo      Di      Mi
+	stark   stark   null
+
+Jetzt, mit nur noch Kinotag Montag, ist sie eher so:
+
+	Mo	Di	Mi
+	stark	mittel	mittel
+
+Gruss
+  Alfred
+
+-- 
+Alfred Bleser
+http://swm.skmigw.ok

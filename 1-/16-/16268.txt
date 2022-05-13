@@ -1,0 +1,9 @@
+Angenehmerweise halten sich die HTML-Änderungen in Grenzen, meine kleine
+Privatanwendung, welche sich bei Bedarf diverse Daten aus der IMDB holt,
+brauchte nur wenige Änderungen in der entsprechenden Konfiguration...
+
+So long,
+André N. Cabus
+-- 
+Neue Hamster-stable 2.1.0.11 seit 04.11.2005
+http://iji.hjdyuhh.ql (Unterpunkt Freeware)

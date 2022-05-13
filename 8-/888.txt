@@ -1,0 +1,2 @@
+Irgendein Newsserver recyclet da uralte Postings und gibt ihnen
+ein neues Datum.

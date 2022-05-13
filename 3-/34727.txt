@@ -1,0 +1,277 @@
+NG-Statistik drfm für den Dezember 2005
+erstellt mit OOC von Kay Veenstra.
+
+23/02: 3439 postings
+24/02: 1931 postings
+25/02: 2724 postings
+26/02: 1746 postings
+27/02: 2078 postings
+28/02: 2494 postings
+01/03: 2645 postings
+02/03: 2541 postings
+03/03: 2041 Postings
+04/03: 2242 Postings
+05/03: 1720 Postings
+06/03: 2227 Postings
+
+25/03: 1811 Postings
+
+
+Autoren mit den meisten Postings (1811 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 103 | 4051 | 260.7 | Maik Lauhus           |  5.7%  xxxxxxxxxxxxx
+   2 |  68 | 1388 | 102.1 | Tobias Dill         |  3.8%  xxxxxxxxx    
+   3 |  56 | 1255 |  91.3 | Vincenzo Carls      |  3.1%  xxxxxxx      
+   4 |  47 |  958 |  78.3 | Fritz Böse          |  2.6%  xxxxxx       
+   5 |  43 | 1222 |  86.1 | Ignaz Inderheggen        |  2.4%  xxxxx        
+   6 |  36 |  900 |  72.6 | Tobias Oben         |  2.0%  xxxx         
+   8 |  33 | 1149 |  69.6 | Alfons Vermeegen        |  1.8%  xxxx         
+  10 |  28 | 3022 | 162.4 | Berend                 |  1.5%  xxx          
+  12 |  27 |  790 |  48.1 | Jens Bogendörfer            |  1.5%  xxx          
+  15 |  26 |  932 |  51.0 | Trudi Cloots      |  1.4%  xxx          
+  17 |  24 |  859 |  51.8 | Peter Zonderman             |  1.3%  xxx          
+  18 |  23 |  865 |  60.3 | Vincent Cölln        |  1.3%  xxx          
+  20 |  22 |  438 |  33.7 | Kasimir Ignatius      |  1.2%  xx           
+  22 |  21 |  441 |  43.5 | Urs Fikentscher        |  1.2%  xx           
+  23 |  20 |  618 |  46.3 | Enno Jehnichen   |  1.1%  xx           
+  24 |  19 |  515 |  35.5 | Valerian V Cremanns          |  1.0%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (332 Autoren)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]
+       11 |   2 |  0.6%                                                 
+       10 |   4 |  1.2%  x                                              
+        9 |   8 |  2.4%  xx                                             
+        8 |   5 |  1.5%  x                                              
+        7 |   6 |  1.8%  xx                                             
+        6 |   9 |  2.7%  xxx                                            
+        5 |   9 |  2.7%  xxx                                            
+        4 |  21 |  6.3%  xxxxxxx                                        
+        3 |  30 |  9.0%  xxxxxxxxxx                                     
+        2 |  56 | 16.9%  xxxxxxxxxxxxxxxxxxx                            
+        1 | 141 | 42.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (180 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Berend                 |  19 |    63 | 10.6%  xxxxxxxxxxxxxxxxxxxx
+   2 | Valerian V Cremanns          |   6 |    97 |  3.3%  xxxxxx              
+   3 | Kay Wördel         |   5 |    16 |  2.8%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (180 Threads)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Maik Lauhus           |   3 |   218 | 12.0%  xxxxxxxxxxxxxxxxxxxx
+   2 | Urs Bodenbinder        |   1 |   177 |  9.8%  xxxxxxxxxxxxxxxxx   
+   3 | Vittorio Waterstradt           |   4 |   135 |  7.5%  xxxxxxxxxxxxx       
+   4 | Valerian V Cremanns          |   6 |    97 |  5.4%  xxxxxxxxx           
+   5 | Urs Fikentscher        |   1 |    70 |  3.9%  xxxxxx              
+   6 | Eugen Mussack    |   1 |    69 |  3.8%  xxxxxx              
+   7 | Berend                 |  19 |    63 |  3.5%  xxxxxx              
+   8 | Dorothea Viefen           |   4 |    58 |  3.2%  xxxxx               
+   9 | Vincenzo Carls      |   1 |    57 |  3.1%  xxxxx               
+  10 | Luc Besendörfer        |   1 |    54 |  3.0%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (1811 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 177 | Film mit Aldo Böring gesucht         |  9.8%  xxxxxxxxxx
+   2 | 171 | Kassengift                              |  9.4%  xxxxxxxxxx
+   3 | 107 | And the Nominees are....                |  5.9%  xxxxxx    
+   4 |  70 | Frage zu Filmfarben                     |  3.9%  xxxx      
+   5 |  69 | Worst of 2006                           |  3.8%  xxxx      
+   6 |  60 | Vittorio Arndtz                             |  3.3%  xxx       
+   7 |  57 | Best and worst of 2005                  |  3.1%  xxx       
+   8 |  54 | Deutsche Zusatztitel - Eine Liste des Sc|  3.0%  xxx       
+   9 |  44 | Schlechteste Synchro 2005               |  2.4%  xx        
+  10 |  32 | Kino Ade?                               |  1.8%  x         
+  11 |  30 | Kurzfilm "Bauunfall" gesucht...         |  1.7%  x         
+  12 |  29 | Filmkritik: Blade - Trinity             |  1.6%  x         
+  13 |  28 | Perspektiven-Filme                      |  1.5%  x         
+  14 |  27 | Die fetten Jahre sind vorbei            |  1.5%  x         
+  15 |  24 | Remake Florian run                      |  1.3%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (180)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+[...]
+    27 |   1 |  0.6%  x                                                 
+    24 |   2 |  1.1%  xx                                                
+    22 |   1 |  0.6%  x                                                 
+    21 |   2 |  1.1%  xx                                                
+    20 |   1 |  0.6%  x                                                 
+    18 |   2 |  1.1%  xx                                                
+    17 |   1 |  0.6%  x                                                 
+    16 |   2 |  1.1%  xx                                                
+    15 |   2 |  1.1%  xx                                                
+    14 |   2 |  1.1%  xx                                                
+    12 |   7 |  3.9%  xxxxxxx                                           
+    11 |   1 |  0.6%  x                                                 
+    10 |   3 |  1.7%  xxx                                               
+     9 |   2 |  1.1%  xx                                                
+     8 |   8 |  4.4%  xxxxxxxx                                          
+     7 |  10 |  5.6%  xxxxxxxxxx                                        
+     6 |   9 |  5.0%  xxxxxxxxx                                         
+     5 |   6 |  3.3%  xxxxxx                                            
+     4 |  19 | 10.6%  xxxxxxxxxxxxxxxxxxxx                              
+     3 |  20 | 11.1%  xxxxxxxxxxxxxxxxxxxxx                             
+     2 |  18 | 10.0%  xxxxxxxxxxxxxxxxxxx                               
+     1 |  48 | 26.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (alle, 314 Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  62 | Trauringschmiede Outlook Express      | 19.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  48 | tütü                        | 15.3%  xxxxxxxxxxxxxxxxxxxx     
+  39 | Mozilla Thunderbird            | 12.4%  xxxxxxxxxxxxxxxx         
+  36 | Forte Agent                    | 11.5%  xxxxxxxxxxxxxxx          
+  22 | 40tude_Dialog                  |  7.0%  xxxxxxxxx                
+  21 | Xnews                          |  6.7%  xxxxxxxx                 
+  18 | KNode                          |  5.7%  xxxxxxx                  
+   8 | Netscape                       |  2.5%  xxx                      
+   7 | slrn                           |  2.2%  xx                       
+   6 | tin                            |  1.9%  xx                       
+   6 | MacSOUP                        |  1.9%  xx                       
+   5 | Gnus                           |  1.6%  xx                       
+   5 | G2                             |  1.6%  xx                       
+   5 | Forte Free Agent               |  1.6%  xx                       
+   5 | Hamster                        |  1.6%  xx                       
+   4 | EC-Hamster M2                       |  1.3%  x                        
+   4 | Pan                            |  1.3%  x                        
+   2 | MicroPlanet-Gravity            |  0.6%                           
+   2 | CrossPoint                     |  0.6%                           
+  <2 | 9 weitere...                   |                                 
+-----+--------------------------------+---------------------------------
+ 314 | GESAMT (28)                    |                                 
+
+
+Verwendeter Newsreader von Autoren mit mindestens 10 Postings (44
+Autoren)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+   6 | tütü                        | 13.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | Mozilla Thunderbird            | 13.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   6 | Forte Agent                    | 13.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+   4 | Trauringschmiede Outlook Express      |  9.1%  xxxxxxxxxxxxxxxxx        
+   4 | Netscape                       |  9.1%  xxxxxxxxxxxxxxxxx        
+   3 | Gnus                           |  6.8%  xxxxxxxxxxxxx            
+   2 | tin                            |  4.5%  xxxxxxxx                 
+   2 | 40tude_Dialog                  |  4.5%  xxxxxxxx                 
+   2 | KNode                          |  4.5%  xxxxxxxx                 
+   1 | Trosse            |  2.3%  xxxx                     
+   1 | TCNS                        |  2.3%  xxxx                     
+   1 | Hamster                        |  2.3%  xxxx                     
+   1 | slrn                           |  2.3%  xxxx                     
+   1 | Pan                            |  2.3%  xxxx                     
+   1 | mutt-ng                        |  2.3%  xxxx                     
+   1 | Forte Agent 32Bit (mit Hamster |  2.3%  xxxx                     
+   1 | EC-Hamster M2                       |  2.3%  xxxx                     
+   1 | Xnews                          |  2.3%  xxxx                     
+
+
+Postingverteilung über den Tag (1811 Postings)
+
+ Std | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   5 |  32 |  1.8%  xxxxxxxxxxxxx                                       
+   6 |   7 |  0.4%  xx                                                  
+   7 |  18 |  1.0%  xxxxxxx                                             
+   8 |  36 |  2.0%  xxxxxxxxxxxxxxx                                     
+   9 |  80 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  10 |  96 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  11 |  93 |  5.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  12 | 107 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  13 | 101 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+  14 |  90 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  15 |  60 |  3.3%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  16 |  96 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  17 | 107 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx       
+  18 | 124 |  6.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  19 |  96 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+  20 |  90 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+  21 |  87 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  22 | 116 |  6.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   
+  23 | 119 |  6.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+   0 |  85 |  4.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+   1 |  90 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx              
+   2 |  49 |  2.7%  xxxxxxxxxxxxxxxxxxxx                                
+   3 |  23 |  1.3%  xxxxxxxxx                                           
+   4 |   9 |  0.5%  xxx                                                 
+
+
+Postingverteilung über die Woche (1588 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+ Mon | 233 | 14.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+ Tue | 184 | 11.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                    
+ Wed | 301 | 19.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Thu | 250 | 15.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx        
+ Fri | 206 | 13.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+ Sat | 181 | 11.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+ Sun | 233 | 14.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx           
+
+
+Postingverteilung über den Monat (1811 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  29 |  1.6%  xxxxxxxxxxxxxxx                                     
+   2 |  38 |  2.1%  xxxxxxxxxxxxxxxxxxxx                                
+   3 |  44 |  2.4%  xxxxxxxxxxxxxxxxxxxxxxx                             
+   4 |  50 |  2.8%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+   5 |  73 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+   6 |  99 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   7 |  73 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+   8 |  81 |  4.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx         
+   9 |  68 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  10 |  70 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx               
+  11 |  25 |  1.4%  xxxxxxxxxxxxx                                       
+  12 |  91 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  13 |  62 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  14 |  45 |  2.5%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  15 |  45 |  2.5%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  16 |  42 |  2.3%  xxxxxxxxxxxxxxxxxxxxxx                              
+  17 |  26 |  1.4%  xxxxxxxxxxxxx                                       
+  18 |  40 |  2.2%  xxxxxxxxxxxxxxxxxxxxx                               
+  19 |  95 |  5.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx  
+  20 |  38 |  2.1%  xxxxxxxxxxxxxxxxxxxx                                
+  21 |  58 |  3.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  22 |  21 |  1.2%  xxxxxxxxxxx                                         
+  23 |  52 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxx                         
+  24 |  57 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  25 |  89 |  4.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx     
+  26 |  90 |  5.0%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    
+  27 |  79 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx          
+  28 |  65 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  29 |  32 |  1.8%  xxxxxxxxxxxxxxxxx                                   
+  30 |  69 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  31 |  65 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+HTH ;-)                  
+Heinrich
+-- 
+"Don't be afraid, Sailor." - "But I'm wild at heart." -
+"If you're truly wild at heart, you'll fight for your dreams."
+                                                           mobilcom-debitel

@@ -1,0 +1,31 @@
+Es ist so, dass im Hinblick auf die Video- und Fernsehauswertung nur selten 
+Einblendungen nahe am rechten oder linken Bildrand gemacht werden. Gerade im 
+Fernsehen gehen die einzelnen Stationen unterschiedliche Kompromisse ein 
+zwischen Hoehe der schwarzen Balken und weggelassenem Bildanteil.
+Im Kino halte ich es jedoch fuer groben Unfug, nicht das gesamte Bild zu 
+zeigen. Fuer ihre Philosophie Vorderwand des Kinos = 
+Leinwand verwenden grosse Kinoketten bei Breitwandfilmen (1:1,66) ein 
+Seitenverhaeltnis von ungefaehr 1:1,8 und bei Cinemascope (1:2,4) etwa 1:2,0. 
+Die Aussage, dass 20% des Bildes bei Cinemascope-Filmen nicht gezeigt werden, 
+ist daher nicht aus der Luft gegriffen. Genau laesst sich das 
+Seitenverhaeltnis, das ein Kino verwendet, nur mit einem speziellen Messfilm 
+bestimmen (und die Muehe macht man sich auch nur bei der Inbetriebnahme eines 
+Kinos - wenn ueberhaupt). 
+Dennoch kann der Laie grob feststellen, ob bei den Bildformaten gemogelt wird. 
+Etwa alle 20min. taucht fuer Sekundenbruchteile in der rechten oberen Bildecke 
+ein Kreis oder eine Ellipse auf. Dies sind die Ueberblendzeichen am Ende eines 
+Filmaktes. Bei korrekter Vorfuehrung sollte bei runden Ueberblendzeichen 
+(=Breitwand) der Abstand zur oberen Bildkante und der rechten Bildkante gleich 
+gross sein. Bei elliptischen Ueberblendzeichen (=Cinemascope) sollte der 
+Abstand von der rechten Bildkante zum Rand der Ellipse ungefaehr doppelt so 
+gross sein wie zum oberen Bildrand.
+Ist das nicht der Fall oder ist gar nur ein Teil des Ueberblendzeichens 
+sichtbar, ist entweder der Projektor grob verstellt (was eher selten ist) oder 
+es werden Teile des Bildes unterschlagen.
+Beschwerden sind in so einem Fall zwecklos, da das Bildformat beim Bau des 
+Kinos festgelegt wird, bei Aenderungen muessen neue Masken fuer die 
+Projektoren hergestellt werden und die Vorhangsteuerung neu programmiert 
+werden. Das dauert alles in allem etwa einen halben Tag und kein Kinobetreiber 
+ist daher bereit, am einmal gewaehlten Format was zu aendern. 
+
+Sébastien

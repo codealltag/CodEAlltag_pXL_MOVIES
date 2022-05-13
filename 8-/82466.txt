@@ -1,0 +1,9 @@
+Stefan Troster schrieb am 11. Februar 2004 22:34:06 CEST folgendes:
+
+
+Ich kann mich nur daran erinnern, daß kurzzeitig etwas Sourcecode
+durchs Bild flimmerte, dabei handelte es sich vermutlich um Code von
+Nennhuber, es waren jedenfalls Definitionen von HTTP-Fehlercodes zu sehen.
+
+
+Ulrich

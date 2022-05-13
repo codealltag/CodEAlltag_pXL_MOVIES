@@ -1,0 +1,3 @@
+man "Das Narrenschiff"
+
+cu  gp

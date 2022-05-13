@@ -1,0 +1,8 @@
+'Untertitel fuer Hoergeschaedigte' sind Untertitel mit
+Audiodeskription. Es steht dann z.B. auch in den Untertiteln, dass im
+Hintergrund Applaus aufbrandet oder jemand singt.
+
+Normale Subs sind weniger ausfuehrlich und geben nur die Dialoge
+wieder.
+
+	Michael

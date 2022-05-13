@@ -1,0 +1,48 @@
+Hi!
+Hab da mal ne Frage zur Plazierung von 
+Dipol-Surroundlautsprechern im AC-3
+Betrieb.
+
+Eine Aufstellung hinter dem Hörplatz ist nicht
+moeglich, da der Hörplatz (Sofa) direkt
+an der Rueckwand steht. Bisher habe ich die Boxen 
+(JWUK Dipol M100D) im 'normalen' Surroundbetrieb 
+immer oberhalb und etwas seitlich des H�rplatzes 
+an der Rueckwand aufgehaengt und etwas vom Hoerplatz
+weggedreht.Dank der Dipole habe ich 
+dadurch auch durchaus gute Resultate erzielen koennen.
+
+Durch die Anschaffung eines AC-3 Receivers (Gartzen 838)
+hab ich jetzt ein Problem: 
+Drehe ich die an der Rueckwand befestigten 
+Boxen nun in Richtung Hoerplatz klingt AC-3 zwar gut,
+im normalen Surroundbetrieb sind die Boxen jetzt aber
+zu gut ortbar.
+
+Laut Cini (www.myyzl.esz) ist
+eine Befestigung an den Seitenwaenden fuer den 
+normalen Surroundbetrieb vorzuziehen, zu AC-3 hab ich
+bisher nix finden koennen. 
+Daher meine Fragen: 
+Wie habt ihr Eure Rearboxen (vielleicht sogar auch Dipole)
+plaziert, bzw. wie wuerdet Ihr Sie in meinem Falle (keine
+Aufstellung HINTER dem Hoerplatz) aufstellen bzw. -haengen ?
+In welcher Hoehe, direkt auf den Hoerplatz gerichtet ?
+
+Mir geht es in erster LInie um optimierten AC-3 Klang, 
+allerdings sollte die Platzierung auch eine akzeptable 
+Wiedergabe von Analog-Surround kodierten Filmen moeglich 
+machen.
+
+
+Vielen Dank im Vorraus fuer jeden Tip,
+
+Olaf Biddermann
+
+------------------------------
+PLEASE DELETE '_REMOVE_THIS_' FROM MY ADDRESS BEFORE REPLYING VIA E-MAIL !
+
+Do NOT add my address to any mailing list without my express written
+permission. Unsolicited commercial email will be proofread at my consulting
+rate of: $75/hour, 4 hour minimum. Due to a bug in my mailer any junk email
+received will automatically subscribe the sender to *all* majordomo lists.

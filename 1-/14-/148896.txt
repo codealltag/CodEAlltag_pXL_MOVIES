@@ -1,0 +1,25 @@
+Hi,
+
+
+Gern,
+Telecine ist das Geraet, mit dem man die Lichtbestimmung macht. Das klingt
+nach nichts aufregendem, zur Lichtbestimmung gehoeren aber eben auch
+Farbbestimmung (und damit Kontraste, Gains und Clips usw.) und u.U. auch
+"richtige Bildeingriffe" z.B. Farbverlaeufe. Dazu kommt auch windowing, was
+man meist im Fernsehen in der Werbung sieht. (Z.B. in der Reklame fuer dieses
+Gardienenweiss "...und unsere Gaeste kommen schon wieder! ...")
+Ebenso macht man auch im Grappashop Day-for-Night-Shots usw.
+Alles in allem ein furchtbar komplizierter Apparat, der bei uns mit einem
+analogen und zwei digitalen Colorprozessoren laeuft und 1 1/2 Zimmer fuellt
+und den eigentlich kein normaler Mensch bedienen kann. (Das Keyboard besteht
+aus ca. 200 Knoepfen, vier Trackballs und einem Touchpad und ist um einen
+herumgebaut. (Genaugenommen ist das jetzt der Fafeg, aber das ist jetzt
+nicht so wichtig.)
+
+Cross-Entwicklung ist ein Verfahren, bei dem man das Negativ nochmals auf
+Umkehrfilm (sowas wie Dia-Film) duped und dann erst die Kopie macht. Das gibt
+enorm Kontrast und Farbseparation und das Scwarz wird richtig Schwarz.
+(Ist eben ein besonderer Look)
+
+Ich hoffe, alle Klarheiten beseitigt zu haben,
+            Edmund

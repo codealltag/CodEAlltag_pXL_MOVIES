@@ -1,0 +1,11 @@
+Hi,
+so ist es. Das Teil kann sowohl an PS/2 als auch COM angeschlossen werden.
+Allerdings sollte man eine Wheelmouse und sogar einige Dreitastenm�use nicht
+an den gleichen Port anschließen. Dann den Treiber installieren (_kann_
+Probleme mit Wheelmouse-Treibern geben, aber z.B. bei mir läuft es
+problemlos) und im region selector die x10 Mouse auswählen. Fertig...
+
+--
+ Oswald Utermöhl
+  emdenpbl@cwe.ozt
+  ICQ: 3164815

@@ -1,0 +1,16 @@
+Spoiler-Space ist unzuverlässig.
+
+Welche Clients unterstützen eigentlich dieses "^L" (Form Feed?)? Alles,
+was nach einem solchen Zeichen steht, wird bei slrn zumindest als ***
+angezeigt, so wie unten zu sehen, und wird erst lesbar, wenn man
+weiterblättert.
+
+
+Dies hier soll als Sternchen zu sehen sein.
+
+Tschüs,
+Ignaz.
+
+-- 
+It's not like I hate every single person in the world.
+I just can't relate to 99.9% of humanity.

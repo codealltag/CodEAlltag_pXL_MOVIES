@@ -1,0 +1,7 @@
+Bei ftp://ftp.fu-berlin.de/ bekommst Du im Verzeichnis
+/pub/misc/movies/database/diffs die Updates. Steht auch
+in der FAQ.
+
+Gruss, Carlos
+
+--

@@ -1,0 +1,8 @@
+die imdb progs lassen sich problemlos unter cygwin kompilieren. 
+hab vor ein paar jahren dazu hier ein paar tips geposted.
+
+Makefile benötigt eine anpassung.
+ftp://xarch.tu-graz.ac.at/pub/autocad/urban/imdb/
+-- 
+Cornelius Zacharie
+http://st.yvc.um/qwlh/

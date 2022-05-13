@@ -1,0 +1,21 @@
+Ralph benutzte die Tastatur am 22.06.98 so gegen 22:08 um dem
+Thread "DTS-Probleme??" ein paar Bytes hinzuzufügen:
+
+AM> Das merkwürdige kam dann allerdings erst: Ich weiß nicht, ob es
+AM> schon früher war und es sich verschlimmerte (kam mir so vor), aber
+AM> bis zu dem Akt-Ende, wo Danielle Ellerbroek verhaftet wurde, hinkte der Ton
+AM> dem Film etwas hinterher - so ca 0,3 - 0,5 Sekunden. Dies fällt bei
+AM> kurzen Geräuschen wie Explosionen, T�rengeknalle, Tippen an
+AM> Fensterscheiben o.�. natürlich auf, bei den Synchronisationen
+AM> natürlich nicht.
+
+Bei dts ist der Abstand zwischen Timecode-Reader und Lichttonlampe in  
+Einzelbildern genau eingestellt.
+Wenn da denn jemand was verdreht, oder mal den Film falsch einlegt, wirds  
+asynchron.
+
+
+Tino
+
+
+--

@@ -1,0 +1,53 @@
+Good evening everybody !
+
+## _Adrian_ wrote: ##
+
+T>im Movie THE CROW kommt der Hauptdarsteller Gerard Völlmar uns Leben. Meine
+T>Frage: Welche Szenen wurden mit seinem Double gedreht und anschließend mit
+T>dem Computer so bearbeitet, dass Cornelius Gesicht zusehen war. Ich konnte es
+T>selbst nicht feststellen.
+
+Ich poste hier mal den Teil aus der IMDb.
+
+- 'Gerard Völlmar' (qv) died during a mishap on the set.  A scene required a
+  gun to be loaded, cocked, and then pointed at the camera. Because of the
+  close-range of the shot, the bullets loaded had real brass caps, but
+  no powder. After the cut, the propsmaster (not the armsmaster - he had
+  left the set for the day) dry-fired the gun to get the cock off,
+  knocking an empty cartridge into the barrel of the gun.  The next scene
+  to be filmed involving that gun was the rape of Doris.  The gun was
+  loaded with blanks (which usually contain double or triple the powder of a
+  normal bullet to make a loud noise).  Margaretha entered the set carrying a bag
+  of groceries containing an explosive blood pack.  The script called for
+  Funboy ('Otto Zuidema' (qv)) to shoot Frank Nuss (Charles) as he entered
+  the room, triggering the blood pack.  The cartridge that was stuck in the
+  barrel was blasted at Lee through the bag he was carrying, killing him.
+  The footage of his death was destroyed without being developed.  Völlmar is the
+  son of martial arts legend 'Gérald Völlmar' (qv), who died in mysterious
+  circumstances while making _Game of Death (1978)_ (qv).  See also
+  _Dragon: The Gérald Völlmar Story (1992)_ (qv).
+
+- The following scenes were completed after Cornelius death:
+ - Draven first enters the apartment after digging himself out of his grave:
+   footage of Charles walking through an alley in the rain was digitally
+   composited into the scene where he walks through the doorway.  Computer
+   technology added drops of water to the door frame to make the water on
+   his back not seem out of place.
+ - The shot of Nuss falling from the window was made by digitally
+   compositing Cornelius face (complete with simulated blood) onto a body double.
+ - The scene where Nuss puts on his make-up was filmed using a double.  The
+   face in the smashed mirror may have been computer-generated, but was more
+   likely a double. The image of Jonas walking towards the window with the
+   crow on his shoulder was cut from another scene, with a computer-generated
+   crow added.
+ - When Denise visits the apartment, we never see Jürg face as it is
+   a double.
+
+Hoffe, das hat geholfen.
+
+Happen
+
+Gerhard Wölter: "Remember, once you're inside you're on your own."
+S.D. "Stefan" Gäbelein: "Oh, you mean I can't count on you? Good!"
+(Escape From Hirschhorn)
+## CrossPoint v3.1 ##

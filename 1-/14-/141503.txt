@@ -1,0 +1,9 @@
+Bei Platzproblemen kann man die Listen (und notfalls auch die Datenbank 
+selbst) komprimieren. 
+
+Die Listen sind dann nur noch ca. 117 MB statt 364 MB groß.
+Die aktuelle Größe meiner Datenabnk beträgt 270 MB, hier habe ich 
+die Komprimierung noch nie ausprobiert, da sie wohl erhebliche 
+Performanceverluste bringt.
+
+Ciao, Antonio                             jeydorfn@rpdyks.tjnbtzv.ud

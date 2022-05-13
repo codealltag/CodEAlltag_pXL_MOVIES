@@ -1,0 +1,9 @@
+Bist Du eigentlich ein tolkienscher Cavetroll, ein rowlingscher
+Mountain troll, oder ein gewöhnlicher NG-Troll?
+
+Gruß/Regards
+Karsten Feldkamp
+-- 
+Heimkino FAQ -> http://tfh.fctwwpcp-kty.kg
+
+DOS Tip 17: Add DEVICE=FNGRCROS.SYS to CONFIG.SYS

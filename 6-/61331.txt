@@ -1,0 +1,8 @@
+Was machen denn DVD-ROMs üblicherweise mit "NTSC"-Scheiben?
+Liefern die automatisch die richtigen 60 Hz? Und falls ja, bringt es
+dann etwas, den Monitor mit 120 Hz Bildfrequenz laufen zu lassen?
+Und wenn das die zulässige Zeilenfrequenz des Monitors nicht
+hergibt, ist dann ein 3:2-Verhältnis (also 90 Hz) besser als ein ganz
+krummes (etwa 85 Hz), oder merkt man da keinen Unterschied?
+
+Fritz

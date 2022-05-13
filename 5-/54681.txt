@@ -1,0 +1,17 @@
+Das bringt mich auf eine Idee:
+Dem DVD-Player ein Wörterbuch spendieren.
+Ich unterbreche die DVD-Wiedergabe bei aktiviertem englischen
+Untertitel und kann durch Navigationstasten auf der Fernbedienung ein
+Wort markieren, drücke die gelbe Worttaste und wie bei einem
+elektronischen Wörterbuch für den PC erscheint auf dem Fernseher die
+Übersetzung.
+
+Einen Schritt weiter: Ich speicher die markierten Wörter oder Sätze
+per Knopfdruck und ohne Unterbrechung schickt mir der DVD-Player über
+das Netzwerk dieese an meinem PC oder speichert sie in ein internen
+RAM.
+Nach Ende des Filmes steht mir diese Auswahl (oder auch die komplette
+Untertitelliste des Filmes) in meinem Vokabeltrainer oder in einem
+benutzerspezifischen Wörterbuch auf dem PC zur Verfügung.
+
+Max

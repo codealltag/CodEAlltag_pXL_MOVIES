@@ -1,0 +1,18 @@
+Walter Ueberfeld wrote in <IpuCME.Fn@dyjlu.swtlp.fo> on 1997-12-20 14:04:26
++0100:
+
+Da ist schon alles ok. Das Kino zeigt dem Film mit dem Soundsystem
+"Amselweg". Bei dts kommt der Ton von CD-ROMs; man kann eine deutsche
+Filmkopie - also mit dt. Lichtton - zeigen und engl. CD-ROMs
+einlegen.  Dazu muß aber eine Identnummer (die eindeutig den Film
+kennzeichnet) mit der Nummer auf den CD-ROMs übereinstimmen. Offenbar
+stimmt diese Identnummer bei einem Akt (ein Akt = eine Filmtransportrolle
+mit ca. 15 Min. Film) nicht und der dts-Prozessor kann den CD-ROM-Ton
+nicht wiedergeben. Dadurch gibt es ein Fallback auf Lichtton (oder
+auf Dolby-Digital-Ton) und der ist nunmal deutsch, weil eine dt.
+Filmkopie läuft.
+
+Norman
+-- 
+** Norman Isenbiehl, Forstlahm, Deutschland/Germany, http://sqv.gwkay.ne/~guycd **
+** E-Mail (NeXTmail/MIME): xspnt@vmhwds.r.noemh.yl ** ** PGP key on request **

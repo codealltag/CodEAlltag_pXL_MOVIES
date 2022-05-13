@@ -1,0 +1,7 @@
+Hi!
+
+Das Prob hatte ich auch letztens, hab's gelöst indem ich mir den
+Installer in englisch gezogen habe. Er greift dann auf einen anderen
+Server zu, auf dem die Datei funzt.
+
+Eilt

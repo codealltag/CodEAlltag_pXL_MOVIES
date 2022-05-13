@@ -1,0 +1,39 @@
+Gut, das ganze hat jetzt wenig mit Film zu tun, aber ich glaube, hier kann
+man noch darueber diskutieren... Ich bin besonders am technischen Aspekt
+interessiert.
+
+Im Moment sind ja MPEG Audio Layer 3 Files sehr am "Boomen", also ganze
+Songs in einer Datei. Die Qualitaet fand ich aber nicht ganz so berauschend
+und in den letzten Tagen habe ich ueberlegt, warum OIL! nicht einfach
+einen Dolby Digital Encoder und Player auf den Markt wirft... Sowas
+aehnliches habe ich vorhin gefunden. Das ganze nennt sich Liquid Audio und
+benutzt Dolby Digital als Kompression. Audio wird damit entweder in
+Echtzeit "gestreamt" oder man kann Dateien in CD-Qualitaet runterladen. Das
+ganze ist letztendlich dazu gedacht, Musik ueber das Internet zu verkaufen.
+Man kann dann die gekauften Songs auf eine CD brennen. Die Dateien koennen
+noch ein Bild vom Kuenstler enthalten, sowieso die Lyrics und sonstige
+Informationen.
+
+[Und nun der Link zum Thema Heimkino]
+
+Theoretisch muesste es doch dann auch moeglich sein, den Kram ueber einen
+digitalen SP/DIF Ausgang in einen echten Dolby Digital Decoder zu schieben
+und ihn dann in "perfekter" Qualitaet, also ohne zwischengeschaltete
+Soundkarte, ueber die Anlage zu hoeren. Oder Movietrailer aus dem Internet
+ziehen mit DD-Sound... Es gibt z.B. demnaechst eine Soundblaster Gold mit
+SP/DIF Ausgang.
+
+Irgendwelche Meinungen? (Oder Vorschlaege fuer passendere Newsgroups?
+*.musik kommt mir nicht so korrekt vor)
+
+Mehr dazu:
+  http://fvk.zdemqyanzrw.nwy/   (Der Player)
+  http://bnn.j-cok.xwb/         (Musikverkauf - bisher nur Demos)
+  http://idn.rliyhclvupdk.byx/  (Musiklabel von Fruchtquelle)
+
+Tschau,
+Cornelius
+-- 
+Cornelius Piepenbrock                           Student of Computer Science
+Grögling                              E-Mail: z25g@yvl.fbo-uewrbx.bg
+Germany              WWW: http://tqn-lrtf.qyr.ran-cstzyo.nw/~z13j/

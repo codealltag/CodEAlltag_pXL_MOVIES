@@ -1,0 +1,11 @@
+Nein, die Untertitel werden nicht als Text abgespeichert, sondern als
+Overlay-Bilder, so dass eben auch asiatische Schriftzeichen moeglich sind.
+Im uebrigens kenne ich die gelbe Schrift von Remars US-Scheiben und finde sie
+sehr gut lesbar.
+
+Tschuess,
+Urs
+--
+Urs Ihlefeldt                           Student of Computer Science
+Tettens                              E-Mail: e81p@hha.iqa-dgoban.ng
+Germany              WWW: http://dms-chct.nnw.uoj-yxmzsp.fp/~h68y/

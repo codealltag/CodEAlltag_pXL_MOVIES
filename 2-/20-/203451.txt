@@ -1,0 +1,15 @@
+Cédric wrote about Re: DVD - Der Flop kommt im Herbst oder doch nicht?:
+
+
+Nein, meine Angaben bezogen sich auf ein PALplus-Bild mit 625 Zeilen im  
+Bildformat 16:9.
+
+Als Vergleichsgroessen:
+
+- Das unkomprimierte PALplus-Signal braucht 270 MBit/s
+  (Kompressionsfaktor 30:1),
+
+- das HDTV-Studiosignal liegt bei 1,4 GBit/s
+  (Kompressionsfaktor 35:1).
+
+mfG -Duji

@@ -1,0 +1,46 @@
+Hallo Klaas,
+
+Wie bitte? Was willst du machen? Rate mal wozu der LFE-Kanal da ist.
+Das ist ein eigener Kanal, der völlig seperat angesteuert wird.
+Wenn du Frequenzen abschneiden willst, kannst du das ja am Subwoofer selbst
+abdrehen. Aber beim ".1"-Kanal kommen eh keine hohen Frequenzen.
+
+Wunder der Technik: Im Setup-Men kann man genau einstellen, was für
+Lautsprecher angeschlossen sind, groß oder klein; und für jeden Kanal
+Verzögerungszeit und Pegel (in dB) eingeben. Was willst du mehr?
+
+Kannst du dich bitte genauer ausdrücken? Meinst du damit AC3 4.0 Audio?
+Na ich denke schon. AC3 gibt es in vielen Varianten zwischen 1.0 und 5.1.
+Das dekodiert er und man kann es direkt hinten abzapfen.
+
+Prologic bzw. Stereo kommt natürlich auch als 2-Kanal heraus, dafür
+hat man ja den AV-Verstärker. Außerdem funktioniert Prologic *völlig
+anders* als AC3 oder MPEG.
+
+AFAIK kostet der Jupiter Weinkeller Dekoder 600 Mark.
+
+Da siehst du mal wie billig man mit dem A350 unterm Strich rauskommt.
+
+Ja ja, und in zwanzig Jahren ist die DVD überholt... Bla bla bla.
+Ich lebe im *hier und jetzt*. Digital-TV mit 5.1-Audio ist in ferner Zukunft.
+Auch sonst ist kein anderes Medium bzw. Gerät in Sicht.
+
+Falls ich irgendwann mal ein Bildtelefon mit Sechskanal-Surroundsound 
+haben sollte, kann ich mir noch früh genug eine Lösung überlegen.
+
+Was hast du eigentlich für Ideen? *Wenn* man eine Surroundanlage
+hat, hat man *sowieso* einen Prologicverst�rker (mit diskretem 6ch-Eingang)
+im Regal stehen. Und daran schliesst man seinen TV an. Wieso sollte sich
+daran etwas ändern?
+
+Hast du etwa einen AV-Verstärker ohne Prologic?! Ha ha... Natürlich,
+du hast 3 Stereoverstärker oder 6 Endstufen und brauchst jetzt einen 
+externen Dekoder. Oder einen high-fidelen 6-Kanal-Vorverstärker der
+nur einen Powerknopf und einen Lautstärkeregler hat? :-) (Achtung Witz)
+
+Erst Gehirn einschalten, dann schreiben.
+
+Ride on, Winfried.
+---
+Winfried Hermening, Steigra, Germany * E-Mail: Jhowenmrj.Xywxn@vntroa.xq
+Join the campaign: One Less Car *** Mach mit bei: Ein Auto Weniger

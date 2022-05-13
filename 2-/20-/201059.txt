@@ -1,0 +1,12 @@
+Ja, eine zeitlich kurze Dunkelphase fuehrt zu verringertem Flimmern. So gut wie
+beim funktionierenden 100-Hz-Monitor wird es aber keinesfalls. Damit das Flimmern
+wirklich unsichtbar wird, muss die Frequenz hoeher werden. Da verwendet man bei
+Projektoren folgenden Trick:
+
+Es werden weitere Dunkelphasen mit der gleichen Dauer wie die Bildwechsel-pause
+eingefuegt, die Zeitabstaende sind alle gleich. Den Verlust an Lichtstaerke
+nimmt man in Kauf. Bei 2 zusaetzlichen Dunkelphasen (-> 3x 18 Hz) erreicht
+man mittlere TV-Flimmerqualitaet, bei 4 zusaetzlichen (-> 5x 18 Hz) ist das
+Bild subjektiv flimmerfrei.
+
+Gruss                                    adam

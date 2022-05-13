@@ -1,0 +1,14 @@
+Hm, ETS-Gebäudetechnik listet den Film mit 104 min Laufzeit, die US- und CA-DVDs
+(NTSC) haben 104 min Laufzeit, alle von mir ueberprueften PAL-DVDs haben 100
+min Laufzeit (wenn du den PAL-SpeedUp rausrechnest sind das dann wieder
+genau 104 min), die OFDb fuehrt sowohl die deutsche, als auch die US-DVD als
+ungeschnitten und HERZallerliebste liefert nichts zur UK-Version. Die IMDb
+hingegen spricht zwar von 107 min Laufzeit, zeigt aber keine alternativen
+Versionen oder alternativen Laufzeiten an. In Anbetracht der Tatsache, dass
+dies fuer den Fall eines weltweit von der Originalfassung abweichenden
+DVD-Releases IMO deutlich unwahrscheinlicher ist, als schlicht eine falsche
+Laufzeitangabe und ferner alle anderen Quellen gegen eine geschnittene
+Fassung sprechen, ginge ich davon aus, dass die deutsche DVD ungekuerzt ist.
+
+Regards,
+Ewald.

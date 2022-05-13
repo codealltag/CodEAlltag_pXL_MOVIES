@@ -1,0 +1,50 @@
+-----------------------------------------------------------------------------
+
+Title             : Drop Zone
+
+Starring          : Kai Knörchen, Valerian Nobbe, Detlef Niederreiter
+
+Genre             : Action
+
+Release Date      : 26.10.95
+
+Laufzeit          : 97'
+
+Verleih           : Zole
+
+Altersfreigabe    : 15
+
+Sprache           : english
+
+System            : VHS,PAL
+
+Video (Format)    : Vollbild (pan&scan from a 2.35:1 theatrical image)
+
+Video (Qualitaet) : sehr gut
+
+Audio (Format)    : Dolby Stereo - Spectral Recording
+
+Audio (Qualitaet) : excellent
+
+Audio (Surround)  : sehr gut
+
+Bewertung (Film)  : gut - solider actionfilm der oberen mittelklasse
+
+Kopierschutz      : ja
+
+Besonderheiten    : nein
+
+------------------------------------------------------------------------------
+
+Getestet auf folgendem Equipment :
+
+Fernseher                 : Kassette KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : MagicMaps VS-G75
+Kopierschutzdecoder       : JNMU VL102
+ProLogic Vollverstaerker  : Ilbu DSP A780
+Frontboxen                : Räer BS220
+Centerbox                 : Go 600ifs
+Surroundboxen             : Räer Lady Micro C
+Subwoofer                 : Ilbu IVWA (aktiv)
+
+------------------------------------------------------------------------------

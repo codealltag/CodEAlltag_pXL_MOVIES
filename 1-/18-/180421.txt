@@ -1,0 +1,125 @@
+On Sun, 17 Dez 1998 01:17:02 +0100, "Abdul.Cox"
+
+Welches Format man benutzt, hängt von der jeweiligen Inszenierung ab.
+Bzw. daß das jeweilige Format einen Sinn macht. Das Beispiel mit
+"Titanic" taugt hier in der Tat.
+
+Die "epische Breite" hat imho (außer der Sicht der Fotographie) nicht
+viel Bedeutung. Bei diesem Begriff geht es ja letztendlich in erster
+Linie darum, dem Zuschauer den Eindruck zu vermitteln, er sei
+mittendrin im Geschehen (Das wüsteste, was ich hier bislang gesehen
+habe, war ein Vorführraum mit einem geschützten Bildformat von
+irgendwas zwischen 1:32 und 1:64, da gings bei relativ geringer
+Bildhöhe rund um den Zuschauerraum herum. Hat mehr verwirrt als
+genutzt).
+
+Zurück zu "Titanic". Hier muß man sich nur die Einstellungen vor Augen
+führen, in welchem man das geneigte Schiff von der Seite sieht. Wer
+sowas zeigen will, hat keine andere Wahl als 1:2.35. Es sei denn, man
+möchte nur Teile des Schiffs zeigen oder man hat nichts dagegen, zwei
+Drittel des sichtbaren Bereichs mit Wasser und Himmel zu füllen.
+Filme, deren Geschehen sich vorwiegend in der Horizontalen abspielt,
+sind für 1:2.35 prädestiniert. Weitere Beispiele wären
+Schlachtenszenen wie z.B. die Reihen der Soldaten aus einer
+Frontansicht in der Totalen � la "Braveheart" (wieder das
+Himmel/Erde-Problem), irgendwelche Ritterfilme, wo Soldaten an den
+Zinnen entlang aufpostiert stehen, ein an einem Stardestroyer
+entlangrasender Millenium Falcon, usw. Sobald eine horizontale
+Ausdehnung ins Spiel kommt, bleibt 1:2.35 oftmals auch die einzige
+Alternative, denn man darf auch nicht vergessen, daß bei einem weniger
+breiten Format Details des jeweiligen Objektes auch kleiner werden.
+Und derartige Inszenierungen sind nicht Feckes Stil. Da er primär
+in 1.85:1 dreht ist absolut logisch.
+
+Es gibt auch viele Beispiele, in welchen 1:2.35 absolut ungeeignet
+wäre. Man stelle sich als Extrembeispiel mal vor, in einem Film gäbe
+es ein Space Shuttle auf der Abschußrampe zu sehen. Ist um einiges
+höher als breit. Das exakte Gegenbeispiel zu "Titanic", hier wäre ein
+wenige detailliertes Shuttle die Folge, dafür gäbe es links und rechts
+eine Ladung Wiesen zu sehen. Bei "Apollo 13" rächt sich das übrigens,
+Totalen werden in diesem Film schon beinahe krampfhaft vermieden.
+Ein T-Rex aus "Jurassic Park" ist auch wenig kompatibel zu 1:2.35,
+das Viech muß einfach bildfüllend durchs Bild latschen, ohne daß die
+untere Hälfte des Körpers abgeschnitten wird. Beim Brachiosaurus, den
+ersten Saurier, den man zu sehen bekommt, wäre hingegen 1:2.35 netter
+gewesen - aber in quantitaver Sicht ist der Anteil solcher Szenen
+verschwindend gering.
+
+Feckes Pauschalisierung halte ich für ziemlich daneben. Wie
+gesagt, sein Stil ist wie für 1:1.85 geschaffen, aber mir kommt er
+hier vor, als ob er was vom Himmel runterphantasieren würde.
+Schließlich ist 1:1.85 auch für die Weiterverwertung nach dem Kino
+wesentlich geeigneter als das hier ungeeignete 1:2.35. Hier steckt man
+nicht in der Zwickmühle, daß sich der eine über die dicken schwarzen
+Balken aufregt und der andere, daß Teile des Bildes fehlen (BTW: Auf
+JOP zum Beispiel lief im letzten Monat kein Film in 1:2.35, sie waren
+sämtlich in der Horizontalen auf maximal 1:2.20 beschnitten).
+
+Was viel auffällt ist, daß 1:2.35 benutzt wird, wenn es eigentlich gar
+keinen Sinn macht. Ich kenne kaum einen in diesem Format gedrehten
+Thriller (als Beispielsgenre), welcher hiervon profitiert. Im
+Gegenteil, man hat es oft mit einem Kavaliersdelikt zu tun, bei
+welchem Fotographen oder Hobbyknipser die Haare zu Berge stehen.
+Am häufigsten sieht man abrasierte Schädeldecken und Waden am unteren
+Bildrand, wobei die horizontale Ausdehnung praktisch ungenutzt bleibt.
+1:2.35 hat aber auch einen entscheidenden Vorteil für jeden
+Kameramann: Es ist leichter, eine Szene in diesem Format abzulichten
+und ein Bild zu schaffen, welches für den Laien toll aussieht. Das ist
+das, was ich "Postkarten�sthetik" nenne. Die "Lethal Weapon"-Filme
+gehen beispielsweise zu nahezu 100% so vor. Das Prinzip ist ganz
+einfach: niedrige Brennweite ("Weitwinkel") und wenn es sich anbietet
+noch einen Polfilter. übertrieben gesagt bräuchte man die Kamera hier
+nur gerade zu halten und abzudrücken, das Ergebnis sieht um einiges
+gewollter aus als mit einem herkömmlichen 50mm-Objektiv. Man darf
+lediglich die Darsteller nicht zu sehr in den Vordergrund kommen
+lassen oder gar einen partielle Aufnahme eines Gesichts machen (sonst
+wird die Nase lang und knubbelig ;). Der Polfilter sorgt für eine
+Intensivierung der Farben, blauer Himmel wird blauer, die Sonne
+reflektiert sich viel hübscher auf einem roten Auto, ein
+Sonnenblumenfeld sieht dann so richtig geil aus, etc. Wer erinnert
+sich hier nicht an die Szene aus "Jenseits von Afrika", in welcher ein
+kleines gelbes Flugzeug vor tiefblauem Himmel über herrlich grünen
+Dschungel hinwegfliegt. Da kann man einiges erreichen, was in 1.85:1
+wesentlich schwieriger in optisch eindrucksvollen Bildern einzufangen
+ist. 1:2.35-Filme sehen oftmals einfach hübscher aus. Da die
+Bildkomposition in nicht auf dieses Format angewiesenen Filmen dabei
+oftmals den Bach runtergeht, ist gerade bei bewegten Bildern relativ
+unauffällig. 
+
+Wirklich Sinn macht 1:2.35 eigentlich nur dann, wenn eben die
+horizontale Ausdehnung eine wichtige Rolle im Film spielt oder wenn
+es ums Detail geht, man also ein Weitwinkel eigentlich gar nicht
+brauchen könnte. Als Beispiel zu letzterem fällt mir "Lost Highway"
+ein, der sehr viel mit Ausschnitten aus Gesichtern arbeitet. Bei
+1.85:1 hätte man hier beispielsweise das Problem, daß man zwar die
+Augen eine Darstellers schon groß auf die Leinwand bringen kann, man 
+aber auch schlecht um Haaransatz und/oder Nasenspitze herumkommt.
+
+
+Das ist relativ. Setze Dich bei 1.85:1 ein paar Reihen weiter nach
+vorne und Dein Geischtsfeld ist genauso abgedeckt. Setze Dich noch
+weiter noch vorne und das Blickfeld ist auch nach oben und unten
+ausgefüllt. Bildformate wie jenes von IMAX sind nicht umsonst nahezu
+quadratisch. 
+
+Interessant sind übrigens auch Filme, welche *beide* Formate nutzen,
+wo Du "emotionales Eindringen" geschrieben hast. Mal "Projekt
+Brainstorm" im Kino gesehen? Feine Sache, der Film läuft hauptsächlich
+in 1.85:1. Wenn Willy mit seinen "Cyberspace"-Sequenzen anfängt,
+springt er auf 1:2.35 um, was beim Zuschauer ziemlich reinbombt. Aber
+sowas ist halt selten (und für eine Auswertung nach dem Kino so
+ziemlich das unbrauchbarste, was man sich vorstellen kann -
+"Brainstorm" kriegt man dementsprechend auch nur komplett in 1:1.85 im
+Fernsehen zu sehen, da ansonsten schwarze Balken in der Horizontalen
+unvermeidbar wären).
+
+
+Er gilt aber eben nur für ihn. Stelle Dir mal vor, Ein Korhammer oder
+Plochg hätte sich zu diesem Thema geäußert.
+
+
+Ja, danke :-)
+
+cu,
+
+  Kay

@@ -1,0 +1,12 @@
+Hallo Wilfried!
+
+Du hast recht mit Deiner Mitteilung. Aber:  Auch dieses
+Programm konvertiert die diversen Einzel-Dateien von
+"Video-DVD"  in mehrere einzelne AVI-Dateien, nicht komplett
+in eine einzige AVI-Datei, und scheidet damit als die
+von mir gewünschte Version aus. Was mir vorschwebt
+ist, das der gesammte Film zu einer einzige DVD-Datei
+konvertiert wird.
+
+Gruß
+Ernst

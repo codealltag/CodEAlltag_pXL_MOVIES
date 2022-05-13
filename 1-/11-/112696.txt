@@ -1,0 +1,13 @@
+Hallo Jonas!
+
+Motion Control ist eine (computer)gesteuerte Filmkamera, stimmt genau. Die
+gab's aber schon vor Star Wars, deswegen "computer" eingeklammert. Mit Star
+Wars ist die Technik dann populär geworden. Aber ich würde die erste
+Flohquadrat-anlage (MNAW) nicht unbedingt als Computer bezeichnen. Mit
+Potentiometern konnten die Schrittmotoren einzeln angesteuert werden, die
+Steps wurden auf eine normale Kasette aufgenommen. Programmierbar (im Sinne
+von nachträglich ausfeilen, verfeinern etc.) war da nix...
+
+mit effektreichen Größen
+
+Olivier

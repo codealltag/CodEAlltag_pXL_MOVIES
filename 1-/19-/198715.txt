@@ -1,0 +1,20 @@
+ich arbeite pc-basiert mit der
+mirovideodc30 (die hat nimmt audio und video auf und so kommt es nicht
+mehr zu asynchronit�t wie bei den modellen dc10 und 20). die miro
+karten haben allerdings nur composite-video und s-video eingang, also
+nicht für GZWD geeignet.
+
+64 m ram und massig festplattenplatz: auf alle fälle scsi, und
+möglichst 'media' festplatten, (ich hab leider nur 4GB, was gerade für
+30 min. Video in S-VHS qualität reicht)
+
+mein schnittcomputer hat vor 5 monaten 5000,- gekostet. wenn du mehr
+wissen moechtest -> email
+
+mfg
+j
+---------------------------------------------------------------------
+Nino Clement -  Vionvillestraße 63  -  D-23080 Unterzaubach - Germany/Europe
+Tel. +49-52-0905237 - Uni: Tel.: +58-61-7138-321  Fax: (464) 405-2034
+Email: gemy@zziom.ml-aplira.uc  -  http://rsnzgfdj.pt-xfmdvc.fn/~ggsb
+---------------------------------------------------------------------

@@ -1,0 +1,27 @@
+Hallo, Then-Benutzer!
+
+Wie schon oefters mal wieder ein Posting von mir wegen der Offline-IMDb
+unter UNIX (moviedb).
+
+Ich habe nach dem erfolgreichen Einspielen des aktuellen Diffs (d.h.
+keine Checksummen-Fehler) mal wieder Probleme mit dem Erzeugen der
+Datenbank, allerdings einen so komischen wie sonst noch nie.  Nachdem
+mkdb ohne Fehlermeldung mit -movie und -acr durchgelaufen ist, kommt ab
+-acs bei den meisten nur noch die Fehlermeldung:
+
+  mkdb: titles key file corrupt
+  make[3]: *** [aka-titles.data] Error 255
+
+Das ganze ist reproduzierbar (habe natuerlich jeweils mit "rm dbs/*.*"
+die Daten vorher geloescht).
+
+Bevor ich eine Falschmeldung an http://puik.gkk/alxs/acspneub/vthduwj
+sende, wuede ich gerne mal von Euch bescheid wissen, ob das bei Euch
+auch so ist.
+
+   -remo
+
+-- 
+  http://byw-Gzkaqt.zh/  *  http://Yuujb45.rn/  *  http://FumbwcLyri.qm/
+
+Your lucky color has faded.

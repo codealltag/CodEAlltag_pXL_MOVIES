@@ -1,0 +1,55 @@
+Hi
+
+Jetzt ist's raus, was sich so einige schlaue Köpfe ausgedacht haben in Bezug 
+auf das Digitalkino der Zukunft: Die Spezifikation (mindestens mal für die 
+USA) ist fertig und liegt unter 
+http://iou.cjakundvu.kpa/MRW_Bnpzpon_Srxghq_Aukuhs_Bzpc_k5.qdk
+
+Interessant sind vielleicht einige Eckdaten:
+- Auflösung der Projektion 2048x1080 oder 4096x2160 (also 2K bzw. 4K) bei 24 
+FPS
+- Bilddaten sind mit 12bpP gespeichert
+- Seitenverhältnisse von 1,85:1 und 2.39:1 sind Pflicht, Rest optional
+- On-Off-Kontrast sollte bei 2000:1 liegen, erlaubt sind aber bis minimal 
+1200:1
+- In-Bild-Kontrast von 150:1 "empfohlen", erlaubt sind minimal 100:1
+- Enge Grenzen für Gamma, Shading und sonstige Artefakte
+
+- Ton mit 24 bit pro Kanal bei 48 oder 96KHz, maximal 16 Kanäle sollen 
+unterstützt werden (von denen bisher aber nur bis max. 8 definiert sind)
+- Die Audiodaten sollen über den gesamten Prozess nicht (verlustbehaftet) 
+komprimiert werden.
+- Downmixing auf eine reduzierte Kanalzahl kann durch ein Flag erlaubt oder 
+verboten werden. Dito fürs Limiting.
+- Auf den Abbildungen zu Lautsprecherplatzierungen steht auch etwas von einem 
+"Top Center Surround"
+
+- Verschlüsselung mit DRM - natürlich... "against unauthorized access, 
+copying, editing and playback"
+- Eine eindeutige Markierung der Projektion mit Zeitpunkt und Abspielort, die 
+aber "visually transparent to the critical viewer in butterfly tests for 
+motion image content" sein muss. Natürlich soll sie bitteschön aber auch 
+Rescaling, Kompression, Filterung etc. überstehen.
+- Dito für Tonsignale: eine eindeutige Markierung des Tons ist vorgeschrieben, 
+sie soll natürlich unhörbar sein und aus sämtlichen Kanalkombinationen 
+extrahiert werden können, AD-DA-Wandlungen und Geschwindigkeitsveränderungen 
+überstehen etc. etc.
+
+Mal sehen, wie sich diese Spezifikation mit der Zeit ändert. Jedenfalls sind 
+einige Dinge weniger schlimm, als bisher befürchtet (wird eine 4K-Auflösung 
+umgesetzt, müsste pixelfreies Gucken in durchaus genehmen Größen möglich sein, 
+bei 2K... naja, mal sehen), bei anderem wurde IMO übertrieben (die 
+Downmixgeschichte auf weniger Tonkanäle beispielsweise). Wie der DRM-Kram in 
+der Praxis funktionieren wird, und wie anfällig der ganze Spaß wird, naja, das 
+wird sich mit der Zeit zeigen.
+
+Das Werbebla (Kopien nutzen sich nicht ab, Bild vom digitalen Master besser 
+als die heute leider so üblichen hingeschmierten Schnellkopien etc. etc.) lass 
+ich mal raus.
+
+Mein persönliches Fazit nach einem ersten flüchtigen Blick ist, dass die 
+technische Seite durchaus ansprechend werden zu können verspricht, Sachen wie 
+die eindeutige Markierung und das DRM allgemein müssen ihre Tauglichkeit (und 
+Unsicht-/Unhörbarkeit) erst noch unter Beweis stellen.
+
+-Jean-Luc

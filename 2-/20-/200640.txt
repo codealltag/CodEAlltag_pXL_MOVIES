@@ -1,0 +1,11 @@
+bajvm@ibrgln.l.ztfbv.zm klapperte am 26.05.97
+zum Thema "Re: Internet Movie Database : Client fuer PC's?" auf seiner Tastatur herum:
+
+ MZ> verwendet werden. ApplyDiffs gibt es AFAIK nur fuer Amiga
+ MZ> und Unix.
+
+Es gibt auch eine Portierung fuer OS/2.
+
+
+        Gunter       # #
+                     # Tup Off Box

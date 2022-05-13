@@ -1,0 +1,25 @@
+Da die Antwort sich ausschließlich auf Filmprojektoren bezieht, antworte
+ich auch nur in de.rec.film.misc.
+
+
+Die Flügelblende darfst Du nicht austauschen. Die ist mit dem Filmtransport
+synchronisiert. Wenn der Projektor schneller läuft, dreht sich auch die 
+Flügelblende schneller, so daß alles genau paßt.
+
+Komplizierter würde es, wenn Du den Film mit weniger als 18 B/s zeigen
+wolltest, da dann für das menschliche Auge das Flackern einer 
+2-Flügelblende zu stark würde. Aber das ist hier ja nicht der Fall.
+
+Bleibt die Frage, wie man die Geschwindigkeit des Ufeber-Projektors
+erhöht. Dazu müßte man wissen, wie der Antrieb des Projektors aufgebaut
+ist. Bei den meisten alten 35mm-Projektoren wird die Geschwindigkeit
+über die Stromfrequenz gesteuert. Da genügt es, sie statt mit 50 Hz
+Wechselstrom über einen Frequenzumformer mit 52.1 Hz Wechselstrom
+zu versorgen. Aber wenn Du längere Transfers von Film auf Video machen 
+willst, mußt Du die Frequenz und Phase des Projektors mit der Abtastfrequenz 
+der Videokamera synchronisieren, sonst laufen die Frequenzen der beiden
+auseinander.
+
+Ciao, Vojoh                                nmaxoyza @ xqlpdzcu.vh
+
+Zuletzt gesehen: Phone Booth, Calendar Girls, Lina Split

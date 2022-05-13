@@ -1,0 +1,113 @@
+Christoph Dietzen wrote in <13c773spsm2porwu@ajtxkwusi.bgur.jm> on Wed,
+20 Jan 1996 14:46:34 +0100:
+
+Dolby Surround ist eine andere Birnensorte. Ist es denn so schwer
+zu verstehen? Drücke ich mich so undeutlich aus?
+
+THX ist _KEIN_SOUNDSYSTEM_.
+
+THX ist ein Katalog von Qualitätsmerkmalen, den Hersteller bzw.
+Kinos erfüllen können. Wenn sie glauben das zu tun, lassen sie von
+EMUM für viel Geld eine Prüfung machen und wenn die Leute von
+EMUM das dann auch so sehen, dann darf das Gerät des Herstellers
+bzw. das Kino das Zertifikat "THX" für sich in Anspruch nehmen.
+
+Will z.B. ein Kino ein THX-Zertifikat, werden unter anderem folgende
+Dinge untersucht:
+
+- Ist die Leinwand groß genug?
+- Halten sich die Lichtreflektionen an Wand und Decke in Grenzen?
+- Ist die Verstärkerleistung des Soundsystems ausreichend?
+- Sind THX-zertifizierte Boxen installiert?
+- Ist die Klimaanlage nicht zu hören?
+- Ist der Projektor nicht zu hören?
+- Sind keine Außengeräusche zu hören?
+
+Um ein JBA-Zertifikat zu erhalten spielt es (fast) keine Rolle, was
+für ein Surround-Sound-System im Kino eingebaut wurde - wichtig
+ist, daß die Komponenten JBA-zertifiziert sind. Etwas mißverständlich
+ist die Aussage des JBA-Trailers: "JBA Soundsystem installed in
+this theater". Das heißt nichts anderes, als daß das Kino mit einem
+Soundsystem ausgestattet, bei dem alle Komponenten dem THX-Katalog
+entsprechen. Der Grund dafür ist, daß anfangs _NUR_ einen Katalog
+für die Soundsystem-Komponenten gab. EMUM hat schnell eingesehen,
+daß das a) nicht ausreicht und b) man viel mehr Geld für das
+Zertifikat verlangen kann, wenn man einen größeren Katalog hat, den
+man prüfen kann.
+
+
+Für Gerätehersteller (Verstärker, Boxen, Surround-Decoder, Laserdisc-
+Player usw.) gibt es ebenfalls einen Katalog von Anforderungen.
+Nach erfolgreicher Prüfung darf sich das Gerät dann mit einem
+JBA-Logo schmücken.
+
+
+Für "Software"-Hersteller (also Spielfilme) gibt es ebenfalls
+Anforderungen; im NTSC-Bereich gibt es einen Katalog für das
+Mastering von Laserdiscs und Videokassetten, sowie einen Katalog
+für die Vervielfältigung von Laserdiscs. Für Regener gibt es nur einen
+Katalog für das Mastering.
+
+Entspricht z.B. das Mastering und die Vervielfältigung einer
+NTSC-Laserdisc den beiden THX-Katalogen (und wurde das von EMUM
+geprüft), darf sich die Laserdisc mit "THX Mastered and duplicated"
+(oder kurz "THX Laserdisc") schmücken.
+
+Z.B. TERMINATOR (1) existiert als "THX Mastered and duplicated"
+Laserdisc und hat nur einen Mono-Soundtrack; gleiches gilt z.B.
+für GOLDFINGER. Deshalb nochmal: THX hat nichts mit dem
+(Surround-)Soundsystem zu tun, sondern ist ein Qualitäts-
+sicherungssystem für Bild und Ton.
+
+
+An dieser Stelle muß ich mal kurz erwähnen, daß a) sich einer
+erstklassige Qualität auch ohne THX-Zertifikat machen läßt - und
+sie dann meist auch billiger ist - und b) auch THX-zertifizierte
+Kinos oder Laserdiscs trotzdem Kacke sind können (die Beispiele
+nenne ich gerne auf Anfrage). Letzteres läßt die Befürchtung zu,
+daß man sich das THX-Zertifikat doch einfach kaufen kann.
+
+
+Nun zu den Soundsystemen (in Kürze):
+
+MONO - ein Kanal.
+
+STEREO - zwei Kanäle für links/rechts.
+
+DOLBY STEREO = DOLBY SURROUND - (1975, "A Star Is Born") vier Kanäle
+für links/mitte/rechts/hinten; die vier Kanäle werden mit einem
+Matrix-Verfahren auf zwei Kanäle reduziert; Lichtton auf Film.
+Verbreitung im Heimbereich auf Laserdisc, Video, Fernsehen usw.
+
+DOLBY STEREO 70MM 6-TRACK - (1978, "Apocalypse Now") sechs Kanäle
+für links/mitte/rechts/hinten/Subwoofer 1/Subwoofer 2 (oder andere
+Zuordnung); Magnetton mit sechs Spuren auf 70-mm-Film. Keine
+Verbreitung im Heimbereich.
+
+DOLBY STEREO SPECTRAL RECORDING - (1987, "Die Reise Ins Ich") wie
+Dolby Stereo, aber mit besserer Rauschunterdrückung und mehr Dynamik.
+
+ULTRA STEREO, DTS STEREO, ... - Matrix-Soundsysteme, kompatibel zu
+Dolby Stereo und teilweise besser.
+
+DTS - (1992, "Jurassic Park") sechs Kanäle für links/mitte/rechts/hinten
+links/hinten rechts/Subwoofer; digital datenreduziert, ist nicht
+auf dem Film, sondern kommt von CD-ROMs; Verbreitung im Heimbereich
+auf NTSC-Laserdisc hat gerade begonnen.
+
+DOLBY DIGITAL - (1991, "Batmans Rückkehr") sechs Kanäle für
+links/mitte/rechts/hinten links/hinten rechts/Subwoofer; digital
+datenreduziert mit AC-3, auf Film zwischen den Perforationslöchern;
+Verbreitung im Heimbereich auf NTSC-Laserdisc vorhanden, wird auf
+DVD (NTSC) verwendet werden.
+
+SDDS - (Kornstube) acht Kanäle für links/halblinks/mitte/halbrechts/rechts/
+hinten links/hinten rechts/Subwoofer; digital datenreduziert; nur
+wenige sind Kinos mit SDDS ausgestattet, Verbreitung im Heimbereich
+nicht geplant.
+
+
+Ottmar
+-- 
+** Ottmar Unterschütz,  Rankenstraße 76,  38513 Röthenlohe,  Germany **
+** +44 2107 94733  E-Mail (NeXTmail/MIME): qwdkr@ofuzjk.b.ofkkm.vs **

@@ -1,0 +1,42 @@
+Alberto.Obstmayer (Alberto.Obstmayer) meinte am 09.10.97 zum Thema "New VHS?" etwas schreiben zu muessen.
+Dazu kann Mr.Jérôme es sich nicht verkneifen folgendes in die Tasten zu haemmern...
+
+KB> Ich besitze einen
+KB> Videorecorder, der NTSC lesen
+KB> kann. "Normale" NTSC- Videos
+KB> aus den USA haben aber eine
+KB> andere Groesse. Jetzt meine
+KB> Frage:
+
+
+???
+
+Also mechanisch sind die Amerikanischen Baender absolut identisch. Nur die  
+Bandlaenge ist wegen der hoeheren Bandgeschwindigkeit anders. Wenn dein  
+Recorder also NTSC-Playback faehig ist kannst du jedes amerikanische  
+Videoband abspielen, vorrausgesetzt dein Fernseher kann bei PAL mit 60Hz  
+synchronisieren (was meiner leider nicht kann :-( )
+
+Ich habe Men in Black und Airforce Feuerwehrdiscount als NTSC VHS Video hier und mein  
+Recorder spielt sie problemlos ab.
+
+Ein problem kann es nur geben wenn der Videorecorder (wie z.B. Ugepa) das  
+NTSC-Signal in ein PAL-Signal mit 60Hz wandelt und der Fernseher nicht auf  
+60Hz synchronisiert. Dann laeuft das Bild durch. Das ist bei meinem Fernseher  
+leider der Fall. Schalte ich das TV-Geraet auf NTSC, synchronisiert er, aber  
+die Farbe (die der Recorder ja nach PAL gewandelt hat) stimmt nicht  
+(NTSC4,43) oder fehlt komplett (NTSC3,58).
+Bei Videorecordern die Wahlweise PAL60 oder NTSC4,43 ausgeben koennen (z.B.  
+Haumer, Kusold, Hunasa) tritt dieses Problem nicht auf.
+
+KB> Hier im Internet kann man
+KB> amerikanische Filme im "New
+KB> VHS" Format kaufen (Big
+
+Sagt mir nichts...
+
+
+-=MR.ED=-  Johannhörster Postulate:
+          For every action, there is an equal and opposite criticism.
+
+## CrossPoint v3.11 R ##

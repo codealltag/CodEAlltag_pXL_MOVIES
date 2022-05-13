@@ -1,0 +1,30 @@
+Hallo,
+
+
+Tja, dann spinnen wir die Rechnung doch mal weiter.
+Angenommen, der Wuerfel aendert sich alle 10 Sekunden.
+(Schneller war's im Film nach meiner Erinnerung sicherlich nicht.)
+
+Dann gibt es 8640 Aenderungen am Tag, also etwa 10^4.
+Somit dauert es 10^1612 / 10^4 = 10^1608 Tage, bis der Wuerfel 
+wieder seinen Ausgangszustand erreicht hat, sofern er wirklich
+alle Permutationen durchmacht. Um die Zahl etwas handlicher zu 
+machen, habe ich es mal in Millionen Jahre umgerechnet; das sind 
+immer noch 10^1600. (eine 1 mit 1600 Nullen dahinter!)
+
+Kann ein Mensch wirklich so lange ohne Essen ueberleben? ;-)
+
+
+Vielleicht ist die Rechnung ja falsch, und der Film rechnet
+nur mit 26! Permutationen, das sind dann nur 4*10^26. Wieder
+mit etwa 10^4 Bewegungen pro Tag dauert es dann nur noch
+10^20 Jahre. Wenn man bedenkt, dass das Universum
+nur etwa 10^10 Jahre alt ist, ist aber immer noch etwas 
+lange ohne Essen und Trinken. :-)
+
+Hat vielleicht jemand von Euch eine bessere Erklaerung oder
+findet den Fehler in meiner Rechnung? Alternativ - und das
+glaube ich - ist die Mathematik im Film Muell. 
+
+Gruss
+  Winfried

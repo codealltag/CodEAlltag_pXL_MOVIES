@@ -1,0 +1,51 @@
+On Tue, 15. 01. 23 23:48:01 +0200, "Domenico Coldewey"
+
+Oder einfach ganz viele Atomkernen nimmt und ganz ganz dicht
+zusammenbringt... ;-)
+
+
+Also ich tippe explizit auf nein. Aufgrund des aktuellen Stands der
+Wissenschaft geht man davon aus das man nie mit
+Überlichtgeschwindigkeit fliegen kann. 
+
+
+Und das tut man um zwischen 2 Orten eine "Abkürzung" zu finden. Dann
+braucht man nicht mit �berlichgeschwindigkeit zu fliegen, da der Weg
+durch das Wurmloch ja viel kürzer ist.
+
+Jeder kann das mit einem Blatt Papier (2 dimensionaler Raum)
+versuchen, und dann durch die Dritte Dimension abkürzen....
+
+
+noch ein wenig ausführlicher:
+
+E(kin) = m*c^2 + m(0)*c^2
+
+wobei m(0) die Ruhemasse und m die Relativistische Masse in
+Abhängigkeit der Geschwindigkeit darstellt.
+
+m= m(0)/sqrt(1-(v^2/c^2))
+
+Je größer v, desto kleiner der Nenner des Bruchs, desto größer die
+Masse, desto größer die kinetische Energie. Für v => c geht m gegen
+unendlich.
+
+
+Die aber ganz eng verknäult sind, so das man sie nicht erkennen
+kann...
+
+
+150 Mio. km. Macht ca. 500s. Sind schon 8,3 Minuten die du brauchst um
+zur Sonne zu kommen.
+
+
+Nächstes Sonnensystem war IIRC Alpha Centauri mit einer Entfernung von
+4,3 Lichtjahren. Jetzt kann sicher jeder ausrechnen wie lange man
+dahin braucht...
+
+bye Tobias
+-- 
+Eine falsch abgetrennte Signatur ist keine Signatur und braucht deshalb
+nicht richtig abgetrennt zu sein.
+
+Ingo Unverferth in vr.uekl.oa.vtse.icpkh.pojp

@@ -1,0 +1,12 @@
+Victorias:'We should have shotguns for this kinda deal.'
+Vito:'How many up there?'
+Dietrich:'Three or four.'
+[...]
+Vito:'We should have fucking shotguns.'
+
+kommt im Original doch besser.
+-- 
+"übrigens schrottet GERLICH den Sigtrenner nur dann, wenn a) mit Content-Transfer-
+Encoding: 8bit gepostet wird und b) in der Nachricht Umlaute vorkommen.
+Die Behauptung, GERLICH könne ohne Hilfe von außen keinen korrekten Sigtrenner
+herstellen, ist jedenfalls unwahr."	-Karsten Mewes in dsnu

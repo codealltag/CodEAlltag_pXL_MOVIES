@@ -1,0 +1,29 @@
+Ich weiss nicht, wie lang ein einzelner Timecode ist und ob die TCs 
+kontinuierlich bei jedem Bild untergebracht sind. Aber ich gehe 
+davon aus, dass durch das zusätzliche Bild maximal 2 TC gestört werden.
+Diese Störung kann der Dekoder sicher abfangen ohne auf den Lichtton
+umzuschalten (SRD und SDDS, bei denen die Toninformation auf dem Film
+ist, verkraften AFAIK Aussetzer von 4 Perforationslöchern (= 1 Bild)).
+
+
+Letzteres bezweifele ich. (Das wäre jedenfalls ein grober Designfehler.)
+
+DTS arbeitet nicht nur bei exakt 24 B/s sondern verkraftet einen gewissen
+Geschwindigkeitsbereich von ca. 22-26 B/s. Durch das zusätzliche Bild
+kommt der Timecode jetzt etwas später als erwartet. Dies wirkt für den
+Decoder, als ob der Projektor kurzzeitig etwas langsamer läuft. Dies 
+sollte der Decoder ausmitteln, indem er auch den Ton etwas langsamer 
+laufen läßt.
+
+
+Genau. Jetzt bleibt die Frage, über welchen Zeitraum der Decoder die
+Geschwindigkeitsschwankungen des Timecodes ausmittelt und wie schnell
+er die Tongeschwindigkeit nachregelt. Ich nehme an, dass dies über
+einige Sekunden verteilt geschieht, so dass allenfalls Frequenzschwankungen
+von 1-2% Prozent auftreten.
+
+
+Allerdings wird man für solchen *versteckten* Manipulationen kaum
+mehrere Bilder pro Sekunde einfügen.
+
+Ciao, Mark                       xpycmgsm@equnng.kjycreu.ym

@@ -1,0 +1,9 @@
+* quoting [vito jehnigen <qnwgm@wdj.ez>]
+
+Ist das eine deutsche Produktion?
+
+
+-- 
+Warning:  You are not root
+             
+	     -- nmap V. 2.54BETA31

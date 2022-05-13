@@ -1,0 +1,774 @@
+Voßkuhle, den 11. Juni 1997
+
+I M   M H  H  OO  - Eugen Denkes aktuelle Filmkommentare
+I MM MM H  H O  O - Copyright 1997 by Erik "Eugen Denke" Goller
+I M M M HHHH O  O - Sonderausgabe
+I M   M H  H O  O - Diesmal: Der Sneak-Faktor
+I M   M H  H  OO  - >>>>>>>> oder: wie man einen Kult bewertet
+
+----------------------------------------------------------------------------
+Vor fast zwei Monaten, als ich drauf und dran war, einer kleinen Tradition
+"Adios" zu sagen und nicht mehr regelmäßig die "Sneak Preview" genannten
+�berraschungsvorabauff�hrungen im Voßkuhler City-Kino zu besuchen, stellte
+ich im Usenet und andernorts die Frage, ob der Sneak-Faktor überall so
+schlecht sei wie in Voßkuhle. Ich bekam eine ganze Reihe von Antworten und
+beschloß, das ganze zusammen mit ein paar zusätzlichen Informationen mal als
+Übersicht aufzustellen. Nun, jetzt ist diese Übersicht endlich fertig - Spinnrad
+Zauberkönig und andere Katastrophen haben den Fertigstellungstermin dreimal über den
+Haufen geworfen - und da mich einige darum gebeten haben, die Ergebnisse mal
+zu posten, werde ich diesem Wunsch auch entsprechen. Im folgenden wird also
+die aus acht deutschen und drei österreichischen Kinos, zu denen mir Daten
+vorliegen, *das* Sneak-Kino überhaupt bestimmt - viel Spaß beim Lesen.
+----------------------------------------------------------------------------
+
+
+WAS IST EINE SNEAK PREVIEW?
+
+Da die Frage immer wieder gestellt wird, werde ich sie hier noch einmal kurz
+beantworten. Sneak Previews sind Filmaufführungen, bei denen a) ein Film ge-
+zeigt wird, der im jeweiligen Land noch gar nicht angelaufen ist und bei de-
+nen b) kein Besucher (ohne Spione im Kinopersonal) vorher weiß, welcher
+Film gezeigt wird. Ich habe für diese Wertung auch noch eine gewisse Regel-
+mäßigkeit (mehr oder weniger wöchentlich) dieser Veranstaltungen vorausge-
+setzt, um die Vergleichbarkeit der Ergebnisse zu gewährleisten.
+
+"Sneak Previews" gibt es in Deutschland seit etwa sieben Jahren, wobei sie
+sich in den letzten drei virusartig im Lande ausgebreitet haben. Der Trend
+stammt wie immer aus den USA, wo solche Veranstaltungen schon seit Ewig-
+keiten zum Sonderprogramm für Filmfreaks gehört. Auch hier in Deutschland
+entwickelt sich vielerorts eine Art "Sneakpublikum" von Filmfans, die zu
+mehr oder weniger jeder Veranstaltung anwesend sind und den Kinos so einen
+recht konstanten Ticketabsatz ermöglichen. 
+
+
+UND WAS IST DIESER PREVIEW-FAKTOR?
+
+Der Reiz einer "Sneak Preview" liegt neben anderen Elementen, die weiter 
+unten erwähnt werden, natürlich in nicht unbeträchtlichen Maße darin be-
+gründet, daß man einen Film früher sehen kann als das gewöhnliche Publi-
+kum, manchmal ist die Sneak sogar die einzige Gelegenheit, einen Film in
+einem ordentlichen Saal zu Gesicht zu bekommen. Während viele andere Ei-
+genschaften einer Sneakpreview Geschmackssache sind, kann man den Abstand
+zwischen Preview und normalem Start eines Filmes jedoch objektiv messen. 
+Aus diesem Abstand berechnet sich dann das, was ich Preview-Faktor (PrF)
+nenne. Da die Previews in den einzelnen Städten an verschiedenen Wochen-
+tagen stattfinden, wäre es unfair, die Tage zwischen Preview und Premiere
+direkt zu werten; ebenso muß aus Gründen der Praktikabilität die Tatsache
+unberücksichtigt bleiben, daß der Landesstart eines Filmes nicht immer
+auch der Tag ist, ab dem der Film in der Previewstadt zu sehen ist. Ich de-
+finiere daher <Mathmode> den Previewfaktor eines Filmes als die Anzahl vol-
+ler Wochen zwischen Previewtag und Landesstart. </Mathmode> Für den seltenen
+Fall, daß ein Film *nach* Deutschlandstart gezeigt wurde - ja, auch das gab
+es -, habe ich den "Preview"-Faktor dieses Filmes mit -1 gewertet.
+
+
+WIE WIRD GEWERTET ?
+
+Bei jedem der elf Kinos, für die mir Daten vorliegen, wurde nach dem glei-
+chen Muster verfahren: für jeden Film auf der Liste wurde der Previewfaktor
+berechnet, der Mittelwert bestimmt und eine Auflistung der absoluten Häufig-
+keiten der verschiedenen Preview-Faktoren vorgenommen. Aufgrund der unter-
+schiedlichen Anzahl Filme, die mir für die einzelnen Kinos vorlagen, gibt
+der PrF-Mittelwert am ehesten vergleichbare Resultate, während die Einzel-
+aufstellung einen guten Eindruck vermittelt, wie weit man in der Kinostart-
+liste nach vorne blättern sollte, wenn man den Previewfilm erraten will.
+Garniert wird das ganze mit ein paar Details über das jeweilige Kino, soweit
+sie mir vorliegen. Filme, deren Startermin nicht festliegt oder die als Son-
+derveranstaltungen nur im zeitlichen Rahmen einer Sneak Preview liefen, wur-
+den übrigens nicht in die Wertung mit einbezogen.
+
+
+1. Unbekanntes Kino, Oltingen
+---------------------------
+Zu diesem Kino fehlen mir so gut wie alle Angaben, per Mail war die freund-
+liche Person, die mir dir Filmliste überließ, nachträglich nicht mehr zu er-
+reichen. Bleibt mir nur noch zu sagen, daß die Filme in der Regel in syn-
+chronisierter Fassung laufen. Previewtag ist hier der Mittwoch.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+28.09.1996: Otto                              (1)  = 0
+05.10.1996: Der Geist und die Dunkelheit        (8)  = 1
+12.10.1996: Rossini                             (8)  = 1
+19.10.1996: Blood & Wine                        (22) = 3
+26.10.1996: The Crow II - Die Rache der Krähe   (1)  = 0
+02.11.1996: Daylight                            (1)  = 0
+09.11.1996: Mörderischer Tausch                 (1)  = 0
+16.11.1996: Last Supper - Henkersmahlzeit       (1)  = 0
+23.11.1996: Fled - Flucht nach Plan             (8)  = 1
+30.11.1996: Das kleine Arschloch                (1)  = 0
+07.12.1996: Romeo & Julia                       (1)  = 0
+14.12.1996: Das Leben ist eine Baustelle        (1)  = 0
+21.12.1996: Jaguar                              (1)  = 0
+28.12.1996: 14 Tage Lebenslänglich              (1)  = 0
+04.01.1997: Robin Peak                        (1)  = 0
+11.01.1997: Wer ist Mr. Sergio?                  (1)  = 0
+18.01.1997: Das Relikt                          (8)  = 1
+25.01.1997: Roseannas letzter Wille             (8)  = 1
+01.02.1997: Turbulence                          (8)  = 1
+08.02.1997: Different For Girls                 (8)  = 1
+15.02.1997: Liar,Liar - Der Dummschwätzer       (8)  = 1
+22.02.1997: The Chamber - Die Kammer            (8)  = 1
+01.03.1997: Wallace & Gromit                    (--)
+08.03.1997: Fierce Creatures                    (8)  = 1
+15.03.1997: Larger Than Life                    (1)  = 0
+22.03.1997: Shadow Conspiracy                   (8)  = 1
+29.03.1997: bandits                             (1)  = 0
+05.04.1997: Private Parts                       (15) = 2
+12.04.1997: Addicted To Love                    (8)  = 0
+--------------------------------------------------------
+Filme: 28, PrF-Summe: 16
+Mittelwert: 0,57
+Statistik: 14*[0], 11*[1], 1*[2], 1*[3]
+
+In Oltingen liegt man also fast immer richtig, wenn man sich den Top-Start des
+Folgetages oder der Folgewoche als Tip aussucht; weite Vorgriffe finden in
+dieser Stadt offensichtlich überhaupt nicht statt.
+
+
+2. ALRO-Kino, Raich
+-------------------
+Auch hier werden ausschließlich deutsche Fassungen präsentiert; die Sneak
+findet Donnerstags um 20 und 23 Uhr mit jeweils dem gleichen Film statt. Der
+Besuch einer dieser Vorstellungen kostet DM 8,50 inkl. dem bei vielen Veran-
+staltungen dieser Art üblichen Vorprogramm aus Scherzen, Verlosungen und
+Filmtrailern. 
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+06.10.1996: Rossini                             (14) = 2
+13.10.1996: Sleepers                            (14) = 2
+20.10.1996: Blood & Wine                        (21) = 3
+27.10.1996: Daylight                            (7)  = 1
+03.11.1996: Knockin' on Heaven's Door           (7)  = 1
+10.11.1996: Veit Dähler                       (14) = 2
+17.11.1996: Harry                             (0)  = 0
+24.11.1996: Romeo und Julia                     (14) = 2
+01.12.1996: Fled - Flucht nach Plan             (7)  = 1
+08.12.1996: 14 Tage lebenslänglich              (21) = 3
+15.12.1996: Wer ist Sergio                       (28) = 4
+22.12.1996: Das Relikt                          (35) = 5
+29.12.1996: Dante's Peak                        (7)  = 1
+05.01.1997: Reginald Feldwisch                       (7)  = 1
+12.01.1997: Set it off                          (21) = 3
+19.01.1997: Charlotte letzter Wille              (14) = 2
+26.01.1997: Metro                               (7)  = 1
+02.02.1997: Turbulence                          (7)  = 1
+09.02.1997: Die Kammer                          (21) = 3
+16.02.1997: Der Dummschwätzer                   (7)  = 1
+23.02.1997: Valentino                                (7)  = 1
+02.03.1997: Con Air                             (7)  = 1
+09.03.1997: Verschwörung im Schatten            (21) = 3
+16.03.1997: Private Parts                       (35) = 5
+23.03.1997: Bandits                             (7)  = 1
+30.03.1997: Prinz Eisenherz                     (21) = 3
+06.04.1997: In Love and War                     (28) = 4
+13.04.1997: In Sachen Liebe                     (7)  = 1
+20.04.1997: First Strike                        (21) = 3
+27.04.1997: Gridlock'd                          (7)  = 1
+04.05.1997: Nirvana                             (14) = 2
+11.05.1997: The fifth Element                   (14) = 2
+--------------------------------------------------------
+Filme: 32, PrF-Summe: 66
+Mittelwert: 2,06
+Statistik: 1*[0], 13*[1], 7*[2], 7*[3], 2*[4], 2*[5]
+
+Wie man sieht, wird man in Raich, was den Vorlauf der Filme angeht, schon
+wesentlich mehr verwöhnt; auch ist es hier trotz der großen Häufung von Fil-
+men der Folgewoche nicht so einfach, zu erraten, was laufen wird, da auch
+Vorgriffe um zwei oder drei Wochen nicht selten sind - ergo größerer Berra-
+schungswert. ;-))
+
+
+3. Gari-Kino, Voßkuhle
+---------------------
+über mein "Heimatkino" könnte ich natürlich fast endlos erzählen, ich belas-
+se es aber bei einigen kurzen Anmerkungen: das "Gari" ist ein OF-Kino, in
+deren seit etwa drei Jahren also nur englische und amerikanische Filme in
+Originalfassung laufen. Ebenso sieht es in der "Sneak Preview" aus, nur ge-
+legentlich mischt sich einmal eine untertitelte Fassung ins Programm. Ein
+einziges Mal - und das auch ohne Verschulden der Betreiber - lief ein Film,
+"Night falls on Manhattan" in Synchronfassung. Das Kino faßt ca. 450 Plt-
+ze und eine gute Bild- und Tonanlange, auch wenn letzere gelegentlich deut-
+lich *über* Limit gefahren wird. Die Sneak besteht aus Trailershow, Spaß
+und Verlosungen der Veranstalter und dem Hauptfilm; eine Karte kostet, wie
+sonst am Mittwoch in diesem Agrarmarkt-Kino auch, je nach Platz DM 9,- oder 11,-.
+
+Es sollte noch erwähnt werden, daß das "Elir"-Kino in der Vucherens
+zeitgleich eine Sneak in deutscher Sprache abhält, die jedoch in neun von
+zehn Fällen denselben Film zeigt wie das "Gari" und deswegen hier nicht
+extra aufgeführt wird - auch wenn es deren Preview schon seit sieben und
+nicht erst seit drei Jahren gibt.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+28.09.1996: The Ghost and the Darkness          (15) = 2
+05.10.1996: Grace of my Heart                   (15) = 2
+12.10.1996: The Preacher's Wife                 (1)  = 0
+19.10.1996: Sleepers                            (8)  = 1
+26.10.1996: Daylight                            (8)  = 1
+02.11.1996: Space Jam                           (1)  = 0
+09.11.1996: The Last Supper                     (8)  = 1
+16.11.1996: Veit Dähler                       (8)  = 1
+23.11.1996: Mars Attacks!                       (1)  = 0
+30.11.1996: Romeo + Juliet                      (8)  = 1
+07.12.1996: Fled                                (1)  = 0
+14.12.1996: Harry                             (1)  = 0
+21.12.1996: Harry Zettler                     (8)  = 1
+28.12.1996: Dante's Peak                        (8)  = 1
+04.01.1997: The Associate                       (8)  = 1
+11.01.1997: Reginald Feldwisch                       (1)  = 0
+18.01.1997: Ghosts of Missisippi                (1)  = 0
+25.01.1997: Metro                               (8)  = 1
+01.02.1997: Beavis and Butt-head do America     (8)  = 1
+08.02.1997: 2 Days in the Valley                (8)  = 1
+15.02.1997: Absolute Power                      (1)  = 0
+22.02.1997: Liar Liar                           (1)  = 0
+01.03.1997: The Chamber                         (1)  = 0
+08.03.1997: Fierce Creatures                    (8)  = 1
+15.03.1997: Night falls on Manhattan            (1)  = 0
+22.03.1997: Batman & Robin                      (1)  = 0
+29.03.1997: Addicted to Love                    (22) = 3
+05.04.1997: Speed 2: Cruise Control             (1)  = 0
+12.04.1997: Anaconda                            (1)  = 0
+19.04.1997: Private Parts                       (1)  = 0
+26.04.1997: First Strike                        (15) = 2
+03.05.1997: Fools rush in                       (8)  = 1 
+10.05.1997: Fathers' day                        (36) = 5
+17.05.1997: The fifth Element                   (8)  = 1
+24.05.1997: Bean                                (1)  = 0
+31.05.1997: That Old Feeling                    (15) = 2
+07.06.1997: Face/Off                            (15) = 2
+07.06.1997: Men in Black                        (1)  = 0
+--------------------------------------------------------
+Filme: 38, PrF-Summe: 32
+Mittelwert: 0,84
+Statistik: 17*[0], 14*[1], 5*[2], 1*[3], 1*[5]
+
+Tja, leider ist es mit dem Preview-Faktor des Kinos nicht besonders weit her
+- vor einem Jahr wäre diese Statistik wesentlich besser ausgefallen. So aber
+ist es fast so wie in Oltingen, hauptsächlich Filme des Folgetages und der
+Folgewoche prägen das Bild und nur seltene und vor allem in der letzten Zeit
+erfolgte Abweichungen von diesem Schema haben dazu geführt, daß der PrF noch
+ein kleine Stückchen höher ist. Ein Wert von unter 1 ist aber wahrlich kein
+Ruhmesblatt, vor allem, wenn die entsprechenden Filme in Voßkuhle oft vorher
+in angekündigten Previews zu sehen sind. 
+
+
+4. Kamera-Kino, Ermershausen
+-------------------------
+Ermershausen hat gleich zwei verschiedene Kinos mit Sneak Previews zu bieten,
+die an unterschiedlichen Tagen fast immer verschiedene Filme präsentieren -
+in synchronisiterter Fasssung zwar, aber dennoch ein beträchtlicher Luxus.
+Im Kamera ist Mittwoch Sneaktag; leider liegen mir zu den einzelnen Kinos
+keine weitere Daten vor.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+28.09.96: Rendezvous mit einem Engel            (15) = 2
+05.10.96: Der Geist und die Dunkelheit          (8)  = 1
+12.10.96: Rossini                               (8)  = 1
+19.10.96: Sleepers                              (8)  = 1
+26.10.96: Blood and Wine                        (8)  = 1
+02.11.96: The Last Supper                       (15) = 2
+09.11.96: Gefährlicher Tausch                   (1)  = 0
+16.11.96: Jaguar                                (36) = 5
+23.11.96: Kleines Arschloch                     (8)  = 1
+30.11.96: Flucht nach Plan                      (8)  = 1
+07.12.96: Harry                               (8)  = 1
+14.12.96: Wer ist Sergio?                        (29) = 4
+21.12.96: 14 Tage Lebenslänglich                (8)  = 1
+28.12.96: Dante's Peak                          (8)  = 1
+04.01.97: Reginald Feldwisch                         (8)  = 1
+11.01.97: Twin Town - Pretty Shitty City        (8)  = 1
+18.01.97: Das Relikt                            (8)  = 1
+25.01.97: Kama Sutra                            (8)  = 1
+01.02.97: Turbulence                            (8)  = 1
+08.02.97: Crime Time                            (15) = 2
+15.02.97: Valentino                                  (15) = 2
+22.02.97: Wilde Kreaturen                       (22) = 3
+02.03.97: Die Kammer                            (1)  = 0
+08.03.97: Verschwörung im Schatten              (22) = 3
+--------------------------------------------------------
+Filme: 24, PrF-Summe: 37
+Mittelwert: 1,54
+Statistik: 2*[0], 14*[1], 4*[2], 2*[3], 1*[4], 1*[5]
+
+Ein ordentlicher Preview-Faktor im Mittelfeld für ein Kino, das vielleicht
+ein bißchen *zu* vorhersehbar ist - zwei Drittel aller Filme starten in der
+Folgewoche; da kann man sich schon vorher recht gut ausrechnen, was man zu
+sehen bekommt.
+
+
+5. NNH, Ermershausen
+-----------------------
+Die NNH ist - dem Kinoprogram nach zu urteilen - eine schräge Mischung
+aus Programmkino und Mainstream-Abspielstätte, wie es sie abseits der Mil-
+lionenst�dte offensichtlich häufiger gibt. Die Sneak Previews finden hier,
+man lese und staune, am Sonnabend statt.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+01.10.96: Portrait of a Lady                    (5)  = 0
+08.10.96: Sleepers                              (19) = 2
+15.10.96: Unter Brüdern                         (5)  = 0
+22.10.96: Space Jam                             (12) = 1
+29.10.96: Shine                                 (33) = 4
+05.11.96: Lone Star                             (47) = 6
+12.11.96: Harry                               (33) = 4
+19.11.96: Ridicule                              (40) = 5
+26.11.96: 2 Days in the Valley                  (82) = 11
+03.12.96: Harry Zettler                       (26) = 3
+10.12.96: Das Leben ist eine Baustelle          (5)  = 0
+24.12.96: Valentino                                  (68) = 9
+31.12.96: Set it Off                            (33) = 4
+14.01.97: Metro                                 (19) = 2
+28.01.97: White Lies                            (12) = 1
+04.02.97: Sleep with me                         (5)  = 0
+11.02.97: Ghost in the Shell                    (--)
+18.02.97: Addicted to love                      (61) = 8
+25.02.97: Cold Comfort Farm                     (12) = 1
+04.03.97: Love and War                          (61) = 8
+11.03.97: Chasing Priska                           (40) = 5
+18.03.97: Die Verschwörung im Schatten          (12) = 1
+01.04.97: Gretchen und Carolin Highschool Re.    (40) = 5
+--------------------------------------------------------
+Filme: 22, PrF-Summe: 80
+Mittelwert: 3,54
+Statistik: 4*[0], 4*[1], 2*[2], 1*[3], 3*[4], 3*[5], 1*[6], 2*[8], 1*[9], 
+           1*[11]
+
+In der NNH kann man sich also nie sicher sein, was man als nächstes
+vorgesetzt bekommt; die Faktorenauflistung ergibt keinen eindeutigen Favo-
+riten. Beachtlich die gelegentlich auftauchenden großen Vorgriffe wie z.B.
+bei "2 Days in the Valley", ansonsten fällt auf, das vergleichsweise häufig
+kleinere Prduktionen zu sehen sind und die Blockbuster fast völlig fehlen.
+
+
+6. cinema, Lüxheim
+------------------
+Im cinema in Lüxheim laufen vorwiegend originalsprachliche Filme; die Sneak
+Preview findet deswegen passenderweise auch immer in englischer Originalfas-
+sung statt - wenn nicht mal ein deutscher Film wie "Knockin' on Heaven's
+Door" ins Programm rutscht. Previewtag ist hier der Freitag, ich bin aus den
+Angaben bei http://aax.oevlmo-wdowocsn.yco/ nicht schlaugeworden, was den
+Preis der Previewkarten angeht.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+30.09.1996: Portrait of a Lady                  (6)  = 0
+07.10.1996: The Ghost and the Darkness          (6)  = 0
+14.10.1996: Sleepers                            (13) = 1
+28.10.1996: Blood and Wine                      (13) = 1
+04.11.1996: One Fine Day                        (83) = 11
+06.11.1996: Knockin on Heavens Door           (11) = 1
+11.11.1996: The Crucible                        (6)  = 0
+18.11.1996: Shine                               (13) = 1
+25.11.1996: Romeo and Juliet                    (13) = 1
+02.12.1996: Harry                             (13) = 1
+09.12 1996: Harry Zettler                     (20) = 2
+23.12.1996: Antoinette                                (13) = 1
+30.12.1996: Dante's Peak                        (6)  = 0
+06.01.1997: The Saint                           (20) = 2
+03.02.1997: 2 Days in the Valley                (13) = 1
+10.02.1997: Liar Liar                           (13) = 1
+12.02.1997: The Chamber                         (13) = 1
+17.02.1997: Cold Comfort Farm                   (20) = 2
+24.02.1997: Con Air                             (13) = 1
+03.03.1997: Fierce Creatures                    (13) = 1
+10.03.1997: Night falls on Manhattan            (6)  = 0
+17.03.1997: Shadow Conspiracy                   (13) = 1
+24.03.1997: Grosse Pointe Blank                 (55) = 7
+07.04.1997: Private Parts                       (13) = 1
+14.04.1997: In Sachen Liebe                     (6)  = 0
+21.04.1997: Face/Off                            (62) = 8
+05.05.1997: The Fifth Element                   (20) = 2
+12.05.1997: Fathers' day                        (34) = 4
+19.05.1997: The Full Monty                      (41) = 5
+26.05.1997: One Night Stand                     (27) = 3
+02.06.1997: Breakdown                           (34) = 4
+--------------------------------------------------------
+Filme: 31, PrF-Summe: 64
+Mittelwert: 2.06
+Statistik: 6*[0], 14*[1], 4*[2], 1*[3], 2*[4], 1*[5], 1*[7], 1*[8], 1*[11]
+
+Trotz der Häufung bei Filmen der Folgewoche bietet das cinema einen guten
+PrF und einige sehr weite Vorgriffe, obwohl das Programm mainstreamlastiger
+als das der NNH ist; gerade für Freunde der Originalfassung ist die-
+ses Kino wohl das reinste Schlaraffenland, das gelegentlich, wie bei
+"Face/Off" oder "One Fine Day", sogar die Pressevorführungen überholt.
+
+
+7. Bleichermühle-Theater, Unterschwarzach
+----------------------------
+Dieses unabhängige Filmtheater zeigt nur deutsche Fassungen und hat sich den
+Montag als Previewtag ausgesucht; die Verantstaltungen beginnen in der Regel
+um 23:00 und kosten 10,- Eintritt.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+03.10.1996: der geist und die dunkelheit        (10) = 1
+10.10.1996: rossini                             (17) = 2
+17.10.1996: sleepers                            (10) = 1
+24.10.1996: The Crow: City of Angels            (3)  = 0
+31.10.1996: daylight                            (3)  = 0
+07.11.1996: blood and wine                      (3)  = 0
+14.11.1996: veit dähler                       (10) = 1
+21.11.1996: fled                                (17) = 2
+28.11.1996: der englische patient               (!!) = -1
+05.12.1996: shine                               (3)  = 0
+12.12.1996: jaguar                              (10) = 1
+19.12.1996: 14 Tage lebenslaenglich             (10) = 1
+26.12.1996: harry zettler                     (3)  = 0
+02.01.1997: dante's peak                        (3)  = 0
+09.01.1997: wer ist mr zurborg                    (3)  = 0
+16.01.1997: twin town                           (3)  = 0
+23.01.1997: das relikt                          (3)  = 0
+30.01.1997: metro                               (3)  = 0
+06.02.1997: beavis and butthead                 (3)  = 0
+13.02.1997: viva dobersnigg                      (3)  = 0
+20.02.1997: der dummschwaetzer                  (3)  = 0
+27.02.1997: die kammer                          (3)  = 0
+06.03.1997: in love and war                     (59) = 9
+13.03.1997: nacht ueber lischeid               (3)  = 0
+20.03.1997: die verschwoerung im schatten       (10) = 1
+27.03.1997: bandits                             (3)  = 0
+03.04.1997: anaconda                            (10) = 1
+10.04.1997: private parts                       (10) = 1
+17.04.1997: Chasing Priska                         (10) = 1
+24.04.1997: First Strike                        (17) = 2
+--------------------------------------------------------
+Filme: 30, PrF-Summe: 23
+Mittelwert: 0,77
+Statistik: 16*[0], 9*[1], 3*[2], 1*[9], 1*[!]
+
+So nett laut des Einsenders dieser Liste auch das Ambiente im Bleichermühle-CUR-
+ater sein mag, die Previews haben einen eher mäßigen PrF und zeichnen sich,
+wie auch schon Oltingen, durch eine jede Überraschung abtötende Vorhersehbar-
+keit aus: in mehr als der Hälfte der Fälle ist ein Film vom Folgedonnerstag
+zu sehen. Auffällig allerdings der eine "Ausrutscher" - bei "In Love and
+War" könnte das aber auch daran liegen, daß der Film diverse Male kurzfri-
+stig verschoben wurde.
+
+8. allerlei-Kino, Jesenkofen
+------------------------
+Wer das "Sneak Review"-Team einmal bei der "Arbeit" beobachten will, sollte
+sich am Mittwochabend in diesem Kino einfinden, in dem seit fast drei Jahren
+regelmäßig eine "Sneak Preview" in deutscher Fassung stattfindet - die Kino-
+karten sind mit DM 7,- ziemlich preisgünstig.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+05.10.1996: Der Geist und die Dunkelheit        (8)  = 1
+12.10.1996: Rossini                             (8)  = 1
+26.10.1996: Daylight                            (8)  = 1
+02.11.1996: Space Jam                           (1)  = 0
+09.11.1996: Blood And Wine                      (1)  = 0
+16.11.1996: Theodor Schweißguth - Die nackte Wahrheit   (1)  = 0
+23.11.1996: Kleines Arschloch - Der Film        (8)  = 1
+30.11.1996: Fled - Flucht nach Plan             (8)  = 1
+07.12.1996: Harry                             (8)  = 1
+14.12.1996: Das Leben ist eine Baustelle        (1)  = 0
+21.12.1996: Vertrauter Feind                    (1)  = 0
+28.12.1996: Dante's Peak                        (8)  = 1
+04.01.1997: Reginald Feldwisch                       (8)  = 1
+25.01.1997: The Saint                           (1)  = 0
+11.01.1997: Das Attentat                        (8)  = 1
+18.01.1997: Set It Off                          (15) = 2
+01.02.1997: Beavis & Butt-head do America       (8)  = 1
+08.02.1997: Turbulence                          (1)  = 0
+15.02.1997: Der Dummschwätzer                   (8)  = 1
+22.02.1997: Die Kammer                          (8)  = 1
+01.03.1997: 2 Tage in D.                      (!!) = -1
+08.03.1997: Die Drei Mädels von der Tankstelle  (1)  = 0
+15.03.1997: Nacht über Lischeid                (1)  = 0
+22.03.1997: Batman & Robin                      (1)  = 0
+29.03.1997: Die Verschwörung im Schatten        (1)  = 0
+05.04.1997: Anaconda                            (8)  = 1
+12.04.1997: Private Parts                       (8)  = 1
+19.04.1997: In Sachen Liebe                     (1)  = 0
+26.04.1997: First Strike                        (15) = 2
+10.05.1997: Nirvana                             (8)  = 1
+17.05.1997: Das Fünfte Element                  (8)  = 1
+24.05.1997: Bean                                (1)  = 0
+31.05.1997: Noch einmal mit Gefühl              (15) = 2
+07.06.1997: Im Körper des Feindes               (15) = 2
+--------------------------------------------------------
+Filme: 34, PrF-Summe: 23
+Mittelwert: 0,68
+Statistik: 13*[0], 16*[1], 4*[2], 1*[!]
+
+Die Angabe auf der Infoseite der "Sneak Review" stimmt nicht ganz: zwei Wo-
+chen später startende Filme sind in Jesenkofen eigentlich ziemlich selten,
+mit etwa gleicher Wahrscheinlichkeit wird man mit einem Film des Folgeta-
+ges oder der Folgewoche versorgt. Auffällig ist, das höhere Vorgriffe als 
+zwei Wochen überhaupt nicht zu finden sind und somit im Jahr 1997 noch gar
+nicht aufgetreten sind - war auch "Rumble in the Bronx" im Vorjahr eine Aus-
+nahme?
+
+
+9. LVMH, Kröll
+-----------------------------
+Zum Schluß folgen zum Vergleich drei Kinos aus der Alpenrepublik in denen
+sich jeweils am Dienstag um 20:15 der Vorhand zu einer "Sneak Preview" ea-
+fwi. Alle Filme laufen ausschließlich in Originalfassung; in Kröll kostet
+eine Kinokarte S 80,-, also etwa DM 11,30. Bei allen österreichischen Ki-
+nos habe ich natürlich die dortigen Starttermine der Filme als Berechnungs-
+grundlage genommen, die in den allermeisten Fällen allerdings nur um ein bis
+zwei Tage von den deutschen Terminen abweichen.
+
+Datum       Film                                Tage Fabio
+--------------------------------------------------------
+04.10.1996: Sleepers                            (16) = 2
+11.10.1996: The Mirror has two Faces            (24) = 3
+18.10.1996: Space Jam                           (17) = 2
+25.10.1996: Veit Dähler                       (31) = 4
+01.11.1996: Mars Attacks!                       (24) = 3
+08.11.1996: One Fine Day                        (80) = 11
+15.11.1996: 101 Dalmatians                      (17) = 2
+22.11.1996: Harry                             (24) = 3
+29.11.1996: Harry Zettler                     (31) = 4
+06.12.1996: Ghosts of Lehing               (45) = 6
+13.12.1996: Dante's Peak                        (24) = 3
+20.12.1996: Reginald Feldwisch                       (24) = 3
+27.12.1996: Lost Highway                        (10) = 1
+03.01.1997: Set It Off                          (31) = 4
+10.01.1997: The Saint                           (24) = 3
+17.01.1997: Absolute Power                      (38) = 5
+24.01.1997: Liar Liar                           (30) = 4
+31.01.1997: The Chamber                         (31) = 4
+07.02.1997: Head Above Water                    (37) = 5
+14.02.1997: Fierce Creatures                    (31) = 4
+21.02.1997: Addicted to Love                    (59) = 8
+28.02.1997: In Love And War                     (73) = 10
+07.03.1997: Con Air                             (3)  = 0
+14.03.1997: Restoration                         (17) = 2
+21.03.1997: The Fifth Element                   (65) = 9
+28.03.1997: Speed 2: Cruise Control             (10) = 1
+04.04.1997: Private Parts                       (17) = 2
+11.04.1997: Jungle 2 Jungle                     (8)  = 1
+18.04.1997: subUrbia                            (45) = 6
+25.04.1997: 2 Days in the Valley                (3)  = 0
+02.05.1997: Everyone says: I love you           (10) = 1
+09.05.1997: Chasing Priska                         (10) = 1
+16.05.1997: Contact                             (52) = 7
+23.05.1997: Face/Off                            (31) = 4
+30.05.1997: Men in Black                        (10) = 1
+06.06.1997: One Night Stand                     (??)
+--------------------------------------------------------
+Filme: 35, PrF-Summe: 129
+Mittelwert: 3,68
+Statistik: 2*[0], 6*[1], 5*[2], 6*[3], 7*[4], 2*[5], 2*[6], 1*[7], 1*[8],
+           1*[9], 1*[10], 1*[11]
+
+Kaum "Pseudo"-Previews (also solche mit PrF=0), lauter Originalfassungen
+und so gut wie keine Möglichkeit, den Film, der laufen wird, vorher zu er-
+raten - zusammen mit der frühen Uhrzeit würden sich viele deutsche Filmfans
+über eine eine solche Preview in ihrer Stadt unheimlich freuen. ;-))
+
+
+10. GrellersKino, Dörfla
+---------------------
+Viel zusätzliches gibt es im Vergleich zum Kröller Theater nicht zu sagen,
+Tag, Uhrzeit und Preis einer Kinokarte sind identisch, nur die Filmauswahl
+weicht natürlich ab. In Dörfla gibt es mit dem Megaplex noch ein weiteres Kino
+mit einer Sneak Preview (immer donnerstags); das Datenmaterial, das mir zu
+diesem Kino vorliegt, ist jedoch noch nicht groß genug, um hier berücksich-
+tigt zu werden.
+
+Datum       Film                                Tage PrF
+--------------------------------------------------------
+04.10.1996: The Preacher's Wife                 (16) = 2
+11.10.1996: The Crucible                        (38) = 5
+18.10.1996: The Mirror has two Faces            (17) = 2
+25.10.1996: The Associate                       (80) = 11
+01.11.1996: Veit Dähler                       (24) = 3
+08.11.1996: Harry                             (38) = 5
+15.11.1996: Shine                               (17) = 2
+22.11.1996: 101 Dalmatians                      (10) = 1
+29.11.1996: Romeo + Juliet                      (10) = 1
+06.12.1996: One Fine Day                        (52) = 7
+13.12.1996: Lost Highway                        (24) = 3
+20.12.1996: Harry Zettler                     (10) = 1
+27.12.1996: Dante's Peak                        (10) = 1
+03.01.1997: Reginald Feldwisch                       (10) = 1
+10.01.1997: The Relic                           (16) = 2
+17.01.1997: The Saint                           (17) = 2
+24.01.1997: Set it Off                          (10) = 1
+31.01.1997: Absolute Power                      (24) = 3
+08.02.1996: When we were Kings                  (10) = 1
+14.02.1997: Liar Liar                           (9)  = 1
+21.02.1997: Head Above Water                    (23) = 3
+28.02.1997: Fierce Creatures                    (17) = 2
+07.03.1997: Addicted to Love                    (45) = 6
+21.03.1997: Speed 2: Cruise Control             (17) = 2
+28.03.1997: Jungle 2 Jungle                     (22) = 3
+04.04.1997: In Love And War                     (29) = 4
+11.04.1997: Private Parts                       (10) = 1
+18.04.1997: The Fifth Element                   (38) = 5
+25.04.1997: Volcano                             (66) = 9
+02.05.1997: Fathers' Day                        (45) = 6
+09.05.1997: subUrbia                            (24) = 3
+16.05.1997: Nothing to Lose                     (??)
+23.05.1997: One Night Stand                     (??)
+30.05.1997: Face/Off                            (24) = 3
+06.06.1997: Contact                             (31) = 4
+--------------------------------------------------------
+Filme: 33, PrF-Summe: 106
+Mittelwert: 3,21
+Statistik: 9*[1], 7*[2], 7*[3], 2*[4], 3*[5], 2*[6], 1*[7], 1*[9], 1*[11]
+
+Der Mittelwert ist hier nicht ganz so hoch wie in Kröll, und sehr große Vor-
+griffe sind auch etwas seltener - dafür ist diese Veranstaltung vollkommen
+pseudo-sneak-frei, und das ist ja auch was wert, vor allem für jene, die
+Karten für Filme der kommenden Woche vorbestellen.
+
+
+11. Kinderkamers, Pressleithen
+----------------
+In der österreichischen Hauptstadt sind die Kinokarten mit S 105,- (also
+fast genau DM 15,-) etwas teurer, ansonsten gilt das für das Kröller Kino ge-
+schriebene auch hier.
+
+Datum       Film                                Tage Fabio
+--------------------------------------------------------
+04.10.1996: The Mirror has two Faces            (31) = 4
+11.10.1996: Space Jam                           (24) = 3
+18.10.1996: Veit Dähler                       (38) = 5
+25.10.1996: Mars Attacks!                       (31) = 4
+01.11.1996: Shine                               (31) = 4
+08.11.1996: 101 Dalmatians                      (24) = 3
+15.11.1996: Romeo + Juliet                      (24) = 3
+22.11.1996: One Fine Day                        (66) = 9
+29.11.1996: Harry                             (17) = 2
+06.12.1996: Dante's Peak                        (31) = 4
+13.12.1996: Harry Zettler                     (17) = 2
+20.12.1996: Lost Highway                        (17) = 2
+27.12.1996: Reginald Feldwisch                       (17) = 2
+03.01.1997: The Saint                           (31) = 4
+10.01.1997: Set It Off                          (24) = 3
+17.01.1997: Liar Liar                           (37) = 5
+24.01.1997: Beavis & Butt-head do America       (17) = 2
+31.01.1997: Absolute Power                      (24) = 3
+07.02.1997: Fierce Creatures                    (38) = 5
+14.02.1997: Head Above Water                    (30) = 4
+21.02.1997: Holger Room                       (10) = 1
+28.02.1997: Con Air                             (10) = 1
+07.03.1997: Addicted to Love                    (45) = 6
+14.03.1997: Speed 2: Cruise Control             (24) = 3
+21.03.1997: Jungle 2 Jungle                     (29) = 4
+28.03.1997: Private Parts                       (24) = 3
+04.04.1997: The Fifth Element                   (51) = 7
+11.04.1997: Chasing Priska                         (37) = 5
+18.04.1997: 2 Days in the Valley                (10)
+25.04.1997: Nothing to Lose                     (??) = ?
+02.05.1997: Everyone says: I love you           (10) = 1
+09.05.1997: Fathers' day                        (38) = 5
+16.05.1997: Face/Off                            (38) = 5
+23.05.1997: Men in Black                        (17) = 2
+30.05.1997: Contact                             (38) = 5
+06.06.1997: Breakdown                           (31) = 4
+--------------------------------------------------------
+Filme: 35, PrF-Summe: 126
+Mittelwert: 3,60
+Statistik: 4*[1], 6*[2], 7*[3], 8*[4], 7*[5], 1*[6], 1*[7], 1*[9]
+
+Auch dieses Kino ist pseudo-sneak-frei, ganz große Vorgriffe fehlen hier je-
+doch. Dafür liegt der Mittelwert höher als im Dörflaer Kino, wenn auch nicht
+ganz so hoch wie in Kröll; durch die breite Streuung zwischen drei und fünf
+Wochen Vorlauf dürfte ein Erraten der Filme schwer fallen.
+
+
+Ubune...
+
+Welche Stadt ist nun die previewigste? Nach den Preview-Mittelwerten ergibt
+sich folgende Rangliste der Kinos:
+
+Platz  Kino/Stadt                                PrF
+-----------------------------------------------------       
+ 1.    LVMH, Kröll                7,81
+ 2.    Kinderkamers, Pressleithen                              4,20
+ 3.    NNH, Ermershausen                      3,54
+ 4.    GRPS, Dörfla                        3,21
+ 5.    ALRO-Kino, Raich                          2,06
+       Geschenkehaus, Lüxheim                           2,06
+ 7.    Pakka, Ermershausen                    1,54
+ 8.    GTUS, Voßkuhle                        0,84
+ 9.    Blütenreich, Unterschwarzach                 0,77
+10.    AVGKino, Jesenkofen                     0,68
+11.    Unbekanntes Kino, Oltingen                  0,57
+-----------------------------------------------------       
+
+An der Spitze also zwei österreichische Lichtspielhäuser, von deren Preview-
+Verhalten sich die deutschen Kollegen - so sie das können, und das hängt ja
+auch von den Filmverleihern ab - mal eine Scheibe abschneiden sollten;
+die NNH in Ermershausen ist das einzige deutsche Kino, das die Austria-
+Werte auch nur annähernd erreicht - allerdings mit einem Programm hauptsäch-
+lich aus Independent-Filmen. Da auch OF-Sneaks in Deutschland durchaus ak-
+zeptabel machbar sind, zeigt das "Geschenkehaus" in Lüxheim, das mit dem deutsch-
+sprachigen ALRO in Raich zusammen die besten Werte "im Mainstream" er-
+reicht. Allen mit einem PrF von weniger als eins würde ich dringend anraten,
+sich bei den Verleihern um weitere Vorgriffe zu bemühen - einen Film statt
+am Donnerstag "schon" in der Mittwochnacht zu sehen, stellt für mich jeden-
+falls keinen Anreiz dar, eine Sneak zu besuchen, weshalb ich den Preview-
+Faktor "meines" Frindorf-Kinos auch weiter genau im Auge behalten werde. 
+
+Wie sieht es nun mit den größten Einzelvorgriffen aus - welches Kino hat
+hier die Nase vorn?
+
+Platz Film                     Kino/Stadt                        Tage  PrF
+--------------------------------------------------------------------------
+ 1.    One Fine Day            cinema, Lüxheim                   (83) = 11
+ 2.    2 Days in the Valley    NNH, Ermershausen              (82) = 11
+ 3.    One Fine Day            Lammering Gulf, Kröll        (80) = 11
+       The Associate           GRPS, Dörfla                (80) = 11
+ 5.    In Love And War         Lammering Gulf, Kröll        (73) = 10
+ 6.    Jack                    NNH, Ermershausen              (68) = 9
+ 7.    ReiterlädleKino, Dörfla                (66) = 9
+       One Fine Day            Kinderkamers, Pressleithen                      (66) = 9
+ 9.    The Fifth Element       Royal UKNI, Kröll        (65) = 9
+10.    In Love and War         BNONTheater, Unterschwarzach         (59) = 9
+--------------------------------------------------------------------------
+
+Knapper Sieg für Lüxheim vor der NNH in Ermershausen, ansonsten auch hier
+Dominanz der österreichischen Kinos, die von ihren Verleihern offensichtlich
+bessere Angebote bekommen als ihre deutschen Kollegen.
+
+
+DANKE, DANKE, DANKE
+
+Diese Analysen wurden von mir vorgenommen - sie wären indes nicht möglich
+gewesen ohne die vielen Filmverr�ckten in Deutschland und Österreich, deren
+Daten ich verwenden konnte, und ohne ein paar Helfer, die mir bei der Sich-
+tung des Materials und mit moralischer Unterstützung geholfen haben. Ohne
+besondere Rangfolge bedanke ich mich also bei Henry Geis, Volker
+silvio Winisch, René Eller, Maurizio Mest, Christian Flasche, Waldemar Greser, Guido
+Preisendörfer, Valerius Pankok, Fabio Isenbiehl, Norman Wörner und Victor Landwermann
+und wünsche diesen und allen Lesern viel Spaß bei zukünftigen Kinobesuchen,
+sei es zu Sneak Previews oder gewöhnlichen Vorstellungen.
+
+P.S.: Wer sich über die Subject-Zeile gewundert hat: während ich dies ver-
+      faßt habe, war auf meinem Fernseher das Programm von PRO SIEBEN zu
+      sehen...
+
+COPYRIGHT
+
+Diese Feingeisterei-Sonderausgabe ist Copyright 1997 by Erik Eugen Denke Goller.
+Er darf zu nichtkommerziellen Zwecken frei in elektronische Diskussionsfo-
+ren, in denen der Autor ihn nicht selbst veröffentlicht, eingebracht werden,
+sofern er unverändert und insbesondere diese Notiz erhalten bleibt. Das Ver-
+öffentlichen und Anbieten dieser Kritik auf ftp- oder http-Servern, auf CDs
+oder sonstigen verbreiteten Datenträgern, in gedruckten Publikationen oder
+per EMail und das bearbeitete Veröffentlichen ist nur mit ausdrücklicher
+vorheriger Genehmigung des Autors gestattet. Alle Rechte, insbesondere zur
+kommerziellen Verwertung, bleiben vorbehalten.
+----------------------------------------------------------------------------
+
+Gruß
+Eugen Denke
+--
+Erik 'Eugen Denke' Goller         E-mail: tyxdwefw@nbssdgqsdh.sqw-jzvovia.ka 
+ RFFP, Amiga+Networks   S-Mail: Jägerweg26, 69589 Voßkuhle
+  Faculty of computer science       Tel/Fax/BBS: +75 57 52470 -166/-640/-461
+   University of Voßkuhle             "Sometimes, you can still catch me reinhold-
+    In beautiful Northern Germany     cing in it." *************************

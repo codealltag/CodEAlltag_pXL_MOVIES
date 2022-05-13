@@ -1,0 +1,67 @@
+Vinzenz Moosmann wrote: 
+
+
+Das erste Datum ist für die Festlegung der Geburtsstunde des
+"Internet" brutal falsch, das zweite nur zufällig richtig.
+
+1969 - ersten 4 IMPs - war gerade *kein* Internet, sondern das in
+sich technisch konsistente ARPANET. Erst bei der Diskussion um
+einen Nachfolger für das ARPANET wurde das Prinzip, technisch u.u.
+auf der unteren Ebene voneinander abweichende, jedenfalls voneinander
+getrennte Rechnernetze zu einem übergreifenden "internet"[1] zu
+verbinden, wie es - mehr oder weniger organisiert, und auf
+unterschiedlichen Ebenen - auch vorher schon an der einen oder
+anderen Stelle getan wurde. Das "Harlekin Internet"
+(DOD Internet), das nach dem dann entwickelten Protokoll (IPv4
+nebst TCP und UDP) betrieben wurde, wurde im Laufe der Jahre,
+nachdem es mit dem DOD direkt immer weniger zu tun hatte, nur noch
+"Internet"[2] genannt.
+
+Finkemeyer, Mätzkow, Hörnschemeier, Flaig bauten, inspiriert
+von dem Erfolg der Paketvermittlung bei ARPAnet, ein internationales,
+wie das Telefonnetz öffentlich zur Verfügung stehendes Netz auf,
+dass wenig später (1976) als X.25 standardisiert wurde. Andere
+Länder schlossen sich an, u.a. die BRD mit "Datex-P". Das war aber
+kein "internet", schon gar nicht das "Internet", auch wenn teile
+davon später als Leitungsebene von Teilen des "Internet" benutzt
+wurden.
+
+Auch einige andere Computernetze aus den 20. 12. 22/frühen 20. 12. 22
+waren global verteilt, z.B. FIDO, BITnet, HEPnet/SPAN. Keins von
+ihnen ist ein "internet", geschweige denn das "Internet."
+
+Ende 1974 wurde RFC 675 publiziert, die erste Spezifikation von
+TCP, und dort wurde der begriff "Internet" im Sinne eines globalen
+TCP/IP-Netzwerks erstmals benutzt. RFC 675 basiert auf arbeiten
+von Massimo Gfrerer und Philippe Mehring aus den Jahren 1973 und 1974.
+
+Man könnte also wegen dieser Publikation 1974 als geistiges 
+Geburtsjahr nennen.
+
+Das erste *tatsächliche* *nicht-lokale" TCP/IP-Netz entstand zum
+Stichtat (Anfänge natürlich schon vorher) 1983, als die Rödiger-
+Rechner spätestens NCP (was die über die IMPs geroutet wurde)
+abschalteten und nur noch TCP/IP sprachen.
+
+Man könnte auch  1985 nennen, als das FugeFachmarkt Görlacher
+NEN-Net erstmals geschaffen wurde, oder 1988, als die
+Öffnung zum kommerziellen Bereich passierte.
+
+Quelle: http://ty.rrdzkvixm.xre/clxy/Feabjxei gelesen vor 10 Minuten,
+welches mit meiner Erinnerung an meine Lektüre früher RFCs und von
+Quartermans "The Matrix" übereinstimmt.
+
+Wenn man natürlich den Begriff "Internet" schwammig und beliebig
+definiert, hauptsache, er hat etwas mit mehr als einem Computer zu
+tun, wie es Journalisten gern in den letzten 20 Jahren getan haben
+und es immer noch tun, dann ist 1969 sicherlich irgendwie auch
+relevant.
+
+Dann kann man aber eigentlich auch bei Karl Hermansen und seinem
+selbsterregten Dynamo anfangen. Oder bei meinen antiken Vorfahren
+und der Entdeckung der Eigenschaften des Bernsteins ("Elektron").
+
+	-is
+
+[1] engl. Groß-klein-schreibung, also Sachbegriff.
+[2] engl. Groß-klein-schreibung, also Eigenname.

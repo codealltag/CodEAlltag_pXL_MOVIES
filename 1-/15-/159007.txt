@@ -1,0 +1,23 @@
+Das hat den Vorteil, wie Tobias schon anmerkte, dass man alle
+natürlichen Zahlen eindeutig in Primfaktoren zerlegen kann und ist daher
+eben so nützlich. Ich kenne auch KEIN Mathematikbuch, in dem die
+Primzahldefinition die 1 zu den Primzahlen zählt.
+
+
+Eben, was sie halt im ersten Kapitel oder im Index oder so festlegen...
+die Frage, ob 1 zu den natuerlichen Zahlen gehört, hat weit mehr
+praktische Bewandtnis. Denn je nachdem, wie man das definiert, gibt es
+bei Sätzen über die natürlichen Zahlen eben Sonderfälle oder nicht. Z.
+B. "Für alle natürlichen Zahlen (außer 0) gilt: ..." oder "Für alle
+natürlichen Zahlen und 0 gilt:..." 
+
+
+Naja, ich dachte da eher an Arrays in C(++) oder an die "beliebten"
+Korrektheitsbeweise für Algorithmen...
+
+
+Sicherlich KANN man für sich alles Mögliche definieren, aber üblich ist
+es nicht. Und wie gesagt, wenn die eindeutige Primfaktorzerlegung nicht
+mehr funktioniert, funktionieren so manche andere Dinge auch nicht mehr.
+
+Tschüss, Klaas

@@ -1,0 +1,29 @@
+Hallo,
+
+ich wollte mir mit dem Programm "Lane" eine lokale Kopie
+der "Internet Movie Database" unter MS-DOS erstellen und dazu
+die aktuellen Datenlisten in das Programm einlesen (die
+neueste Variante mit fertigen Daten ist leider schon 2 Jahre
+alt :-( ).
+
+Leider klappte das nicht. Das Programm meinte es koennte in den
+Listen keine Infos finden. Ich vermute das liegt daran, dass am
+Layout der Listen etwas geaendert wurde seit meiner Lane-
+Version (ich habe V1.54a, die auch schon 1,5 Jahre alt ist).
+Deshalb findet das Programm die richtigen Search-Strings nicht mehr
+in den Listen.
+
+Mit der Movies-Liste hatte ich als einziges Erfolg durch Einfuegen
+der Zeile "TITLES" direkt vor dem Beginn der Filmdaten.
+
+Hat hier jemand damit Erfahrung, und kann mir vielleicht sagen, was
+ich in den Listen einfügen muss?
+
+vielen Dank fuer jede Hilfe.
+
+Ciao Paolo
+-- =
+
+Paolo Dahlheimer
+Polyprint, Universitaet Wettenberg
+E-Mail: qgvjld@swu.mxcuwh.qja-lzehzhmdh.ms

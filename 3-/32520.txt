@@ -1,0 +1,4 @@
+Meines Wissens ist das immer noch ein Problem, wenn es natürlich sein
+soll.  Gerade für ein Navigationsgerät wird ja auch nur ein begrenzter
+Wortschatz benötigt, so daß nur wenige Phrasen zusammengesetzt werden
+müssen.

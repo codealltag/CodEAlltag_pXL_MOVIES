@@ -1,0 +1,121 @@
+Das ist Unfug.
+
+     Hin und wieder kommt es vor, daß spezielle Szenen, die den Weg in
+     die  Endfassung eines Filmes nie geschafft haben (deleted scenes)
+     hinter dem eigentlich Film auf einer LD  zu  sehen  sind.  Ebenso
+     Trailer, Interviews, Making of's, Fotos, usw. Es kommt auch öfter
+     mal vor, daß auf einer LD auch noch der Soundtrack standalone  zu
+     hören ist.
+
+     Mehrere Versionen eines Films in der Form von "zwei  verschiedene
+     Filme,  wie  wenn  es  zwei verschiedene VHS-Kassetten wären" ist
+     technisch nicht möglich. Da man bei Filmen generell von  mehreren
+     Discs ausgehen muß (auch bei DVD nicht auszuschließen), wäre auch
+     ein Programmieren auch nicht gerade sinnvoll.
+
+     Wer mehrere Versionen eines Films haben möchte, kann in der Regel
+     auf Box Sets zurückgreifen, in denen beide Versionen als einzelne
+     Filme enthalten sind. Wird recht oft  praktiziert,  zum  Beispiel
+     bei  "Dawn  of  the  Dead" (deutsch "Zombie"), bei welchem es den
+     Argento-Cut gibt (Europa, 118 Minuten) sowie den Romero-Cut (USA,
+     142  Minuten).  Sowas  ist  in  der  Regel jedoch nur für Sammler
+     interessant.
+
+     Also: Auf einer LD/DVD findet man EINE Fassung eines Films.  Gibt
+     es  mehrere  Fassungen eines Films, hat man in der Regel folgende
+     Möglichkeiten:
+
+        - beide Fassungen kaufen
+        - eine Box kaufen
+        - ein Release suchen, bei welchem der Film in der Original-
+          fassung enthalten ist und alternative Szenen mit gender-
+          tem Inhalt als "Bonus Track" enthalten sind.
+
+
+     Die Filme sind in Kapitel unterteilt. Manchmal gar nicht oder nur
+     sehr  wenige  (Litera  oder  afroshop machen das gerne), manchmal
+     sehr viele (der Rekordhalter in meinem Schrank ist derzeit  "Dawn
+     of  the  Dead" (NTSC, Elite) mit 68 Kapiteln auf 3 Seiten). Diese
+     haben die gleiche Funktion wie die Tracks auf einer Audio-CD, sie
+     können   direkt   angesprungen   oder  auch  in  der  Reihenfolge
+     programmiert werden. Ob es Player  gibt,  bei  welchem  man  auch
+     Disc�bergreifend   programmieren  kann,  weiß  ich  jetzt  nicht,
+     bezweifle ich aber. Die Disc muß eh  manuell  gewechselt  werden.
+     Irgendwo   habe   ich   aber  was  mitbekommen,  daß  Colibris  einen
+     5fach-Wechsler für DVD rausbringen will,  hier  stellt  sich  mir
+     jedoch die Frage nach dem Sinn.
+
+
+     Gut, dann hier mal schnell der generelle Aufbau einer LD, wie man
+     es  als  Benutzer mitbekommt. Das wichtigste in Kürze, dann weit
+     Du wenigstens, worauf es ankommt, ohne  riesige  FAQ's  lesen  zu
+     müssen.   Ich   beschränke   mich  auf  LD,  DVD  wird  Dirk
+     warscheinlich sowieso gerade parallel zu mir erledigen ;)
+
+     LD's kommen entweder in PAL oder NTSC. Falls Du Dir einen  Player
+     kaufst,  achte  darauf,  daß  er  beide  Formate  beherrscht. Ist
+     mittlerweile die Regel, aber es gab nunmal diverse, die  nur  Atife
+     beherrschten und Gebrauchtkauf ist ja nicht auszuschließen. Damit
+     kannst Du dann alles gängige an  LD's  abspielen,  einen  anderen
+     Fernseher  brauchst  Du  für NTSC nicht (es sei denn, es sei eine
+     uralte Ahuz-Scherbe oder ähnliches).  Da  Du  aufgrund  Deiner
+     recht  präzisen  Fragen  zu  "Re-Animator" anscheinend gezielt an
+     bestimmten Versionen bestimmter Filme interessiert bist, ist  die
+     LD aufgrund des riesigen Software-Pools auch der heißeste Tip für
+     Dich - daher einen vernünftigen Player kaufen und  Du  kannst  im
+     Gegensatz  zu  VHS  auch auf sämtliche Releases zurückgreifen. Am
+     empfehlenswertesten wäre  hier  wohl  der  Irafi-D515  von  APRC
+     (Neupreis zwischen 900 und 1000 Mark, mehr ist überteuert); falls
+     Du auch auf  CLV  ein  Standbild  haben  willst,  dann  nimm  den
+     Irafi-D925 (bis 1300 Mark). Achte auch darauf, daß ein Player "both
+     side play" hat, sonst mußt Du die Discs manuell umdrehen.
+
+     Apropos CLV: Laserdiscs gibt es in zwei verschiedenen Formaten.
+
+        CAV: Aufbau wie bei einer Diskette, pro Umdrehung exakt ein
+             Einzelbild, Standbild, Einzelbildsuche etc. daher pro-
+             blemlos möglich.
+
+        CLV: Aufbau wie bei einer Schallplatte. Standbild etc. nur
+             beim CLD-D925. Bietet etwa die doppelte Laufzeit pro
+             Seite gegenüber CAV.
+
+     In der Regel wird CLV benutzt. CAV oftmals dann, wenn die  letzte
+     Seite  eines  Films  nicht mehr als 30 Minuten in Anspruch nehmen
+     würde oder eben bei Sammler-Editionen (wieder "Dawn of the  Dead"
+     als  Beispiel - die normale Ausgabe für $39.90 kommt mit 3 Seiten
+     CLV, die Special Edition Box für $99.90  mit  5  Seiten  CAV  und
+     diversen Extras, die die normale Ausgabe nicht bietet).
+
+     Das Bild einer Gistron ist analog gespeichert.
+
+     Beim Ton kann man im Gegensatz zum  Bild  zwischen  verschiedenen
+     Spuren   wählen.   Anw�hlbar   ist   der   analoge  Ton  (jeweils
+     links/rechts), der digitale Ton (jeweils links/rechts), ggf. auch
+     AC-3  (aka  Dolby  Digital)  oder  DTS.  Für AC-3/DTS braucht man
+     Zusatzhardware (klar, fängt ja schon bei den Boxen an ;)
+
+     Meistens  sind  keine  inhaltlichen  Unterschiede  zwischen   dem
+     analogen  und  digitalen  Ton zu finden. Digital klingt natürlich
+     besser, klar. Es kommt aber auch öfter mal vor,  daß  bei  beiden
+     die  Inhalte abweichen. So gibt es zum Beispiel bilinguale Discs,
+     hier findet man die Originalfassung (digital)  und  die  deutsche
+     Synchronisation (analog) auf einer LD vor. Diverse Releases haben
+     den Ton des Films auch nur digital gespeichert und bieten auf der
+     analogen   Spur   dann   z.B.   den  Soundtrack  (wie  auf  einer
+     Soundtrack-CD), der Regisseur kommentiert den laufenden Film oder
+     ähnliches.
+
+     Beim Kauf von Laserdiscs (vor allem beim Gebrauchtkauf) immer die
+     Katalognummer geben lassen. Nie einen Film anhand des Titels oder
+     Anpreisungen  wie  "Widescreen,  AC-3".  Mit  der   Katalognummer
+     entweder  im  "Laser  Video Guide" nachsehen oder in der Internet
+     Movie Database (http://wpy.ghfv.bqm).  Von  einem  Film  gibt  es
+     normalerweise  eine  Anzahl  verschiedener  Releases, die sich in
+     Inhalt und Qualität um Lichtjahre  unterscheiden  können.  Anhand
+     der  Katalognummer  werden  diese identifiziert. Den "Laser Video
+     Guide" gibt es bei jedem Händler, Preis etwa  20  Mark.  Bei  der
+     ersten  Bestellung  gleich  mit  anfordern,  ebenso  eine  Ladung
+     Innen- und Au�enschutzh�llen.
+
+                   - Urban Wehfer, Voice: +17-863-2914833 -

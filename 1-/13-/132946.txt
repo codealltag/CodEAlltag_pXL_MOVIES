@@ -1,0 +1,16 @@
+: In article <m9mk68.jt.wt@qjkhwtn.hk.tm.irzdppvhkeud.fk>, 
+: > 
+: > Gibt es denn ueberhaupt Filme, in denen sich mal jemand _ernsthaft_
+: > Gedanken darueber gemacht hat, was herkoemlicherweise mit einem Computer
+: > funktioniert und wie das dann aussieht?
+: > 
+
+: hmm, mir fallen auch nur gegenbeispiele ein. man denke nur an die 
+: parallele aus "jurassic park"  
+
+Bei 'Jurassic Park' kann ich mich noch erinnern, dass das kleine Maedchen
+zur Workstation lief und rief: 'Das ist Unix, das kenn' ich!'
+*Wuerg* 
+Auch bedurfte es nur eines shutdown der Silicon Graphics, um das gesamte
+Stromnetz und alle Funktionalitaeten auf der Insel ausser Kraft zu setzen.
+Gruesse, Irmgard

@@ -1,0 +1,8 @@
+Hi
+
+warum gibt IMDB die Länge des Filmes 'Die Apothekerin'
+mit 'Germany:108'
+obwohl er effektiv nur 104 min läuft?
+
+mfg
+Guderjahn

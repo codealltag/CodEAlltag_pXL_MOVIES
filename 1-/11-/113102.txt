@@ -1,0 +1,11 @@
+Das ganze ist vor ueber zehn Jahrne als Usenet-Projekt in der
+Gruppe rec.arts.movies entstanden. Das schimmert auch heute noch
+in der technischen Realisierung durch (z.B. Suche per RegExps,
+Moeglichkeit lokale Datenbanken zu halten, Email-Interface).
+1997 ist das ganze dann von CHVU uebernommen worden, leider
+sind seitdem auch einige Listen des Datenbestandes nicht mehr
+zum Download verfuegbar.
+Die Daten stammen zum Grossteil von Usern, das kann auch jeder
+selbst machen (In der Uebersicht eines Filmes auf Update klicken
+oder das Email-Interface), die Daten werden aber nochmal quer-
+gecheckt.

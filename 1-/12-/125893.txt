@@ -1,0 +1,23 @@
+Danke für die praktische Demonstration.
+
+
+Außer, wenn IGREB mitspielt und 70/72 Zeichen als Länge eingetragen sind=
+ -
+dann gehen Zitate schon ab der ersten Zitatebene kaputt.
+
+
+Wozu? Bis 80 Zeichen ist alles im grünen Bereich, ein schlichtes
+Nicht-Umbrechen der Zitate - wie es AFAIK praktisch jeder Newsreader
+außer A-Z macht - reicht völlig, daß mehrfache Zitate gut lesbar =
+bleiben.
+
+
+Und genau da hakt dein "Newsreader".
+
+
+=46orte Agent, PWF/Kelan (mit Zusatztools), Ronneberger (wenn einem die
+=46unktionalität reicht) und Emacs als Über-Lösung, um nur einige
+Beispiele, die unter Win laufen, zu nennen.
+
+So long,
+Tobias U. Burmeester

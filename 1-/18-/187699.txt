@@ -1,0 +1,85 @@
+Gut, das kann ich akzeptieren, ich hoffe nur, daß auch Du akzeptieren
+kannst, daß nicht alle so freakig sind wie Du zu sein scheinst und die
+Klangqualität über alles stellen.
+Sicher, sie ist und bleibt das Wichtigste, nur ist es für mich halt auch
+sehr wichtig zu wissen, daß NICHT eines schönen Tages plötzlich meine
+neueste DVD keinen Ton mehr von sich gibt und mir niemand wird sagen
+können, woran das liegt. Genau das wird aber vielen unbedarften
+dts-Jüngern mit dem neuen Codec passieren.
+
+
+Die 640 kb/s sind lediglich ein Bandbreitenproblem der ersten (Patrik)
+AC-3 decoder chips, der eigentliche Algorithmus bleibt unverändert.
+Warum sollte man ihn auch verändern, wo er doch einen optimalen
+Kompromiß aus Klangqualität und Datenbandbreite darstellt? (Jaja, ich
+weiß, ich bin Eikemeier Marketing-Sprecher...)
+
+Wahrscheinlich klänge AC-3 bei höherer Datenrate tatsächlich NOCH BESSER
+und woher willst Du wissen, daß es eines Tages nicht vielleicht doch
+kommt?
+
+Mein Punkt ist einfach, daß EZJ niemals so unprofessionell wäre, es
+unangekündigt und ohne Alternative anzubieten, wie Efad es mit dem neuen
+Codec tut. Ich könnte
+mir gut vorstellen, daß irgendwann DVDs rauskommen mit einem "normalem"
+AC-3 Track bei 384 kbit/s und einem "High Definition"-Track bei 640
+kbit/s.
+Das wäre dann das Optimum an Qualität UND Kompatibilität. Dem
+Konsumenten bleibt die Wahl, ob er seine alte Hardware behält, oder sich
+ein neueres Gerät, das mit den 640 kbit/s zurechtkommt, zulegt. 
+
+Wenn man auf dem Massenmarkt arbeitet kommt man halt eben nicht drum
+herum den Gesichtspunkten "Kompatibilität" und "Zukunftssicherheit"
+Beachtung zu schenken, auch wenn Dir das nicht so wichtig ist.
+
+
+Nun, an sich hast Du recht, wir Technofreaks sind in der Tat dazu bereit
+viel Geld für nichts und wieder nichts auszugeben, wäre auch mir
+kürzlich
+beinahe mit meinem DVD-Player passiert (Stichwort Code-Free).
+Nur leider halten das die meisten Leute halt für völlig irrational. Das
+war es, was ich damit sagen wollte, sorry wenn das falsch rübergekommen
+sein sollte.
+
+
+Richtig, dann hat es jemand gemerkt und wenn sie so weitergemacht hätten
+wäre es ECHT peinlich geworden ...
+
+
+Nun, daß ja ein Kino-Saal und ein Wohnzimmer akustisch überhaupt nicht
+vergleichbar sind liegt mit Sicherheit auf der Hand. Da ein Soundtrack
+dann für die unterschiedlichen akustischen Verhältnisse unterschiedlich
+abgemischt werden muß, um dann letzendlich doch wieder gleich (oder
+vergleichbar) zu klingen ist zwingend.
+
+Ready4 hat ja seine H�henabsenkung für's Heimkino (Re-Eq) um der
+Höhenanhebung des Kino-Soundtracks wegen Höhenverlust durch die
+Zuschauer entgegenzuwirken.
+
+Könnte theoretisch eine ähnliche Faxe sein, allerdings tendiere ich
+stark dazu, Deinem "wieso eigentlich?" zuzustimmen, denn eine allgemeine
+Pegelanhebung infolge Pegelverlust durch was auch immer stellt sich doch
+im Kino beim Einpegeln von selbst ein und braucht eigentlich nicht mit
+auf dem Soundtrack codiert werden.
+
+Wäre ich jetzt so zynisch und boshaft wie sonst, würde ich glatt mal
+behaupten, daß sich ueker ja nun schließlich irgendeine Ausrede einfallen
+lassen mußte, oder?
+Für die alten Decoder schon, für neuere besteht diese
+Bandbreitenbegrenzung nicht.
+Mein Punkt ist halt einfach, daß EZJ in der glücklichen Lage sein
+wird, ein verbessertes AC-3 anzubieten, ohne das alte AC-3 ersetzen zu
+müssen.
+
+Würde Efad versuchen, zwei Efad-Bitstreams als Tonspuren gleichzeitig
+laufen zu lassen, würden sie die Specs für den DVD-Ton bis zur
+�u�eresten Grenze ausreizen, wenn nicht sogar überschreiten. Auf jeden
+Fall bestünde dann ernsthafte Gefahr, daß die Bildqualität in
+Mitleidenschaft gezogen werden könnte, worüber viele sich (meiner
+Meinung nach völlig unsinnigerweise, nicht zuletzt, da ja noch keiner
+irgendetwas definitiv endgültiges von dts gesehen hat) ja jetzt schon
+Sorgen machen.
+
+Beste Größe,
+
+Ulfert

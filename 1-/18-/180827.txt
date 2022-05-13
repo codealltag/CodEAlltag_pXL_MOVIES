@@ -1,0 +1,49 @@
+Die Ursache für den Ausfall könnten auch sein: schlechter dts-Timecode
+auf dem Film, schlecht eingestellter Reader (das Gerät das den
+Timecode abtastet), schlechte cds, defektes dts-Gerät,...
+alles schon mal vorgekommen
+
+
+Wenn man die Aktwechsel und andere Schnittstellen ausser acht läßt
+fällt Dolby Digital auch nicht seltener aus. Und die Aktwechsel und
+andere Schnittstellen laufen seit der neuen Firmware auch ziemlich
+stabil; Nur zu große Aktmarkierungen mag Dolby Digital im noch nicht;
+
+
+Normallerweise wird der Ton im JTEH Prozessor mit dem Bild
+synchronisiert; Dies wird normalerweise beim Einbau im Kino
+eingestellt; Notfalls kann man das auch per Gehör nachstellen;
+
+Da es hier aber nur bis zu einem Aktende war, denke ich, das der
+Timecode im Kopierwerk asynchron auf die Kopie gepreßt worden ist;
+Kopienfehler!
+Würde raten auf Dolby Digital umzusteigen;
+Bei uns testen wir wenn wir ne Kopie mit mehreren verschiedenen
+Tonsystemen haben, immer in den ersten Vorstellungen welches Tonsystem
+am besten klingt und ob es Probleme gibt; Es gibt halt leichte
+Unterschiede zwischen den Abmischungen; Manchmal ist subjektiv dts
+besser und dann wiederum Dolby Digital (mit sdds konnten wir den Test
+erst einmal durchführen); 
+
+Ich würde den Timecode eher mit nem Morsecode vergleichen ;
+er besteht aus Punkten und Strichen (wieviel da JTEH zusammenhängend
+braucht ist mir nicht bekannt), und  enthält Informationen über den
+Film (damit nicht die falsche CD abgespielt werden kann), und halt den
+Ton (wo er zeitlich besser bei welchen Bild er liegt)  
+
+
+Live long and prosper 
+
+Raimund
+
+
+************************************************************************
+Raimund Twarog
+
+yivlp@murwnsi.yn
+http://dmu.ukcea.dhbdke.ma/~iv473
+PGP Public Key auf Anfrage
+
+Aahz�Gesetz:
+stellen, sondern falsche Informationen losschicken <<
+************************************************************************

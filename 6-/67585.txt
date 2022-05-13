@@ -1,0 +1,7 @@
+Das würde dann eher fup2p abgekürzt.
+Hinter fup wird in der Regel noch eine 2 geschrieben (engl. "two" klingt 
+ähnlich wie "to") und dann das Kürzel der beabsichtigten Gruppe.
+Wenn da nur fup stehen sollte, dann ist das extrem verkürzt, und man 
+musss sich die Informationen selbst aus dem Header klauben...
+
+Timo

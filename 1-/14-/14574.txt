@@ -1,0 +1,12 @@
+Moinn,
+
+nikolaus froböß schrieb/wrote/escribiö:
+
+
+Interessant. Ich habe, wie Joël, den Thunderbird 2.0.0.4 und bei mir
+wird Patrice Posting, obwohl dieses keinen Reference-Header enthält, in
+"Joachim Thread" einsortiert.
+
+Ganz offensichtlich ein Bug in TB.
+
+Heribert

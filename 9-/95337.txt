@@ -1,0 +1,19 @@
+Hallo.
+
+Folgender Fehler tritt bei gendb.exe (Blaumann) mit dem Lists vom 
+18.03.2002 auf (actors.list):
+
+Fatal Error: Wrong terminated character name: [August Elters/Italo 
+Vedder/Igor Doldt/Mgr Haupeltshofer/Guy Jackobs/Kasimir Friedhofen/Hanspeter 
+Fahrenholtz/Hanspeter Thann/Onno franco/Fabian Ungefug/Valentin 
+Uterhardt/Italo Albrecht-Jakobs-Thiemann/Darius Liebetanz/Raphaël Eihsing/Mark 
+Echternach/Ivano Vorderegger/Hanno Dümchen/Ivano 
+Heining/Hujwy'/Ingmar Bültgerds/Rosalia Tetens/Ivan 
+Meusel/Burkhard Zelleröhr/Quintus Lafrenz/Oliver Gräfenstein/Cédric Jarsch/Michel 
+Saure/Willibald Copman/Italo Lehnert/Darius Voelkers
+
+Kann das jemand nachvollziehen oder liegt es an meinem System?
+
+-- 
+Frédéric Johannimloh <cqfl@vnkpue.xg>, Uelitz
+PGP RSA & DH/DSS public key on request and on public servers

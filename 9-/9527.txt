@@ -1,0 +1,9 @@
+In letzter Zeit meine ich, diesen Effekt öfters bei CGI-lastigen Szenen
+bemerkt zu haben. Durch das Abdunkeln und die schnellen Schnitte könnte
+man natürlich mangelnde CGI-Qualität 'übertünchen'. Oder halt eben
+CGI-Effekte günstiger gestalten, da bei detaillierter Ausführung sicher
+erheblich mehr Rechenzeit benötigt wird. Oder irre ich da?
+
+Viele Größe,
+
+- Ewald

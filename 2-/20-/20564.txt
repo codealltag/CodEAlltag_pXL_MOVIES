@@ -1,0 +1,23 @@
+3D hat das Problem, immer noch sehr teuer zu sein. Entweder man braucht
+eine spezielle Leinwand (Prismen-Technik, ähnlich der Wackelbilder), bei
+der der Zuschauer dann zwar keine Brille braucht, aber schon bei
+geringen Kopfbewegungen den 3D-Eindruck verliert oder man brauch eben
+wieder eine Brille, entweder mit Polarisationsfilter oder als
+Shutterbrille ausgelegt. Erstere hat auch wieder den Nachteil, das die
+horizontale Ausrichtung der Brille (und damit des Kopfes) möglichst
+gleich bleiben muss, wenn der Effekt wirken soll, letztere ist a) schwer
+und b) sehr teuer, da sie aktive Komponenten beinhaltet.
+
+Dies alles führt dazu, das 3D-Filme meist nur kurze sind, da es bei den
+Zuschauern recht schnell zu Verspannungen im Nackenbereich kommen kann,
+eben durch die starre Sitzhaltung oder die schwerere Shutter-Brille.
+
+Insoweit würde ich sagen: Ja, 3D ist immer noch ein Kuriosum. Zwar
+eines, das deutlich gegenüber den Rot/Grün-Filtern zugelegt hat aber
+immer noch nicht für größere Dinge geeignet ist.
+
+O
+
+-- 
+Gert Heiten -- professioneller Unix-Geek
+Meine Gedanken im Netz: http://wdf.ahdkudisdh.gz/

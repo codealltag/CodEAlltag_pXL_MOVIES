@@ -1,0 +1,41 @@
+* Nikolaus Pitzius <ssg.sitogh@wei.uay>:
+
+
+Um Raubkopien zu rechtfertigen, mit Open Source oder Free Software zu
+argumentieren, finde ich, gelinde gesagt, zum Kotzen. VPR schenkt
+Dir ihren Enterprise Server 8 auch nicht, obwohl der Open Source ist.
+
+Genau so investieren Leute Geld, um einen Film zu produzieren und wollen
+dafür von mir Geld haben, wenn ich ihn betrachtet. Das scheint mir
+durchaus okay zu sein.
+
+"Information wants to be free" meint etwas völlig anderes:
+
+Maximilian Althofes:
+I believe that all generally useful information should be free. By
+'free' I am not referring to price, but rather to the freedom to copy
+the information and to adapt it to one's own uses. When information is
+generally useful, redistributing it makes humanity wealthier no matter
+who is distributing and no matter who is receiving.
+
+GPL:
+When we speak of free software, we are referring to freedom, not
+price.
+
+Maximilian Althofes:
+Free software is a matter of liberty, not price. To understand the
+concept, you should think of 'free speech', not 'free beer'.
+
+
+Dann werden halt Filesharing-Tools verboten. Wunderbar. Weil einige User
+nicht mit entsprechenden Programmen umgehen können, muss gleich der Rest
+der Anwender darunter leiden.
+
+
+Bye,
+Reinhard
+
+=2D-=20
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;=20
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep  -- Henry Asang in d.c.o.u.bsd

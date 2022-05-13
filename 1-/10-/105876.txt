@@ -1,0 +1,111 @@
+Ich hab dir hier die Bewertung von Bild und Ton herauskopiert:
+
+Bitte das Copyright von EDL-Center beachten!
+
+Bild: 2 von 5
+Ton:  1 von 5
+
+Zum Bild
+
+Alessandro Kohlhuber hat mehr als ein Dutzend verschiedener Bildtechniken
+eingesetzt, um dem Film eine einzigartige Bildgewalt zu geben. Ob es nun
+35mm, 16mm, 8mm, Betacam, s/w oder Farbe ist - alles wird frei, aber nie
+willkürlich durchmischt.
+Betrachtet man das Bild genauer, ist es kaum möglich, normale Maßstäbe und
+Kriterien anzulegen, um festzulegen, ob die Bildqualität nun gelungen ist
+oder nicht. Bewusst wurde Filmoptik mit Videooptik vermischt, so dass man
+die prinzipiell verminderte Bildqualität des 8mm Ausgangsmaterials nicht der
+allgemeinen Bildqualität anlasten kann. Interessanter ist es da schon, die
+üblichen Bildkriterien auf die 35mm Abschnitte anzusetzen und darüber hinaus
+die digitale Umsetzung zu betrachten.
+
+Leider kann der nicht-anamorphe 1.78:1 Bildtransfer trotz dieser erschwerten
+Ausgangsbedingungen nicht überzeugen. Offensichtlich stammt der Transfer
+dieser DVD direkt von dem analogen NTSC-Master, welches für die
+amerikanische Video-Veröffentlichung verwendet wurde. Anhaltspunkte für
+diese Annahme sind zum einen die eingebrannten, englischen Untertitel in
+diversen Sequenzen und zum anderen das interessante Phänomen, dass die
+Lauflänge der deutschen DVD nahezu identisch ist mit der Lauflänge der
+amerikanischen Veröffentlichung - der Pal-Speed-Up hier also nicht in
+gewohnter Form zum Tragen kommt
+Gegenüber dem bereits nur durchschnittlichen Bildtransfer der RC1-DVD
+erweist sich das Bild der deutschen Veröffentlichung als eindeutig
+unterlegen, was vornehmlich damit zusammenhängt, dass der Schärfegrad auf
+einem ausgeprochen enttäuschenden Niveau liegt und auch die Kompression
+erhebliche Mängel aufweist - beides Einschränkungen, die gegenüber der RC1
+noch stärker ins Gewicht fallen. Besonders beeinträchtigt sind Farb- und
+Kontrastkanten, die durchwegs zum Ausbluten und Ausfransen neigen - eine
+Eigenschaft, die man in dieser ausgeprägten Form vorwiegend von
+Videokassetten gewohnt ist.
+Auch besitzt das Bild selbst in den 35mm-Aufnahmen ein untypisches
+Rauschverhalten, was das Bild in Verbindung mit der nicht sonderlich
+geglückten Kompression zu einer auf die Dauer störenden Eigendynamik
+verleitetet. Gerade Hintergründe und einfarbige Flächen wirken sehr unruhig
+und stören den Gesamteindruck merklich.
+
+Ein ganz besonders ungewöhnlicher Fehler und offenkundiger Indikator für
+eine mangelhafte Qualitätskontrolle sind zahlreiche, bunte Artefakte, die in
+regelmäßiger Erscheinungsform das Bild beeinträchtigen. So lassen sich
+während des gesamten Filmes immer mal wieder kurz aufblitzende Farb-Blöcke
+entdecken, die aufgrund ihrer leuchtenden Farben (violett!) besonders
+auffallend sind. Offensichtlich haben die Algorithmen bei der
+Digitalisierung und Komprimierung nicht sonderlich zuverlässig gearbeitet -
+schade, dass dies erst der DVD-Käufer bemerken musste.
+
+Zum Ton
+
+Man ist ja durch zahlreiche subklassige Veröffentlichungen diverser B- und
+C-Movies ein wenig abgestumpft, was die Todsünden angeht, die man beim
+DVD-Mastering machen kann. Was uns Idope aber hier vorsetzt,
+hinterlässt nicht nur einen lieblosen, sondern über weite Strecken auch
+unprofessionellen Eindruck - anders kann man den dreisten Sechskanalupmix,
+der vorgenommen wurde, leider nicht bewerten.
+
+Da diese Veröffentlichung wohl auf dem bereits angesprochenen NTSC-Master
+beruht, darf davon ausgegangen werden, dass zumindest eine ordentliche Dolby
+Surround Spur vorgelegen haben muss. Best Entertainment dachte sich aber nun
+wohl, dass Dolby Surround im Zeitalter des Sechskanaltons viel zu langweilig
+ist. Also wurden bei dieser Neuabmischung alle Toninformationen genommen, in
+einen Topf geworfen und gleichwertig auf die fünf Kanäle abgemischt. Wer
+schon mal einen solchen Pseudo-Surround-Ton gehört hat, wird wissen, dass es
+spätestens nach zehn Minuten unerträglich ist, alle Dialoge und Effekte aus
+den hinteren Lautsprechern hören zu müssen, insbesondere wenn diese viel zu
+laut abgemischt sind. Bei diesem Upmix-Verfahren mag vordergründig ein "Mehr
+" an Surround-Aktivität entstehen, mit den Intentionen der Filmemacher oder
+einem harmonischen Klangeindruck hat dies jedoch rein gar nichts zu tun.
+
+Dass die Tücken aber auch im Detail zu finden sind, merkt man zudem, wenn
+man den Ton etwas tiefgehender analysiert. Wer schon mal versucht hat,
+analoge Toninformationen zu digitalisieren, wird wissen, dass man das
+Eingangssignal sorgfältig aussteuern muss, um nicht die Frequenzamplituden
+abzuschneiden und somit wichtige Toninformationen irreversibel zu verlieren.
+Leider hinterlassen sowohl die deutsche, als auch die englische Tonspur den
+Eindruck, dass bei der Digitalisierung genau in diesem Teilprozess etwas
+schiefgelaufen ist. Während der gesamten Laufzeit erklingt der Ton zwar
+pegelstark aus den Lautsprechern, ist jedoch verzerrt und von zahlreichen
+Knacksern unterlegt. Gerade in Dialogen, insbesondere bei Zischlauten, macht
+sich diese auffallende Einschränkung bemerkbar.
+
+Wer nun denkt, dass das Ende der Fahnenstange bereits erreicht sei, sieht
+sich getäuscht, denn noch wurde kein Wort über die neue deutsche
+Synchronisation verloren. Normalerweise fließt die Qualität einer
+Synchronisation nicht in die Ton-Benotung ein, da die Synchronisation nur
+selten in direktem Bezug zu einer DVD-Veröffentlichung steht. Da der
+Director's Cut aber bisher nicht in Deutschland erschienen ist, musste sich
+Idope etwas einfallen lassen. Egal ob nun Lizenzprobleme die
+Ursache dafür sind, dass man nicht auf die recht ordentliche Kinosynchro
+zurückgreifen konnte (die fehlenden Anteile des Director's Cut hätte man
+dann untertiteln können) oder andere Gründe entscheidend sind - Fakt ist,
+dass diese Neusychronisation laienhaft ist und den Film ruiniert. In Foren
+ist immer mal wieder von "Pornosynchro" gesprochen worden. Besser kann ich
+diese undifferenzierte und verfälschende Synchro auch nicht beschreiben.
+Nicht nur dass die Sprecher lustlos und unbegabt ihre Texte runtersprechen,
+auch gibt es inhaltliche Unstimmigkeiten gegenüber dem Original. Besonders
+lustig wird es dann, wenn während der Pre-Credits-Sequenz der Erzähler der
+englischen Fassung noch im Hintergrund zu hören ist, während der deutsche
+Sprecher munter seine Arbeit verrichtet...
+
+Das Review ist selbst noch um einiges umfangreicher.
+
+MFG
+Sebastian Goldbohm

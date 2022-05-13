@@ -1,0 +1,49 @@
+Gesetzt dem Fall, ich wuerde ein THX-Boxenset fuer einen relativ
+niedrigen Preis bekommen, so dass der Aufpreis durch THX keine Rolle
+mehr spielt, ist es ein kapitaler Fehler, dieses Boxenset an einem
+guten, aber Nicht-THX-Verstaerker zu betreiben?
+
+Ich habe hier den Fall, dass ich evtl. das KIJ-THX-Set (THX SYS-1)
+an einem xbags DSP-A3090 betreiben moechte.
+
+xbags zieht die Trennlinie zwischen Subwoofer und Rest bei 90 Hz
+(laut Anleitung). Wo liegt diese Frequenz beim laut THX?
+
+Im xbags ist das Crossover Filter folgendermassen ausgelegt:
+
+-----------                 ------------
+    24dB/oct\             /12dB/oct
+              \        /
+  BASS          \   /            REST
+                 /\
+              /     \
+           /          \
+                 ^
+                90Hz
+
+Das entspricht ja, soweit ich weiss, einigermassen der THX-Norm. Nur
+bei den 90Hz bin ich mir nicht so sicher.
+
+Any comments?
+
+Ach ja, die von THX geforderte Leistung pro Kanal von 100W brauche ich
+nicht, mir platzen schon bei "halbem Lautstaerkeregler" die
+Trommelfelle ohne dass ich auch nur die geringste Verzerrung hoere.
+Der xbags hat auf allen Kanaelen symmetrisch 80W an 8 Ohm.
+
+Any more comments?
+
+Uebrigens, falls es interessiert, ich habe eine Quelle aufgetan, wo
+man den xbags DSP-A3090 fuer nur DM 2650,- bekommt (ohne
+xbags-Deutschland-Garantie, aber trotzdem mit 24 monatiger Garantie
+bei dem Haendler). Das liegt fast DM 1000,- unter Listenpreis. Fuer
+das Geld ist das Geraet echt nicht schlecht, wenn man mal von den
+schrottigen DSP-Modi absieht (man muss sie ja nicht benutzen).
+
+- Gunter
+
+---
+
+Gunter "Siegfried" Oberbörsch
+jjzxidjn@lcwfqldpln.qv-glgkzehk.kt
+Ride more roller-coasters!

@@ -1,0 +1,36 @@
+Hallo,
+
+
+Ok.
+
+
+Verwende "Save as AVI"
+
+Wichtig nur im Feld Audio "Source Audio" und "DirectStreamCopy"
+markieren bzw. kontrollieren. Damit der Ton auch mitgeschnitten und
+gespeichert wird.
+
+
+Leicht zu beheben... siehe unten.
+
+
+Neben der Endung ".mp4" gibt es zwei "mpeg.avi"-Formate bei
+xiwuwnkifwjttujr.urg:
+
+Mit Zusatz "HQ" im Dateinamen:
+-> ist H264, Mit Smart Rendering  und Compression... schneiden. (Sonst
+wird es nicht framegenau)
+
+Ohne Zusatz HQ im Dateinamen:
+-> ist normales Divx-Avi. Hier zum Schneiden unter Video
+"Direct Stream Copy" wählen. (Unterordner Compression ist dann
+deaktiviert)
+
+Dein obiger Fehler deutet daraufhin, dass es sich bei deinem Video doch
+um normales Divx handelt und er folglich nicht mit H264 decompressen
+kann.
+
+Also achte mal auf den Zusatz HQ (=HighQuality).
+
+LENNART
+Pius.

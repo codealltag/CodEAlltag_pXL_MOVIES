@@ -1,0 +1,14 @@
+Nur der Ton; das Bild ist nach wie vor analog (wie ja der Name schon
+sagt: MAC = M)ultiplexed A)nalogue C)omponents)
+
+HDTV erschlaegt erst mal alles, was an Fernsehnormen von der Aufloesung
+ueber PAL hinausgeht, unabhaengig von der tatsaechlichen Implementation.
+Eine derartige Implementation dazu ist HD-MAC, das aber in Fact auch ein
+analoges System ist und bei ersten Realtests ziemlich uebel vergeigt
+hat. Alles in allem scheint HDTV derzeit aber sowieso mausetot zu sein.
+--
+
+"This is a controlled audience under secure conditions"
+
+lvryx@qenl.xmt.yj                      Fido: Christian Unnebrink 2:9860/952.49
+## CrossPoint v3.02 ##

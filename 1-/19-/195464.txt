@@ -1,0 +1,24 @@
+Ok, ich vergass: Die Maschine ist von wirklich barocker Schoenheit; selbst 
+Leander dickopf haette sie kaum besser beschreiben koennen, mit Rumoren und 
+Dampf - aber wie sieht denn auch ein Teilchenbeschleuniger aus: Nur Draehte, 
+Pumpen Vakuumkammern und Verschraubungen, keine Posie ...
+
+
+Was ist auf einem Speicher, der noch nie ausgelesen wurden?
+Entweder Pattern vom Selbstest oder Nichts (denn die Kondensatoren sollten 
+leer sein). Ansonsten zieh doch mal das Kabel vom Monitor ab, dann hast du 
+"Digitales Rauschen".
+
+Ist uebrigens noch so ein Fehler: Als sie das zweite Bild darstellen, dann 
+haetten sie schon so etwas sehen muessen, denn nicht anderes als die Spietzen 
+abzuschneiden ist eine extrem kontrastverstaerkte Darstellung auf einem 
+Monitor.
+
+Uebrigens konnten die Signale von 1935 nicht die Atmosphaere verlassen, die 
+waren viel zu langwellig ...
+
+
+Ciao, Wolfram
+--
++-------------------------------------------------------------------------+
++-------------------------------------------------------------------------+

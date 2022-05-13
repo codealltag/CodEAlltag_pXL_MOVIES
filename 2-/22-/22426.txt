@@ -1,0 +1,11 @@
+Ich habe mir just wieder die amdb-files runtergeladen und habe das selbe
+Problem wie letztes Jahr: die Datenbank-Generierung scheitert an der
+Datei movie-links.list. Wenn ich diese - so wie Anfang letzten Jahres -
+durch eine alte Version vom August 2004 ersetze, läuft es reibungslos.
+Hat jemand von euch ein ähnliches Problem? So, wie es sich mir
+darstellt, muss sich in die Datei irgendwann ein Fehler eingeschlichen
+haben, der sich weitertradiert hat. Ob das mit einem Text-Edit behebbar
+ist? Oder verhält sich meine gendb.exe irgendwie sonderbar?
+
+Aloah,
+Xvtz

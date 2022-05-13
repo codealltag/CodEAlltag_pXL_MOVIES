@@ -1,0 +1,7 @@
+Hallo!
+
+Immer wieder stolpere ich über den Begriff "Redux-Version" bei Filmen.
+Was muss ich darunter verstehen? Wie unterscheidet sich der Film von der
+Originalversion?
+
+Philippe

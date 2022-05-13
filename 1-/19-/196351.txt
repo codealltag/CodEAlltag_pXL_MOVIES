@@ -1,0 +1,18 @@
+Es kommt auf den Film an. 
+Betroffen sind nur bestimmte Breitwandfilme.
+Bei CinemaScope-Filmen (und mit Einschraenkungen auch bei Normalformat)
+wird die ganze Flaeche auf der Kopie ausgenutzt. Da sollten keine Mikros 
+vorhanden sein. (Dafuer kann der Vorfuehrer bei CS andere Fehler machen.)
+
+Bei Breitwandfilmen ist oberhalb und unterhalb des Bildes auf der Kopie
+noch Platz. Bei manchen Kopien sind diese Flaeche schwarz, weil sie
+erst gar nicht aufgenommen oder im Kopierwerk ausgebelndet (maskiert)
+wurden. Bei anderen Kopien sind sie normal belichtet. Dann kann man dort 
+Mikros, Gegenlichtblenden, Kabel, Schienen etc. sehen. Bei der Projektion 
+werden diese Flaechen von der Maske im Projektor ausgeblendet. Wenn der
+Vorfuehrer ein falsches Format waehlt oder (haeufiger) den Bildstrich
+falsch einstellt, so dass das Bild fuer die Maske zu hoch oder zu niedrig 
+ist, kann man diese Flaechen auch auf der Leinwand sehen. Bei verstelltem
+Bildstrich fehlt dafuer dann auf der anderen Seite ein Streifen vom Bild.
+
+Ciao, Axel                           tmzmorbmHam.rgcb-jhjwqm.sm

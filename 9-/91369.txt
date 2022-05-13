@@ -1,0 +1,22 @@
+Das war die gute alte Zeit der Newsreader auf unixoiden, textbasierten
+Systemen. Soweit ich das verfolgen konnte, hörte das auf zu funktionieren,
+als die ClickiBuntiReader aufkamen, die neben dem Tod von ASCII Grafiken
+durch Proportionalfonts ("schaut doch viel besser aus als standart!!!1!")
+auch das Ende der simplen, effektiven und effizienten ^L Methode brachten.
+
+Ansonsten schliesse ich mich dem OP an: Dieses ROT-On/ROT-Off Lesen ist
+furchtbar umständlich, drum mache ich's nicht mehr so oft.
+
+Das IMHO im Moment eine Art Spoiler Hysterie herrscht, wo Filme, die schon
+ewig im Kino kamen immer noch geschützt werden, steht auf einem anderen 
+Blatt. Eigentlich sollte ein [SPOILER] oder auch nur der Filmtitel im Subject
+reichen, dass sich empfindliche Seelchen von solchen Artiklen fernhalten :-(
+
+Ciao,
+	Erik  
+
+-- 
+Choose rotting away at the end of it all, pishing your last in some miserable 
+newsgroup, nothing more than an embarrassment to the selfish, fscked up lusers 
+Gates spawned to replace the computer-literate.
+                                      Choose your future. Choose to sysadmin.

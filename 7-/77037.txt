@@ -1,0 +1,3 @@
+du hast anscheinend nie assembler programmiert. dort kannst du nämlich
+einfach daten in den programmcode schreiben bzw. überschreiben und
+somit das ganze programm ersetzen.

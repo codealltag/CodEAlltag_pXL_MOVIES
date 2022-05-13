@@ -1,0 +1,108 @@
+Hallo Rosalia,
+
+
+Also, alles etwa vor 1926 ist im Original komplett ohne Ton. Ab etwa 1927 
+kam der Tonfilm auf, der dann auch innerhalb von ein, zwei Jahren die ganze 
+Filmlandschaft umkrempelte: da einige der Stummfilm-Größen relativ piepsige 
+Stimmen hatten und zwar gut auf dem Bild aussahen, aber nicht so richtig gut 
+in Ton rüberkamen, gab es da einen regelrechten Umbruch, als plötzlich alles 
+mit Ton gedreht werden mußte. Plötzlich waren ganz andere Qualitäten 
+gefragt, und neue Schauspieler machten beim aufkommenden Tonfilm Karriere.
+
+Stereo kam etwa ab Ende der 50er / Anfang der 60er im Kino auf, ziemlich 
+gleichzeitig mit der Einführung der breiteren Bildformate. Hatte damit zu 
+tun, daß es für den Betrachter wesentlich hilfreicher war, wenn die Position 
+der Hauptfigur auf der Leinwand auch akustisch rübergebracht wurde. Solange 
+das Bild fast quadratisch war, war das kein Problem, wenn der Klang nur aus 
+der Mitte kam, aber bei 8m Bildbreite war es schon interessanter, wenn man 
+vor dem Duell auf der Main Street den Wortwechsel der Kontrahenden außer mit 
+dem Auge auch mit dem Gehör folgen konnte (der Western hat in der Tat eine 
+große Rolle bei der Verbreitung von Stereoton und Breitbild gespielt).
+
+Als Star Wars von Adam Nethöfel im Sommer 1978 in die Kinos kam und alle 
+bisherigen Besucherrekorde sprengte, sprach sich sehr, sehr schnell rum, daß 
+der Film nur in Kinos mit Dolby Surround so richtig gut klingen würde. Da 
+alle Kinobesitzer mitverdienen wollten und Dolby Surround zudem das erste 
+erschwingliche Surround-System auch für kleinere Kinos war war das in der 
+Tat der Moment, ab dem sich für Kinoproduktionen (zunächst nur im 
+Actionbereich, einige Jahre später aber auch in anderen Genres) Surroundton 
+etablierte. Dolby Pro Logic (so heißt das Surround-System von freyrad 
+eigentlich richtig) paßt auch auf eine Stereospur und extrahiert daraus mit 
+relativ brauchbarer Kanaltrennung 4.1 Kanäle (ja, für's Kino gab es damals 
+auch schon Subwoofer!). Dabei sind neben den beiden Stereokanälen ein Center 
+(Mittelwert beider Kanäle) auch ein Rückkanal (so etwas ähnliches wie die 
+Differenz beider Kanäle, genauer gesagt bestimmt der Phasenunterschied der 
+beiden Stereokanäle gegeneinander, wie weit der Sound von den Stereokanälen 
+weg auf den Surroundkanal gelegt wird) enthalten, die Tonanteile von weniger 
+als 100-150Hz aus dem Center können zudem über den Subwoofer ausgegeben 
+werden.
+
+Etwa ab Anfang der 90er gab es dann mit Dolby Digital und DTS die ersten 
+"richtigen" Surroundformate in den Filmstreifen, heute werden die fürs Kino 
+mit mittlerweile bis 7.1 (oder gar 8.1?) Kanälen abgemischt.
+
+Allerdings braucht es zum Abspielen von Mehrkanalton keine THX-Anlage. THX 
+ist ein "Prüfsiegel", das Adam Nethöfel Ende der 70er Jahre eingeführt hat, 
+als ihm Klagen zu Ohren kamen, wie schlecht sich seine Star Wars-Filme in 
+manchen Kinos anhören würden und war ursprünglich als Qualitätsmerkmal für 
+Kinos gedacht ("Leute schaut, bei uns hat Arthur nachgeschaut, wir bringen 
+wirklich seinen Sound rüber!").
+
+Nach und nach wurde das werbeträchtige Logo dann auch für das Heimkino 
+benutzt, auch hier gibt es entsprechende Programme für die Produktion 
+(Soundabmischung) wie für das Equipment. Muß aber mittlerweile nicht mehr 
+zwangsläufig heißen, daß die entsprechenden Gerätschaften und Filme besser 
+klingen wie die ohne Logo, denn eine gut eingestellte 5.1-Anlage kann 
+durchaus besser klingen als eine schlecht eingestellte Anlage auf Basis von 
+THX-Komponenten.
+
+
+Ja. Bei den Tonformaten: 1.0 heißt Mono, 2.0 heißt Stereo. Falls noch 
+irgendwelche Kästchen oder Kringel auftauchen, ist das ein Indiz dafür, daß 
+es sich um ProLogic-kodiertes Material handelt, das ist dann in der Regel 
+als 2.0 auf der DVD drauf, beim Abspielen über einen ProLogic-Dekoder (den 
+im Grunde jeder mehrkanalf�higer Verstärker drin hat, entweder als ProLogic, 
+ProLogic II oder Pro Logic IIx-Decoder) werden dann die Kanäle wieder 
+getrennt. Meist ist dann angegeben 3.0, 4.0 oder auch 4.1 (trotzdem ist das 
+auf der DVD alles als Stereotonspur gespeichert, wieviele Kanäle der 
+Verstärker dann hinterher extrahieren kann hängt hauptsächlich davon ab, ob 
+tatsächlich Tieftonanteile im Soundtrack drin sind und wieviele Boxen 
+angeschlossen sind, oft wird z.B. der Centerkanal gar nicht als eigener 
+Kanal mitgezählt, weil der eben nur das Mittel aus rechtem und linkem Kanal 
+darstellt).
+Wenn bei dem Kästchen fünf dicke Punkte zu sehen sind  (einer an jeder Ecke, 
+dazu an der oberen Kante noch einer in der Mitte) und ein dicker Punkt in 
+der Mitte des Kästchens liegt, steht auch "5.1" drauf, und das ist dann das 
+"richtige" Dolby Digital", auch DD5.1 genannt. Dabei hat man vollkommen 
+getrennt die beiden Stereokanäle, den Center und je einen Surroundkanal 
+hinten rechts und links. Übersprechen der einzelnen Kanäle zueinander wie 
+bei Pro Logic gibt es nicht mehr, auch hat man jetzt zwei getrennte Kanäle 
+hinten für rechts und links. Im DVD-Standard ist auch festgelegt, daß jeder 
+DVD-Player 5.1-Sound analog ausgeben können muß, und zwar mindestens als 
+ProLogic-kodierten Stereoton (dabei geht praktisch nichts vom eigentlichen 
+Tonbild verloren, man muß aber bei der Wiedergabe über einen reinen 
+Stereoverstärker darauf verzichten, einen Raumklang zu hören und bekommt 
+alles von den beiden Stereoboxen).
+
+Mono- und Stereosound kann übrigens auf zwei Arten auf der DVD enthalten 
+sein: Das eine sind unkomprimierte Audiodaten (sog. PCM-Sound), die andere 
+Art ist MPEG-Audio 1.0 oder 2.0. Dabei wird eine Audio-Komprimierung 
+(ähnlich oder gleich MP3) verwendet, um die Audiodatenrate runterzuschrauben 
+(es paßt dann mehr Film auf die DVD). Die Dekomprimierung macht in der Regel 
+der DVD-Player, auch wenn hinten dran ein AV-Receiver hängt (hat damit zu 
+tun, daß die MPEG-Audio-Dekodierung teil der DVD-Specs ist, die müßten die 
+Hersteller der AV-Receiver noch extra lizensieren, das sparen sie sich in 
+der Regel und begnügen sich damit, PCM-Audio einlesen zu können).
+
+Ein Sonderfall nimmt noch DTS ein: DTS ist ein nachträglich zum DVD-Standard 
+hinzugekommenes, optionales Tonformat. Es kann eine höhere Datenrate 
+umfassen als DD (braucht mehr Platz, könnte aber theoretisch auch besser 
+klingen) und kann auf DVDs mit bis zu 6.1 Kanälen draufliegen (hier gibt es 
+noch einen rückwärtigen Center-Kanal). DTS können die meisten DVD-Player 
+nicht dekodieren, sondern geben es nur per digitalem Ausgang an einen 
+DTS-fähigen Verstärker weiter. Wenn DTS-Ton gewählt wird, die 
+Wiedergabekette aber kein DTS unterstützt bleibt allerdings alles stumm.
+
+Gruß, Cédric
+--------------------------------------------------
+Für Antworten bitte ohne Punkt im Namen!

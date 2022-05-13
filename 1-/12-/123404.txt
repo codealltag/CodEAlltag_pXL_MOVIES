@@ -1,0 +1,9 @@
+(de.rec.tv.misc)
+
+Ciao
+Benjamin
+
+-- 
+Der Optimist erklärt, daß wir in der besten aller möglichen
+Welten leben, und der Pessimist fürchtet, daß dies wahr ist.
+(Wolfram Enenkel Jahrling)

@@ -1,0 +1,17 @@
+Jepp. 
+Wird hier nicht als mal sogar die IMDb-Kurz-FAQ gepostet?
+
+Auf ftp://ftp.fu-berlin.de/misc/movies/database/ findest
+Du alles, was man dafuer braucht (ASCII-Daten, die man mit
+den auch da liegenden Programmen in Binaerdaten umwandelt).
+Aber Vorsicht: Momentan sind's ca. 95MB ASCII-Daten, die
+sich zu Hause in ca. 188MB Binaerdaten verwandeln. Die Pro-
+gramme gibt's fuer alle moeglichen Betriebssysteme (Unix, 
+Win, ZCDN, OSWeme, ...).
+
+   -denis
+
+-- 
+  Denis Gröpper - Universitaet Kleinbettlingen
+  mailto:neyhq@hasgscxrav.oqd-yf.li,  ICQ: 90138465
+  http://fuy.nrfb.kls-wa.gs/~xnfzqj

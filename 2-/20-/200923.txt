@@ -1,0 +1,28 @@
+Fabian W. Dahlkemper wrote in <64sswh6a.82845210@ohbe.nymqy.gp> on
+1996-03-26 18:04:27 +0100:
+
+Ja, genau. Für mich ist das Pflicht, eine IMDB zuhause in ständigen
+Zugriff zu haben. Ein Leben ohne könnte ich mir nicht vorstellen.
+:-)
+
+
+Je nach dem, was Deine Uni anbietet ... Disketten ist ein bißchen
+schlecht, aber mit Zip- oder Jaz-Disketten geht es sehr gut; oder
+eben DAT-Streamer oder (was wohl am einfachsten ist) via Modem/ISDN.
+
+Du mußt den Datenbestand ja nur einmal ziehen (momentan liegt der
+mit bzip komprimiert bei 27 MByte), danach kann Du wöchentlich ein
+Update von ca. 1 MByte saugen. (Die 27 MByte dauern mit ISDN ca.
+eine Stunde = ~2,- DM. Ich halte das für _SEHR_ billig, verglichen
+mit dem, was man dafür bekommt.
+
+
+Komplett installiert (Quellisten unkomprimiert und Datenbank) belegt
+die IMDB momentan ca. 190 MByte. Was man sich dafür holen muß (eben
+die Quellisten und die Abfrage-Software, alles bestens komprimiert)
+liegt momentan bei ca. 27 MByte.
+
+Peter
+-- 
+** Peter Termühlen,  Zellerburgstraße 44,  27182 Heidgen,  Germany **
+** +34 9431 08629  E-Mail (NeXTmail/MIME): woiik@sfafij.e.gtgsl.mi **

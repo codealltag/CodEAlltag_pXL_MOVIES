@@ -1,0 +1,14 @@
+Am 20-07-98 um 23:34 schrieb YEOFQ@ECFX-EXK.yde.yt
+unter dem Betreff: Re: Nur MPEG-Audio bei Euro-DVD
+
+
+Auf eine standard 650 MB CD einen AC-3 Datenstrom packen und
+diese CD in einem normalem CD Player wiedergeben. Wenn ein AC-3
+Decoder angeschlossen ist sollte das funktionieren.
+
+Mfg.
+
+Olaf Viehweg
+ /\_\    __    * BBS Analog: +14 8511 48090 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +66 2324 19918 **  /\_\   \/_/
+        \/_/   * Voice:      +51 5452 26585 *   \/_/

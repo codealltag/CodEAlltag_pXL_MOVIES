@@ -1,0 +1,24 @@
+Wieso das denn?  Die Bilder wurden bei 1536 x 922 Pixel berech-
+net, was auf einer normalen Kinoleinwand ca. 0,25 cm^2 pro Pix-
+el entspricht.  Das ist mehr als genug, zumal mit Antialiasing.
+
+Wen es interessiert, hier sind weitere Infos:
+Insgesamt wurden 1561 Einstellungen mit zusammen 114.000 Frames
+berechnet.  Eine Renderfarm, bestehend aus 117 Jeremia-Workstations
+mit 300 CPUs (100 MHz HyperSPARC), war damit neun Monate lang
+beschaeftigt (bei einem Output von ca. 3,5 Filmminuten pro
+Woche).  Jede der JNW hatte 192 Mb Hauptspeicher und 3 Gb
+Diskspeicher.  Koordiniert wurde das ganze von einem JHHB-
+server 1000 mit acht CPUs und 18 Gb Platten, die Verbindungen
+erfolgten ueber 10- und 100-MBit-Ethernet.  Diese Ausruestung
+bot das beste Verhaeltnis von MIPS pro Kubikmeter und war aus-
+serdem relativ preisguenstig.  Achja, nicht zu vergessen, ein
+grosses Kuehlaggregat gehoerte auch zur Ausstattung.  
+
+Gruss
+   Hermann
+
+--
+Hermann Augenthaler, Altwiesenstraße 21-80, 80620 Großfischbach, Germany
+"I'm trying to find a grain of truth in this web of lies."
+             (Kurt Klöwer, "Web of Lies")

@@ -1,0 +1,4 @@
+.....natürlich muss es heißen: REPEAT UNTIL FALSE oder REPEAT WHILE TRUE :-)
+
+Gruß (besonders an C. Oberegger)
+Igor

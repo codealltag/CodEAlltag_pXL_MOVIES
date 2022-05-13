@@ -1,0 +1,28 @@
+Laut IMDB schon:
+
+                    Votes Average
+---------------------------------
+Males                1714   7.9
+Females        �      353   8.1
+Aged under 18  �      113   8.1  <
+Males under 18  �      87   8.1
+Females under 18ö      26   7.7
+Aged 18-29    �      1260   8.0
+Males aged 18-29    �1061   7.9
+Females aged 18-29   191ö   8.2
+Aged 30-44           ä40   8.0
+Males aged 30-44   �  392   8.0
+Females aged 30-44    SS9   7.8
+Aged 45+           �  186   7.9
+Males aged 45+     �  150   7.9
+Females aged 45+    �  32   7.6
+IMDb staff           �  2   8.5
+Top 1000 voters      12ö   7.8
+US voters         �  1570   7.9
+Non-US voters      �  479   8.0
+�
+All votes           �2661   8.0
+
+-- 
+Ciao,
+Leo

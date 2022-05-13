@@ -1,0 +1,23 @@
+Ich meine verstanden zu haben, dass es sich hier um eine sehr 
+unglückliche Übersetzung in den deutschen Fassung gehandelt 
+hatte.
+
+Ich hab das so verstanden, als wären das die 'backdoors', die
+*die* [1] Programmierer in den Matrix-code eingefügt hätten,
+um über die Betriebssystemebene (der weisse Flur) jederzeit die 
+laufenden Programme beeinflussen, zu können -- also 'remote control'
+auszuüben. 
+
+Der 'keymaker' und der 'crack' (merowinger) passen in diesen Kontext.
+
+Vielleicht habe ich das aber ganz falsch verstanden, hier wäre die 
+originalsprachliche Fassung hilfreich.
+
+
+Wieso 'clever'? Das Orakel als privilegiertes Programm auf 'ring 0' des
+Betriebssystem laufend?
+
+L.
+
+[1] - die Frage nach den Meta-programmieren wird gänzlich aussen
+vorgelassen, nichtmal ansatzweise gedacht.

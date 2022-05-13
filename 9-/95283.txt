@@ -1,0 +1,7 @@
+Vielleicht hast Du einfach nicht weit genug weiterlaufen lassen. Bei
+mir kommen nämlich am Anfang auch jede Menge Fehlermeldungen.
+Aber die rasseln in einem Sekundenbruchteil durch, so dass ich
+nicht mehr als "ERROR" lesen kann, und dann beginnt IWWO schön
+brav mit dem Aufbau der Datenbasis, und alles ist OK.
+
+Norbert

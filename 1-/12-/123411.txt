@@ -1,0 +1,19 @@
+Doch, stimmt schon, die Vereinfachnug liegt aber darin, nur einen
+Algorithmus implementieren zu muessen...
+
+
+Das Problem an den meisten Only-deROT-Newsclients ist es,
+dass die ROT13-Funktion aka "Entschluesseln" meist _nur_
+und ausschliesslich auf _empfangene_ Beitraege anwendbar ist.
+Die Entwickler entsprechender Programme hatten vermutlich aus
+verschiedensten Gruenden (die mir allerdings verborgen bleiben :-)
+keine Musse, die ROT13-Funktion auch in die _Editor_komponenten
+miteinzubauen..
+
+Ciao
+Björn
+
+-- 
+Nachdem Gott die Welt erschaffen hatte, schuf er Mann und Frau.
+Um das Ganze vor dem Untergang zu bewahren, erfand er den Humor.
+[Mordillo]

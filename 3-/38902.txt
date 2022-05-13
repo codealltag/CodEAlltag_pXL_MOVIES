@@ -1,0 +1,18 @@
+Doof:
+
+"Der Mann, den sie Pferd nannten"
+"Der Mann, den sie Pferd nannten - 2. Teil"
+"Triumph des Mannes, den sie Pferd nannten"
+"Ich, Orlando Deitmer, der ich meine Mutter, meine Schwester und meinen 
+Bruder getötet habe"
+"Die Nacht der reitenden Leichen"
+"Die Rückkehr der reitenden Leichen"
+"Das Geisterschiff der reitenden Leichen"
+"Das Blutgericht der reitenden Leichen"
+"Es herrscht Ruhe im Land"
+
+Gut:
+
+Der ganze Rest.
+
+lc#

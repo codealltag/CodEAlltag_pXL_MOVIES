@@ -1,0 +1,9 @@
+Er hat Roman gesagt!
+
+P
+
+-- 
+Fachbegriffe der Informatik - Einfach erklärt
+125: Backup
+       Niemand will Backup. Alle wollen Restore.
+       (Luigi Ekholt zitiert einen Vertriebler)

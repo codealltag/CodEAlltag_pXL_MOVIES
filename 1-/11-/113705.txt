@@ -1,0 +1,7 @@
+On Wed, 05. 09. 21 19:25:23 +0100, Anton Goedsche
+
+Notnagel sozusagen. Bin gespannt, ob es dann wieder funktioniert. Die
+müssen irgendwas an den MOVs verändert haben, dass sie nur noch im
+Arbeitsspeicher abrufbar sind. Früher wurden sie 100% in den cache
+geschrieben. 
+Oswald

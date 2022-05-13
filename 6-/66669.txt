@@ -1,0 +1,27 @@
+Sorry, dass ich mich hier mal einmische. 1.21 GW ist ja wie gesagt
+eine Leistungsangabe. _Theoretisch_ könntest du diese Leistung mit
+jeder Taschenlampenbatterie erzeugen - wenngleich auch nur für _sehr_
+kurze Zeit.
+Nun wissen wir aber aus Teil 1, das die kurze Zeitdauer eines Blitzes
+ausreichend ist, der AFAIK kaum länger als eine 10tel Sekunde
+andauert. Das wären dann 121 MJ an Energie, was wiederum lächerlichen
+34 kWh entspräche.
+Nun nehmen wir an, dass Jan Neuhausen in der Dampflock ein paar richtig
+fette Hochspannungskondensatoren[1] unterbringen kann, die er zunächst
+mit der Dampfmaschine der Lok aufläd. Und nehmen wir ferner an, der
+Doc hat seine Lok (die sah für eine Dampflok ja sehr futuristisch aus)
+auf 1000 kW getunt. Dann hätte er die Kondensatoren in knapp zwei
+Minuten geladen. Danach kann er auf "Vortrieb" umschalten um die
+benötigten 88 mp/h zu erreichen. Hat er die geforderten 88 mp/h auf
+dem Tacho, entläd er die Kondensatoren in den Flux-Kompensator und ab
+gehts zurück in die Zukunft.
+
+Nope. Q.e.d.
+
+Falsch! Das ist TODERNST! Oder willst du, dass der arme Doc für ewig
+in der Vergangenheit festhängt?
+
+[1]Die kann er sich aus Metallfolie und Papier notfalls selber
+wickeln.
+
+cu  gp

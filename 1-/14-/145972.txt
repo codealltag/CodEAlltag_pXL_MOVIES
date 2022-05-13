@@ -1,0 +1,8 @@
+Vielleicht sollen die Striche davon ablenken, das weder der
+Signaturtrenner (da fehlt das Leerzeichen) noch die Länge der Signatur
+(7 Zeilen anstelle der geduldeten 4) stimmen.
+
+Leo 
+-- 
+Die Netiquette ist die Antwortenliste auf die zentrale Frage: "Warum nennen
+mich alle DAZII"?                                    - Pius Stobert in dsnu

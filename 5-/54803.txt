@@ -1,0 +1,5 @@
+Wieviel Plattenplatz braucht man denn dafür und wie lange dauert das Fällen
+der Datenbank?
+
+-- 
+Pascal Ettel

@@ -1,0 +1,31 @@
+Hallo,
+
+
+Hm. Du sagst also, die physischen Grundlagen des menschlichen Gehirns
+sind "analog", und daher nicht eindeutig messbar. 
+Der Computer basiert aber auch auf phyiskalischen Grundlagen, die nicht
+eindeutig messbar sind. Es liegt lediglich eine Interpretationsvereinbarung
+vor, die besagt, dass wir eine bestimmte Spannung an einer bestimmten
+Stelle als "1" interpretieren können. Trotzdem ist das System "Computer"
+an sich genauso "analog" wie das System Hirn.
+
+
+Ack, die Logik (also die physikalischen Zustände eines Computers, NACH
+Anwendung einer Interpretationsvereinbahrung) der heutigen Computer ist
+berechenbar.
+Dass das für das Hirn nicht möglich ist, könnte auch schlicht daran 
+liegen, dass man die Interpretationsvereinbahrung noch nicht gefunden hat.
+
+
+CU
+Rudolf
+
+P. S. "analog" steht oben immer in Anführungsstrichen, weil ich mir nicht
+ganz sicher bin, ob dein Verständnis dieses Begriffes mit dem in der
+Informationstechnik verwendenten Bedeutung verträglich ist.
+
+
+-- 
+    "For you will still be here tomorrow, but your dreams may not."
+						Cat Stevens, Father and Son
+www.xnvifun.vk - Trotz Renovierung geöffnet!

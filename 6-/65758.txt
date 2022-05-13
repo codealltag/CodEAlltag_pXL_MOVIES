@@ -1,0 +1,12 @@
+* Lennart Ingmar <s.l.voaqi@rii.qv>:
+
+
+Lief bei uns unter "politischer Bildung".
+
+
+Bye,
+Elmar
+
+-- 
+[elmar]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

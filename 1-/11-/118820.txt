@@ -1,0 +1,8 @@
+keiner
+
+versuch mal, in vertretbarer Zeit mit einem einfachen Taschenrechner eine
+nichttriviale Primfaktorzerlegung zu machen...
+Wenn ich mich nicht sehr irre, beruht so ziemlich die ganze Kryptologie
+darauf...
+
+mfG, David

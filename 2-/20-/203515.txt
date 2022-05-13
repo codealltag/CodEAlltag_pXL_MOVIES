@@ -1,0 +1,20 @@
+MMSO bietet einen an; es ist im Prinzip ein VKDZ 515 mit
+AC-3-Ausgang. Ich weiß aber nicht, ob er schon lieferbar ist.
+
+VKDZ selbst hast einen angekündigt (soll wohl 925 heißen), der
+dann außerdem noch ein Field Memory hat (um Standbilder bei
+CLV-Scheiben machen zu können).
+
+Die aktuellen VKDZ-Player (insbesondere den 2950) kann man
+problemlos nachrüsten.
+
+
+Du kannst problemlos einen externen Spannungswandler (230->115V)
+benutzen; die unterschiedliche Netzfrequenz (50/60Hz) dürfte kein
+Problem sein, da im Netzteil des Players sowieso erstmal gleich-
+gerichtet wird.
+
+Elmar
+---
+** Elmar Fennig,  Weinsteiggasse 16,  79114 Obereggingen,  Germany **
+** +58 2386 89186  E-Mail (NeXTmail/MIME): ntztf@pytagk.p.rxtgz.sv **

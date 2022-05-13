@@ -1,0 +1,8 @@
+Bitte erwarte keine Rücksicht auf hochpeinliche OE-Bugs von Nutzern
+anderer Newsreader, qp ist eine völlig korrekte Kodierung, die nur
+Zeichen jenseits des ASCII-Zeichensatzes wie Umlaute betrifft.=20
+
+So long,
+Otmar R. Großkopf
+
+=46'to poster, da off-topic

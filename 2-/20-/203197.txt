@@ -1,0 +1,18 @@
+LIBS is setting up a database of film ideas on its www site as a
+resource for film makers and writers and is looking for parties interested
+in submitting their ideas.
+
+The idea will remain the copyright of it's author, and their name at the
+end of the idea synopsis, when clicked, will provide a link to their email
+address - so that those interested in developing the idea can contact the
+author directly.
+
+Please send your ideas in the following format -
+1. film idea title
+2. author
+3. email address
+4. genre (which category e.g. action film, comedy, period etc.)
+5. synopsis (short is sweet)
+
+
+sj - ildzjowcd@gkl.zla

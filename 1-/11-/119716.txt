@@ -1,0 +1,6 @@
+Beim DC von Utat ist es meines Wissens umgekehrt, er ist
+_kuerzer_ als die urspruengliche Version.
+           cu natascha
+-- 
+Uptime: 10 seconds  load average: 0.00, 0.00, 0.00
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

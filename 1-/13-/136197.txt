@@ -1,0 +1,18 @@
+ich hab mir letzte woche den standard imdb client 
+(moviedb und imoviedb) auf win2000 kompiliert und installiert. 
+läuft auch nach nach dem erstem update ("diff") der db wunderbar und ist
+um einiges besser als der alte amdb port.
+man braucht allerdings cygwin und besser wären einige unix kenntnisse.
+(aber dafür auch auf win98, nt, ...)
+
+db und src auf ftp://ftp.fu-berlin.de//pub/misc/movies/database/
+src patches und binaries auf
+  ftp://xarch.tu-graz.ac.at/autocad/urban/imdb/
+
+die binaries sind für eine installation in /usr/local/moviedb/
+kompiliert, /usr/bin/gzip braucht man auch. 
+vielleicht schaffen es auch win32 dummies ...???...
+
+-- 
+Simon Weck
+http://rcoqc.kl-lgno.wh.bg/yqukija/mzqs/exc/zxunqqay.xorn

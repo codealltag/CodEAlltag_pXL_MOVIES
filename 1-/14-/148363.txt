@@ -1,0 +1,6 @@
+"Usability" ist beim Screen-Design in Filmen kein Thema - es muß nur
+irgendwie "cool" aussehen (und so eine GUI wie in "Jurassic Park" oder
+"Hackers" kommt nunmal cooler als eine Textkonsole oder das doch etwas
+hausbackene Design von Lakas).
+
+jean-pierre

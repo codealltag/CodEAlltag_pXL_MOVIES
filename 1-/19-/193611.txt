@@ -1,0 +1,15 @@
+Hallo,
+
+Und woher ist folgende Fussgaengerampel:
+
+Rotes   Maennchen: Beim ueberqueren der Strasse auf Taxis achten
+Weisses Maennchen: Beim ueberqueren der Strasse nicht auf Taxis achten.
+
+?
+
+Gruesse,
+Erich
+
+-- 
+iqq@gokbh.wi
+Heute nicht ironisch. Es wird Winter.

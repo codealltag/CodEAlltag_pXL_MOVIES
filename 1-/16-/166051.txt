@@ -1,0 +1,26 @@
+...
+
+
+Wenn jemand mit einer Hochgeschwindigkeitskamera in der Matrix rumläuft,
+dann müssen sogar viel mehr Bilder in der Sekunde berechnet werden (für die
+Kamera).
+
+
+Das ist aber eine schlechte Theorie. Was ist ein "Raum", wenn die Person
+auf der Straße steht? Oder auf dem Gipfel eines Berges?
+
+Aber viel wichtiger: Dann muß die Matrix die genaue Position des "Raumes"
+in der Matrix kennen. Und da die Person in diesem Raum steht, hat man somit
+auch ihre Positin.
+Du mußt mit Postionsangaben arbeiten -auch bei OOP-, da alle Objekte eine
+Anordnung zueinander haben. Wie sonst sollte man wissen, welches Objekt
+hinter einem anderen Objekt steht?
+
+D.h. also spätestens wenn ein Agent (bei Deiner Theorie) in einem Raum Neo
+erblickt hat, man auch seine Position.
+Außerdem wurde irgendwo anders darauf hingewiesen, daß die Matrix ja in der
+Lage war, Personen, die sich ich der Nähe von Neo aufhielten, durch Agenten
+auszutauschen. D.h. die Matrix weiß, wo sich Personen aufhalten, sonst
+könnte er ja nicht wissen, was "in der Nähe" bedeutet.
+
+René

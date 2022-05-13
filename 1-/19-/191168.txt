@@ -1,0 +1,9 @@
+NTSC 3.58. Nur PAL-Geraete geben 4.43 aus, wenn sie NTSC wiedergeben. In den
+Staaten gibt es kein NTSC 4.43.
+
+Tschuess,
+Ingolf
+--
+Ingolf Vossieck                           Student of Computer Science
+Nebelin                              E-Mail: s99c@ahh.rek-pqvroi.zp
+Germany              WWW: http://lxw-vpfg.irg.raz-jlkepv.dw/~j89y/

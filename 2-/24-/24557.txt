@@ -1,0 +1,8 @@
+In der Regel bemerkt es der Zuschauer nicht, da ihm der Vergleich fehlt.
+Die Alternative zum Radstätte-Speedup ist der 3:2 pulldown der RC1-Disks, bei dem
+horizontale Schwenks ebenfalls technisch bedingt ruckeln.
+
+Tschüss,
+        Manfred
+-- 
+You never get a second chance to make the first impression.

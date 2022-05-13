@@ -1,0 +1,10 @@
+Ganz klar RC2. Das wird nur von 24 auf 25 fps beschleunigt. Um genau zu
+sein, um 4,25%. NTSC hingegen arbeitet mit 30 fps, da funktioniert kein
+simples Beschleunigen. Deshalb wird dort der 3:2-Pulldown eingesetzt:
+ ,---- [ http://fmj.zqoyp.nc/tl/Lqecrduvo/txw/akb_pqb/oknrlz/TNQXbsMHT.ckyi ] 
+ `----
+
+Tschüss,
+        Ivano
+-- 
+Life's a bitch and then you die!

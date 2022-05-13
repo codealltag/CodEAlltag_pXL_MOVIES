@@ -1,0 +1,14 @@
+;-)
+
+[...]
+
+tr ist eines von diesen winzig kleinen, ueberall vorhandenen,
+irrsinnig praktischen Unix utilities
+
+tr - translate or delete characters
+
+Man verwendet es, entweder um bestimmte Zeichen zu entfernen oder
+durch andere zu ersetzen. Obige zwei Kommandos machen ROT7 Ent- und
+Verschluesslung. A wird zu H, B wird zu E, ... Z zu G, etc. Mit
+tr A-Z a-z kann man z.B. alle Gross- durch Kleibuchstaben ersetzen.
+              cu rosa

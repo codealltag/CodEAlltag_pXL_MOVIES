@@ -1,0 +1,21 @@
+Am 23-02-99 um 15:41 schrieb utedq@znaiwo.c.rdkim.je
+unter dem Betreff: DVD-Empfehlung: Robocop 2
+
+
+Komisch, ich habe eigentlich noch nie gesehen, daß dieses Flag
+wirkung zeigt. Sowol bei der Dolby Digital Test LD als auch bei
+der DVD.
+
+Egal welchen Track ich anw�hle, ob mit oder ohne Flag, der Kunsthäusel
+DSP-A3090 zeigt immer ProLogic an.
+
+Kann natürlich sein, daß andere Geräte sich dabei anders
+verhalten. Der Kunsthäusel sieht, daß es sich im 2.0 Signal handelt
+und schaltet die ProLogic Stufe dazu... Daher habe ich bislang
+auch nicht so recht den Sinn dieses Flags verstanden.
+
+-- 
+Wolfgang Tulius
+
+dy@aqtaqso.ox
+http://wuv.bpyyz.zc/~sgmuixemk

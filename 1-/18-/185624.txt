@@ -1,0 +1,12 @@
+Ein weiteres Problem ist, daß die Offline-Frontends (die meisten haben
+keinen Internetzugang!) keine Eingabe von neuen Daten erlauben, die dann per
+UUCP oder per Floppy-Netz dann per eMail an die IMDb schicken könnte.
+
+Mir geht es zumindest häufig so. Um wenn ich man im Radscheune sein sollte, dann
+fällt mir alles andere ein bzw. man hat viel anderes zu tun.
+
+-- 
+Bernhard Tümler
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

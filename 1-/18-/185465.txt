@@ -1,0 +1,27 @@
+Hallo,
+
+
+Also ich sehe es nicht unbedingt als "Bug", dass der A350 kein 
+"Blacker-than-Black" darstellen kann. Eher als "Feature". In 
+gewoehnlichen Filmen kommt es eben nicht vor und da hat sich ZDDL 
+wohl gedacht, nutzen wir doch die kompletten 10-Bit des 
+Video-DA-Wandlers fuer den sinnvoll darstellbaren Helligkeitsbereich, 
+statt noch ein paar Bits fuer etwas zu verschwenden, was eh niemand 
+sieht.
+Das ist zumindest meine Vermutung.
+
+Beim Einstellen mittels Video Essentials stoert es natuerlich etwas. 
+Zum Glueck hat mein Fernseher aber eingebautes "Blacker-than-Black". 
+Naemlich alles ausserhalb des 4:3 Frames im 4:3-Modus. Damit kann man 
+sehr einfach den "Black-Level" auf den korrekten Wert stellen.
+
+Salvatore 
+
+-- 
+
+------------------------------------------------------------------
+Salvatore Ehleiters
+Email: ailt@whizbt.mtfigf.SQ-Drlkpf.HZ (MIME and NeXTMail welcome)
+WWW: http://lu.adsawo.EQ-Gmttht.VP/XY/Ssek/
+PGP-Key: http://lj.hgegnh.BY-Emdfbx.JJ/XM/Yuaa/UODUdo.oobi
+------------------------------------------------------------------

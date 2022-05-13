@@ -1,0 +1,50 @@
+Mathias Felgener <qlif4219@xdqidxml.kc> writes:
+
+Hallo Ivano,
+
+
+Dem Vorschlag schliesse ich mich an.
+
+
+Hier würde ich den umgekehrten Ansatz wählen:
+
+1.) Eine Bibliothek mit Standard-Abfragemethoden für die Datenbank und
+    nützlichen Hilfsfunktionen
+2.) "Objektorientierte" Datenstrukturen, die sich mit den Methoden aus
+    (1) füllen lassen. Da braucht man aber mindestens zwei Perl-Module
+    (oder C++-Klassen) dafür. Einmal für Filme, einmal für Personen.
+    Die sind dann jeweils verlinkt.
+    Diese Datenstrukturen kann man dann für komplexere Suchen oder für
+    Frontend-Tools verwenden, wie z.B. 
+3.) Die "title" und "list" Frontends 
+
+
+Ich benutze xregal. Ein graphisches Frontend wäre deshalb für mich der
+4. Schritt, auf den ich nicht verzichten möchte.
+
+In einer späteren Ausbauphase könnte ich mir auch ein 'make applydiifs'
+vorstellen, das die wöchentlichen diff-Files in die Listfiles einpflegt
+und dabei die Änderungen der Daten mitprotokoliert und in die Datenbank 
+eingepflegt. Das könnte den Update beschleunigen.
+
+
+Ich habe vor ca. zwei Jahren schon mal mit so einem Projekt angefangen.
+Dann kamen aber andere Dinge dazwischen und das Ganze ist in einem
+Anfangsstadium liegen geblieben. 
+
+Aus dieser Zeit habe ich aber noch Perl-Code, der folgende Listen in 
+eine Amibe einliest: movies, aka-titles, actors, actresses, 
+cinematographers, composers, directors, editors, producers, 
+production-designers, miscellaneous, writers, countries und running-times.
+
+Damals habe ich Perl aus zwei Gründen gewählt:
+ 1. Ich war in Perl deutlich fitter, mein letztes größeres C++-Projekt
+    lag 7-8 Jahre zurück.
+ 2. Man braucht Patternmatching und String-Manipulation.
+
+Den Code könnte ich nach kurzer Überarbeitung beisteuern.
+Für größere Mithilfe habe ich aber frühestens im Sommer Zeit.
+
+Ciao, Vmfmr                              nlbjonft @ skcgjzdd.ib
+
+Zuletzt gesehen: Goo chak sam fong fong Monster Tierra

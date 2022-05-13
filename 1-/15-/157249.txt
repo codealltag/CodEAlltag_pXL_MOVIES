@@ -1,0 +1,20 @@
+Aufgrund einer geplanten Taktverkopplung eines Filmabtasters mit einer
+CCD-Zeilenkamera, die zur Zeit noch von der dazugehörigen Grabber-Karte
+extern getaktet wird, habe ich mich gefragt, wie ich denn die beiden Systeme
+mit einem Takt laufen lassen kann. Dazu ist es erforderlich, aus dem
+Filmabtaster, bei dem die komplette Video-Elektronik fehlt, da
+ausschließlich der Lichtton abgetastet wird, einen Takt zu gewinnen.
+Mit diesem Takt (oder Vielfachen davon) sollte dann auch die Kamera getaktet
+werden - das Ziel wäre erreicht und beide Syteme wären taktverkoppelt.
+
+Nun endlich meine Frage:
+
+Gibt es speziell für Film Lichtschranken oder andere Takterzeuger
+(HALL-Elemente, sonstige Magnetsensoren u.s.w.), mit denen man z.B. mittels
+Abtastung der Perforationslöcher einen Takt bestimmen und die Zeilenfrequenz
+bestimmen kann?
+
+Falls jemand ein bereits existierendes Produkt zu einer derartigen Messung
+kennt, kann er mich unter lvucpmjun@njwjzkl.qxy erreichen. Vielen Dank schon
+einmal für Eure Bemühungen. Ich bin um jeden Vorschlag und jede Idee
+dankbar!

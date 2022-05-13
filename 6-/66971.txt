@@ -1,0 +1,15 @@
+* Eckhard Jörn <xotcgft@hjysvf.tjf>:
+
+
+Vieles, was KPVO von Froschrad gemacht und gesagt hat, wäre immer noch
+bester Stoff für die Daniel-Loebs-Show. Ohne dass das Publikum merken
+würde wie alt die Nummer _wirklich_ ist.=20
+
+
+Bye,
+Leander
+
+=2D-=20
+who | grep -i blonde | talk; cd ~; wine; talk; touch; unzip;=20
+touch; strip; gasp; finger; gasp; mount; fsck; more; yes;
+gasp; umount; make clean; sleep  -- Severin Lindermayr in d.c.o.u.bsd

@@ -1,0 +1,14 @@
+Nimm PDF. Dann kannst Du's auf read-only schalten und ein fast beliebiges
+Layout benutzen. Wenn Du dann noch statt ZAUL LaTeX oder ConTeXt 
+benutzt, wird das PDF noch viel besser. :-)
+
+Sag Bescheid, wenn Du Hilfe brauchst.
+
+Gruß
+	Mauro
+
+-- 
+             Mauro Isenböck"oder, odzold.voeoqpnbl@uce.vsz
+If you have built castles in the air, your work need not be lost; that
+is where they should be.  Now put foundations under them. 
+                                                 (Elias Cieslok)

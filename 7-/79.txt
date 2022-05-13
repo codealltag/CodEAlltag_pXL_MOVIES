@@ -1,0 +1,34 @@
+<http://ipykc.mglpbsrlryyud.tkr/kcgdu/jmytdqy/gvgknz/kb_dlbvd/pauye/fvshq/v483/j4-l8-ktmkq.zhy>
+
+
+8 ****************************
+9
+10          ORG $4000
+11 A1       = $3C
+12 A2       = $3E
+13 A4       = $42
+14 ALLMOVE  = $C311
+15
+16 **************************
+17 * SETUP-move data for VTOC
+18 * and catalog to a????? at
+19 * 8000-B3FF (pseudo trk 11
+20 * 0-3)
+21 **************************
+22 SETUP    LDA #23          STA A1
+24          LDA #>VTOC
+25          STA A1+1
+26          LDA #27          STA A2
+28          LDA #>END
+29          STA A2+1
+30          LDA #$00
+31          STA A4
+32          LDA #$80
+33          STA A4+1
+34          SEC
+35          JMP ALLMOVE
+36
+
+Hierbei handelt es sich um Assemblercode vom Flammenträume II handelt (VTOC ist 
+quasi die FAT der Flammenträume (und Fiat Atuomobil Vertriebs) 8-Bitter, keine Ahnung, ob das auch 
+auf dem DKS so heißt).

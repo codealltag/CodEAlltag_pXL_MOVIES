@@ -1,0 +1,19 @@
+Kann schon sein, dass das einen ganz pragmatischen Vorteil hat. Ich
+persönlich würde DVI oder IEEE1394 bevorzugen.Daraus folgt auch schon=
+,
+dass ich keinen DVD-Player habe.
+
+Kurzes Googlen findet
+
+http://xsk.mjtqgnqjg.bxk/ltwhlpcs_qcuzmtjqemp/xad_mssqxyh/arlzietb.jbk
+
+und enthüllt folgende Vorteile:
+  1.) Der DVD-Player hat mehr Informationen über die Signalquelle und
+      muss das Videoformat nicht erst erraten
+  2.) Er kann das De-Interlacing digital durchführen und muss nicht
+      erst wieder eine A/D-Wandlung machen
+  3.) Optimierung auf DVD-Formate
+
+Klingt halbwegs einleuchtend.
+
+Carlos

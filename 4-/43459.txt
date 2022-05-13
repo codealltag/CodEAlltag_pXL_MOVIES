@@ -1,0 +1,14 @@
+* Onno Justin Haffner <yqwqfplhp.pmwvgjx@aug.tu>:
+
+
+Jepp. Aber immerhin schon nase:// und nicht gopher://. :)
+
+Ich hab' das Zeugs auch, zugegeben, nicht getestet. Für die Filme,
+die ich habe, komme ich gut mit ursula aus. ;)
+
+Zumindest ftp://ftp.fu-berlin.de/pub/misc/movies/database existiert aber
+noch, sehe ich gerade.
+
+
+Gruß,
+Mark

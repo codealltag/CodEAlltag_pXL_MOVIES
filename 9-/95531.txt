@@ -1,0 +1,65 @@
+Hi.
+
+
+Die Idee hat man auch gehabt. "The Jazz Singer" (hiess der so) wurde unter
+anderem so gezeigt. Das Problem dabei war aber, dass der Ton nur schwer
+bis garnicht synchron zu halten war. 
+
+Du musst Dir auch erstmal darueber klar werden, dass eine
+Grundvoraussetzung fuer Tonfilm die Erfindung des Elektromotors ist. Am
+Anfang wurden Kamera und Projektor von Hand gekurbelt -- das hat man beim
+Bild gemerkt, und beim Ton waere es einfach nur nervig gewesen. :-)
+
+Wenn Du jetzt den Ton auf eine Schallplatte schreibst... Naja, den Anfang
+kannst Du durchaus gleichzeitig hinkriegen, irgendwie eine Markierung auf
+den Film, einen sichtbaren Piep auf die Platte, und du kannst sie schonmal
+synchron loslaufen lassen.
+
+Dass die Dinger synchron weiterlaufen, kannst Du auch schaffen, indem Du
+den Projektormotor nimmst, um die Schallplatte anzutreiben. Oder Du misst
+die Drehzahl und steuerst den Plattenspieler damit. BTW: Das wurde so auch
+gemacht, um einen separaten Magnetton synchron zu halten.
+
+Nur kommt jetzt das groesste Problem: Der Film laeuft, der Ton passt, und
+Dir reisst der Film. Was machst Du? Klar, kleben. Und dabei schneidest Du
+eben das zerrissene Bild raus. Und schwubs ist der Ton 1/24 sec zu
+spaet. Und wenn Dir das 24 mal passiert (rein, weils einfacher zu rechnen
+ist) dann kommt der Ton am Ende eine Sekunde zu spaet. 
+
+Und dafuer ist es einfacher, wenn der Ton mit auf der Kopie ist. 
+
+Bei DTS ist der Ton zwar separat auf einer CD, aber da wird der Ton ueber
+einen Zeitcode, der auf der Kopie drauf ist, gesteuert. 
+
+
+Grundsaetzlich vielleicht. Nur hattest Du halt bis in die 50er (Oder?
+Korrigiert mich, wenn ich hier Mist erzaehle!) die Filme auf Nitrofilm.
+Und der brennt sehr gut. Und deswegen war es eben verboten, den Film
+komplett zu koppeln, und auch noch offen auf dem Teller liegen zu lassen.  
+Du musstest den Film von den kleinen Spulen zeigen, die in die
+Feuerschutzkammern der Projektoren passen. Und da blieb Dir nix anderes
+uebrig, als zu ueberblenden.
+
+
+Naja... Das waeren dann vier bis sechs Pausen pro Film. Du willst mir
+nicht erzaehlen, dass es Raucher gibt, die das so oft noetig haben? :-)
+
+
+Frueher, als Filmvorfuehren noch richtiger Ausbildungsberuf war, musste
+man das als Vorfuehrer wohl auch so lernen. Ob die es dann wirklich
+hinbekommen, weiss ich auch nicht. 
+
+Ich habe selbst das letzte Jahr so vorgefuehrt, und ... naja, wenn Du es
+gescheit angehst, dann merkt man es wenig bis kaum. Und Du hast den
+Vorteil, dass der Vorfuehrer staendig im Vorfuehrraum ist, und Schaerfe
+und Bildstrich korrigieren kann :-)
+
+Kai
+
+-- 
+-------------------- Kai Gellhaus -- xqqpwadnm@mzl.re --
+       ----------------------------------------------------
+/"\
+\ /
+ X ASCII RIBBON CAMPAIGN - AGAINST HTML MAIL
+/ \

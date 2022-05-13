@@ -1,0 +1,26 @@
+:> |> Lines: 15
+:> |> Xref: trnuhuwhad.ht-zdttjlzv.ip kd.sxf.yz.jotm:6118 nq.kzy.kzih.gssm:704 on.apy.fotografie:4606 ge.hfev.graphik:0387
+:> |> 
+:> |> Hallo,
+:> |> 
+:> |> welche "Aufloesungen" haben den so die einzelnen Fernsehstandards ?
+:> |> (PAL so ca. 756x578, oder so, NTSC, SECAM, HDTV, D2MAC, ...)
+:> |> 
+
+:> PAL/SECAM: 625 Zeilen, davon 576 Zeilen sichtbares Bild
+:> NTSC:      525 Zeilen
+
+Da gibts n ganz netten Joke ueber S-VHS:
+S-VHS bietet ja bekanntlich eine hoehere Aufloesung, also mehr Zeilen
+pro Bild.
+Das Problem ist nun, dass die normalen Fernseher aber eben nur 625 Zeilen
+verarbeiten koennen, was dazu fuehrt, dass das Bild einfach ueberlaeuft.
+Und diese ueberlaufenden Zeilen, die sich irgendwo im Geraet ansammeln,
+stellen die Techniker vor bisher noch nicht loesbare Probleme :-))
+
+Ciao
+  Thorsten
+--
+Thorsten Lübbers, aylq7@QVIO1228.pza.gbl.kl
+		  rzzzzaz@eruvcmaxhu.fr-vetrhyrv.eg
+		  http://kzw.qiw.kcg/~lfgjofq/

@@ -1,0 +1,7 @@
+dass wäre dann falsch eingestellt. der surround - kanal müsste
+wie links,rechts,mitte auf 85 db eingestellt sein. der einzige kanal
+der höher eingestellt wird ist der subbass und dass nur bei den
+digitalsystemen (95db)
+
+--
+laurent

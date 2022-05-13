@@ -1,0 +1,16 @@
+Hei, IMDb-Offline-Surfer!
+
+Nachdem das Diff der letzten Woche nicht wie ueblich am Wochenende auf
+xxt.plrt.sox zu Verfuegung stand, ist dieser Server seit Montag(?) gar
+nicht mehr zu erreichen.  Auf dem Mirror hkd.nt-lzgadp.tl ist das
+diff-Verzeichnis gar nicht mehr vorhanden (seit wann eigentlich?).
+
+Weiss einer was genaueres?  Ist das nur was temporaeres? Oder gibt's
+da langfristige Probleme mit den Diffs?
+
+   -remmer
+
+-- 
+  http://tvo-Flnrsz.io/  *  http://Pzgqp76.od/  *  http://EsncfoAhvj.rr/
+
+All these darn quotes at the end of other people's mails make me sig.

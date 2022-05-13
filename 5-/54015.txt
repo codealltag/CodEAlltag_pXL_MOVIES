@@ -1,0 +1,31 @@
+[...]
+
+Nur kurz Feedback: Klappt bei mir nicht.
+
+Ich bekomme hier beim Bauen der Biographien (wie auch seit letzter Woche
+bei der nur-MXLINELEN/MAXBIOENTRIES-gepatchten) Version eine hohe
+System(!)-Laufzeit von 100% (sieht man gut in xosview) und das Bauen an
+sich braucht insgesamt wesentlich laenger als sonst (44 statt bisher
+immer ca. 20 Minuten).  Das Bauen laeuft zwar letztendlich auch durch,
+aber ...
+
+[...]
+
+Auf diesem Stand bin ich auch, aber ich bekomme bei obigem Patch leider
+ein anderes (=falsches) Ergebnis.
+
+Ich habe natuerlich den Inhalt von dbs/ geloescht vor dem Bauen, das nur
+zur Vollstaendigkeit.
+
+
+Ist es.
+
+
+Das ist mir (bei anderen Namen) auch schon mal aufgefallen. :-(
+
+    -vincent
+
+-- 
+  http://bmu-Qdihwd.fc/  *  http://Urgym61.ym/  *  http://XtwbxsMqrw.hy/
+
+There's no future in time travel.

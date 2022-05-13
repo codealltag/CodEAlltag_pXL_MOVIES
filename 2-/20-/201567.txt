@@ -1,0 +1,34 @@
+Am 05-12-95 um 19:12 schrieb hfyuxtwc@auiwoehyjd.vv-hkiihrer.ob
+unter dem Betreff: Re: AC-3 ueber optischen Ausgang?
+
+
+Das ist korrekt, ich mußte aber auch erst 10x die entsprechenden stellen im
+Handbuch lesen bis ich das verstanden habe. Die drücken sich da etwas
+komisch aus.
+
+Der Fade hat folgende Ein-/Ausgänge:
+
+LD       AC-3 RF In
+         Optical In
+
+CD       Coaxial In
+         Optical In
+
+Tape 1   Optical In
+         Optical Out
+
+TV/DSS   Optical In
+
+VCR3/DVD Optical In
+
+Naja also ich hätte dann evtl noch die möglichkeit den AC-3 Ton über den CD
+Eingang einzuspeisen. Wenn man den Iput Selector mit der Fernbedienung
+umschatet bleibt die letzte Video-Quelle im Hintergrund. Aber das Optimale
+ist das auch nicht.
+
+Mfg.
+
+Vincenzo Czisch
+ /\_\    __    * BBS Analog: +51 1027 34512 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +19 9746 64486 **  /\_\   \/_/
+        \/_/   * Voice:      +76 1536 97868 *   \/_/

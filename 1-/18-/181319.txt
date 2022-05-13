@@ -1,0 +1,22 @@
+Response to Author : c06g@mmk.cyu-wivbux.ge (Uapptm Paske)
+
+
+Hi Francis,
+
+
+Hab ich bisher nicht. Aber das Problem bleibt doch: die Auflösung der DVD  
+(wieviel hat die eigentlich genau?) ist doch nur SVGA oder so ähnlich (ca.  
+600 mal 800 Punkte), selbst mit Quadrupler etc. wird die doch nicht mehr,  
+sondern nur künstlich aufgemotzt, indem zusätzliche Pixel interpoliert  
+werden. Natürlich sieht das dann besser aus als die Original-Auflösung,  
+aber ob die an die Qualität eines Prints rankommt, wage ich trotzdem zu  
+bezweifeln.
+
+
+Man müßte mal die Möglichkeit haben, einen Film von DVD mit einem solchen  
+Projektor und denselben Film als Print im Kinoprojektor im 1:1 Vergleich  
+auf derselben Leinwand zu sehen. Ich bin recht sicher, daß der Print immer  
+noch besser ist, zumindest bei der heutigen DVD, evtl. ist DiaScanShop  
+(demnächst) da gleichwertig.
+
+FFPX    Helmut

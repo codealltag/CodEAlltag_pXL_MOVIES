@@ -1,0 +1,5 @@
+Postings nach Wochentag wäre noch fein.
+Und initialposting (das erste des threads) nach Wochentag.
+Hmm. wie bereinigt man in monaten != 28 tage?
+
+Tschüss, Darius

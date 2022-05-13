@@ -1,0 +1,10 @@
+Doch doch doch. Denn der eigentliche Witz ist: Ein Terminator ist auch
+nur ein besserer Automat. Er hat also Eingaben, verarbeitet selbige im
+Prozessor, und hat Ausgaben. Um die Ausgaben, also auch
+Zwischenergebnisse, wieder effizient als Eingaben benutzen zu können,
+werden sie dorthin ausgegeben, wo ein Terminator sowieso schon
+Eingaben parsen muss: in seinen Augen.
+Somit laufen also alle wichtigen Information für den nächsten Schritt
+an einer Stelle zusammen.
+*Das* ist eines der Grundprinzipien von gutem Softwaredesign: Klare,
+einfache Interfaces.

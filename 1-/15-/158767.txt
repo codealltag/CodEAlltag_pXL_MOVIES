@@ -1,0 +1,133 @@
+"interlaced" heißt auf deutsch "Zeilensprungverfahren".
+
+
+Es gab noch weitere Normen mit 405 Zeilen/50 Hz (Tegernheim) und 
+819 Zeilen/50 Hz (Frankreich), die ausgestorben sind.
+
+Die Netzfrequenz ist für den Betrieb eines Fernsehgerätes primär unwichtig.
+
+
+Sie ist mit der Einführung des NTSC-Verfahrens von exakt 60 Hz auf
+59,940 Hz geändert worden.
+
+
+Exakte Frequenz ist 3,579545 MHz.
+Relation zur Zeilenfrequenz: 227,5-fache der Zeilenfrequenz von exakt
+15734,263736 Hz (die damit 0.999%. unter der SW-Norm liegt).
+
+
+Außerdem gibt es ein NTSC auf 4,43361875 MHz.
+
+
+Laut Norm sind 575 Zielen zu sehen, heutzutage ist der Wert auf 576
+korrigiert worden (0x240).
+
+
+Das gilt nicht für TeGut, aber für alle derzeitigen Implementationen.
+SECAM selbst sieht nur die sequenzielle Farbübertragung mit beliebigen
+Modulationsverfahren vor.
+
+
+Die Amplitude wird bei farblosen Partien mit starker Dämpfung übertragen.
+Es gibt dafür mehrere Preemphasisfilter vor der FM und nach der FM.
+
+
+Der Ostblock wollte keine Lizenzgebühren an Frankreich bzw. BRD zahlen. Das
+wären harte Valuta gewesen. Ansonsten ist DDR-TV und BRD-TV vollständig
+kompatibel. Mehrnormenempf�nger kamen ab Ende der 70er raus.
+
+Anders bei den Franzosen. Dort ist alles inkompatibel,
+Tontr�gerabstand, Tonmodulation, Bildseitenbandauswahl, Positiv- statt
+negativmodulation, Frequenzwahl, Synchronpegel. Man bekommt nicht einmal
+einen Ton hin.
+
+
+Lizenzgebühren sollten auf jeden Fall vermieden werden.
+Nähere Fragen bitte per E-Mail an Reply-To:
+
+
+Die Linien verschwinden langsam, als horizontale Auflösung gilt ein
+Absinken der Übertragungsfunktion um 10 dB (d.h. auf 32%). In der
+Studiotechnik gilt dagegen 2 dB.
+
+
+Die erhöhte Auflösung hat nichts mit der digitalen Abspeicherung zu tun. Es
+gibt professionelle analoge Geräte (Okig ?), die bis 900 Linien auflösen. 
+Die maximale Auflösung des Mediums DVD beträgt übrigens exakt 720 Linien.
+
+
+Hochqualitative Decoder können auch VHS-TT dekodieren. Leider sind die
+meisten Implementationen zu schlampig.
+
+
+NTSC-LP ist mir selbst unbekannt.
+
+Kassettenl�ngen sind ansonsten wesentlich vielgestalterischer geworden.
+
+ E-30
+ E-60
+ E-90
+E-120  (Standardlaufzeit wie C60 bei Audio)
+E-150
+E-180
+E-195
+E-200
+E-210
+E-220
+E-240
+E-260
+E-300
+
+
+Die Trommelfrequenz ist genauso groß wie die Bildfrequenz, d.h.
+25 bzw. 29,97 Hz.
+
+35 mm bzw. 70 mm-Film:	24 fps
+16 mm-Film:		24 fps
+Super-8:		18 fps
+Normal-8:		16 fps
+
+IMAX kann auch mit 48 fps laufen.
+
+
+Dem geübten Zuschauer fällt es auf. Grrr.
+
+Es erfolgt bei allen Consumerger�ten ein sehr unsauberes (d.h. nicht
+normgerechtes) Umsetzen, was mit einem esentlich besser erkennbaren
+Farbträger erkauft wird.
+
+
+Die Auflösung wird effektiv etwas verringert (gute Verfahren) bzw.
+stark verringert (billige Verfahren). Die Zeilenzahl nimmt entsprechend um
+20 Prozent zu.
+
+
+Es wird keine Bildinterpolation, sondern Bewegungsvektoreninterpolation
+benutzt. Ist eng verwandt mit der Motion Compensation der DVD.
+
+
+Häufig findet man auch Transfers zwischen a) und b), z.B. von 1:2,35 auf
+1:1,78. 
+
+
+Besonders bei 1:2.35-Wiedergabe von VHS-Videos sind häufig nicht mal mehr
+Personen zu erkennen. Einer 1:2.35-Fassung von "Spiel' mir das Lied vom Tod"
+auf VHS war so gut wie nicht mehr zu folgen.
+
+
+0,73 bis 0,78 GB im von Audio-CD bzw. Video-CD genutzen Format. 
+
+
+Pentium-II bzw. III-Rechner ab 400 MHz können bei Unterstützung durch
+die Graphikkarte DVDs in voller Qualität wiedergeben.
+
+
+DM 300.
+
+DVD arbeitet mit giftgrünem Laserlicht (565 nm ???) gegenüber den 780 nm
+(dark red) der CD. 780 nm sind genau die Grenze zwischen sichtbarem und IR.
+Sie sind noch relativ gut sichtbar.
+
+
+-- 
+Philipp Sehlmann

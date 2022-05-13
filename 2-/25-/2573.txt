@@ -1,0 +1,6 @@
+Danke für deine Hinweise. In meinem alten Stanze-Agent heißt die
+entsprechende Option "Threading nach Betreff ermöglichen". Ich habe
+sie mittlerweile deaktiviert. übrigens ist mein Beitrag mittlerweile
+"von ganz allein" (?) zu einem neuen Thread umgewandelt worden.
+
+mfG Thomas

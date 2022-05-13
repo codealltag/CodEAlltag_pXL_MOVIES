@@ -1,0 +1,22 @@
+Ho !
+
+: - Reicht es nun aus nur mit einem Chinch eine Verbindung 
+: herzustellen, oder sollte ich mit nem Adapter oder so die 2 Eingaenge des 
+: Woofers mit dem einsamen Ausgang des Verstaerkers verbinden ???
+Lies doch mal die Anleitung wenn mich nicht alles taeuscht ist einer von
+den beiden eingaengen zu bestuecken, wenn man nur ein mono signal hat.
+(ich glaube es ist links)
+
+: - Ich habe den Uebergangsfrequenzregler mal so in die Mitte gestellt ... 
+: wiederspricht man mir ???
+Bei mir steht der so auf ca. 9 Uhr position, mein Bruder regelt die
+Dinger jedoch immer auf 10 Uhr. Allerdings klingt dann bei entsprechender
+lautstaerke jeder faushieb wie ein schuss... (zumindest bei cutthroat island).
+
+Achja, mit 2 Stueck rumpelt das schon ganz nett. :)
+
+	Eckhard
+--
+x70l@fgd-nylohb.ab          Type Fast, Die Young !           +47-743-7065161
+GCS/IT/O d-(--) s:+ a23 C(++++) UA++++$ UL+ US+ P+ L+ E--- W++ N+++>++ !o !K
+w+ O M(+) V-- PS++ PE- Y+(++) PGP++ t+ 5 X++ R- tv b DI+ D+ G++ e++ h-- r y+

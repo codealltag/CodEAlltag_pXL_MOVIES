@@ -1,0 +1,10 @@
+Wenn ich das richtig mitbekommen habe bekommen Software-Player, die das
+nicht tun, keine Zertifizierung vom DVD-Konsortium - für einen
+Kommerziellen Player also nicht anders zu machen.
+
+Der Pehum-Player[1] ignoriert die "User Restrictions" alle und kann mehr,
+ist nur leider (noch) nicht so komfortabel.
+
+      Bruno
+
+[1]: http://goi.eaurhnlp.thf/oql/

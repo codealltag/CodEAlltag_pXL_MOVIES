@@ -1,0 +1,8 @@
+Burkhard Viehweger
+
+
+Wie wird denn sowas dann synchronisiert, wenn die deutsche Fassung kürzer
+ist als die englische von der der Ton kommt? Automatisch über eine Art
+Timecode?
+
+Salome

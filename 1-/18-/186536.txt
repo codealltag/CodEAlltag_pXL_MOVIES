@@ -1,0 +1,39 @@
+uoysq@wnckra.u.fqbkr.iz wrote at 11.09.98
+about the topic "Re: US DVD: "Prince of Darkness" Review":
+
+
+ das ist falsch - nur weil ein PCM signal gesendet wird, muss das nicht
+ zwangslauefig ueber den analogen weg geschickt werden
+ (wozu sonst gabe es diese sauteuren D/A wandler fuer CD Player)
+ so habe ich zur zeit meinen frontplay nur via digitalkabel verbunden und
+ dort wird ja nun auch sowohl DVD AC3 als auch DVD PCM (gibts auch)
+ als auch CD PCM abgespielt - alles als digital source - nix mit analog
+
+ mein DVD player haengt auch am digitalen CD Eingang - alles kein Problem
+ hier wird ebenfalls AC3 und PCM verarbeitet
+
+
+ ohne das ich den Zwickers jetzt kenne, bin ich mir 100% sicher das der
+ sowohl PCM als auch AC3 digitale Quellen an ALLEN DIGITALEN Eingaengen
+ verarbeiten kann - so etwas wie "digitale eingaenge fuer PCM" gibt es
+ an einem AC3 Vollverstaerker NICHT
+
+ aber was rede ich, probiers einfach aus, dann siehst bzw hoerst du es
+ ja selber
+
+
+ keine ahnung was du jetzt mit "analogem Verstaerker" genau meinst, aber
+ der Zwickers hat D/A Wandler und die koennen mit sicherheit nicht nur mit
+ einem AC3 datenstrom was anfangen sondern auch mit PCM
+ zumindest was das bei den diversen AC3 Verstaerkern die ich bis jetzt
+ getestet habe so, es wuerde mich doch stark wundern wenn der Zwickers hier
+ eine Aussnahme bilden wuerde
+
+ i.d.r. spricht man bei diesen verstaerken auch von einem
+ "digitalem AC3 Vollverstaerker"
+
+Bye
+ Carlo
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

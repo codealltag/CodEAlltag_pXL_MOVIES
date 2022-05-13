@@ -1,0 +1,9 @@
+iirc wurde oder wird das auch gemacht. Jedenfalls hatte meine RC1 von
+Fahradhof je nach Spracheinstellung auch englischen oder französichen
+Vor- und Abspann und auch Einbledungen wie Briefe wurden lokalisiert.
+
+Nick
+-- 
+Alles könnte hinkommen. Aber andere auf gar keinen Fall. Wir wokos
+sind Wokos und bleiben wokos. Woko ist einer, woko ist Viele. Woko
+ist Woko. "WoKo in dag"

@@ -1,0 +1,21 @@
+Senzenberg, Samstag, den 21.09.97
+
+Hallo Leute,
+
+Laurent (Methik.Uubrnvwint@Ljrqjxkztr.phugklc.xy) schrieb:
+
+TR> Brummen in meinen Boxen, wenn ich alles angeschlossen habe.
+
+ganz allgemein: Entweder alle Erdungen (bis auf eine) beseitigen oder  
+alles erden.
+
+Ersters geht nur, wenn geerdete Geraete ueber Trenntrafos betrieben  
+werden. Die eine Erde, die bleiben muss, ist die von der Antenne.  
+Schutzisolierte Geraete koennen bleiben, wie sie sind.
+
+Im zweiten Fall muessen alle schutzisolierten Geraete nachtraeglich am  
+Ausgang geerdet werden. Ferner muessen natuerlich alle Schukostecker
+und -dosen einwandfrei angeschlossen sein.
+
+
+Gruss - Peter Meyering

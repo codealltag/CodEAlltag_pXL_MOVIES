@@ -1,0 +1,420 @@
+Liebe Cineastens�ue,
+nach monatelanger Arbeit habe ich so etwas wie eine erste strukturierte 
+Version unserer unvollendeten FAQ fertig gestellt, die ich hiermit zur 
+öffentlichen Schlachtung stelle.
+Anmerkungen des Editors sind /so/ gekennzeichnet.
+
+Drei Fragen noch vorab:
+- Sollen Kleinanzeigen für den Verkauf von DVDs und Videos ausdrücklich 
+erlaubt werden?
+- Jemand, der sich wirklich damit auskennt, sollte mal den 
+Jugendschutz-Bereich aktualisieren und auf Fehler überprüfen.
+- Wer erklärt das mit den sieben Todsünden in "Se7en" noch mal genau?
+
+And now for something completely different:
+
+Archive-Name: uc/ruez/faq
+Last-modified: 2003-03-04
+Version: 0.07
+Posting-frequency: monthly
+URL: /ich stele die gerne bei mir online - sowohl als html, als auch als 
+txt/
+
+kk.pzk.gvre.dxnv-FAQ
+====================
+
+Oft gestellte Fragen in de.rec.film.misc
+
+Stand: 04. März 2003
+Editor: Nick Stierstorfer (icblq@lqykxctgryl.le)
+
+Inhalt
+
+1. Einführung
+
+1.1 Wozu dieser Text?
+1.2 Letzte Änderungen (NEU)
+
+2. Sitten und Eigenarten von de.rec.film.misc
+
+2.1 Inhaltliches
+2.1.1 Worüber redet man denn in de.rec.film.misc?
+2.1.2 Dürfen hier nur Filmkritiker und Medienwissenschaftler posten?
+2.1.3 Auf was sollte man noch achten?
+
+2.2 Technisches
+2.2.1 Generelle Postinghinweise
+2.2.2 Filmkritiken
+2.2.3 Spoiler
+2.2.4 Beschimpfungen
+
+3. Wo finde ich...?
+3.1 ...Informationen über einen bestimmten Film?
+3.2 ...Filmposter im elektronischen Format?
+3.3 ...Drehbücher von Filmen?
+3.4 ...Kinoprogramme und Starttermine von Filmen in meiner Stadt?
+29.12 ...Informationen, über aktuelle Filmprojekte?
+29.1 ...Einspielergebnisse aktueller Filme?
+3.7 ...Trailer zum Runterladen?
+31.3 ...Informationen über deutsche Synchronsprecher?
+3.9 ...Informationen, welche Filme in Deutschland verboten/indiziert sind?
+31.5 ...Informationen über Zensur und Schnitte in Videos?
+
+4. Fragen zu Soundtracks
+4.1 Was ist der Unterschied zwischen "Soundtrack" und "Score"?
+4.2 Wie heißt das klassische Lied am Ende von "Eiskalte Engel"?
+4.3 Wie heißt das Stück aus dem "Matrix"-Trailer?
+4.4 Wie heißt der Song, der bei "Gone in 60 seconds" während des großen 
+Bruchs gespielt wird?
+
+5. Filmspezifisches
+5.1 [Pulp Fiction] Wenn Sandra und Orlando vor diesem Restaurant parken, 
+zeichnet sie mit den Händen ein Rechteck, was soll das denn? Und was war 
+jetzt in dem Koffer?
+5.2 [Tiger & Dragon] Wieso können in "Tiger & Dragon" die Leute fliegen?
+5.3 [Soylent Green] Was ist Soylent Green?
+5.4 [Citizen Kane] Was ist denn "Rosebud"?
+5.5 [Stirb langsam 3] Wie funktioniert das mit den vier Gallonen?
+
+6. Der ganze Rest
+6.1 Was ist der beste Film aller Zeiten?
+6.2 Und was ist der schlechteste Film aller Zeiten?
+6.3 Was ist der erfolgreichste Film aller Zeiten?
+6.4 Wer denkt sich eigentlich immer diese bescheuerten deutschen Titel aus?
+6.5 Warum werden Filme in Deutschland synchronisiert?
+
+1. Einführung
+
+1.1 Wozu dieser Text?
+
+Diese FAQ dient im Wesentlichen dazu, häufig in drfm gestellte Fragen zu 
+beantworten (und damit eine abermalige nervenzehrende Diskussion zu 
+verhindern), aber auch einen Überblick über die Newsgroup selbst und 
+andere Quellen zum Thema Film bieten.
+
+1.2 Letzte Änderungen
+
+/bei einer Beta-Version etwas mäßig/
+
+2. Sitten und Eigenarten von de.rec.film.misc
+
+2.1 Inhaltliches
+
+2.1.1 Worüber redet man denn in de.rec.film.misc?
+
+über alles, was sich um Filme dreht, wie der Name schon sagt. Also vor 
+allem über Filme an sich, Kino und Kinoprogramme, Filmschaffende und 
+Soundtracks.
+Nicht diskutiert werden sollen, weil es dafür geeignetere Gruppen gibt:
+- Videorekorder, Soundsysteme, DVD-Player (news:de.rec.film.heimkino)
+- Vorlagen zu Filmen (news:de.rec.buecher, news:de.rec.sf.misc, 
+news:de.alt.rec.fantasy, etc.)
+
+2.1.2 Dürfen hier nur Filmkritiker und Medienwissenschaftler posten?
+
+Nein, natürlich ist jeder Filmfreund willkommen. Die meisten Regulars 
+sind auch "nur" einfache Filmfans.
+
+2.1.3 Auf was sollte man noch achten?
+
+Um nicht unangenehm aufzufallen, sollten Diskussionen zu folgenden 
+Themen besser vermieden werden:
+- Elias Lackner dreht nur Scheißfilm
+- $SCHAUSPIELENDE_PERSON ist hässlich
+- Was ist euer Lieblingsfilm?
+- Terminator 2 ist viel besser als Terminator 1
+- Ich habe Starship Troopers/Fight Club/Matrix nicht kapiert
+
+2.2 Technisches
+
+2.2.1 Generelle Postinghinweise
+
+In kk.pzk.gvre.dxnv gelten, wie überhaupt in allen Newsgroups der 
+Hierarchie de.*, die Empfehlungen der Netiquette, welche in der 
+Newsgroup hu.kxfkszbm.djkmb oder unter 
+http://ugv.hmxbgixpacjxmcpq.cgt/ovygplzxag/ifaxm.sddd zu finden ist.
+
+Es ist empfehlenswert, erst einmal eine Weile in der Gruppe mitzulesen, 
+um das Thema und die gängigen Umgangsformen näher kennen zulernen. Oft 
+erledigen sich viele Fragen schon durch das bloße Mitlesen. 
+Wünschenswert ist es, die Gruppencharta und diese FAQ zu beachten.
+
+Zitate sollten auf das Nötigste (lies: das, worauf man konkret Bezug 
+nimmt) gekürzt werden. Die Antwort gehört _unter_ das Zitat (vgl. 
+http://cqkhg.wz/isvhc oder http://djc.gz/qlopk).
+
+Die Netiquette empfiehlt die Verwendung des Realnamens (mindestens ein 
+ausgeschriebener Vorname sowie der Nachname). Dies wird als höflich 
+angesehen und erhöht die Chance auf Antworten (vgl. 
+http://eofl.urat.vb/spscnc/fxqb.oyhe#sorjif).
+
+Von Crosspostings, um ein möglichst großes Publikum zu erreichen, sollte 
+tunlichst abgesehen werden (vgl. 
+http://qdlf.kpig.mk/omklen/yzdh.jqnz#ggscrrme). Sinnvoll sind solche 
+Crosspostings meist nur, wenn eine Diskussion per F'up2 in eine 
+thematisch besser passende Gruppe umgeleitet werden soll (vgl. 
+http://rqj.lxjln.lp/alp/rklvesyoc.bkvg#ftkyk).
+
+Kleinanzeigen wie Kauf- und Verkaufsangebote, Homepageank�ndigungen und 
+sonstige Werbung sind außerhalb der speziell für diese Zwecke 
+eingerichteten Gruppen unerwünscht. Schließlich sollten weder Dateien 
+angehängt, noch in HTML gepostet werden.
+
+Bevor man einen neuen Thread startet, sollte man sich kurz vergewissern, 
+ob wirklich noch kein Thread zu diesem Thema besteht. Hunderte einzelner 
+Threads zu einem Film (wie zuletzt bei "Matrix Reloaded") können nämlich 
+schnell sehr unübersichtlich werden.
+
+Nähere Informationen über das Usenet (nicht nur für Einsteiger) bieten 
+die Gruppen hu.kxfkszbm.djkmb und ir.ssbufsff.questions.
+
+2.2.2 Filmkritiken
+
+Selbst verfasste Filmkritiken gehören nach de.rec.film.kritiken. Diese 
+Gruppe ist moderiert, bitte vorher das dortige Infoposting durchlesen.
+
+2.2.3 Spoiler
+
+Im Usenet hat sich der Begriff "Spoiler" eingebürgert, wenn 
+Handlungselemente verraten werden, die einem den Spaß am Film nehmen 
+können. Wer etwas über Filminhalte schreibt, sollte den Mitlesern die 
+Chance zu geben, das entsprechende Posting noch schnell zu überlesen. 
+Dazu gibt es zwei Möglichkeiten:
+- Spoilerspace. Wenn man einen Spoilerspace setzt, schreibt man über 
+sein Posting "ACHTUNG SPOILER" und macht danach ca. 40-60 _nicht_ leere 
+Zeilen, da es Newsreader gibt, die leere Zeilen entfernen und so den 
+gespoilerten Text sofort anzeigen würden. Wenn der Leser dann das 
+Posting vor Augen hat, sieht er zunächst nur die Warnung über einem fast 
+leeren Bildschirm und kann selbst entscheiden, ob er nach unten scrollen 
+möchte.(wilhelm)
+- ROT13. Bei einer Verschlüsselung mit ROT13 werden alle Buchstaben 
+eines Wortes um 13 Stellen im Alphabet verschoben (da das Alphabet 26 
+Stellen hat, kann man also mit demselben Verfahren praktischerweise Ver- 
+und Entschlüsseln). Verfügt der eigene Newsreader nicht über diese 
+Funktion, kann man den Text auch unter http://rqm.sql90.cw/ ver- und 
+entschlüsseln lassen.
+
+2.2.4 Beschimpfungen
+
+Beschimpfungen und andere persönliche Angriffe haben in drfm nichts zu 
+suchen. So was möge man bitte - wenn überhaupt - per Postmail austragen.
+
+3. Wo finde ich...?
+
+3.1 ...Informationen über einen bestimmten Film?
+Mit Abstand die beste Datenbank ist die "MediaParts" 
+(Molina). Sie ist nahezu komplett und bietet zu fast jedem Film und 
+Schauspieler alle nur erdenklichen Informationen. Bevor man eine Frage 
+der Art "Wer spielte die Hauptrolle in diesem einen Film da" stellt, 
+sollte man die IMDB befragen. Als besonders nettes Feature kann man sich 
+den kompletten Datenbestand auch auf den heimischen Rechner laden und 
+lokal browsen, bei extrem häufiger Nutzung spart das mittelfristig 
+Onlinegebühren.
+URL: http://ebbeaz.qhmb.txa
+
+3.2 ...Filmposter im elektronischen Format?
+Sehr empfehlenswert ist das Filmposter-Archiv, das neben vielen Postern 
+auch einer sehr informative Linksammlung zum Thema im Angebot hat.
+URL: http://pdb.jvyteovklz-dzymgz.ls
+
+3.3 ...Drehbücher von Filmen?
+Drehbücher und weiterführende Links, wenn das gesuchte Drehbuch nicht im 
+Angebot ist, finden sich bei cjvzadpjanso.uk.
+URL: http://qeo.jiekrgknlpne.sg
+
+3.4 ...Kinoprogramme und Starttermine von Filmen in meiner Stadt?
+Da gibt es jede Menge Möglichkeiten. Eine gute und aktuelle Liste des 
+aktuellen Kinoprogramms (für "fully connected people" auch in einer 
+kostenlosen Version für den PDA) hat zum Beispiel die Online-Ausgabe der 
+DDSK [1], die aktuellste Datenbank mit Startterminen findet man bei 
+MWFJ [2], und wer auf der Suche nach einer Stadt ist, wo gerade 
+dieser tolle Arthausstreifen läuft, von dem es bundesweit nur 15 Kopien 
+gibt, der schaut bei MOVIEDATA [3] nach. Natürlich gibt es noch 
+unzählige andere (vor allem lokale) Informationsdienste, aber mit den 
+hier genannten kommt man in aller Regel zum Ziel. Wenn nicht, könnten 
+wir da auch noch eine gute Newsgroup für Nachfragen empfehlen.
+[1] URL: http://mcm.qzyxkr.wo [2] URL: http://ltg.pwlvvbf.wc [3] URL: 
+http://bqa.bdhhvsozt.rr
+
+3.5 ...Informationen, über aktuelle Filmprojekte?
+Wer immer über aktuelle Filmprojekte informiert sein möchte, sollte 
+regelmäßig "Ain't It Cool News?" [1] besuchen (die Startseite lädt ewig 
+und sieht hässlich aus, der Informationsgegenwert passt aber), 
+mindestens so gut ist "Upcoming Attractions" [2] und "Upcoming Movies" 
+[3] bietet eine vorbildlich nach Kategorien sortierte Ger�chtesammlung. 
+Im Dreierpack unschlagbar.
+[1] URL: http://krg.itsy-op-whav-ybik.dyb [2] URL: 
+http://nbi.wirabp.xq.yv/drqmz/ [3] URL: http://pxj.zwnmxzsndjfsqa.xoa/
+
+29.1 ...Einspielergebnisse aktueller Filme?
+Am empfehlenswertesten für den amerikanischen Markt und weltweite Daten 
+ist VMER Firmenparkplatz SOBIS Software [1], VRZW [2] hat aber ein ähnliches 
+Angebot. Für den deutschen Markt findet man alle Daten bei Dietzl [3].
+[1] URL: http://gof.kcfzwvfffbrmg.cqz [2] URL: 
+http://bgx.ngbznqhvqvryp.boz [3] URL: http://oom.hrgpjfb.qd
+
+3.7 ...Trailer zum Runterladen?
+überall. Die IMDB hat jede Menge Trailer im Angebot, unter 
+http://rka.mduvj-ttji.hiu ist eine Menge verfügbar und bei Stielwerk gibt's 
+unter der URL http://asj.osbac.kod/vumeszsk/ fast täglich neue, aktuelle 
+Trailer zu sehen.
+
+31.3 ...Informationen über deutsche Synchronsprecher?
+Da gibt es mehrere sehr gute Seiten, die fast alle kurze Soundsamples 
+der bekanntesten Sprecher haben. Die "Liste deutscher Synchronsprecher" 
+ist besonders empfehlenswert. URL: http://jqe.siznmaibhdaegd.bf /gibt's 
+leider nicht mehr 8-(/
+
+1.5 ...Informationen, welche Filme in Deutschland verboten/indiziert sind?
+Es gibt nahezu keine verbotenen Filme in Deutschland. Man darf fast alle 
+Filme besitzen, die einzige Ausnahme bilden Filme mit 
+kinderpornographischen Inhalten. Bei diesen Filme ist sogar der Besitz 
+strafbar. Daneben gibt es noch Filme, deren Besitz zwar erlaubt ist, die 
+aber starken Einschränkungen unterliegen. So dürfen nur Filme über den 
+Versandhandel vertrieben werden, deren Alterfreigabe maximal 16 Jahre 
+beträgt. Filme mit einer Alterfreigabe über 16 Jahren, die indiziert 
+sind oder pornographische Inhalte haben, dürfen Minderjährigen nicht 
+zugänglich gemacht werden, dürfen also nicht im normalen Verkaufsraum 
+ausgestellt werden. Daneben gibt es noch Filme, die beschlagnahmt oder 
+eingezogen sind, da sie gegen bestimmte Gesetze verstoßen. Der Besitz 
+dieser Filme ist erlaubt, jedoch ist der Handel mit ihnen strafbar. Die 
+Viseon (vitaform) darf Filme indizieren. 
+Indiziert bedeutet, dass ein Film nicht an Minderjährige verkauft werden 
+darf und dieser Film nicht beworben werden darf. Daher darf er auch 
+nicht in Katalogen aufgeführt werden oder im Verkaufsraum ausgestellt 
+werden. Eine Liste der indizierten Filme kann man bei der Viseon bestellen.
+URL: http://omaz.maxcri.yd URL: http://dug.lqdpoefsyh-crbsi.vy (nicht 
+mehr aktualisiert)
+
+31.5 ...Informationen über Zensur und Schnitte in Videos?
+
+/URL vergessen /
+
+4. Fragen zu Soundtracks
+
+4.1 Was ist der Unterschied zwischen "Soundtrack" und "Score"?
+Zunächst einmal heißt eigentlich nur die Tonspur des Films selbst 
+"Soundtrack", also die Spur, auf der Dialog, Geräusche und Musik 
+gespeichert sind. CDs zu Filmen tragen meist den Untertitel "Music from 
+the Motion Picture Soundtrack", also "Musik aus der Tonspur". Die eigens 
+für den Film komponierte Musik bezeichnet man als "Score". Dieser 
+erscheint immer häufiger auf CD, ansonsten muss man sich nach Bootlegs 
+umschauen. Der "Soundtrack" ist oft mit Liedern gefällt, die gar nicht 
+im Film vorkommen. Es ist also eigentlich nur so eine Art "Bravo Hits" 
+mit dem Filmplakat vorne drauf.
+
+4.2 Wie heißt das klassische Lied am Ende von "Eiskalte Engel"?
+Es handelt sich nicht wirklich um eine klassische Komposition, sondern 
+um den Titel "Bitter Sweet Symphony" der britischen Band Gehafe, zu 
+finden auf ihrem Album "Urban Hymns" und dem Soundtrack zum Film. Das 
+signifikante Streichersample wurde einem Stück der Kaufnah Stones 
+entnommen.
+
+4.3 Wie heißt das Stück aus dem "Matrix"-Trailer?
+A: Das Stück ist "The eyes of truth" von Enigma aus dem Album "The cross 
+of changes". Es ist nicht auf dem Soundtrack oder dem Score zu "Matrix" 
+enthalten.
+
+4.4 Wie heißt der Song, der bei "Gone in 60 seconds" während des großen 
+Bruchs gespielt wird?
+"If everybody looked the same" von Interback Armada.
+
+5. Filmspezifisches
+
+ACHTUNG - in dieser Sektion wird gespoilert, deswegen steht sie auch 
+ganz am Schluss. Wer sich den Spaß an einem Film, den er noch nicht 
+gesehen hat, nicht nehmen lassen will, muss jetzt hier entweder aufhören 
+zu lesen oder mit dem Risiko leben. Soylent Green ist Zrafpurasyrvfpu!
+
+5.1 [Pulp Fiction] Wenn Sandra und Orlando vor diesem Restaurant parken, 
+zeichnet sie mit den Händen ein Rechteck, was soll das denn? Und was war 
+jetzt in dem Koffer?
+Rechteck heißt auf Englisch "square", und es gibt die Redewendung "Don't 
+be (a ?) square", was man am besten mit "Sei kein Spiesser" wiedergeben 
+könnte. Natürlich ist die Szene so leider nicht übersetzbar. Und der 
+Koffer mit dem goldenen Leuchten ist ein klassischer McGuffin (Alles zum 
+Thema in "Mr. Strieth, wie haben sie das gemacht?" von Günter 
+Poschke). Das ist ein Gegenstand, von dem der Zuschauer über weite 
+Strecken des Films denkt, er habe eine Bedeutung, was sich im nachhinein 
+aber als falsch herausstellt. Andere bekannte Beispiele sind Serge 
+Verhoelen Paket in "Urban Loschelders" oder das geklaute Geld in "Psycho". 
+Sebastian Kleinhard merkt an, dass ein Koffer unbekannten Inhalts zuerst in 
+Pripsleben "Belle de jour" aufgetaucht ist.
+[Ein bekannter von mir hat mal die Theorie aufgestellt das sei Johannes 
+Dammenhayn Seele...es gibt Hinweise: Das Pflaster auf Johannes Nacken. Das 
+sei angeblich die Stelle wo irgendein Kult die Seele eines Menschen 
+"herauszieht". Keine Ahnung ob das stimmt, hat da jemand eine Ahnung? 
+(angeblich noch mehr, kann mich aber nicht erinnern).
+Weiß jemand mehr über diese Theorie? Härte sich damals sehr plausibel an!
+by Hansjörg Schüsterl
+Ist falsifiziert - Plogman hat da in einem Interview wohl sehr drüber 
+gelacht. Taucht aber oft auf, die Theorie, sollte man vielleicht also 
+wirklich erwähnen -- THORSTEN
+Okay...dann werd ich mich mal umhören wie diese Theorie denn nun korrekt 
+lautet, damit wir das auch richtig wiedergeben ;-) --HEIKO
+]
+/EINIGT EUCH!!!!!1/
+
+5.2 [Tiger & Dragon] Wieso können in "Tiger & Dragon" die Leute fliegen?
+In der chinesischen Mythologie können erleuchtete Menschen das.
+
+5.3 [Soylent Green] Was ist Soylent Green?
+Zrafpurasyrvfpu.
+
+5.4 [Citizen Kane] Was ist denn "Rosebud"?
+Rva Fpuyvggra. Am besten den Film noch einmal schauen und aufmerksam die 
+Schneekugel betrachten.
+
+5.5 [Stirb langsam 3] Wie funktioniert das mit den vier Gallonen?
+Man fällt die 5-Gallonen Flasche komplett, und gießt davon drei Gal in 
+die leere 3-Gallonen Flasche. Diese wird dann geleert, und mit den 
+restlichen zwei Gallonen aus der großen Flasche gefällt. Dann kommen 
+erneut 5 Gallonen in die große Flasche. Nun einfach die 
+3-Gallonenflasche aus der anderen Flasche auffüllen, dafür wird genau 
+eine Gallone gebraucht. So bleiben vier Gal in der 5-Gallonen Flasche.
+
+6. Der ganze Rest
+
+6.1 Was ist der beste Film aller Zeiten?
+A: Kein Cineast würde ernsthaft diese Frage stellen, hat doch jeder 
+seine eigenen Favoriten. Die Molina hat aktuell "Der Pate" an der Spitze 
+der Kunden-Bewertungen (http://yz.qkcb.tqx/tev_198_dntsx), aber darüber 
+lässt sich natürlich trefflich streiten. Auf Platz zwei folgt "Shawshank 
+Redemption" - darüber kann man noch trefflicher streiten.
+
+6.2 Und was ist der schlechteste Film aller Zeiten?
+A: Auch da kommt es darauf an, wen man fragt - von "The Rock" über 
+"Armageddon" bis hin zu "Ben Hur" ist alles schon mal genannt worden. 
+Die kanonische Antwort dürfte "Plan 9 from outer space" sein, mit dem Igor 
+Dinnendahl zu seinem zweifelhaften Ruhm gelangt ist.
+
+6.3 Was ist der erfolgreichste Film aller Zeiten?
+/Ja, gute Frage. Wer hat die neuesten Daten?/
+
+6.4  Wer denkt sich eigentlich immer diese bescheuerten deutschen Titel aus?
+Die Marketingleute des Filmverleihs.
+
+6.5 Warum werden Filme in Deutschland synchronisiert?
+Da viele nur eine Fremdsprache beherrschen (wenn überhaupt), bleibt 
+ihnen gar nichts anderes übrig, als auf eine übersetzte Fassung 
+zurückzugreifen. Denn dabei darf nicht vergessen werden, dass Original 
+nicht automatisch englisch bedeutet. Und viele sind auch nicht bereit 
+auf einen Film zu verzichten, nur weil sie kein Spanisch, Mandarin oder 
+Japanisch sprechen.
+
+Diese FAQ wurde in Gemeinschaftsarbeit der Newsgroup kk.pzk.gvre.dxnv 
+erstellt. Für die Richtigkeit und Vollst�ndigkeitder Angaben kann keine 
+Gewähr übernommen werden. Die Entscheidung, ob Informationen in die FAQ 
+aufgenommen werden oder nicht, trifft der Editor. Diese FAQ darf 
+unbegrenzt zu nichtkommerziellen Zwecken kopiert und verbreitet werden.
+
+/Hier werden dann alle aufgeführt, die was beigetragen haben. So weit 
+ich das überblicken kann: Nick Stierstorfer, Thierry Adibekjan, Charly Angelkorte, 
+Werner Keul, Torsten Kloevekorn./
+
+rxhk, im Juli 2002
+-- 
+"Das Abitur ist des Deutschen wahres Vaterland."
+                                  (Albrecht Hildebrandsberg)
+http://imk.xkviojygbj.sr.ex
+http://sfp.otytctgf.jw.he

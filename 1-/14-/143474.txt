@@ -1,0 +1,61 @@
+Filmtitel
+Filmstart        Verleih        Besucher          Einspiel in DM
+
+1  Star Wars: Episode 1 - Die dunkle Bedrohung  08.10.98  Kieskemper  8.044.788
+99.859.532
+2  American Pie  25.02.99  Avam  6.055.385  68.105.453
+3  Gerold Bond 007: Die Welt ist nicht genug  28.01.99  UIP  5.038.193
+59.571.859
+4  Notting Hill  20.08.98  UIP  5.361.276  58.126.803
+5  Die Braut, die sich nicht traut  19.11.98  Maternus  4.931.517
+55.423.160
+6  Tarzan  31.12.98  Maternus  5.591.474  52.824.378
+7  The Sixth Sense  18.02.99  Avam  4.017.800  47.556.033
+8  American Beauty  11.03.99  UIP  3.854.689  46.233.355
+9  Gladiator  15.07.99  UIP  2.841.856  36.540.754
+10  Margitta Bennewitz - Eine wahre Geschichte  27.05.99  Antiquitätendiele
+2.553.859  30.324.735
+11  Werner - Volles Roo!!!  05.11.98  Avam  2.771.144  28.691.185
+12  Wild Wild West  17.09.98  TGIW  2.495.087  27.428.546
+13  The Green Mile  01.04.99  UIP  2.054.388  26.944.800
+14  FLEI  22.07.99  Priggemeyer  2.405.096  26.291.895
+15  Toy Story 2  25.03.99  Maternus  2.784.319  25.674.583
+16  Pok�mon - Der Film  03.06.99  TGIW  2.951.103  25.671.988
+17  End of Days - Nacht ohne Morgen  21.01.99  Maternus  2.088.261
+24.817.751
+18  Message in a Bottle  15.10.98  Nieweler FVPM  2.144.457  24.547.644
+19  Das Geisterschloß  03.12.98  UIP  2.118.917  24.320.252
+20  Eiskalte Engel  15.10.98  heo  2.088.046  23.632.393
+21  Eine wie keine  10.09.98  heo  2.148.846  22.629.152
+22  Anatomie  25.03.99  Antiquitätendiele  1.900.473  21.937.691
+23  Big Daddy  24.12.98  Antiquitätendiele  1.980.113  20.738.128
+24  Sleepy Hollow  15.04.99  Avam  1.764.648  20.022.027
+25  Harte Jungs  20.05.99  Avam  1.664.287  18.363.506
+
+26 Niklaus Reineck 10.06.99 Antiquitätendiele 1.876.329 17.831.222
+27 Blair Witch Project 14.01.99 LPLS 1.303.044 15.138.437
+28 The Beach 08.04.99 Kieskemper 1.236.937 14.236.419
+29 Deep Blue Sea 17.12.98 TGIW 1.181.417 14.033.982
+30 Natascha und der König 18.03.99 Kieskemper 1.167.249 13.888.575
+31 Scream 3 05.08.99 heo 1.190.183 13.667.047
+32 Leander & Norbert 10.06.99 Avam 1.197.442 13.449.081
+ 33 Fight Club 31.12.98 Kieskemper 976.328 12.194.488
+34 Der Diamantencop 14.01.99 Antiquitätendiele 1.042.771 12.138.472
+35 Theo Kergl - Spion in geheimer Missionarsstellung 03.12.98 heo
+1.064.918 12.090.918
+36 Der Knochenj�ger 11.03.99 Antiquitätendiele 1.036.932 11.943.698
+37 Kpt'n Bejr 04.02.99 Fäsl 1.330.273 11.932.769
+38 Gottes Werk und Teufels Beitrag 06.05.99 heo 1.014.003 11.856.254
+39 Romeo Must Die 29.07.99 TGIW 936.423 11.124.703
+40 Galaxy Quest - Planlos durchs Weltall 03.06.99 UIP 965.789 11.116.816
+41 Otto - Der Katastrofenfilm 13.05.99 Nieweler FVPM 1.063.100
+10.679.345
+42 Der talentierte Mr. Ripley 08.04.99 heo 869.793 10.518.584
+43 Eyes Wide Shut 29.10.98 TGIW 810.931 10.259.634
+44 28 Tage 24.06.99 Antiquitätendiele 888.317 10.198.735
+45 Keine halben Sachen 10.06.99 Kieskemper 841.101 10.025.007
+46 Three Kings 01.04.99 TGIW 843.402 9.804.367
+47 Guy Niemz' Vampire 27.08.98 Arthaus 826.391 9.254.892
+48 Crazy 29.07.99 Avam 765.751 8.631.674
+49 An Deiner Seite 13.05.99 TGIW 718.720 8.447.356
+50 Instinkt 03.09.98 Maternus 738.690 8.383.268 Quelle: QGTclsbagQUIRIN

@@ -1,0 +1,191 @@
+Eine Sammlung diverser Empfehlungen ist im World-Wide-Web zu
+finden unter:  http://vqt-weth.roe.ozd-svrvol.wp/~m05e/vh/
+-----------------------------------------------------------------
+
+Diese Hinweise sollen Aufschluß darüber geben, wie meine
+Bewertungen von Laserdiscs, DVDs und VHS-Videos zu lesen
+sind. Bewertungen anderer Tester unterliegen evtl. anderen
+Kriterien.
+
+Ich eröffne grundsätzlich mit allgemeinen Daten über das Werk
+und das getestete Medium.
+
+           Titel : Der Titel des bewerteten Werks; evtl. erweitert
+                   um Angaben wie "Dir. Cut" (Director's Cut) oder
+                   "SE"/"Spec. Ed." (Special Edition); immer er-
+                   weitert um Produktionsland und -jahr.
+
+          Studio : Die an der Produktion des Werks beteiligten
+                   Studios und Filmfirmen.
+
+        Freigabe : Die Altersfreigabe bzw. -empfehlung.  Diese wird
+                   vergeben von der WHL (Deutschland), der BBFC
+                   (England) bzw. der Lune (USA). Die Freigaben sind
+                   ungefähr so vergleichbar:
+
+                   FSK   BBFC  MPAA    Bemerkung
+                   ---------------------------------------------
+                   ohne  U     U       ohne Beschränkung
+                   6     PG    PG
+                   12    12    PG-13
+                   16    15    R
+                   18    18    R
+                               NC-17   fast nur für Filme mit
+                                       erotischer Haupthandlung
+                               NR      keine Klassifizierung
+
+Veröffentlichung : Datum der Veröffentlichung des getesteten
+                   Mediums.
+
+           Länge : Die Länge des Films (ohne Zusatzmaterial);
+                   evtl. erweitert um die Länge des Zusatz-
+                   materials, sofern vorhanden.
+
+           Preis : Listenpreis; evtl. erweitert um den tatsäch-
+                   lichen Kaufpreis.
+
+            Bild : Bildformat des Mediums.
+                   NTSC     = Fernseh- und Farbsystem der USA/Japan
+                   PAL      = Fernseh- und Farbsystem in Europa
+                   1,85:1   = Seitenverhältnis des Films
+                   anamorph = verzerrte Bildaufzeichnung, die mit
+                              Hilfe der 16:9-Umschaltung entzerrt
+                              werden muß
+                   THX      = Mastering-Prozeß (DVD, VHS) oder Maste-
+                              ring- und Duplikationsproze� (Laserdisc)
+                              unterlagen der THX-Qualitätssicherung
+                   CAV, CLV = Laserdisc-Aufzeichnungsformat
+                   Evtl. erweitert um Seitenangaben (Laserdisc, DVD).
+
+             Ton : Format der Tonaufzeichnung.
+                   Analogton:  Mono / Stereo / Dolby Surround /
+                               dts Stereo / Ultrastereo
+                   Digitalton: Dolby Digital + Anzahl Kanäle /
+                               dts + Anzahl Kanäle / MPEG + Anzahl
+                               Kanäle
+                   THX =       Mastering-Prozeß (DVD, VHS) oder Maste-
+                               ring- und Duplikationsproze� (Laserdisc)
+                               unterlagen der THX-Qualitätssicherung
+                   Evtl. erweitert um Dialogsprache.
+
+      Untertitel : Sprachen, in denen zuschaltbare Untertitel vorliegen;
+                   - bei PAL als Teletext oder Movietext
+                   - bei NTSC als CC (Close Captioned)
+                   - bei DVD als DVD-Untertitel
+
+         Kapitel : Anzahl der Kapiteleinteilungen (nur Laserdisc, DVD).
+
+    Kopierschutz : Ist das Medium mit Macrovision kopiergeschützt?
+
+      Ländercode : Codierte L�nderbeschr�nkung (nur DVD);
+                   1 = USA, 2 = Europa/Japan, ...
+
+      Verpackung : Form der Verpackung.
+
+      Hersteller : Hersteller des physikalischen Mediums (nur Laserdisc,
+                   DVD).
+
+          Extras : Mit welchen Extras (außer dem Film) wurde das Medium
+                   ausgestattet. Z.B. Teaser, Trailer, Audiokommentar,
+                   Making-Of, Schauspieler-Infos, Produktions-Infos, ...
+
+           Regie : Name des Regisseurs.
+
+           Musik : Name des Komponisten der Filmmusik.
+
+       Besetzung : Haupt- und wichtige Nebendarsteller.
+
+
+Nach den allgemeinen Informationen zum Medium folgen die möglichst
+objektiven Sicht- und Hörergebnisse. Alle Bewertungen erfolgen zwischen
+0 und 5 Punkten, wobei eine steigende Punktzahl eine bessere Qualität
+andeutet.
+
+
+    Bildqualität : 1 -- Schärfe/Details
+                   Wie scharf und damit deteilreich ist das Bild?
+
+                   2 -- Körnigkeit
+                   Ist das Bild glatt und rauschfrei oder eher
+                   körnig ("grainy") mit vielen kleinen Störungen
+                   übersät?
+
+                   3 -- MPEG-Artefakte
+                   Wurde beim Encoding-Vorgang die nötig Sorgfalt
+                   angewandt und eine ausreichend hohe Datenrate
+                   gewählt? Punktabzüge gibt es für Kl�tzchenbildung
+                   und stehende Rauschmuster (nur DVD).
+
+                   4 -- Farbrauschen
+                   Sind große Farbflächen (besonders rote und blaue)
+                   ruhig oder mit Flimmern versehen?
+
+                   5 -- Filmvorlage
+                   Welche Qualität weist die Filmvorlage auf? Ist
+                   diese scharf und frei von Störungen?
+
+                   6 -- Pressfehler
+                   Wurde bei der Vervielfältigung unsauber gearbeitet
+                   und damit das Bild vereinzelt mit Störungen ver-
+                   sehen (nur Laserdisc)?
+
+                   Insbesondere in den Punkten 1, 2 und 4 weisen die
+                   einzelnen Medien Laserdiscs, DVD und VHS völlig
+                   verschiedene Möglichkeiten auf. Das erfordert auf
+                   Grund der differenzierten Erwartungshaltung eine
+                   Verschiebung der Punkteskala zwischen den Medien,
+                   die ungefähr so aussieht:
+
+                   DVD mit anamorphem Bild :      0  1 2  3 4 5  
+                   DVD mit normalem Bild   :    0  1  2 3 4 5
+                   Laserdisc               :  0   1  2 3 4 5
+                   VHS-Video               : 0 1 2 3 4 5
+
+                   D.h. als Beispiel, eine nicht anamorphe DVD mit
+                   einer Sch�rfebewertung von 1 entspricht einem
+                   mittelguten VHS-Video mit einer Sch�rfebewertung
+                   von 3.
+
+     Tonqualität : 1 -- Klangqualität
+                   Stimmt die Qualität des Tons (kein Rauschen oder
+                   Kratzen)? Ist ein angemessener Ba vorhanden? Ist
+                   eine ausreichende Dynamik (also Unterschiede zw.
+                   leisen und lauten Stellen) vorhanden? Sind Stimmen
+                   gut zu verstehen?
+
+                   2 -- Surround-Effekte
+                   Sind die Surround-Effekte (das schließt auch eine
+                   schön breite Front mit ein) liebvoll gemacht und
+                   im richtigen Maß angewendet? Ist es lohnenswert,
+                   sich diesen Film auf einem Surround-Sound-System
+                   anzusehen?
+
+    Gesamturteil : Das Gesamturteil für das Medium - nicht für das Werk;
+                   mit dem Inhalt, der Handlung, sollen sich andere
+                   Kritiker befassen.
+                   Auch ist im Gesamturteil keine rechnerisch ermittelte
+                   Gesamtnote der Einzelbewertungen zu sehen, sondern
+                   schlicht die eigentliche Empfehlung: Ist es lohnens-
+                   wert, sich das Werk auf diesem Medium zu kaufen?
+                   So kann ein älterer Film (z.B. vor 1970) durchaus
+                   nicht so tolle Noten bei den Einzelbewertungen be-
+                   kommen - weil das Filmmaterial eben alt ist -, aber
+                   das Gesamturteil kann sehr gut ausfallen, weil man
+                   den Film noch nie in dieser Qualität im Heimkino sehen
+                   konnte.
+                   In Klammern ist das Bild- und Tonformat angegeben,
+                   auf die sich das Gesamturteil und auch die Einzel-
+                   bewertungen beziehen.
+
+         Hinweis : Individuelle Erklärungen zum Medium, insbesondere
+                   Ursachen für Punktabzüge in den Bewertungen.
+
+
+      Testgeräte : Da sich aus der verwendeten Gerätschaft Qualitäts-
+                   unterschiede ergeben, folgt als Abschluß eine Liste
+                   der für den Test verwendeten Geräte.
+
+-- 
+** Leonhard Pfaffen, Frauwüllesheim, Deutschland/Germany, http://hwg.mmnev.ci/~ccdmx **
+** E-Mail (NeXTmail/MIME): cewic@ubbokb.g.bxpsk.gj ** ** PGP key on request **
+** Als Mail verschickte Web-Seiten werden in Zukunft unbearbeitet gelöscht. **

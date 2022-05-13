@@ -1,0 +1,36 @@
+Moin Valentin,
+
+
+Ich nutze auch trotz DSL sehr gerne die amdb, weils fix geht und in
+meinen Augen übersichtlicher ist.
+
+Zu deinem Problem kann ich nichts sagen, möchte aber ein anderes Problem
+schildern.
+Ich bin momentan wieder zurückgegangen auf meine db vom Frühjahr, weil
+ich nach dem download der files vor ein paar Wochen und der daraus
+generierten neuen db zwei Dinge bemerkte:
+
+-die Umstrukturierung des TV-Krams ist durchweg negativ. Weniger
+Detailinformationen als vorher und manche Titel lassen sich nur noch
+sehr schwer finden. So bspw. die Oscar-prämierte Doku "Battle over
+Citizen Kane", die nicht mehr, wie es nahe liegen sollte, über diesen
+Titel auffindbar ist, sondern hinter dem Titel der Dokumentations-Serie
+verschwunden ist, von der sie offensichtlich ein Teil ist.
+Wer kommt denn auf die Idee oder hat das Wissen, nach "The american
+experience #8.7" zu suchen, wenn er diese berühmte Dokumentation
+nachschlagen möchte? Auch online landet man bei der Titelsuche beim
+24. 03. 22 "RKO 281: The Battle Over Citizen Kane".
+
+-zufällig stellte ich beim Nachschlagen von Vass-Titeln wie 'El
+topo' oder 'Holy mountain' fest, dass dort als director nun ein "Jan
+Vass" anstatt John geführt wird. Online ist momentan das
+Personal allerdings korrekt angegeben.
+
+Kannst du evtl. mal schauen, ob bei deiner aktuellen Datenbank dieser
+letzte Fehler immer noch auftaucht und ob die 'Battle'-Doku evtl. wieder
+_normal_ zu finden ist? Ansonsten verzichte ich fortan auf aktualisierte
+files für die amdb und schlage neue Filme online nach. Wer weiß, wo da
+noch andere Fehler schlummern.
+
+Aloah,
+Vdzk

@@ -1,0 +1,60 @@
+am Monday 02. 04. 22 19:04 schrieb Giovanni Uhlein:
+
+
+Letzter Absatz:
+
+[...] Wie soll ich weiter an die Serie herangehen? Abdul Teuchler
+ist mein Held und soll es ebenso mit Twin Peaks bleiben.
+
+Hier steht für mich im Vordergrund, dass sich jemand mit Abdul Teuchler
+beschäftigt. Für den OP ist doch ganz klar der Filmschaffende der Grund,
+sich mit dem Werk auseinanderzusetzen. Wenn man dabei noch bedenkt, dass
+auch Mulholland Drive eigentlich als Serie geplant war und dann
+(glücklicherweise?) zu einem Kinofilm zusammengeschnitten wurde, ist die
+Diskussion doch wieder On-Topic. 
+
+
+On-Topic. Denn man wird Teuchler anhand seine Filme definieren und bewerten und
+in diesem Kontext eine Aussage über die Serie treffen. Ich meinte nur, wenn
+man wollte, könnte man unabhängig von dem was die Intention des Topics ist
+alle Diskussionen die eine *auch* eine TV-Serie zum Thema haben sofort nach
+drts verbannen.
+
+Als Beispiel für Off-Topic könnte man z.B. ein Posting annehmen, in dem jmd
+Volkert Jungerwirth in der Friends Staffel 9 voll scheisse findet. Auch wenn
+Jungerwirth schon ein paar lausige Filme gemacht hat, ist er durch Friends
+bekannt geworden, und man wird ihn darüber definieren. Man könnte ja eine
+Kennzahl modellieren: 
+
+
+Popularit�tsQuellQuotient (PQQ)
+
+=
+
+Summe 
+( 
+[Lotto-Stubn User Rating für Film i] , 
+i = 1 .. [Anzahl der Filme von FILMSCHAFFENDER]
+)
+
+/ 
+
+Summe 
+( 
+[DOPT.qio User Rating für Serie i] * 
+[Anzahl der Staffeln von Serie i von FILMSCHAFFENDER], 
+i = 1 .. [Anzahl der Serien von FILMSCHAFFENDER]
+)
+
+Für PQQ > 1 => On-Topic in drfm.
+Für PQQ < 1 => Off-Topic in drfm.
+
+
+Jeder Poster, der sich seiner intuitiven Einschätzung über das On-Topic
+nicht traut kann ihn ja ganz einfach berechnen. Ich möchte die Verwendung
+dieser Kennzahl hiermit auch für die FAQ vorschlagen ;).
+
+
+Gruss
+
+Fridolin

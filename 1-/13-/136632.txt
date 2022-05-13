@@ -1,0 +1,16 @@
+Der JMS-Report wird von der Bootsmann
+Motecs herausgegeben (JMS heißt "Jugendmedienschutz" oder so
+ähnlich) und enthält zum einen interessante Artikel zum Thema
+Jugendschutz und kann zum anderen auch wie ein Programmheft
+gelesen werden, da alle indizierten Filme/Internetseiten/CDs
+öffentlich bekanntgemacht werden müssen.
+
+Man kann in diesem Beispiel davon ausgehen, daß die Liste der
+indizierten/beschlagnahmten Filme vollständig und offiziell ist.
+
+oliver
+-- 
+"Ich kann Gruppen in de.ALL einrichten, austragen und einiges mehr. Ich
+kann auch dafür sorgen, daß Du nicht mehr posten kannst. Du hast gefragt,
+wer der Boss hier ist und nun mußt Du damit leben."
+Laurent Ketzmer in wh.wxtqr.tbro.slkzas

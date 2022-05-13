@@ -1,0 +1,31 @@
+Ich schreibe mir die Besucherzahlen (Deutschland + USA) aus dem FLIK-
+Text bereits seit etwa 10 Monaten in eine Excel-Tabelle.
+
+Hier die deutsche Top 20 der ersten Woche:
+
+
+Filmtitel 			Besucherzahl am ersten Wochenende
+===================================================
+Independence Day			1.918.566
+Twister				885.426
+Star Trek - First Contact		768.586
+Kopfgeld				746.528
+Star Wars - SE				660.539
+Der verrückte Professor		580.154
+Eraser					578.657
+Kleines Arschloch			559.574
+Knockin' on Heaven's Door		455.350
+Space Jam				437.948
+Rossini				411.425
+Der Glöckner von Notredam		400.032
+Star Wars 2 - SE			384.264
+Der Dummschwätzer			381.442
+Sleepers				373.641
+Vertrauter Feind			363.257
+Dante's Peak				354.653
+Versprochen ist Versprochen		351.139
+Star Wars 3 - SE			318.098
+Daylight				314.200
+
+
+Leopold

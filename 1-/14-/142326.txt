@@ -1,0 +1,21 @@
+Nana, das war dann wohl etwas zu viel Weihrauch :-)
+
+
+Also, ich hab in der 5. Klasse bei Herrn Tohms Primfaktorzerlegung gelernt,
+(der Insider kann also meine Qualifikation wuerdigen ;-) )
+und da war _nie_ die Rede davon, dass es genau zwei Faktoren sein müssen.
+Die Primfaktorzerlegung von 84 wäre demnach 2*2*3*7=84. Dir modernen
+Verschlüsselungsverfahren wie RSA allerdings bauen auf der Tatsache auf, das
+das Produkt zweier großer Primzahlen nur sehr schwer in seine Primfaktoren
+zerlegt werden kann. Mit dem Film hat das aber rein garnichts zu tun.
+
+Dort geht es meiner Meinung nach tatsächlich um die Anzahl der Primfaktoren,
+im obigen Beispiel mit 84 wären das also vier. Der Zusammenhang zwischen
+Anzahl der Primfaktoren und der Sicherheit der Räume ist mir allerdings auch
+nicht klargeworden.
+
+Dietrich (/\/)
+-- 
+Dietrich Beinstein  ***  eMail nmgvuupvj@ucp.qs
+
+"Never give up! Never surrender!"

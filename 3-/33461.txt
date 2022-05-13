@@ -1,0 +1,37 @@
+Hallo
+  Genau, so könnte man das machen. IMO wird es aber eher die 
+Hardware-Industrie sein, die den "Abspielschutz" und immer neue 
+Begehrlichkeiten der Medienkonzerne einen Riegel vorschiebt. Sowas ist 
+nämlich schon mal passiert. Anfangs gab es im Videobereich in jeder 
+Videothek mehrere Systeme (Beta, VHS, Video2000) Dann wurde wegen der 
+teureren Lizenzgebühren eine Entscheidung gegen die Qualität und für den 
+Profit getroffen: Alleine VHS wurde weitergeführt. Das war schon mal für 
+viele Endverbraucher eine böse Überraschung. Dann ging es mit dem 
+Kopierschutz von Videos los (Macrovision). Das lief lange Zeit ohne 
+große Aufregung weil es auch gleich viele Anbieter von Geräten gab, die 
+den Kopierschutz unwirksam machten. Viele Videotheken verliehen 
+"Wochenendpakete" die aus einem Berg Videos, einem Abspielgerät und aus 
+einem Kopierschutzdecoder bestanden. Zusätzlich wurden noch 
+Leercassetten angeboten und auch in ansehnlichen Mengen verkauft. Später 
+dann kauften sich viele Videofreaks einen 2. Videorecorder um mit Kopien 
+eine eigene Sammlung aufzumachen. Dann wurde der Kopierschutz heftiger 
+und das war der Punkt an dem die Umsätze an Leerkassetten und 
+Videorecordern drastisch einbrachen. Ein heftiger Streit zwischen 
+Hardware-Herstellern und den Rechteinhabern der Filmindustrie 
+entbrannte. Ein, ausserhalb von den Abspielgeräten nur schwer zu 
+"knackendes" neues Kopierschutzverfahren wurde nur deshalb nicht in die 
+Tat umgesetzt weil die Hardwarebranche drohte, in Zukunft alle Geräte so 
+zu konstruieren, daß nur absolut ungeschützte Filme absielbar wären. Es 
+kam zu einem Kompromiss und zu weiteren, aber auch weiter "knackbaren" 
+Varianten von Macrovision.
+   Ich meine, solange überhaupt noch CDs mit Kopierschutz verkauft 
+werden, solange wird es den Kopierschutz geben und er wird noch härter 
+werden. Die Rede ist schon lange davon, daß man irgendwann keine CD mehr 
+kauft sondern nur Rechte daran. Wieviel man bezahlt könnte dann davon 
+abhängen, wie oft die CD abspielbar ist oder über welchen Zeitraum. Auch 
+war von Techniken zu hören, die nur noch verschlüsselte Daten auf den 
+Silberlingen zulässt. Die Dekodierung soll dann direkt in den 
+Abspielgeräten, bei DVDs z.B. durch eine spezielle Schaltung im Monitor 
+oder Projektor stattfinden. Auf diese Weise würden Kopien nicht 
+abspielbar sei. Es kann immer noch schlimmer werden.
+Gruß Konrad

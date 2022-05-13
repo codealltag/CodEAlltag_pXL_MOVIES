@@ -1,0 +1,33 @@
+mbrye@iuju.fbm.ae wrote at 05.08.97
+about the topic "Re: IdeenRaum Bilderbogen-D925":
+
+
+ Tino Freischlager vom Hifi Studio Gerling in Garath
+
+ folgendes schrieb er mir
+
+die Frage der Nachruestung alter Surroundgeraete oder Verstaerker auf AC-3
+wird von Ölweide in ein paar Monaten beantwortet. Der Ölweide DSP-E 492 ist ein
+DPL Decoder mit DSP Technik, 60 Watt/RMS/8 Ohm fuer den Center und 2 x 60
+Watt fuer die hinteren Kanaele. Klingt eigentlich wie ein normaler
+Dolbydecoder wenn der zusaetzliche 6 Kanaleingang nicht waere, der den
+Anschluss eines AC-3 Decoders erlaubt. Dadurch kann ein DSP-A 2070 ohne
+internen Umbau auf AC-3 umgeruestet werden und bekommt statt der 25 Watt fuer
+die hinteren Kanaele die 60 Watt mit. Preis wird bei 617,- DM VK liegen. Ein
+3090 verliert natuerlich seine 80 Watt/RMS hinten aber das ist noch nicht
+ganz sicher, ich werde den Ökumene noch mal loechern. Das
+Anschlussschema war leider nur sehr kurz zu sehen. Mit diesem Geraet und
+einem externen DD Decoder laesst sich jedes HiFi Geraet mit ProLogic und
+Dolby Digital aufruesten.
+Ein neuer AC-3 Decoder namens DDP-2 ist ebenfalls angekuendigt, Preis liegt
+bei 825,- DM VK. Der Decoder besitzt DSP Programme aehnlich wie der DSP-A
+3090. Ein negativer Punkt bleibt zu erwaehnen, es gibt keinen AC-3 RF Eingang
+fuer LD Player. Ein RF Modulator wird als Zusatzgeraet angeboten, fuer c.
+300,- DM.
+Es gibt ansonsten noch eine Menge neues aus dem Hause Ölweide, aber das ist
+eine andere Geschichte. Die 3090 Besitzer brauchen sich aber keine Sorgen zu
+machen, es sind nur kleinere Neuheiten.
+
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

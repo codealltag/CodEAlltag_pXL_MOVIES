@@ -1,0 +1,38 @@
+Hallo!
+
+Gestern habe ich endlich, nach etwas längerem warten und 
+vertrösten, meinen Formreich DVD-A100 Codefree bekommen.
+
+Rein optisch macht das Gerät echt was her, aber wenn man es anhebt
+denkt man, daß es nur ein leeres Gehäuse ist.
+Aber dafür hat mich die Bildqualität dann echt vom Hocker gehauen.
+
+Wir haben bei einem Freund den Film Cuthroat Island auf DVD und LD
+parallel laufen lassen und das DVD Bild war klar besser.
+Wesentlich schärfer und klarer, das LD Bild dagegen wirkte
+irgenwie verwaschen. Der Anfang des Filmes ist ja auch sehr
+rötlich, und kontrastreich.
+
+Das einzige was mich etwas verwundert hat, daß DVD Bild ist im
+gesamten dunkler als das LD Bild. Kann dieses jemand bestätigen?
+Oder sollte das ein Problem des Players ein, denn das ist
+generell bei allen Titeln so (Mad Max 3, Eraser).
+
+Der DVD-A100 gibt bei Code 1 DVDs am Ausgang ein PAL Bildsignal
+aus, welches aber wie ich irgendwo gelesen habe in 60 Hz ist.
+(Aufnehmen habe ich noch nicht getestet.)
+
+Der Player spielt weiter noch Video CDs und normale Audio CDs ab,
+aber leider keine CDI Video CDs.
+
+Ich bin soweit ich das nach ca. 2 Stunden testen sagen kann recht
+zufrieden mit dem Gerät, nur sollte man es nicht genau neben der
+Sitzposition aufstellen, da die CD bei der Umdrehungsgeschwindigkeit
+doch schon zu hören ist.
+
+Mfg.
+
+Theodor Knaut
+ /\_\    __    * BBS Analog: +07 7633 55124 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +77 9599 51219 **  /\_\   \/_/
+        \/_/   * Voice:      +32 8157 67960 *   \/_/

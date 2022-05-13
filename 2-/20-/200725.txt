@@ -1,0 +1,27 @@
+Hallo,
+
+
+                                                       ~~~~~~~`
+                                                       bekommt, egal
+  von welcher Tonquelle, es tut auch Radio, wenn es eine
+  Surroundsendung ist.
+
+
+1 In etlichen Receivern ist eine Testmodefunktion mit der du alle
+  Lautsprecher�einzeln überprüfen kannst, ob sie funktionieren und
+  an der richtigen stelle stehen/hängen l/r usw.
+
+  Hat ein Teil so einen Test, und funktioniert in dem der Speaker?
+
+2 Der Receiver kann normal jeden Speaker (LAutst�rke)  einzeln steuern
+  überprüf mal ob Balance vorn und hinten mittig sind.
+
+3 Bei einigen Receivern sind DSP-Funktionen wie Stadion oder Theater
+  vorprogramiert diese gehen idr. nicht mir Surround, sprich es werden
+  nur die 2 oder 3 vorderen Speaker benutzt.
+
+
+by
+--
+Manuel Klugert - Mainframe: Amiga 4000/060 CV64-3D - Bike: frisuria XR 600R
+--

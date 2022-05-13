@@ -1,0 +1,63 @@
+Ich weiß nicht, warum Du jetzt immer noch falsch rechnest, ich hatte von
+drei bis vier, maximal 6 Filmen *pro Stunde* gesprochen.
+
+
+Ein sehr brauchbares Plugin für den Linux VDR. Markiert gleich bei der
+Aufnahme die Werbung. Dann hat man's später mit der Suche nicht so
+schwer. Ist nicht perfekt, erkennt aber zumindest die groben Positionen,
+so daß man dann nicht mehr manuell nach der Werbung suchen muß.
+
+
+Was für kurze Einblendungen? Selbst die kürzesten Werbepausen auf XXP
+mitten in der Nacht sind so lang, daß man sie mit den "Alt"-Schritten in
+der Regel findet, ansonsten halt beim Scrolldurchlauf in MPEG2Schnitt.
+
+
+Äh... sicher nicht.
+
+
+Dann machst Du irgendwas falsch. Okay, der eigentliche
+Demux/Schnittvorgang dauert bis zu 10 Minuten, übers LAN auch mal 15,
+aber die Suche solltest Du nochmal optimieren. Ja, ich gebe es zu, ich
+habe da inzwischen wirklich Routine drin, und ich finde teilweise auch
+ohne noad die Werbeblöcke auf den Privatsendern mit ein bis zwei
+Mausklicks in ProjectX, weil die Verteilung einfach *zu* durchschaubar
+ist ;-)
+
+
+Einblendungen gibt's da höchstens mal auf Königsgalerie, daher nehme ich von da
+auch nur sehr ungern auf. Meistens ist es aber so, daß die Filme im
+Laufe weniger Monate der Reihe nach auf mindestens drei oder vier
+Dritten Programmen kommen, oder auf CutClub, und dann paßt's schon.
+Bekannte Klassiker muß man auch nicht von UGIW (Scrolltexte im Abspann!)
+aufnehmen, die kommen meist auch nochmal auf CutClub oder einem Dritten,
+aber die seltenen Schätze nimmt man halt von UGIW wie sie kommen, ist
+doch dann auch egal.
+
+
+Da kam monatelang zumindest Ein Colt für alle Fälle und IIRC auch Hart
+aber Herzlich. Spielfilme habe ich da noch nicht gesichtet, ich habe den
+Sender jetzt aber auch seit mindestens einem halben Jahr nicht mehr
+angehabt ;-)
+
+
+Geht mir (fast) genauso. Teilweise lohnt sich das Selberaufnehmen gar
+nicht mehr: der "alte" Labbé Eleven mit Knut kostet jetzt
+beispielsweise bei Gieraths nur noch fünf Euro, für das Geld setze ich
+mich nicht hin und bastle mir eine DVD.
+
+
+Ui, richtig antike Technik *duck* ;-)
+
+Ich habe hier eine DBox1 + SCSI (nutze ich seit April 2002
+entsprechend) und einen LinuxVDR mit TechnoTrend FF 1.5. Im Regal staubt
+derzeit noch eine Hauppauge Nova-S vor sich hin, für die habe ich am
+Sat-Switch derzeit leider keinen Anschluß mehr frei...
+
+Gruß,
+Maurice
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://kwo.ffgfdltn.ae/rdryehwcs/ ~ jhjq://zxc.qqccvzeb.hh/mks-gwqe/
+Mail: qy__1607<et>fszrabs<noouj>nfq ~ vxki-9838-40<sq>akmjrcnl<ftdgt>yw

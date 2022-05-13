@@ -1,0 +1,17 @@
+Die häufigste Kopierschutz-variante ist der sog. "Multivision-Kopierschutz",
+   bei dem einfach in regelmäßigen Abständen ein überhöhter Signalausschlag
+   ins helle oder dunkle Spektrum geht. Dieser Ausschlag ist nur den Bruchteil
+   einer Sekunde lang, also viel zu kurz um vom langsamen Fernseher bemerkt
+   zu werden. Wird dieser Film nun kopiert versucht der aufnehmende
+   Videorekorder auf Teufel-komm-raus diese Ausschläge nachzuregulieren. 
+   Dummerweise ist der Ausschlag schon vorbei, wenn der Videorekorder erst
+   richtig mit dem Regulieren beginnt. Daher erscheint später das bekannte
+   hell- und dunkel werdende Bild auf der kopierten Kassette.
+
+   Abhilfe bieten da Kopierschutzdecoder, die diesen Überschlag herausfiltern,
+   oder teurere Videorekorder, die manuelle Bildbearbeitung zulassen (hier
+   wird einfach das Reguliersystem ausgeschaltet).
+
+-- 
+There must have been a door there             ------ PGP KEY AVAILABLE ------
+in the wall when I came in       [FZG]

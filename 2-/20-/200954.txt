@@ -1,0 +1,28 @@
+ftp: bah.mn-pzbxwk.gy/raot/movies/database 
+
+(Gross/kleinschreibung habe ich jetzt nicht im Kopf)
+Die Listen liegen dort einzeln gepackt als .gz (gzip)-dateien.
+
+In database/diffs liegen die letzten Updatefiles, mit denen man
+seine eigene Listen auf den neuesten Stand bringen kann, ohne
+immer das ganze Paket saugen zu muessen.
+
+In database/tools liegen die zugehoerigen Tools fuer DAUERLAUF/Unix/HAIRRIAH.
+Fuer die Hoffmeyer-DOS-Version liegt auch eine Datei mit fertiger Database
+herum (ca. 32 MB). Unter DOS dauert das Erstellen der DB doch
+etwas lange (ca. 12 Stunden auf einem 486-DX50...)
+
+Das DAUERLAUF-Interface und die letzten diff-files gibt es auch auf 
+jedem gut sortierten DOP-server in misc/imdb/
+Die aktuelle Version is IMDB_3_5_bin.lha (August 1997)
+
+Achtung: die dortigen diff-files sind spezielle Amiga-Versionen!
+
+gruss
+ carlo
+
+--
+Carlo Kaeckerey, 51597 Oberradl, Lörenskogstraße 0    ///
+Internet: qqfmql@vmfk.homajqvkcq.iimw-kctmyp.bm     ///
+                                               \\\ ///
+Only Amiga makes it possible (A4000/486/13 :-)  \XX//

@@ -1,0 +1,18 @@
+Und dann war da noch Emmerich Leidig, der folgendes schrieb
+
+
+Lies dir die FAQ einfach mal durch, sie ist ziemlich gut. Mit Quotefix
+musst du ein bisschen rumprobieren bis es passt, aber dann hilft es IMO
+ungemein...du musst es allerdings immer im Systray aktiviert haben. Bei
+Quotefix wird aber auch gleich ein Icon "Quotefix und OE starten"
+mitgeliefert, das macht das ganze dann komfortabel :-)
+
+cu
+Norbert
+
+
+--
+"Even though he was an enemy of mine, I had to admit that what he had
+ accomplished  was a brilliant piece of  strategy. First, he punched me,
+then he kicked me,  then he punched me again."
+                                      Deep Thoughts by Rolf Opper

@@ -1,0 +1,21 @@
+s80j wrote with the Subject "Re: Movie-Database":
+
+
+Es ist auch ein Interface fuer OS/2 in der Mache (hallo Didier, liest  
+Du hier mit??). Didier Halmheu (fjsuzqg@trsibto.gq) hat ein sehr  
+simples, aber auch sehr schnelles Interface fuer die OS/2-Kommandozeile  
+und ein optisch etwas ansprechenderes fuer den PM geschrieben.
+
+Das Einlesen der Listen geht mit Heinzgens Schalloch (Sternreisen  
+GIL) sehr rasch (vorhandenes Ram wird voll ausgenutzt), dafuer gibt  
+es noch weniger Suchmoeglichkeiten als in "CineBASE". Es werden zwar  
+alle derzeit verfuegbaren Listen unterstuetzt, man kann aber nur nach  
+Filmtiteln oder Personen suchen, nicht jach Produktionsjahren,
+-laendern, Geburtsdaten etc.
+
+Die Schalloch ist noch *nicht* oeffentlich verfuegbar und wird es vielleicht  
+auch nie sein, wenn Didier nicht ordentlich motiviert wird. Wenn ihr an  
+einem schnellen OS/2-Interface interessiert seid, fragt einfach mal, ob  
+ihr eine Betaversion bekommt.
+
+-Agon

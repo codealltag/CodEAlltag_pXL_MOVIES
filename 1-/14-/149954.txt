@@ -1,0 +1,48 @@
+Hallo zusammen,
+
+
+Ich denke schon. Soweit ich weiss, wurden bei den Testvorfuehrungen
+die Projektionseinheiten taeglich neu justiert.
+
+
+Also, dann gehe ich mal auf die Details ein, soweit ich sie
+weiss.
+
+Die Projektionseinheit wird vor ein ganz normales Lampenhaus
+eines Standard-Projektors z.B. von Kinoton montiert. Damit hat
+man dann die normale Lichtleistung eines Projektors abzueglich
+des Verlustes im "Display", laut K-Kiosk sind 6kW/12000 Lumen moeglich.
+Hier gibt's ein Foto von dem Ding:
+http://kgw.af.fvn/ssn/rvjavtvnv/pmfakxj/bzjs/qne_31.ajjb
+
+Die Aufloesung: 3 Chips mit je 1280*1024, davor kommt dann
+noch eine handelsuebliche anamorphische Linse.
+
+Das Prinzip: kein Durchlicht-Display, sondern kleine Spiegelchen,
+die das Licht entweder auf die Leinwand oder in eine "Lichtfalle"
+lenken. Kuerzlich sei es mittels eines "Lichtabsorptions-Chips"
+gelungen, das Kontrastverhaeltnis auf ueber 2000:1 zu steigern,
+die bisherigen Vorfuehrungen hatten noch 1000:1.
+
+Als Lebensdauer fuer die Spiegelchen wird uebrigens 20 Jahre
+angegeben. Allerdings kann ich mir vorstellen, dass es - wie in
+der Computerindustrie ueblich - alle 3 Jahre ein Update mit "noch
+besseren" Geraeten gibt.
+
+Uebrigens sollten zu den 100.000 Dollar auch die Fogekosten
+nicht vergessen werden. Ein 35mm-Projektor heute lebt 50 Jahre,
+ein Digital-Projektor braucht vielleicht schon nach 5 Jahren das
+erste Update, weil neue Filme in noch hoeherer Aufloesung (oder was
+auch immer) rauskommen. Ausserdem kann ein Analog-Projektor von einem
+Filmvorfuehrer taeglich gewartet werden. Fuer einen Digital-Projektor
+braucht man aber momentan einen Ingenieur, und der hat sicherlich
+hoehere Gehaltsvorderungen. Und die Filmausleih-Kosten sinken bestimmt
+auch nicht, denn die Filmproduktionen und die Stars werden ja immer
+teurer.
+
+Gruss
+  Thierry
+
+
+Sent via Nici http://gri.sppy.sog/
+Before you buy.

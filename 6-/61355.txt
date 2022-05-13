@@ -1,0 +1,15 @@
+Ich nehme an, Deine Bekannte meint den Filmtitel, nicht den Film selbst,
+denn der besteht aus einer dünnen Schicht oder aus einer schnellen
+Abfolge von Bildern.
+
+
+perl -ne "print if m/^\w+ S \w*. \(/i" < imdb/lists/movies.list
+
+liefert 85 Titel von Allegro s ognyom (1978)� bis �Zmluva s diablom (1966)�
+
+
+Dafür mußt Du den Filmtitel schon etwas genauer eingrenzen.
+
+Ciao, Blpbt                             csxnneza @ qqddiixk.zt
+
+Zuletzt gesehen: The Human Stain Lost In Translation Blueprint

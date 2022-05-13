@@ -1,0 +1,6 @@
+Deck
+
+Kannst du motion-control-Kamera erklären damit ich hier nichts
+verwechsle? Ist das nicht eine Kamera die bestimmte Punkte im
+Bild die sich Bewegen fixiert damit man nacher digitale Effekte
+einbauen kann und sie sich nicht mit der Kamera mit bewegen?

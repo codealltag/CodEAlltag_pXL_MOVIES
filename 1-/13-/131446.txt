@@ -1,0 +1,9 @@
+Hehe, naja, ich hab mehr an der Technik hinter der ganzen Seite
+geschraubt und noch nicht soviel Zeit in Design und Kompatibilität
+gesteckt.
+
+Der IE programmiert sich einfach mal etwas simpler und is nich so
+anspruchsvoll ;) - wird aber noch kommen...
+
+ciao,
+riXam

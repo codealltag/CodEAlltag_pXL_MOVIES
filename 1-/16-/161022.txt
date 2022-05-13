@@ -1,0 +1,12 @@
+Hi,
+
+
+Ja, genau. Sowohl das alte als auch das neue Star Wars sind angeblich
+Kopien aus Italien, und die sind wohl ziemlich billig gemacht. Am 
+meisten leidet darunter allerdings die Tonqualitaet. Es gibt eine
+Anzeige der Tonqualitaet (Fehlerrate oder so) am Dolby-Digital-Dekoder,
+und die zeigt bei diesen Kopien besonders schlechte Werte an. Und wenn's
+mal zu schlecht wird, dann gibt's Aussetzer.
+
+Gruss
+  Ronny

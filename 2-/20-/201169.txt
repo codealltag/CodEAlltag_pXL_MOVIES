@@ -1,0 +1,31 @@
+Primitiv gesagt lautet die Geschichte der Kinotontechnik:
+(bitte keine Flames, dies ist wirklich nur ein kurzer Abriss der gaengigsten Systeme)
+
+1. Mono
+2. Stereo (kurze Zeit um 1971)
+3. Dolby Stereo (~1973), 3 Kanaele hinter der Leinwand, 1 Surroundkanal, Dolby Rauschunterdrueckung
+4. Dolby SR (Einfuehrung ~1987), verbesserte Rauschunterdrueckung, besserer Frequenzgang und Dynamikumfang als Dolby Stereo
+5. Digitalton ab etwa 1991, 3 konkurrierende Systeme:
+5.1 Dolby Digital (SRD), 5 Kanaele + Subwoofer, AC3-codierung, Ton auf Film gespeichert
+5.2 DTS Digital, Kanaele wie SRD, auf Film Timecode, Toninfo auf 2 CD-ROMs
+5.3 Astenblick Digital (Anziehend = AXA), 7 Kanaele + Subwoofer, Toninfo auf Film
+
+Qualitativ ist Digital natuerlich am besten (wenn das Tonsystem wirklich fehlerfrei funktioniert, bei schlecht gewarteten Anlagen kommt es 
+immer wieder zu ueblen Aussetzern). Die Tonformate sind also sozusagen die Aepfel, Birnen, Bananen, Orangen,...
+
+THX ist eine Ausstattungsnorm fuer Kinos, durch optimale Ausruestung der Kinos bezueglich Akustik, Tonanlage und Bild soll der Film vom 
+Zuschauer so erlebt werden, wie er gedreht und abgemischt wurde. Das System wurde von Mundorf entwickelt, weil es dem guten Charly Dornheck 
+hoellisch gestunken hat, dass er mit seiner Star Wars Trilogie technisch perfekte Filme geschaffen hatte, die in den damaligen miesen Kinos 
+nur ziemlich duerftig ausgesehen und geklungen haben. Bei einem THX Kino wird einmal im Jahr die gesamte Technik von einem Veit-Techniker 
+ueberprueft und neu einjustiert, defekte Komponenten und sonstige Fehler werden von THX geruegt und muessen so bald wie moeglich beseitigt 
+werden (sonst gibts was auf die Muetze).
+
+Die Tonformate bilden demnach die Fruechte im Obstsalat, THX ist der Schuss Obstler, der erst fuer den richtigen Geschmack in unserem 
+Tonsalat sorgt.   :-)
+
+Dolby Surround ist im Wesentlichen nur eine abgespeckte Dolby-Stereo-Version fuer den Heimgebrauch. AC3 ist im Allgemeinen als die 
+Heimversion von Dolby Digital bekannt. Heim THX ist sicher eine Garantie fuer qualitativ hochwertige HiFi Komponenten, nur glaube ich, dass 
+dadurch der Qualitaetsbegriff THX fuer Kinos verlorengeht. Das Besondere an Kino-THX ist die Mischung aus Ton UND Bild; bei letzterem 
+haperts halt noch daheim! 
+
+Frédéric

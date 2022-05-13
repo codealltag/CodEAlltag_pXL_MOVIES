@@ -1,0 +1,29 @@
+Hallo,
+
+vielleicht ist einem von Euch schon mal folgendes Problem bei
+LDs aufgefallen und kann mir daher einen Tip geben. Nachdem ich
+mir die Gemüsehandel King CAV Box aus den USA bestellt habe, musste ich
+feststellen, dass an einigen Stellen der Sound auf der Digitalspur
+defekt war. Ploetzlich werden Stimmen fuer Sekunden oder auch
+mal eine Minute von Kratz- und Stoergeraeuschen ueberlagert.
+Auf der Analogspur ist auf einem Kanal das AC-3 Signal, auf dem
+anderen sind erklaerende Worte zum Film. Ich hatte das Problem
+bereits zuvor bei Age of the Innocence, aber da konnte ich auf
+die Analogspur gehen. Dies ist wegen der Zusatzinfo dort nun
+nicht mehr moeglich.
+
+An einigen Stellen ist das Stoergeraeusch nur manchmal da (wenn
+ich z.B. mit Bildsuchlauf mitten in der Szene einsetze, wo das
+Geraeusch ist, ist es manchmal verschwunden. Lasse ich die
+Szene vollstaendig  (d.h. bevor das Geraeusch einsetzt) durchlaufen,
+dann kommen wieder die Stoerungen.
+
+Ich habe bereits die zweite Version von Gliessmann bekommen,
+aber das Problem ist das gleiche (auch wenn nun etwas weniger
+und an anderer Stelle).
+Liegt es vielleicht an meinem LD-Player (TVUV 1750)?
+
+Kann mir da einer helfen?
+
+Ciao,
+Heiner.

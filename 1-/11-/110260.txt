@@ -1,0 +1,2 @@
+Bei Filmen wichtiger: Ein Kinofilm der auf PAL konvertiert wird, läuft
+um 4% schneller ab. NTSC braucht da gar keine Rolle zu spielen.

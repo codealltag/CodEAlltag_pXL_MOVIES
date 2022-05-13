@@ -1,0 +1,5 @@
+Hallo Norbert,
+
+ich glaube, in der Berechnung ist ein Vorzeichenfehler, muesste -9 bis -10 heissen.
+Gruss
+Justin

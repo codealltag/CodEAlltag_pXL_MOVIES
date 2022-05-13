@@ -1,0 +1,81 @@
+Naja, so viel gibt es dazu nicht zu sagen. Wenn man sich in
+Deutschland für einen Player interessiert, dann steht man zunächst
+nur vor der Frage, ob man einen PAL-/NTSC-Player oder gleich einen
+Nur-NTSC-Player nimmt, weil die Auswahl an PAL-Schreiben (im
+Vergleich zu NTSC) doch eher dürftig ist. (Und wer auf dt. Synchros
+steht, der sollte sich Laserdisc lieber gleich aus dem Kopf schlagen.)
+
+PAL-/NTSC-Player sind natürlich für Deutschland optimal gerüstet
+und es gibt auch zwei sehr empfehlenswerte Teile von Keyzers, den
+2950 und 515 (noch mit ein paar Buchstaben drumherum). Der 515 ist
+neuer und billiger, aber beide bieten PAL- und NTSC-Wiedergabe,
+sowie einen Auto-Reverse-Mechanismus, man muß also die Scheiben
+nicht umdrehen. (Angesichts dem, was man später für Filme ausgibt,
+sollte man beim Player nicht so sehr sparen und lieber den Komfort
+gleich mitkaufen.)
+
+Den 515 gibt es auch von Spitzenback, der hat dann (angeblich) auch einen
+AC-3-Ausgang, wobei man den bei den Kralemann ziemlich problemlos
+nachrüsten kann.
+
+Ein Punkt ist noch die Frage nach Analogton bei KAAW-Scheiben.
+(NTSC-Scheiben haben digitalen und analogen Ton gleichzeitig, die
+Player können also beides. KAAW-Scheiben haben digitalen _ODER_
+analogen Ton - letzteres gibt es aber schon lange nicht mehr. Will
+man also keine alten (5 bis 10 Jahre) Laserdiscs wiedergeben, kann
+man auf analogen PAL-Ton verzichten. Viele Player können den nämlich
+nicht wiedergeben. Der 2950 kann; beim 515 weiß ich es nicht.)
+
+Der 2950 hat einen S-Video-Ausgang, zwei Scart und einmal Video-Cinch,
+sowie einen opt. digitalen Audioausgang und ein Paar Cinch.
+
+Zu CAV/CLV: Bei CLV gehen ca. 60 Min. auf eine Seite, bei CAV ca.
+30 Min. Auf die technischen Aspekte gehe ich jetzt nicht ein, für
+den Anwender stellt es sich so dar, daß CLV nur Wiedergabe und
+einen schlechten Suchlauf bietet, während man in CAV auch Standbilder,
+Zeitlupe, Zeitraffer und einen flimmerfreien Suchlauf bekommt.
+CAV-Scheiben kommen mehr und mehr aus der Mode, weil manche
+Nur-NTSC-Player die Nachteile von CLV teilweise durch einen digitalen
+Speicher ausgleichen. Ein PAL-/NTSC-Modell mit einem solchen Speicher
+gibt es aber (noch) nicht.
+
+Praktisch alle Player haben diverse Filter, einen Time-Base-Corrector
+und können die verschiedenen Formate - bis zur Audio-CD-Single -
+abspielen.
+
+
+Surround-Sound lohnt sich immer, mit Laserdisc natürlich noch mehr.
+Einen Projektor braucht es nicht, weil man den Qualitätsunterschied
+auch am kleinsten Fernseher sieht. (Es ist eher umgekehrt: Ein
+Projektor erfordert einen Laserdisc-Player, damit man etwas vom
+Projektor hat.) Da NTSC eine wichtige Rolle spielt, sollte der
+Fernseher auch NTSC darstellen können, d.h. im Falle eines
+Keyzers-Players mind. PAL bei 60 Hz.
+
+Die Preise für die genannten Player liegen bei 1300 bis 1700 DM.
+
+
+Dolby Surround (= Dolby Stereo) ist eigentlich ein 2.2-System, d.h.
+zwei vollwertige Kanäle und zwei minderwertige Kanäle. In der Praxis
+also LINKS und RECHTS als vollwertige, sowie MITTE und HINTEN als
+minderwertige Kanäle (für Hinten werden dann noch typischerweise
+zwei Boxen eingesetzt, die aber das gleiche von sich geben). Diese
+vier Kanäle sind im Matrixverfahren in den zwei Stereo-Kanälen
+versteckt. ("Minderwertig" heißt, daß die Kanäle nicht den vollen
+Frequenzumfang beinhalten.)
+
+Dolby Digital (= AC-3) ist ein 5.1-System, d.h. fünf voll- und ein
+minderwertiger Kanal. In der Praxis also LINKS, MITTE, RECHTS,
+HINTENLINKS und HINTENRECHTS als vollwertige, sowie SUBWOOFER als
+minderwertigen Kanal. Diese sechs Kanäle sind in einem digitalen,
+komprimierten und reduzierten Datenstrom enthalten, der auf Laserdiscs
+(wenn vorhanden) den rechten Analogtonkanal belegt.
+
+Der Unterschied zwischen Dolby Surround und Dolby Digital ist schon
+etwas mehr, als nur ein bißchen bessere Tonqualität - überzeuge
+Dich im nächstbesten Kino.
+
+Gruß, Tom
+---
+** Tom Coerds,  Harkaweg 44,  40483 Ohorn,  Germany **
+** +08 2784 05905  E-Mail (NeXTmail/MIME): zwkaj@btrsgj.l.yngcc.cf **

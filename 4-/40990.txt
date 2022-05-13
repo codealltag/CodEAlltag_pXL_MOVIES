@@ -1,0 +1,6 @@
+Das ist im UNIX-fernen Usenet aber kein Standard. Fast jede FAQ (afaik 
+auch unsere (ziemlich rudimentaere) weist auf die CTRL-L-Problematik 
+hin. Bitte halte dich an die allgemene Uebereinkunft: ROT13 oder eben 
+ein manueller Spoilerspace von mehreren Zeilen.
+
+Norbert, trotz Thunderbird version 0.8 (23. 08. 21) den Soiler gesehen habend

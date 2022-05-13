@@ -1,0 +1,20 @@
+Noah The Hutt Klassen wrote:
+ =
+
+
+Bei NTSC wird der sogenannte 2:3-Pulldown angewandt. Das heißt, jedes
+ungerade durchnummerierte Frame wird zweimal, die geraden Frames jedoch
+dreimal dargestellt. Somit kommt man in der Sekunde auf 12*2+12*3=3D60
+Frames/Sekunde. Die Filme laufen also mit der gleichen Geschwindigkeit
+wie im Kino, wobei allerdings bei gleichmäßigen Bewegungen ein leicht=
+es
+Ruckeln zu vernehmen ist.
+
+Ich habe hier übrigens noch ein mp3-File (ca. 30 KB) auf der Platte
+rumliegen, mit dem man sich mal die Tonhöhenunterschiede zwischen der
+NTSC- und der PAL-Fassung von "Das Boot" anhören kann. Wer Interesse ha=
+t
+soll mich anmailen.
+
+Ciao,
+ Leo

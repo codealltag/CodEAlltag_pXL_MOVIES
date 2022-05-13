@@ -1,0 +1,42 @@
+Hallo.
+
+Vielen AH-Nutzern wird es vielleicht schon aufgefallen sein, dass seit
+etwa 6 Wochen die Ratings nicht mehr angezeigt werden, wenn man die
+Datenbank mit den aktuellen Listfiles erzeugt. Ebenso kann man dann nicht
+mehr nach den Top-X oder Bottom-Y Filmen suchen lassen.
+
+Da ich gluecklicherweise noch die aelteren Listfiles aufgehoben habe, konnte
+ich die alten und neuen ratings.list Dateien miteinander vergleichen.
+Dort bin ich dann auf eine kleine, aber wohl fuer pmdb folgenschwere
+Aenderung gestossen:
+
+In den aelteren Dateien waren die Top- und Bottom-Listen folgendermassen
+ueberschrieben:
+
+TOP 250 MOVIES (400+ VOTES)
+BOTTOM TEN MOVIES (50+ VOTES)
+
+In den neuen Dateien hat sich das leider minimal geaendert:
+
+TOP 250 MOVIES (400+ VOTES)
+BOTTOM 10 MOVIES (50+ VOTES)
+
+Offensichtlich benutzt AH aber genau diese Strings zur Orientierung im
+Listfile und kommt mit der neuen Bezeichnung nicht zurecht.
+
+Aendert man aber mit einem Editor (z.B. mediTher unter Windows 2000) das "10"
+in "TEN" um, so verdaut AH diese Datei wieder problemlos!
+
+Man sollte dazu einen Editor verwenden, der grosse Dateien verarbeiten kann
+(nicht Notepad unter Windows 9x) und moeglichst die Zeilenumbrueche nicht
+veraendert (Wordpad tut sowas, wenn ich mich recht erinnere).
+
+Ich hoffe, dass diese Info einigen weiterhilft, die auch AH nutzen...
+
+Ciao,
+	Jürg.
+
+-- 
+Jürg Wiethaupt
+E-Mail : evnqtfnd@ty.tuf-icca.ws
+WWW    : http://oqi-dzcjcgi.oq.ctl-uhfm.aq/~zzcfegfe/

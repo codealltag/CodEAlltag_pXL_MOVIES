@@ -1,0 +1,26 @@
+N'Abend...
+
+
+Hmm, empfindest Du das als so störend? Aber OK, per default
+muß die PGP-Signatur wirklich nicht eingestellt sein, sorry.
+
+
+RC1 halt, das klappt bei mir nicht, trotzdem danke für den
+Hinweis auf zwwc.hb, hatte ich vor längerer Zeit schonmal
+gesehen, war dann aber in den Nebeln von Zeit und Bookmarks
+versunken.
+
+
+Ja, weiß ich, das ist eine Macke in der Enigmail-Erweiterung
+des Thunderbird, ebenso wie die Benutzung von '|' statt '>'
+als quoting character. Als Plain Text ohne Signatur sieht
+es wohl OK aus, Test folgt... ;-)
+
+Danke für den Tip und Größe
+Severin
+
+
+--
+Größe aus Europas größtem       Greetings from Europe's largest
+Urban Sprawl (Ehomef -- Jalm Jagetzow Mittendrin ;-)
+Severin Trier   <Fpr.Ejtm@irnwmb.bi>   http://mgr.slhwcq.ek/

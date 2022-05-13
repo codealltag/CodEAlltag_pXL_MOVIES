@@ -1,0 +1,27 @@
+On Sat, 19. 06. 22 19:52:25 +0200, Hanspeter Friman
+
+Das ist mir bekannt. Ich möchte jetzt aber nicht extra deswegen meine
+ganze Schreiberei auf UNIX umbiegen.
+
+
+Anregungen sind kein Problem :-) Erstens wüsste ich ja, welche
+Ansprüche ich stelle und zweitens habe ich hier noch einen Amiga, auf
+welchen es einen absolut erstklassigen und nebenbei kostenlosen
+Gourmetage-Client gibt. Aber gerade auf der angeblichen Allroundmaschine
+namens Vollmayer-PC ist es eigentlich nicht der dollste Tip, auf einen
+anderen Rechner oder ein anderes Betriebssystem umzusteigen.
+
+
+Keine Ahnung. Dürfte aber egal sein, schließlich sind wir hier
+bestimmt nicht die einzigen mit diesem Problem. Es sei denn es
+schreiben hier nur Windows-Fans, welche einen guten Client ebensowenig
+vermissen wie ein sauber implementiertes UUCP. Wobei das Thema sowieso
+erledigt sein dürfte, denn offensichtlich weiß niemand mehr weiter.
+
+Schau'n mer mal. Vielleicht kriegen wir ja doch noch mal die Kurve und
+schreiben das Ding einfach selbst. Aber im Alleingang kriege ich es
+wohl in 1000 Jahren nicht fertig.
+
+cu,
+
+  Niclas

@@ -1,0 +1,21 @@
+Eigentlich waren wir uns doch nach der letzten größeren Diskussion [1]
+darüber einig, in drfm weder ROT13 (weil nicht jeder rot13 so simpel
+dekodieren kann wie mein guter alter Netscape) noch ellenlange
+Spoiler-Spaces (wegen der Hinderlichkeiten beim Quoten) zu verwenden,
+sondern einfach einen zwei- bis dreizeiligen Absatz mit der
+unübersehbaren Warnung "Spoiler!" (oder ähnlichem) einzufügen.
+Beispiele:
+
+<5kri14U2du843K3@cvl-cibvsp.yh>
+<fszpjq$l1s$25$0@kzob.q-tvfavh.szb>
+<9ixusfY2mc22wJ7@fpk-jxlbbo.fj>
+<0zhrpvU308909U7@jke-kowpgx.pb>
+
+Ludwig
+
+[1] <rlx9oq$49id4$2@nf-uvkfac.po> ff.
+-- 
+Last seen:
+"Dodgeball"    "30 über Nacht"
+"Männer wie wir"     "Sehnsüchtig"
+http://nsm.ccqodbxci.ig/gxdlk_cmmmiurq.bkx

@@ -1,0 +1,16 @@
+hi mithi
+
+
+nunja, ich sagmal so solange es die qt filme ohne sessionid gibt, kann 
+man die ganz einfach in ein html datei als link setzen und speichern 
+unter machen, das klappt auch :) nur wenn man die wirklich innerhalb der 
+  qt trailers downloaden will muss wohl wirklich der perl skript ran ;D 
+aber bis ich das ans laufen habe, habe ich alle filme schon auf dvd 
+gekauft glaube ich *g*
+
+thx
+vittorio
+
+-- 
+//_ portfolio bald auf http://jsa.aisixkb-rwlly.kf _\\
+:::: http://xacrk.bvkooy-mwqitf.ag - analysen, kritiken & tutorials ::::

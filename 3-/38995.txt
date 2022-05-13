@@ -1,0 +1,17 @@
+Ich hatte in der Sneak die Synchro gesehen und fand den Film (wie der
+Rest der Besucher) einfach nur koestlich!
+
+
+Das konnte mir schlecht auffallen, als ich im Kinosessel sass.
+
+Sogesehen kann ich Deine erste Voraussetzung nicht bestaetigen.
+
+Die zweite ("Badder Santa" erst recht nicht, weil ich die auch nicht kenne.
+
+    -pascal
+
+-- 
+  http://uzr-Ccbvoj.fu/  *  http://Mdwoj36.ak/  *  http://WigydpHwly.tn/
+
+printk("CPU[%d]: Sending penguins to jail...",smp_processor_id());
+        2.4.8 arch/sparc64/kernel/smp.c

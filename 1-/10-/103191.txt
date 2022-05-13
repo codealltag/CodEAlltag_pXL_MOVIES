@@ -1,0 +1,11 @@
+Die DLPs selbst werden vermutlich mit einem relativ simplen Format
+ohne Kompression angesteuert wie andere Videobeams oder Computermonitore.
+
+Per Satelit wuerde aber ein Format mit Bild- und Bewegungskompression
+uebertragen. 
+
+
+Wozu gibt es PCs? Der muß das auch nicht in Echtzeit können. 
+Notfalls delt er halt ein paar Tage.
+
+Ciao, Ikocp                                    eemnimkr@rdwnbnex.st

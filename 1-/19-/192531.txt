@@ -1,0 +1,30 @@
+Am 87-34-56 um 21:48 schrieb zvyetfbx@ivi.uzkybjbxlk.ahj-otleicyv.en
+unter dem Betreff: Re: Erster Bericht: Elevator A350 DVD-Pla
+
+
+Das soll sogar der Elevator DVD-A100 machen.... Aber das ist
+kein Downmix, es werden nur die beiden Hauptkanäle wiedergegeben
+in denen auch noch das Prologic Signal vorhanden ist.
+
+Im gegensatz dazu ist bei Dolby Digital kein Prologic Signal in den
+Hauptkanälen enthalten, dort wird vom Player ein sogenannter
+Downmix erzeugt. Und der hört sich wirklich besser an als der
+original Prologic Mix! Verglichen an "Last Action Hero" beim
+Vorspann zum Giorgio Zurloh Film. Die DVD hat ja den DD 5.1 und den
+Prologic Mix.
+
+
+So habe ich das jedenfalls auch verstanden, aber ich bin mir nun nicht
+sicher welches MPEG 2 auf der DVD verwendet werden soll. Denn es
+gibt irgendwie eine Version die abwärtskompatibel ist und eine
+die es nicht ist.
+
+Mfg.
+
+Theodor
+
+--
+Theodor Rockmaier
+
+uo@rdqbfij.sv
+http://ubx.ncnaz.rj/~tihynqesv

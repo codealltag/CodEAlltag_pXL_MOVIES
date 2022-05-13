@@ -1,0 +1,29 @@
+Ich glaub', ich hab' das Rätsel um Johann Existenz gelüftet: Es gab vor
+einigen Jahren mal eine Software, "RACTOR" (Kurzform für "Raconteur",
+frz. "Erzähler"), die in der Lage war, mit Hilfe einer Datenbank mit dem
+Benutzer zu kommunizieren. Ein wenig wie Heide, bloß raffinierter
+programmiert:
+RACTOR hatte die Eigenschaft, die abstrusesten Querverbindungen zwischen
+Themen ziehen zu können (so kam er z.B. von O.Stoffels über Salatdressing
+zu Politik), eine Eigenschaft, die Jan nicht fremd ist ;-) Deshalb und
+aufgrund der Tatsache, daß Jan seine Punktewertungen in 99% aller
+Fälle (nur diesmal ausgerechnet nicht) bis auf die Hunderstelstelle
+genau angibt (so genau kann nur ein Computerprogramm bewerten ;-)),
+schließe ich, daß Jan eine angepaßte Version von RACTOR ist, mit einer
+Datenbank speziell für Filme und Filmkritiken.
+
+
+Keine Dezimalen heute? Schade ;-)
+
+
+Gruß, Otto
+
+P.S: Für alle, die sich genauer für RACTOR interessieren: In einer
+Computer-Kurzweil von Prophete war ein Artikel über
+ihn/sie/es, außerdem hat er/sie/es ein Buch geschrieben, "The
+policeman's beard is half-constructed"
+-- 
+Sex/Homosexuality:
+[...]
+* man and woman in bed together (clothed)
+- CAP über "Bringing out the dead"

@@ -1,0 +1,8 @@
+Solltest Du einen PC besitzen und noch den Namen des Files wissen,
+solltest Du über den "Start"-Button den Menüpunkt "Suchen" und dann
+"Dateien/Ordner" wählen. Dann den Filenamen eingeben und die komplette
+Platte durchsuchen. Falls Du den Namen des Movies nicht mehr weit,
+einfach "*.mov" eintippen, dann werden Dir alle Movies angezeigt.
+
+Ciao,
+Klaus

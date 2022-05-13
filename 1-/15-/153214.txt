@@ -1,0 +1,23 @@
+Kommt drauf an :) Die Gefährlichkeit von Lasern hängt von einer
+ganzen Reihe von Parametern ab, sie läßt sich grob anhand der
+Laserklasse einschätzen:
+
+Klasse I ist ungefährlich
+Klasse II ungefährlich, *wenn der Strahl kürzer als eine Viertel-
+sekunde die Netzhaut trifft* Innerhalb dieses Zeitraums setzt der
+Lidschlußreflex des Auges ein, so daß keine Schäden auftreten
+sollten.
+Klasse IIIa ist gefährlich für die Augen, wenn der Strahldurchmesser
+durch Optiken wie Linsen oder Teleskope verkleinert wird.
+Klasse IIIb ist auch ohne das gefährlich für die Augen
+Klasse IV führt zu Augenschäden und schädigt ebenfalls die Haut.
+
+Frag einfach mal, welche Laserklasse benutzt wird.
+
+Bei Lasern im sichtbaren Spektralbereich besteht die Schädigung
+übrigens in Verbrennungen der Netzhaut, die Linse wird nicht
+geschädigt (soviel zu den "x Dioptrien durch Lasershows").
+
+FUp2
+-- 
+pgp key available - http://nym.weixhi.xng-fnsytsczme.qm/~x65/jvbtkp.wvm

@@ -1,0 +1,8 @@
+cd /usr/local/moviedb-3.8/lists
+grep -e "HT:" biographies.list | sed s/cm/" cm"/ | awk '$3 == cm"'|
+awk '$2>0 {sum=sum+$2; print sum/NR}'
+
+Der durchschnittliche Schauspieler (m+w gemischt) ist 168,462 cm
+gross. Beruecksichtigt ist nur das metrische System.
+
+	Leopold

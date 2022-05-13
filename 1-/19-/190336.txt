@@ -1,0 +1,25 @@
+Leuchtet ein, ist mir aber nicht aufgefallen.
+
+
+Vielelicht lag's auch daran? Ich sasz weit vorne. Da liegen die beiden
+Doppelbilder so weit auseinander, dasz dsie vielleicht weniger
+auffallen.
+Der 3D-Effekt war auf
+jeden Fall ueberwaeltigend. Ich glaubte, Gegenstaende naeher bei mir als
+die Koepfe der Davorsitzenden zu sehen. Dies sei auch erwaehnt, damit
+potentielle Besucher nicht abgeschreckt werden.
+
+Ab hier OT:
+
+
+Da gibt (oder gab es bis vor kurzem) das Problem, dasz es keine Monitore
+(oder vielleicht lag es auch an der Grafikhardware der Rechner) mit
+ausreichender Zeilenfrequenz gibt, um hochaufloesende Bilder ausreichend
+schnell darzustellen. Da behalf man sich mit dem guten alten
+Interlaced-Verfahren, ein Bild wurde auf den geraden, das andere auf den
+ungeraden Zeilen dargestellt. Beim Betrachten von eindrucksvollen
+groeszeren Grafiken im Ueberblick auf dem Messestand stoert das wohl
+kaum, wenn man aber daran arbeitet und Details anschauen will, ist es
+sehr suboptimal.
+
+Italo Fischedieck

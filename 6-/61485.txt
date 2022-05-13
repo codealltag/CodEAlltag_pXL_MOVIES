@@ -1,0 +1,15 @@
+Hi!
+
+Der Rohschnitt wird meistens nicht mit voller Qualität geschnitten:
+
+Es wird auf Film gedreht. Dann wird das Material in Computer Schnittsysteme
+in einer schlechten Qualität digitalisiert (...Offlineschnitt...). Diese
+schlechte Qualität reicht zum Schneiden des Filmes, verbraucht aber nicht
+unnötig viele Ressourcen (...z.B. Festplattenkapazität...). Ist der
+Rohschnitt dann fertig folgt der Feinschnitt, ebenfalls im Computer mit dem
+selben, schlechten Material. Und erst wenn auch der fertig ist, wird daraus
+eine Schnittliste erzeugt, die wiederum auf das ursprüngliche Filmmaterial
+angewendet wird (...Onlineschnitt...). Erst danach hat man die original
+Filmqualität.
+
+Gruß Gianni.

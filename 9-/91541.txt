@@ -1,0 +1,55 @@
+Hallo!
+
+
+Ich kenne keinen Reader, der das macht. Es macht ja auch keinen Sinn, 
+denn man sollte ja eben die freie Wahl haben, ob man innerhalb eines 
+Thread dekodieren möchte oder nicht. Es können ja in einem Beitrag 
+sowohl Spoiler als auch harmlose Infos gemischt sein, also macht es 
+auch keinen Sinn, ein Posting komplett ROT13 zu schreddern.
+
+
+Was Du natürlich nur machst, wenn Du keine Angst haben mußt, ein 
+Filmende etc. gespoilert zu bekommen.
+
+
+Kannst Du nicht einzelne Absätze markieren und nur die Markierung 
+entschlüsseln?
+
+
+So viel zusätzliche Arbeit ist das IMHO gar nicht. Wenn ökonomisch 
+gequoted wird, gibt es auch keine ellenlangen Absätze zu dekodieren. 
+Zudem geht es meistens sehr ins Detail, sobald ROT13 verschlüsselt wird 
+- das ist dann ohnehin nur noch für Hardcore-Interessierte und würde 
+andere Leute auch dann langweilen, wenn es sich um Klartext handeln 
+würde.
+
+
+Vielleicht sollte man nicht unbedingt versuchen, wirklich jeden 
+einzelnen Thread hier en detail zu verfolgen. Das wäre IMHO so oder so 
+nicht zu schaffen. Selbst nicht für Studenten. ;-)
+
+
+Es gibt für Linux sicher noch praktischere Newsreader. Oder darf es 
+nicht unter X11 laufen (müssen)?
+
+
+Ich kann keinen "shift" von Spoilerspace zu ROT13 erkennen. Ich 
+empfinde  einen Spoilerspace als nachteilig: man weiß nicht, mit 
+welchem Client und unter welcher Auflösung andere so lesen. Um sicher 
+zu gehen, müßte man immer enorm viel Platz verschwenden. Das viele 
+Herumscrollen könnte u.U. lästiger sein, als gelegentliches 
+Entschlüsseln. Es gibt sicher immer wieder Newbies, die in die Gruppe 
+hereinstolpern und gar nicht wüßten, was es bedeutet, wenn im Subject 
+von "Spoilern" geredet wird (Mohu-Fans?) und denen man so unfreiwillig 
+Filme versauen könnte. Außerdem wäre ein Thread mit Spoilern, aber ohne 
+ROT13 automatisch für alle tabu, die den Film noch sehen möchten und 
+die verpassen dann ggf. interesante Infos, die den Film gar nicht 
+spoilen würden. Einen Thread komplett als "Spoiler" zu deklarieren 
+halte ich darum auch nicht für empfehlenswert.
+
+Gruß
+Alois
+
+-- 
+"Did you lose your mind all at once, or was it a slow, gradual process?"
+(Valerius Rückleben, The Fisher King)

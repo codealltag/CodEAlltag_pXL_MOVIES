@@ -1,0 +1,10 @@
+<quote>
+</quote>
+
+<weather type=donnerwetter value=gross>
+Geht doch nach de.rec.mampf !
+</weather>
+
+<sig>
+-- 
+"i'm working on it"

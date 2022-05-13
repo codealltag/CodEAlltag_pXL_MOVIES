@@ -1,0 +1,25 @@
+Korrekt. Das bedeutet dann natürlich, daß beim Abspielen
+die Bilder nicht in der Reihenfolge geladen werden, in der
+sie auch abgespielt werden.
+In obigem Beispiel wird zuerst der I-Frame geladen (also
+ein komplettes Bild).
+Anschließend wird aber nicht der 2.Frame geladen, da dieser
+sich auf vorhergehende und (!) nachfolgende Bilder bezieht,
+sondern der P-Frame (also Nr. 4) . Erst dann kommt der
+2.Frame an die Reihe.
+
+Bei Fast Rewind entsteht dann das Problem, daß Bilder
+auch nicht exakt in der umgekehrten zeitlichen Reihenfolge geladen
+werden, da immer zuerst der I-Frame der jeweiligen GOP
+vorhanden sein muß, um alle Bilder generieren zu können.
+
+Um auf das eigentliche Problem zurückzukommen:
+Das Zurückspulen bedeutet ja nicht, das alle Bilder
+mit 10facher rückwärts abgespielt werden müssen.
+Es genügt, einfach bei Normalgeschwindigkeit
+jedes 10te Bild zu nehmen. Dies müßte dann jeweils
+ein I-Frame sein.
+
+---
+Cornelius Nienhys
+eyLinda, Trasching

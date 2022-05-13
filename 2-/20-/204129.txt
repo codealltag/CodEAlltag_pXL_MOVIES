@@ -1,0 +1,26 @@
+no valid recipients were found for this message
+ rec.arts.movies.people@mayday.warburg.sub.de ... unknown user
+Received: from giyhyigvnqu.olvkchx.lwu.th by wprtcd.umv.qsc.gb with uucp
+	(Smail3.1.28.1 #6) id q2sEiBK-6840w8C; Tue, 25 Apr 95 18:43 MET DST
+Received: by giyhyigvnqu.olvkchx.lwu.th (CrossPoint v3.1);
+	  25 Apr 1995 18:42:34 +0100
+Date: 25 Apr 1995 18:26:00 +0100
+From: gcmexkyst@ichitkbliwz.rcivbak.ruo.ju (Wildwexel)
+To: rec.arts.movies.people@mayday.warburg.sub.de
+Message-ID: <42VNpIeBB2X@iqbqcmckzis.vgelpzo.mle.lf>
+Subject: Guantanamera
+X-Mailer: CrossPoint v3.1
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Organization: Duisdecker - "Verein Telefonlädle rund um Zöllmersdorf"
+
+
+Hallo rec.arts.movies.people,
+
+Suche Darsteller des Films Guantanamera! (Kuba 1994)
+
+I'm looking for the acters of the movie Guantanamera!
+--
+Dölger e.V. - "Verein zur Foerderung der Datenkommunikation rund um Zöllmersdorf"
+## CrossPoint v3.1 ##

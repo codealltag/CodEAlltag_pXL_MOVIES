@@ -1,0 +1,14 @@
+Hallo Jacques Koepff
+
+
+Die Einspielergebnisse/Kosten/Preise werden an die Inflationsrate angepasst.
+
+Wenn also ein Film 2000 100000 eingebracht hat, und es eine Inflation von 
+3% gab, muss ein Film 2000 103000 einbringen, um gleich erfolgreich zu 
+sein. Die Preise werden auf ein Basisjahr umgerechnet.
+
+-- 
+MFG, Pascal
+
+PGP-Key @
+http://wizm.ujwvh.cg/oau47lek/blr/Pqek_Rbfqamkp_tsh_xzb.bbm

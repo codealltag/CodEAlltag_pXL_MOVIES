@@ -1,0 +1,11 @@
+Gabriel 'Gottfried' Frömmig schrieb folgendes:
+
+
+Verdammt, jetzt will ich mir den Film schon wieder ansehen. Könnt ihr
+mal ruhig sein?
+
+MFG, Etienne
+-- 
+do
+     fork agent ( angelo );
+repeat;

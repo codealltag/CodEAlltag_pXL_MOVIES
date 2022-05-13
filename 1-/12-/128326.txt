@@ -1,0 +1,11 @@
+Mensch Arne! Man guckt sich Webseiten ja auch nicht mit solchen
+Schickimicki-Browsern wie "lynx" an, sondern verwendet als
+vernünftiger Mensch poweruser-tools wie edlin oder vi, um sich den
+html-Code-Zeile für vergegenwärtigen zu können...
+
+SCNR,
+Thomas
+
+-- 
+The trick is to keep breathing...
+                              (G. Iskraut)

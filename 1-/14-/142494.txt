@@ -1,0 +1,69 @@
+Nicht dass ich wuesste. Aber seine Konzepte sind ja groesstenteils
+erklaert.
+
+
+Nein. Gefaehrlich sind Raeume, Wo eine der dreistelligen Nummern eine
+Potenz einer Primzahl ist. Also ist auch 125 (5^3) gefaehrlich.
+
+Das gelabere von 'das ist unmoeglich zu berechnen' ist natuerlich
+quatsch, es ist nur unwesentlich schwieriger als der Originaltest (prim)
+
+Intressantes Detail: es gibt 168 Primzahlen von 1-1000, 11
+Primzahlquadrate, 4 Primzahl^3 {2,3,5}, 2 Prim^4 {2,3} und die je 2 kann
+bis ^9 vorkommen. Das macht 22 zusaetzliche Zahlen. Insofern ist es
+glaubwuerdig, das es erst recht spaet vorkommt. :)
+
+
+Steht doch auf der Webseite. Nimm die Zahl (abc def ghi)
+Dann gilt:
+
+Am Anfang:
+x=a+b+c, y=d+e+f, z=g+h+i
+
+Translation1:
+dx1=a-b, dy1=d-e, dz1=g-h
+
+Translation2:
+dx2=b-c, dy2=e-f, dz2=h-i
+
+Translation3:
+dx3=c-a, dy3=f-d, dz3=i-g
+
+I.e.:
+-+------------------
+x| a+b+c  2a+c  2a+b 
+y| d+e+f  2d+f  2d+e
+z| g+h+i  2g+i  2g+h
+
+Das heisst allerdings, das sich ein cube nur maximal um 9 Einheiten
+von seinem Anfangspunkt weg-bewegen kann.
+
+Hier bricht der Plot wieder einmal. Wenn alle Raeume eine Periode von 3
+haben, kann es nicht so lange dauern bis er wieder am Ursprungspunkt
+ist. Ausserdem kommt er da regelmaessig vorbei. :)
+
+Man kann nun annehmen, das die Wuerfel sich nicht alle auf einmal
+bewegen, sondern immer nur einer. Allerdings ist der Brueckenwuerfel
+dann wohl eine Ausnahme, da er ja sofort beim naechsten "Taktzyklus"
+weitergewandert ist.
+
+Auch die Stelle an der man im Film das erste mal einen sich bewegenden
+Wuerfel sieht, ist ein langer 1-Cube breiter "Gang". Der is natuerlich
+etwas merkwuerdig, denn dann wuerden ja Wuerfel fehlen.
+
+Auch stelle ich es mir technisch schwierig vor, die einzelnen Wuerfel so
+'mir nix dir nix' von A nach B zu bewegen, wenn dazwischen auch ueberall
+Wuerfel sind :)
+
+Naja, wiedermal einer von den misslungenen Versuchen Mathematik in einem
+Film vorkommen zu lassen :)
+
+Wenn man das alles ignoriert, dann ist der Film natuerlich trozdem nett
+;)
+
+CU,
+    Sec
+-- 
+Das Usenet ist so ein wunderbares, aber zerbrechliches Medium und so viele
+treten es so in den Dreck und machen es unbenutzbar - sei es durch Absicht
+oder Gedankenlosigkeit, was vom Ergebnis das gleiche ist.  -- Evelin Timmerbeil

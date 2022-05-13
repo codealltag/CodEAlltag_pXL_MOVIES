@@ -1,0 +1,38 @@
+Stimmt gar nicht mehr:
+
+
+ABOUT THE CURRENT VERSION 
+
+
+                                    The latest version is v2.1.0.
+                                    There are no available fixes for v2.1.0. 
+
+
+                                  New features for v2.1.0 are:
+------>                             Print Wizard
+
+
+                                  Bugfixes in v2.1.0:
+
+                                    IMDb search bug 
+
+                                    Loads all audio- and pictureformats when
+                                    loading database 
+
+                                    Removed hovering hotkey buttons 
+
+                                    Fixed the "Truea Clause" bug 
+
+
+                                     Earlier versions 
+
+
+                                  New features for v2.0.0 are:
+                                     Database upgraded to Access 2000
+                                     Resizable window
+                                     Integrated IMDb search
+                                     Improved toolbar
+                                     Fixed a number of minor bugs
+                                     And more...
+-- 
+NewsGroups Suchen, lesen, schreiben mit http://eubmgsf.jjg.so

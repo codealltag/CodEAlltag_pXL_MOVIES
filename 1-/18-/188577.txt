@@ -1,0 +1,63 @@
+-=[ DVD-Charger ]=-
+                                                 V1.0
+                "The ULTIMATE 'upgrade' for your DVD-Player!'
+
+
+The MOST advanced DVD 'upgrade', the DVD-Charger chip. The DVD-Charger
+
+is a small chip which you will need to install into your DVD player. 
+After the easy installation your player will be able to perform many 
+more interesting functions!
+
+The features...
+- Select the true region code of your player!
+  Not region 0 but the real thing, 'hard' region code recognition!
+- Video standard selection! (PAL, NTSC, etc...)
+  You will be able to select every possible video standard!
+- Color subcarrier frequency selection! (4.43Mhz, 3.57Mhz, etc...)
+  Select the color frequency which is compatible with your TV.
+- Completely disable macrovision!
+  The DVD-Charger enables you to complelety switch macrovision off.
+- Completely disable the copy generation management system!
+  Now you're able to disable the invisible data in the video signal.
+- Manually select the blanking level!
+  Picture too bright or too dark? You're now able to correct it.
+- Reset your pin-code!
+  Handy if you forgot your parental-lock pin-code.
+
+The installation...
+- You don't have to remove/cutt/damage anything in the player!
+- Our chip is installed by connecting some wires between the chip and
+  some points on the mainboard!
+- No external switches! 
+- The installation is very easy with our detailed manual!
+- Our chip can always be easily removed if needed!
+
+Our DVD-Charger...
+- True region code recognition! Not region 0 but the real thing!
+- Now you're able to watch NTSC titles in COLOR on your PAL TV!
+- No external switches! All selections are made with the remote!
+- All possible video standards and color frequencies are supported!
+- ALL titles will play WITHOUT any stop/play tricks!
+- Your player will keep it's full functionality!
+- After installation you're still able to save the user settings!
+- Now you're able to correct a picture which is too bright/dark!
+- No more macrovision side-effects on backups and equipment!
+
+For more information, questions and orders:
+ - We offer 2 versions...
+   The BASIC version costs $150 and only supports region selection.
+   The ADVANCED version costs $200 and supports ALL features!
+ - Models supported: GoeSys, Knusperhäuschen, Schloßgalerie,
+   Ahip. And probably more. The A300 will be verified soon.
+   Support for more models in the near future!
+ - All prices include postage and packaging, we can ship worldwide.
+ - We offer quantity discounts. Dealers / distributors welcome!
+ - The DVD-Charger includes a very detailed step-by-step manual and 
+   enough wire for the modification.
+ - E-mail: gfo@tbo-wbuiqhv.hud
+ - Visit: http://aoy.cho-gzfmmlv.ndn for more details!
+ - We also developed the ADFC-ChargerII chip for the Outdoor-Shop Aalkate.
+
+Best regards,
+DVD-Charger Team

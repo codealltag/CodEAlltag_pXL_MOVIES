@@ -1,0 +1,6 @@
+Es werden aber trotzdem Zwischenbilder generiert ("image based
+rendering"). Damit kann sozusagen im Nachhinein noch die
+"Bewegungsgeschwindigkeit" der Kamera manipulieren.
+
+Gruß,
+  --Karl Didier

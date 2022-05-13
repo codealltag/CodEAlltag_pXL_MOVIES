@@ -1,0 +1,282 @@
+NG-Statistik drfm für den Juli 2004
+erstellt mit einem Skript von Nico Peterberns.
+
+02/03: 2252 postings
+03/03: 1990 postings
+04/03: 1790 postings
+05/03: 2352 postings
+06/03: 2979 postings
+07/03: 2473 postings
+
+27/03: 3439 postings
+28/03: 1931 postings
+29/03: 2724 postings
+30/03: 1746 postings
+31/03: 2078 postings
+01/04: 2494 postings
+
+
+02/04: 2645 postings
+
+
+Autoren mit den meisten Postings (2645 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 | 100 | 2625 | 188.3 | Renato T. Budden     |  3.8%  xxxxxxxxxxxxx
+   2 |  98 | 2797 | 215.9 | Willy Rugbarth          |  3.7%  xxxxxxxxxxxxx
+   3 |  97 | 3643 | 229.7 | Philippe Auvermann        |  3.7%  xxxxxxxxxxxxx
+   4 |  95 | 3678 | 205.3 | Patrick Prendel          |  3.6%  xxxxxxxxxxxxx
+   5 |  55 | 1136 |  97.0 | Patrick V. Blumoser      |  2.1%  xxxxxxx      
+   6 |  54 | 1080 |  89.6 | Eberhard Täschler          |  2.0%  xxxxxxx      
+   7 |  53 | 1347 | 103.4 | Helmut Flaspöhler       |  2.0%  xxxxxxx      
+   8 |  51 | 1143 |  99.4 | Mark Redloff         |  1.9%  xxxxxxx      
+   9 |  47 | 1724 | 109.5 | Marcus Platner        |  1.8%  xxxxxx       
+  10 |  45 | 1184 |  84.8 | Valerius Ravenschlag        |  1.7%  xxxxxx       
+  11 |  44 | 1276 |  85.9 | Henrik Rinckleb             |  1.7%  xxxxxx       
+  12 |  43 | 1046 |  78.5 | Luciano Jenß      |  1.6%  xxxxxx       
+  13 |  42 | 1188 |  96.6 | Stefano Eckhard        |  1.6%  xxxxx        
+  14 |  40 | 1017 |  66.5 | Patrick Mooser         |  1.5%  xxxxx        
+  15 |  38 |  679 |  62.4 | Eduard Zych       |  1.4%  xxxxx        
+  16 |  35 |  611 |  53.9 | Dominik Dykstra        |  1.3%  xxxx         
+  17 |  34 |  563 |  54.8 | Ernest Gollwitzer            |  1.3%  xxxx         
+  18 |  33 | 1166 |  80.6 | Renato Mews         |  1.2%  xxxx         
+  20 |  30 | 1144 |  64.9 | Lothar Thinnes        |  1.1%  xxxx         
+  21 |  29 |  573 |  47.5 | Nico Koellerer         |  1.1%  xxxx         
+  22 |  27 | 2188 | 120.6 | Ralph                 |  1.0%  xxx          
+  23 |  24 |  421 |  37.0 | Nico Endemann         |  0.9%  xxx          
+  24 |  23 |  594 |  41.8 | Valerio Tengg        |  0.9%  xxx          
+  26 |  22 |  549 |  33.0 | Eberhard 'Engelbert Fuhswinkel  0.8%  xxx          
+  30 |  21 |  391 |  35.8 | Simon Osenstätter        |  0.8%  xx           
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (385 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+[...]                                           
+       14 |   5 |  1.3%  x                                              
+       13 |   1 |  0.3%                                                 
+       12 |   3 |  0.8%  x                                              
+       11 |   4 |  1.0%  x                                              
+       10 |   7 |  1.8%  xx                                             
+        9 |   7 |  1.8%  xx                                             
+        8 |   7 |  1.8%  xx                                             
+        7 |  11 |  2.9%  xxx                                            
+        6 |  13 |  3.4%  xxxx                                           
+        5 |  16 |  4.2%  xxxxx                                          
+        4 |  24 |  6.2%  xxxxxxxx                                       
+        3 |  40 | 10.4%  xxxxxxxxxxxxx                                  
+        2 |  59 | 15.3%  xxxxxxxxxxxxxxxxxxx                            
+        1 | 142 | 36.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (161 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Ralph                 |  13 |    72 |  8.1%  xxxxxxxxxxxxxxxxxxxx
+   2 | Eberhard Täschler          |   7 |    46 |  4.3%  xxxxxxxxxxx         
+   3 | Patrick Deheck         |   5 |    23 |  3.1%  xxxxxxxx            
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (161 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Orlando Gnot        |   1 |   282 | 10.7%  xxxxxxxxxxxxxxxxxxxx
+   2 | Horst Ostmann       |   1 |   224 |  8.5%  xxxxxxxxxxxxxxxx    
+   3 | Theo Munster          |   3 |   159 |  6.0%  xxxxxxxxxxx         
+   4 | Nico Zintgraf         |   3 |   146 |  5.5%  xxxxxxxxxx          
+   5 | Abdul Thielk          |   1 |   138 |  5.2%  xxxxxxxxxx          
+   6 | Valerius Ravenschlag        |   1 |   101 |  3.8%  xxxxxxx             
+   7 | Patrick V. Blumoser      |   3 |    87 |  3.3%  xxxxxx              
+   8 | Renato Nerettig       |   1 |    86 |  3.3%  xxxxxx              
+   9 | Vittorio Tüshaus   1 |    84 |  3.2%  xxxxxx              
+  10 | Ralph                 |  13 |    72 |  2.7%  xxxxx               
+  11 | Lothar Thinnes        |   3 |    67 |  2.5%  xxxx                
+  13 | Dominik Dykstra        |   4 |    62 |  2.3%  xxxx                
+  14 | Nico                |   1 |    53 |  2.0%  xxx                 
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2645 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 282 | Broschuere ueber "Raubkopierer"         | 10.7%  xxxxxxxxxx
+   2 | 224 | Berühmte Sätze der Filmgeschichte       |  8.5%  xxxxxxxx  
+   3 | 151 | Orlando Adolph: Erstes Buch in Deutsch ers|  5.7%  xxxxx     
+   4 | 138 | Der Einzige?                            |  5.2%  xxxxx     
+   5 | 106 | Anti-Raubkopie-Strategie bei "(T)Raumsch|  4.0%  xxxx      
+   6 | 101 | Traumschiff Surprise - Episode 1        |  3.8%  xxx       
+   7 |  86 | Final Fantasy?                          |  3.3%  xxx       
+   8 |  84 | Sinnveraenderung in Synchronisation     |  3.2%  xxx       
+   9 |  67 | Top Ten der DVDs                        |  2.5%  xx        
+  10 |  59 | Spider-Man 2                            |  2.2%  xx        
+  11 |  53 | internationale filmliste                |  2.0%  xx        
+  13 |  42 | "Knast On Tour" aka jetzt knallen sie en|  1.6%  x         
+  14 |  41 | Re: Titel eines SF-Films gesucht        |  1.6%  x         
+  15 |  40 | War jemand bei der (T)raumschiff Surpise|  1.5%  x         
+  16 |  39 | Turkish StarWars                        |  1.5%  x         
+  18 |  38 | Shrek2: Schlechtester Film aller Zeiten |  1.4%  x         
+  21 |  36 | TV-Highlights (19.07. - 01.08.2004)     |  1.4%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (161 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+   282 |   1 |  0.6%  x                                                 
+   224 |   1 |  0.6%  x                                                 
+   151 |   1 |  0.6%  x                                                 
+   138 |   1 |  0.6%  x                                                 
+   106 |   1 |  0.6%  x                                                 
+   101 |   1 |  0.6%  x                                                 
+    86 |   1 |  0.6%  x                                                 
+    84 |   1 |  0.6%  x                                                 
+    67 |   1 |  0.6%  x                                                 
+    59 |   1 |  0.6%  x                                                 
+    53 |   2 |  1.2%  xx                                                
+    42 |   1 |  0.6%  x                                                 
+    41 |   1 |  0.6%  x                                                 
+    40 |   1 |  0.6%  x                                                 
+    39 |   2 |  1.2%  xx                                                
+    38 |   3 |  1.9%  xxxx                                              
+    36 |   1 |  0.6%  x                                                 
+    35 |   1 |  0.6%  x                                                 
+    32 |   1 |  0.6%  x                                                 
+    26 |   2 |  1.2%  xx                                                
+    24 |   1 |  0.6%  x                                                 
+    20 |   1 |  0.6%  x                                                 
+    19 |   2 |  1.2%  xx                                                
+    18 |   3 |  1.9%  xxxx                                              
+    17 |   2 |  1.2%  xx                                                
+    16 |   1 |  0.6%  x                                                 
+    15 |   3 |  1.9%  xxxx                                              
+    14 |   3 |  1.9%  xxxx                                              
+    13 |   4 |  2.5%  xxxxx                                             
+    12 |   2 |  1.2%  xx                                                
+    11 |   3 |  1.9%  xxxx                                              
+    10 |   1 |  0.6%  x                                                 
+     9 |   4 |  2.5%  xxxxx                                             
+     8 |   8 |  5.0%  xxxxxxxxxxx                                       
+     7 |   7 |  4.3%  xxxxxxxxx                                         
+     6 |   5 |  3.1%  xxxxxxx                                           
+     5 |   7 |  4.3%  xxxxxxxxx                                         
+     4 |  14 |  8.7%  xxxxxxxxxxxxxxxxxxx                               
+     3 |  15 |  9.3%  xxxxxxxxxxxxxxxxxxxxx                             
+     2 |  14 |  8.7%  xxxxxxxxxxxxxxxxxxx                               
+     1 |  36 | 22.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 358 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  87 | Dartenne Outlook Express      | 24.3%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  59 | Dr. Naue                        | 16.5%  xxxxxxxxxxxxxxxxx        
+  47 | Forte Agent                    | 13.1%  xxxxxxxxxxxxxx           
+  25 | 40tude_Dialog                  |  7.0%  xxxxxxx                  
+  24 | Dr. Naue Thunderbird            |  6.7%  xxxxxxx                  
+  17 | slrn                           |  4.7%  xxxxx                    
+  15 | Xnews                          |  4.2%  xxxx                     
+  13 | KNode                          |  3.6%  xxx                      
+  11 | tin                            |  3.1%  xxx                      
+  10 | Netscape                       |  2.8%  xx                       
+   7 | Forte Free Agent               |  2.0%  xx                       
+   7 | MacSOUP                        |  2.0%  xx                       
+   7 | Thunderbird                    |  2.0%  xx                       
+   6 | Gnus                           |  1.7%  x                        
+   4 | Hamster                        |  1.1%  x                        
+   4 | Pan                            |  1.1%  x                        
+   2 | Opera M2                       |  0.6%                           
+   1 | CrossPoint                     |  0.3%                           
+   1 | 40tude Dialog                  |  0.3%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | MicroPlanet-Gravity            |  0.3%                           
+   1 | Opera7.23                      |  0.3%                           
+   1 | MesNews                        |  0.3%                           
+   1 | was'n das?                     |  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | Dartenne Telnet               |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | Xnews Hamster Korrnews CopyIf M|  0.3%                           
+   1 | MicroPlanet Gravity            |  0.3%                           
+   1 | VSoup                          |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 116 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  24 | Dr. Naue                        | 20.7%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  20 | Dartenne Outlook Express      | 17.2%  xxxxxxxxxxxxxxxxxxxxx    
+  19 | Forte Agent                    | 16.4%  xxxxxxxxxxxxxxxxxxxx     
+   7 | 40tude_Dialog                  |  6.0%  xxxxxxx                  
+   6 | Netscape                       |  5.2%  xxxxxx                   
+   6 | slrn                           |  5.2%  xxxxxx                   
+   4 | Dr. Naue Thunderbird            |  3.4%  xxxx                     
+   4 | MacSOUP                        |  3.4%  xxxx                     
+   4 | KNode                          |  3.4%  xxxx                     
+   3 | Hamster                        |  2.6%  xxx                      
+   3 | Xnews                          |  2.6%  xxx                      
+   3 | Gnus                           |  2.6%  xxx                      
+   3 | Forte Free Agent               |  2.6%  xxx                      
+   2 | tin                            |  1.7%  xx                       
+   1 | Wafipa M2                       |  0.9%  x                        
+   1 | 40tude Dialog                  |  0.9%  x                        
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%  x                        
+   1 | Thunderbird                    |  0.9%  x                        
+   1 | DKP            |  0.9%  x                        
+   1 | DUAZ                        |  0.9%  x                        
+   1 | MorVer                         |  0.9%  x                        
+   1 | Pan                            |  0.9%  x                        
+
+
+Postingverteilung über den Monat (2645 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 |  28 |  1.1%  xxxxxx                                              
+   2 |  60 |  2.3%  xxxxxxxxxxxxxx                                      
+   3 |  34 |  1.3%  xxxxxxxx                                            
+   4 |  50 |  1.9%  xxxxxxxxxxx                                         
+   5 | 147 |  5.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+   6 |  45 |  1.7%  xxxxxxxxxx                                          
+   7 |  42 |  1.6%  xxxxxxxxx                                           
+   8 |  53 |  2.0%  xxxxxxxxxxxx                                        
+   9 |  52 |  2.0%  xxxxxxxxxxxx                                        
+  10 |  29 |  1.1%  xxxxxx                                              
+  11 |  67 |  2.5%  xxxxxxxxxxxxxxx                                     
+  12 |  69 |  2.6%  xxxxxxxxxxxxxxxx                                    
+  13 |  55 |  2.1%  xxxxxxxxxxxxx                                       
+  14 |  66 |  2.5%  xxxxxxxxxxxxxxx                                     
+  15 |  83 |  3.1%  xxxxxxxxxxxxxxxxxxx                                 
+  16 |  99 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  17 |  53 |  2.0%  xxxxxxxxxxxx                                        
+  18 |  23 |  0.9%  xxxxx                                               
+  19 |  84 |  3.2%  xxxxxxxxxxxxxxxxxxx                                 
+  20 |  67 |  2.5%  xxxxxxxxxxxxxxx                                     
+  21 | 111 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxx                          
+  22 |  62 |  2.3%  xxxxxxxxxxxxxx                                      
+  23 | 142 |  5.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  24 | 105 |  4.0%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  25 | 139 |  5.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  26 |  84 |  3.2%  xxxxxxxxxxxxxxxxxxx                                 
+  27 |  94 |  3.6%  xxxxxxxxxxxxxxxxxxxxxx                              
+  28 | 223 |  8.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+  29 | 145 |  5.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                  
+  30 | 155 |  5.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  31 | 179 |  6.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+HTH ;-)
+Willy
+-- 
+"Der vollkommene Bühnenheld ist Siegfried. Der vollkommene Filmheld ist
+ Elfriede."                                                    Niklaus Ziegenmeyer

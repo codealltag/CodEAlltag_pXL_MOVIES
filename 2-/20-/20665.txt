@@ -1,0 +1,16 @@
+Ich gucke generell keine Filme, die ich in einem vernünftigen Format 
+vorliegen habe, im Werbefernsehen. Aber solches Ruckeln gibt es nur bei 
+der Umwandlung von NTSC nach PAL und nicht bei der Umwandlung vom 
+Kinofilm zu PAL (da gibt es stattdessen einen Speedup von 4%). Da es 
+sich nicht um das originale 2,35:1-Format (von der DVD) gehandelt hat, 
+wurde also vermutlich in den USA zugekauft. Und wenn *dort* evtl. sogar 
+von einer DVD kopiert wurde, hätte sich das Problem potenzieren können, 
+denn die US-DVD-Versionen ruckeln bereits, da die 24 Bilder mittels 
+3:2-Pulldown in 60 Halbbilder konvertiert werden.
+
+
+Generell ist solches Ruckeln bei seitlichen Schwenks von US-TV-Serien 
+auf PAL-DVDs und im TV zu sehen sowie bei Kinofilmen auf US-DVDs.
+
+
+Volkert

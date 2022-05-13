@@ -1,0 +1,21 @@
+AUTOMATISCH NACHRICHT VON NNTP-DAEMON
+
+Sehr geehrter Hannes Cruße. Sie haben
+sich im Medium geirrt. Sie befinden sich im Moment hier:
+
+       telnet
+http    ____    pop3   ssh
+      .'    '.  
+     (  nntp  )       imap
+smtp  '.____.' ftp         ssl
+
+     imap4          https
+
+Sie wollten nach smtp. Sie finden smtp im Südwesten von
+Ihrem aktuellen Standpunkt.
+
+Bitte benutzen Sie das nächste Mal gleich den direkten 
+Weg zu smtp.
+
+NNTP-DAEMON
+- Die Netzverwaltung -

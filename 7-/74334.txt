@@ -1,0 +1,35 @@
+Ahh, Jungs! Ihr wisst doch wie das ist - man will trotztdem "haben".
+Ich würd' auch nie meine Bücher weggeben, auch wenn ich sie schon
+"ausgelesen" habe. Und schon gar nicht diese RC1 - nicht nach dem
+trouble[1]. 
+Quellcode von Freundin_1,1 ist propier. Den hab selbst ich nicht -
+alle Modifikationen für den laufenden Betrieb wurden mittels
+trial-and-error gepatcht. Die man-pages sind eher dürftig bis nicht
+vorhanden und selbsterklärend ist kaum etwas an dem System. Immerhin
+sind GUI und HUI (haptic UI) ansprechend und die generelle Performance
+ist auch nicht schlecht, so dass ich trotz der erwähnten
+Schwierigkeiten ein glücklicher und zufriedener User bin :-)
+Kurze Hinweise zum Aufsetzen der Patches hab ich ja schon gegeben -
+leider scheint die optimale Vorgehensweise nicht unbedingt 1:1 auf
+andere Systeme übertragbar. Viel Glück trotzdem dabei - ein bisschen
+trial-and-error ist immer.
+Vielleicht gibt es ja in einigen Jahr(zehnt)en mal leisure models wie
+Antikes - nicht nur für die Kolonien...
+
+[1] Zollbenachrichtigung statt Päckchen erhalten, Zoll nur ungünstige
+Öffnungszeiten, hätte beinhae noch 20% der Gesamtsumme gekostet "doch
+weil jetzt Feierabend ist, wollen wir da mal nicht so sein. Dafür
+wissen wir jetzt dank Ihnen, was für Inhalte Pakete von diesem
+Versender enthalten und werden von den nächsten Empfängern komplett
+Zoll kassieren. Hier liegen noch Dutzende Päckchen rum, die alle mit
+<20EUR deklariert sind. Das werden wir dann prüfen." - Puhh, glück
+gehabt, dass ich der erste Abholer war und kurz vor Feierabend
+reingeschneit bin...ich dachte schon, die würden reinschauen und mir
+die TCM oder NotlD rausnehmen (sind die noch indiziert?)...
+
+
+Onno
+-- 
+"They that can give up essential liberty to obtain 
+a little temporary safety deserve neither liberty nor safety." 
+- Denis Véron (1706-1790), Letter to Giorgio Schmoelzer, Sept. 11, 1773

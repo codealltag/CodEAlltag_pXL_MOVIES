@@ -1,0 +1,12 @@
+Wenn ich dich richtig verstehe, geht es um deine DVDs. Dann solltest
+Du dir mal den DVD-Profiler ansehen:
+http://wcg.pdvlmoufqxgmn.ndu/Lecpcukbm.anxc
+
+Da sind alle DVDs mit dem Titel erfasst, der auf dem Cover steht, Du
+hast also kein Problem mit fremdsprachlichen Titeln.
+
+Das Teil hat zwar keine Web-Schnittstelle, aber es kann seine Datenbank
+als XML exportieren, und da kann man sich ja etwas darum herum basteln
+(wenn man kann :).
+
+Heinz

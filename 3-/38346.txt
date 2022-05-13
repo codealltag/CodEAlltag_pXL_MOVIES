@@ -1,0 +1,20 @@
+momentchen.
+
+35mm-filmkameras würde ich auf jeden fall ausnehmen, die sind, soweit ich weiß, pin-registered' (und das schon seit seeehr langer zeit), d.h. deren belichtung von bild zu bild ist absolut 'rock-steady' (außer alles über 24 bildern pro sekunde, sprich hochgeschwindigkeitskameras). für telecines, also filmabtaster, sollte eigentlich dasselbe gelten, wenn langsamer als in echtzeit abgetastet wird, sogar umso mehr.
+
+_aber_, der 'heute fortschritt'(tm) macht's möglich:
+
+kinoprojektoren nehmen's nicht so genau mit dem bildstand (außer im IMAX) und werden unzureichend gewartet (wozu auch? es wird schon lange nicht mehr für große leinwand projiziert, sondern in den schuhkarton) und wenn dann noch hinzukommt, daß kopien heutzutage im hochgeschwindigkeitsverfahren gezogen werden, können sich bildstandfehler bei der vervielfältigung und projektion schon summieren. [1]
+
+für fernsehanstalten bzw. deren lieferanten bedeutet dies allerdings kein ruhmesblatt bzgl. der verwendeten kopie, der qualität derselben, sowie der anzahl der generationen vom kameranegativ.
+
+just my 2 eurocents,
+pietro
+
+[1] von allem oben genannten nehme ich programmkinos und filmmuseen sowie filmkopien von cinematheken ausdrücklich aus ;-)
+
+-- 
+----------------------------------------------------------
+ "I don't know. I'm making this up as I go!"
+ (K.Gausepohl as Dr. K.Weissbein Jr. in "Raiders of the Lost Ark")
+----------------------------------------------------------

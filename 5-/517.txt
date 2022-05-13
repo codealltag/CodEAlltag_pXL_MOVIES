@@ -1,0 +1,4 @@
+Käppeleswiesen VideoConverter, ist eigentlich "idiotensicher" und konvertiert 
+sogut wie alles in jedes gewünschte Format.
+
+Jan

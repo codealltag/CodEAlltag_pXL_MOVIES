@@ -1,0 +1,5 @@
+Versand
+
+Ich dachte eher an das Problem, daß die Videos bei Import deklariert
+werden
+müssen, und somit nicht beim Endkunden ankommen!

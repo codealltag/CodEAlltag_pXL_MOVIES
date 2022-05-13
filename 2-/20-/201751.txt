@@ -1,0 +1,10 @@
+Beim besagten Autogas funktioniert es so, daß man einen Intrarot-Sender
+im Raum aufstellt, dann konfiguriert, welche Fremdgeräte man steuern
+möchte und dann mit der Autogas-Fernbedienung alle Kommando an den
+Receiver schickt und der die entsprechend umsetzt und über den
+Intrarot-Sender an die Endgeräte schickt. Klappt bei mir bestens.
+
+Veit
+-- 
+** Veit Unterreiner,  Konradistraße 36,  86569 Eichstegen,  Germany **
+** +10 6195 54418  E-Mail (NeXTmail/MIME): dkxwi@kjpial.v.oxumw.fx **

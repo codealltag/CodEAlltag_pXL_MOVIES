@@ -1,0 +1,42 @@
+Hallo Carlo!
+
+
+Genau...
+
+
+Naja, manchmal habe ich keine andere Wahl, wenn der Film halt nur noch im
+kleinsten Saal eines Multiplexx (*gg*) läuft...
+Ich weiß noch, ausgerechnet bei Contact lief der dts-Ton asynchron, das kann
+man als Vorführer relativ einfach nachziehen. Ich geh nach dem Film hin,
+sage bescheid, Vorführer schaut mich mit großen Augen an: "DTS???? Was heißt
+das?" *ARGH*
+
+
+Scanning und Recording (heißt dann im Abspann auf englisch "Digital I/O")
+der Effektszenen, beim ein oder anderen Film auch ein bißchen Titel und
+Compositing.
+
+
+Naja, da habe ich jetzt eine Kritik gehört, in der es hieß, daß man dem Film
+mit dem titel nicht wirklich einen gefallen getan hat. Würde mit anderem
+Titel bestimmt besser laufen.
+
+
+hm...nicht ganz... Also, kurz erklärt: Film ist entweder für mittleres
+Tageslicht oder für Kunstlicht ausgerichtet, also entweder für ca. 5500
+Kelvin oder ca. 3200 Kelvin.
+Nun hast Du aber mittleres Tageslicht eigentlich fast nie, Mittags hat man
+z.B. je nach Aufenthaltsort (Berge mit Schnee) bis zu 20.000 K (je blauer
+desto Kelvin *gg*), morgens oder abends vielleicht nur 3000 K. Also muß es
+jemanden geben, der die Farben zum Film passend korrigiert. d.h., das
+Negativ wird ja in einer Kopiermaschine aufs Positivmaterial gebracht, also
+kann man dort mit Hilfe von Filtern und Blenden das blaue, grüne und rote
+Licht dosiert durchs Negativ schicken. Sonst wären Bergaufnahmen knallblau
+und abendliche Sachen wären rötlich zugesumpft.
+Deshalb ist so eine Ausbildung auch für die Übertragung vom Negativ in den
+Computer und zurück ganz zuträglich.
+hm, kann man das jetzt verstehen????!
+
+Viele Größe
+
+Carola

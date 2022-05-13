@@ -1,0 +1,16 @@
+Danke.
+
+
+Stark kuerzen (max top20), bitte. Ausserdem schaetze ich es nicht,
+wenn seitenlange Listen von Mailadressen gepostet werden, $Harvester
+soll bitte zumindest XOVER durchforsten muessen.
+
+[...]
+
+                          ^^^^^^^^^^^^^^^^^
+Ich weiss, du hast das Skript nicht geschrieben, aber das ist einfach
+falsch. Outlook (das ist das Programm, das ordentlich Geld kostet) ist
+kein Newsreader, es kann allerhoechestens den Newsreaderteil von
+Outlook Express mitbenutzen. 's/Microsoft Outlook/Outlook Express/'
+
+          Danke, cu doreen

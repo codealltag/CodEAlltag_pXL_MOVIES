@@ -1,0 +1,15 @@
+Das kann alles und nichts bedeuten. Inkompatibilität mit dem Player, 
+Dienst eingestellt, absichtliche (Region-)sperre, Programmierfehler, 
+Netzwerkproblem, etc.
+BD-Menüs sind Java-Programme; da kann der Disc-Hersteller beliebige 
+(Un-)logik einbauen.
+
+
+Scheint wohl so. Im Grunde war das Feature auch von Anfang an Unfug und 
+nur ein unbeholfener Versuch, einen "walled garden" zur Überwachung der 
+Kunden zu errichten.
+Die allermeisten in BD-Live angebotenen Inhalte hätte man auch einfach 
+mit auf die Disc packen können und die spärlichen wirklich dynamischen 
+Inhalte hätte man ganz normal ins Internet stellen können.
+
+Charles

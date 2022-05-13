@@ -1,0 +1,22 @@
+Man kann es auch Linienpaar nennen. Ich kenne es so, daß man einfach die 
+dunklen Linien auf hellem Grund ODER die hellen Linien auf dunklem Grund 
+zählt.
+
+Der Mindestabstand der Linien, der eingehalten werden muß, damit man sie 
+noch sicher unterscheiden kann, entspricht dann 1/Ortsfrequenz.
+
+Wobei: 
+Mit der Minimalaufl�sung von 2 Pixeln kann man die Linien im digitalen 
+Bild nur erkennen, wenn sie exakt am Raster ausgerichtet sind. Analoger 
+Film kann die Linien auch dann fehlerfrei wiedergeben, wenn sie um einen 
+beliebigen Winkel gedreht werden, einen geringfügig größeren Abstand 
+haben oder um eine halbe Linienbreite seitlich versetzt sind. In letztem 
+Fall würde das digitale Bild eine unigraue Fläche zeigen.
+
+Um diese Effekte zu vermeiden und beliebige Linien mit einem Abstand
+mindestens um den Faktor 2 erhöhen. Ich vermute Othmar hat dies 
+(etwas irreführend) als "Überabtastung" berücksichtigt.
+
+Ciao, Wrjhn                                   zsyslmvr @ aqtvafjj.uw
+
+Zuletzt gesehen: L'�quipier� �Goyangileul butaghae���Estate romana

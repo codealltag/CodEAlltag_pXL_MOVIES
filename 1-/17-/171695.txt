@@ -1,0 +1,5 @@
+Bindfaden ist ja wohl untertrieben :-)
+Bis ein 3D-Renderer das hinkriegt, was die 1978 (oder wann war das?) mit
+einfachen Modelltricks auf die Beine gestellt haben, das ist schon
+einige Arbeit. Denk mal an das 'Motion Blur'. Zeig mir einen Raytracer,
+der das von sich aus kann

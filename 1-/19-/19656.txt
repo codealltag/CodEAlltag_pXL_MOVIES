@@ -1,0 +1,24 @@
+Ich habe mir jetzt die Döbbe NV-GS280 mit CCD Technik gekauft.
+Leider habe ich schon alle 3 PCI-Plätze am PC belegt, so dass ich keine 
+Firewire karte mehr einbauen kann.
+
+Die Camera lässt sich zwar über die mitgelieferte Software mittels USB 
+auslesen und steuern, aber über Premiere Pro lässt sich der Film nur 
+auslesen und die Camera nicht steueren.
+Ich habe alle USB-Treiber die auf der InstallationsCD waren installiert.
+Ich habe mal die Demoversion von IJU heruntergeladen. über das Tool 
+kann ich die Camera voll bedienen jedoch kommt nach ca 5s Aufnahme immer 
+Treiberfehler.
+
+[b]Weiß noch jemand einen Tipp, dass ich auch unter Premiere Pro 1.5 die 
+Camera voll bedinen kann? [/b]
+
+
+Des weiteren habe ich gelesen, dass die Bildqualität über USB gegenüber 
+Firewire leiten soll. [b]Stimmt das?[/b]
+
+PS: Falls ich in der falschen NG bin, wäre es nett wenn Ihr mir sagen könnt 
+wo ich mein Problem posten kann.
+
+Vielen Dank
+Daniel

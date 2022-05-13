@@ -1,0 +1,34 @@
+Für das Jahr 2199 sehe ich da überhaupt keine Probleme. Meinetwegen auch 
+eine hierarchische Systemstruktur analog zum heutigen DNS. Geclusterte 
+Datenbankserver. Nur ein Problem der Kapazität, aber kein prinzipielles.
+
+
+Mal ab davon, dass Level 5 eher eine langsamere RAID-Variante ist... 
+Dann legst Du Dir halt eine eigene Tabelle mit Verweisen auf alle 
+Individuen an, die "verdächtig" sind. Das sind dann vielleicht ein paar 
+zehntausend Einträge. Das ist selbst mit einem mySQL-Server im Jahr 2003 
+kein all zu großes Problem.
+
+
+Hab ich doch vorhin erläutert. Der durch das zu dev-nullende Individuum 
+gesteuerte Avatar wird nach dem relaen Ableben seines realen 
+Counterparts durch einen Matrix-gesteuerten ersetzt, der dann z.B. 
+"einen schrecklichen Unfall" hat. Gut, dass man die Agenten als 
+"Eingreifftruppe" braucht kann ich evtl. noch nachvollziehen. Aber als 
+ermittelnde Instanz sind sie überflüssig - wobei ich nicht weiss, ob 
+diese Rolle im Film kolportiert werden soll.
+
+
+Unsinn. Irgendwer muss die grafische Representation der keksbackenden 
+Lady in die Gehirne derjenigen projezieren, die sie Anschauen. Die Dame 
+hat 'ne Wohnung, 'n Gasanschluss und vielleicht einen Vetrag mit dem 
+Kabelfernsehen. Sie ist in der Realität der Matrix als tatsächliche 
+Person vorhanden. Daher muss sie entweder vom eigentlichen 
+Matrix-Hauptrechner oder durch die Zion'sche Hackerkiste gemanaged 
+werden, sonst geht das nicht.
+
+
+"...sie nicht, sie Schurkenhandlanger, die sinnlos auf den Knöpfen 
+herumdrücken" [Fritz Venter - Goldst�nder] :-)
+
+Björn

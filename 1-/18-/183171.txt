@@ -1,0 +1,18 @@
+Bei CAV auf jeden Fall: Die Umdrehung der Platte ist bei CAV mit 
+den Einzelbildern synchronisiert, das PAL nur 50Hz Bildfrequenz hat
+(gegenueber 60Hz bei NTSC) drehen sich PAL-CAV-LDs auch mit 5/6 der
+Geschwindigkeit von NTSC-CAV-LDs.
+
+Ich vermute mal, dass dies bei CLV-LDs analog gilt. 
+
+Cheers,
+
+ --Christian Hermann Brüntrup
+
+F'up2: de.rec.tv.technik
+
+-- 
+Anfaenger sollten sich die Gruppen  tg.hjhytdia.xixyj und 
+                                    wj.pwykyqff.dmwtugszy ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in ii.test und km.mqr.wrss aufgehoben.

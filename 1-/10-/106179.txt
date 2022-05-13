@@ -1,0 +1,11 @@
+Eine kleine Bitte: Nicht jeder hat eine Standleitung und möchte sich für
+eine Information wie "Der Film hiess 'Der Söldner'" extra einwählen und
+den Browser starten - daher wäre es nett, wenigstens den Filmtitel neben
+dem Suchlink zu nennen.
+
+So long,
+Patrik S. Gaißmayer
+--=20
+Hamster & Co, seit 26.9. steht die Beta (!) 1.3.23.141 bereit
+http://soj.jxgrkad.js bzw. http://rcga.qlevb.ph/yoe88/
+(Geschwindigkeitsproblem der .140 mit .141 abgestellt!)

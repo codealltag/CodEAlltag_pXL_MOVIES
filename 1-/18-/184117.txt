@@ -1,0 +1,11 @@
+2.35:
+
+Wenn ein Film "in 16:9" ausgestrahlt wird, dann ist das 16:9. Bei PALplus
+kann das etwas anders aussehen.
+
+Tschuess,
+Jens
+--
+Jens Halbich                           Student of Computer Science
+Riederich                              E-Mail: e17d@gyb.gux-paqneg.iz
+Germany              WWW: http://zpr-phww.ser.bxp-uicwtg.qh/~k88b/

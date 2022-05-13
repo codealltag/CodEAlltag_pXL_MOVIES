@@ -1,0 +1,11 @@
+Hallihallo!
+
+
+Also, ich habe neulich schon die selbe Frage gestellt, und folgende
+Antwort, die mir gegeben wurde, hat sich als richtig erwiesen:
+Die deutschen Filmtitel werden _nicht_ gefunden, wenn man die komplette
+IMDB durchsucht. Stellt man das Auswahlmenü jedoch auf "Titles", dann
+findet er die deutschen Alternativtitel (egal ob kkiofd.gwzl.quy oder
+sonstwas). Und zwar relativ lückenlos.
+
+Ciao, Bernd

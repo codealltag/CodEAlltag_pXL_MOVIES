@@ -1,0 +1,14 @@
+das ist ein Programm wo man auch Videos und MP3s downloaden kann.
+falls das einer kennt.
+Wenn man nach dem installieren links oben den grünen Stecker drückt, sucht
+sich das Programm automatisch den Server wo eine Verbinung am schnellsten
+möglich ist, oder so und dann kann man bei Optionen noch eine
+Downloadegeschwindigkeit eingeben oder so, und dann kann man den titel eines
+Videofilmes eingeben und dann ladet er es runter.
+allerdings unten ist ein Kästchen wo man sieht ob die Verbindung
+funktioniert, und ich sehe da dauernd nur die Verbindungsversuche seit
+geraumer Zeit. Jetzt frage ich mich wie das Programm wirklich funktionier.
+Würde es gehen,w rde neben dem Stecker ein rotes Kästchen leuchten, was
+anzeigen würde, das die Verbindung funktioniert.
+www.vaqcphx9355.bwd
+Versino 34.16.57 habe ich

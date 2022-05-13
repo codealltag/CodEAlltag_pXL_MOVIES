@@ -1,0 +1,225 @@
+NG-Statistik drfm für den 18. 04. 22 2003
+erstellt mit einem Skript von Sergio Ules.
+
+27/02: 2347 postings
+28/02: 2252 postings
+01/03: 1990 postings
+02/03: 1790 postings
+
+2352 postings
+
+Autoren mit den meisten Postings (2352 Postings)
+
+ Pos | Anz |  Lin | KByte | Autor                 | Diagramm            
+-----+-----+------+-------+-----------------------+---------------------
+   1 |  81 | 2189 | 148.7 | Tim Leenen             |  3.4%  xxxxxxxxxxxxx
+   2 |  76 | 2042 | 146.7 | Peter Leupolt        |  3.2%  xxxxxxxxxxxxx
+   3 |  62 | 1284 | 105.6 | Eilt P. Buttelmann      |  2.6%  xxxxxxxxxx   
+   4 |  55 |  783 |  87.1 | Marcus Alipaß            |  2.3%  xxxxxxxxx    
+   5 |  53 | 3375 | 231.5 | Thierry Woldenga            |  2.3%  xxxxxxxxx    
+   6 |  50 | 1364 | 109.4 | Markus Herspiegel       |  2.1%  xxxxxxxx     
+   7 |  41 | 1060 |  73.1 | Ulfert Trum           |  1.7%  xxxxxxx      
+   8 |  40 |  717 |  64.9 | Benno Göltenbodt        |  1.7%  xxxxxx       
+   9 |  39 |  907 |  72.1 | Gebhard I. Bittersmann     |  1.7%  xxxxxx       
+  10 |  37 |  980 |  70.3 | Maximilian Unglaube        |  1.6%  xxxxxx       
+  11 |  36 | 1141 |  66.9 | Christoph Leuth            |  1.5%  xxxxxx       
+  12 |  35 |  562 |  46.8 | Manfred Unverwerths          |  1.5%  xxxxxx       
+  13 |  33 |  547 |  46.2 | H.Gensheimer              |  1.4%  xxxxx        
+  14 |  32 |  772 |  57.4 | Eilt Clausohm        |  1.4%  xxxxx        
+  15 |  31 | 1172 |  71.8 | Ivan Müller-Uri    |  1.3%  xxxxx        
+  16 |  29 |  796 |  64.9 | Walter Leithe          |  1.2%  xxxxx        
+  17 |  28 |  990 |  64.7 | Beat Jürries             |  1.2%  xxxx         
+  20 |  27 |  920 |  66.6 | Samu Lonnendonker        |  1.1%  xxxx         
+  23 |  26 |  679 |  40.7 | Gebhard Lindorf           |  1.1%  xxxx         
+  25 |  25 |  541 |  41.0 | Garrelt Ufermann          |  1.1%  xxxx         
+  26 |  24 |  716 |  50.7 | Luca Kimel          |  1.0%  xxxx         
+  29 |  23 |  807 |  50.7 | Julian Geltner      |  1.0%  xxx          
+  31 |  21 |  372 |  31.1 | Salvatore Wastlschmid         |  0.9%  xxx          
+-----+-----+------+-------+-----------------------+---------------------
+
+
+Autoren mit wenig Postings (367 Postings)
+
+ Postings | Anz | Diagramm                                              
+----------+-----+-------------------------------------------------------
+       10 |   9 |  2.5%  xxx                                            
+        9 |   7 |  1.9%  xx                                             
+        8 |  11 |  3.0%  xxx                                            
+        7 |   7 |  1.9%  xx                                             
+        6 |  11 |  3.0%  xxx                                            
+        5 |  11 |  3.0%  xxx                                            
+        4 |  23 |  6.3%  xxxxxxx                                        
+        3 |  41 | 11.2%  xxxxxxxxxxxxx                                  
+        2 |  49 | 13.4%  xxxxxxxxxxxxxxxx                               
+        1 | 141 | 38.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Autoren mit den meisten Threads (203 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Gerhard                 |   8 |    17 |  3.9%  xxxxxxxxxxxxxxxxxxxx
+   2 | Eilt Dänzler         |   5 |    47 |  2.5%  xxxxxxxxxxxxx       
+-----+-----------------------+-----+-------+----------------------------
+
+
+Autoren mit den Threads mit dem meisten Traffic (203 Postings)
+
+ Pos | Gründer               | Anz | Artkl | Diagramm                   
+-----+-----------------------+-----+-------+----------------------------
+   1 | Eilt P. Buttelmann      |   1 |   189 |  8.0%  xxxxxxxxxxxxxxxxxxxx
+   2 | Maximilian Andrä        |   4 |   180 |  7.7%  xxxxxxxxxxxxxxxxxxxx
+   3 | Nico Helleken        |   3 |   118 |  5.0%  xxxxxxxxxxxxx       
+   4 | Ivan Müller-Uri    |   3 |    96 |  4.1%  xxxxxxxxxx          
+   5 | Gebhard Lindorf           |   5 |    95 |  4.0%  xxxxxxxxxx          
+   6 | Eilt Clausohm        |   4 |    91 |  3.9%  xxxxxxxxxx          
+   7 | Edmund Ahrens Jr.   |   1 |    85 |  3.6%  xxxxxxxxx           
+   8 | Peter              |   1 |    74 |  3.1%  xxxxxxxx            
+   9 | Walter Leithe          |   1 |    70 |  3.0%  xxxxxxx             
+  10 | Christof Grüb    |   1 |    69 |  2.9%  xxxxxxx             
+  11 | Gerd Rister          |   1 |    55 |  2.3%  xxxxxx              
+  12 | Winfried Printzen        |   2 |    52 |  2.2%  xxxxx               
+-----+-----------------------+-----+-------+----------------------------
+
+
+Threads mit den meisten Postings (2352 Postings)
+
+ Pos | Anz | Threads                                 | Diagramm         
+-----+-----+-----------------------------------------+------------------
+   1 | 189 | Kill Bill                               |  8.0%  xxxxxxxxxx
+   2 | 110 | 2 Gründe warum Matrix II bei vielen nich|  4.7%  xxxxxx    
+   3 |  94 | Die Liga ...                            |  4.0%  xxxxx     
+   4 |  91 | Synchronsprecher, die bessere Stimmen ha|  3.9%  xxxxx     
+   5 |  85 | Interview mit Isenhardt in Spiegel Onlin|  3.6%  xxxx      
+   6 |  82 | Kill Bill: Meine paar Eurocent          |  3.5%  xxxx      
+   7 |  74 | "Kill Bill" oder "Das Wunder von Bern" ?|  3.1%  xxxx      
+   8 |  70 | [Statistik] fzni, 02/03                 |  3.0%  xxxx      
+   9 |  69 | Filme, deren erzählte Zeit nur "eine Nac|  2.9%  xxxx      
+  10 |  55 | Governator                              |  2.3%  xxx       
+  11 |  49 | US-Filme und Bibelzitate                |  2.1%  xx        
+  12 |  45 | eyes wide shut                          |  1.9%  xx        
+  13 |  42 | Schlechteste Filme aller Zeiten (2)     |  1.8%  xx        
+  14 |  39 | Filme mit Disco-Scenen                  |  1.7%  xx        
+  16 |  37 | der pate, dvd                           |  1.6%  xx        
+  17 |  35 | Filmempfehlung zum Thema Identität gesuc|  1.5%  xx        
+  18 |  28 | F: Alien - Logikfehler ?                |  1.2%  x         
+  20 |  27 | Indizierungsliste                       |  1.1%  x         
+  21 |  25 | Alien: Tonqualitaet und anderes         |  1.1%  x         
+-----+-----+-----------------------------------------+------------------
+
+
+Kurze Threads (203 Postings)
+
+ Länge | Anz | Diagramm                                                 
+-------+-----+----------------------------------------------------------
+    10 |   4 |  2.0%  xxx                                               
+     9 |   3 |  1.5%  xx                                                
+     8 |  11 |  5.4%  xxxxxxxxxx                                        
+     7 |  11 |  5.4%  xxxxxxxxxx                                        
+     6 |   9 |  4.4%  xxxxxxxx                                          
+     5 |  16 |  7.9%  xxxxxxxxxxxxxxx                                   
+     4 |  15 |  7.4%  xxxxxxxxxxxxxx                                    
+     3 |  11 |  5.4%  xxxxxxxxxx                                        
+     2 |  23 | 11.3%  xxxxxxxxxxxxxxxxxxxxxx                            
+     1 |  52 | 25.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+Verwendeter Newsreader (Ein Posting pro Autor, 342 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+ 110 | Villasofa Outlook Express      | 32.2%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  49 | Vollreinigung                        | 14.3%  xxxxxxxxxxx              
+  44 | Forte Agent                    | 12.9%  xxxxxxxxxx               
+  18 | Xnews                          |  5.3%  xxxx                     
+  17 | Netscape                       |  5.0%  xxxx                     
+  14 | KNode                          |  4.1%  xxx                      
+  13 | MacSOUP                        |  3.8%  xxx                      
+  13 | slrn                           |  3.8%  xxx                      
+  11 | Gnus                           |  3.2%  xx                       
+   9 | Forte Free Agent               |  2.6%  xx                       
+   9 | 40tude_Dialog                  |  2.6%  xx                       
+   8 | tin                            |  2.3%  x                        
+   5 | Pan                            |  1.5%  x                        
+   4 | Hamster                        |  1.2%                           
+   3 | CrossPoint                     |  0.9%                           
+   2 | MicroPlanet Gravity            |  0.6%                           
+   2 | T-Systems.20                      |  0.6%                           
+   1 | Forte Agent 32Bit (mit Hamster |  0.3%                           
+   1 | T-Shop                          |  0.3%                           
+   1 | MorVer                         |  0.3%                           
+   1 | nn                             |  0.3%                           
+   1 | T-Systems.21                      |  0.3%                           
+   1 | TIN [                          |  0.3%                           
+   1 | yes                            |  0.3%                           
+   1 | News-via-Hand Quick-Express    |  0.3%                           
+   1 | Opera7.10                      |  0.3%                           
+   1 | XNews                          |  0.3%                           
+   1 | Hamster-Pg                     |  0.3%                           
+
+
+Verwendeter Newsreader bei Autoren mit mindestens 5 Postings (Ein
+Posting pro Autor, 107 Postings)
+
+ Anz | Newsreader                     | Diagramm                        
+-----+--------------------------------+---------------------------------
+  22 | Vollreinigung                        | 20.6%  xxxxxxxxxxxxxxxxxxxxxxxxx
+  21 | Villasofa Outlook Express      | 19.6%  xxxxxxxxxxxxxxxxxxxxxxxx 
+  18 | Forte Agent                    | 16.8%  xxxxxxxxxxxxxxxxxxxxx    
+   7 | Netscape                       |  6.5%  xxxxxxxx                 
+   6 | KNode                          |  5.6%  xxxxxxx                  
+   5 | MacSOUP                        |  4.7%  xxxxx                    
+   5 | slrn                           |  4.7%  xxxxx                    
+   4 | Xnews                          |  3.7%  xxxx                     
+   3 | tin                            |  2.8%  xxx                      
+   3 | 40tude_Dialog                  |  2.8%  xxx                      
+   3 | Gnus                           |  2.8%  xxx                      
+   2 | Forte Free Agent               |  1.9%  xx                       
+   2 | MicroPlanet Gravity            |  1.9%  xx                       
+   1 | Forte Agent 32Bit (mit Hamster |  0.9%  x                        
+   1 | MorVer                         |  0.9%  x                        
+   1 | Hamster                        |  0.9%  x                        
+   1 | Pan                            |  0.9%  x                        
+   1 | News-via-Hand Quick-Express    |  0.9%  x                        
+   1 | Opera7.10                      |  0.9%  x                        
+
+
+Postingverteilung über den Monat (2352 Postings)
+
+ Tag | Anz | Diagramm                                                   
+-----+-----+------------------------------------------------------------
+   1 | 102 |  4.3%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                 
+   2 |  38 |  1.6%  xxxxxxxxxxxxx                                       
+   3 |  32 |  1.4%  xxxxxxxxxxx                                         
+   4 |  48 |  2.0%  xxxxxxxxxxxxxxxx                                    
+   5 |  33 |  1.4%  xxxxxxxxxxx                                         
+   6 |  54 |  2.3%  xxxxxxxxxxxxxxxxxx                                  
+   7 |  41 |  1.7%  xxxxxxxxxxxxxx                                      
+   8 | 153 |  6.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+   9 | 133 |  5.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx      
+  10 |  90 |  3.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  11 | 105 |  4.5%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  12 |  64 |  2.7%  xxxxxxxxxxxxxxxxxxxxxx                              
+  13 |  62 |  2.6%  xxxxxxxxxxxxxxxxxxxxx                               
+  14 |  71 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  15 | 113 |  4.8%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx             
+  16 |  64 |  2.7%  xxxxxxxxxxxxxxxxxxxxxx                              
+  17 |  98 |  4.2%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                   
+  18 |  73 |  3.1%  xxxxxxxxxxxxxxxxxxxxxxxxx                           
+  19 |  87 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  20 |  92 |  3.9%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                     
+  21 |  87 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  22 | 104 |  4.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                
+  23 |  65 |  2.8%  xxxxxxxxxxxxxxxxxxxxxx                              
+  24 |  84 |  3.6%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxx                       
+  25 |  69 |  2.9%  xxxxxxxxxxxxxxxxxxxxxxx                             
+  26 |  62 |  2.6%  xxxxxxxxxxxxxxxxxxxxx                               
+  27 |  70 |  3.0%  xxxxxxxxxxxxxxxxxxxxxxxx                            
+  28 |  40 |  1.7%  xxxxxxxxxxxxx                                       
+  29 |  81 |  3.4%  xxxxxxxxxxxxxxxxxxxxxxxxxxxx                        
+  30 |  87 |  3.7%  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx                      
+  31 |  50 |  2.1%  xxxxxxxxxxxxxxxxx                                   
+
+
+Größe
+Walter

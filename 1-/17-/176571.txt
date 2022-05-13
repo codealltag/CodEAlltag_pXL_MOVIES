@@ -1,0 +1,14 @@
+On the stormy day of Mon, 7 Mrz 1999 01:24:35 +0100, thou, oh "Gilbert
+Winand" <efmd46@agg-karn.jc>, said thy word and thy word was:
+
+
+Dann frage ich mich ernsthaft wie das bei NTSC gehen soll. Die haben
+ja (fast) 30 fps und nicht 25. Und der Schritt 24->30 (NTSC) ist etwas
+beachtlicher als 24->25 (PAL) und sollte eine ganz schön immense
+Tonerhöhung hinlegen. Oder liegt da eine andere Technik zugrunde?..
+
+-- 
+-----Erich "Ivan" Klassen---------------------
+"On the road for days
+two wheels, an engine, and me
+I dont brush my teeth" <Full Throttle>

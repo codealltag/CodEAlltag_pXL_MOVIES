@@ -1,0 +1,75 @@
+V.Klblqts@lsgth.ikuc.ee wrote at 09.06.98
+about the topic "Re: US DVD: "Prince of Darkness" Review":
+
+
+ abhaengig vom modell entweder im audio setup auf PCM gehen oder
+ via kippschalter an der geraeterueckseite
+ jetzt liegen die daten im PCM format am digitalen ausgang an
+ allerdings kann (wie ich mittlerweile selbst erfahren habe)
+ der 990er mit PCM signalen am digitaleingang nix anfangen
+
+ z.b. mein bauchgefühl wechselt dann entsprechend von "digital source ac3"
+ auf "digital source pcm"
+
+
+ ein netter hinweis wie man aus der entsprechenden DVD einen Dolby Surround
+ Ton hohlen kann, (anscheinend sowie nur bei bestimmter hardware noetig)
+ verbunden mit einer Qualitaetseinschaetzung des
+ entsprechenden Dolby Surround Tons, haette glaube ich den meisten Lesern
+ weit mehr geholfen, als das was du geschrieben hast, aber es handelt sich
+ ja hier um deine empfehlungen und da will ich dir natuerlich nicht reinreden
+
+
+ hiermal eine reihe meiner laserdiscs auf die alle deine 3 punkte
+ auf aehnliche weise zutreffen : (Cover und LD)
+
+ Folgner Park    - Dolby Digital - Digital Sound Stereo
+ The Lost World   - Dolby Digital - Digital Sound Stereo
+ Judge Dred       - Dolby Surround AC3 Digital - Digital Sound - Stereo
+ Spy Hard         - Dolby Digital - Digital Sound - Stereo
+
+ btw: der reciever erhaelt immer ein stereosignal welches dann bei bedarf
+      durch den prologic teil gejagt wird
+      bei den oben genannten laserdiscs wuerde ja auch kein mensch auf
+      den gedanken kommen die in stereo abzuspielen, nur weil man keinen
+      Dolby Surround Hinweis auf dem Cover finden kann
+
+
+ auch diese aussage ist nicht korrekt - bei meinem bauchgefühl z.b. wird jede
+ AC3 2.0 Quelle automatisch in Prologic wiedergegeben
+
+ via "effect" taste kann man natuerlich jederzeit eine solche quelle auch
+ im stereomodus wiedergeben, fuer den dem das besser gefaellt
+ (und solche leute solls ja hier wirklich geben)
+
+ das problem ist halt das das manuelle umschalten zwischen stereo und
+ prologic bei dem 990er nicht mit digitalen ac3 quellen gegeben ist
+ und man sich deshalb auf den "surround flag" verlassen muss, der
+ anscheinend (aus welchen gruenden auch immer) viel zu oft weggelassen wird
+
+
+ ganz im gegenteil - im gegensatz zu dir kann ich weiterdenken und halte mich
+ nicht stur and dem fest was auf irgendwelchen covern steht
+ wie ich bereits in einer anderen mail schrieb, lief dieser film in Kino in
+ Ultra Stereo (siehe Abspann) und ist somit eindeutig fuer ein abspielen im
+ Dolby Prologic Mode vorgesehen und NICHT fuer die reine Stereowiedergabe
+
+ die tatsache das Image auf ihre Cover irgendwelchen Unsinn aufgedruckt
+ haben, kann ueber diese Tatsache nicht hinwegtaueschen
+
+ was du da so nett als "Stereoversion" bezeichnest unterscheidet sich
+ aber aus technischer sicht auch nicht im geringsten von einer entsprechenden
+ "Dolby Surround" Version
+
+ du gehoerst sicher auch zu den Menschen die ihren Surround Verstaerker
+ nur anschmeissen wenn sie das MZKB Logo in ihrer Fernsehzeitschrift sehen,
+ und bei einem Stereo Logo das ganz nur in Stereo sich anhoeren
+
+ dann wuensche ich noch weiter viel Spass beim ungetruebten Stereogenuss :-)
+
+
+Bye
+ Niko
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------

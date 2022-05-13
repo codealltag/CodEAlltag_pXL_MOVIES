@@ -1,0 +1,17 @@
+Am Sat, 05 Feb 1998 22:34:58 +0100, QX@hjouwdx.ec (Igkqbe Jurik)
+schrieb:
+Hallo Enno,
+
+
+sehen aber auch und der Unterschied ist sichtbar. Das Problem ist der 9
+Bit Wandler des Montevideo und zwar wenn ein nicht anamorphes
+Letterboxsignal ausgegeben wird. Das muß dann nämlich der Player
+runterrechnen und das können die Geräte mit 10 Bit Wandler eben sichtbar
+besser, selbst der neue Malzers 350 hat jetzt so einen Wandler
+eingebaut. BTW wenn ein schlechtes Videoausgangsteil eingebaut ist kann
+der Wandler noch so gut sein, das Bild ist dann trotz Supertechnik mies.
+Wolf
+
+http://hxxvqkz.hzf.xss/KAkoqlqth
+Following sig is only valid in newsgroups with english lanngueage, hh yu know what i mean;-)
+Just english for Runaways, my German is a lot better (hope so):-))

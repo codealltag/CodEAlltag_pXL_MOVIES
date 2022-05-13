@@ -1,0 +1,14 @@
+Oder einen vernüftigen Decoder mit zuschaltbarer Dynamikkompression
+benutzen. Wofür bietet Dolby Digital denn diese schönen Features?
+
+Schüsse sind nun einmal um einiges lauter als eine normale Sprechstimme,
+und das soll ein Film auf Wunsch auch vermitteln. Auch hier übrigens ein
+Vorteil der DVD gegenüber dem Fernsehen: dort ist a) die nutzbare
+Dynamik sowieso kleiner und b) muss jeder Sender komprimieren, da sich
+sonst die Zuschauer beschweren, daß der Ton zu leise ist. Der Zuschauer
+hat also nicht die Wahl ob er volle oder eingeschränkte Dynamik will.
+
+	Severin
+-- 
+PGP public key available from keyservers   Landgard 9758469
+"To err is human. To really screw it up takes a computer."

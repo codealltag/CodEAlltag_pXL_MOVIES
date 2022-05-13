@@ -1,0 +1,22 @@
+Blockbildung, aka "Artefakte", das ist auf Deutsch: beschissene
+Bildqualität infolge Kompression/Dekompression. Datenverlust.
+Zusammenfassung mehrerer Pixel zu einer einheitlichen Fläche.
+Minimierung von Rechenleistung. vgl. Bandbreite, Datenrate,
+u.v.a.m.
+
+Es scheint verschieden gute Dekompressions-Algorithmen zu geben,
+oder was weiß ich sonst, wie es kommt, dass die Artefakte bei
+manchen DVD beinahe unerträglich sind, bei anderen wiederum fast
+kaum bemerklich.
+
+Jedenfalls: Mehr (also besseres) ist derzeit nicht drin. Auch in
+HD-irgendwas nicht. Da sind die Artefakte dann vielleicht
+kleinteiliger, sozusagen maßstabgerecht vergleinert - was ich
+aber noch nicht einmal wirklich glaube (und auch auf der GRW
+nicht bestätigt fand - vielmehr der selbe Schrott wie
+"normal-Kontakt").
+
+Abwarten. Sich nix einreden lassen! immer an "Des Kaisers neue
+Kleider" denken!
+
+ULRIKE

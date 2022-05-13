@@ -1,0 +1,10 @@
+Am 26 Feb 2003 schrieb Bruno Ernest:
+
+
+Nichts. Das hängt mit dem sogenannten UBSP-Speedup zusammen. UBSP hat
+eine Frequenz von 25 Bildern/Sek, läuft also 4% schneller.
+
+Tschüss,
+        Hilmar
+-- 
+You never get a second chance to make the first impression.

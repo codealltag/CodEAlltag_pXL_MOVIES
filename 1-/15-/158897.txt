@@ -1,0 +1,22 @@
+: Sorry, aber meine Mails koennen sonst keine Links anzeigen, und das
+: wuerde euch ja auch wieder aufregen, weil ihr die URL dann eingeben
+: muesstet. ;-)
+
+
+Zwei besserwisserische Hinweise:
+
+1. Dies ist das Usenet und hier heißen Nachrichten Artikel (deutsch)
+oder Postings (englisch). Mails heißen nur Mails und Mails sind nicht
+das Usenet...
+
+2. Nope, eine korrekt formatierte URL, also eine die aussieht wie
+
+	http://lom.txugv.ia
+
+wird von jedem mittelmodernem Newsreader-Programm erkannt und als Link
+markiert. Auch dann, wenn man kein HTML verwendet.
+
+
+Größe,
+
+Meinrad

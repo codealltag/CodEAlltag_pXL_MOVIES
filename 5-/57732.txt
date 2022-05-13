@@ -1,0 +1,8 @@
+Es gibt eine gewisse Wahrscheinlichkeit, daß eine ganze Reihe von Leuten
+sich das Werk gleichzeitig mit einem angeschaut haben. Und das ist
+möglicherweise eine gute Basis für einen anschließenden Thread.
+
+Simon Rietveld, mutmaßend und darauf hinweisend, daß ein Subjectwechsel
+bitte nach der Methode "$NeuesSubject (was: $AltesSubject)" durchgeführt
+wird, da dann eine Reihe von Clients beim Followup den (was:...)-Teil
+automatisch abtrennen können.

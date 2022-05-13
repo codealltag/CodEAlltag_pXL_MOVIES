@@ -1,0 +1,26 @@
+In <42tt5386$058oj7f7$4v761006@pg5> on 1997-03-16 09:51:16
+
+Ich habe die Anzeige nicht gesehen. Steht da
+
+a) die Player können umgeschaltet werden (vom Kunden)
+
+oder
+
+b) Dein Player wird mit Code 1 oder (XOR) Code 2 geliefert?
+
+
+Möglichkeit a) ist im Moment unwahrscheinlich. Möglichkeit
+b) ist völlig normal - Du bekommst dann entweder einen
+"deutschen" A100 oder einen "US"-A100 mit anderem Netzteil.
+
+Gerade der 2006 von Kinderfundgrube wird doch schon vielerorts (z.B.
+von US Video Center) als USA-Import mit 220V-Netzteil ange-
+boten. (Der Preis liegt bei ca. 1400 DM - also das, was ein
+DVD-Player hier auch kostet.)
+
+
+Ansonsten ist doch klar, daß der Country-Lock früher oder
+später geknackt wird ... ist schließlich nur ein bißchen
+Software.
+
+Luis

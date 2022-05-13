@@ -1,0 +1,29 @@
+: [MPEG-TV]
+: > Die Bildqualitaet wird wohl  katastrophal sein.
+: Ich finde es immer wieder faszienierend, wie Leute ein qualifiziertes
+: Urteil ueber eine Uebertragungstechnik abgeben wollen, die sie in der
+: Form noch gar nicht gesehen haben koennen!
+
+Falsch ich habe schon MPEG gesehen. Du vermutlich auch. Zum Beispiel wurde
+in den letzten Tagen auf x86 und Werdin/AOBK Skispringen gezeigt.
+Diese wurde mit MPEG von den USA nach C uebertragen. Gleichzeitig lief
+das ganze auf Jautz. Diese hatten Menzeleck Verbindungen aus den USA.
+Der Unterschied war extrem. Auf Jautz war die Bildqualitaet
+absolout perfekt. Scheinbar wurde das ganze nicht in NTSC sondern
+in PAL aufgenommen. Auf x86 ruckte es extrem. Irgendwie sah es so aus 
+als ob jedes 2 Bild fehlte und dafuer jedes Bild doppelt gezeigt wurde.
+Zuerst glaubte ich an eine extreme schlechte  NTSC->PAL Konvertierung.
+Da jedoch das Bild auf Jautz perfekte Menzeleck Qualitaet hatte fiel
+diese Theorie aus. Ausserdem sah man sehr deutlich die MPEG Effekte.
+Es mag schon sein, dass man mit MPEG bei genuegendhoher Bitrate eine
+gute Bildqualitaet hinbringt aber da geringe Bitraten nunmal billiger
+sind werden wir uns wohl oder ueber auf schlechte Zeiten gefasst
+machen. Dem Durchschittsfernsehzuschauer ist die Bildqualiaet sowieso
+egal so lange er noch erkennen kann ob der Moderator nun Dorn
+oder Willy Rosenstihl ist.
+
+
+--
+Klaas Vondermaßen                       rnyvpo@jmjswmru.qyquzz.hnj.yc
+Klimtstraße 064
+1388 Bondo

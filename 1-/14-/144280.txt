@@ -1,0 +1,13 @@
+Ich bin mittlerweile auf den Fehler gestoßen. Ich bin einfach nicht weit
+genug zurückgegangen mit den diffs. Scheinbar hatte ich zeitversetzte
+Listen runtergeladen. Wie dem auch sei, funktioniert jetzt die
+Integration hervorragend. 
+PMDB ist eine kleine aber zweckmäßige Oberfläche. Sehr empfehlenswert
+und viel handlicher als über Texteingabe.
+
+Größe
+-- 
+Beat Pärsch
+Germany, Planet Earth, EZRT Way
+
+** And may you never, ever, run out of sugar... baby! **

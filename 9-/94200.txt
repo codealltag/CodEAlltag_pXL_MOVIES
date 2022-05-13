@@ -1,0 +1,204 @@
+2. CfV zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            de.rec.film.misc
+                            ================
+
+Alte Tagline
+============
+
+os.ecw.inpb.ecod       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Film ab! Nicht nur im Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Filmen, deren Schauspieler,
+Regisseure und Crews sowie Tricktechnik und Filmmusik diskutiert,
+solange es keine speziellere Gruppe zum jeweiligen Thema gibt.
+
+Hintergrund
+===========
+
+Siehe 1. RfD <Rfd-1-Aenderung-de.rec.film.misc-09.07.2002-1@dana.de>,
+2. RfD <Rfd-2-Aenderung-de.rec.film.misc-16.07.2002-1@dana.de> und
+3. RfD <Rfd-3-Aenderung-de.rec.film.misc-27.07.2002-1@dana.de> und
+folgende Diskussionen.
+
+Die alte Kurzbeschreibung wird im Vorschlag um Buzzwords gekürzt, die
+eher für andere Newsgroups charakteristisch sind (TV, Video, Serien), 
+und die verbleibenden Buzzwords (Film, Kino) in der neuen 
+Kurzbeschreibung sprachlich angereichert.
+
+Der angehängte Satz des Chartavorschlages "solange es keine speziellere
+Gruppe zum jeweiligen Thema gibt" ist ein Standardsatz in de.ALL für
+..misc-Gruppen.
+
+Der Verweis auf "Fernsehthemen" in der alten Charta kann dann gestrichen
+werden, da der Satz durch die neue Ergänzung "solange..." überflüssig
+wird.
+
+Der Verweis auf "eigene Filme" in der alten Charta soll gestrichen, da
+zum einen eigene Filme in drfm einen verschwindenden Anteil ausmachen,
+zum anderen aber Eigenproduktionen auch von der neuen Charta abgedeckt
+werden.
+
+Einige zusätzliche für drfm charakteristische Buzzwords sind in den
+Chartavorschlag aufgenommen worden.
+
+Modalitaeten
+~~~~~~~~~~~~
+Proponent:       Italo Lüssens <ehypivu.wodnq@bk-umaxdjcja.xd>
+Wahlleiter:      Ingmar Kulage <hno@tjqxoxjher.ly>
+Vote-Account:    pnbk@petq.urqlhrijuf.tr
+Abstimmungsende: Mit Ablauf des 28.05.2003 (MESZ)
+Wahlschein:      Untenstehendes Formular ist zu verwenden.
+                 Moeglich sind JA, NEIN, und ENTHALTUNG.
+Bestaetigungen:  Persoenlich, dazu Sammelbestaetigung im 2.CfV
+Details:         Es zaehlen nur per Mail eingegangene Stimmen.
+                 Vgl. die Wahlregeln in bs.tfiji.gjrhw.
+
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer Charta/Tagline-Aenderung de.rec.film.misc
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn Du keinen Real-Namen angibst, kann Deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Aenderung der Tagline
+
+#2   [            ]  Aenderung der Charta
+
+
+Zur Verarbeitung des Wahlscheines und inbesondere der Veroeffentlichung
+des Ergebnisses ist deine Zustimmung zur Speicherung, Auswertung und
+Veroeffentlichung deiner Stimmdaten (Name und E-Mail-Adresse in
+Verbindung mit dem Stimmverhalten) im Rahmen dieses Verfahrens
+erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+
+Folgende Personen haben sich bislang an der Abstimmung beteiligt:
+========================================================================
+yacinbao@xuftgvan.dp.gy.xdv                              Willi Züllighoven
+dfdiywi@dmc.nvk                                             Willi Kerschbaum
+Tkdzpyu.Meponhktw@lsrnuco.yb                           Willi Ulfkotte
+lhrggsl@zibezlzni.tr                                       Willi Wiedeking
+amvqav@uqg-tfnmwatagll.kh                                 Igor Elsemann
+jzdoe4@oioicnjsx.hsj                                     Tino L Umbehaue
+qmcju@ggb.con                                             Alexandre Zieche
+unknd_ihabn-fx_pznsjq@upg.wg                              Volkmar Burchhardt
+abzyjo@eww.mjp                                       Bernard Gaedeken
+pzabkwkqu.wyja.acdxt@hen.ji                               Bernard Zelter
+mszx@qxi.lhz.cyxghvcv.sr                                  Benjamin Egetemeyr
+veqy@qnislgxk.jr                                          Alexandre Loewer
+cpocvc.yzeqckb@u-ifpgze.zc                                Jan Altensleben
+umngmi@yuo.ej                                               Samuel Preisser
+kxu_zvxoa@yob.qs                                             Otto Leibenzeder
+Ynnvgbiv.Mpwno@saw.dg                                     Elmar Czasch
+Irugx.Ibdmeg@jyl-kugx.ph                                    Carlo Abdinghoff
+Tlzdk.Goqqqduqx@v-hbmykh.sj                              Carlo Weismantel
+bslvw.xwkh@kjr.dj                                             Carlo Mikosch
+KjwscJokn@u-uttvhx.gc                                         Carlo Eijkholt
+Uqoetqpch.Neci@rhk.un                                     Claudio Goldenpfennig
+qxvyymlparbbg.99-85@90m.op                                Willi Rahlfs
+lrtvht@rzu.lry                                             Siegfried Gänßler
+kfpbutdz@ivf.kj                                           Tino Jungnitsch
+qbghn@ykxg.sjm                                 Luca 'Mummert' Oelkrug
+xmvgb.eycp.wizro-ocbh-bum0060@rfi.en                     Luc Oldekamp
+czwmqeq@lfu.ff                                             Ulrichs Mathiesen
+lkbjqtn@xjhefdilulvv.jj                                  Leander Unglaub
+Wj.Tj@crq.vx                                              Klajqfj Edenharder
+Wele.Ipyupyl@s-jfvmxr.et                                Francisco Nonnemacher
+kplhar@a-dnbagz.tq                                            Francis Lhwqc
+hemzzjb@unhmrewlujw.jvf                                  Werner Raithmayer
+Bzwd.Hfkquswm@ryz.ab                                       Urban Egloff
+aheltvxqrawiz@iza.am                                      Liliane Oberconz
+Nllx.Ruqrwvqogso@som.gn                Udo 'fünfundvierzig' Höss
+kf.nx@gml.sc                                               Ingo Niggemeyer
+gjil@FxrwYqhzbt.wr                                           Urban Rocktaeschel
+rjpa@akcerbxyh-mmvtsm.wt                                Darius Englerts
+jukiz_chu_mtdv@qeszkd-raiccl.bd                            Ignaz Einacker
+nddonz.khvkthgz@lutemqi.mf                               Ingo Evert
+zokemx_lhmnhtqbkjp@ditsnpk.cbn                        Ingo Löffler
+cssuqi@nwv.yo                                               Ingo Peimann
+Zcmzd-Ygwmkhs@vrb.xmu                                     David Ueberreiter
+qigtwhe.ukxsf@xcqj.oi                                      Italo Lüssens
+BqcebdyTtdmmwmn@flo.rm                                  Italo Vockeroth
+uqpnteg@lmzxgvffnd.brf-hz.ru                            Gérald Zimmerhackls
+ygpmcourt@thfsveecw.pl                                        Italo Northoff
+xmypzey@polaplcntn.mb                                      Ivan Runtemund
+yfn@wkqh.kr                                                Orlando Lernbecher
+ubjv_gdhpga@zvsft.mu                                         Orlando Ploegar
+xdadeybw@ess.vf                                            Dirk Rehan
+errkfotr@jihxo.pedjzg.wi                                     Lukas Kontze
+Icmzo.Jldyvhw@ebpmu.wo                                     Alexander Eckstet
+Nxvqg.Clijwsr@Urljx.Vbgpzbm.ei                             Alexander Echoldt
+aljldfu@qzpgzvk-7673-42-41.rmjgputxx.kb                      Alfons Neufelder
+sdrrwe@eibv.qy                                 Bmhrodmid 'Dmxt' Uibelhör
+rd@wekhes.vh                                               Nicole Ullius'
+lrslrb.bgglz@aam.nz                                         Gertrud Ziemons
+vggy.mcjtefub@owd.hm                                        Rainer Utermöhle
+lgtjfe.jrutrvyx@iyz.me                                   Robin Gaismaier
+tkyjk_qsihye@tte.jh                                      René Juan
+weayjiyeg@kgna.to                                      Gianni Uedelhofen
+km-lyfggh@esn.mq                                      Darius Mertgen
+kiofywfj@bmcwv.tvs                                          Franziska Qnmaaxu
+Vvcrkj.Jwcgbi@gfq.wu                                       Denis Pennwieser
+ilvllr@plsluuyhe.cd                                      Denis Meinhold
+gndsdff@omzedzqil.na                                       David Heenemann
+yxevlmslb@yxn.heq                                        Denis Greuter
+bmoirei@fsq.pg                                           Ingo Mertgen
+t.nk@ubw.xj                                           Gilbert Unverzagt
+ysg@xgs.uf                                             Gilbert Victor
+AkgkhuUbbve@vde.hh                                          Gilbert Veldens
+fsg@xqnxmijzov.pn                                             Gottfried Runtemund
+pwpc@gahmkcvprqu.om.dob.ccg                           Gianni Bretzlaff
+iwnlyim@yjmavdde.psq                                      Gianni Janowitz
+MevFoscelb@bmc.vt                                            Knut Unterholzner
+gczfl@hsn.urvmiixr.cp                                       Karl Caspari
+kqepftul@caq.ipy                                            Luc Zehetgruber
+zua.okvjlj@lg-yzqkyvfkb.ut                                    Klaas Neuleben
+etrhao-wpbwns@uwwvamu.oaeo.tk                             Samuel Zieche
+wirr@ezshlvfjkdprlnob.ufq                                 Ihno Wilschrei
+wl9@iptpcatf.pn                                             Noah Alexander
+
+Als ungueltig erkannte Stimmen:
+========================================================================
+fpulbc@bkwxbog194-574-39-899.evomgst.kc
+! Kein Name angegeben, Bestaetigung unzustellbar
+
+
+-- 
+Fertige Artikel für kn.eqdgg.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <ovrlkrwzb@rjox.in>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <crky:xj.chboo.vhwjw> und unter <http://fhp.zoki.vy/yqf>.

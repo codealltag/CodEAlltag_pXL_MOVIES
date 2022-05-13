@@ -1,0 +1,8 @@
+Es werden keine Jammer eingesetzt, die einfach Störsignale in den
+jeweiligen Frequenzbereichen senden, sondern Systeme, die eine
+GSM-Basisstation simulieren und durch die Naehe auf jede
+Verbindungsanfrage zuerst antworten koennen. Mit der Methode ist
+es auch moeglich, legitime Anrufe weiterzuleiten.
+
+Gruesse,
+adam

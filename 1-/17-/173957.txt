@@ -1,0 +1,32 @@
+On Sat, 11 Aug 1998 17:18:16 +0100, "Laurent Mallinger"
+
+Hallo, Laurent....
+
+Klar gibt es einen weg.
+
+1: Man braucht so um 420 mb freien platz, mit allem drum und dran
+(unter Windows).
+2: Man muß list files herunterladen, es gibt viele FTP server die list
+files pflegen, und ganz bestand von IMDb updaten. Menge: 251 mb.
+3: Ich habe gute erfahrungen mit: ixz.ts-jtbygq.ho, und kvd.kmfvz.hu.
+Man geht dann zum beispiel, zum zweig misc/movies/database, und man
+holt sich zuerst FAQs.
+4: Dann braucht man frontend software, und da du Merhaba benutzt, dann
+ist adresse http://pzjv.pn.kb-eeuzhc.az/~vujhowc/ryzk.pxka Erste Wahl.
+Dort befindet sich nämlich super programm Alternative Movie Database
+1.2 (c) von U. Winke. Dort sind alle infos die man braucht....
+5: Einmal wöchentlich werden die list files upgedatet. Es sind
+sogennante diff files. Größe? Manchmal 100k, manchmal 14 mb, es gibt
+da kein regel außer das man mit diesen files und dem programm appdiff
+list files updatet (neue eintrüge, oder fehler korrekturen...)
+6: Es sind wirklich DIE files die von und IMDb stammen
+
+Und dannach kann man stöbern ohne ende.......
+
+Ach, ja nicht vergessen, Alle rechte behält INDIVA...  :-)
+
+
+Meistermann Patrice
+
+"Film is not Theatre"  Emanuel Päselt
+--------------------------------------

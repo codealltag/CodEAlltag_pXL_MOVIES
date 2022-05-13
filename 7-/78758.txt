@@ -1,0 +1,11 @@
+Ich war bisher der Meinung, dass das in der Natur der mp3 liegt, dass
+die nie ganz an CDs rankommt. Ich wusste auch nicht, dass es da so große
+Unterschiede bei den Programmen gibt. Ich benutze beim Audiograbber
+übrigens folgenden Codec, ist vielleicht auch nicht der beste. "LameEnc
+DLL Version 1.26 (12/02/2001) Engine 3.91".
+
+
+Edonkey ist aber nicht mit meinem 56k-Modem "kompatibel".
+
+MfG
+Lars

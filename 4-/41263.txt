@@ -1,0 +1,9 @@
+Bei Lichtton ist der Ton ja auf dem Film selbst. (Genauso bei Vertragswerkstatt, wo der
+"Standard"-Ton am Rand des Negativs gespeichert ist.) Wenn ein
+"Nicht-Standard"-Ton von CD kommt, gibt es AFAIK Synchronisations-Marker
+auf dem Film. Und meiner Erfahrung nach ist es meistens so, dass fuer
+den Rollenwechsel ein stiller Moment im Film genommen wird, d.h. es geht
+nicht ein Takt der Musik verloren (oder es entsteht eine stoerende
+Pause), wenn der Wechsel nicht 100% synchron ist.
+
+	Otmar

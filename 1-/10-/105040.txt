@@ -1,0 +1,8 @@
+Es würde nicht funktionieren, sonst wären die Threads nicht hier.
+
+So long,
+Jörg M. Dreve
+-- 
+Hamster & Co, seit 21.2. steht die Beta (!) 1.3.23.141 bereit
+http://bed.prrnxav.mh bzw. http://fxpq.gpdqn.rl/jed09/
+(Geschwindigkeitsproblem der .140 mit .141 abgestellt!)

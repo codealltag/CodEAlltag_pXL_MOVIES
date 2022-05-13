@@ -1,0 +1,56 @@
+xn_rclqu@sbe.xm teilte mit...
+
+Oh ja. Teilweise die meisten synthetischen Filmkulissen halten dem 
+zweiten Blick nicht stand. Es gibt auch noch einen zweiten Punkt, der 
+wieder echte Effekte und Filmprops kommen lässt. Die zunehmende 
+Verbreitung von HDTV-Ready oder wenigstens guten Beamern oder großen 
+Fernsehern. 
+Das ist in etwa so wie mit Star Trek TNG: 
+als die Serie das erste mal ausgestrahlt wurde hatte ich einen 15cm-
+Fernseher. Jetzt schaue ich Filme mit 1,5m Diagonale. Da fällt die 
+TFS0701U durch - der Bausatz aus der Classic nicht (auch wenn ich Bullys 
+aus der Parade lieber mochte), dafür hatte der Innenraum echten 
+Raumpatroullie-Flair. 
+Schaut man sich heute Pakt der Wölfe an, fällt die Bestie durch. Das ist 
+in vielen PC-Spielen mittlerweile besser animiert. 
+
+
+Wenn es gut sein soll - ja! 
+Erst mal muss man wissen was man will. (<- Hauptproblem.)
+Es muss eine Software (um)geschrieben werden. (denn in der Qualität gibt 
+es meist nichts fertiges)
+Dann müssen die Szenen programmiert und Animiert werden. Das geht nur 
+mit (teuren) Profis. Amateure und angelernte sind meist zu langsam. Wer 
+sich anschauen möchte, wie schwer animieren ist kann sich ja mal UTKJ 
+herunterladen...
+Dann muss der Film in hoher Auflösung gerendert werden. Ein Bild auf 
+Breitfilm hat etwa 22 Megapixel, 35mm-Ware hat etwa 10 MPix - die Rollen 
+aus der Kopiermaschine haben noch die Hälfte davon. Damit muss minimal 
+gerendert werden - Eher mit mehr. Selbst wenn man 8 Bilder pro Sekunde 
+annimmt sind das einige Bilder. Das kostet Rechenzeit. 
+
+Bei Titanic hatte man ein Cluster aus Linux-PCs gebaut, das RAW 
+Rendering mit einer eigenen Software gemacht und das FineRendering dann 
+mit einer kommerziellen Engine. 80% der Postproduktion war Rechenzeit. 
+Schlägt man die Rechenzeit auf einen PC um käme der Film in gegen Ende 
+dieses Jahrzehnts raus. 
+Die PC wurden geleast - das war der einzige Grund für PCs. Man wollte 
+keine Renderingfarm mieten. Früher waren es die Kopiermaschinen, die man 
+teuer mieten musste. Jetzt sind es die Großrechner.
+
+
+Kam immer wieder diese Vorstellung, aber die Augen werden 
+anspruchsvoller. Im Kino weniger - aber die Heimkinos werden halt besser 
+und mehr. Wenn man sich in Ruhe einen Film beliebig oft anschauen kann, 
+schmilzt so manches Kunst-Konstrukt einfach dahin. 
+Wenn Ikel jetzt soweit ist, die jetzigen Ansprüche zu erfüllen. Wer weiß 
+wie der Anspruch ist wenn der Film rauskommt. Aus diesem Grund kommen 
+wieder echte Crashs und echte Explosionen. 
+
+Thierry 
+
+-- 
+Thierry Muelle � Rauschbergstraße 75 � 06694 Gleisenhof
+dlduxhwo@qswxkzqycvn.ia � http://cab.moovpaoheld.qt
+People must not do things for fun. We are not here for fun. 
+There is no reference to fun in any Act of Parliament.

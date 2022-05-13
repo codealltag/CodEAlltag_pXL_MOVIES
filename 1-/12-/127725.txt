@@ -1,0 +1,106 @@
+Hallo !
+
+Trotz der Tatsache, dass du einige Dinge offenbar nicht so leicht verstehst,
+hier noch ein paar Antworten ;)...
+
+
+Wo er aufgehängt wurde ? Meine Meinung.
+
+
+Denkt dein Watchdog selbst, wenn er deinen gecrashten NT Server wieder zum
+Leben erweckt (nach vorgegebener Zeit) ? Er hatte halt z.B. 10 Tage als
+Maximale Verbleibzeit eingestellt, als Beispiel.
+
+
+Das Schiff hat gar nichts. Die Crew hat.
+
+
+Das Schiff WOLLTE nicht, es MUSSTE, es hatte IMHO einen Timer.
+
+Raumschleuse
+
+Er konnte den Wahnsinn nicht mehr aushalten, das wirds wohl gewesen sein.
+
+
+Tja, do-it-yourself :)
+
+
+Soweit hatte man es entzerrt bzw. entfiltert.
+
+
+Warum denn nicht ? 2*3 ist 6. Und schon hast du 2 verzerrt. Nur durch die
+Division durch 3 hast du wieder den entzerrten Wert. Und diese Zahl gibt es
+zu finden. Manche primitive Verschlüsselungssysteme beruhen auf so einer
+einfachen Verzerrung. Und so auch beim Fernsehen. Jede 3. Zeile ist um 2
+Bildpunkte verschoben. Wenn man weiß, welche Zeile wieviele Bildpunkte
+verschoben ist, kann man ein entzerrtes Bild konstruieren. Das war jetzt
+einfach ausgedrückt, in Wirklichkeit ist es beim Pay-TV *etwas* komplexer.
+
+
+Nein, warum ? Er hat sich halt damit befasst. Bist du ein Genie, wenn du
+eine ROT11 Nachricht entschlüsseln kannst ? :) Nein, du brauchst nur
+genügend Zeit. Ein Genie bist du, wenn du eine verschlüsselte RSA-Nachricht
+ohne Private-Key entschlüsseln kannst ;). Na gut, auch dafür braucht man nur
+genügend Zeit, aber die Überlegung ist hypotetisch.
+
+
+Wie können die Schiffe in Star-Wars Überlichtgeschwindigkeit fliegen ? Also
+danach darfst du bei Sience-Fiction Filmen nicht fragen. Lieber Willi, wenn
+ich DAS wüsste, wäre ich nicht mehr in einem Schülerheim zuhause :)
+
+
+Das habe ich dir gerade erklärt. Aber offenbar hast dus nicht verstanden.
+Daher nochmal. Denk mal mit der 2. und der 3. Dimension. Wenn eine Ameise
+über eine Schlucht möchte, so muss sie in den meisten Fällen bis zum Boden
+hinunterkriechen und auf der anderen Seite wieder rauf. Sie kann fast nur in
+2 Dimensionen leben (nur zum Verständnis !). Wenn sie ein Vogel wäre, wäre
+sie in null-komma-nichts drüben, da der Vogel ja die 3. Dimension nutzt. Für
+uns Menschen ist der Abstand zwischen und und dem Alpha-Centauri System eine
+SEEEHR tiefe schlucht, und wir können nur rüberfliegen/springen, wenn wir
+in die 4. Dimension, die Zeitdimension, können. Dann dauert der Flug für uns
+so lange, wie für den Vogel über die Schlucht, verstehst du nun ? Du musst
+nur versuchen, die Zeitdimension wie eine ganz normale Dimension zu
+behandeln !
+
+
+Hättest du es schneller machen können ?
+
+
+Nein, echt ?
+
+
+:)
+
+
+Wäre interessant, ja.
+
+
+Die Crew.
+
+
+Nicht alle, nur der Doktor, der den Antrieb gebaut hat. Das ist bitte meine
+Interpretation !
+
+
+Das Schiff hat vielleicht alles erledigt, was es verstehen konnte, deshalb
+waren nur verzerrte Dinge übrig und nur die Funksprüche auf Latein gingen
+durch, was weiß ich...
+
+
+Kannst du es verhindern, dass du irre wirst ? :)
+
+
+Er hätte nie 2km weit in der Zeit durch die Gegend laufen können, das war
+meine Überlegung.
+
+
+Das fragen sich viel schlauere Köpfe als wir es sind und sie haben noch
+immer keine gleiche Meinung darüber :)
+
+
+Ja, die Voyager... :) No comment. Die haben auch ein Holodeck, und
+Holo-Heisln, was weiß ich... :)
+
+Also, Größe
+
+Urban

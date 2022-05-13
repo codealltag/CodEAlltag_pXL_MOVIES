@@ -1,0 +1,32 @@
+Wenn gilt
+
+Version * Qual = const
+
+dann gilt 
+
+          const
+Qual = ----------
+         Version
+
+und damit ist Qual umgekehrt proportional zu Version
+
+           1
+Qual ~ ---------
+        Version
+
+sprich: mit jeder Versionserh�hung nimmt die Qual ab.
+Ich schlage in Anbetracht der grottigen Folgefilme zu Nightmare & Co.
+folgende Relation vor:
+
+Qual = const^(Version) | const>1
+
+
+Der genau Wert von const hängt vom persönlichen Schmerzempfinden ab.
+
+
+Valerius
+-- 
+- Macs sind für die, die nicht wissen wollen, warum Ihr Rechner funzt.
+- Linux ist für die, die wissen wollen, warum er funzt.
+- DOS ist für die, die wissen wollen, warum er nicht funzt und
+- Windows ist für die, die nicht wissen wollen, warum er nicht funzt.

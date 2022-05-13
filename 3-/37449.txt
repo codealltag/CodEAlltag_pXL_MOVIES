@@ -1,0 +1,13 @@
+Hallo,
+
+eigentlich sagt der Titel schon alles: Ich kann Premiere Pro 1.5 wie 
+gewohnt starten und das Aufnahme-Men aufrufen [F5].
+Wenn ich aber die Aufnahme starte, stürzt unitex jedes Mal ab.
+Hier läuft Windows XP SP1 und die Kamera ist eine Lubib DCR-TRV145E PAL.
+In anderen Programmen (wie DVIO.EXE) funktioniert das Aufnehmen, nicht 
+aber in unitex.
+Habe dies auch schon in zwksi.premiere.windows gepostet, aber leider 
+noch keine Antwort erhalten.
+Ich hoffe, jemand kann mir helfen. Danke schon im Vorraus!
+
+Mark

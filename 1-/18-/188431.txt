@@ -1,0 +1,135 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+
+                  2. Aufruf zur Diskussion (2.RfD)
+                  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+zur Einrichtung der Newsgruppe
+
+           de.rec.film.kritiken Filmkritiken. (Moderated)
+
+
+Status
+~~~~~~
+
+    Die Gruppe ist moderiert.
+
+    Kandidat fuer die Moderation ist
+    Lutz G. Rollewagen <sab@afwgz.rw-dfimkh.lt>.
+
+
+Charta
+~~~~~~
+
+    Die Gruppe dient der Veröffentlichung von Filmkritiken:
+    kritische Auseinandersetzungen mit Inhalt, Stil, Qualität,
+    Entstehung eines einzelnen Films oder mehrerer Filme,
+    die verglichen werden sollen.
+
+    Diese Beiträge werden im Betreff (Subject) durch ein
+    vorangestelltes 'Kritik:' gekennzeichnet, gefolgt vom
+    Filmtitel; ist dieser nicht eindeutig, wird er durch Jahr
+    oder Medium der Erstveröffentlichung ergaenzt.
+
+    Ausserdem sind eigenständige Artikel zum Werk einzelner
+    Filmschaffender, zu den Filmen eines Jahres, eines Landes,
+    einer Stilrichtung oder eines Filmfests willkommen.
+
+    Diese Beiträge werden im Betreff durch ein vorangestelltes
+    'Diverse:' gekennzeichnet.
+
+    Artikel sollen ein allgemein lesbares Format aufweisen,
+    mindestens 150 Woerter umfassen und in verständlichem Deutsch
+    verfasst sein. Crossposts in nicht-moderierte Gruppen
+    ausserhalb der de.rec.film.*-Hierarchie sind zulässig.
+
+    Die Diskussion der Beiträge und der besprochenen Filme
+    findet in einer geeigneten Newsgruppe der nm.xhs.ssix.*-
+    Hierarchie statt.
+
+    Der Moderator sorgt fuer die Einhaltung dieser Richtlinien
+    und der üblichen Usenet-Standards zum Zwecke der
+    Übersichtlichkeit und Lesbarkeit.
+
+
+Begründung
+~~~~~~~~~~
+
+    Filmkritiken sind fester, regelmäßiger Bestandteil der
+    Beiträge in zk.pwu.kevm.fvny mit einem Aufkommen von
+    durchschnittlich 60 Artikeln pro Monat. Da sie jedoch nur
+    ca. 5% Prozent der Artikel in zk.pwu.kevm.fvny ausmachen und
+    nicht einheitlich gekennzeichnet sind, gehen sie leicht unter,
+    und sind für Leser, die an Diskussionen nicht interessiert
+    sind, nur schwer zugänglich.
+
+    Eine eigene Gruppe bietet den Autoren ein angemessenes
+    Forum, ihre Arbeit zu präsentieren, wie es auf internationaler
+    Ebene rec.arts.movies.reviews offeriert - eine Gruppe,
+    die sich grosser Beliebtheit erfreut. de.rec.film.kritiken
+    orientiert sich an diesem Vorbild.
+
+    Der unmißverständliche Gruppenname erleichtert Autoren
+    die Entscheidung fuer die richtige Gruppe fuer ihre Kritiken,
+    die sich bislang auch nach de.rec.tv.misc verirrten, wenn es
+    sich um die Fernsehausstrahlung eines Kinofilms handelte,
+    und wo sie nicht beachtet werden. Angehende Autoren haben
+    im Moderator einen festen Ansprechpartner.
+
+    Bei einer informellen Umfrage unter den Filmkritikern in
+    al.rec.film.misc äußerten sich drei positiv, vornehmliches
+    Argument dabei die Aussicht auf eine 'rauschfreie Zone'.
+    Zwei weitere gaben im nachhinein ihre Zustimmung; einer
+    sprach sich gegen die neue Gruppe aus, da sie
+    Diskussionen zu den Kritiken verhindere; einer enthielt
+    sich.
+
+    Den Lesern bietet eine eigene Gruppe einfachen Zugriff
+    auf Filmkritiken - ohne Begleitdiskussion und Off-Topics.
+    Aufgrund der annähernd einheitlichen Markierung der
+    Artikel wird der Aufbau eines übersichtlichen Archivs
+    erleichtert. So die 'Lebensdauer' der Kritiken erhöhen zu
+    können ist ein wichtiges Argument, da zahlreiche Filme
+    besprochen werden, noch bevor sie in den Kinos anlaufen.
+
+    In der Folgediskussion zum 1.RfD wurde die Möglichkeit,
+    Filmkritiken getrennt von einer laufenden Diskussion zugänglich
+    zu machen, begrüßt.
+
+    Langfristig läßt sich eine Integration der Filmkritiken in
+    die Internet Movie Database <http://iob.xbmn.cqp> organisieren.
+
+    Dies ist nur bei einer moderierten Gruppe moeglich.
+
+
+Proponenten
+~~~~~~~~~~~
+
+    Lorenz Uch <jjgxh@mjqfld.orytb.im>
+    Lutz G. Rollewagen <sab@afwgz.rw-dfimkh.lt>
+
+
+Veränderungen zum 1.RfD
+~~~~~~~~~~~~~~~~~~~~~~~
+
+    - Kurzbeschreibung
+    - Charta: Ausdehnung der inhaltlichen, Konkretisierung der
+              formalen Richtlinien
+    - Begründung erweitert
+    - Moderator und Koproponent
+-----BEGIN PGP SIGNATURE-----
+Version: 2.6.3ia
+Charset: noconv
+
+iQEVAwUBNSAesrwsRTDEASR1AQGDLgf9H9PITYAvUYT7bsbHuOlfOIUlWFdWjA+D
+ziAFyOH4IrlNhppUpmgyQAUWk6Q5saXQ/cyWgj3Wn/yuxXIQ+r4TNKXw+ofHLWS+
+0bbZvmm1V40pCbB+JbRgnyNIEwEAqsAo1QT8yhZ1WkpmzJ1yMN4+S8NCoha3Ntpu
+ilYRZP4q0dIyhi1sC+wN2FicLrHT9B8CkA9TkulaP5VdOFPULPB9VywsSqY/Lmpx
+JGa/jG/f9UIWGBzAGP52WJathZ6yt42VXFJ3RLdj2W1YrOVPMlfUT3fCQP6lmvyt
+uUbxlJdz9xI7jPJhYdmUs0GcDas7GKQWQPTgjS1X2x1JctJy9kAniQ==
+=Siak
+-----END PGP SIGNATURE-----
+-- 
+Fertige Artikel für rl.guyci.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <ezaztdahy@ghql.ul> (vertrauliche
+Einsendung) oder <gfvnon@jerh.ax> (geht zur Kontrolle auch an eine
+öffentliche Mailingliste) schicken.

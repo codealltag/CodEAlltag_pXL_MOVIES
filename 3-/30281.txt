@@ -1,0 +1,7 @@
+omics=# select * from cof where text like '%jonas%' and jahr = 2005;
+    id     | action |                              text                              | preis | seite | jahr | monat | shipped | shipped_datum | abgeholt | abgeholt_datum | ignorieren | voraussichtlich 
+-----------+--------+----------------------------------------------------------------+-------+-------+------+-------+---------+---------------+----------+----------------+------------+-----------------
+ PUZ338194 | -      | hitchhikers guide to the galaxy jonas head knocker (c: 3 & 4) | 11.99 |   517 | 2005 |     4 | N       |               | N        |                | N          | 
+ MAY053860 | -      | hgg jean-pierre gun prop replica (c: 3 & 4)                        | 49.99 |   503 | 2005 |     5 | N       |               | N        |                | N          | 
+ FRQ570887 | -      | hitchikers guide to the galaxy 10-in jonas roto af (c: 3 & 4) |    21 |   452 | 2005 |     2 | J       | 2005-05-18    | N        |                | N          | N
+(3 rows)

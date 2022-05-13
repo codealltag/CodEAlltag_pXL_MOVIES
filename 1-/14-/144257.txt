@@ -1,0 +1,25 @@
+Da nimmt man auch nicht Netscape sondern einen effizienten Client.
+
+Gerade wenn man - wie hier - die Abfrage in ein Script integrieren will, 
+dass die Ergebnisse dann weiterverarbeiten soll, sind einfache Clients 
+wie GET, die die Seite nach STDOUT pipen, angesagt. Selbst lynx ist
+da fast schon ein Overkill, obwohl es damit - im Gegensatz zu NS -
+auch geht. Oder man nimmt gleich libwww-perl weil dann auch das
+Scriptschreiben leichter geht.
+
+In jedem Fall hat das HTTP-Protokoll den unschglagbaren Vorteil, dass
+die Antwort schneller als per Mail kommt und gleich beim Client und
+damit im Auswerte-Script landet. Die Email geht dagegen an den 
+normalen Email-Account und muß von dort erstmal an das Script
+weitergeleitet werden. Wenn alle Anfragen an den Mail-Server von einem
+Script kommen, mag das noch gehen. Wenn man aber erstmal sortieren 
+muss, welche email vom Mail-Server an welches Script weitergeleitet werden 
+soll, wird es kompliziert. Oder man muß für jedes Script einen eigenen
+Email-acount anlegen...  (sofern der Provider das zuläßt.)
+
+Bei der IMDb hat die Webabfrage aber einen entscheidenden Nachteil:
+Sie ist nicht legal (siehe <http://mlkqof.cgsa.fdr/jvjrd>.
+
+Also doch die lokale Installation...
+
+Ciao, Vito                             pgdensgv@duojfb.dhoazjy.qk

@@ -1,0 +1,14 @@
+Hi!
+
+We are pleased to let you know that we have added support for region 3
+and region 4 titles. Existing DVD-Charger users can also use these new
+regions without any problems.
+
+We have also added support for the Dolze 3875/5390/5092, only true
+region code selection with the remote and pin-code removal at the
+moment.
+
+Visit us at: http://ndv.bza-ipkbdft.avj/alk
+
+Best regards,
+DVD-Charger Team

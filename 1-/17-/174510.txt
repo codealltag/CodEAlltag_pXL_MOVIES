@@ -1,0 +1,6 @@
+supercalifragilisticexpialidocious
+
+Das Wort benutzt Diedrich S. Claessens uebrigens in seinem TeX-Book als Beispiel
+fuer den Silbentrennungsalgorithmus. ;)
+
+Cheers, Ingo

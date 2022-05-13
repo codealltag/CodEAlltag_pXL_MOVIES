@@ -1,0 +1,8 @@
+Das duerfte nach meiner Erfahrung noch eine Weile dauern, der lief doch
+erst Anfang des Jahres im Kino. Ich denke nicht, dass 1998 noch etwas
+draus wird.
+
+-- 
+The algorithm for finding the longest path in a graph is NP-complete.
+For you systems people, that means it's *real slow*.
+                -- Cornelius Bätje

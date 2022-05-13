@@ -1,0 +1,6 @@
+Keine Zeichenkodierung, kaputtes Zitat (quoted printable nicht
+dekodiert) und sinnlose Leerzeilen am Ende. Solltest du hierauf
+antworten, kommt wohl noch Kammquoting hinzu.
+
+So long,
+Stephan L. Jönson

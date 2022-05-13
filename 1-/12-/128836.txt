@@ -1,0 +1,28 @@
+Eigentlich haben alle drei dasselbe Problem - Transport und
+Charset-Kodierungen (richtig) zu interpretieren. Free Agent und Gravity
+zeigen Artikel immer in der Rohform, WFO versendet unkodiert und
+dekodiert teilweise fehlerhaft.
+
+Aber Netscape 4.7x ist neben dem kostenpflichtigen Forte Agent noch eine
+existierende Alternative und mit dem Unix-Port Gnus soll man theoretisch
+alles incl. Kaffee kochen machen können...
+
+Also _so_ schlecht sieht es nicht aus, alles gute unter Unix gibt es
+auch hier und die Windows-spezifischen Programme haben durchaus auch
+ihre Stärken, wenn man Ebebe, Grüneburger, Radelaktiv Notes und ähnlichen
+Würks vermeidet.
+
+Wobei die Zusammenarbeit mit Morver/Korrnews oder Hamster/Korrnews/
+CopyIf nahezu jeden Reader halbwegs brauchbar macht, was die technische
+Seite der versandten Postings betrifft.
+
+So long,
+Victor O. Kirchübel
+--=20
+Nur noch: 4 Innentüren, Außentür incl. zusätzlichem Oberteil, 2 Auff=
+ahrten und 4
+Wege pflastern, Mutterboden auffüllen, 3x tapezieren, 5 Böden, Schlafzim=
+merboden
+reparieren (Klebefliesen halten nicht), 1 Treppe fliesen, Spitzbogen: Vergip=
+sung
+spachteln, Telefoninfrastruktur, Lampen...

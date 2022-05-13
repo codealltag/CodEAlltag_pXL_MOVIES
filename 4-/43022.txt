@@ -1,0 +1,48 @@
+Hallo Gregor Jeutter, am 26 Jul 2005 schriebst du:
+
+
+Auch wenn der keine plausiblen Daten mehr hat, wird er natürlich
+abbrechen.
+
+
+Und genau das wird der Operator tun.
+Meinst du, nur weil kein Automat sagt "jetzt abschalten" (oder das
+automatisch tut), wird ein der Operator sein Versuchsergebnis über ein
+Menschenleben setzen?
+In welcher Welt lebst du eigentlich?
+Was für ein Menschenbild hast du?
+
+Ganz im Gegenteil: Wenn das System in eine automatische Notabschaltung
+läuft, hat der Operator versagt (außer das Problem kam wirklich
+schlagartig). Er sollte schon bei einem sich anbahnenden Problem
+rechtzeitig und geordnet abbrechen.
+
+
+Wenn die Argumente fehlen, greifst du lieber in untere Schubladen?
+
+Ich vermute mal, in deinem "Diplom" steht beim "Grundkurs Lesen und
+Verstehen für Anfänger" nur "war körperlich anwesend", oder?
+
+
+Gerade WEIL es ein Menschenversuch ist und gerade WEIL ich ein
+Ingenieur bin und (daher) KEIN unbegrenztes Vertrauen in Technik habe,
+würde ich solch eine Entscheidung niemals alleine einem Automaten
+überlassen. Der mag gerne als letzte Rückfallebene dienen, mehr aber
+nicht.
+
+Wenn du und deine Informatikkollegen das in einem speziellen Ethikkurs
+lernen müsst, seid ihr nur zu bedauern...
+
+BTW: Ich würde diese Entscheidung auch keinem von "Dr. von und zu
+Brülls, dem göttergleichen Informatiker" persönlich programmierten
+Computer überlassen. Du magst das gerne für dich selbst tun, wenn du
+das Versuchsobjekt wärst.
+
+
+MfG
+ Heino
+
+-- 
+Clemens Jungesblut (schon etwas angeheitert) an die Vertreter der Musikindustrie bei der Avantgartdress-Verleihung angesichts der Nominierten:
+"Und ihr wundert euch, dass es euch schlecht geht?"
+http://aaf.cgq.ka/flrubuxlo/ijykiik-jngukxahkuvlj?ookoiucr=bn

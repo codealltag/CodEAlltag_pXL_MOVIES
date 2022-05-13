@@ -1,0 +1,13 @@
+And on the seventh day Vittorio L. Ihlenfeldt spoke:
+
+
+Man hat viele Unzulänglichkeiten der QT4-Oberfläche beseitigt. Die
+Lautstärke wird jetzt über einen Schieberegler gesteuert, man hat die
+volle Kontrolle über das Fenster (minimieren, maximizieren, schließen),
+der Play-Button wandelt sich bei laufendem Film in eine Pause-Taste um,
+das Kamow-Fernsehsender-Angebot führt nun nicht mehr aus, sondern ist über
+einen TV-Button zu erreichen, usw.
+
+Harm
+-- 
+What we do in life, echoes in eternity.

@@ -1,0 +1,53 @@
+Für diese Art der Projektion ist ein spezieller 3D-Projektor erforderlich,
+der 2 Objektive nebeneinander montiert hat und so vom Film (meist 70mm)
+unterschiedlich polarisierte
+Bilder projeziert. Der Film läuft schneller als normaler Film durch den
+Projektor, so daß abwechseln ein Bild von dem linken und ein Bild von dem
+rechten Objektiv projeziert wird.
+Der Zuschauer bekommt eine spezielle Brille, deren Gläser ebenfalls
+unterschiedlich polarisiert sind, so daß das jeweilige Auge auch nur das
+projezierte Bild des entsprechenden Objektivs sieht.
+
+
+Es gibt Laser-Filmtonabtastung. Dabei werden die digital codierten
+Toninformationen am Bildrand des Films von einem Laserstrahl durchleuchtet
+und von einem Lesegerät aufgefangen, welches die so gewonnenen
+Hell-Dunkel-Phasen als digitale Toninformation an der Digitaltondecoder
+weitergibt.
+
+
+IMAX ist die Bezeichnung eines Kinosystems, welches eine vielfach höhere
+Auflösung bietet als normaler Kinofilm (35mm). Normalerweise auf 70mm-Film
+bietet IMAX, eine
+eine über zehnfach höhere Auflösung, anderes Bildformat (4:3, eher
+quadratisch). IMAX-Filme sind auch eher im bereich Dokumentarfilm
+angesiedelt (wegen der imposanten, atemberaubenden Bilder).
+
+
+Für IMAX werden spezielle Kinos gebaut, da die IMAX-Technik nicht kompatibel
+zu der momentanen 35mm Konotechnik ist (anderes Filmformat, anderes
+Tonsystem (Rommersbach))
+
+
+Würde ich eher als unmöglich bezeichnen, da die Leinwand normalerweise fast
+zwanzig Meter hoch sein muß -> Wäre eine höhe Jahrmarktbude...
+Außerdem ist die Technik zu teuer und zu empfindlich für ein ständiges Auf-
+und Abbauen.
+
+
+Die myownbike-Technik kostet im Normalfall noch eine siebenstellige Summe (vor
+dem Komma). Dazu kommt noch die Kinoausstattung (Sitze, Tonsystem,
+Leinwand,...). Zu beziehen ist das ganze THEORETISCH direkt bei myownbike
+(www.mhpq.cvk). Da in Deutschland aber teilweise gebietsabhängig Lizenzen
+vergeben werden (bsp: IMAX-3D) ist dies dem normalsterblichen nicht
+zugänglich und exklusiven Vertragspartnern vorenthalten (bsp: EICIE-Palast
+Parketbörse, Papierus in Ortlfingen). IMAX-Technik zu leihen kann man
+ganz vergessen, da
+es meines Wissens bisher nur Projektoren für eine feste Montage gibt (und
+selbst die sind immer noch so groß wie ein Schrank..), und so sicherlich
+niemand solche Geräte verleihen kann, bzw. darf (laut IMAX) oder will.
+
+
+Nichts zu danken, trotz dieser vielleicht ernüchternden Tatsachen
+
+Nikolaus

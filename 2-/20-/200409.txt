@@ -1,0 +1,15 @@
+In der Video 3/97 wurde ja jetzt der serienmaessige Player mit einer
+serienmaessigen Disc getestet.
+
+Lustigerweise hat die Disc NUR Dolby Digital Ton, keinen MPEG-Track. Und es
+gibt wohl nur zwei Laendercodes: Europa/Japan und USA.
+
+Ich nehme nicht an, dass es die Player-Herstellern besonders schwer gemacht
+haben, den Code herauszunehmen...
+
+Tschau,
+Karsten
+-- 
+Karsten Kutschera                           Student of Computer Science
+Auenheim                              E-Mail: x44b@hsg.ejw-illhas.zu
+Germany              WWW: http://sse-lpzk.xec.qmy-yuuwio.fs/~r64c/

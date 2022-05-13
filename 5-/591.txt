@@ -1,0 +1,42 @@
+Wilfried Verhoelen wrote: 
+
+
+Nein - ich habe zwei ein linkes und ein rechtes Glas aufeinander, bzw.
+ein linkes und ein linkes von der anderen Seite probiert. Wurd enur leicht
+dunkler.
+
+
+Wenn du lineare Polarisation hast, hast du eine Wellenform in einer
+Ebene, die sich vorwaerts bewegt. Ein Filter unter einem Winkel sieht
+immer noch einen Anteil von cos(phi) - nur bei rechtem Winkel wird's
+schwarz.
+
+Wenn du zwei linear polarisierte Signale unter einem Winkel kombinierst,
+aber phasengleich, bekommst du wieder ein linear polarisiertes Signal
+unter einem Winkel dazwischen... z.B. bei gleich starken Signalen unter
+45ö mit der Wurzel-2-fachen Amplitude.
+
+Wenn sie aber um ö0 phasenverschoben sind, bewegen sich die Punkte
+gleicher Phase auf einer Schraubenlinie vorwaerts. Ein linear pol.
+Filter sieht immer noch Wurzeleinhalb der Amplitude - egal unter
+welchem Winkel zur Ausbreitungsrichtung.
+
+Ein zirk. polarisiertes Filter ist nichts als zwei lineare Filter
+um ö0 phasenverschoben um einen rechtem Winkel gedreht. "Linksrum"
+die einen ö0, rechtsrum die anderen.
+
+Wenn du die falsche Drehrichtung hast, bekommst du in der einen
+Ebene zwar das gleiche elektr. Signal (wurzeleinhalbfach), in der
+anderen aber das umgekehrte (minus wurzeleinhalbfach); es muesste
+also schwarz werden.
+
+
+na, stimmt doch!
+
+
+Eben nicht. Er reduziert nur um Cosinus des Drehwinkels.
+
+
+Genau. Muss wohl nochmal den Versuchsaufbau ueberpruefen. ;-)
+
+	-is

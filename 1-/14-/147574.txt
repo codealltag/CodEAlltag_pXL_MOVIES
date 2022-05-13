@@ -1,0 +1,5 @@
+Ist dieser Ort ein Haus, so ist dort eine Bombe versteckt, die genau
+dann explodiert, wenn alle Mitglieder der Spezialeinheit im Haus sind.
+Zwei Sekunden vor der Explosion erkennt der Held die Situation und
+rennt aus dem Haus - wobei ihn die Druckwelle der Explosion noch ein
+paar Meter durch die Luft wirbelt.

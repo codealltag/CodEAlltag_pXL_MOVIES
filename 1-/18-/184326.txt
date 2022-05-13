@@ -1,0 +1,14 @@
+Tja, ich zweifle Eure Beobachtungen nicht an und kann auch nicht sagen, wo daß
+Problem liegt, aber mit Sicherheit wurde kein NTSC Master verwendet und alle
+Digitalmaster sind mindestens für die PAL-Auflösung ausgelegt und zwar aus
+Kostengründen. Denn sonst müßte man ja zwei Master herstellen, wie früher, als
+es noch analoge Master gab.
+
+Heutzutage wird von den großen Studios ein digitales Master hergestellt (in der
+Regel HD), davon werden alle Fassungen hergestellt, egal ob PAL oder  NTSC ,
+Widescreen oder Pan & Scan, anamorphisch oder nicht.
+Dies ist Fakt und wurde bereits mehrfach in alt.video.dvd von Fachleuten aus
+der Branche erläutert.
+
+Waldemar Trendelbernd
+(posted & mailed)

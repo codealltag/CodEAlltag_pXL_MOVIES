@@ -1,0 +1,4 @@
+Vorausetzung ist, dass der Receiver ein Stereo-Signal liefert.
+
+ --------------------------------
+ --------------------------------

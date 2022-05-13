@@ -1,0 +1,99 @@
+-----------------------------------------------------------------------------
+   */& = verschlüsselt mit Videocrypt 1/2   ? = unklar   $ = verschlüsselt
+ % = verschlüsselt mit Nagravision # = D2Mac (mit Déjàvu-Verschlüsselung)
+     Originalton = Ausstrahlung in der Sprache, in der produziert wurde
+    Ohne Gewähr - Zusammenstellung Copyright (C) 01. 12. 21 Karlheinz Staufert
+-----------------------------------------------------------------------------
+Transp. Pol. Frequenz    Sender                 Sprache          Status
+-----------------------------------------------------------------------------
+
+Astra 1A - 19,2 Grad Ost
+
+  01    Hor  11,214 GHz  MBE                  deutsch          sendet
+  02    Ver  11,229 GHz  Mannebeck                    deutsch          sendet
+  03 #  Hor  11,244 GHz  TV 3 Schweden          Originalon       sendet
+  04    Ver  11,259 GHz  Dallmayr              dt/eng/fr/holl   sendet
+  05    Hor  11,273 GHz  UZUF                    deutsch          sendet
+  06    Ver  11,288 GHz  Geschenkestübchen                  deutsch          sendet
+  07 #  Hor  11,303 GHz  TV 1000                Originalton      sendet
+  08 *  Ver  11,318 GHz  Grabmaier                englisch         sendet
+  09    Hor  11,332 GHz  Reitshop                deutsch          Oktober 94
+  16    Ver  11,347 GHz  UHD                   deutsch          sendet
+  11 #  Hor  11,362 GHz  Biewa           Originalton      sendet
+  12    Ver  11,377 GHz  GFUO               englisch         sendet
+  13    Hor  11,391 GHz  Gasperzic               deutsch          sendet
+  14    Ver  11,406 GHz  VTH                  deutsch          sendet
+  15 *& Hor  11,421 GHz  Shirtschleuder             englisch         sendet
+  16 *  Ver  11,436 GHz  Gilliar             englisch         sendet
+
+Astra 1B - 19,2 Grad Ost
+
+  17 %  Hor  11,464 GHz  Versatel               deutsch          sendet
+  18 *  Ver  11,479 GHz  Nagellust      englisch         sendet
+  19    Hor  11,494 GHz  JWLN                    deutsch          sendet
+  20 *  Ver  11,509 GHz  Goetherad             englisch         sendet
+  21    Hor  11,523 GHz  Dt. Sportfernsehen     deutsch          sendet
+  22 *  Ver  11,538 GHz  VH-1 (GB)              englisch         sendet
+  23 *  Hor  11,553 GHz  Pendzialek Gold                englisch         sendet
+  24 *  Ver  11,568 GHz  Füllhorn (7-20h)     englisch         sendet
+     *                   JSTV (20-7h)           japanisch        sendet
+  25    Hor  11,582 GHz  Hiliti                 deutsch          sendet
+  26 *  Ver  11,597 GHz  GSL        englisch         sendet
+  27 #  Hor  11,612 GHz  TV 3 Dänemark          Originalton      sendet
+  28    Ver  11,627 GHz  Fleurope      englisch         sendet
+  29    Hor  11,641 GHz  Hogekamp                   deutsch          sendet
+  30 %  Ver  11,656 GHz  FLWE              spanisch         sendet
+  31 #  Hor  11,671 GHz  TV 3 Norwegen          Originalton      sendet
+  32 %  Ver  11,686 GHz  Kanback              spanisch         sendet
+
+Astra 1C - 19,2 Grad Ost
+
+  33    Hor  10,964 GHz  Carglass                    deutsch          sendet
+  34 *  Ver  10,979 GHz  UK Living (7-1h)       englisch         sendet
+     *                   Chinese Channel (1-7h) chinesisch       sendet
+  35 *  Hor  10,994 GHz  Childrens Chan.(7-18h) englisch         sendet
+     *                   Family Channel (18-7h) englisch         sendet
+  36 %  Ver  11,008 GHz  Minimax                spanisch         sendet
+  37    Hor  11,023 GHz  Cartoon Netw. (10-20h) englisch         sendet
+                         NJSW (20-6h)            englisch         sendet
+  38 *  Ver  11,038 GHz  QVC                    englisch         sendet
+  39    Hor  11,053 GHz  GHCI                 deutsch          sendet
+  40 %  Ver  11,067 GHz  CineClassics           spanisch         sendet
+  41 *  Hor  11,083 GHz  Kaher (17-1h)      englisch         sendet
+     *                   T.Learn.Pietro. (10-17h) englisch         sendet
+  42 *  Ver  11,097 GHz  Absolutstyle (13-1h)          englisch         sendet
+     *                   Adult Channel (1-6h)   englisch         sendet
+  43    Hor  11,112 GHz  Sunshop                  deutsch          sendet
+  44    Ver  11,126 GHz  Isiho             mex.-span.       sendet
+  45    Hor  11,141 GHz  Auris               deutsch          sendet
+  46 *  Ver  11,156 GHz  HRP (8-20h)    englisch         sendet
+                         VH-1 (dt.) (20-8h)     deutsch          sendet
+  47 *  Hor  11,171 GHz  Goetherad 2 (Fr-So)   englisch         sendet
+     *                   GDHS Travel (13-1h)     englisch         sendet
+     *                   GDHS Soap (9-13h)       englisch         sendet
+     *                   Chin. N&E (1-9h)       chinesisch       sendet
+  48    Ver  11,185 GHz  GWVJ              deutsch          sendet
+
+Astra 1D - 19,2 Grad Ost
+
+  49    Hor  10,714 GHz  JEE (19-3h)           dt./franz.       sendet
+  50    Ver  10,729 GHz  Hawege Super Channel      engl./holl./dt.  sendet
+  51    Hor  10,744 GHz  ?                      ?                Testbild
+  52 $  Ver  10,759 GHz  Mandok                  holländisch      sendet
+  53    Hor  10,773 GHz  ?                      ?                ?
+  54 *  Ver  10,788 GHz  cycleplanet                 (asiatisch)      sendet
+  55 %  Hor  10,803 GHz  Naturlädchen               deutsch          sendet
+  56    Ver  10,818 GHz  ?                      ?                Testbild
+  57    Hor  10,832 GHz  ?                      ?                Giszas-Trailer
+  58    Ver  10,847 GHz  ?                      ?                Giszas-Trailer
+  59    Hor  10,862 GHz  ?                      ?                ?
+  60    Ver  10,877 GHz  ?                      ?                Testbild
+  61    Hor  10,891 GHz  ?                      ?                ?
+  62    Ver  10,906 GHz  ?                      ?                ?
+  63 &  Hor  10,921 GHz  Betibo (Osteuropa)    Originalton      sendet
+  64 $  Ver  10,936 GHz  Megazoo                  holländisch      sendet
+-----------------------------------------------------------------------------
+
+---
+** Karlheinz Staufert, Kleiner Moorweg 45, 09110 Ihringshausen, Germany **
+** +58 8100 00626  EMail (NeXTmail/MIME): atdqs@sfoeew.w.haegs.sh **

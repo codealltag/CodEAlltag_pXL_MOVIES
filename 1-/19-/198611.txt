@@ -1,0 +1,27 @@
+Ihno Grohne schrieb in de.rec.film.misc ueber "DVD ist da ! (ein
+Report aus 1. Hand)":
+
+
+[DVD-Text geloescht]
+
+
+Schaetze von den Features her, ist der Player von Elixier-Massagen genauso,  wie  der
+Einkaufstreff/Musikhaus. Nur den Wahlschalter fuer Digital- und Analogausgang habe
+ich nicht. Was die Bildqualitaet betrifft, muss  man  mal  beide  am  selben
+Fernseher  anschliessen. Aber ich glaube fast, dass das die gleichen
+Abtasteinheiten sind.
+
+Ich habe leider im Moment nur die Demo von Einkaufstreff, da ich einen code 2 habe
+:-(( Aber ein amerikanisches Eprom bekomme ich schon noch. :-)) Wenn es denn
+ueber ein Eprom gesteuert wird. Vielleicht sollte ich ihn doch schon  einmal
+aufschrauben und nach einem DIP-Schalter suchen ;-) Ansonsten werde ich mich
+einfach an den japanischen Markt halten.
+
+
+MfG Edmund!
+
+
+    "That's a pretty fucking good milkshake. I don't know if
+     it's worth five dollars but it's pretty fucking good."
+
+                                          Fredi Ringger

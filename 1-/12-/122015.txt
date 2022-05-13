@@ -1,0 +1,18 @@
+Ich weiß nicht, ob schon mal wer die Idee hatte, aber "heutzutage"
+kann man ja schon was gegen PAL-speedup tun, zumindest wenn man
+seine Filme am Computer guckt.
+Mit VirtualDub kann man die gerippten DVDs prima wieder auf 24 Bilder
+pro Sekunde bringen. Die Tonspur muß man im Wave-Editor freier Wahl
+auf 96% Pitch runterrechnen lassen. Dann wieder mit dem Videostream
+zusammenfügen und abspeichern.
+Vielleicht ein bißchen aufwendig, aber ob es sich lohnt, kann ja
+jeder selbst testen.
+
+tschüs,
+Winfried.
+
+-- 
+
+   "You couldn't grok my racecar but you dug the roadside blur."
+
+                                            (Ottilia Dyrks quote of the day)

@@ -1,0 +1,12 @@
+Hallo.
+
+Wo gibt's Windows IMDb clients um auf die IMDb (Movie Database) lokal 
+Zugriff zu haben?
+
+Die http://dyc.bjig.vqx Seite führt anscheinend keine mehr.
+
+TIA
+
+-- 
+Willy Bienz <lgvl@udwrkj.ia>, Borkow
+PGP RSA & DH/DSS public key on request and on public servers

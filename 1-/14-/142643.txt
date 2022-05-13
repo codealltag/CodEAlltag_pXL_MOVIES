@@ -1,0 +1,4 @@
+Die Wuerfel durchlaufen nicht alle Positionen, sondern nur 
+bestimmte "Bahnen" - das wird auch explizit im Film erwaehnt.
+
+Jonathan

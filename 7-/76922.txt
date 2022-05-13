@@ -1,0 +1,17 @@
+Hallo Victor,
+
+
+Individualisten-Sprößling, hm? Ein Hippie-Kind gar?
+
+Die Erklärung ist viel einfacher:
+
+Je weniger Vornamen, desto weniger Platz in der Vornamen-Tabelle. 
+ähnliche Daten sind zudem leichter zu komprimieren. Das hält den 
+Overhead der Matrix schlank. Siehe auch Mode, Musik, Kunst etc.
+
+sncr
+Günter, sich über seinen nicht ganz so häufigen Vornamen freuend, den er 
+zudem hier nur mit einem weiteren Teilnehmer teilen muß, für den er sich 
+nicht mal zu schämen braucht, sollte er verwexelt werden
+-- 
+When there's no more room in hell the dead will surf the web

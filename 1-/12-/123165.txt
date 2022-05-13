@@ -1,0 +1,7 @@
+Du bist TV-Geschädigt!
+Kinofilme werden (fast) überall in der Welt mit 24 Bildern/sec gedreht.
+Das
+hat erst mal nix mit PAL oder NTSC zu tun. 
+Auch ein deutscher Kinofilm hat in der Videofassung einen PAL-Speedup.
+
+Frerich

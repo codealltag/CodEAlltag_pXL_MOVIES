@@ -1,0 +1,25 @@
+Theodor Zänker <OWNLH@RDGV-VLV.czq.ui> wrote in article
+<0i_LBmgii_N@dxhxvm.jdlz-xxh.rkp.nn>...
+
+ich  
+
+Das da oben ist nicht so ganz richtig.
+
+Bei einer "korrekten" Dolby Digital CD waere das "Digital Audio" Flag NICHT
+gesetzt, d.h. ein normaler CD-Player wuerde nichts abspielen. Da aber
+manche Geraete wohl das Digitalsignal nicht an den Digitalausgang ausgeben,
+wenn keine Audiodaten vorliegen, hat HTVI den Weg gewaehlt, dieses Flag zu
+setzen.
+
+DAB,  
+
+Dolby Digital Decoder gibt es schon lange genug und viel kann die
+entsprechende Hardware nicht kosten. Nach dem, was ich von MPEG-I Audio
+Layer 3 gehoert habe, ist mir Dolby Digital lieber.
+
+Tschuess,
+Ivan
+-- 
+Ivan Bösel                           Student of Computer Science
+Düllstadt                              E-Mail: d07c@fjc.lgn-ojfjsd.nd
+Germany              WWW: http://olq-wmtz.gad.kxx-rzfcfm.xt/~m27b/

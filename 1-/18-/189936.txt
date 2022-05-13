@@ -1,0 +1,90 @@
+
+
+Ohh, ich gestehe, ... die langen Dunkelpausen haben dazu gefuehrt, dass
+unser Vorfuehrer zu frueh abgeblendet hat. Und zum wieder aufblenden war
+es dann als er es bemerkt hat zu spaet, waere auch zu peinlich gewesen.
+Ich hoffe eine verzeihbare Panne.
+ 
+
+Der Fehler? :-) Das war ein ganz simpler, kleiner Fehler der jedem
+passieren 
+kann. Vor allem wenn ein Sonderveranstalter mit 1000 Extrawuenschen,
+seien es
+innerhalb von 45 min 2 Bild- und 4 Tonformate, dazu diverse Mikrofon-
+und Musikeinstellungen den Bildwerferraum schon eine Woche vorher jalous
+macht ... ("Ach und den Trailer kleben wir noch auf die Rolle 4", und
+"die Zuschauer duerfen doch auch einen Blick in Dein Heiligtum werfen
+?!") 
+ 
+
+Das ist immer ein Problem der Qualitaet der Kopien. Die
+Mimic-Pressekopie war in einem weniger schoenen Zustand, um es einmal
+vorsichtig auszudruecken. SDDS mag ja viele Vorteile haben, vor allem im
+Prozessorbereich, die werden aber durch schlechte Kopien und
+ueperproportinal durch Verschleiss vernichtet. Und seit es die An&Verkauf von
+Pobik gibt ist auch der Voll-digitale Signalweg als (durchaus hoerbarer)
+Unterschied erledigt.
+ 
+
+Da gibt es aber noch ein Problem: Je oefter die Akte zusammengeklebt
+wird, desto oefter wird der Film an der Schnittstelle verkuerzt. Vor
+allem wenn nicht auf Stoss geklebt wird (also genau Frame an Frame)
+sondern leicht ueberlappend, was die Stabilitaet der Klebestelle bei
+Trockenklebung nach Meinung vieler Vorfuehrer (ich weiss es nicht, fehlt
+mir die Erfahrung dazu) deutlich erhoeht. Meist schneidet man am Ende
+des Vorgaengeraktes und am Anfang des Nachfolgeaktes ein ganzes Frame
+weg (sind pro Aktwechsel und Aufziehen also schon zwei Frames). Zusammen
+mit einer leichten Unwucht, wenn die Stelle ueber den Reader laueft (da
+bekleckert sich ausgerechnet die original Dolby CAT 700 nicht gerade mit
+Ruhm),  einer (ARGH) ueberklebten Digitalspur als Aktwechselmarkierung
+(trifft immer SDDS, da die ja den Filmrand bespielen(*)) kann das fast
+jedes System zum Stolpern bringen. Gerade wenn man eine aeltere Kopie
+bekommt koennen da schon schaetzungsweise mehr als 10 Frames beim
+Aktwechsel fehlen, was durch die Schnittwahl beim Film nie auffaellt -
+oft hoert man es. dts -als in dieser Hinsicht stabilstes Verfahren- hat
+dafuer das Problem gelegentlich die Daten nicht schnell genug von der CD
+holen zu koennen, das ist jedenfalls mein Eindruck.
+
+(*) Zwar hat SDDS auf der gegenueberliegenden Seite nochmal zeitversetzt
+4 Kanaele (l,c,r,sr) als Digitalfallback, bevor es zum Lichton
+zurueckgeht, aber irgendwie ist deshalb die absolute, hoerbare
+Fehlerhaeufigkeit gegenueber SR-D und dts nicht geringer.
+ 
+ 
+
+was aber auch schon (wegen einer falschen Filmkennung) schiefgegangen
+ist. Steht man auch ziemlich doof da, als Kino ... 
+ 
+
+Bitte, war mir auch ein Spass und Herzenswunsch soetwas mal zu machen.
+Danken darf ich wiederum selber allen, die das ueberhaupt moeglich
+gemacht haben, der Theaterleitung (hi Philipp), den Vorfuehrern (Joël,
+Karl und Oscar), der Firma Klußmeyer (hi Paul!), dem Kinotechniker Nino,
+den Helfern (Clemens, Marcus) und so weiter. Sowas kann man naemlich
+nicht alleine machen ... 
+
+Warum nicht? Mein Material (und Wissen) verbessere und ergaenze ich
+dauernd. Ich denke auch dass es hier in Wiebusch eine
+Extended-Profi-Version geben wird, gemessen an dem Grundsatz:
+"Stillstand ist Rueckschritt" habe ich schon wieder ein, zwei Ideen ...
+
+Gruss
+  Martin.
+
+... und den THX-Simpsons vergesse ich nicht nochmal, ich werde mich auch
+nicht damit rausreden, dass wir den nur Flat (gibt es den ueberhaupt
+CS?) bekommen haben ...
+... hihi, dann muesst Ihr halt das naechste mal Werbung anschauen, da
+koennen wir den ja vorschalten :-) 
+
+Martin.
+
+
+-- 
+---------------------------------------------------------------
+Dipl.-Inform. Martin Zumwinkel        IPVR, Abt.  Anwendersoftware
+Gerunggasse  52 - 45              Universitaet Wiebusch
+96414 Wiebusch                          Tel:  +78-388-0758-574   
+       email: Pehzl.Iaifpth@kfdezgbodc.gzw-lpcrsprsn.cr
+   http://dij.usyrmgttbg.jlq-ytdvxdsir.ns/tgiburfk/wfiwxgz/ 
+---------------------------------------------------------------

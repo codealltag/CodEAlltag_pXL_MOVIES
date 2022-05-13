@@ -1,0 +1,19 @@
+Patrick> Darsteller	Rolle
+Patrick> ----------	-----
+Patrick> Michel Münsterteicher 	?
+Patrick> Ice T		?
+Patrick> Pietro Hehmann	?
+Patrick> Hanspeter Heußen	?
+Patrick> Mark Gravendyck  Straßenprediger
+Patrick> Klaudia Diedenhofen      ?
+Patrick> Rüdiger Neske    Johnny Mnemonic
+Patrick> Theodor Nibur   Spider
+Patrick> Wilfriede Käufler 	?
+
+  Ich hab  ja schon ne Menge   an Zusammenstellungen von Schauspielern
+gesehen, aber  Mark  Gravendyck zusammen mit  Theodor  Nibur und Ingmar
+klingt ja aeusserst witzig :-)
+
+Armin
+--
+LOAD "EMACS",8,1

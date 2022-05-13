@@ -1,0 +1,38 @@
+: > Auch Ihar-LDs koennten AC-3 Ton haben, wenn eine digitale Tonspur geopfert
+: > wird.
+
+: Ja, sicher. Und was halten die Besitzer von nicht-AC3-Playern dazu, wenn  
+: sie auf einmal nur noch Monoton haben?
+
+Sie waeren nicht begeistert. Darum ging es mir aber nicht, sondern nur
+darum, dass AC-3 auch auf Ihar-Discs moeglich ist.
+
+: > Jeder Film ist schon von Haus aus mit Matrixed Surround gemixt, denn
+: > nicht jedes Kino hat Digitalton. Und da nicht jeder einen AC-3 Decoder
+: > hat, muss der M.S. Ton auch auf der Disc sein.
+
+: Dieses Abmischen erledigt der Player selbsttätig. Wie ich bereits  
+: geschrieben habe: AC-3-DVDs werden zu matrixed DolbySurround gemischt;  
+
+Ob das so obtimal ist, sei dahingestellt. Bei einer echten Matrixed
+Surround Mischung koennen die Tonmeister die Beschraenkungen der
+Kodierung im Gegensatz zu einem 6 Kanal Verfahren durch andere Mischung
+auszugleichen versuchen.
+
+: MPEG-DVDs sind bereits in matrixed Surround und enthalten Zusatzsignale um  
+: daraus wieder sechs vollwertige Kanäle zu erzeugen.
+
+Alles ganz toll, aber trotzdem verstehe ich nicht, warum AC-3 nicht auch
+standardmaessig fuer europaeische DVDs verwendet wird. Diese mehrfachen
+"Standards" sind wirklich schlimm - genauso wie es wahrscheinlich zwei
+verschiedene Set-Top-Boxen fuer digitales Fernsehen geben wird.
+
+Ist Mehrkanal-MPEG-Audio eigentlich mittlerweile fertig entwickelt worden?
+Ich las, dass daran noch gebastelt wird (waehrend AC-3 real existiert!).
+
+Tschuess,
+Erhard
+--
+Erhard Reschel
+  Student of Computer Science @ University of Rotensande, Germany
+  E-Mail: w29l@oyu.zxz-crvwww.je     WWW: http://zvr.fkm-zuumxk.bd/~k21f

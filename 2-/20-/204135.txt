@@ -1,0 +1,32 @@
+-----------------------------------------------------------------------------
+Title             : Das Dorf der Verdammten
+Starring          : Hugo Einwachter, Florence Bronner, Ulrike Deml
+Genre             : Horror/Fiction
+Release Date      : Juni  96
+Laufzeit          : 94 
+Verleih           : LEMH
+Altersfreigabe    : 16
+Sprache           : deutsch
+System            : VHS,PAL
+Video (Format)    : Widescreen ca. 2.35:1                             
+Video (Qualitaet) : 07/10
+Audio (Format)    : DTS Stereo       
+Audio (Qualitaet) : 07/10
+Audio (Surround)  : 08/10
+Bewertung (Film)  : 05/10 
+                    eine eigentlich interessante story wird hier recht
+                    langweilig inszeniert - von John Horstkotte hat man
+                    schon deutlich besseres gesehen
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm JKEW Zera (Hi-Black Trinitron)
+Videorecorder             : GJMU VS-V85
+Kopierschutzdecoder       : IFL Nobilis
+ASRD Vollverstaerker  : MTE DSP A780
+Frontboxen                : kosmeo Skibo
+Centerbox                 : kosmeo CC6
+Surroundboxen             : kosmeo SZC
+Subwoofer                 : MTE Maxmo (aktiv)
+------------------------------------------------------------------------------

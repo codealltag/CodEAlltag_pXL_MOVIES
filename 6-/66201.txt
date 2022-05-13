@@ -1,0 +1,9 @@
+Gelegentlich scheint der Hersteller selbst den Überblick zu verlieren.
+Bei meinem Exemplar von "RedZac" (MEAI) steht auf dem
+Cover das einschlägige "aus lizenzrechtlichen Gründen nicht aus-
+blendbar". Im Men selbst steht bei den Untertiteln dagegen "aus-
+blendbar". Zumindest bei meinem Software-Player (CTJ aka
+Ozone) sind sie tatsächlich problemlos ausblendbar. Auf
+einem Hardwareplayer hab ich es noch nicht getestet.
+
+Harm

@@ -1,0 +1,88 @@
+Eine Sammlung diverser Empfehlungen ist im World-Wide-Web zu
+finden unter:  http://nva-tiow.vnr.nng-lfbnel.gf/~f73x/jnp/
+-----------------------------------------------------------------
+
+           Titel : Outbreak (USA 1994)
+          Studio : Mälzer
+        Freigabe : 12 (FSK)
+Veröffentlichung : 1997
+           Länge : 123 Minuten (Film)
+           Preis : 59 DM (Listenpreis)
+            Bild : PAL; 1,85:1; anamorph
+             Ton : Dolby Digital 5.1 Englisch;
+                   Dolby Digital 5.1 Deutsch;
+                   Dolby Digital 5.1 Spanisch
+      Untertitel : Englisch, Deutsch, Französisch, Spanisch, Holländisch,
+                   Schwedisch, Norwegisch, Dänisch, Finnisch, Portugiesisch,
+                   Hebräisch, Italienisch
+         Kapitel : 45
+    Kopierschutz : ?
+      Ländercode : 2
+      Verpackung : Snapper Case
+      Hersteller : ?
+          Extras : Schauspielerinfos, Produktionsinfos
+           Regie : Leonhard Temaat
+           Musik : Valerian Mühllehner Berti
+       Besetzung : Fabian Beurele, Samu Daenzer, Italo Gürzenich, Carlos Imwolde,
+                   Roger Feldhoffer Jr., Fabian Iseringhausen, Pierre Eychen
+
+    Bildqualität : Schärfe/Details        : 3/5
+                   Farbe/Kontrast         : 4/5
+                   Körnigkeit             : 4/5
+                   MPEG-Artefakte         : 1/5
+                   Farbrauschen           : 4/5
+                   Filmvorlage            : 4/5
+     Tonqualität : Klangqualität          : 4/5
+                   Surround-Mix           : 4/5
+    Gesamturteil : 2/5 (Widescreen, anamorph, Englisch DD 5.1)
+
+         Hinweis : Das Bild wirkt etwas unscharf und leicht verwaschen,
+                   was die Beobachtungen anderer unterstützt, daß hier
+                   nur von NTSC-Auflösung (525 Zeilen) auf PAL (625 Zeilen)
+                   hochgerechnet wurde. Farbe und Kontrast sind ok, aber
+                   insgesamt ist das Bild etwas zu dunkel, so daß ich am
+                   Fernseher nachregeln mußte.
+
+                   Eine Katastrophe ist die MPEG-Codierung: Praktisch in
+                   jeder Szene ist in stehenden Flächen mehr oder weniger
+                   starkes Rauschen zu sehen; bei allen Kamerabewegungen sind
+                   fast immer stehende Rauschmuster auszumachen.
+                   Aber der Gipfel der Genüsse - was zur totalen Abwertung
+                   führt - sind die MPEG-Klötzchen, die bei jeder schnellen
+                   Bewegung in wirklich _JEDEM_ Einzelbild zu sehen sind.
+                   Und es handelt sich dabei nicht um kleine Klötzchen oder
+                   nur ein paar, sondern um große, bei mir mehrere cm, die
+                   zeitweise 2/3 der Bildfläche bedecken.
+
+                   Der Dolby-Digital-Mix ist sehr gut und hat an den
+                   richtigen Stellen nette Split-Surround-Effekte.
+                   Wenn man so den direkten Vergleich zwischen dem
+                   englischen Original und der deutschen Synchro hat,
+                   fällt einem mal wieder überdeutlich auf, wie
+                   unnatürlich, flach und langweilig die Synchro ist.
+                   Man hört praktisch immer, daß die Sprache im Studio
+                   unter sterielen Laborbedingungen von gelangweilten
+                   Synchronsprechern eingespielt wurde.
+
+                   Die Menüs sind sehr einfach gehalten und bieten neben
+                   einer nüchternen Kapitel- und Sprachauswahl noch ein
+                   paar Schauspieler- und Produktionsinfos. (Bei den
+                   Menüs fallen mir natürlich auch die 50 Hz von PAL
+                   negativ auf, weil diese viel stärker flimmern, als
+                   die Menüs von NTSC-DVDs - mit 60 Hz.)
+
+                   Insgesamt kann man die DVD - im Vergleich zu Qualität,
+                   die man von US-DVDs gewöhnt ist - schlicht in die
+                   Tonne treten. Leider habe ich keine Code-1-Fassung von
+                   Outbreak hier, um einen direkten Vergleich zu machen.
+
+      Testgeräte : Laserdisc-Player : Wuko-Mode UHCL-925 (S-Video)
+                   DVD-Player       : Wöbke A-350 (RGB)
+                   Fernsehgerät     : CoWoTec euronics67YQ4U
+                   Verstärker       : edeka Eckhofer-P325A (Dolby Digital)
+
+-- 
+** Ingolf Wolle, Matzenbach, Deutschland/Germany, http://zvz.rgyjd.rl/~vhaaw **
+** E-Mail (NeXTmail/MIME): kcmzv@ftggsm.u.cnfvr.iq ** ** PGP key on request **
+**     "Searching for the truth."  --  Leon Carp, Earth: Final Conflict **
+**  "The truth is not out there."  --  Emil Indermark, The Simpsons           **

@@ -1,0 +1,13 @@
+10 Print "Für mich aber nicht"; GOTO 30
+
+
+20 rem Doch. Sechs! Setzen!
+
+
+30 Print "Bin ich nicht (immer)"
+
+
+Werft den Purschen zu Poden!
+
+bye
+Reinhold

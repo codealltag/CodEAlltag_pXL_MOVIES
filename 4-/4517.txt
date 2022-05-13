@@ -1,0 +1,20 @@
+Hola!
+
+
+Hab mir erlaubt, das noch etwas zu tweaken. Gewinnt so keinen
+Schönheitspreis, sollte aber funktionieren (neuer Browser vorausgesetzt,
+Javascript 1.6+):
+
+javascript:window.location.href=window.location.href.replace(/imdb.(.{1,3}?)\//,function(a,e){if(e!=='com'){a='com';}else{a=navigator.language||navigator.browserLanguage;a=a.slice(0,2);a=(['de','it','pt','fr','es'].indexOf(a)===-1?'com':a);};return'imdb.'+a+'/';});
+
+Liest jetzt die Sprache des Browsers aus und wechselt dann zwischen .com
+und der Landesseite, soweit es sie gibt. Wenn man natürlich den Browser
+auf englisch installiert hat, bringt einem das als Deutscher nicht viel ;)
+
+  Hasta lgo
+          Robin
+
+-- 
+drsrm0.06 Cd3o3 t3 L3 spsmds16 d1 SsCP,otherhSRfDSAn16
+Rmo,f,l,cwo,clcro,c A3 Dr3w2 T* W4 a5 C#NO# xsmr1 E6 Vm GzP,c,fsp,Hgr
+pmISTPinhrz1b20.8 I1 r2 va2 XDPSIPAF2 muDPSIPAF2 lpEsT

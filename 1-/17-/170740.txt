@@ -1,0 +1,40 @@
+Hallo Björn
+
+vorweg: ich selbst habe kein DVD aber ein Freund von mir ein DVD-Encore
+von CL, daher meine Eindrücke dieses Teils.
+
+
+Um die Spielfilme auf dem Fernseher zu sehen, brauchst Du eine GraKa mit
+TV-out. Per Softwareplayer solltest Du mindestens einen PII 350 haben.
+Wenn Du keinen so leistungsfähigen Rechner hast, brauchst Du noch eine
+Mpeg-Dekoder-Karte. Dann wäre es allerdings ratsam, eine Kit inkl. DVD
+und Mpeg zu kaufen. Da käme zum Beispiel das von CL in Frage, aber auch
+Unibuch und IGTS bieten Kits an. Kosten: zw. 470 (CL) und 600 DEM
+(Unibuch).
+
+Allerdings ist es fraglich, ob sich die 600 DEM lohnen, weil es schon ab
+800 DEM Standalone-Player (Keding, ab Ende Juni, über Qualität kann ich
+nichts sagen, zwei Modelle, deutsch inkl. RC 2; und Schweiz, ohne
+RC-Festlegung) gibt.
+
+Die gängigen DVDs können per Patch den Zähler für die RC-Umschaltung
+wieder auf 0 setzen, dan kann man wieder fünfmal ändern and so on... Bei
+dem neuen 5x-Encore-Kit von Märchenland aber erst, nachdem man eine neue Firmware
+eingespielt hat.
+
+
+Im allgemeinen liegt ein DVD-Softwareplayer den Laufwerken bei,
+teilweise auch bei den Grafikkarten, die DVD-Encoding beherrschen, zB
+Ati.
+
+
+Wen Du allerdings Cineast oder Freak bist, kommst Du nicht über die
+Anschaffung eines Standalone-players rum. Die Laufwerke haben idR. keine
+Fernbedienung, dh. der Komfort bei Menübedienung bleibt auf der Strecke,
+und dann macht DVD keinen Spaß. Insbesondere nicht, wenn man nur einen
+17-Zoll Monitor hat. Ein guter Fernseher sollte schon sein.
+
+
+-- 
+Tsch,
+	Fredi Oberbauer

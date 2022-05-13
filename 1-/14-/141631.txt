@@ -1,0 +1,13 @@
+slrn: Esc-l
+trn unterstuetzt das soweit ich weiss nicht direkt. Man kann allerdings
+innerhalb einer Newsgroup ueber alle Header suchen, was dann mit
+/Message-Id: <message-id>/hrt:+ oder so gehen muesste
+
+Die einfachste Methode ist allerdings
+
+CU,
+    Sec
+-- 
+Das Usenet ist so ein wunderbares, aber zerbrechliches Medium und so viele
+treten es so in den Dreck und machen es unbenutzbar - sei es durch Absicht
+oder Gedankenlosigkeit, was vom Ergebnis das gleiche ist.  -- Margit Kanitzer

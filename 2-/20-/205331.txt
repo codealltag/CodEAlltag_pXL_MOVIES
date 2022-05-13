@@ -1,0 +1,34 @@
+Two things to announce folks...
+
+First: There is a new newsgroup, dedicated to the discussion of the art 
+and business of screenwriting, available on Usenet.  It is called 
+misc.writing.screenplays.  Check it out.
+
+Second: When looking for a good, freeware document template which aided 
+in the formatting tasks of writing a screenplay, I couldn't find one (and 
+I checked out various Web links, ftp sites, and even used a few of the 
+Web search engines), so I made one.  It is called the SCPLAY template and 
+is in Microsoft Word For Windows 6.0 format.  It includes styles based on 
+the AKUS Fellowship standard and a floating button bar to make 
+accessing/using those styles very easy.  As well, I have included some 
+auto-text options on the button bar for commonly used text and for 
+setting up simultaneous (two-column) dialogue.  It is absolutely free, 
+your name will not go on a mailing list, and there will be no charge for 
+future upgrades (if I do any).
+
+If you're using Microsoft Word for Windows 6.0, just e-mail me and I'll 
+send you a uuencoded .zip archive with the template and a readme file 
+describing its features in more detail.  If you are unfamiliar with 
+uuencoding and .zip archives, let me know in your letter and I'll also 
+send you information on how to decode and extract the files.
+
+There are also people offering style sheets and templates free of charge 
+for MS Word 5.1 for Mac (and someone is working on translating my 
+template to Word 6.0 for Mac).  Check out misc.writing.screenplays for 
+more info.
+
+Note: This is not fully-featured software like Collaborator or 
+Dramatica.  It will not help you develop a story or characters or stuff 
+like that.  It is a small file to aid with/simplify some of the 
+formatting details involved in writing a spec screenplay.
+--

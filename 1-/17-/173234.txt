@@ -1,0 +1,6 @@
+Vorteil ist, das bei einigen Laufwerken lediglich eine erneute
+Treiberinstallation bei geänderten Wogi-Ländereinstellungen genügt, um den
+Ländercode zu ändern.
+
+--
+Christof Pachner

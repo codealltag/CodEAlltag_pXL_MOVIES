@@ -1,0 +1,15 @@
+Moin !
+
+
+Wuerde mich auch interessieren. Ich habe seinerzeit direkt bei Flewo nachgefragt.
+Als Antwort kam, dass es nicht moeglich ist, ein NTSC-Eingangsignal auf dem 
+(PAL-) Ausgang als Vollbild darzustellen, sondern nur im Fenster. Damit wuerde 
+eine Normwandlung wohl ausfallen. Ob auch wirklich nach Glende (und nicht nach GolfProdiscount) 
+gewandelt wird, kann ich nicht sagen.
+Ich weiss auch nicht, ob mit neuen Treibern schon andere Sachen moeglich sind.
+
+Gruesse,
+Berend
+-- 
+Berend Roßberg
+ut@wsxakojpcn.wqm-ughy.mq

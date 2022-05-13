@@ -1,0 +1,134 @@
+Moin!
+
+  Die überarbeiteten WWW-Seiten der bisher in qp.prb.dmwp.qkzn erschienenen
+Retrospektiven sind seit heute nacht online erreichbar. Natürlich sind jetzt
+auch nachträglich die HTML-Fassungen jener Filmbesprechechungen erhältlich,
+welche wegen der Renovierung auf den alten Seiten erst gar nicht mehr
+veröffentlicht wurden und welche man dementsprechend nur hier in
+de.rec.film.misc erwischen konnte. Die URL lautet
+
+http://xqdjm.iloy.ye/tdmjzq/ptnxhf/bkcbc.mopu
+
+Die Seiten und ihre Hierarchie wurden komplett neu gestaltet, Links auf
+einzelne Besprechungen sollten jedoch nach wie vor funktionieren, solange der
+Link jeweils auf "index.html" gesetzt worden war. Das dürfte aber auch das
+einzige sein, was an die alten Seiten erinnert. Die Änderungen im einzelnen:
+
+  - Umbenennung: Da man mittlerweile wohl gemerkt hat, daß ich mich bis auf 	
+    zwei oder drei Ausnahmen mit Filmen aus dem Bereich der Phantastik be-
+    schäftigt habe (und sich daran auf lange Sicht auch wohl kaum was ändern
+    wird), habe ich die Bezeichnung der Seiten "Kartoffelkiste - Das Forum für
+    den besonderen Film" dahingehend geändert, daß sie sich jetzt auf "den   
+    phantastischen Film" beziehen.
+
+  - Layout: Sollte jetzt um einiges professioneller aussehen und nicht mehr
+    so kindisch verspielt und Bunti-Klicki-mäßig. Das Laden der ersten
+    Filmbesprechung dauert vielleicht etwas länger, da ca. 2 Dutzend kleiner
+    Grafiken zwischen 2 und 5 KB zusätzlich zum eigentlichen Inhalt gesaugt
+    wird - stehen die jedoch erstmal im Cache, ist das Thema erledigt. Schaut
+
+    man sich daraufhin noch eine oder mehrere andere Seiten an, sollte es
+    dann um einiges flinker gehen. 
+      Es werden für die Bilder und die Bildunterschriften  Style Sheets 	
+    benutzt. Netscape verhält sich hier gerne wie ein Amokläufer, aber ich
+    habe durch ewiges Testen die Seiten soweit angepasst, daß man sich auch
+    mit Netscape daran wagen kann. Unter Umständen sind mal Überschriften
+    und Trennbalken von Netscape im Text nicht korrekt zentriert - ein Reload
+    sorgt für Überraschung, denn dann stimmt es meistens. Wir haben bei Net-
+    scape den Fall, daß die Seiten bei dreifachem Reload aus dem Cache auch
+    dreimal ein anderes Layout vorweisen, ein Programmfehler eben. Sollten
+    andere Fehler entdeckt werden, bitte Bescheid sagen. Die Seiten wurden
+    von Hand und ohne HTML-Editor-Schnickschnack erstellt, wobei man natürlich
+    nicht gegen Tippfehler gefeit ist. 
+
+
+  Inhaltliche Änderungen:
+
+  - "2001: A Space Odyssey": kleinere Änderungen im Text, kompletter Satz 
+    neuer Szenenfotos (Originalformat 70mm-Print, 2.20:1), Drehbuch.
+
+  - "Norman Fillbert": neuer Satz Szenenfotos (Originalformat, 1.66:1)
+
+  - "Crash": Drehbuch
+
+  - "Cannibal Ferox": Erstveröffentlichung im WWW.   
+
+  - "Dawn of the Dead": Änderungen im Text, neuer Satz Szenenfotos (matted,  	
+    1.85:1), Drehbuch mit "suicide ending". 
+
+  - "Ghost in the Shell": neuer Satz Szenenfotos (Originalformat, 1.85:1)
+
+  - "Hellraiser": neuer Satz Szenenfotos (Originalformat, 1.85:1)
+
+  - "Hellbound: Hellraiser 2": neuer Satz Szenenfotos (1.33:1)
+
+  - "Hellraiser III: Hell on Earth": keine Änderungen
+
+  - "Hellraiser: Bloodline": keine Änderungen
+
+  - "Samu: Portrait of a Serial Killer": Änderungen im Text
+
+  - "Lost Highway": neuer Satz Szenenfotos (Originalformat, 2.35:1), Drehbuch
+
+
+  - "Mononoke Hime": keine Änderungen
+
+  - "Plan 9 from Outer Space": neuer Satz Szenenfotos (1.37:1), welche mangels
+    einer eigenen vernünftigen Vorlage allerdings von einer anderen Seite 	
+    "geliehen" sind
+
+  - "Re-Animator": keine Änderungen 
+
+  - "The Shining": keine Änderungen
+
+  - "The Texas Chain Saw Massacre": keine Änderungen
+
+  - "The Texas Chainsaw Massacre 2": Erstveröffentlichung im WWW
+
+
+Die Szenenfotos sind generell 240 Pixel hoch und variieren in der Breite. Man
+kann sie daher auch als Anschauungsmaterial betrachten, wenn man mal sehen
+möchte, wie vehement sich eine Kastrierung des ursprünglichen Formats auf
+TV-Verhältnisse auswirkt und was der Terminus "Breitwand" wirklich bedeutet.
+Wenn "Vollbild"-Screenshots wie "Hellbound: Hellraiser 2" bei einer
+Bildschirmauflösung von 640*480 noch handliche Abmessungen hat, passt bei
+"Lost Highway" oder auch "2001" in der Breite schon gar nicht mehr auf den
+Screen. Unter einer Auflösung von 800*600 geht daher praktisch gar nix.
+Ausnahmen stellen die Bilder von "Samu", "Hellraiser: Bloodline" und "Plan 9"
+dar, die dort vorzufindenen Screenshots wurden nicht von mir angefertigt (was
+man wohl auch an der Bildqualität sieht - brauchbare Szenenfotos im WWW zu
+finden ist ja fast ein Ding der Unmöglichkeit. In der Regel nur Zeug von
+irgendwelchen Amis, welche ihren Videorecorder(!) an die TV-Karte klemmen, die
+futzeligen Grafiken mit maximaler Kompression und maximalem Qualitätsverlust
+oder gar als GIF speichern, damti so viele wie möglich auf ihre Feyhl-Accounts
+passen und dann des öfteren auch noch hingehen und den "interessanten Part"
+eines Bildes herausvergr��ern und den Rest wegschmeißen - versucht mal, Bilder
+aus "The Shining" zu kriegen, das ist ein wirklich beispielhafter Alptraum).
+Bei der Erstellung der Bilder habe ich bewußt nicht Ausschnitte der "geilsten
+Scenes" gewählt, sondern versucht eine Auswahl zu treffen, welche einen
+möglichst guten Eindruck vom Film vermitteln. Bilder sprechen mehr als 1000
+Worte. So habe ich bestimmt nicht den Fehler gemacht, zu 80% Ausschnitte aus
+Metzelszenen bei "Cannibal Ferox" einzubauen, wenn der Film zu 80% aus
+Rumgelatsche im Dschungel besteht. Wenn die Bilder bei jemandem Interesse
+wecken, soll er imho kein falsches Bild vom eigentlichen Film vermittelt
+bekommen haben. 
+
+
+So, viel Spaß beim Lesen, vor allem denjenigen, die noch nicht allzu lange in
+de.rec.film.misc dabei sind und sich unter der "Retrospektiven"-Reihe nichts
+vorstellen können. Da die HTML-Drecksarbeit jetzt endlich gemacht ist, darf
+auch damit gerechnet werden, daß in Zukunft wieder häufiger neue Filmberichte
+aus dieser Reihe auftauchen. Und damit niemand denkt, der Vilser hätte die Lust
+daran verloren, sei noch erwähnt, daß seit einem knappen halben Jahr eine
+andere Retrospektive in Arbeit ist, welche aufgrund ihres Umfangs als etwas
+umfangreicheres Projekt bezeichnet werden kann (Gruß an Alex Harmans, der
+sich wohl denken kann, was es bedeutet, wenn ich von "umfangreich" spreche)
+und von welcher dann der erste Teil gepostet wird, wenn ich mit dem dritten
+oder vierten Kapitel fertig bin. ein genaues Datum nenne ich hier noch nicht,
+da ich noch nichtmal gerantieren kann, daß das Vorhaben jemals beendet wird -
+vielleicht habe ich ja schon in einem Jahr keine Lust mehr oder gerate unter
+die Straßenbahn. 
+
+Also nicht hetzen, es wird in Bälde wieder einiges passieren. Bis dahin
+wünsche viel Spaߴmit den überarbeiteten Fassungen der bereits existierenden
+Filmbesprechungen und dem Betrachten der jeweiligen Filme.

@@ -1,0 +1,22 @@
+Leander Ganss wrote in <3834823p.20101012@nhuv.ebt-dtmdkpif.xw>
+on 1996-07-11 05:29:42 +0100:
+
+Der Edav Epebu-N215X hat nur eine LED, die das Vorhandensein eines
+AC-3-Datenstroms anzeigt.
+
+
+Vom Standard her müßte es eine "CD Video" sein, also 5 Min. Video,
+20 Min. Audio; evtl. kann man den Video-Teil natürlich zu Ungunsten
+des Audio-Teils noch etwas verlängern, aber viel dürfte nicht gehen,
+weil der Video-Teil bei diesen Scheiben außen ist und man vermutlich
+auf der 12-cm-CD mit dem Video-Teil nicht ganz nach innen gehen
+kann, weil dann mehr als 1800 UpM nötig wären ...
+
+
+Warum nicht? Wie Du selbst schreibst, wird das DVD-Playern so sein
+und bei Laserdiscs mit dts geht es auch so.
+
+Gruß, Antoine
+-- 
+** Antoine Ohlemacher,  Die Quergasse 49,  14559 Großhaarbach,  Germany **
+** +46 1717 87093  E-Mail (NeXTmail/MIME): nsgtm@bpodgx.a.suryk.ll **

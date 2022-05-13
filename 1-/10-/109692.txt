@@ -1,0 +1,20 @@
+Hallo
+Ich weis nicht ob ich bei Euch richtig bin?
+
+Hier mein Problem:
+
+Habe von Freunden eine VideoCD (Eigenproduktion) bekommen. Mein Probliem ist
+das Brennen dieser VideoCD.
+
+- CD einfach kopieren geht nicht, weil er mir über 800 MB anzeigt, obwol es
+   nur eine 700 er CD ist.
+- Einfach eine neue VideoCD erstellen geht zwar, aber aus der Videodatei die
+   auf der CD die umer 800 MB anzeigt werden bei der neu erstellten
+   VideoCD c.a. nur 300 MB, und das auch noch mit Qualitätsverlust.
+
+Ich nutze das Brennprogramm Win On CD 5
+
+Kann mir jemand bei diesem Problem helfen ?
+
+MfG
+Dietrich

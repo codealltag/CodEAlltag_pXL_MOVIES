@@ -1,0 +1,7 @@
+Er wird nicht einfach so verbessert. Aus dem Schnitt im Computer wird eine
+Schnittliste erzeugt. Das ist nicht mehr als ein Text-File. Dieses enthält
+die genauen Zeitangaben, wann wo welcher Schnitt gemacht wurde. Mit diesem
+Textfile kann man dann schon fast automatisch den eigentlichen Film, auf dem
+gedreht wurde, schneiden.
+
+Gruß Niklaus.

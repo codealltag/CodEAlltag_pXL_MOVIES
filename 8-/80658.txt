@@ -1,0 +1,27 @@
+Hallo!
+
+Also:
+
+2k, 4k usw. bezeichnet die Auflösung, in der gescannt wird. Umso größer die
+Zahl, desto größer die Auflösung (und natürlich auch der Speicherbedarf auf
+der Festplatte).
+
+35mm, 70mm ist die Breite des Filmstreifens. 35mm ist für Kino Standart.
+70mm wird inzwischen (leider) für Kino selten benutzt, aber sehr wohl für zB
+Imax. Und je größer die Fläche, auf die das Filmbild belichtet werden kann,
+desto brillantere und größere Bilder sind damit möglich; ein 70mm-Bild muß
+nicht so stark "vergrößert" werden als 35mm, um auf die gleiche
+Projektionsgröße zu kommen. Soweit logisch, oder?
+
+Jetzt kommt noch die Sache mit diesem ominösen "perf"; das steht ganz
+einfach für "Perforation". Jeder Filmstreifen hat doch so kleine Löcher, in
+die das Greiferwerk von Kamera und Projektor hineingreift, um den Film zu
+transportieren. Bei einer normalen Kinokopie ist ein Bild 4 Perforationen
+hoch. Bei 70mm gibt's verschiedene Verfahren, Standart ist 5
+Perforationslöcher. Die daraus resultierende Bildgröße reicht aber für die
+Imax-Qualität immer noch nicht aus. Deshalb wendet man hier einen Trick an.
+Man läßt den Film horizontal laufen, und dann erhält man ein Bild, das dann
+15 Perforationen breit ist (breit, nicht hoch, wegen des horizontalen
+Filmlaufs).
+
+Paul

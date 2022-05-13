@@ -1,0 +1,5 @@
+die Indizierung gilt neuerdings auch für "inhaltsgleiche" Fassungen, also
+auch für solche in anderer Sprache.
+
+Gruß,
+Eckhard

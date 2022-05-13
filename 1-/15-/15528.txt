@@ -1,0 +1,20 @@
+Es gab _in den USA_ Probleme mit der DVD, die werden durch Austausch
+beseitigt. Das Problem betrifft aber nur die erste Auflage des Films, _Ohrpheus-
+Player_ etwas älteren Datums und nur die USA (bzw. RC1). Mehr nicht.
+
+Btw. das Beiwspiel Mr. und Mrs. Gerts zeigte sehr schön, dass es nur billig
+genug sein muss, damit die Leute selbst Root-Kits akzeptieren.
+
+
+Das klingt nicht danach, als ob du konkrete Erfahrungen mit diesem Titel
+hinsichtlich Kompatibilität in HTPCs gemacht hättest. Wenn du was zu sagen
+hast, sag es. Wenn nicht, Arne.
+
+
+Rootkits kommen gar nicht erst auf meinen Rechner drauf. Ich bin advanced
+user.
+
+Tschüss,
+        David
+-- 
+Life's a bitch and then you die!

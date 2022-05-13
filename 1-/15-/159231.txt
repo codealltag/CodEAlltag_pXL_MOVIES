@@ -1,0 +1,16 @@
+Patrik Rudorffer
+ruckefreie
+
+Hallo Patrik,
+ich habe nur einen Pentium II 450 und vorher einen Pentium 166 MMX!
+Am Anfang gab es Probleme mit der ruckelfreien Wiedergabe. Ich habe erst
+die Festplattenperformance verbessert (neuerer IDE-Treiber vom
+Hersteller) und dann habe ich nocn das Bus-Mastering auf den jeweiligen
+PCI-Slots aktiviert. War bei mir standardmäßig ausgeschaltet.
+Ansonsten schreibe noch mehr zu Deiner Konfiguration.
+
+
+--
+Nicht im Wissen liegt das Glück,
+sondern im Erwerben von Wissen.
+                                                      (Mark Poschag)

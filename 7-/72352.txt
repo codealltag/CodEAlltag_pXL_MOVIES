@@ -1,0 +1,5 @@
+Software der Behörden? Kann sein, daß ich dich falsch verstanden habe.
+Ich dachte, du meintest, daß die Behörden zu einem beliebigen
+Zeitpunkt zu einem Provider gehen könnten und sagen "Gebt uns doch mal
+eine Liste mit den Dateien die User XYZ in den letzten 8 Wochen
+geladen hat."

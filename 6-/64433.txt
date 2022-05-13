@@ -1,0 +1,12 @@
+Wenn man nicht DVDs am Rechner anschauen will und das falsche
+Betriebssystem hat.
+Die meisten Linux-Distributionen werden AFAIK ohne DeCSS
+ausgeliefert. Kein großes Problem, wenn man das weiß und Internet-Zugang
+hat. Wenn nicht, gehört man halt nicht zur Zielgruppe...
+
+
+Norman
+-- 
+begin  signature_virus
+ Hi! I'm a signature virus. Please copy me to your signature to help me spread.
+end

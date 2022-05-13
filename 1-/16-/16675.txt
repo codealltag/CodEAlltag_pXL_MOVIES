@@ -1,0 +1,6 @@
+Hm, wenn Du nicht umkodieren willst, dann bleiben nur zwei 
+Möglichkeiten. Entweder Du brennst das Ganze auf einen teuren  Double 
+Layer Rohling (da muß der Brenner aber mitspielen) oder Du schneidest 
+vom mpg die 5 min (Abspann?) einfach weg. Mit TMPEGnc.exe geht sowas 
+recht einfach.
+Gruß Benjamin

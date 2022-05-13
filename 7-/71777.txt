@@ -1,0 +1,5 @@
+Irrtum. Auslassungszeichen werden immer mit einem Leerzeichen
+gesetzt. Es sei denn, man kürzt mit dem Auslassungszeichen ein
+Wort.
+
+Niko

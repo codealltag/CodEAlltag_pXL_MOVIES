@@ -1,0 +1,8 @@
+Oh Gott. Da hat aber jemand einen ganz grauenhaften Code geschrieben.
+Nur Mal so zum Vergleich: MovieMUI schafft das auf einem 68060/60 mit
+64 MB in 1h 20min. Vorher, auf dem 68030/25 mit 16 MB hats IIRC so 5-6h
+gedauert.
+
+-- 
+mfg,
+    Alberto

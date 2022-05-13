@@ -1,0 +1,10 @@
+Hallo,
+
+ich mache es kurz: Hat jemand den neuen Film von Otmar Bleistein "Quiz  
+Show" schon gesehen? Lohnt sich der Kauf einer Kinokarte oder ist es nur  
+rausgeschmissenes Geld?
+
+SB
+--
+** Beispiel-Signatur für öffentliche Nachrichten **
+## CrossPoint v3.0 ##

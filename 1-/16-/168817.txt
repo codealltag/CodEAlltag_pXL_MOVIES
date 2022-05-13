@@ -1,0 +1,16 @@
+On the stormy day of Tue, 19. 07. 22 23:51:47 +0200, thou, oh "Lothar
+Triede" <zkbabie@nnbkm.ou>, said thy word and thy word was:
+
+
+Ich glaube, ich weiß, wo das Problem ist: wenn das Band zuvor bespielt
+war, wird an der Stelle, wo die Aufnahme einsetzt, der alte Bandinhalt
+nicht gelöscht, da das Stück Band zwar überspielt wird, allerdings
+bereits über den Löschkopf hinweg ist (bedingt durch den reellen
+Abstand vom Löschkopf vom Schreib-Lese-Kopf) und somit die neue
+Aufnahme an dieser Stelle sich mit der alten überlagert . Abhilfe
+schafft man mit einem VCR mit einem "fliegenden" Löschkopf.
+
+-- 
+-----Karsten "Christof" Klassen---------------------
+So forget it, I pick.  Be thankful you're not Mr.
+Iller. <Luigi, "Reservoir Dogs">

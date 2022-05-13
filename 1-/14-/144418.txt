@@ -1,0 +1,7 @@
+Grmbl! Ich habe mir neulich Brüssermann installiert und wollte jetzt
+zum erstenmal damit die diffs integrieren. Und was meldet
+Brüssermann? Richtig, "wrong diffs". Ich hatte keine Lust zu langer
+Fehlersuche und hab's dann wie bisher mit IMDB 95 gemacht.
+Wie immer ohne Probleme.
+
+Juan

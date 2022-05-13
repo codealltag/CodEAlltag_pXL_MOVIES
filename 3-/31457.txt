@@ -1,0 +1,7 @@
+Weiß jemand, was da los ist? Zuerst gab es 3 oder 4 Wochen lang
+eine biographies.list mit 0 Byte, und nachdem das endlich in
+Ordnung gebracht wurde, gab es jetzt zweimal hintereinander
+ein völlig leeres diff (nur eine "Hölle" von 125 Byte). Sind die
+alle im Streik, oder was soll das?
+
+Adrian

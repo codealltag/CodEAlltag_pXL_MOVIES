@@ -1,0 +1,23 @@
+4 mal 7 ist 28. :-)
+
+
+1/24 Sekunde.
+
+
+Nein.
+Ich habe in meinem Rechenbeispiel die Auflösung (Punkte pro
+Flächeneinheit) und den wirklich für ein Bild  benötigten _Teil_ des
+Grafikkartenspeichers nicht berücksichtigt, denn das hätte die
+Berechnung sehr kompliziert gemacht.
+
+Aber Du hast einen Anhaltspunkt dafür, wie groß solche Dateien werden
+können.
+
+
+Valerian
+
+
+-- 
+"Zwei Hälften sind immer genau gleich groß, aber die größere Hälfte 
+von euch wird das nie kapieren." Originalzitat eines 
+Mathematik-Lehrers an einem gutsituiertem Gymnasium.

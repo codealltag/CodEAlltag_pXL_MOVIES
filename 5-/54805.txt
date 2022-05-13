@@ -1,0 +1,16 @@
+Bei mir mit RVK als Frontend derzeit 743 MB für die MySQL-Tabellen
+und 946 MB für die Listfiles, aus denen die Tabellen erzeugt werden. Es
+kommen jede Woche ein paar MB dazu. Außerdem braucht man während des
+Erzeugens der Tabellen noch einige hundert MB freien Platz für temporäre
+Dateien, die danach wieder frei werden.
+
+yaJMDB benutze ich selbst nicht, weil ich lieber bei RVK bleibe,
+aber die Tabellenstruktur ist wie gesagt recht ähnlich, und damit sicher
+auch die Größe.
+
+
+Bei mir (Athlon XP 2000+, 512 MB RAM) ungefähr 7 Minuten. Da ist das
+wöchentliche Updaten kein Problem. Mit Schaudern erinnere ich mich
+an IMDB95, wo das jedesmal ein paar Stunden gedauert hat ...
+
+Garrelt

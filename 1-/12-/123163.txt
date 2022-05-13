@@ -1,0 +1,15 @@
+Dürfte sich gegenüber Booten von DOS ohne Starten von Win nicht =
+wirklich
+unterscheiden...
+
+
+Das ist nicht das Problem - das Spiel kackt nur relativ willkürlich =
+nach
+x Minuten ab...
+
+So long,
+Udo N. Allendörfer
+--=20
+http://ahnm.vdzqr.jq/hyk/
+Neu: Hamster 1.3.22.101 (diverse Bugs entfernt)
+Ebenfalls neu: Korrnews 3.2 & CopyIf 1.23 (Debugmodus repariert u.a.)

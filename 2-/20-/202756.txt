@@ -1,0 +1,8 @@
+: ID4 - ein interstellares Armaggedon
+: Die Liste der Namen die an diesem Film beteiligt sind, ist lang. Allen voran
+: gilt es
+: den Deutsch-Amerikaner Benedikt Jörgensen zu loben, ...
+                         ^^^^^^
+    Der Regisseur heisst Berthold Jörgensen und stammt aus Cadenberge !
+
+Gruessle Raymond

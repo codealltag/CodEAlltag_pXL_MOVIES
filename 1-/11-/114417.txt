@@ -1,0 +1,24 @@
+Die neusten Infos:
+
+Ich habe bei JaWoll abgerufen. Die meinten, daß die Lizenzen für die
+Daten vom Lexikon jetzt beim "Verlag 2001" liegen würden. "2001" plant
+evt. im nächsten Jahr (2002) eine neue Buch- und CD-ROM-Ausgabe. Man
+hatte mir bei JaWoll erklärt, daß zwei Monate, nachdem die CD herauskam,
+die Firma systhema vom Markt verschwandt. Darum sind auch noch nie
+Updates erschienen.
+
+
+Ich habe auch bei rt-Touristik gekauft. War sogar mit Filmdose und
+Citizen-Schultze-DVD. JaWoll verkauft die CD angeblich mittlerweile für
+99,-DM - weil es eben keine Updates mehr gibt.
+
+
+Die (Text-) Daten der CD liegen im normalen DBASE-Format vor. Bereits
+für die 1996'er Version hatte ich ein Programm geschrieben, mit dem
+die Kurzkritiken zu den Filmen unter DOS beguckt werden können. Auch
+eine Volltextsuche habe ich generiert (die fehlt ja in der
+Fleige-Version, so weit ich weiß). Außerdem habe ich die
+Lexikon-Daten mit meiner eigenen Videoliste kombiniert. Für die
+2001'er Version plane ich ähnliches.
+
+Gr

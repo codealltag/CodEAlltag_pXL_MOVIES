@@ -1,0 +1,86 @@
+Das Terminator FAQ bietet hierzu einige interessante Informationen, die
+für Time Trax m.E. auch zutreffen:
+
+28.19.  Why didn't the Terminator "disappear" when Bernard threw the CPU into
+       the molten steel?
+The time travel of the Terminator movies is not the same as that of the _Back
+to the Future_ series.  Although no one is sure what would happen if you
+created a paradox, it is highly unlikely (and goes against the laws of
+physics for our world) that matter would just disappear into thin air.
+Time-travel paradoxes are a lot more complicated than that.  [See section 8
+for more on time travel.] 
+
+[...]
+
+8. Time travel questions.
+Naturally, any theory of time travel is just that: a theory.  For the purposes
+of this FAQ, the best we can do is try to apply one or more of these theories,
+while still maintaining internal consistency with the info presented in the
+films.  There are many theories of time travel in science fiction and comics.
+However, most discussions of time travel focus on two theories of 'real-world'
+physics: classic Newtonian and quantum mechanical physics.  For a good
+introduction to the application of these theories to time travel, see the
+article, "The quantum physics of time travel" in the March, 1994 issue of
+_Scientific American_.
+
+The classical theory states that there is one existence, and thus a single
+timeline.  According to this view, changing an event in the past could
+theoretically retroactively change history from the time traveler's POV. 
+This theory is plagued by problems of "temporal paradoxes".  For example,
+what happens if you go back in time and prevent your parents from
+meeting?  (According to the movie _Back to the Future_, you will 'fade from
+existence'!) 
+
+The quantum view is that time travel is possible along distortions in
+space-time called closed timelike curves; also, reality exists as a
+multiverse of infinite possibilities.  Thus, if you travel back in time and
+prevent your parents from meeting, there's no paradox.  Your parents still
+meet and conceive you in the timeline you came from (after all, you must have
+come from somewhere!).  However, a 'version' of you will *not* be born in the
+timeline you traveled to. 
+
+lhp0q@stfbz.srnn.iumjyqzx.jrp (Wolfram Arian Paffe) writes:
+"The 'many-universes' interpretation of quantum mechanics solves a lot of time
+travel paradoxes.  A time traveler can make _any_ change in the past he/she/it
+wants to without endangering their existence because they came from a
+_different_ universe whose timeline is untouched by their meddling.
+
+Therefore, there really is no paradox in the Terminator movies.  The
+Terminators and Meinhard Griepenstroth came from a universe where the war actually
+occurred, but by the end of T2 a universe had been created where Bernard and
+Hiltrud Cotman lived with no global thermonuclear war.  The original timeline
+still exists, however, in a parallel universe." 
+
+T2 implies that its world is of one existence and a single timeline.
+Certainly, it would seem to be futile to send someone back to change the past
+in a multi-universe existence -- unless one is very altruistic!  Consider
+this: T2 implied that Judgment Day never occurred due to manipulation of the
+past.  But it all depends which timeline one looks at:
+
+      1995             2029
+   -----|----------------|--(existence with nuclear war) (A)
+         \_______________|__(alternate peaceful existence) (B)
+
+Assuming the existence of multiple parallel timelines, if a time traveler
+could change an event in 1995 (such as destroying the CPU chip), all that
+would result is another existence (B) branching off from 1995.  Note that the
+nuclear war still happens in existence (A), even if an event in the past is
+changed! 
+
+What can we conclude?  Quantum physics *can* explain the events of T1/T2 well.
+However, it does not make for a good story.  Although saving humanity in a
+*single* timeline out of an infinity is better than none at all, this
+situation would likely not have been accepted by the moviegoing public.
+Assuming Judgment Day does *not* occur (as per the 'lost ending' of T2), JC
+wanted to show that there is "no fate" but what we make of it.  This
+philosophy is reinforced by the 'single-timeline' approach.
+
+So there you have it: good physics and a watered-down story, or a ream of
+paradoxes and a strong story.  Anyone care to posit a hybrid? ;-)
+<<<
+
+Viele Größe,
+            Uwe
+-- 
+Uwe Iserloh <zouk@hbs.zcfqa.fz>
+D-75964 NattersKipshoven, FRG

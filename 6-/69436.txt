@@ -1,0 +1,132 @@
+Hi,
+
+erst mal 'tschuldigung für die Kämme beim Zitieren, Thunderbird ist 
+durchaus noch verbesserungsfähig. *g*
+Dein FUP kam wohl nicht durch, deswegen nochmal hier, mit neuem FUP.
+
+Ansonsten Danke für Deine Anmerkungen, sie geben durchaus Sinn, 
+verständlicher fände ich die Überschriften trotzdem mit den von mir 
+vorgeschlagenen Ersetzungen, nix für ungut. :-)
+(x mal Posting zu verwenden und einmal Artikel sorgt für Verwirrung; und 
+wenn Du mit Postings die Ausgangspostings eines Threads meinst, wär's 
+glaub besser entweder Thread zu schreiben oder dann eben 
+Ausgangs|Start|irgendwas-Postings)
+
+
+Und jetzt noch OT zum Thema deutsch/englisch:
+
+Wenn ich mich privat mit jemandem unterhalte, von dem ich weiß daß er 
+sich auskennt, rede ich genauso Technobabbel. Aber wenn ich meiner Oma 
+das Internet erklären würde, würde ich das nicht tun.
+Und wenn Du meine Postings anguckst wirst Du auch feststellen, daß ich 
+auch normal Thread, Posting,... benutze, weil ich es seit Urzeiten 
+gewohnt bin.
+Ich gehöre nicht zu der Sorte, die den Leuten vorschreiben will, wie sie 
+sich auszudrücken haben. Da ich ausgerechnet bei Deiner Statistik 
+eingehakt habe, liegt zum einen daran, daß es so einen "halboffiziellen" 
+Charakter hat, zum anderen es nur einmal einer Änderung des Skriptes 
+bedürfte, um fortan verständlicher zu sein.
+Zugegeben, wer heutzutage noch dieses "veraltete Usenet" benutzt, kennt 
+sich vermutlich ganz gut aus, aber prinzipiell schreibt man hier für die 
+ganze deutschsprachige Filmgemeinde, gelegentlich sollte man sich das 
+halt vor Augen halten.
+
+
+Glaubt man als alter Hase (und ich bin seit 87 im Netz unterwegs, auch 
+wenn es damals Lindgruen/Reisewelle war) gerne, aber wenn man Leute, die nix 
+damit am Hut haben, in die Materie einführt, sieht das ganz anders aus.
+
+
+Das bezweifel ich in dieser Allgemeinheit ganz entschieden. Für manche 
+technische Begriffe vielleicht schwierig. Es gibt aber durchaus 
+nicht-technische Begriffe, die trotzdem oft nicht übersetzt werden, 
+obwohl es deutsche Entsprechungen gäbe.
+
+
+Sorry, es sind die englischen Begriffe, die neu sind für einen 
+Durchschnittsdeutschen, der zum ersten mal mit dem OZFZ in Kontakt 
+kommt. Thema und Nachricht hat dagegen wohl jeder schon mal gehört.
+
+
+Ich kenne den Unterschied zwischen Posting und Mail durchaus, trotzdem 
+würde ich für beides im Deutschen Nachricht vorschlagen. E-Brief oder 
+E-Post wäre möglich gewesen, wenn man sie von Anfang an benutzt hätte, 
+E-Mail ist aber inzwischen wohl wirklich über der Akzeptanzschwelle, 
+denn das hat auch schon jeder Mal gehört, der ansonsten nix mit 
+Computern zu tun hat.
+
+
+Kopfzeilen (man muß in beiden Fällen erklärt bekommen, was das ist, weil 
+es zu den technischen Begriffen zählt)
+
+
+Thema, finde ich eindeutig sogar intuitiver als den englischen Begriff, 
+nicht wahr?
+
+
+Diskussionsgruppe
+
+
+Ich betone ich bin kein Deutsch-Sektierer, mein Englisch ist sehr gut, 
+und ich treibe mich hauptsächlich in englischsprachigen technischen 
+Mailinglisten rum (google mal nach meinem Namen). Deswegen ist für mich 
+Signatur sehr wohl deutsch, halt ein Fremdwort genauso wie Motor, 
+Roboter, ...
+
+
+Kommt drauf an ob man News übersetzt. Auch ein Wort an der 
+Akzeptanzschwelle, weil man es in den normalen Medien sehr oft hört.
+Anonsten einfach Programm hinten dranhängen, wie in Mailprogramm z.B.
+
+
+Einer der technischen Begriffe, die sich wohl auch durchgesetzt haben. 
+Mit dem muß man aber wenn man nur im OZFZ mitliest auch nicht in 
+Berührung kommen. Client/Server, Master/Slave sind aber eben auch nur 
+englische Bilder, für die man genausogut im Deutschen hätte 
+Entsprechungen finden können. Anbieter/Kunde eines Dienstes ist wohl 
+auch im technischen Umfeld, sofort verständlich, oder?
+
+
+Was spricht gegen Verkehr? Viel Verkehr auf der Autobahn ist genau das 
+entsprechende Bild, das auch im Usenet paßt.
+
+
+Es gibt sektiereiesche Übersetzungen und es gibt sektiererisches 
+Beibehalten von englischen Begriffen, gell?
+
+
+Wenn Du am Ende einer Stunde ein Dutzend neuer Begriffe gehört hast, 
+macht es einen Riesenunterschied, ob Du mit jedem neuen sofort 
+Assoziationen zu bekanntem Wissen verknüpfen konntest, weil Du aus 
+Deiner Alltagserfahrung weit, was ein Thema oder eine Nachricht ist, 
+oder ob Du erst mal einen völlig fremden Begriff lernen mußt, der statt 
+Thread genausogut Crucht heißen könnte, weil Du keine Ahnung hast, daß 
+das eine ein englischer Begriff für Faden ist (was auch nur ein Bild 
+ist, das irgendjemand mal gewählt hat), das andere einfach nur Unsinn.
+Im übrigen sit das deutschsprachige Web-Angebot das zweitgrößte der 
+Welt, man findet also zu jedem deutschen Begriff genauso gute Treffer in 
+Blume2000 wie mit englischen.
+Findest Du nicht auch die Voraussetzung Internet nur für Leute, die 
+englisch können, ziemlich arrogant, gegenüber all denen, die aus 
+irgendwelchen Gründen nicht die Möglichkeit hatten englisch zu lernen?
+
+
+Prima. :-)
+
+Nur mal so als Anekdote, bei einer dieser Einführungsveranstaltungen ins 
+Internet für Senioren, hat mich mal jemand gefragt, warum das Ding 
+Usenet heißt. "Benutzt" man ftp, Mail, gopher oder was auch immer etwa 
+nicht auch? Du siehst, die englischen Begriffe sind keineswegs 
+intuitiver, oftmals sogar wirklich schlecht. Es ist nur die Gewöhnung, 
+die sie akzeptabel macht. Warum sich also nicht gleich an bessere 
+Begriffe gewöhnen?
+Und was hältst Du von jemandem der (kein Schweizer ist und) erzählt, daß 
+der Referee statt Corner hätte Penalty geben müssen? Wieso sollte für 
+Begriffe im Fußball (der ja schließlich aus England stammt) eine 
+Eindeutschung möglich sein, im Internet aber nicht? Ist Fußball weniger 
+international? Blume2000 spuckt keine Treffer für Eckball und Elfmeter aus?
+BTW, ist auch Eckball und Freistoß blöd: der Ball ist nie eckig und 
+gestoßen wird beim Billard oder in der Leichtathletik mit der Kugel.
+
+Ciao
+Fabrice

@@ -1,0 +1,30 @@
+Das war leider nicht die Lösung. Auch mit dem richtigen Datum
+funkioniert es nicht. Allerdings kommen mir die DIFFs ein wenig seltsam
+vor. Hier ist ein kurzer Auszug aus einer DIFF. Ist diese Syntax so
+richtig:
+
+------->snip
+
+
+1c1
+< CRC: 0xE9642BAB  File: aka-titles.list  Date: Fri 08. 09. 21 2 01:00:00 1999
+---
+97c97
+<  
+---
+100,122c100,122
+
+967377a110581,110583
+110887c111151
+<    (aka Far from Vietnam (1966))
+---
+111846a112111,112113
+
+------->snip
+
+Größe
+-- 
+Niclas Voeckel
+Germany, Planet Earth, POZ Way
+
+** And may you never, ever, run out of sugar... baby! **

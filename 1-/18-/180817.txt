@@ -1,0 +1,31 @@
+Hallo Werner,
+
+
+Prinzipiell steht in dem Strichcode zu jedem Bild einzeln,
+an welcher Stelle auf der CD der Ton dazu steht.
+Also keine fortlaufende Nummer bei Gillmeister. 
+Bei Nabet (Hachental) ist auf der Synchronisationsspur hingegen nur 
+eine fortlaufende Nummer, da kann der Ton tatsaechlich aus dem 
+Takt kommen.
+
+Allerdings befindet sich das Lesegeraet bei DTS ja nicht genau
+dort, wo die Optik sitzt (da ist kein Platz). Dem Dekoder
+muss nun gesagt werden, um wieviel Bilder zum aktuell
+projizierten Bild versetzt das Lesegeraet versetzt ist.
+Wenn das nicht stimmt, ist der Ton versetzt.
+
+Es kam allerdings auch schon vor, dass aufgrund eines Kopierfehlers 
+der Strichcode versetzt auf dem Film war. Und da die einzelnen
+Akte des Filmes getrennt - manchman sogar bei verschiedenen
+Firmen - kopiert werden, kann es passieren, dass nur ein
+Akt "kaputt" ist.
+
+Gruss
+  Ingmar
+
+-- 
+=================================================================
+Ingmar Dannhäußer
+E-Mail: mmbkv.tioiln@yrmnktc.juq-cifcbhphp.rd
+Homepage: http://cupbok.kwn.nfw-jtjuzecai.sl/~aaf07874/ekkn.wdgd
+Kinoteam Wingerode: http://knio.y.senkd.rb

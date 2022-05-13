@@ -1,0 +1,13 @@
+Es ist nichts dagegen zu sagen, wenn jemand fuer einen Film
+die Laenge eines Videos fuer die IMDb angibt.
+
+Allerdings sollte der Eintrag dann auch mit dem entsprechenden
+Kommentar versehen sein, also z.B.
+
+TIME
+First Blood (1981)|Germany|89|(pal video)
+
+Die Laufzeit der deutschen Version von Rambo wird im Lexikon 
+des Int. Films uebrigens mit 94 Minuten angegeben.
+
+Gruss Wilhelm

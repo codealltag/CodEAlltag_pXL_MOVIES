@@ -1,0 +1,9 @@
+"Ballistic Missile" sind einfach nur Geschosse, die durch einen
+Raketenantrieb beschleunigt werden. Lenkung ist nur minimal in der
+Starphase möglich, danach fliegt es den Regeln der Ballistik nach auf
+seiner unveränderbaren Bahn ins Ziel.
+
+Mit dem Sprengkopf hat das nichts zu tun.
+
+Ich gehe mal schwer davon aus, daß eine Körper von 80 kg, der mit 100
+km/h in einen Jet knallt, diesen hinreichend schwer beschädigt.

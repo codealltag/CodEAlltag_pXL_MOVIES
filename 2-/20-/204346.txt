@@ -1,0 +1,11 @@
+Es kommt nicht auf die Groesse der Projektionsflaeche an, sondern auf
+den Oeffnungswinkel, sprich die Groesse im Verhaeltnis zum Abstand des
+Betrachters.
+
+Im Kino wirst du bestimmt weiter von der Leinwand wegsitzen als du in
+diesem Moment von Deinem Monitor entfernt bist.
+
+Im uebrigen finde ich, dass gut geantialiaste Bilder auf einem
+20"-Monitor in 1280x1024 verdammt fotorealistisch aussehen.
+
+- Joseph

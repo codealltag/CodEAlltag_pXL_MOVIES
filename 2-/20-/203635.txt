@@ -1,0 +1,16 @@
+LaserDisc NTSC Player auf 220V umbauen ?!
+
+Da es zur Zeit keine Multinorm AC-3 Player gibt, und da LaserDisc mit
+AC-3 Ton eh nur NTSC Platten sind waere es doch eigentlich die beste Loesung
+gleich einen nur NTSC Player zu benutzen. Das angebot an Modellen ist dort
+eh hoeher ausserdem haben die Player viel bessere Ausstattungen wie
+Standbild, Zeitlupe auch bei CLV, DropOut Filter, KammFilter,...
+
+Sehe ich das richtig das man nur das Netzteil umbauen sprich austauschen
+muesste damit der USA Player hier mit 220V laeuft.
+
+PS: kennt einer Quellen hier in D, fuer NTSC Player ?
+
+--
+MfG
+ Kaspar Kleint - fdiq@ewtt.axhw.xd - http://ocae.oinbl.eu/~stiw - IRC ijthukf

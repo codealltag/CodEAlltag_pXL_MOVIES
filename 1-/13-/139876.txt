@@ -1,0 +1,10 @@
+Als Eselsbrücke für die Frequenz der Fernsehbilder eignet sich die
+Frequenz der Wechselspannung im Stromnetz. Vermutlich wurde die
+zumindest früher als Taktgeber für die Halbbilder im Fernsehen
+verwendet. (Ist das so?)
+
+Europa: 50 Hz Wechselspannung - 50 Halbbilder/s - 25 Bilder/s (PAL)
+USA:    60 Hz Wechselspannung - 60 Halbbilder/s - 30 Bilder/s (NTSC)
+Kino:               hierfür bleibt also brig 24 Bilder/s (Film)
+
+Fred

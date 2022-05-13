@@ -1,0 +1,7 @@
+Sie werden (zumindest beim FA) nicht in den bestehenden Thread
+gehaengt (dort, wo die Antwortpostings landen) sondern es entsteht ein
+neuer "Ast". Postings mit selben Subject sind also "gleichberechtigt" 
+
+Carlo
+-- 
+Wo meine Festplatte ist, da bin ich zu Hause.

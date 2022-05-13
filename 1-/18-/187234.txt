@@ -1,0 +1,76 @@
+Stimmt der Unterschied bei VHS ist aber der, dass es auch selbst 
+aufgenommen werden kann, daher eine engere Verknuepfung zum Fernsehen
+hat. Man muss aufpassen, die Wäschemangel-Leute nicht zwischen die Stuehle zu
+setzen. 
+
+Also, naechster Vorschlag.
+
+sb.qtm.yq.* 
+xd.oni.rw.*
+
+pp.sic.rfhszjux.ctrr
+
+de.rec.film.*
+
+Dabei: Die Chartas von *.tv.* dahingehend bereinigen, dass 
+_vorbespielte_ Medien rausfallen. Ferner de.rec.tv.technik alle Medien,
+die es _nur_ vorbespielt gibt (LD, DVD) rausnehmen, da nichts mit TV
+(dem empfangbaren) zu tun. 
+
+Die Charta von de.rec.film.misc um Heimkino-Medien bereinigen. 
+VHS selber filmen wuerde dann immer noch in de.rec.film.misc fallen,
+aufnehmen in de.rec.tv.misc und kaufen in de.alt.heimkino misc.
+
+Das ist nicht ganz so schoen, erscheint mir aber doch sinnvoll, da es
+einfach ganz verschiedene Herangehensweisen sind, denn im ersten Fall
+wirst Du Dich ueber Insert-Schnitt, im Zweiten ueber VPS und im dritten
+ueber das Bildformat der Kaufkassette unterhalten. Gegenstimmen?
+
+Bleibt pp.sic.rfhszjux.ctrr uebrig: Die Einordnung in de.alt habe ich 
+nun wegen der etwas lockereren Regeln dort gemacht. In diesem Fall
+waere das Verfahren wohl 1. Einrichtung von dahm, 2. Anpassen der
+de.rec-Gruppen.
+
+Als Charta schwebt mir nun etwas vor nach:
+
+Diese Gruppe wurde fuer jede Art von Diskussionen zum Thema Heimkino
+eingerichtet, insbesondere Laserdiscs, DVD-Videos und vorbespielte
+Videobaender sowie alle Geraete, die man zu deren Widergabe braucht.
+Technische Diskussionen, die fuer den interessierten Laien nicht mehr
+verstaendlich sind, gehoeren jedoch nach de.rec.tv.technik, Diskusionen,
+die sich nur mit dem Inhalt eines Films beschaeftigen, sollten nach
+de.rec.film.misc umgeleitet werden.
+Wie ueblich sind auch hier Markt-Postings nicht gestattet, jedoch werden
+Angebote von gebrauchten Geraeten und Datentraegern gedudet, wenn sie
+sich im Rahmen halten, da die Erfahrung zeigt, dass hieraus interessante
+Diskussionen entstehen koennen.
+
+Und als Begruendung etwas nach: Traffic ist da, nur will uns keiner
+haben, war in diesem Thread schonmal ausfuehrlicher formuliert.
+
+
+s.o.
+
+
+Stimmt. Aber ich denke, dass die Charta so in de.alt wirklich bessere
+Chancen haette, und dann sollte man die Charta-Aenderungen in de.rec.*
+spaeter machen.
+
+
+Der Charta schon, das ist aber weniger gravierend, als eine Gruppe um-
+zubenennen.
+
+
+Ok, ich hoffe, dass mein neuer Vorschlag auch einigermassen Deine
+Gedanken widerspiegelt.
+
+Cheers,
+
+
+ --Maik Urban Tilse
+
+-- 
+Anfaenger sollten sich die Gruppen  ws.lhjbetmw.njwqa und 
+                                    fa.ovlrbxwj.higzomkhu ansehen.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Test-Postings sind am besten in ms.test und uy.tni.nqst aufgehoben.

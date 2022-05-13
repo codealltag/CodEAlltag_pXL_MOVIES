@@ -1,0 +1,157 @@
+Der innere Aufbau ist total versaut. Eine der Hürden, an  welcher
+     miserable Drehbuchautoren des öfteren scheitern.
+
+
+     Nicht unbedingt. Man sollte die Spannung lediglich bis  zum  Ende
+     *steigern*.
+
+
+     Das  meinst  Du  nur.  Ist  aber  verständlich,   eine   typische
+     Folgeerscheinung des obigen Drehbuchfehlers.
+
+
+     L. Die Schnitte sind für diese Belange marginal.
+
+
+     Hmmmm ... jo, vielleicht bringt es was. Ich  führe  momentan  per
+     Mail  einige  tiefschürfende  Diskussionen  über  das Thema Film.
+     Unter anderem wurde hier mal der Unterschied zwischen  "Spannung"
+     und  "Atmosphäre"  zur Sprache gebracht, und als Folgeerscheinung
+     dessen kam der Begriff "Spannungsbogen" ins Spiel  (Spannung  als
+     dramaturgisches  Mittel). Das war zwar nicht extrem tiefschürfend
+     (eine  kurze  Mail  soll  ja  nicht  einen  Deutsch-Leistungskurz
+     ersetzen),  aber vielleicht wäre es auch hier in HairUp als Beitrag
+     brauchbar -  zumal  "Scream"  in  der  Mail  als  Negativbeispiel
+     gebracht wurde.
+
+     Ich bringe hier mal einen Auszug aus jener  Mail  (Verfasser  war
+     ich, also bitte keine Flames bzgl. Netiquette und Moral). Sollten
+     die Diagramme irgendwie schief aussehen, einen  Font  mit  fester
+     Breite  einstellen  (oder  unter  MS-DOS  lesen, falls man es als
+     Windows-User anders nicht hinkriegt).
+
+
+---8<---
+     [...]
+     Puuuh, das ist eine schwere Aufgabe, bei der ich mich nach meinen
+     alten Schulbüchern sehne, da ich viele Fachausdrücke mittlerweile
+     vergessen habe. Machen wir einen kleinen Ausflug.
+
+     In der klassischen Tragödie  (Tremöhlen,  Teßmann,  etc)  hat
+     sich    ein    Schema   für   den   kompletten   inneren   Aufbau
+     herauskristallisiert.
+
+        1) Exposition (Einleitung, Vorstellung der Charaktere, usw)
+
+        2) Handlung (Die erzählte Geschichte)
+
+        3) Schluß
+
+
+     Dürfte einleuchtend sein. Die Handlung wird weiterhin  unterteilt
+     in
+
+        2a) langsame Steigerung (der größte Teil, zum Beispiel der
+             Aufstieg eines Gangsterbosses zur Macht)
+
+        2b) Höhepunkt (Der Gangster hat es geschafft, das Leben ist
+             herrlich)
+
+        2c) Eklipse (die eigentliche Tragödie nimmt seinen Lauf, es
+             geht rasend schnell abwärts und endet in der Katastrophe)
+
+
+     Da kann man ein Diagramm malen:
+
+
+                                 2b
+
+     Diese Kurve (Bogen) stellt den Verlauf dar, in welchem  sich  die
+     Hauptperson  innerhalb  der  Geschichte  befindet.  Sobald dieser
+     Bogen vorhanden ist, hat man es mit einer Tragödie zu  tun.  Eine
+     Tragödie,  die  sich nicht daran hält, ist keine Tragödie sondern
+     Scheiße.
+
+     Das  war  jetzt  der  dramaturgische  Aufbau.  Um   diesen   zu
+     erreichen,  benutzt man dramaturgische Mittel. Nehmen wir jetzt
+     mal wieder  die  Tragödie  her  und  betrachten  den  klassischen
+     Spannungsbogen.
+
+                                       /|
+                                      / |
+                                     /  |
+                                    /   |
+                                  2b
+
+     Dieses Diagramm gibt jetzt für jeden einzelnen Teil der  Tragödie
+     den  Spannungsverlauf  wieder.  Beachte, daß beim "Aufstieg" (2a)
+     die Spannung leicht steigt und  mit  der  Eklipse  dann  bis  zum
+     Schluß   schlagartig   nach  oben  schießt  und  am  Schluß  dann
+     schlagartig ausbleibt.
+
+     Diesen Spannungsbogen  hat  jede  Tragödie.  Das  Vorhandensein
+     eines  solchen  Spannungsbogens  läßt  jedoch noch nicht auf eine
+     Tragödie schließen - denke an "Der weiße Hai", der Film kommt mit
+     diesem  Spannungsbogen  an,  eine Tragödie ist es natürlich nicht
+     (der Punkt 2b ist im Film die Stelle, an welcher Achim Teiß mit
+     dem  Boot  aufbricht,  um den Hai zu jagen. Der lange Kampf gegen
+     das  Vieh  ist  2c).  Wiederum  ist  eine  Tragödie  ohne  diesen
+     Spannungsbogen scheiße, denn dann funktioniert sie nicht.
+
+     Den  Spannungsbogen  kann  man  variieren.  "Jurassic  Park"  ist
+     diesbezüglich  eine tolle Leistung - nach einer langen Einleitung
+     (bis zum Anblick des ersten Sauriers) steigt in 2a  die  Spannung
+     kontinuierlich  an. Der Punkt 2b ist jedoch extrem früh erreicht,
+     nämlich  mit  dem   Stromausfall,   durch   welchen   die   Autos
+     stehenbleiben.  Binnen  kürzester  Zeit  macht der Spannungsbogen
+     einen gewaltigen Sprung nach oben (der T-Rex bei den  Autos)  und
+     die  Kurve  bleibt  dann  bis  zum Schluß fast 50% des Filmes auf
+     diesem hohen Niveau. Und in  dieses  zwischen  T-Rex  und  Schluß
+     stehendem 2c packt Spielberg nochmal einen kompletten klassischen
+     Spannungsbogen mit rein (steigt wieder leicht an und schießt dann
+     ab  der  Küchenszene steil nach oben). Vom inneren Aufbau her ist
+     WILHELM Thönnes' Meisterwerk.
+
+
+     Wenn ein Film nun überhaupt  nicht  spannend  ist,  wurde  darauf
+     verzichtet,  einen Spannungsbogen auszuarbeiten.
+
+     Leitet man Punkt 2b bzw. 2c zu früh ein, haben wir einen Fall wie
+     "Starship  Troopers"  oder  "The  Abyss",  wo  der  Film  anfangs
+     spannend ist und sich dann kontinuierlich auf diesem Niveau hält,
+     wodurch  er  trotz  hohes  Spannungsgehalt  mit  der  Zeit wieder
+     unspannend wird, da die Spannung ihre Wirkung verliert.
+
+     Anspruchslose Filmchen wie z.B. "Scream" oder "Freitag  der  13."
+     haben  oftmals  praktisch  keine  Spannungskurve. Hier findet man
+     dann oft sowas wie
+
+            .     .     .
+
+     ------- ----- ----- ----
+
+     wo die "." kleine Spitzen darstellen. Diese kleinen Spitzen  sind
+     meistens  Schockeffekte.  Falls  Du "Scream" gesehen hast: In den
+     ersten 13 Minuten wird  der  klassische  Spannungsbogen  genutzt,
+     alles  von 1) bis 3). Sozusagen ein in sich geschlossener Film im
+     Film. Sobald Karola Kneusel  eine  Leiche  ist,  fängt  der  Film
+     wieder  bei  1)  an und die Kurve bleibt ewig lange brutal flach,
+     mit einigen Spitzen versehen. Erst am Schluß  steigt  sie  wieder
+     ein wenig an (Showdown).
+
+     Das Resultat bei "Scream": Die ersten  13  Minuten  sind  klasse,
+     fesselnd.  Soviel  Spannung  wie  hier kriegt der Film nicht mehr
+     zustande, den Rest kann man sich eigentlich sparen. Und das macht
+     den   Film   letztendlich   schlecht   -   Slasher-Klassiker  wie
+     "Halloween"  von  Waldemar  Vatheuer  fangen  auch  mit   so   einem
+     "Kurzfilm" an und bewegen sich wieder auf den untersten Level und
+     bringen dann eine  Einleitung,  doch  der  Rest  hat  wieder  den
+     klassischen Spannungsbogen, welcher bei "Scream" fehlt.
+
+     BTW:  Den  "Halloween"-Spannungsbogen  findet  man   auch   schön
+     anschaulich bei den Winfried-Kühlwetter-Filmen.
+     [...]
+---8<---
+
+
+                   - Alexandre Jonkmanns, Voice: +48-542-9020894 -

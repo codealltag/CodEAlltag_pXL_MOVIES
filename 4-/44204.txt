@@ -1,0 +1,41 @@
+Hallo,
+
+
+Es gibt keine paradox-freie Zeitreisefilme. Schau Dir mal die "Zurück in 
+die Zukunft" Trilogie an, wo fröhlich diverse Paradoxone der Zeitreise 
+durchgespielt werden. Ebenso Star Trek, wo verschiedene Episoden je nach 
+Gusto des jeweiligen Drehbuch-Autoren verschiedene Erklärungsmuster für 
+Zeitreisen und Paralleluniversen nutzen. Genau deshalb würde ich - wenn 
+man mich für eine SF-Serie verantwortlich machte - Zeitreise-Drehbücher 
+für eine Serie gar nicht erst zulassen.
+
+Zu Deinem eigentlichen Problem: Deine Frage wird in ZidZ Teil 2 sogar 
+anschaulich vom Doc erklärt. Die übliche und für Zuschauer am leichten 
+schluckbare "Erklärung" ist, dass der Zeitreisende aus der alten 
+Realität kommt, aber deren Zeitstrahl verlassen hat:
+
+
+Zeit ->
+
+Realität 1 -------->-------- x - - - - - - -
+                   -----<-----
+Realität 2       o-----------o---->---------
+
+
+Der Zeitreisende und wir Zuschauer sehen die durchgängige Linie (-----), 
+an Punkt x verlässt der Zeitreisende seine bekannte Realität, kehrt 
+zurück, verändert Dinge und schafft damit eine neue Realität und einen 
+neuen Zeitstrahl. Auf diesem bewegt er sich fort. Die alte Realität 
+existiert parallel weiter (- - -), aber der Zeitreisende und wir 
+Zuschauer haben diese ja verlassen und erleben sie nicht mehr. Für uns 
+ist Realität 2 nun die eigene Realität.
+
+Beliebte Paradox-Frage, die dann auch in diversen SciFi-Episoden 
+durchgespielt werden: Was passiert mit dem Zeitreisenden, der ja auch in 
+Realität 2 bereits existiert? In "7 Days" ist der Zeitreisende ab dem 
+ersten Punkt o einfach nicht da, was nicht weiter erklärt wird. In ZidZ 
+geht der Doppelgänger des R1-Zeitreisenden ab dem zweiten Punkt o 
+ebenfalls auf eine Zeitreise und erzeugt damit eine Realität 3, die wir 
+als Zuschauer aber nicht mehr verfolgen.
+
+Usw. usw.

@@ -1,0 +1,9 @@
+Tino Ingolf Knoerr hat geschreibselt:
+
+
+Korrekt. Der Fliesen-Profi Speedup beträgt 4%.
+
+
+Nein, der ist immer konstant.
+-- 
+leander: Berend

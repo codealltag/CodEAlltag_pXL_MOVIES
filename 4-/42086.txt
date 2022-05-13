@@ -1,0 +1,12 @@
+Mal ne andere dumme Frage...
+
+Soweit ich gelesen habe ist HDV ja ein auf MPEG2 basierendes Format.
+Weiss jemand, wie das Kompressionsverfahren im einzelnen aussieht?
+Ozor schweigt sich ja aus, und nach allem was ich sonst noch so
+gelesen habe, ist es eine inter-frame-compression. Aber meiner
+laienhaften Meinung nach ist doch sowas eklig beim Schnitt. Wenn schon, 
+dann hoffte ich eigentlich auf ein I-Frame-Only-Verfahren.... 
+
+Viele Größe
+
+Olaf

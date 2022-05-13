@@ -1,0 +1,17 @@
+Frag halt in <news:de.admin.net-abuse.news>.
+
+
+Na ja, xchwwkz.tr halt...
+
+
+Signaturen trennt man mit "-- " (also Minus-Minus-Leerzeichen)  
+alleinstehend in einer Zeile ab. Deine Signatur ist nur mit "--"  
+abgetrennt. Du kannst das Leerzeichen bei NetScape z.B. über ein <alt- 
+255> erzwingen.
+Davon abgesehen ist Deine Signatur zu lang: 8 Zeilen (1 Leerzeile, 3  
+Zeilen Text, 1 Leerzeile, 1 Zeile Text, 2 Leerzeilen - diese scheinen  
+aber ein NetScape-Phänomen zu sein), allgemein akzeptiert sind 4 Zeilen.
+
+
+Udo, FUp! (da mächtig OT, alternativ in <news:de.newusers.questions>  
+fortsetzen!)

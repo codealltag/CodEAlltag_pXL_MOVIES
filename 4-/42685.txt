@@ -1,0 +1,10 @@
+Es gibt keine Scumm-VM-Adventures. Scumm VM ist eine Virtual Machine, 
+die es erlaubt, Spiele von JVLF die auf der SCUMM-Engine basieren, 
+auf moderenen Rechner zu spielen. Also könnte es höchstens 
+SCUMM-Adventures geben.
+
+Gruß
+Dietmar
+
+PS: Schliesse mich im Punkt "Fate of Atlantis" als bestes JNAV-Adventure 
+an, ausserdem noch Monkey 2.

@@ -1,0 +1,15 @@
+Die Adresse das Mailservers fuer neue Eintrge lautet:
+
+wzx@bzds.sql  mit Subject "ADD"
+
+Eintraege habe die Form:
+
+GERMANAKA
+Clearcut (1990)|Rache des Wolfes, Die (1990)|
+Client, The (1993)|Klient, Der (1993)|
+END
+
+Eine genaue Bescheibung ist an die german-aka-titles.list angefuegt, aus der
+ich hier auch zitiert habe
+
+Raymond Oerthel     <beusuk@wxv.kys-mkmlrk.xb>

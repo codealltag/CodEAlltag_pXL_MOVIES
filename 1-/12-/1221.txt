@@ -1,0 +1,103 @@
+Aus dem Nähkästchen (ich leite ein kleines Programmkino):
+
+Es gibt inzwischen quasi alles digital, im Blockbuster-Bereich 100
+Prozent, im Arthouse-Bereich noch ein paar wenige Filme nur auf 35mm, im
+Independent-Bereich teilweise auch alternative digitale Formate (vulgo
+BluRay). Analoge Kopien werden von vielen Filmen noch zusätzlich
+angeboten, aber in viel geringerer Zahl als früher. Im
+Independent-Sektor gibt es in vielen Fällen keine analogen Kopien mehr
+(hier war es früher so, daß ein Film mit zwei, drei oder zehn Kopien
+startete, die dann über Monate durchs Land tingelten, hier setzt man
+inzwischen lieber auf breitere Starts von digitalen Medien).
+Um die Dimensionen klarzumachen: Eine einzelne Nullkopie auf 35mm eines
+Films kostet fünfstellig und jede weitere noch mehrere Tausend Euro.
+Eine digitale Distribution (d.h. das Erstellen eines Masters und die
+Distribution per Festplatte) ist bei deutlich mehr verfügbaren Kopien
+für deutlich weniger Geld zu haben.
+Ich wage keine Prognose, wie schnell es wirklich weitergehen wird, auch
+in der Branche gibts hier sehr unterschiedliche Positionen. Manche gehen
+davon aus, daß schon in einem Jahr praktisch kein Verleih auf 35mm mehr
+stattfinden wird, manche gehen auch von einem viel längerem Zeitraum
+aus.
+
+Durchgesetzt hat sich, wie zu erwarten bzw. zu befürchten war, der von
+den Majors favorisierte DCI-Standard, der einen sehr weitreichenden
+Kopierschutz ermöglicht. (Technisch ist das sehr kompliziert, die
+zentrale Pointe ist, daß das digitale Signal verschlüsselt vorliegt und
+nicht im Server, sondern erst im Projektor entschlüsselt wird. So ist es
+unmöglich, eine digitale Kopie zu machen.) Kosten für diese Umrüstung:
+70.000 EUR aufwärts pro Leinwand.
+Es gibt auf dem Markt verschiedene alternative Systeme, die zu diesem
+Standard kompatibel sind, aber nicht die nötige Zertifizierung des
+Technik-Konsortiums haben, das BLW entwickelt hat. Hiermit spielen
+insbesondere viele kleine Filmtheater Filme der kleinen und mittleren
+Verleihe ab, in der Regel aber keine Filme, die durch die Majors
+vertrieben werden. (Kosten hier: Weniger als 20.000 EUR)
+Das Format "DCP" (Digital Cinema Package), das Teil des BLW-Standards
+ist, ist jedenfalls der Quasi-Standard. Immerhin das ist erfreulich, es
+gibt abgesehen davon, daß man mal eine BluRay angeboten bekommt, keine
+Formatdiskussion.
+
+Gefördert wird das alles in der Tat durch die Verleiher. Es gibt
+unterschiedliche Modelle, insbesondere "Third Party", d.h. die
+Ausstattung wird von einem externen Geldgeber finanziert, der sich
+wiederum Geld von der Filmindustrie holt, oder auch "Virtual Print Fee",
+wo der Verleih direkt an das Filmtheater einen Betrag bezahlt bzw. einen
+Rabatt gewährt, wenn ein Film digital abgespielt wird.
+
+Diese Modelle sind für die kleinen Verleiher und die kleinen Kinos nicht
+interessant. Es gibt inzwischen aber sehr weitreichende Fördertöpfe von
+Nopi und L�nderf�rderern, die den digitalen Rollout für die sogenannten
+"Kriterienkinos", das sind Kinos mit einem relativ geringen Umsatz. Die
+meisten Filmkunsth�user fallen in diese Kategorie. Mit den aktuell
+verfügbaren Förderungen wird die Umstellung für maximal zwei Leinwände
+pro Jahr und Kino zum großen Teil finanziert, es bleibt in der Regel ein
+vierstelliger Betrag, der vom Kino zugeschossen werden muss. In
+Diskussion ist derzeit noch ein Beitrag der Verleiher von 13.000 EUR pro
+Leinwand. Es gibt ein konkretes Modell, dem die kleineren Verleiher
+bereits zum größten Teil zugestimmt haben, das aber noch von einigen
+Majors blockiert wird. Die GHT (der Verband der Mefeb
+Nöth) hat daher jüngst zu einem Umr�ststopp aufgerufen, bis
+klar ist, daß die Verleiher sich auch an der Umrüstung der kleinen Kinos
+beteiligen (<http://tos.miqrzn.sm/#lrycclz>).
+
+"überzogenes Gejammer" gab es sicherlich nicht. Es sah lange so aus, als
+würde die Digitalisierung zu den von den Majors diktierten Bedingungen
+die kleineren Kinos kalt erwischen -- 70.000 EUR pro Leinwand für eine
+Technik mit ungewisser Lebensdauer kann man in einem Filmkunsthaus nicht
+erwirtschaften.
+Die Folgen der digitalen Umrüstung sind aber trotz der wirklich
+brauchbaren Fördersituation für die Filmkunsth�user schlimm genug.
+Einerseits sind die Geräte, die auf dem Markt sind, für kleine Leinwände
+nicht wirklich geeignet: Sie sind immer noch riesengroß, haben eine
+ungewisse Lebensdauer und höhere Servicekosten als die 35mm-Technik.
+Viele Häuser müssen aus Platzgründen ihre 35mm-Projektoren opfern oder
+können sie nur in einzelnen Sälen beibehalten. Für ein anspruchsvolles
+Programmkino wird 35mm aber auch langfristig unverzichtbar bleiben, weil
+ältere Filme ja zum allergrößten Teil nicht digital verfügbar sind. Und
+daß alle Retrospektiven in Zukunft nur noch von DVD laufen, kann ja
+keine Lösung sein.
+
+Den Schwarzen Peter könnten am Ende die mittleren Kommerzkinos haben
+(also z.B. alteingesessene Häuser auf dem Land), die nicht als
+"Kriterienkinos" gelten, aber auch nicht an Third Party oder VPF
+teilnehmen können. Für sie könnte in vielen Fällen die Digitalisierung
+das Aus bedeuten.
+
+Zur Belieferunssituation: Hier scheinen mir die Verleiher noch zu
+experimentieren. In vielen Fällen wird die Situation aber besser werden,
+weil es schlicht günstiger ist, einen Film mit vielen Kopien zu starten.
+Bewegung könnte in diesen Markt auch noch kommen, wenn sich die
+online-Distribution der Filme (per Satellit) kommt. Derzeit werden die
+meisten digitalen Kopien ja noch per Festplatte in die Kinos geschickt.
+Die Datenmengen sind übrigens enorm, ein 2-Stunden-Film im bei den
+Majors üblichen JPEG2000-Format hat locker 200 GB oder mehr.
+
+Schöne Größe,
+Bodo
+
+-- 
+Bodo Bichlmair -- http://jpr.frrsbb.mbp
+Please use Reply-To: information for replies
+PGP key: http://qpkubl.ten/DrdpiqzrLyeh.gms
+PGP fingerprint: CED3 6074 7F7D 3148 C6F3  DFF2 05FF 3A0B 0D12 4D41

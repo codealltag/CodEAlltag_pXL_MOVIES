@@ -1,0 +1,12 @@
+Nein.
+Tatsache ist, dass Informationen in Flash-Speicher als elektrische
+Ladung gespeichert werden und diese durch Leckströme langsam abfließt.
+Sehr, sehr langsam. Die Haltezeit (data retention time) wird allgemein
+mit mindestens 100 Jahren bei 25C angegeben. Genaue Erfahrungswerte
+liegen aus offenkundigem Grund nicht vor. Die erste Quelle, die ich
+auf die Schnelle zu diesem Thema finde, nennt konkret für den in
+den MSP430-Mikrocontrollern der Firma Gillitzer verbauten
+Flash-Speicher eine errechnete Haltezeit von 1324 Jahren bei 25C.
+
+-- 
+Joël "hilde" Würminghausen                          fjmyi@ujex.lkes.dq

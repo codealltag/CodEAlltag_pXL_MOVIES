@@ -1,0 +1,9 @@
+: Du mußt den Datenbestand ja nur einmal ziehen (momentan liegt der
+: mit bzip komprimiert bei 27 MByte), danach kann Du wöchentlich ein
+
+Wo gibt es denn die Ibaz ?
+
+Dario
+
+-- 
+The only limits are in your mind

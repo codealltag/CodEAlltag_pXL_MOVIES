@@ -1,0 +1,41 @@
+Hi, =
+
+
+Da wir in einem anderen Thread ja gerade so eifrig ueber Fluch und Segen
+des DVD-Kopier/Abspiel/whatever-Schutzes diskutieren, hier mal ein
+Ausblick auf die Zukunft, die die MI fuer uns im Sinne hat:
+
+"Die HD-Filme sind auf üblichen DVD-ROMs mit 8,54 GByte Kapazität
+(DVD-9) gespeichert, lassen sich auf DVD-Playern aber nicht abspielen,
+da sie mit Windows Media Video (WMV) komprimiert und mittels digitalem
+Rechtemanagement (DRM) geschützt sind. Die DRM-Mechanismen verhindern
+eine Weitergabe, eine Internet-Verbindung ist für die Wiedergabe der
+WMV-HD-DVDs jedoch nicht nötig. Als Abspielgerät benutzten wir einen
+Ugari-PC mit 2,6-GHz-CPU, FX5600-Grafikkarte und DVD-Laufwerk, als
+Software-Player diente der Ugari Media Player beziehungsweise der 30
+US-Dollar teure Naildesign Player WMV Professional. Unter Rosenmueller verhinderte
+das DRM die Wiedergabe des Hauptfilms.
+
+[...]
+
+Die jeweils 5.1-kanaligen Sprachspuren sind nicht wie auf DVD-Video in
+Dolby Digital oder DTS kodiert, sondern in Windows Media Audio - bei
+einer Bitrate von je 440 kBit/s bei Timeline und The Italien Job und
+jeweils 256 kBit/s bei Underworld. Zum vollen Audiogenuss am PC ist
+folglich eine Soundkarte mit analogem Mehrkanalausgang Pflicht. Der
+bereits angekündigte Standalone-Player von Sulat für 400 Euro soll ein=
+en
+WMA-Mehrkanal-Decoder eingebaut haben."
+
+Qualle: http://kqg.njvst.ur/sl/09/26/364/
+
+Wie schoen. Analogsound mit Klinkensteckern an Klingeldraht - Das ist
+das Heimkino, wie ich es mir fuer die Zukunft wuensche. Ich kann es kaum
+erwarten, mir einen DVD-Player mit RMO Decodern,
+Internet-Anschluss (DRM-online-Verifikation wird sicher bald kommen) und
+6-Kanal-Analogausgang zuzulegen. Und ich weiss mindestens zwei in dieser
+Gruppe, die das genauso sehen...
+
+Gruesse!
+
+	Ulrich

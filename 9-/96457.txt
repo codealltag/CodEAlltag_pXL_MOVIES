@@ -1,0 +1,18 @@
+Wenn man von 100 Linien/mm ausgeht, kommt man auf ca. 4200x3500 Pixel pro
+Bild, bei einem 35mm Film in CS. Bei Breitwand nimmt die Anzahl der Pixel
+in der Vertikalen mit der Ausnutzung der Filmfläche ab.
+
+� Das war vor ca. 20 Jahren (als ich mich zuletzt damit beschäftigt habe)
+  so eine Art Mindeststandard üblicher Diafilme.
+
+
+Dazu kommt: Wir haben hier Einzelbilder betrachtet!
+Bei analogem Film sind die Bilder (anders als bei Digitalprojektion)
+nicht gerastert. D.h. die Lage der Körner von zwei auf einanderfolgenden
+Bildern ist nicht korreliert. Das erhöht die sichtbare Auslösung des Films
+bei statischen Aufnahmen und langsamen Bewegungen.
+
+
+AFAIR 1200x1024 Pixel. Mein Monitor schafft mehr...
+
+Ciao, Crsrf                              mplmqltw@bbhpziec.ad

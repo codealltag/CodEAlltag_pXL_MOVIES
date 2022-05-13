@@ -1,0 +1,33 @@
+Das hat nichts mit den 35-mm Kopien dieses Films zu tun. Die digitale
+Projektion von Star Wars ist gemeinhin (nicht nur hier) als pixelig
+beschrieben worden. Der "normale" 35mm Film ist nicht pixelig.
+
+
+Natürlich. Aber für Kino ist ja wohl maximale Fernsehaufl�sung eher
+untere Grenze, oder?
+
+
+Wieviel Beispiele für DSP basierte Systeme, ich sich auf beliebige
+neue Codes programmieren lassen kennst Du denn? Gerade DSP unterliegen
+ja auch gewissen Einschränkungen.
+
+
+Flexibler ja, aber ich bestreite, daß die Vorteile die Nachteile davon
+überwiegen.
+
+Zudem kann ich mir bei "flexiblen" Systemen auch größere Bedenken der
+Filmindustrie vorstellen, weil die Daten dann ja auch 'mal schnell
+woandershin als auf die Leinwand wandern.
+
+
+Nichts, daß den Eindruck erweckt, ein Killerargument zu sein.
+
+
+DRM und wie die Filmdaten dekodiert werden hat nun wirklich gar nichts
+mit einander zu tun. Und davon daß die grundlegende Verschlüsselung
+für die Film Daten geknackt wird, ist nicht auszugehen - zumindest ist
+das in der Praxis ja bisher so gut wie nicht passiert.
+
+
+ciao,
+fritz.

@@ -1,0 +1,21 @@
+Gibt eigentlich eine Datenbank mit Filmmotiven? 
+
+Ich meine keine großen Leitotive, sondern kleine Szenen, die sich in
+mehreren Filmen wiederholen: 
+
+* Mord unter der Dusche ("Psycho", ...); 
+
+* Tod durch einen Toaster in der Badewanne
+  ("Der Krieger und die Kaiserin", "Groundhog Day"); 
+
+* ein Lungenschnitt, von einem Freund, Verwandten etc. durchgeführt 
+  ("Der Krieger und die Kaiserin", "The Sweet Hereafter")
+
+* ...
+
+Es gibt doch tausend solcher dramatischer Szenen, die von Film zu Film
+wiederholt und variiert werden. Es wäre cool, wenn eine Motiv-Suchmaschine
+mir die Treffer zu z.B. "Lungenschnitt" liefern würde (direkt mit Link zu
+imdb). Oder das wäre was für ein Wiki, vielleicht eine MFZ-Seite...
+
+Urban

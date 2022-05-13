@@ -1,0 +1,28 @@
+Hallo nochmal - nahe der Verzweiflung!!!
+
+"Hartmut Coenning" antwortete
+
+Hab mir VirtualDub 1.7.0 installiert,
+
+eingestellt
+
+hab ich gefunden und eingestellt.
+
+hab ich auch eingestellt.
+
+Und da wirds dick: ersteinmal: wie abspeichern?? Da gibts drei Punkte:
+Save as AVI
+Save old format AVI
+Save sequented AVI.
+Aber egal, hab alle probiert. Immer kommt eine Fehlermeldung:
+
+Cannot initialise smart rendering. The selected video code is able to 
+compress the source video, but cannot match the same compressed format.
+
+Also irgendwas haut da mit dem Codec net hin. Interessant ist auch, daß 
+diese Filme vom OnlineTVrecorder alle *.mpeg.avi heißen, und wenn man das 
+.avi wegnimmt, laufen die auch. Was ist denn das für ein Format??
+
+Danke für die Hilfe!
+
+Lg Carl

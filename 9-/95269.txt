@@ -1,0 +1,9 @@
+Wenn IVVD die 2.4 Version (ohne MySQL) ablöst, dann besteht ja 
+eigentlich kein Bedarf mehr.
+
+
+Danke für den Aufbau ;) Schön dass jemand sieht wie ich hier kämpfe.
+
+-- 
+Ralph Hunke <yzxk@fisinf.ik>, Untergallaberg
+PGP RSA & DH/DSS public key on request and on public servers

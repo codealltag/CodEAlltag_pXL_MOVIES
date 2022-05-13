@@ -1,0 +1,63 @@
+Hi Rolf,
+
+HL> Aber irgendwie habe ich mit eurem Angebot ein Problem: Wie erfahre ich
+HL> denn jetzt - und zwar vor der Bestellung! - wieviel ein bestimmter
+HL> Artikel tatsaechlich kostet?
+
+Auf der Link-Seite sind drei verschiedene Online-Kataloge aufgefuehrt. Da  
+habe ich dabei geschrieben, wie mit den Preisen dort umzurechnen ist. Die  
+Preise, die "The Zone" angibt, entstprechen genau denen, nach denen wir  
+umrechnen, die anderen beduerfen kleinerer Anpassungen.
+Ausserdem gibt es ja noch den englischen Haupt-Katalog auf Papier, den wir bei
+
+Bedarf fuer 5,- DM bieten koennen.
+
+HL> zweitens ergeben sich, wenn ich sie nach Eurer Tabelle umrechne, Preise,
+HL> die ziemlich genau bei dem liegen, was ich hier auch im Laden bezahlen
+HL> wuerde.
+
+Ja? Gut - die neuen Star Trek kosten 37,99 DM (12.99 Pfund in England), aber  
+Next Generation gibt es fuer 31,99 DM. So wie alle 10.99 Pfund-Videos. Sonst  
+wird fuer beide fast ausnahmslos mindestens 39,95 DM verlangt. Auf der  
+Preistabelle findest Du einige Beispiele fuer andere Filme. Wir bieten eine  
+sehr feinere Preisstaffelung als die meisten Haendler, die einfach entweder  
+39,99 DM oder 59,99 DM nehmen, egal was das Video in England gekostet hat.  
+Merkbar wird das bei uns z. B. Sonderangeboten fuer 18,99 DM oder 20,99 DM  
+oder bei Twin Peaks-Episoden (29,99 DM).
+
+Das Pfund steht leider jetzt bei 2,80 DM und nicht mehr bei 2,30 DM wie noch  
+vor einem Jahr. Die anderen deutschen Geschaefte haben ihre Preise aber kaum  
+veraendert - das heisst, die hatten enormen Gewinn bei dem guenstigen Kurs.  
+Wir rechnen aber wirklich am Rande des Machbaren (4-5 DM Gewinn an einem  
+Video fuer 38,- DM), koennen also nur auf ein fallendes Pfund hoffen, um  
+wirklich deutlich guenstigere Preise bieten zu koennen.
+
+HL> Aber wo bleibt da der Mailorder-Preisvorteil??
+
+In den 3% Rabatt ab 100,- DM und dem geringen Versandanteil von nur 3,- DM.  
+Ausserdem sparst Du den Weg und die damit verbundenen Kosten zum naechsten  
+Geschaeft, das englische Videos bietet. Dazu sind unsere Preise Mena  
+praktisch ueberall guenstiger als woanders. Auf Gegenbeispiele waere ich  
+gespannt.
+
+HL> Wenn schon kein richtiger Onlinekatalog moeglich ist (ein Problem, das
+HL> sich durch Providerwechsel leicht loesen liesse...),
+
+Das ist noch das kleinere Problem. Ein vernuenftiges Online-Katalog-System  
+inkl. Warenkorb bedarf natuerlich eines enormen Aufwands. Das geht nicht  
+einfach von heute auf morgen.
+
+HL> sollte es doch
+HL> wenigstens Preislisten als einfaches ASCII-File geben.
+
+Fuer SciFi habe ich ja schon eine extra Seite eingerichtet. Neuheiten- und  
+Sonderangebotslisten werden wir demnaechst einscannen und dann nach OCR als  
+ASCII-Datei bereitlegen. Vielleicht scannen wir auch mit der Hau-Ruck Methode  
+den ganzen Katalog ein :-) GeZIPptes ASCII ist so herrlich kurz!
+
+Spaeter wollen wir auch einen Online-Katalog haben, ist nur etwas mehr  
+Planung erforderlich - bis dahin rate ich Dir, den Katalog von "STUDIS" zu  
+benutzen und unsere Preise mal direkt mit anderen zu vergleichen.
+
+BCNU
+Thomas

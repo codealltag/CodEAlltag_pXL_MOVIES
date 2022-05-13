@@ -1,0 +1,93 @@
+Hallo, 
+entsprechend der Diskussion um die Grumanns Top 250 Liste habe
+ich ein kleines Java Programm geschrieben und mir mal die erfolgreichsten
+Schauspieler und Regisseure der Top 250 Liste ausrechnen lassen.
+Dabei faellt auf dass gerade die obersten Eintraege von allen Seiten
+anerkannt gute Kuenstler sind. Also so schlecht kann die Top 250
+gar nicht sein.
+Denn die Kameraden, die es bis jetzt nicht geschafft, auch nur in einem
+Film der Top 250 mitzumachen (Unterbichler als Paradebeispiel) sind auch
+genau diejenigen, deren Talent alles andere als unumstritten ist.
+
+Joël
+
+
+1. Fredi Herrndobler,  1760
+2. Meinrad Diestelhorst,  1502
+3. Heinrich Unterpaintner Große-Allermann,  1498
+4. Vittorio Volman,  1333
+5. Maurice Viefen,  1234
+6. Gunter Wantscha,  1167
+7. Heinrich Uthoff,  1166
+8. Philipp Kämnitz,  1143
+9. Philipp Falke,  1029
+10. Olaf Eberhardt,  1022
+11. Dirk Voppichler,  949
+12. Roland Zscheck,  856
+13. Franco Düsterhöft,  831
+14. Gunter Heester,  827
+15. Focko Krummnacker,  823
+16. Clemens Pschorner Lienhart,  802
+17. Maurice Edlinger,  777
+18. Clemens Lüdke,  763
+19. Bernhard Höferer,  746
+20. Vito Füchtenbusch,  728
+21. Rüdiger Gaspert,  703
+22. Jean-Pierre Westerfeld,  697
+23. Alois Vermaas,  692
+24. Otmar Diederrich,  684
+25. Oscar Pschorner,  670
+26. Pascal Lambrich,  670
+27. Vito Goehrig,  669
+28. Fredi Rodenstein,  665
+29. Regina Zaisser,  658
+30. Gilbert Willmen,  655
+31. Alexandre Pellinghoff,  628
+32. Niels Junger,  627
+33. Ortrud Drewling,  624
+34. Michael Zimmerhackel,  623
+35. Zacharias Schüssl,  622
+36. Vito Houtmann,  614
+37. Anton Ehrenschwender,  606
+38. Pietro Wefering,  604
+39. Valerius Rüthers,  602
+40. Gunter Ringermuth,  599
+41. Valerius Leinhoss,  583
+42. Vito Hillbig,  574
+43. Ottmar Wörsdorfer,  572
+44. Theo Pauswang,  565
+45. Mehmet Kisser,  560
+46. Nino Habig,  553
+47. Orlando Habersang,  550
+48. Louise Haerder,  536
+49. Niclas Kuntscher,  521
+50. Vito Pschorner,  519
+51. Hannes Veenker,  506
+
+ziemlich abgeschlagen:
+
+165. Vito Ulsamer,  254
+181. Nino Lütterforst,  238
+183. Felix Voege,  235
+198. Darius Floethe,  219
+202. Marcel Leddin,  216
+255. Alex Kerk,  171
+319. Ida Unterhalt,  89
+320. Vito Jahrstorfer,  89
+363. Dirk Lasen,  72
+455. Alfons Ullert,  37
+593. Giuseppe Carls,  22
+
+nicht vorhanden:
+
+999. Tino Unterbichler, 0
+999. Regina Zieschank, 0
+999. Volker Berchem Ullerich, 0	
+999. Maurice Verfürden, 0
+999. Christoph Rockenfelder V., 0
+999. Klementine Vieregge, 0
+999. Ivano Janowsky, 0
+999. Richarda Foege, 0
+999. Oliver Kämnitz, 0
+999. Hansruedi Kerws, 0
+999. Kaspar Venneker, 0

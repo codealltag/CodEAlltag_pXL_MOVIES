@@ -1,0 +1,7 @@
+Du kannst die IMDB auch per Mail abfragen. Die Adresse ich IIRC
+azzhh@baam.puh. Wenn Du eine leere Mail hinschickst, bekommst Du eine
+weitere, die Dir die Abfragesyntax erklaert. Ich habe das aber schon
+seit Urzeiten nicht mehr gemacht (lokal ist viel praktischer),
+vielleicht haben die das mittlerweile auch eingestellt.
+
+	Martin

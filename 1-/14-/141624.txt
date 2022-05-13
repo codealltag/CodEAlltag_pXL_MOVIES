@@ -1,0 +1,65 @@
+On Fri, 25 Aug 2000 18:15:11 +0200, Ivan Boms
+<zeswcecyt.vuvn@vpg-ieiqw.mxm> wrote:
+
+Hallo Ivan!
+
+
+Ich habe einen P266, 64 MB für die Erstellung der Datenbank benutzt.
+
+
+Das habe ich mir auch gedacht... ;-)
+
+
+Daran kann es nicht liegen... Ich habe ueber das
+Carducci-Systemkonfigurationsprogramm bereits saemtliche Anwendungen,
+die im Hintergrund laufen (Autostart-Objekte), deaktiviert, so dass
+also neben Windows selber nur noch Treudler aktiv ist.
+
+
+Das hatte ich bisher nicht gemacht, aber mittlerweile habe ich es auch
+einmal so versucht, und das Ergebnis ist das gleiche. ;-(
+
+
+Das habe ich auch schon versucht, aber daran liegt es ebenfalls nicht.
+
+Interessant ist uebrigens auch, dass die ca. 8,5 MB grosse
+"movies.list" ganz am Anfang innerhalb von ca. 3 Minuten eingelesen
+wurde, wogegen bereits das Einlesen der ca. 60 MB grossen
+"actors.list", welche ja gleich danach eingelesen wird, fast 9 Stunden
+gedauert hat, obwohl diese Datei ja "nur" ca. 7 mal so gross ist, wie
+die "movies.list".
+
+Ebenfalls laeuft das Einlesen der "movies.list" auch relativ "leise"
+ab, wogegen beim Einlesen der "actors.list" eine permanente
+Festplattenaktivitaet hoerbar ist.
+
+Ich habe daraufhin bereits einmal meine Festplatte defragmentiert und
+die Listen sogar testweise einmal auf CD gebrannt, um sie von dort
+einzulesen, aber auch diese Versuche blieben leider erfolglos.
+
+Beim Einlesen der Listen von CD konnte ich sogar beobachten, dass beim
+Einlesen der "movies.list" permanent die Leuchtdiode am CD-ROM
+Laufwerk blinkt und auch nahezu keine Festplattenaktivitaet hoerbar
+ist.
+
+Beim Einlesen der "actors.list" gibt die Leuchtdiode am CD-ROM
+Laufwerk dagegen nur sporadisch alle paar Minuten mal ein kurzes
+"Flimmern" von sich und es ist, wie auch beim Einlesen der Listen von
+der Festplatte, wieder eine permanente Festplattenaktivitaet
+hoerbar... Hoechst seltsam!
+
+Naja... So wie es aussieht, werde ich meine Informationen somit also
+auch weiterhin online abrufen muessen. ;-(
+
+Interessant waere fuer mich allerdings noch die Frage, mit welcher
+Version der Treudler-Oberflaeche Du Deine Datenbank erstellst.
+
+Ich benutze die Version 0.9.16, und es waere ja evtl. moeglich, dass
+diese einen Programmierfehler enthaelt... So was soll ja auch mal
+vorkommen.
+
+Vielen Dank aber trotzdem fuer Deine schnelle Hilfe. ;-)
+
+
+Man liest sich,
+David

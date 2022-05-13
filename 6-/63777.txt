@@ -1,0 +1,13 @@
+Das ist die Deklaration einer Integer-Variablen namens a in der
+Programmiersprache C. Je nach irdischem Rechner und Betriebssystem kann
+darauf intern vieles verschiedenes werden, wie im folgenden Absatz
+erläutert.
+
+
+Es geht nicht um Mathematik, sondern um Computersysteme, die schon auf
+Erden derart grundverschieden sind, daß sogar der Austausch simpelster
+Texte schiefgehen kann, von Programmcode (aus sowas bestehen Viren) ganz
+zu schweigen.
+
+So long,
+Arne C. Gerß

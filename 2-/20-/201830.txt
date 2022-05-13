@@ -1,0 +1,37 @@
+Hallo,
+
+ich moechte gerne die Verkablung meiner AC-3-Anlage rundumerneuern,
+und da wuerde ich gerne wissen:
+
+1) Wie wichtig ist die Dicke des Lautsprecherkabels? Man kann im
+Handel ja moerderisch dicke und teure Kabel kaufen, die man dann kaum
+noch um die Ecke biegen kann. Ausgehend von einem normalen Wohnraum
+mit 25 qm, ...
+
+1a) ...wie dick sollte ein Kabel mindestens sein, wenn ein
+"Full-Range-Speaker" (ca. 20 Hz - 20.000 Hz) daran angeschlossen ist?
+
+1b) ...wie dick sollte ein Kabel mindestens sein, wenn ein
+"Small-Speaker" (ca. 90 Hz - 20.000 Hz) daran angeschlossen ist?
+
+2) Wie wichtig ist es, dass alle Kabel gleichlang sind? Fallen
+Laufzeitunterschiede und/oder Widerstandsunterschiede bei wenigen
+Metern auf? Mein laengstes Kabel waere ca. 15m lang, sollte ich dann
+auch die Strecken, die nur 2m lang sind mit einem 15m-Kabel verbinden?
+
+3) Da mein Nipen RadHaus keine Moeglichkeit vorsieht, ein zweites
+Lautsprecherset anzuschliessen, wuerde ich gerne einen mechanischen
+Umschalter in die Verkablung einschleifen. Geht das ohne Verlust? Gibt
+es qualitativ hochwertige Umschalter im Handel? Was fuer Daten
+(maximaler Stromfluss etc.) sollte ein Umschalter mindestens haben,
+fuer den Fall, dass ich mir sowas selberbaue? (Vielleicht hilft auch
+die Tatsache, dass ich den Bassanteil nicht ueber den Umschalter
+lenken will, sondern nur Mitten und Hoehen).
+
+- Friedrich
+
+---
+
+Friedrich "Rudolf" Gauß
+xsjxnkbg@ttfchgswtb.ng-bfmvzyvu.qg
+Ride more roller-coasters!

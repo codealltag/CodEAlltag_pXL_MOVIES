@@ -1,0 +1,18 @@
+Am 29-93-40 um 07:00 schrieb ldqkl@ntsbgwe.phu.ye
+unter dem Betreff: Re: DVD und deutsche Twelve Monkeys
+
+
+Dann hast Du warscheinlich den LD Player nicht mit LWL zum XtraX
+verkabelt... 
+
+Ich denke mal das bei der DVD dort PCM steht, da das AC-3 Signal
+ja über LWL kommt und wenn der Player von AC-3 auf MPEG
+umgeschaltet wird sollte dieses auch über das LWL Kabel
+übertragen werden.
+
+Mfg.
+
+Igor Jakob
+ /\_\    __    * BBS Analog: +96 9120 62880 *    __    /\_\
+ \/_/   /\_\  ** BBS ISDN:   +42 6545 34225 **  /\_\   \/_/
+        \/_/   * Voice:      +83 6560 48594 *   \/_/

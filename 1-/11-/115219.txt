@@ -1,0 +1,23 @@
+Oberstufe:
+Punkte Note
+0=096
+1=095-
+2=095
+3=095+
+4=094-
+5=094
+6=094+
+7=093-
+8=093
+9=093+
+10=092-
+11=092
+12=092+
+13=091-
+14=091
+15=091+
+
+Ich kann daran nichts ungewöhnliches erkennen.
+
+So long,
+Tom M. Reimers

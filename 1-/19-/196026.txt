@@ -1,0 +1,223 @@
+Hier ist mal ein Vorschlag für Bezeichnungen, von der Naujokat Seite.
+Habt ihr Verbesserungen/Ergänzungen? Das wäre ein Paragraph der FAQ...
+
+
+#1. INT./EXT. 
+
+E: In the scene heading, this designates indoors or outdoors. It gets a
+bit tricky, sometimes, when you're outside, say, underwater. Are you INT.
+LAKE or EXT. LAKE? You decide. And check out the screenplay for THE HUNT
+FOR RED OCTOBER for another stylistic choice -- it dispenses with the
+convention altogether.
+
+D: Bleibt gleich, da es eine praktische Abkürzung für intern bzw. extern
+ist.
+
+
+#2. BEGIN CREDITS/END CREDITS 
+
+E: Not necessary, but you can do it if you've consciously designed a
+credit sequence into your film.
+
+D: Beschreibt Titeleinblendungen, auf Deutsch "EINBLENDUNGEN
+ANFANGEN/BEENDEN", wird wie im Englischen auch nur selten benutzt.
+
+#3. (V.O.) 
+
+E: The abbreviation for 'voice over.' I prefer not to use it as a
+parenthetical, but place it next to the character's name. It implies a
+narrator, separate from the screen action.
+
+D: Die Abkürzung für "Voice Over", was bedeutet, dass ein Sprecher, der
+nicht anwesend ist, spricht. Wird für Telephongespräche/Erzähltexte und
+dergleichen verwendet. Bleibt gleich, da Voiceover ein eingedeutschtes
+Wort ist.
+Wie auch (O.S.) Wird es dem Charakternamen hinterhergestellt, z.B.: 
+
+                            HEINRICH (V.O.) 
+                      Du, Knut.     
+
+                            KNUT (O.S.)
+                      Ja, Heinrich?
+
+
+#4. (O.S.) 
+
+E: The abbreviation for 'off screen.' This is dialog coming from a
+character who is in the scene, but out of camera view.
+D: Abkürzung für "Off Screen" (Nicht auf dem Schirm). Ein Charakter ist
+zwar anwesend, aber momentan nicht sichtbar in der Szene. Anwendung wie
+(V.O.).
+
+
+#5. (cont'd) 
+
+E: A particular parenthetical, used if a speech has been interrupted by
+description or a page break.
+
+D: Ein In Klammern geschriebenes "Parenthetical" oder "Wryly", es gibt an,
+dass der Dialog eines Charakters von etwas unterbrochen wurde (z.B.
+Actionsequenz, Seitenumbruch) und nun fortgeführt wird.
+Übersetzungsvorschlag: (fortgesetzt) oder (fortges.). Wrylies werden
+generell selten benutzt, dieses ist jedoch eine Ausnahme. Anwendung:
+
+                            DOMAS
+                     Pierrette, dieses Alien 
+                     war echt!
+
+Scully schüttelt langsam den Kopf, wobei wir das Alien im Hintergrund
+sehen können.
+
+                            DOMAS
+                       (fortges.)
+                     Sehen Sie nicht, dass die 
+                     das bloß wieder vertuschen 
+                     wollen?
+
+
+#6. CUT TO: 
+
+E: Can be used between every scene, between major sequences, sporadically
+whenever it's appropriate to the rhythm of the script, or not at all.
+Particularly useful for manipulating the page count.
+
+D: Kann zwischen allen Szenen, zwischen "großen" Szenen (Szenen, bei denen
+INT./EXT. davorsteht), sporadisch oder gar nicht eingesetzt werden.
+Besonders nützlich, wenn man die Seitenzahl manipulieren will.
+Übersetzung: SCHNITT AUF:
+
+
+#7. DISSOLVE TO: 
+
+E: Implies the passage of time. SLOW DISSOLVE TO: implies the passage of
+lots of time.
+D: Zeigt überblenden zwischen Szenen an. B: Überblenden AUF:, kann
+erweitert werden: LANGSAM Überblenden AUF:, SCHNELL Überblenden AUF:
+
+
+#8. (filtered) 
+
+E: A particular parenthetical, used when the dialog is coming from a
+phone, over a radio, or any electronic device that will modify the vocal.
+
+D: Noch ein Parenthetical. Es wird benutzt, wenn die Sprache eines
+Charakters (durchs Telefon, Funger, etc.) verfälscht oder verrauscht
+ist. B: (verrauscht), (verzerrt) oder ähnlich je nach Situation. 
+
+
+#9. INTERCUT: 
+
+E: Frees you from having to repeat scene headings for, say, a telephone
+conversation.
+
+G: Berfreit dich davon, Szenenüberschriften wiederholen zu müssen, z.B.
+bei einem Telephongesr�ch. B: INTERCUT, WECHSEL ZWISCHEN A UND B.
+
+
+#10. FADE IN/FADE OUT 
+
+E: Used to start and end the script. They can also be used at any point in
+the screenplay, to delineate major sections of the film.
+
+D: Hiermit endet oder beginnt der Film. Man kann sie auch an anderen
+Punkten im Drehbuch benutzen, um etwa Akte oder verschiedene Sektionen des
+Buchs zu trennen. B: AUFBLENDE/ABBLENDE.
+
+
+#11. CLOSE ON 
+
+E: If you really want to emphasize a detail, a clue, then this is the way
+to do it. No more than three of these in any one script, or you're
+over-directing.
+
+
+D: Wird dann genommen, wenn ein Detail wirklich wichtig ist, z.B. ein
+Beweismittel beim Krimi, der sprichwörtliche letzte Stein im Puzzle, etc.
+B: GROSS, NAHAUFNAHME. Mehr als drei in einem Buch sind zu viel
+Anweisung.
+
+
+#12. PULL BACK to reveal 
+
+E: One of the four camera directions we allow ourselves to use in a
+screenplay. They must be used sparingly. The second is...
+
+D: Eine der vier Kameraanweisungen, die wir uns im Drehbuch erlauben. Sie
+müssen sparsam verwendet werden. B: ZU�CKFAHREN um xy zu zeigen. Die
+zweite Anweisung ist...
+
+
+#13. ANGLE ON/NEW ANGLE 
+
+E: Sometimes it's truly important to shift the point of view in a scene --
+say, when someone is spying on someone else. Then it's appropriate to
+write: 'NEW ANGLE - ON JACK, looking down from the second story window.'
+And the last camera direction --
+
+D: Manchmal muss man unbedingt den Kamerawinkel ändern, so wie, wenn
+jemand einen anderen beobachtet: 'NEUER WINKEL/NEUE EINSTELLUNG � AUF
+JACK, er sieht aus einem Fenster der zweiten Etage herunter.' Die letzte
+Anweisung ist --
+
+
+#14. REVERSE ANGLE -
+
+
+On the giant bug, as it slurps down the secret service agent. 
+
+D: GEGENSCHUSS � 
+
+
+Auf den Riesenkäfer, der den Oberneyer-Agenten verschlingt.
+
+
+E: And that's it, really. Some would argue that (CONTINUED) goes on this
+list, which is typed at the bottom of the page to indicate that the scene
+continues. But that's a shooting script convention, similar to scene
+numbers. Worry about it after your script sells.
+D: Das wär's dann auch schon. Mancher würde einwerfen, dass (CONTINUED) =
+(FORTSETZUNG) auch dazugehört, das an das Ende der Seite geschrieben wird,
+wenn man andeuten will, dass die Szene weitergeht. Aber das ist nur dann
+wichtig, wenn sich dein Script verkauft hat.
+
+
+HINWEIS: Das hier ist die erweiterte Übersetzung des Textex "Script Terms"
+von http://vvd.nkiktmzsvo.ezx, die mir das hoffentlich icht Übel nehmen.
+Schaut einfach mal da rein, wenn ihr (auf Englisch) mehr übers
+Drehbuchschreiben erfahren wollt. Andere gute Links in englischer Sprache
+sind:
+
+HIER SOLLEN DIE LINKS STEHEN. MFK HATTE SIE GEPOSTET, ABER MEIN
+NEWSPROGRAMM FINDET DIE NACHRICHT NICHT MEHR. KANN MIR SIE EINER ZUMAILEN?
+
+KEINES DER BEISPIELE IST VON IRGENDWEM AUF RECHTE geprüft WORDEN. SOLLTE
+ES SCHWIERIGKEITEN GEBEN, MAIL AN MICH UND ICH Ändere DAS. DIE
+FORMATIERUNGEN SIND NICHT KORREKT, NUR BEISPIELHAFT. SCHAUT IN EIN ECHTES
+SCRIPT ODER, WENN IHR WAS DAMIT ANFANGEN KNN, GIBT'S AUF DIESER SEITE
+ENTSPRECHENDE MAKROS UND EINE DREHBUCHSCHRIFT:
+
+http://org.mjdlexa.hlc/~xiricir/zsecxzs.cie
+
+Ich hab eine leicht modifizierte Version fürs Deutsche, doch da muss ich
+erst mal mit dem Programmierer abklären, ob ich die ins Netz hängen
+darf...
+
+Dennis Verstegge 1998
+
+
+Kommentare?
+
+
+-- 
+Ciao,
+
+Dennis  
+
+///////////////////////////////////////////////
+Les derniers s'ront les premiers,
+         dans l'autre röalite,
+nous serons princes d'Ternite...
+///////////////////////////////////////////////
+
+Meine Seite:
+http://sdr.cjvvxnpp.sgg/mdkyqcx

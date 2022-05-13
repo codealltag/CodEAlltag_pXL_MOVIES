@@ -1,0 +1,21 @@
+[...]
+
+Kein aktueller Thread, aber es wirft z.B. Probleme auf, dass manche
+Filme in .de, .ra und .ch zu unterschiedlichen Zeiten erscheinen
+(normalerweise zuerst in .de, Memento war aber in .at ueber einen
+Monat vorher zu sehen).
+
+Ausserdem entwickeln sich interessante Diskussionen ueber aeltere
+Filme oder Genres manchmal in Threads die mit einer Kritk eines soeben
+erschienen Films erschienen (Blah ist guter dings Film ---> nicht so
+gut wie foo --> er kennt noch andere gute dings Filme --> etc.)
+Ausserdem wird hier bekanntlich jeder Thread zu einem SST-Thread
+umgebogen. ;-)
+
+X-Post mit Fup2 funktioniert sicher nicht verlaesslich[1] - man hat
+dann die Splitter des Threads ueber beide Gruppen verstreut.
+
+              cu emmanuella
+
+[1] Beweis: Viele Leute hier sind unwillig/faehig Umlaute korrekt zu
+    deklarieren und machen Kammquoting.

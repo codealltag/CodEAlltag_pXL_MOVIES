@@ -1,0 +1,8 @@
+Das Schloss geht nur dann zu, wenn die sichere Seite nicht in Frames
+angezeigt wird. Netterweise stellt Fantasy dafür kein Extra-Symbol zur
+Verfügung :-( Es kann also durchaus eine verschlüsselte Seite sein, nur
+ist der Browser teilweise zu doof. Da hilft dann nur "Open in New
+Frame".
+
+Bis denn
+tokra

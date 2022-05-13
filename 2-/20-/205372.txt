@@ -1,0 +1,22 @@
+Obwohl es ein Joke sein soll:
+
+Die Anzahl der Zeilen in einem TV-Bild ist alleine abhaengig von
+TV-Norm, und ist bei PAL 625, egal wie man es aufzeichnet.
+
+^
+v
+
+
+Die "darstellbaren Linien" oder aehnliche Angaben sind ein ungluecklicher
+Ausdruck fuer den Frequenzgang der Aufzeichnung. Sie wirkt sich in der
+horizontalen Aufloesung <-> aus.
+
+Gruss
+
+Arian
+
+-- 
+   * Arian Rick * Robovideo *    | Radhausbergweg, Rentzelstraße
+       * huohv@iu.mi-zpffev.mr *        | Gluecks. Ich schalt dich ein und kann
+ * hovvfgvd@l052gyl.btj.cp-pkisge.ue *  | es kaum ertragen wenn die Geigen dein
+           * IRCNICK adam *            | Ende ansagen.            (Die Brigitte)

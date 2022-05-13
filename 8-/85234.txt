@@ -1,0 +1,11 @@
+Geben die vier Ziffern hinter der Ortszeit nicht einfach nur deren
+Differenz zur GMT an? Ulrichs Posting war also von 19:35:43 GMT (in
+meinem letzten Posting hatte ich mich verschrieben, sorry), Luigi aber
+erst von 20:01:27 GMT. Für unsere MEZ muß man eine Stunde addieren. Also
+habe ich den Fall gewonnen :-)
+
+Schöne Größe,
+Volkert
+-- 
+"Deutschland ist ein geiles Land!" (Erik Unverwerth)
++++ http://rkg.opajxndnvqm.pn/ +++

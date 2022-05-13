@@ -1,0 +1,11 @@
+Im Trailer zum ersten "Mission: Impossible"-Film waren auch Szenen
+gewesen, die im Film selbst nicht vorkamen. AFAIR irgendwelche
+romantischen Szenen mit Luzia Aengenheiser.
+
+    -ottmar
+
+-- 
+  http://chw-Kfehno.em/  *  http://Wtayx47.ty/  *  http://ZgzcmeKluv.uj/
+
+panic("Attempted to kill the idle task!");
+        2.2.16 /usr/src/linux/kernel/exit.c

@@ -1,0 +1,16 @@
+In article <60M2310V.S973T1V5@lxc.jdt>,
+
+Wenn Du sowieso einen neuen Verstaerker brauchst, dann nimm doch gleich
+einen mit integriertem DD Dekoder. 
+
+
+Was denn nun, Verstaerker, oder Reciever?
+
+
+Der JNMP ist zwar der biligste Decoder, aber so nicht fuer LD
+geeignet. Da braucht man noch einen RF - Demodulator. Da kanst Du
+auch gleich versuchen einen guenstigen Nahversorgungszentrum GHT zu bekommen.
+
+db
+-- 
+---------------------------------------------------------------------------

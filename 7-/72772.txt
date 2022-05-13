@@ -1,0 +1,46 @@
+Wie versprochen noch ein paar Zahlen. Wieder nur Filme aus den USA,
+diesmal hoffentlich komplett ohne Kurzfilme, TV- und Video-Arbeiten.
+Die erste Jahrhunderthälfte lass ich mal weg, dafür nach Jahren aufge-
+schlüsselt.
+
+1951    81.0888      1971    94.3192     1991     95.0700
+1952    84.0725      1972    92.0442     1992     94.6857
+1953    82.4638      1973    95.7880     1993     95.7079
+1954    86.1811      1974    93.8682     1994     94.9049
+1955    89.8441      1975    93.2231     1995     94.1926
+1956    88.2915      1976    95.1399     1996     94.2650
+1957    85.6063      1977    94.8372     1997     94.7950
+1958    87.2552      1978    95.6909     1998     94.0230
+1959    91.4194      1979    96.9080     1999     94.5940
+1960    93.5054      1980    96.3043     2000     94.6888
+1961    91.3148      1981    91.0625     2001     94.3495
+1962    95.6667      1981    94.2553     2001     93.4188
+1963    94.8608      1983    92.0714     2003     92.3669
+1964    94.6432      1984    93.4153
+1965    92.0336      1985    92.2329
+1966    92.5462      1986    91.9656
+1967    91.0492      1987   102.8701
+1968    90.1291      1988    93.6126
+1969    89.0230      1989    93.4834
+1970    88.3448      1990    92.3712
+
+Wie man sieht, hat sich seit 1959 im Grunde nichts getan.
+Der Grund für den Ausreißer 1986 ist schnell gefunden. Er
+heißt "The Cure for Insomnia" und dauert 87 Stunden. Wenn
+man den aus der Wertung nimmt, fällt der Schnitt für 1986
+auf 92 Minuten.
+
+Interessant finde ich die Frage, warum die Länge zwischen
+1950 und 59 um 10 Minuten stieg, nachdem sie zuvor relativ
+konstant war (seit 1935 fast immer zwischen 75 und 80 Minuten).
+Es könnte sein, dass als Reaktion auf die steigende Konkurrenz
+durch das Fernsehen die "großen" Filme zunehmend opulenter
+und damit auch länger wurden. Oder es könnte sein, dass
+durch das allmähliche Verschwinden des klassischen B-Films
+weniger Filme mit Längen von 60 - 75 Minuten entstanden.
+
+*Eine* Entwicklung hat sicher mit dem Fernsehen zu tun,
+nämlich dass von 1950 383 Filme in die Wertung eingingen,
+während es 1959 nur noch 186 waren.
+
+Gottfried (in der Hoffnung, dass das überhaupt jemanden interessiert)

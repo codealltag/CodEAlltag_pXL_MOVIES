@@ -1,0 +1,14 @@
+Bei bewegten Bildern bekommst Du subjektiv eine bessere Ausloesung, da
+dass auge ueber mehrere Bilder interpoliert. Ein einzelnes Breitwand-Bild
+hat ungefaehr 30% der Flaeche eines Kleinbilddias. Einzeln projeziert ist
+die Qualitaet nicht berauschend, aber als Film sehr gut. 
+
+Aber: Ein Grossteil des Effektes kommt daher, dass bei einem herkoemmlichen
+Film die Koernchen nicht exakt uebereinander liegen sondern bei jedem Bild
+anders verteilt sind. Dieser Effekt entfaellt bei einer starren Rasterung!
+Weiss jemand, ob sie dies ausgleichen, in dem sie ihr Raster von Einzelbild
+zu Einzelbild um Bruchteile eines Pixels verschieben? Dies waere ein ein-
+facher Trick um die Schaerfe des Filmes zu erhoehen, ohne die Ausloesung
+der Einzelbilder zu erhoehen. 
+
+Ciao, Niclas                             xlzpgeyj@adx.vkji-jvjmla.yq

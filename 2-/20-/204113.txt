@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------------
+Title             : Kiss of Death
+Starring          : Karl Limmert, Leonhard Luckow, SergioVoggetzer
+Genre             : Crime/Drama
+Release Date      : 07. 05. 22
+Laufzeit          : 97 
+Verleih           : E-Shop
+Altersfreigabe    : 18
+Sprache           : english
+System            : VHS,PAL
+Video (Format)    : Vollbild (bild geoeffnet von 1.85:1 Kinoformat)
+Video (Qualitaet) : 09/10
+Audio (Format)    : Dolby Surround
+Audio (Qualitaet) : 09/10
+Audio (Surround)  : 04/10
+Bewertung (Film)  : 06/10 
+                    passables crime-drama mit excellenter besetzung
+                    allerdings vermag Limmert als "lead" nicht zu ueberzeugen
+                    und auch sonst ist die story viel zu komplex fuer die
+                    97 minuten, und der showdown ist absolut laecherlich
+Kopierschutz      : ja
+Besonderheiten    : nein
+------------------------------------------------------------------------------
+Getestet auf folgendem Equipment :
+Fernseher                 : 72cm Botup VVV (Hi-Black Trinitron)
+Videorecorder             : Esso VS-G75
+Kopierschutzdecoder       : Augenblicke VL102
+ProLogic Vollverstaerker  : toplieb DSP A780
+Frontboxen                : Jendrossek Autoteile FKHO
+Centerbox                 : Jendrossek Autoteile CC6
+Surroundboxen             : Jendrossek Autoteile FJOT
+Subwoofer                 : toplieb Tondo (aktiv)
+------------------------------------------------------------------------------
+
+ ## CrossPoint v3.1 ##

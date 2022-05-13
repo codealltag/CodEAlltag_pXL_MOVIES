@@ -1,0 +1,5 @@
+Das ist der seit weit über 10 Jahren bekannte Quoted-printable-Bug, den 
+alle Newsreader von Derara kultivieren, egal wie sie gerade heißen.
+
+
+Johannes

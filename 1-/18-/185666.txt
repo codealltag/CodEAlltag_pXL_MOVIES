@@ -1,0 +1,7 @@
+Der altbekannte 16bit-MDKB-Bug.
+
+Die Lösung:  SET TZ=GMT-1 in der Autoexec.bat
+
+fup poster
+
+cu, Ludwig

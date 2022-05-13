@@ -1,0 +1,21 @@
+Ja ist schon klar. Allerdings muss man einfach sehen, dass die Leute, die  
+sich jetzt nen AC-3-Decoder zugelegt haben, höchstwahrscheinlich auf  
+amerik. DVDs schielen, bzw. jetzt schon US-LDs besitzen und schauen.
+
+Natürlich kann man sich darüber streiten, wie es dazu kommt, dass Europa  
+mal wieder seinen eigenen Brei kocht. Meiner Meinung nach ist MPEG-2-Audio  
+aber sowieso die bessere Wahl als Audio-System. Zwar gibt es keine  
+nennenswerten Unterschiede zwischen Dolby/Ac-3 und MPEG-2-Audio im Bereich  
+der DVD als Videodisc und der Verwendung als Filmton. Die Sache ist nur  
+die, dass falls irgendwann endlich bezahlbare MPEG2-2-Audio Dekoder  
+erhältlich sind, können die Aufgrund ihrer MPEG-Spezifik. auch Audio mit  
+höheren Datenströmen und gemultiplexte Audiodatenstr�me dekodieren (falls  
+die Hersteller alle Features intergrieren). So einen MPEG-2-Dekoder könnte  
+dann auch Digital-Radio vom Satelliten, sowie spezielle DVD-Audio-Discs  
+dekodieren. Meines Wissens ist das mit AC-3 nicht ohne weiteres  
+möglich.....
+
+Ciao, STEPHAN.
+------------cut-------------
+eMail: YPXRD@VHZI-HIV.yqu.lt
+## CrossPoint v3.02 ##

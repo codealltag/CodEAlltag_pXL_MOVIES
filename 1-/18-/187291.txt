@@ -1,0 +1,51 @@
+On Mon, 18 Dez 1998 22:28:44 +0200, "Christoph Horstkath"
+
+Sicher, aber auch mit Vorsicht zu genießen. Letztendlich trifft das
+auch auf Spam und Puppenstube zu.
+
+
+Kleiner Einwand: Wenn irgendwer mit seinem Netrape-verseuchten Rechner
+solchen Schutt in Mailinglisten ablädt, macht er das auch bei News.
+
+Des weiteren werden Mailinglisten in der Regel administriert, und noch
+weniger müssen sie frei zugänglich sein. Wir fahren mit einer
+Mailingliste (Majordomo) zum Beispiel sehr gut, in welcher subscribes
+vor ihrer Abarbeitung erst vom Listadmin bestätigt werden müssen -
+dementsprechend kann dann dort auch die Regel gelten, daß jemand,
+der wiederholt unangenehm auffällt, von der Liste runterfliegt und
+sich eben nicht mehr selbstständig wieder draufsetzen kann. Das macht
+natürlich nur Sinn, wenn der Listadmin eine Mailingliste auch selbst
+nutzt.
+
+
+Halte ich für unklug. In drei oder vier Jahren wäre die
+laserdisc-Gruppe mit Sicherheit eine Leiche. Zusammenfassen endet
+zwar leicht in den typischen LD<->DVD-Flamewars (ganz zu schweigen von
+VHS u.a., das sollte dann fairerweise auch gleich noch mit rein), aber
+letztendlich haben wir genau diese Ausgangsstellung auch hier. Und
+hier funktioniert es mittlerweile doch recht gut, oder?
+
+
+eine weitere (einfachere) Möglichkeit gäbe es jedoch noch, welche
+zumindest ich nicht bedacht habe: de.alt.*. Ein schlichtes
+de.alt.heimkino würde beispielsweise schon reichen, um
+de.rec.film.misc leerzufegen (ist mir jetzt spontan als Beispiel für
+einen Namen eingefallen, de,alt.video wäre zu VHS-spezifisch und würde
+wohl nicht effektive Wirkung zeigen). Das würde imho sogar neue
+Möglichkeiten eröffnen - erstens könnte man topic-bezogene
+Verkaufsangebote als zulässig deklarieren, zweitens wäre nach einiger
+Zeit mit konstantem Traffic die Möglichkeit vorhanden, die komplette
+Heimkino-Thematik in einer eindeutigen Gruppe unter de.rec.film oder
+sonstwo unter de.!alt.* unterzubringen, was auch wieder für
+Eindeutigkeit in Bezug auf de.rec.tv.* bringen würde (ein "Kino" im
+Gruppennamen würde Fernsehsendungen ausgrenzen, also gleicher
+Schwerpunkt wie hier, das "Heim" grenzt wiederum diese Gruppe von
+de.rec.film.misc ab, das würden selbst Newbies auf Anhieb richtig
+interpretieren, ohne erst die Charta zu lesen). Eine Gruppe unter
+de.alt.* steht in der Gruppenliste auch weiter oben als
+de.rec.film.misc, wodurch Newbies hier zuerst draufsto�en würden.
+Was haltet ihr von dieser Alternative?
+
+cu,
+
+  Theo

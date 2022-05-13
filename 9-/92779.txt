@@ -1,0 +1,9 @@
+Tino Borgman ließ verlauten:
+
+
+Und zwar bei xdwrb.wry nach dem System: embed-URL suchen, "-sref" durch
+"_m480" ersetzen (für die Large-Version). Wenn das Plugin den Film
+sofort startet, muß nur das "m" ergänzt werden.
+
+Cheerio
+Urs

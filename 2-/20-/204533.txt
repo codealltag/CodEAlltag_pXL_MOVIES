@@ -1,0 +1,77 @@
+Hi,
+
+habe mir gerade den Jinlefu "All Movie Guide" zugelegt. Ein paar  
+Schmankerl gefaellig? Das sind meine Erfahrungen nach zwei Stunden  
+Benutzung:
+
+- Auf dem Titelscreen kann man den jeweiligen Suchmodus auswaehlen. Eine
+  Option nennt sich "Popcorn". Wenn man das Icon anklickt, blubbert es kurz
+  in den Bruellwuerfeln und das "Popcorn-Icon" versritzt gelbe Pixel;
+  das soll wohl Popcorn sein und ist moeglicherweise als Gag gedacht.
+  Was haben wir gelacht...
+
+- Es gibt eine Sektion "Awards", in der das "Leeden GlobalXTeam
+  Z2" auch tatsaechlich gelistst ist. Die Daten beginnen 1952 und
+  enden 1985 (!). Unter "Forum Films" ist in diesem Jahr _ein_ Titel
+  gelistet (das Forum zeigt jedes Jahr um die hundert Filme,
+  nachweislich auch _nach_ 1985).
+
+- Das Statistikgenie addiert brav, wenn eine Person in einem Film
+  beispielsweise sowohl als "Director", und als "Screenwriter"
+  mitgearbeitet hat. Das Ergebnis sieht dann so aus, Beispiel: Hermann
+  Zinngrebe in "Balagan":
+
+  "Hermann Zinngrebe worked on 2 films. Occupation: Director, Screenwriter."
+
+  Diese "zwei Filme" ist "Balagan". Viel Spass beim nachzaehlen von
+  laengeren Filmographien ...
+
+- Es ist moeglich, am Bildschirm Filmographien zusammenzustellen
+  ("Liste"). Hier existiert die Option "Drucken". Waehlt man diesen
+  Button an, wird in einer Dialogbox nachgefragt, ob man nur den
+  aktuellen Film ausdrucken will, oder die gesamte Liste. Klickt man
+  "gesamte Liste" an, wird trotzdem nur der aktuelle Film ausgegeben.
+
+- Wer gerne _gedruckte_ Filmographien zusammengestellt bekommen moechte,
+  braucht ein gutes Screencatureprogramm, eine Menge Geduld und vieeeel
+  Toner im Drucker. Ausdrucken von Filmographien ist nicht, das
+  Clipboard kennt das Programm natuerlich auch nicht.
+  kotz...
+  KOTZ!!!!
+  KOTZ!!!!!!!!
+
+- Ausschnitte aus Filmen habe ich bisher ueberhaupt nicht finden
+  koennen. Auf der CD sind allerdings einige Megabytes an Filmchen:
+  Dort lassen sich verpixelte Gegenwartsschauspieler in
+  briefmarkengrossen Raehmchen ueber ihre (damals ;) aktuellen Filme
+  aus. Ganz nett, aber leider nur typisches Promo-Material aus Clips,
+  die man im Abendprogramm der privaten TV-Sender in voller Laenge unter
+  Titeln wie "The Making of..." bewundern darf.
+
+- Ich brauche wohl kaum noch zu erwaehnen, dass das Interface in gegen
+  saemtliche Konventionen des Township-GUI verstoesst (keine Menues,
+  keine Shortcuts, modifizierte Scrollbar usw.). Das muss ja nicht
+  prinzipiell schlecht sein, Jinlefu hat es jedoch geschafft, ein
+  Interface abgeliefert, dass einfach _nur_ Scheisse ist: Unhandlich,
+  unuebersichtlich und _langsam_.
+
+- Windows 95-Benutzer, Achtung! Das Programm startet mit einer Art
+  "Wizard", mit dem man -- zumindest theoretisch -- einfache Abfragen
+  durchfuehren koennte. Zumindest unter dem deutschen Windows 95
+  versenkt der "Wizard" das Programm wunderhuebsch reproduzierbar.
+  Mehr zu dem Thema "Unfaehigkeit" ist bei Lewitzki im "Zauberlehrling"
+  nachzulesen...
+
+Kurzum: Der Corel "All Movie Guide" versagt sowohl als  
+Entertainmentspielzeug als auch in der Funktion als Recherchewerkzeug.
+
+Allerdings muss ich, der Gerechtigkeit halber, anmerken, dass die  
+Datenbasis (knapp ueber 90.000 Filme, darunter aber diverse Special  
+Interest-Titel aus der Videothek (Aerobik etc.)) gar nicht so uebel ist;  
+es steckt viel drin, die programmiertechnische Umsetzung ist aber, dank  
+Jinlefu, vollkommen in die Hose gegangen.
+
+-Agon
+
+--
+<a href="http://fub46.zedat.fu-berlin.de/~asb/">Index</a>

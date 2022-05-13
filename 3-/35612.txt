@@ -1,0 +1,20 @@
+Hallo
+  am besten hat man dazu zunächst mal "richtig" Ahnung. In der Regel 
+werden da Grafiker, Filmleute, Musiker und Animationspezialisten 
+zusammenarbeiten. Sofware allein kann so gut seon wie sie will, es 
+mangelt meist an der "Ahnung" wie man sowas überhaupt angeht.
+   Für den privaten Bereich kann man mit einer Kombination aus ein 
+bischen Standard Software schon eine Menge machen. Einfache Hintergründe 
+lassen sich z.B. prima mit Print-Shop Pro oder ähnlichem erzeugen, 
+einfache Animationen auch mit dem dazu gehörigen "Animation-Shop". Wenn 
+man etwas mehr Aufwand machen will, hilft das Programm "Cool 3D" 
+(speziell für Textaninamtionen) ein gutes Stück weiter. 3-D Hintergründe 
+kann man mit Pov-Ray oder aufwenigen Kaufprogrammen erzeugen, 
+vorausgesetzt man hat die Fähigkeiten und die Muße, Drahtgittermodelle 
+zu erzeugen. Schon mit den üblichen Videoschnittprogrammen kann man aber 
+ebenfalls "einfliegende" Titel mit wechselnden und bewegten 
+Hintergründen zaubern. Probieren und kombinieren, schließlich auch der 
+Mut zum löschen einer Szene an der man wochenlang gepopelt hat, die nun 
+aber "eigentlich" viel zu hektisch wirkt, das alles zusammen macht 
+ansehnliche und vielleicht auch spaßige Vorspänne.
+Gruß Burkhard

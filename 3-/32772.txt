@@ -1,0 +1,25 @@
+Es liegt an der Mischung aus FavoritesPlugin und ReminderPlugin.
+
+
+Niedlich. Gelegentlich komme ich auf 1,2 Millionen, davon 1 Million auf
+nichtexistente Dateien.
+
+
+Ich weiß ;-)
+
+Passiert ja auch nicht oft. Meist reicht es, bei mehr als 2-3 Minuten
+Wartezeit Java abzuschießen und dann TV-Browser nochmal zu starten -> 30
+Sekunden statt 30 Minuten.
+
+Wo genau der Fehler liegt, weiß ich auch nicht. Wenn ich *beide* oben
+genannten Plugins (eins davon reicht nicht!) deaktiviere, dann gibt es
+das Problem nie. Ich brauche aber wenigstens eins der beiden Plugins,
+und wie gesagt, man muß *beide* deaktivieren, damit es problemlos geht.
+
+Gruß,
+Roberto
+
+-- 
+Bitte nur in die Newsgroup antworten! Re:-Mails rufe ich nur selten ab.
+http://odt.ixozcmtv.by/fxvwbmrcw/ ~ hpgj://xiq.srhtdizp.wc/wlm-rskg/
+Mail: ir__6596<pe>oxtsroo<ycigu>rgq ~ xwwu-8104-31<uq>dsxqihrf<watbb>ly

@@ -1,0 +1,13 @@
+On Tue, 16 Aug 1999 17:59:16 +0200, "bertha.dambor"
+
+Laserdisc.
+
+
+Das ist das beschriebene Problem mit der Rotverschiebung, welches beim
+Grabben eines Standbildes mit Vidcon32 auftritt. Liegt nicht an der
+Vorlage.
+
+
+cu,
+
+  Arnold

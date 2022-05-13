@@ -1,0 +1,15 @@
+Ich koennte mir vorstellen, das der Abtaster zur Erhöhung des
+Dichteumfangs eine variabele Blende oder eine variable Verschlußzeit
+besitzt. Eher dunkelere Bilder können dann länger belichtet werden od=
+er
+mit einer weiter geöffneter Blende aufgenommen werden und dann per
+Software wieder auf ihre gewollte Helligkeit zurückgerechnet werden.
+Falls jetzt aber irgendeine Automatik nicht funktioniert oder der
+Operator pennt, dann wird möglicherweise so ein Bild wie dein
+Beispielbild mit langer Verschlußzeit oder weitgeöffneter Blender
+aufgenommen. Das ist zwar für den Großteil des Bildes ok und gut, wei=
+l
+es halt relativ dunkel ist, aber die paar sehr hellen Stellen werden nun
+überbelichtet.
+
+						Arnold

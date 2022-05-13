@@ -1,0 +1,45 @@
+Dazu mußt Du Deinen Fernseher nachjustieren. Allerdings ist dann TV kaum noch zu
+ertragen, weil das Senderlogo dann fast in der Bildmitte ist.
+
+Ist Dir als Bildformatefetischist (1.85 vs. 1.78) schon mal aufgefallen,
+daß Dein Fernseher noch mal ca. 20% vom möglichen Bild wegbitzelt?
+
+Nehmen wir mal einen PAL/PAL+ - Fernseher. Im 4:3 Format hat das Bild 576
+Zeilen (mit je 768 Pixel), im 16:9 PAL+ - Format nach der Dekodierung auch,
+allerdings gehört das Bild dann zu einem 16:9-anamorphen Bild Bei 1.85:1
+müßten bei exaktem Format das Bild aus 554 Zeilen bestehen, oben und unten
+müßten demnach je 11 leere Zeilen zu sehen sein, wenn das Bild *alle* 576
+Zeilen anzeigt. Leider liegen alle bis jetzt ausgemessenen Fernseher bei 490
+Zeilen bis 520 Zeilen (von 576 möglichen), was heißt, daß man nie
+unterscheiden kann, ob ein Bild aus 554 oder 576 Zeilen besteht. Die 490
+bzw. 520 Zeilen entsprechen einem Bildausschnittsverlust bei 16:9 (bei
+16:9-Bildröhren) und 4:3 (bei 4:3-Bildröhren) von 18%...28%. Ein Umschnitzen
+eines 2.35:1-Bildes auf 1.85:1 sind "nur" 21% Verlust.
+
+Darüber hat sich hier noch *nie* jemand aufgeregt.
+
+Als Referenz: Das Videotextbild ist auf allen PAL-Fernsehern 480 Zeilen hoch,
+es dürfte nur 5/6 der Bildhöhe ausmachen.
+
+Leider ist durch Nachstellen am Fernseher das Problem nicht lösbar, bei TV
+stören die Senderlogos sonst erheblich, weil sie aus der Ecke in Richtung
+Bildschirmmitte kriechen. Auch die Linearität läßt am Bildschirmrand häufig
+zu wünschen übrig.
+
+Auf die Idee bin ich gekommen durch Anschluß eines alten Homecomputers, der
+ein 512-Zeilen-Bild erzeugt. Auf den meisten Fernsehern sind die erste und
+letzte Zeile nicht oder nur teilweise lesbar. Auf einem alten Monitor ist
+dagegen ein fetter Rahmen um das Bild.
+
+Any comments?
+
+-- 
+Ferdinand "Einstellregler sind zum Spielen da" Klemm
+
+PS: Entschuldige den Fetischisten, aber das Geplapper kommt mir echt so vor
+    wie ein Vater, der unendlich stolz auf seinem ihm ähnlich sehenden Sohn
+    ist und Jahre später mitbekommt, daß seine Frau fremd gegangen sein muß.
+
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

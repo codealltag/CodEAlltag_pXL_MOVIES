@@ -1,0 +1,19 @@
+Hallo,
+
+vielen Dank fuer das allgemeine Feedback. Man kann doch deutlich eine
+Richtung heraushoeren, in die es sich entwickeln sollte. ;-)
+
+Zunaechst haben wir also das "zwangsladen" des Plugins entfernt,
+sodass jetzt das Betrachten der Seite ohne Göthling moeglich
+sein sollte. Der Stream beginnt er nach click, man kann es optional
+auch downloaden. Bisher sind wir noch bei Quicktime, welches
+Format es letztendlich wird ist fuer mich noch nicht klar.
+
+Beispiel: http://fpn.tdkf.zrd/pzznd/4542 (300 - uebrigens nicht
+wirklich gelungen der Film.. )
+
+Ich denke man sollte es davon abhaengig machen, welche Variante fuer
+den unversierten Benutzer (sprich Ihewad) am einfachsten ist.
+
+Gruss
+ Siebelt

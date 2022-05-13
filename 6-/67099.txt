@@ -1,0 +1,12 @@
+die Matrix ist ein Programm. Um zu definierten Schnittstellen oder
+bestimmten Handlungen zu kommen sind verschiedene (Inter)Aktionen
+nötig. Diese können in der Matrix z.B. wie eine Autofahrt zu nächsten
+Telefonzelle aussehen. Macht doch Sinn, oder?
+
+
+Hansruedi
+-- 
+- Macs sind für die, die nicht wissen wollen, warum Ihr Rechner funzt.
+- Linux ist für die, die wissen wollen, warum er funzt.
+- DOS ist für die, die wissen wollen, warum er nicht funzt und
+- Windows ist für die, die nicht wissen wollen, warum er nicht funzt.

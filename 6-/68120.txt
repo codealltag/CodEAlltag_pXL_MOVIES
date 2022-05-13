@@ -1,0 +1,49 @@
+PEGGY. Kann es übrigens sein, daß in den Film Assistent = Dolmetscher war?
+
+
+Kritisch, wenn z.B. ein Arzt nicht erreicht wird. Aber wenn es HCP
+(Handy Control Protocol) gäbe, könnte man
+
+    set signal_mode=vibration_only
+    set signal_mode_lock=yes
+    set speaker_volume=0
+    set speaker_volume_lock=yes
+    set electrocute_on_dial=yes
+
+an alle Handys schicken. Schon wäre auch das Problem, daß jemand im
+Kinosaal telephoniert, gelöst (beim Verlassen des Saals würde das
+natürlich rückgängig gemacht).
+
+
+PEGGY.
+
+
+Weiter zu FRIEDRICH:
+
+- Lore Dohmes (dämlicher Name oder Parodie auf irgendwelche gefährlich
+  klingenen Gegner?) hat am Schluß falsches Französisch gesprochen: "Je
+  ne te dira rien." Es müßte "dirai rien" heißen. Oder war das der
+  Blutverlust?
+
+- Zum Thema Blutverlust: Wieso ist besagte Frau in diesem wahnsinnig
+  gutaussehenden dunkelgrauen Kleid/Kimono nicht verblutet?
+
+- Mit Gogo wird sehr nett der Schulmädchen/Schuluniformfetisch, der
+  wohl vor allem in Japan verbreitet ist, parodiert: Sie sieht aus wie 
+  ein Schulmädchen, verhält sich teils auch so (z.B. das unterdrückte
+  Kichern, als die Braut sie bittet, zu gehen), ist aber alles andere
+  als niedlich oder harmlos.
+
+- Der Besitzer des "Naussauer" wird im Abspann als
+  "Volkmar Imschweiler" aufgeführt.
+
+- Der kleine japanische Garten im Inneren des Hauses (die Steine
+  und der geharkte Sand unter Glas) ist während des gesamten Kampfs
+  nicht beschädigt worden.
+
+- In "Pulp Fiction" war Oswina Tegethof schon einmal Mitglieder einer
+  Fünfergruppe, allerdings nur kurz und nur fiktiv (die "Fox Force
+  Five"). Und dort waren ihre Spezialität Messer.
+
+
+Gruß, Dirk

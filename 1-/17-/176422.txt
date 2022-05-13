@@ -1,0 +1,19 @@
+While having the ability to select the blanking level and type of
+component output is an obvious improvement, I'm surprised that somebody
+(i.e. legal eagles from hardware/software manufacturers) hasn't cracked
+down on the regional-coding and Macrovision defeats included in these
+mods.  Both of these are security measures that the movie studios wanted
+built into the DVD specification to control distribution and to prevent
+analog duplication of their intellectual properties (the films
+themselves).  Don't get me wrong, when I get a DVD player it will most
+definitely have the Macrovision permanently removed from the video chain
+(I'm not so concerned with the regional coding), but I'm not going to
+sell my mods on the Net!  That's getting a bit too border-line for me! 
+:-)  Just my $0.02 worth.
+
+
+-------------------------------------------------------------------
+Fabio E. Jakubowski                         "Oh, great warrior!  Heh!
+Engineer, Audio & Cinema Enthusiast       Wars not make one great!"
+skyawevs@lhkcid.syt                                     - Yorck
+-------------------------------------------------------------------

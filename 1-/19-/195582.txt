@@ -1,0 +1,75 @@
+Nabend,
+
+ich habe heute den Video Limiter 220 der Firma Menzeleck bekommen,  
+das ist das neueste Modell der Kopierschutzkiller von genannter Firma und  
+duerfte jedem noch recht unbekannt sein, daher nenne ich noch kurz die  
+Veraenderungen gegenueber dem kleineren Modell, dem VL 200.
+
+- Preis 298.-, also nur 9.- mehr als der VL200
+- Logo Erase geht nun in beide Richtungen ueber den kompletten Bildschirm
+  statt nur 30% beim VL200
+- Zwei LEDs, die das Farbsystem anzeigen (PAL/NTSC)
+- Ein Bildschaerferegler, d.h. Signalverstaerker, der im Gegensatz zu
+  meinem bisherigen PSt DM50 Macrovision Killer auch funktioniert und
+  das Bild subjektiv nicht verschlechtert. Das ist das, wofuer man teilweise
+  bei anderen Firmen einzeln ca. 300.- bis 500.- hinlegen darf (Y/C tauglich).
+
+Nun mag man sich fragen, was das mit DVD zu tun hat. Erstmal eigentlich  
+nichts, es sei denn, man moechte DVDs auf NTSC Video ueberspielen oder man  
+hat wie ich leider - ich sollte wohl eher Juchhuh schreiben - einen  
+Videoprojektor. Warum letzteres ? Ganz einfach, weil durch das Macrovision  
+Signal der Kontrast arg eingeschraenkt wird und auch die Bildhelligkeit zu  
+wuenschen uebrig laesst. Auf einem herkoemmlichen Fernsehgeraet ist dieser  
+Effekt kaum zu bemerken, da man dort einen relativ hohen Geraetekontrast  
+zur Verfuegung hat, bei einem Roehrenprojektor ist das jedoch anders, ein  
+deutlich schlechterer Kontrast gegenueber LDs und auch PAL Fernsehen/Video  
+macht sich dort sehr stoerend bemerkbar, d.h. Bilddetails werden durch den  
+schlechten Kontrast verfaelscht oder sind gar nicht mehr erkennbar und  
+alles wirkt irgendwie matt, verglichen mit anderen Videoquellen. Wie schon  
+Volkmar schrieb, wird das durch einen Macrovision Killer behoben. Bei  
+meinem elro Geraet mit S-Video Faehigkeit wuerde ich jetzt rein subjektiv  
+sagen, ohne Einbussen in der Bildqualitaet, sie wird sogar besser.
+
+Was fuer den Projektorbetrieb ebenfalls sehr guenstig zu sein scheint, ist  
+der Schaerferegler, durch hochziehen dieses Reglers werden die  
+Konturenabgrenzungen erheblich deutlicher, auch wenn es dann zu den  
+bekannten Doppelkanten kommt, wie man sie von manchen besonders scharf  
+abgemischten LDs kennt. Fuer Fernseherbetrieb mit gut gemasterten DVDs  
+also eher nachteilig, bei einem Projektor aber durchaus sinnvoll, wie ich  
+finde.
+Bei unscharfen DVDs, wie Witches of Eastwick, ist dieser Regler aber  
+grundsaetzlich der absolute Hammer, dadurch bekommt man auch wirklich  
+matschige DVDs auf ein sinnvolles Schaerfeniveau, ob Fernseher- oder  
+Projektorbetrieb, es ist ab jetzt fuer mich gleichermassen ein  
+unverzichtbares Feature.
+
+Dann, was mir den Kauf eines Hosidenumschalters erspart, verfuegt das  
+Geraet ueber zwei S-Video taugliche Ausgaenge, einen Scartausgang und  
+einen etwas merkwuerigen DIN-6Pol Ausgang. Ich habe daher kurzerhand beim  
+Bestellen um passende Adapter gebeten, d.h. meine Konfiguration sieht  
+momentan so aus:
+
+     MARKANT  electronic   Video  Limiter  VL  220  (298.-)
+     Scart            Scart               6Pol-DIN
+    Eingang          Ausgang           Monitor Ausgang
+ Scart -> Hosiden=   Scart ->          DIN -> Hosiden-
+    stecker        Hosiden-Buchse      Buchse Adapter
+ 2m Kabel (22.-)   Adapter (22.-)          (15.-)
+ U.S. DVD Player    Fernseher          Videoprojektor
+ Hosiden Ausgang  Hosiden Eingang      Hosiden Eingang
+
+
+Nun noch etwas zu Noah Aussage, dass der Schwarzwert bei DVD  
+wirklich schwarz sei. Mangels geeigneter Testmoeglichkeiten hatte ich mich  
+mit meinen Zweifeln an dieser Behauptung immer etwas zurueckgehalten, doch
+nun konnte ich es endlich zweifelsfrei mit Hilfe des VL 220 widerlegen,  
+denn wenn man mal die Logo Erase Schaltung verwendet, um schwarze Balken  
+zu erzeugen, dann sind diese Balken wirklich schwarz, ganz entgegen den  
+sogenannten "schwarzen" Widescreen Balken von einem DVD Bild. Die sind  
+eher dunkelgrau und definitiv nicht tiefschwarz bei einer normalen  
+Helligkeitseinstellung des Fernsehers/Projektors.
+
+MfG, Alwin
+
+Achja, kopiergeschuetzte Videofilme kann man damit sicherlich auch  
+kopieren <g>

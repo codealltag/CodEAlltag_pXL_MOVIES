@@ -1,0 +1,14 @@
+Wolfgang Vinke schrieb in Nachricht
+<91on3r$tqc$6@aqbjcr.rnps.mjh-asdeqnkr.qj>...
+
+Aber erst seit neuer Zeit. Schwarz ist bei NTSC 7.5 IRE, bei PAL 0 IRE (wenn
+ich es richtig verstanden habe). Es sind jedoch nicht alle DVD Player in der
+Lage bei NTSC 0 IRE (bei NTSC schwarzer als schwarz) wiederzugeben.
+Steht auch in der Anleitung zur Video Essentials DVD:
+
+The established method for setting Brightness ... requires a stripe of
+picture information that goes below black. Even though such image
+information is encoded ... most first-generation players are not capable of
+reproducing it.
+
+Gebhard

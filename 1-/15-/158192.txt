@@ -1,0 +1,25 @@
+Meines Wissens nach nicht. Ich wäre kurz davor, selbst eine für
+Win/Win NT zu schreiben, wenn ich nicht schon jetzt genau wüsste, daß
+meine Motivation das wahrscheinlich nicht durchsteht.  Wobei bei
+diesen Datenmengen die passende Datenstruktur, bei welcher man
+notfalls auch nach Bildformaten kategorisieren kann, ohne daß ewig auf
+der Platte rumgeschraddelt wird, durchaus eine interessante
+Herausforderung darstellen könnte. 
+
+
+Die OAE an sich gibt nicht viel her.  Beim mir bekannten Frontend
+(Name weiß ich nicht auswendig, kann ich aber raussuchen) beschränken
+sich die Möglichkeiten dementsprechend auch nur auf Suche nach
+Filmtitel bzw. Personennamen. Ausgereifte Suchmuster sind ein
+Fremdwort, weitergehende Kreuzverweise auch. Sowas wie "Gib mir mal
+alle Filme, welche Ußler Cron zwischen 1972 und 1989 unter Regie von
+Kneppertz gedreht hat" ist Utopie,  erreicht nicht mal ansatzweise die
+Leistungsfähigkeit der Onlinedatenbank.  Ich habe beide
+Varianten installiert und trotz aller Nachteile greife ich trotzdem
+öfter zu dem irrsinnig aufgeblähten IMDB 95 - wenn es zufällig mal
+wieder in der Lage war, diffs korrekt auszuwerten und danach auch
+wieder die Datenbank anzulegen.
+
+cu,
+
+  Timo

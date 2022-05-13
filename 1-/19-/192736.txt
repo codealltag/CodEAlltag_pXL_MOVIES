@@ -1,0 +1,85 @@
+Hallo Pierre,
+
+Ich habe hier leider kein Messlabor und keinen Gerätepark um
+Vergleiche anstellen zu können. Deshalb schlage ich vor, wir warten
+noch vier Wochen bis in den Zeitschiften (z.B. Video) entsprechende
+Artikel sind. 
+
+Warum nicht? Ich tippe eher auf diese Möglichkeit. Die Bildqualität
+hängt doch stark davon ab, was der Decoder rausholen kann. So ist
+das nun mal bei MPEG, da ist das Endergebnis nicht immer gleich gut.
+
+Okay, stimmt. :-)
+
+Na na. Es sieht jedenfalls tausendmal besser aus als jede VHS-Kassette
+oder mein Kabelfernsehen. Das Bild ist so angenehm ruhig und scharf.
+Schwarz ist richtig schwarz, ohne Farbschleier.
+Selbst wenn bei Letterbox Zeilenauflösung verschenkt wird.
+
+Mit 16:9 PAL anamorph brechen dann neue Zeiten an - ich kann's
+kaum erwarten!
+
+Scheint nicht so. Frag mich nicht, wieso. In der Anleitung steht:
+Farbfernsehsystem: PAL 625/50, PAL 525/60
+
+Das werden die Redakteure von Video usw. schon für uns machen. :-)
+Ich sehe keinen Grund anzunehmen daß der eingebaute Decoder schlecht
+sein soll. Ich sehe das sogar als ganz besonderes Feature an.
+Man spart nämlich ein extra Gerät und es kommt billiger.
+Vergleichsrechnung: Feinschnitt A100         DM 1.400 
+                  + externer AC-3-Decoder  DM   600
+                 macht zusammen mindestens DM 2.000
+
+                            Feinschnitt A350 DM 1.700
+
+Für Ultra-Fidelity-Freaks gelten natürlich wieder andere Gesetze.
+Da muß man den VooDoo-Faktor mitberechnen.
+Für normalsterbliche Heimcineasten wie mich ist der interne Decoder
+eine feine Sache.
+
+Das kann ich so nicht bestätigen. MPEG Stereo 48 kHz klingt hier
+ziemlich gut, z.B. der Ton von der Wallace & Gromit DVD.
+
+Beim A350 war als Bonus die Disc "Queen Greatest Flix" dabei.
+Da kann man wählen zwischen Dolby Digital Stereo und MPEG Stereo.
+Ich werde mal einen genaueren Hörtest machen. Deutlich ist
+nur, daß OTMAR leiser ist. Was immer das auch bedeutet.
+
+Nein, tut er nicht. CD-Rs spielt er leider auch nicht. :-(
+
+Das halte ich für eine reichlich akademische Diskussion. Dieses Thema
+wurde in de.rec.music.audio erst kürzlich breitgetreten (gähn).
+Fazit: Die Abtasteinheit liest die Bits so oder so einwandfrei.
+Worauf es ankommt ist u.a. der D/A-Wandler. Und der ist im A350 
+ein ganz guter. 
+
+Mit anderen Worten: Ein Prozessor, der riesige Datenströme von der
+DVD verarbeiten kann, wie 24 bit/96 kHz PCM Audio mit Bild dazu, 
+für den dürfte eine saubere CD-Wiedergabe doch ein leichtes Spiel sein!
+
+Ich habe jedoch keine Lust, für die Firma Feinschnitt in die Diskussion 
+zu ziehen; ich kann nur meinen Höreindruck weitergeben.
+
+Was willst du denn noch alles? Noch mehr Decoder, noch mehr Normen?
+Ich halte DTS im Heimbereich für mehr als überflüssig, sorry.
+Ich brauche nicht drei Algorithmen die alle das gleiche tun, bloß
+weil sich jede Firma einen eigenen ausdenkt, damit sie keine
+Lizenzgebühren bezahlen muß.
+
+Was kommt als nächstes? 
+- SDDS für den Heimgebrauch?
+- MPEG 7.1ch, weil man mit acht Lautsprechern noch mehr Geld verdienen 
+  kann als mit sechs?
+- 6-Kanal PCM im Format 24/96 für Leute mit Kompressions-Allergie?
+
+*** SO EIN QUATSCH!!! ***
+
+Klar, Zeitlupe und Zeitraffer in beide Richtungen und in verschiedenen
+Geschwindigkeiten.
+
+Das kannst du laut sagen! :-(
+
+Ride on, Ferdinand.
+---
+Ferdinand Thews, Dietrichs, Germany * E-Mail: Ibtrksiwj.Esxqb@rpgnga.pt
+Join the campaign: One Less Car *** Mach mit bei: Ein Auto Weniger

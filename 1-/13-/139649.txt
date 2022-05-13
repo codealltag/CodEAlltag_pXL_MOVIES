@@ -1,0 +1,118 @@
+Hi,
+
+  es ist jetzt etwa ein Jahr her, seit ich damit angefangen hatte, für drfm
+(und natürlich für mich) ein etwas umfangreicheres Projekt als die
+bisherigen Filmbesprechungen zu schreiben. Es ist aber auch etwa ein
+Jahr her, daß ich eine Pause einlegte. Diese Pause ist jetzt anscheinend
+vorbei. Doch da ein Jahr nunmal im Elegant eine halbe Ewigkeit ist, sind
+wohl ein paar Worte dazu fällig - eine Bedienungsanleitung sozusagen.
+Und Newbies in de.rec.film.misc sollten aufgeklärt werden, was das Ganze
+überhaupt sein soll.
+
+Doch zuerst kurz eine Erklärung für die z.T. eigenartigen Schreibweisen
+von Filmtiteln. Der Grund für Schreibweisen wie "Diese" , "DIESE" oder 
+gar "DIESE" (xx) liegt darin, daß ich den ganzen Text dazu vorgesehen habe,
+irgendwann mal ausgedruckt in meinem Bücherregal zu stehen. Da man
+in Newsgroups ziemlich schlecht mit verschiedenen Schriftstilen arbeiten
+kann und /sowas/ /außerdem/ /auch/ /noch/ /dämlich/ /aussehen/ /würde/,
+spiele ich hier ein wenig mit Großbuchstaben. Wer sich das Zeug selbst
+ausdrucken möchte und dementsprechend alles in einer Textverarbeitung
+formatiert, kann hier dann die entsprechenden Schriftstile setzen.
+
+Also:
+
+  "Star Wars" ist nichts anderes als der Titel eines Filmes, der nur 		
+                        beiläufig erwähnt wird, weil er dem falschen Genre
+			zugehörig ist. Oder der Titel eines Buches. In ausgedruckter
+			Form wäre dieser Titel /kursiv/.
+
+  "STAR WARS" ist ein Filmtitel. Dieser Film wird innerhalb des Projekts
+			noch explizit erwähnt - vorausgesetzt natürlich, daß wir
+			überhaupt so weit kommen. In gedruckter Form würde dieser
+			Titel in *Fettschrift* erscheinen. In HTML wäre es ein Link.
+
+  "STAR WARS" (Nummer) verweist auf eine Fußnote "Nummer", die im
+			jeweiligen Kapitel unten angehängt zu finden sein wird. Diese
+			Schreibweise taucht dann auf, wenn wir bei der expliziten
+			Erwähnung des Films angekommen sind, z.B. weil wir gerade
+			das Jahr abhandeln, in welchem er produziert wurde. Folgt
+			man der Fußnote, wird man Daten zum Film finden. Diese
+			Einträge sind generell das Ziel sämtlicher Verweise und Links.
+
+Was bei diesen drei Beispielen fehlt, ist die Jahresangabe. Diese ist bei
+jeder Erwähnung eines Films vorhanden. Korrekt wäre also "Star Wars" (1976)
+oder "STAR WARS" (1976)(Nummer).
+
+Um ein Nachschlagen dann noch endgültig praktikabel zu machen, braucht
+es noch einen Index. Ein solcher wird wohl alle 5 besprochene Filmjahre in
+aktualisierter Form gepostet werden. Hier ein Auszug:
+
+---8<---
+"Schrecken vom Amazonas, Der"
+        s. "Creature from the Black Lagoon, The" (1953)
+"Sealed Room, The" (1908).......................................*3*,4 
+---8<---
+
+Der Eintrag "Schrecken vom Amazonas, Der" ist ein Querverweis. Klar,
+handelt es sich doch nicht um den Originaltitel, und eingedeutschte
+Filmnamen sind was für Weicheier. Da könnte aber auch ein
+englischsprachiger Alternativtitel stehen, was vor allem bei italienischen,
+spanischen, oder sonstigen Filmen häufig vorkommt, die weder in D noch
+in den USA produziert wurden. Macht Sinn, denn z.B. dürften sich
+Interessenten, welche gerade bei AV-Industriebedarf eine DVD namens "Black Sunday"
+aschauen, einen Wolf suchen, da der Originaltitel "La maschera del Demonio"
+lautet. Solche Fälle sind im Index hoffentlich vollständig abgedeckt. Ich 
+bin dann zufrieden, wenn wir uns sagen können, daß interessante Filme
+egal welchen Alters hier erwähnt sind - und daß man, was nicht erwähnt
+ist, auch getrost vergessen kann. 
+
+Die Zahlen hinter "The Sealed Room, The" (1908) geben die Kapitel an, in
+welchem der Film erwähnt wird. In ausgedruckter Form wären das
+Seitenzahlen, aber das geht hier in drfm nunmal eher schlecht. Die *3* ist
+deshalb von Sternchen umrahmt, weil sie angibt, wo der Haupteintrag des
+Filmes zu finden ist - ja genau, der mit der Fußnote und den Daten zum
+Film. Oder gar eine komplette Besprechung mit -zig Seiten Umfang, who
+knows.
+
+Und vor allem der Index liest sich unter Verwendung eines Fonts mit fester
+Breite am besten, Courier zum Bleistift.
+
+Fußnoten können auch dann auftauchen, wenn ich noch irgendeinen
+zusätzlichen, beiläufigen Kommentar ablassen möchte, welcher
+den Lesefluß stören würde, würde man ihn direkt in den Text reinpfropfen.
+
+
+Gut, das war's. Und da sich die Leute, die letztes Jahr noch nicht dabei
+waren, vielleicht den Kopf kratzen und Rätseln, was die Chose überhaupt
+sein soll, hier noch kurz die Erklärung. "Das Dokument des Grauens" ist
+ein Versuch, eine möglichst umfassende Chronik der Geschichte des
+Horrorfilms auf die Beine zu stellen, gespickt mit Analysen,
+Hintergrundinfos, Bezügen zu historischen Begebenheiten und ähnlichem. 
+Nach einer recht umfangreichen Schilderung des Werdegangs des Horrors
+vom 10. Jahrhundert über die Hexenverbrennungen bis hin zur Erfindung des
+ersten Kinematographen begann der filmgeschichtliche Teil mit dem Jahr
+1895. Mittlerweile sind wir mit dem heute geposteten 5. Kapitel im Jahr
+1914 angekommen. Mit entsprechender Ausdauer könnte man theoretisch
+mal irgerndwann bei den Filmen ankommen, welche derzeit in den Kinos
+laufen. *Verdammt* viel Ausdauer vorausgesetzt. 
+
+Jetzt ist natürlich die Frage, ob es Sinn machen würde, die ersten vier
+Kapitel nochmal zu posten, zumal sie auch inzwischen auch überarbeitet
+wurden. Tja, die Dinger haben Umfang, es wären fast 200 KByte Text,
+ausgedruckt etwa 50 Blatt Papier. Sowas poste ich nicht einfach nochmal,
+ohne erst zu prüfen, ob überhaupt genügend Nachfrage besteht, um dies
+zu rechtfertigen. 
+
+Was die Länge der einzelnen Kapitel betrifft: Jedes Kapitel soll entweder 
+einen Film ausführlich besprechen, ein eigenes lohnendes Thema behandeln
+oder mindestens ein Filmjahr durchkauen. Da mir aufgefallen ist, daß zuviel
+Text beim Besprechen der filmischen Ereignisse mehrerer Jahre leicht
+in einem stupiden Aufzählen endet und das Lesen recht anstrengend wird,
+habe ich beschlossen, ein Kapitel zu beenden, sobald ein Filmjahr abgehakt
+werden kann und der Umfang des aktuellen Kapitel 25 KByte übersteigt. Ich
+halte dies für die optimale Lösung.
+
+
+So, genug geredet. Viel Spaß beim Lesen. 
+
+  Daniel

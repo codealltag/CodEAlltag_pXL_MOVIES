@@ -1,0 +1,8 @@
+Problem liegt, wie so oft an der Firmenpolitik. Viele Seiten fragen
+mittels java-script nach der Browser-Kennung. Nicht Mikroschrott-Browser
+werden geblockt. 
+Schöne neue Welt.
+
+Ich verzichte dann gerne auf meinen Besuch. 
+
+sven

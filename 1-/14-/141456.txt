@@ -1,0 +1,4 @@
+[X] Definiere "Newslaufzeit"
+[ ] Die Newsverteilung der Newsserver dauert vier Tage
+
+Gerhard

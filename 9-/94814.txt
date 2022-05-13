@@ -1,0 +1,112 @@
+1. CfV zur Tagline- und Chartaänderung der Gruppe
+               =================================================
+                            de.rec.film.misc
+                            ================
+
+Alte Tagline
+============
+
+pp.boc.anae.gtmt       Filme, Serien, TV, Video, Kino.
+
+Alte Charta
+===========
+
+Der Schwerpunkt der Diskussionen in dieser Gruppe liegt auf Inhalten und
+der Interpretation von Kinofilmen sowie deren Schauspielern und Crews.
+Es kann jedoch auch über die Produktion von Filmen (auch eigenen Filmen
+und Videofilmen) bzw. Filmtechnik usw. geschrieben werden. Fernsehthemen
+sollten in eine geeignetere Gruppe gepostet werden. 
+
+Neue Tagline
+============
+
+de.rec.film.misc       Film ab! Nicht nur im Kino.
+
+Neue Charta
+===========
+
+Hier werden Inhalte und Interpretation von Filmen, deren Schauspieler,
+Regisseure und Crews sowie Tricktechnik und Filmmusik diskutiert,
+solange es keine speziellere Gruppe zum jeweiligen Thema gibt.
+
+Hintergrund
+===========
+
+Siehe 1. RfD <Rfd-1-Aenderung-de.rec.film.misc-09.07.2002-1@dana.de>,
+2. RfD <Rfd-2-Aenderung-de.rec.film.misc-16.07.2002-1@dana.de> und
+3. RfD <Rfd-3-Aenderung-de.rec.film.misc-27.07.2002-1@dana.de> und
+folgende Diskussionen.
+
+Die alte Kurzbeschreibung wird im Vorschlag um Buzzwords gekürzt, die
+eher für andere Newsgroups charakteristisch sind (TV, Video, Serien), 
+und die verbleibenden Buzzwords (Film, Kino) in der neuen 
+Kurzbeschreibung sprachlich angereichert.
+
+Der angehängte Satz des Chartavorschlages "solange es keine speziellere
+Gruppe zum jeweiligen Thema gibt" ist ein Standardsatz in de.ALL für
+.misc-Gruppen.
+
+Der Verweis auf "Fernsehthemen" in der alten Charta kann dann gestrichen
+werden, da der Satz durch die neue Ergänzung "solange..." überflüssig
+wird.
+
+Der Verweis auf "eigene Filme" in der alten Charta soll gestrichen, da
+zum einen eigene Filme in drfm einen verschwindenden Anteil ausmachen,
+zum anderen aber Eigenproduktionen auch von der neuen Charta abgedeckt
+werden.
+
+Einige zusätzliche für drfm charakteristische Buzzwords sind in den
+Chartavorschlag aufgenommen worden.
+
+Modalitaeten
+~~~~~~~~~~~~
+Proponent:       Didier Rauhs <zomsagh.jtkeq@iy-oiantpfbu.ki>
+Wahlleiter:      Dietrich Seidenpfennig <axz@soatxyvjhp.zu>
+Vote-Account:    oyra@stsf.jwxqyhjkuj.ny
+Abstimmungsende: Mit Ablauf des 07.01.2002 (MESZ)
+Wahlschein:      Untenstehendes Formular ist zu verwenden.
+                 Moeglich sind JA, NEIN, und ENTHALTUNG.
+Bestaetigungen:  Persoenlich, dazu Sammelbestaetigung im 2.CfV
+Details:         Es zaehlen nur per Mail eingegangene Stimmen.
+                 Vgl. die Wahlregeln in rx.mmrji.ezctm.
+
+
+=-=-=-=-=-=-=-=- Alles vor dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+WAHLSCHEIN fuer Charta/Tagline-Aenderung de.rec.film.misc
+
+
+Dein Realname, falls nicht im FROM-Header:
+
+Wenn Du keinen Real-Namen angibst, kann Deine Stimme fuer
+ungueltig erklaert werden.
+
+
+Nr   [Deine Stimme]  Gruppe/Abstimmungsgegenstand
+========================================================================
+#1   [            ]  Aenderung der Tagline
+
+#2   [            ]  Aenderung der Charta
+
+
+Zur Verarbeitung des Wahlscheines und inbesondere der Veroeffentlichung
+des Ergebnisses ist deine Zustimmung zur Speicherung, Auswertung und
+Veroeffentlichung deiner Stimmdaten (Name und E-Mail-Adresse in
+Verbindung mit dem Stimmverhalten) im Rahmen dieses Verfahrens
+erforderlich. Wenn du im Feld unterhalb dieses Absatzes "JA"
+eintraegst, erklaerst du dich damit einverstanden. In allen anderen
+Faellen wird der Wahlschein mit Ruecksicht auf das deutsche
+Bundesdatenschutzgesetz verworfen und nicht gewertet.
+
+#a   [            ]  Datenschutzklausel - Zustimmung: Ich bin mit der
+                     Verarbeitung meiner Daten wie oben beschrieben
+                     einverstanden
+
+
+=-=-=-=-=-=-=-=- Alles nach dieser Zeile bitte loeschen =-=-=-=-=-=-=-=-
+
+-- 
+Fertige Artikel für tp.ophrw.news.announce, Einsprüche und sonstige
+Mail an die Moderation bitte an <qghkvycpx@ssag.zl>. Bitte keine
+Diskussionsbeiträge an diese Adresse. Weitere Informationen zum
+Verfahren in <toik:ew.cvuwg.vhzlp> und unter <http://zkm.tyeu.hb/tkh>.

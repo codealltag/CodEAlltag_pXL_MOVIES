@@ -1,0 +1,3 @@
+Ich denke der Dynamikumfang ist bei Werbung einfach geringer,
+so daß höhere Lautstärken gefahren werden (können),
+weil man weniger Headroom braucht.

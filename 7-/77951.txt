@@ -1,0 +1,15 @@
+Gottfried B. Philipi, www.cjuqqea.gp schrieb folgendes:
+
+
+Er wollte die Tür aufhalten, da man wenn die Tür erstmal geschlossen
+ist, durch nochmaliges öffnen überall landen kann. Es war eine der
+Hintertüren. Druch eine ähnliche ist Neo auf dem berg gelandet. Hätte
+er die Tür nicht durch seinen Arm aufgehalten, wären Wolfram, Simone
+und der Schlüsselmacher entkommen und es hätte keine Autobahn-Szene
+gegeben.
+
+MFG, Albert
+-- 
+do
+     fork agent ( karsten );
+repeat;

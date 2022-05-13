@@ -1,0 +1,16 @@
+die
+
+Na ja...wurde vor ein paar Tagen schon mal gestellt die Frage.  War aber
+innerhalb eines Threads, insofern ist das zu verzeihen  ;-)
+
+Was du da liest ist mit ROT13 verschlüsselt, d.h. jeder Buchtsabe wurde
+durch einen ersetzt der 13 Buchstaben weiter hinten im Alphabet steht...
+
+Falls du Outlook Express benutzt kannst du die Dinger einfach
+per -->Nachricht
+-->Entschlüsseln (ROT 13) decodieren...
+
+Sollten die meisten anderen Newsreader aber auch können
+
+Gute N8
+Charly

@@ -1,0 +1,8 @@
+[ ... ]
+
+
+Wobei ein bischen ein Nachteil ist, dass man auf die (eigene) Datenbank
+selbst keinen Zugriff bekommt. Oder ist das mittlerweile besser
+geworden?
+
+Paul

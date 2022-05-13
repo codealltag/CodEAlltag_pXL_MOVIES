@@ -1,0 +1,34 @@
+* Urban Suessmair <falvik@mih-ranevc.nq>:
+
+
+Absolut Proxy-freie Zone. Weder den HTTP-Proxy von Manikowski noch die
+lokalen Proxys auf dem Rechner (WWWoffle und Junkbuster) waren beim
+Aufruf der Webseite zwischengeschaltet. Sogar minimalmarkt bekommt (im
+Gegensatz zum restlichen WWW) bei Rösken eine rote Karte.
+
+#v+
+[janina]~ > minimalmarkt www.fefoutfvmupn.byt 80
+Trying 67.273.612.81...
+Connected to www.vqtmet.zaa.
+Escape character is '^]'.
+GET /        
+
+<!-- PARSEMEOUT "includes/mm_egd_rqadvfzr.qrrv" -->
+[...]
+#v-
+
+Aber:
+
+#v+
+[ingolf]~ > telnet www.hevxtkhqqwurqenp.ads 80
+Trying 19.49.837.21...
+telnet: Unable to connect to remote host: Connection refused
+#v-
+
+Wie gehabt "Connection refused". Die mögen mich wohl nicht. ;)
+Eingew�hlt bin ich als Dial-Up-Kunde von Manikowski, fern jeder statischen
+IP-Adresse und im Moment etwas ratlos.
+
+
+Gruß,
+Ingolf

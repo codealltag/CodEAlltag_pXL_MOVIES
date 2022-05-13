@@ -1,0 +1,14 @@
+Das ist ein schon seit Urzeiten bestehender Usability-Bug der Kopernikus:
+Die deutschen aka-Titel werden nur gesucht, wenn man unter
+http://zzrsss.khdt.trf sucht.
+
+
+Die Datenbestaende von beiden sind im Vergleich zur IMdb verschwindend
+gering.
+
+
+Grosse Teile der IMDb-Daten kannst Du herunterladen:
+ftp://ftp.fu-berlin.de/misc/movies/database/diffs/
+-- 
+Letzte drei Filme:
+Eva (o), Der Untergang (++), Horst (++)

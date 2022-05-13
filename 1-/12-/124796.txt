@@ -1,0 +1,60 @@
+Hallo,
+
+
+Nein, wir sind schon weiter, ein Beispiel sind sogenannte
+genetische Algoritmen. Man nimmt eine Reihe Parametersaetze,
+bildet davon Ueberschneidungen (d.h. Kombination von Genen
+durch Fortpflanzung), laesst gewisse Mutationen zu und betrachtet
+dann die naechste Generation und laesst die staerksten (d.h.
+die eine Aufgabe am besten bewaeltigen) ueberleben. O.k. dies
+soll keine wirklich Intelligenz sein, aber es ist ein Beispiel
+dafuer, dass gerade in diesem Bereich man sich nicht nur
+auf Konzepte verlaesst, wie man sie sich normallerweise
+unter einem Programm verlaesst. Uebrigens hat das franz.
+Militaer mit dieser Methode Programme "herangezuechtet", die
+sehr gut fliegen koennen. (Anmerkung: ich bin kein
+Informatiker und beschaeftige mich auch nicht hauptsaechlich
+mit KI, deswegen kann ich auch nicht wirklich den heutigen
+Stand der Technik angeben). Ich habe auch noch ein
+Beispiel fuer ein aehnliches Konstrukt, bei dem man einfach
+eine grosse Parametermenge durchrprobiert hat, um dann die
+beste Loesung zu finden. Es braucht ein wenig Erlaeuterung,
+aber bei Interesse gerne.
+Bei diesen Beispielen gibt man nur das Grundgeruest vor und
+kann eigentlich nicht mehr so genau sagen, warum diese 
+eigentlich so funktionieren. Das gleiche gilt fuer neuronale
+Netze, von denen Du sicher schon gehoert hast, wenn Du Dich
+mit KI beschaeftigt hast. Diese werden ja auch nur
+trainiert.
+Dies scheinen ja auch momentan die erfolgreichsten Konzepte
+in diesem Bereich zu sein: man gibt immer die genaue
+Kontrolle ab (ob damit eine gewisse Unzuverlaessigkeit
+untrennbar mit Intelligenz verbunden ist, wer weiss?)
+
+Und dann noch eine Rueckfrage: wieso wird heute bei Musik
+(z.B. CD-Player) eigentlich fast nur noch Digitaltechnik
+verwendet, wo doch vorher eigentlich schon ein gute
+analoge Infrastruktur existiert hat? Man kann also auch
+analoge Systeme hinreichend gut digital simulieren.
+Ja, man hat immer eine Diskretisierung, welche man als
+Abweichung vom "wahren" Wert, also als ein Rauschen
+beschreiben kann. Aber wie ich schon in einem
+anderem Postin beschrieben habe, ist ein analoges System
+auch nicht Stoerungs- und damit Rauschfrei. Und wenn ich
+genuegen Rechenleistung habe, kann ich jede Simulation unter
+diese Rauschen druecken. Ob ich damit ein bestimmtes chaotisches
+System simulieren kann ist fraglich (da ich dazu ja alle
+Stoereinfluesse kennen muesste), aber ein Simulation, welche
+sich so verhaelt wie sich ein solches System verhalten koennte,
+dies ja.
+
+Doch, das denke ich aber. ;-)
+Momentan scheint es halt so, dass die erfolgreichsten Versuche
+auf diesem Gebiet darin bestehen, gerade diese Kontrollierbarkeit
+aufzugeben.
+
+Wir werden es wiederholen koennen, aber "nachvollziehen" im Sinne
+von verstehen, s.o.
+
+viele Gruesse
+Tino

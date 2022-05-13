@@ -1,0 +1,15 @@
+Natürlich kann man AC-3 auch für digitales Radio verwenden, der Vorteil  
+von MPEG-2-Audio liegt aber in den 3 verschiedenen Layern mit verschiedene  
+Übertragungsraten und entsprechenden Qualitäten. Aber wenn ich mir  
+überlege, dass ich eine Audio-DVD erwerben könnten, die 5kanal Layer1- 
+Audio bietet, faend ich das sehr positiv... ;)
+Und da AC-3 diese verschiedenen Kompressionen meines Wissens nicht bietet,  
+waere so ein Standard-MPEG-Audio-Dekoder wirklich ne feine Sache für alle  
+Abarten des digitalen Audios in Europa (ADR, DAB, Sara, DVB-Audio, DVD- 
+Audio ......), aber leider wird wahrscheinlich so ein Geraet im Jahre 2001  
+nur als Prototyp an einer Uni entwickelt. Shauen mer mal, was passiert..
+
+Ciao, PAOLO.
+------------cut-------------
+eMail: KOYGN@BMHW-AVL.xch.si
+## CrossPoint v3.02 ##

@@ -1,0 +1,14 @@
+* Olaf Talhammer <hlhn@zoijn.aeg>:
+
+
+Es gibt einen Begriff, der das Original auf den Punkt bringt:
+Langweilig. Es ist mir ein Rätsel, wie es Lars Dutschmann "Texas Chainsaw
+Massacre" zum Kultfilm schaffen konnte.
+
+
+Bye,
+Karl
+
+=2D-=20
+Last Exit autoexec.bac =3D>
+echo y | format c:

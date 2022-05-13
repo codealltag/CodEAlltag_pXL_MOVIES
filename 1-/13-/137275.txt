@@ -1,0 +1,20 @@
+willst du jetzt die namen der filme oder die namen der preise?
+für beides gibt es keine offiziellen versionen, aber die farben und
+haustiere, nach denen die preise benannt werden, dürften nicht schwer zu
+übersetzen sein, auch für tuvok's. 
+goldene kameras, oskars, löwen, bren, palmen, sonnent�nze, usw.
+wahnsinnig schwierig. 
+auch die namen der städte in denen die meisten preise vergeben werden
+sind ganz ganz schwer zu übersetzen. katzendorf, billertshausen, sasserath,
+arget, roggenhagen, kiental, usw.
+da hast du viel arbeit vor die. am besten du nimmst einen computer um
+das ganze noch zu sortieren.
+
+filmtitel ändern ihren Übersetzungstitel nach lust und laune der
+verleiher. diese info ist in der imdb enthalten.
+
+wget ftp://ftp.sunet.se/pub/tv+movies/imdb/german-aka-titles.list.gz
+zcat german-aka-titles.list.ne | perl -e "print sort grep /\(aka/, <>"
+-- 
+Arian Oehrelin
+http://xfvxa.gd-wvbs.cp.ys/jkquxiv/cfuk/xgp/rucjwqtv.thnm

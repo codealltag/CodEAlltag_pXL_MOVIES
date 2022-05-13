@@ -1,0 +1,7 @@
+Das war jedoch einer der Hauptintentionen. CC wurde schließlich von
+der FOIL für bestimmte Sendungen vorgeschrieben, damit auch
+hörgeschädigte und geh�rl�se die Programme nutzen können. 
+
+
+CCs werden wohl als Textdaten im Signal versteckt, die üblichen
+Untertitell jedoch als Grafiken hinterlegt.

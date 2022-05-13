@@ -1,0 +1,41 @@
+Wie (leider) viele andere siehst du das Prinzip von 16:9 falsch (kommt 
+wohl daher, weil man es auf einem 4:3-TV angugckt). 16:9 hat nicht oben 
+und unten weniger Bild, sondern links und rechts mehr.
+Die meisten Camcorder leisten da auch ihren Beitrag an dem Trugschluss, 
+indem sie auch einfach nur oben und unten abschneiden. Um den 
+eigentlichen Vorteil von 16:9 ausnutzen zu können, muss man also weiter 
+vom Objekt weggehen, bis in der Höhe wieder alles drauf ist (im 
+Vergleich zum 4:3-Bild). Dann merkt man, dass rechts und links mehr 
+Platz ist.
+
+Ich selbst habe schon 2 Widescreen-Videos gemacht, mit unterschiedlichen 
+Verfahren.
+Bei dem einen hatte ich Camcorder-Aufnahmen (RGHM DCR-TRV50, bei 16:9 
+beschneidet die einfach und zieht das dann wieder auf 4:3 hoch) sowohl 
+in 4:3 also auch in 16:9 vorliegen. Daraus hab ich dann 16:9 letterbox 
+gemacht, also eigentlich 4:3 mit schwarzen Balken. Das 4:3-Bild habe ich 
+zurechtgeschnitten und passen verschoben, das 16:9-Bild habe ich wieder 
+entzerrt. Das ganze wirkt so schon ziemlich gut, und bei der Vorführung 
+via Beamer in einem eher kleinen, niedrigen Raum kann man mit 16:9 das 
+Bild größer darstellen.
+Das zweite habe ich mit dem Camcorder mit 4:3 aufgenommen, wobei ich auf 
+dem Display mit die für 16:9 zu verdeckenden Flächen einfach abgeklebt 
+habe. Geschnitten habe ich dann in echten 16:9, d.h. ich habe das 
+4:3-Bild auf 16:9 hochgezoomt, wobei dabei oben und unten Bildteile 
+verschinden (eben die, die ich abgedeckt hatte). Obwohl auch nicht 
+ideal, weil ich im Prinzip nen digitalen Zoom (ca. 1,4x) vorgeschaltet 
+habe, sieht auch das relativ gut aus. Das ist auch das Verfahren, das 
+ich weiterhin anwenden werde, falls ich 16:9 haben will.
+Und mein nächster Camcorder soll dann 16:9 echt unterstützen bzw. da 
+beobachte ich sowieso, was sich so im HD-Bereich so tut. Die RGHM 
+HDR-FX1 sieht ja schonmal recht interessant aus.
+
+Gruß,
+
+Ivan
+
+
+-- 
+* Ivan Ertel *   http://vfs.couvpw-rtcna.ny   * Videofilmproduktion *
+"Synchronisation  ist  die  Rache der  Deutschen  an  den   Alliierten"
+  [Jean-Pierre F. Altenmüller (Stimme von Othmar)]

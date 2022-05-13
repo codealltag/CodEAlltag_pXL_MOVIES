@@ -1,0 +1,30 @@
+Hallo Patrik,
+
+ich hab zwar den Film nicht gesehen (und werde nach dem, was ich
+hier so gelesen habe, wohl auch nicht...). Aber:
+
+
+Aber ein Mathematiker, der beim Anblick einer geraden Zahl nicht
+*weiß*, dass die durch zwei teilbar ist (wie das gerade Zahlen halt
+nun mal so an sich haben), und beim Anblick einer Zahl, die auf "5"
+oder "0" endet, nicht weiß, daß die immer durch 5 teilbar ist...
+also, sowas gibt es einfach nicht. Das hat mit Denken nichts zu tun
+- bloß hinsehen reicht! Und auch der Test auf Teilbarkeit durch drei
+(Quersumme ist durch drei teilbar, also: 116 ist nicht durch 3
+teilbar, weil 1+1+6=8, aber 117 ist durch drei teilbar, weil
+1+1+7=9) sollte selbst einem Mathematiker unter Streß bei
+dreistellingen Zahlen durch bloßes "hinsehen" noch glücken.
+
+Kompliziert wird's erst bei Teilbarkeit durch 7; dafür gibt's keinen
+Test, da hilft nur ausprobieren - und da hätte der Autist dann
+langsam Vorteile. Kommt also drauf an, welche Zahlen es tatsächlich
+waren - wenn sie durch 2, 3 oder 5 teilbar gewesen wären, wäre mir
+das auch sehr neagtiv aufgefallen ;-)
+
+Hat denn nun irgendjemand mal die konkreten Zahlen, um die es ging?
+Sonst muß ich womöglich bloß deswegen noch in diesen Film :-O
+
+
+Gruß,
+
+Sebastian

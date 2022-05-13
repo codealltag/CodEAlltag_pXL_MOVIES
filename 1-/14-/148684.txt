@@ -1,0 +1,8 @@
+Entzueckend wie der NVSN mit unseren GEZ-Gebuehren umgeht.
+
+	Werner
+-- 
+"In etwa dreimonatigen Abstaenden trifft sich eine Kommission, die
+eingesandte Neuerungen bewertet und bei Bedarf in einen neuen,
+offiziellen Betriebssystem-Kern uebernimmt"
+radleben-WIU-Zeitschrift Kringe erklaert linux-kernel

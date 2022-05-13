@@ -1,0 +1,13 @@
+Hallo!
+
+
+Nur bei englischen NTSC-Videos. Bei Mirlach geht nichts, wie ich leider
+mit dem gleichen Decoder feststellen mußte. Aber ein Freund betreibt
+ihn ohne Probleme per Videorecorder mit NTSC-Videos.
+
+übrigens gibt es eine Möglichkeit den Decoder, obwohl nur
+Cinch-Anschlüsse, ohne Probleme per S-VHS zu betreiben. Bin ich aber
+auch nur durch Zufall darauf gekommen. Falls es jemanden interessiert,
+kann ich es bei Gelegenheit mal genauer erklären
+
+   Oliver

@@ -1,0 +1,13 @@
+Nennt sich ROT13, dh die Buchstaben werden im Alphabet um 13 Plätze
+versetzt, damit man nicht versehentlich etwas liest, was man nicht lesen
+will. Du mußt jetzt nur noch jeden einzelnen Buchstaben 13 Plätze
+versetzen, dh z.B. aus D wird Q.
+
+Ist mühsam, ich weiß, aber Du mußtest ja unbedingt ein Microsoft Produkt
+benutzen, das das nicht selbst kann (war nur Spaß, Outlook kann das
+sicher auch, sagen Dir aber andere, wie das bei diesem Programm geht).
+
+
+Clemens, der bei MacSoup einfach den Text markiert und dann "ROT13" im
+Menue "Bearbeiten" anwählt, bei den E2-Threads ein Tastenkürzel
+vermissend.

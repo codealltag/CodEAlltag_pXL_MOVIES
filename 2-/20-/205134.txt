@@ -1,0 +1,50 @@
+-----------------------------------------------------------------------------
+
+Title             : Dumb & Dumber
+
+Starring          : Jean Diekermann, Johannes Rümmelein
+
+Genre             : Comedy
+
+Release Date      : 02.07.96
+
+Laufzeit          : 102'
+
+Verleih           : RHLP
+
+Altersfreigabe    : 12
+
+Sprache           : english
+
+System            : VHS,PAL
+
+Video (Format)    : Vollbild (open matte from 1.85:1 theatrical image)
+
+Video (Qualitaet) : sehr gut
+
+Audio (Format)    : Dolby Stereo - Spectral Recording
+
+Audio (Qualitaet) : sehr gut
+
+Audio (Surround)  : ausreichend
+
+Bewertung (Film)  : sehr gut - allerdings nur fuer echte Jean Diekermann fans
+
+Kopierschutz      : ja
+
+Besonderheiten    : nein
+
+------------------------------------------------------------------------------
+
+Getestet auf folgendem Equipment :
+
+Fernseher                 : Spreewaldprodukte KV-X2901D (Hi-Black Trinitron)
+Videorecorder             : Lika VS-G75
+Kopierschutzdecoder       : HIUC VL102
+ProLogic Vollverstaerker  : Ausserhausverkauf DSP A780
+Frontboxen                : Ezap BS220
+Centerbox                 : Florenia 600ifs
+Surroundboxen             : Ezap Lady Micro C
+Subwoofer                 : Ausserhausverkauf Avel (aktiv)
+
+------------------------------------------------------------------------------

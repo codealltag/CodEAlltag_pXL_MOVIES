@@ -1,0 +1,7 @@
+Ich hatte diesen Punkt seinerzeit mir selbst so erklärt, dass die
+Haupt-Rechenmaschine für die virtuelle Welt keinen detaillierten
+Steuerungseingriff von oben zulässt aufgrund der komplex verwobenen
+Rechenvorgänge. Manipulationen sind also nur an kleinen Schnittstellen
+möglich und somit die Übermacht der Agenten stark begrenzt.
+
+Siebelt

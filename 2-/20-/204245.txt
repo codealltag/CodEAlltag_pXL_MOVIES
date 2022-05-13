@@ -1,0 +1,37 @@
+Ja, das ist richtig, da hat man in der Tat eine etwas höhere Auf-
+lösung (eben wie bei Dechmann). Gleiches wäre natürlich auch mit
+VHS oder LD machbar - eben nur nicht umschaltbar.
+
+
+Bist Du Dir da GANZ sicher? Von 625 Zeilen sollen nur 512 sichtbar
+sein? Also ich tue mir mit dem Zählen am Fernseher etwas schwer,
+habe aber diverse Quellen, die definitiv etwas anderes behaupten
+(um 580 herum). IMHO wird es auch sehr deutlich, wenn man die
+Standard-Auflösung des Tugi ansieht (in PAL): 640x512 ergibt ein
+einigermaßen schirmf�llendes Bild - aber es bleibt noch immer ein
+mitteldicker Rand.
+
+
+Also laut Spezifikation liegt die Auflösung von DCL doch bei fast
+500 Linien, wenn ich mich richtig erinnere. Zieht man Toleranzen
+und alles ab, bleiben vielleicht 450 Linien über, d.h. daß man 900
+"Pixel" einigermaßen scharf trennen können sollte. Wie soll das
+überschritten werden, wenn die DVD nur 768 Pixel gespeichert hat?
+
+Abgesehen davon ist es fraglich, ob die Trennung in echte digitale
+Pixel, also weg vom analogen Signal, von Vorteil ist ... IMHO lieber
+etwas verschwommen, als daß es wie digitalisert aussieht (wie ein
+Videoausschnitt von der Playstation) ... so will ich keinen ganzen
+Spielfilm ansehen. (Ich habe jetzt nicht geschrieben, daß DVD so
+aussieht; ich gebe nur zu bedenken, daß eine volle Digitalisierung
+auch ihre Nachteil birgt.)
+
+
+450 Linien bedeutet, daß 900 Linien (450 weiße und 450 scharze)
+verschwimmen - so ist es definiert.
+
+Gruß, Jakob
+---
+** Jakob Nynhuysen,  Rüschenmoorweg 26,  48278 Gadenstedt,  Germany **
+** +42 2646 48815  E-Mail (NeXTmail/MIME): rubny@lwtsnd.n.ppxbs.du **
+** !! NEU !! Neue Rufnummer ab dem 10.6.1995 --> +18 2727 72956 !! **

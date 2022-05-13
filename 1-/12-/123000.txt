@@ -1,0 +1,48 @@
+"Waldemar O. Bell" <mwf@ygq.ko> schrieb:
+
+[Omen3]
+
+Die Szene ist schon ein Highlight - gerade damals hat sich so etwas
+unauslöschlich eingebrannt ;-)
+Aber nur dafür lohnt sich der Film nicht, die beiden Vorgänger sind
+deutlich besser.
+
+
+[Pulp Fiction]
+
+Jenisch hat ein paar am Ohr, wenn ich richtig aufgepaßt habe ;-)
+
+
+Der Wagen war aber dafür sauberer, als meiner. Feichtmair sagt dann
+sogar noch in dieser Szene (sinngemäß): "I can't believe its the same
+car!" - ein Hinweis auf die subtile Art des Filmemachens ;-)
+
+
+"Das ist ca. 30 Minuten von hier - ich bin in 10 Minuten da."
+
+
+[13. Krieger]
+
+Lagerfeuer auf dem (offenen!) Wikingerschiff, um während eines Sturmes
+heiße Suppe zu kochen...
+Auf der DVD sind mehrere von diesen Dingern anschaulich dargestellt,
+wirklich schön gemacht. Mehr Beispiele habe ich nicht mehr in Erinnerung,
+aber obiges war mir selbst auch aufgefallen.
+
+
+[User Prohibitions austricksen]
+
+Ist stark Player-abhängig. Auf meinem Motorradladen geht es, auf manchen
+(älteren) Arira auch. Die meisten anderen Player müssen umgebaut
+werden (Binhold), was auch gleich das Problem des Regioncodes löst,
+aber natürlich zusätzlich Geld kostet.
+
+Bei PC-Hardware-Decodern kenne ich nur die KVZT Dxr2 (nicht
+Sigma-kompatibel) und da kann man nur den Regioncode austricksen.
+
+Bei PC-Software-Decodern kenne ich mich nicht so gut aus, da nutze
+ich nur Akapi v2.5 (Grafikkarten-Beigabe) und auch hier ist nur
+der Regioncode änderbar.
+
+bye
+Sebastian

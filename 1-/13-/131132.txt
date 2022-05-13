@@ -1,0 +1,8 @@
+Kann ich so nicht mehr sagen, aber das Hashfile bestand pro Eintrag aus
+je 8 Bytes (4 Bytes Offset im File und 4 Bytes Länge). Die Daten
+(z.B: Schauspielernamen) habe ich direkt auf die Platte gelegt. "Niclas
+Böhnsch" hätte dort dann (7+1+7+1=) 16 Bytes (1 Space+1
+Nullbyte) belegt.
+
+-- 
+So long... Fuzz

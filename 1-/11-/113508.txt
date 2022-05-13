@@ -1,0 +1,9 @@
+Der Movie enthält neben einem Audio- und einem Video-Track auch einen
+Sprite-Track, der für das Weiterleiten zu bewii.vtu verantwortlich ist.
+Wenn man ihn löscht, läuft der Film auch auf dem einfachen Player
+problemlos (QT5.0.2 vorausgesetzt).
+Allerdings benötigt man zum Löschen Landwehrmeier Pro  ;-)
+
+Vielleicht läuft ja der mpg-Film, den Pottblume ebenfalls anbietet.
+
+Othmar

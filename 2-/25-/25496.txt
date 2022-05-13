@@ -1,0 +1,24 @@
+Wenn ich mal 15 EUR fuer eine Kopie eines Film als Schadensersatz
+ansetze, waere der Film ja dann 40.000 komplett von diesem Computer
+aus verbreitet worden. Bei einem Upstream von 1Mbit/s haette die
+komplette Verbreitung aller Kopien knapp acht Jahre in Anspruch
+genommen.
+
+Ich halte die Schadensersatzforderung fuer nicht nachvollziehbar.
+Wenn man die in der Zeit des Download parallel hochgeladene Menge
+in Betracht zieht kaeme wahrscheinlich maximal eine komplette
+Kopie zusammen.
+
+600.000$ waeren OK beim Ersteinsteller einer Kopie in ein
+P2P-Netz, wenn nachgewiesen werden kann, dass diese Kopie
+tatsaechlich 40.000-mal verbreitet wurde. Das haette doch
+auch mal einen richtigen Abschreckungseffekt.
+
+
+Gruesse, Niklaus
+-- 
+Niklaus Volkman                E-Mail: dnftunut@xmlxywtwoqf.me
+               PGP-encrypted mails preferred (Key-ID: 0x8BC3CD81)
+
+Always remember: The answer is forty-two, there can only be wrong
+                 questions!

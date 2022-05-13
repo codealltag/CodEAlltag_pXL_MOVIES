@@ -1,0 +1,14 @@
+[...]
+
+Und vor allem vergisst du die in die meisten Systeme schon vorsorglich
+eingebaute Override-Funktion mit der man auch die stärkste
+Verschlüsselung innerhalb Sekunden einfach umgeht ...
+
+Größe
+Dietrich
+
+-- 
+"Tüte einen Menschen, und du bist ein Mörder.
+ Tüte Millionen, und du bist ein Eroberer.
+ Tüte alle, und du bist Gott."
+                                              Henry Reitter

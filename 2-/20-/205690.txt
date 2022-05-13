@@ -1,0 +1,35 @@
+In article <H5Uje8.AuU@gcjxhrqd.di>, qma@vawlcrgs.ju (Loxxcac X. Unterhinninghofen) writes:
+Ohne die Zeile haette ich gesagt: Oh Gott! :-)
+
+
+Das wesentliche Problem ist die Synchronisation der Signale: BAS heisst
+"Bildsignal, Austastsignal, Synchronsignal". Und das bedeutet, dass da nicht
+nur die Bildinformation vorhanden ist, sondern auch noch Impulse, an denen
+ein Fernseher oder Videorecorder erkennt, wo eine Bildzeile oder das Bild
+selbst anfaengt. Drei unabhaengige Kameras erzeugen nun ueblicherweise
+freilaufende Synchronsignale, so dass mit einer solchen Mischung ein
+Videorecorder oder Fernseher lediglich durcheinanderkommt und man ein
+durchlaufendes Bild (wenn ueberhaupt) bekommt (umgekehrt kann man nicht
+erwarten, dass man, selbst wenn man ein solches Kuddel-Muddel aufzeichnen
+koennte, man es wieder in getrennter Form herausbekommen wuerde.
+Was machbar sein mag - haengt von den Kameras ab - ist die Kameras mit einem
+externen Takt zwangszusynchronisieren (brauchen einen Anschluss "extern sync"),
+oder aber man hat einen digitalen Bildmischer (allerdings vergiss dies: sehr 
+teuer).
+
+Dann gibt es noch das Problem, dass RGB nicht einfach drei BAS Signale sind,
+sondern nur die farblich aufgeteilte Bildinformation. Die Synchronimpulse
+werden meist separat uebertragen oder liegen nur auf einer der RGB-Leitungen
+(Gruen ist ueblich).
+
+Und schliesslich gibt es meist noch das Problem, dass Videorecorder zwar
+am Scart-Stecker oft die Ein-/Ausgaenge RBG und Sync haben, aber leider
+nicht generieren oder einlesen, sondern nur vom Fernseher durchschleifen.
+Also, abhaengig vom Recorder wird selbst ein einwandfreies RGB-Signal nicht
+aufgezeichnet.
+
+Ich empfehle zuerst mal ein Buch ueber Fernsehtechnik, um dir klar zu werden,
+was du willst, und auf was du dich einlaesst.
+
+-- 
+         Dr. Rupert Issleib                   | INTERNET: Obodzv.Cfqh@xzt.pe

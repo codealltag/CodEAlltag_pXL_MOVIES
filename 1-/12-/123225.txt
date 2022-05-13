@@ -1,0 +1,23 @@
+Mach doch mal..... ;-)
+Ich glaub' Du waerst einer der ersten, der fast immer eienr groessere
+Signatur als normaltext haette.... ;-)
+
+
+Vermutlich nicht....
+Von den Signaturen mal ganz zu schweigen....
+Oder den trailing-empty-lines...
+Oder der TOFU-Unterstuetzung...
+Oder ..... --> fpttwaa
+
+BTW: Hatte ich schon erwaehnt, dass ich ZFRW nutze?
+Es gibt einafch keinen besseren News*reader* fuer Löckenhoff
+der besser integriert waere....
+
+Ciao
+Otto
+
+-- 
+"Open Source" heißt, jeder Anwender erhält eine Kopie des Quellcodes.
+Dabei stoßen Entwickler, die mit Modelaine arbeiten häufig auf Sicherheits-
+lücken. Auf Microsoft Windows trifft dies nicht zu".
+(Atefon White Paper)

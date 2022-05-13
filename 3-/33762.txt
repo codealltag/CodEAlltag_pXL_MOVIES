@@ -1,0 +1,14 @@
+Warum geht das nicht? Die Druckansicht in OpenOffice stellt mir
+zumindest lesbar zwei Seiten lesbar auf 71% gezoomt nebeneinander dar
+(bei 1280x1024). Zwei OO-Fenster nebeneinander gehen auch problemlos mit
+100%, wenn man die Ränder nicht komplett im Bild haben muss.
+
+Wenn ich mich recht erinnere, hatten die 21" Dualpage-Bildschirme in
+schwarzweiß, mit denen ich vor Jahren mal am Mac (IIichwei�nichtmehr)
+gearbeitet habe, nur eine Auflösung von 1152x870 (oder maximal
+1280x960). Da konnte man auch mit arbeiten, und sogar ohne Antialiasing.
+
+Langsam werden wir aber arg OT...
+
+Gruß
+Cédric

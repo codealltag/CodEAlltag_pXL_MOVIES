@@ -1,0 +1,26 @@
+Das war eine Anweisung des Filmverleihs gewesen, bei der die Kinos noch
+kurzfristig diese 2 Szenen rausschneiden mußten. Die Kinobetreiber an s=
+ich
+dürfen nicht entscheiden, ob sie einen Film schneiden. Dazu muß schon=
+ der
+Verleiher anweisen...
+
+
+Natürlich ist der Ton noch mit auf dem Filmmaterial drauf, nur ist das =
+Bild
+und der Ton zeitversetzt auf dem Filmmaterial, da die Tonabnehmer ja nich=
+t
+direkt am Bildfenster liegen sondern 24 (?) Bilder dahinter. Das heißt
+somit, wenn du aus einem Film ein paar Bilder rausschneidest, schneidest =
+du
+den Ton anderer Bilder mit raus. Und das fällt auf jeden Fall unangeneh=
+m
+auf. Und auch bei DTS besteht dieses Problem, der DTS Code ist ähnlich =
+wie
+die analoge Tonspur auf dem Filmmaterial drauf und der DTS Reader ist
+ebenfalls nicht am Bildfenster platziert. Dort hörst du allerdings das
+knacken der Schnitte nicht, dieser Tonversatz ist aber trotzdem vorhanden=
+=2E..
+
+Gruß
+Klaas

@@ -1,0 +1,17 @@
+Du hast offensichtlich Problme mit den Vorzeichen - richtig wäre:
+
++-  Alien 3
+++  Seven
++   The Game
++++ Fight Club
+++  Panic Room ?
+
+
+Bye
+
+  simon
+
+-- 
+Dem Blöden führt bei jedem sinnvollen Wort der 
+Schrecken in die Glieder.
+ - Henning

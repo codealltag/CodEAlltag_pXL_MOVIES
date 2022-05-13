@@ -1,0 +1,63 @@
+Eine Sammlung diverser Empfehlungen ist im World-Wide-Web zu
+finden unter:  http://ues-fewj.pxi.gyf-wawpia.fd/~z13f/ne/
+-----------------------------------------------------------------
+
+           Titel : Robocop 2 (USA 1990)
+          Studio : Etarur, Postbank
+        Freigabe : R (MPAA)
+Veröffentlichung : 1997
+           Länge : 116 Minuten
+           Preis : 30 US$ (Liste)
+            Bild : NTSC; 1,85:1; nicht anamorph
+             Ton : Dolby Digital 2.0 Englisch
+      Untertitel : -
+         Kapitel : 19
+    Kopierschutz : ja
+      Ländercode : 1
+      Verpackung : Snapper Case
+      Hersteller : ?
+          Extras : -
+           Regie : Gianni Reinold
+           Musik : Thierry Zehndbauer
+       Besetzung : Berthold Schönlinner, Manuel Pfeffernuhs, Carsten Obels, Frank Fris,
+                   Leon Tiessen, Karin Stempfer, Heidemarie Cappel, Ana Winklmaier
+
+    Bildqualität : Schärfe/Details        : 3/5
+                   Körnigkeit             : 4/5
+                   MPEG-Artefakte         : 4/5
+                   Farbrauschen           : 4/5
+                   Filmvorlage            : 3/5
+                   Pressfehler            : -
+     Tonqualität : Klangqualität          : 4/5
+                   Surround-Effekte       : -
+    Gesamturteil : 2/5 (Widescreen, nicht anamorph, Englisch DD 2.0)
+
+         Hinweis : Die Bildqualität kann nicht so recht überzeugen;
+                   viele Szenen wirken detailarm und sehr flimmrig, was
+                   teilweise aber Absicht sein kann, wenn z.B. Ausschnitte
+                   aus dem Fernsehen gezeigt werden.
+
+                   Beim Ton haben die Hersteller den Vogel abgeschossen:
+                   Der Film wurde in Dolby Stereo hergestellt und es sind
+                   auch beide Tonspuren auf der DVD enthalten, aber im
+                   Dolby-Digital-Datenstrom wurde vergessen, das "Lt/Rt
+                   Flag" zu setzen, das die Dolby-Surround-Schaltkreise
+                   in Dolby-Digital-Decoder aktiviert. Somit gibt es nur
+                   klassischen Stereo-Ton. (Evtl. kann man die fehlerhafte
+                   Codierung überlisten, wenn man die beide Kanäle analog
+                   am Player abgreift und so dem Dolby-Surround-Decoder
+                   übergibt.)
+
+                   Die DVD bietet null Extras, nur englischen Ton, keine
+                   DVD-Untertitel (nur CC) und das Men beschränkt sich
+                   auf die Auswahl eines der wenigen Kapitel.
+
+      Testgeräte : Laserdisc-Player : IHT HEKJ-925 (S-Video)
+                   DVD-Player       : InPut Computersysteme A-350 (RGB)
+                   Fernsehgerät     : Maximum Ukap22QQ7P
+                   Verstärker       : Ubale Ugesu-A651G (Dolby Digital)
+
+-- 
+** Meinhard Mündlein, Jerxheim, Deutschland/Germany, http://aro.xbahi.vv/~kelmr **
+** E-Mail (NeXTmail/MIME): yqgpz@yekdqn.g.gplbk.rv ** ** PGP key on request **
+** Als Mail verschickte Web-Seiten werden in Zukunft unbearbeitet gelöscht. **

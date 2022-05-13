@@ -1,0 +1,9 @@
+Je nach verwendetem Verfahren zwischen 93 dB und 115 dB (16 bit, 44.1 kHz).
+Es ist *etwas* komplizierter als die Zahl 6 mit der 16 zu multiplizieren,
+dafür ist das menschliche Gehör und die Mathematik zu kompliziert.
+
+-- 
+Jörn Krespach
+
+ /------\  /-----------------------------------------------------\
+ \------/  \-----------------------------------------------------/

@@ -1,0 +1,45 @@
+Hi Leute,
+
+Also: Es funktioniert. MPEG-Multichannel auf dem Motoren A350.
+Es funktioniert tatsächlich.
+
+Die schlechte Nachricht: Nicht so gut wie Dolby Digital.
+
+Ich habe hier die DVD "Liliane und die Wildgänse" und zunächst aus MPEG-MC
+nur Stereo (Prologic-codiert) rausbekommen, wohingegen DD perfekt
+funktionierte. 
+
+Dann habe ich mal an den Settings gespielt.
+Ich habe hier nämlich keinen Center (war noch nicht drin im Budget) und
+dementsprechend das LS-Setup konfiguriert. Sozusagen auf 4.1 Lautsprecher.
+
+Bei Dolby Digital funktioniert das einwandfrei, da mischt der Dekoder den
+Sound richtig auf die vorhandenen LS ab. Dafür hat man ja schließlich
+dieses Men... Hinten hab ich auch nur kleine Popel-Boxen, also kommt der
+Ba�anteil aus dem Subwoofer. Klappt alles hervorragend.
+
+Jetzt hab ich mit dem MPEG-MC Track auf "Liliane..." rumgespielt. Tatsächlich:
+Wenn ich im Setup alle 6 Lautsprecher vorgebe, funktioniert es! Die
+hinteren Kanäle spielen und sogar der Tiefba� donnert vor sich hin. Bloß
+versteh ich dann nichts mehr, weil ich ja keinen Center habe. Haha... :-(
+Nehme ich den Center aus dem Setup, kommt wieder nur Prologic aus dem
+Dekoder.
+
+Was schließen wir daraus?
+Die gute Nachricht: MPEG-Multichannel funktioniert mit dem A350. Hurra!
+Also doch das richtige Gerät gekauft. :-) Die schlechte Nachricht: Der
+Dekoder ist nicht so ausgereift wie der für Dolby Digital. Kommt wohl
+daher, weil die Hersteller noch keinerlei Erfahrung damit haben? :-(
+
+Das mit dem "Virtual Surround" geht ja auch nur mit DD. Klingt übrigens
+echt gut auf einer Stereoanlage oder - noch besser - mit Kopfhörer!
+
+
+Ist dieses Thema nun auch geklärt. :-) Bin ich froh, dieses Gerät zu haben.
+Jetzt kann ich deutsche DVDs kaufen und genießen, egal ob MPEG oder DD drauf ist.
+Fehlen mir nur noch gescheite Lautsprecher.
+
+Ride on, Ingo.
+---
+Ingo Wietzius, Blauhand, Germany * E-Mail: Tgfvyyjpa.Wmpfp@jmbhnv.se
+*** Grün ist der Wechsel *** Bundestagswahl 18.05.99 ***

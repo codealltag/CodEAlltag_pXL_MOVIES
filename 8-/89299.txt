@@ -1,0 +1,10 @@
+Aber wer will gegen Geld 250MB von einem Server saugen, der z.B. bei
+DSL nur im günstigsten Fall 128k im Upstream anbietet?
+Es sei denn, man hat eine symmetrische Standleitung - aber dann wäre
+die Frage hier wohl nicht gekommen...
+
+
+Arno
+-- 
+Korinthenkacker
+    (bjkaup in d.s.r.m.)

@@ -1,0 +1,14 @@
+Hallo
+
+Wir Ich schon Gestern erfahren habe Kopiert man VideoCD s am besten mit
+CloneCD
+Subchannels lesen, und der Option Subchannels unkorrigiert zurückschreiben.
+
+Die Option Subchannels Daten nicht reperrieren inst nicht unterlegt so dass
+ich sie nicht aktivieren kann.
+
+Kann mir jemand da weiterhelfen ?
+Ich benutze die Version 3.3.4.1
+
+MfG
+Gunter

@@ -1,0 +1,35 @@
+Internet übliche Sicherheits Einstellungen ?
+
+Das wäre dann in etwa folgendes Szenario:
+Irgendwann mal freshnails installiert, aber aus Angst vor Microsoft nie
+die aktuellen SicherheitsPatches geladen (wie lang war der Patch
+draußen der Nimda verhindert hätte ?) und dann vor 2 Monaten auch
+endlich mal den Explorer aktualisiert. Dieses automatische Passwort
+einfüllen ist doch ein Segen für die Menscheit. Und mit aktiviertem
+scripting und java ist auch alles so schön bunt....
+Die Anti Virus Software hat immer rumkrakelt sie müßte aktualisiert
+werde. Deshalb auf stumm geschaltet seit letzten November. Oder gleich
+abgeschaltet.
+Die Desktop Firewall hat auch immer doof rumgefragt, also solange
+allen Programmen jedes mögliche Recht zugebilligt bis Ruhe ist.
+
+Ja, so kann man sich alles mögliche einfangen....
+
+
+Und du liest dir vorher immer alles genau durch?
+Also das erste was ich bei freshnails gelernt habe, das war in 0,2
+Sekunden den ja Button in Boxen zu finden und zu klicken, weil man
+permanent daraufhin trainiert wird.
+Hahnel hätte sein Freude....
+
+Die einzig wahren Waffen gegen Dialer:
+Die vorhandenen Schutzmöglichkeiten benutzen auch wenns nervt, 
+nicht jeden Schnickschnack ausprobieren müsen, Gesundes Mißtrauen,
+nicht jeden Müll glauben und runterladen und öfters mal Einstellungen
+überprüfen.
+
+Geheimtip: Ich habe meinen ModemW�hlton immer mitgepfiffen, wenn der
+anderes gedelt hätte auf einmal, das hätte ich gemerkt ;-)
+
+
+Emmerich

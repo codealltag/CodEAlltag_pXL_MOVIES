@@ -1,0 +1,26 @@
+Hallo Leute!!
+
+Ich wüßte gerne wie VPS eigentlich arbeitet. Gut, es kommt ein Signal
+vom Sender das der Videorecorder erkennt und dann die Aufnahme startet
+bzw. beendet, soviel ist klar. Aber was beinhaltet dieses Signal?
+
+Ist es immer das gleiche Signal und der Videorecorder erkennt nur an der
+programmierten Uhrzeit, daß das SEIN Signal ist, oder ist da auch noch
+irgendwie die Uhrzeit (oder etwas anderes) mit enthalten wodurch das
+Signal je Sendung einmalig ist?
+
+Hintergrund meiner Frage: Ich will am kommenden Wochenende, sowohl am
+Samstag und am Sonntag jeweils eine Sendung mit Hilfe von VPS aufnehmen.
+Normalerweise ist das ja kein Problem, aber durch die Zeitumstellung
+(die mein VCR nicht automatisch durchführt) und die Tatsache, daß ich
+das ganze Wochenende nicht zuhause bin wird es etwas schwieriger. Am
+Sonntag hat mein VCR also die falsche Uhrzeit. Ist es möglich tortzdem
+VPS zu nutzen indem ich beim programmieren die Zeitumstellung mit
+einrechne? Also Sendebeginn 16 Uhr, Programmierung 17 Uhr?
+
+Hoffe, ich habe mich verständlich ausgedrückt.
+
+Besten Dank für Eure Hilfe.
+
+Gruß,
+Norman.

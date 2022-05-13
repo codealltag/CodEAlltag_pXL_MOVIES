@@ -1,0 +1,30 @@
+Ja, weil bei den gaengigen oesterreichischen Zeitungen der Knopf zum
+ROT13 dekodieren fehlt. ;-)
+
+[...]
+
+
+<Sarkasmus> Doch natuerlich: copy und paste ins rot13-Programm, wenn
+man unbedingt meint, ein untaugliches Programm oder ein umstaendliches
+Interface benutzen zu muessen.</Sarkasmus>
+
+
+Wenn ich dran denke, schicke ich meine Texte vor dem Posten durch
+Affentheater, ich will ja moeglichst leicht zu lesende Artikel verschicken.
+
+Zu Sache: Meinereiner schaetzt Spoilerspace a la
+S
+P
+O
+...
+
+(leere Zeilen werden ja bekanntlich von manchen Newsreadern
+ausgeblendet). ROT13 ist umstaendlich in der Handhabung beim Posten
+und Lesen (auch wenn mein Newsreader das auf Tastendruck erledigt),
+und sollte _imho_ nur dann Verwendung finden, wenn sich Spoilerspace
+nicht auszahlt (Trurvzavf). Laengere Saetze, die dauernd zwischen ROT13
+und Klartext hin- und herwechseln, sind sowieso eine Qual.
+                       cu kora
+-- 
+Hey, da ist ein Ballonautomat auf der Toilette!
+vim:ls=2:stl=***\ Sing\ a\ song.\ ***

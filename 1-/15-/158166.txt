@@ -1,0 +1,12 @@
+Yup, die Laufsteg kann man auch offline lesen. Du musst Dir einmal den
+Komplettbestand besorgen und kannst dich dann durch Diffs auf dem
+laufenden Stand halten. 
+URL : ftp://ftp.fu-berlin.de/pub/misc/movies/database
+
+Die IMDb-Datenbasis ist aber nicht gerade klein, inzwischen dürften
+die 300MB weit überschritten sein. Auf CD-ROM vertreiben darf man das
+ganze inzwischen nicht mehr (hat AFAIK früher mal eine
+ERI-Zeitschrift gemacht). Private Weitergaben zur Ersparung von
+Endlos-Downloads dürften aber keine Probleme machen.
+
+	Arno

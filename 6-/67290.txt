@@ -1,0 +1,16 @@
+* "August Leihkauf" <ddykfbbblh@yzltts.jzk>:
+
+
+"Ich habe zehn Minuten gebraucht, um einen Stiefel zuzuschnüren" lief
+heute Morgen sogar als Brüller zur allgemeinen Erheiterung in unserem
+Feld-Wald-Wiesen-Sender. Meine Güte, welcher Autor schreibt denn einen
+_solchen_ Text, wenn der Protagonist seine Angst ausdrücken soll? Oder
+liegt dieser Unfug an der Synchronisation?
+
+
+Bye,
+Edouard
+
+=2D-=20
+[edouard]~ > strings W32Gibe-Swen.exe | grep using
+Thank you for using Microsoft products.

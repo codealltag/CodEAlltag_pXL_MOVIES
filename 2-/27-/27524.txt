@@ -1,0 +1,10 @@
+NTSC(-Video) verwendet 30 fps, Film verwendet 24 fps. Deshalb kommt es
+ja zum nervtötenden 3:2-Pulldown bei RC1-DVDs.
+
+Tschüss,
+        Carl
+-- 
+"The PROPER way to handle HTML postings is to cancel the article,
+then hire a hitman to kill the poster, his wife and kids, and fuck
+his dog and smash his computer into little bits. Anything more is
+just extremism." - Wolfram Janovsky

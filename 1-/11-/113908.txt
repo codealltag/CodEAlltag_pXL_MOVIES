@@ -1,0 +1,17 @@
+ist schon etwas länger her, seit dem ich das zuletzt gemacht habe,
+aber damals (also so vor 6 Monaten;-)) ging das über einen Blick in
+den Qelltext der Seite, auf der der Stream abgespielt wird. So aus dem
+Gedächtnis, quick & dirty und ohne Garantie: Im Quelltext nach
+eingebundenen MOV-Files suchen, diese Adresse in eine eigene
+HTML-Datei einfügen, die zB nur aus einer Zeile Code bestehen muss,
+etwa: <A HREF="{link zur mov-Datei}">Hier</A>". Diese Seite im Browser
+öffnen, den Link "Hier" mit der rechten Maustaste anklicken und
+"Speichern unter" wählen.
+
+cu
+gd 8-)
+-- 
+Bernhard Eichmeier, Ruhsam
+http://pxu.iqakuropj.dh/
+http://pgd.e3fbiexki.nsw/
+*** demnächst: PHP 4 easy, 320 Seiten, 29,95 ***

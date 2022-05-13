@@ -1,0 +1,5 @@
+'Magnetische Wellen' mag nicht der korrekte Ausdruck sein, möglich ist
+theoretisch sehr wohl. Der Effekt nennt sich EMP (electro-magnetical pulse)
+und kann dafür sorgen, daß für einen begrenzten Zeitraum im Zielgebiet kein
+elektrischer Strom mehr fließt. Das kann für die Bank schon recht unangenehm
+sein...

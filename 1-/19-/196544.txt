@@ -1,0 +1,23 @@
+Mir geht es bei den Vorteilen von MPEG-Audio vor allem um die vielfältigen  
+Einsatzmöglichkeiten nur EINES Dekoders für verschiedene Bereiche, also  
+nicht nur der DVD. Natürlich macht es keinen Sinn auf eine DVD, die  
+sowieso >4.7 GB bietet, noch eine Kompression aufzubringen, zumindest für  
+den Heimbereich nicht. Aber in Dauerabnudel-Stationen in Kneipen, könnte  
+zum Beispiel eine solche Endlos-DVD (bei 128kBit/s in Layer3 würden auf ne  
+DVD immerhin 80h in Fast-CD-Qual. draufpassen) sehr gut passen, oder auch  
+für Werbefunk in den Kaufhäusern.
+
+Ums noch einmal klarzustellen: Auch für mich, macht es keinen Sinn, ZWEI  
+Audio-Systeme für US/Europe im DVD-Bereich zu etablieren, zumal die beiden  
+Systeme, die dem Heimbereich dienen werden sowieso identisch sind.
+NUR, von der technischen Machbarkeit in allen Richtungen hat MPEG-Audio  
+klar die Nase vorn, zumal alle Spezifikationen öffentlich zugängig sind  
+und daher jede Firma ohne grosses Federlesen eigene Produkte auf den Markt  
+bringen könnte. Ich will nur sagen, dass man vom Blickpunkt der  
+Vielfältigkeit und techn. Kennziffern und Eckdaten mehr Pluspunkte auf  
+MPEG-Seite sehen muss.....
+
+Ciao, PASCAL.
+------------cut-------------
+eMail: NJPWL@FHSQ-AFS.swr.ga
+## CrossPoint v3.02 ##

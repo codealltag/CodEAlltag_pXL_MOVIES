@@ -1,0 +1,11 @@
+On Fri, 8 Feb 2005 18:39:30 +0100, "Tobias Eickhaus"
+
+
+Die RC1 (aber auch nur wegen fehlendem udowalz-Speedup) ansonsten sind
+alle Gerüchte über längere Versionen bis jetzt eben nicht mehr als
+Gerüchte.
+-- 
+Gruß/Regards
+Luc Daenzer
+
+Who's General Failure & why's he reading my disk?

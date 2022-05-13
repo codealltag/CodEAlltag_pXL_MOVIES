@@ -1,0 +1,15 @@
+Hier geht's um was anderes, naemlich den Namen "Pascal Brielbeck III" und
+nicht etwas wie "Pascal Brielbeck (III)".  Die Person mit ersterem Namen
+nennt sich halt so, und bei letzterem Namen wurde das "III" von der IMDb
+als "Zaehler" zur Eindeutigkeit dazugefuegt.
+
+
+Vermutlich in der Reihenfolge, in der sie gemeldet wurden.
+
+    -leonhard
+
+-- 
+  http://bog-Pymbba.jl/  *  http://Vhwhe52.jz/  *  http://DdglozHszx.xl/
+
+panic ("No CPUs found. System halted.\n");
+        2.4.3 linux/arch/parisc/kernel/setup.c

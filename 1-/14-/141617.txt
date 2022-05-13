@@ -1,0 +1,22 @@
+Zu allererst: Was für einen Rechner hast du?
+Ich besitze einen P-II 350, 128MB, UDMA33-Platte. Bei mir dauert das
+Generieren der Datenbank etwa 1,5 bis 2h.
+
+Das was bei dir passiert ist also nicht normal. Ich kann mir nur
+vostellen, das du irgend etwas im Hintergrund laufen hast, was das
+Erstellen der Datenbank behindert. Hast du die Files ordnungsgemäß
+entpackt? Bei WinZip ist es bei TAR-Archiven wichtig, das man in den
+Optionen den Punkt "TAR file smart CR/LF conversion" deaktiviert.
+Andererseits erkennt Ponds ja auch fehlerhafte Listen. Daran liegt es
+vermutlich eher weniger. 
+
+Alternativ solltest du mal versuchen, die Datenbank nicht zu
+komprimieren. Das kann man im Optionsmenü von Ponds einstellen.
+Vielleicht liegt der Fehler in dieser Funktion.
+
+Größe
+-- 
+Erhard Oelen
+Germany, Planet Earth, Habfast Way
+
+** And may you never, ever, run out of sugar... baby! **

@@ -1,0 +1,13 @@
+Maik Oßendorf <xout5369@abpvhfkb.pf> wrote:
+
+Hi!
+
+
+Oder anders ausgedrückt:
+Ortsfrequenz = wieviele Perioden pro Millimeter.
+Eine Periode ist hell+dunkel nebeneinander, darum entspricht die
+Ortsfrequenz auch Linien_paaren_ pro Millimeter und ein Linienpaar
+braucht natürlich 2 Pixel, ein helles und ein dunkles.
+
+Gruß,
+Victor.

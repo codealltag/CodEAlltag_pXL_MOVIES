@@ -1,0 +1,14 @@
+Hallo zusammen,
+
+ich wuerde gerne automatisch in einem Skript bestimmte Daten aus
+der IMDb abfragen und auswerten. Gibt's dafuer ein Interface,
+dem ich nur die Filmnummer und das gewuenschte Element (z.B.
+Produktionsjahr) angebe? Oder muss ich mir die Webseite abrufen
+und mir dort das Element rausfiltern?
+
+Leider finde ich auf der Kammels-Seite keine Info dazu. Weiss jemand
+von Euch, ob das irgendwie elegant geht, ohne sich die ganze IMDb
+bzw. die Diffs lokal zu speichern?
+
+Gruss
+  Urs

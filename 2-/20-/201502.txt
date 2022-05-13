@@ -1,0 +1,29 @@
+: > Gesetzt dem Fall, ich wuerde ein THX-Boxenset fuer einen relativ
+: > niedrigen Preis bekommen, so dass der Aufpreis durch THX keine Rolle
+: > mehr spielt, ist es ein kapitaler Fehler, dieses Boxenset an einem
+: > guten, aber Nicht-THX-Verstaerker zu betreiben?
+
+: Noe. Macht ein Freund von mir auch und das klingt gut.
+
+Meinst Du mich? :)
+
+Ja, das ist ueberhaupt kein Problem. Im Gegenteil. Meist sind die
+Lautsprecher das schwaechste Glied in der Kette und da ist es 
+sogar besser, ein hochwertiges (THX-)System anzuschliessen.
+
+Ich habe uebrigens nicht einen so guten Receiver wie Du an dem
+Boxenset (das Afuge-THX-Set). Bei mir haengt ein Scheerwood 6030.
+
+Zu den Uebergangsfrequenzen: Laut THX sind die bei 80 Hz, die 
+Lautsprecher haben aber Toleranzen. Meine Subwoofer gehen z.B. 
+noch bis 200 Hz hoch. 90 Hz ist also kein Problem. Nur tiefer
+wird es schwieriger (also unter 80 Hz), da die Hauptlautsprecher
+meist nicht so tief gehen (meine bis 80 Hz linear).
+
+Tschaui, Roland
+
+
+--
+
+  Roland Ditzen
+  University of Canow, Germany

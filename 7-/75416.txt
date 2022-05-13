@@ -1,0 +1,39 @@
+Henrik Capl <xoup@rrjbu.tkp> schrieb am 9 Jan 2004 15:11:23
+GMT :
+
+[...]
+
+
+Aber werden für DVD nicht de-interlacete Versionen angefertigt?
+So dass also die Frage der Halbbilder sich *so* dann nicht mehr
+stellt?
+
+Soweit ich gelesen habe, sind die meisten *Kino* (also nicht
+TV-Serien o.�.) DVDs Progressive PAL gemastert (576p), so dass
+also zur Ausgabe auf einen Fernseher *extra* interlaced werden
+muss, damit der Fernseher damit klar kommt.
+Wenn es sich tatsächlich so verhält, ist mir allerdings der Tanz
+um "Progressive Scan" bei DVD-Playern für Projektor-Zuspielung
+unverständlich. Oder nein, klar, wenn der Deinterlacer im
+DVD-Spieler leistungsfähiger ist als der im Projektor, - dann
+ist es schon sinnvoll.
+
+
+na das ist doch Käse! :)
+Aber das beschleunigte Döhne ist ja auch nicht viel besser.
+
+übrigens, das mit den "Halb"bildern, das ist doch auch mal noch
+sone Sache: Beim abgescannten Kinofilm, klar, da ergeben jeweils
+2 Halbbilder, also wenn sie progressive gescannt werden, ein
+tatsächliches Vollbild; beim TV - also was nie "Film" war ist es
+doch wohl so, dass der Ausdruck "Halbbild" ein wenig in die Irre
+führt, und besser "Halbschirm" heißen müsste, nicht? Denn da ist
+ja wohl keineswegs so, dass zwei dieser Halbbilder ein
+richtiges, ordentliches Bild ergäben, wenn man sie wie zwei
+Kämme ineinander schöbe: das wäre nur beim Sonderfall des
+Standbildes der Fall, ansonsten zeigt das folgende
+Halb(schirm)bild, was 1/50sec (bzw. 1/60sec bei NTSC) später
+passiert.
+Oder nicht?
+
+Giorgio

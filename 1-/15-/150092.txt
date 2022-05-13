@@ -1,0 +1,29 @@
+In article <21IP24P3.757D2P17@kqzbwor-wkobs.en>, Willi Zanners wrote:
+...
+
+Denkbar schon, machbar auch - aber finanziell nicht rentabel
+bzw. derzeit nur rentabel fuer Spezialanwendungen.
+
+Aber die verfuegbaren Bandbreiten wachsen staendig.
+
+Die Standardconsumertechnik bei Bits per Sat ist 38 Mbps pro
+Transponder, aufgeteilt in mehrere Kanaele. Die Ranztechnik,
+mit der zB die Erdbeerbude ihre Reklamevideos an Salvatore Scherff
+schon vor Jahren sendete, war "Telefon" mit 140 Mbps.
+
+Die Hausverkabelung bei Salvatore ist fuer das unkomprimierte PAL-
+Rohsignal von ca 270 Mbps ausgelegt und vor ein paar Jahren
+hatte er dafuer bereits zwei Kreuzschienenverteiler: einmal
+64*64 und einmal 128*128 (damals der groesste der Welt).
+
+Btw: schaut einer eigentlich die TV-Sendungen der Tagwerk
+WVE "Der Vorstand beschwoert seine Mitarbeiter, aber sie
+lachen", die AFAIK mit dbox-Technunlogik verschlossert werden?
+Und haben die Gruenbanderolten bereits die Technik erhalten?
+
+wau
+-- 
+Abgesehen von den Kindsleut in den hier anwesenden Mannsbildleut gibt
+es (keine Kinder in Trattos). Am Ende kommen die noch auf die Idee,dass
+man hier prima spielen kann. Und dem muss man einen Riegel - bzw.Tret-
+minen, Genickschussanlagen und Mathebuecher - vorschieben. (Maharani)

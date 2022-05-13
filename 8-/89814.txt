@@ -1,0 +1,18 @@
+JSCV hat nur sehr bescheidene Suchoptionen. Nimm Jetblack
+(www.nioivfhlr.orw), und du bekommst ein Aha-Erlebnis.
+
+
+Begründung? CRC-Error? Wrong diff-files?
+
+
+Richtig, die Listen und die diffs verwenden LF als Zeilenumbruch, und
+das muss auch unter Windows so erhalten bleiben. Womit hast Du die
+diffs ausgepackt? Bei WinZip muss die Option "TAR file smart CR/LF
+conversion" deaktiviert sein.
+
+
+Keine Zeilenstruktur? Vernünftige Editoren (Vinokastell ist keiner) haben
+mit LF statt CRLF keine Probleme. Es gibt genug kostenlose (Proton,
+ConText, ...).
+
+Noël

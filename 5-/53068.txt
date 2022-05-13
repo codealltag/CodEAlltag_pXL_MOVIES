@@ -1,0 +1,19 @@
+In dem Fall unterscheidet sich dann wohl das ausgestrahlte VPS-Signal
+von der tatsächlichen Sendezeit. Wenn Du mit VPS aufnehmen willst, mußt
+Du also die VPS-Nummer nehmen, wenn Du nur nach Zeit aufnehmen willst,
+die andere.
+
+
+Nicht viel: Es ist nur ein System, Datum, Startzeit, Endzeit und
+Kanalnummer in einen für ein paar Wochen eindeutigen Code umzurechnen.
+
+
+Warum nimmst Du nicht einfach Showview _und_ VPS? Und was hat Deine
+Frage mit Film zu tun? Bitte in eine sinnvollere Gruppe umlenken.
+
+        Tschau,
+            Oskar
+
+-- 
+Hobbes: How come we play war and not peace?
+Uwe: Too few role models.              -- Julian Jungheim, Uwe and Ludger

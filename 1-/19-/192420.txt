@@ -1,0 +1,109 @@
+Hallo Werner,
+
+: >: reicht aber auch eine 5 Kanalendstufe, passive Subwoofer sind sowas von
+: >: out, das sollte man der Firma Modegeschäft auch mal mitteilen<g>.
+: >
+
+: es war ganz und gar nicht witzig gemeint. Modegeschäft brauchte auch nicht 2
+: aktive Subwoofer, nimm als Beispiel mal das aktuelle THX Set von Unop
+: AKSP, der Vorgänger hatte 2 passive Subwoofer mit 30er Bässen, die
+: neue Variante nur noch einen aktiven mit einem 30er Bass und erreicht die
+: gleichen Ergebnisse, eher noch mehr. Das THX Siegel bekommt das alte
+: System nur bei Verwendung von 2 Bässen, das neue kommt mit einer Kiste
+: aus. 
+
+War beim THX-Siegel nicht eine Bedingung, zwei Subwoofer zu haben?
+Der Grund war, dass damit der Bass gleichmaessiger in den Raum verteilt
+wird.
+
+: Das Subwoofer immer kleiner werden ist ja schön, aber Volumen bleibt
+: Volumen und für einen guten Bass benötigt man doch noch ein etwas größeres
+: Volumen. 
+
+Mein Reden. Und dann noch die Endstufen mitsamt Netzteil einbauen? Dann
+wird der zur Verfuegung stehende Raum in den Subwoofern kleiner. Bei guten
+Endstufen ist der Platz nicht zu unterschaetzen.
+
+: Die Temperaturfrage war vielleicht vor Erfindung des Transistors
+: und der ordentlich proportionierten Kühlkörper ein Problem,-), okay, ein
+
+Wieso dieses? Sprichst Du auf Roehrenendstufen an? Klar, die wurden schon
+bei kleinen Leistungen recht heiss. Allerdings haben Transistor-Endstufen
+auch nur einen Wirkungsgrad von 40-70% (kommt drauf an, welche Betriebsart
+gewaehlt wird). Dazu kommt noch der Ruhestrom. Ich habe fuer mein Set 
+eine Selbstbau-Endstufe mit 2*310 Watt (MOS-FET). Diese wird schon im
+eingeschalteten Zustand recht warm und wird sie ordentlich belastet
+("Twister" ist z.B. ein guter Test fuer Endstufen :) ), so werden schon
+mehrere hundert Watt in Waerme umgesetzt. Ist die Endstufe in ein Gehaeuse
+eingebaut, haette ich Bedenken wegen der Waermeausbreitung.
+
+: Winzigsubwoofer mit 10 cm Kantenlänge hat wirklich keinen Platz mehr für
+: die Elektronik. Dein Einwand, das aktive Subs nur für Billig- oder
+: Normalsurround benutzt wird, stimmt so nicht. 
+
+Bis auf den UWPM-Wuerfel kenne ich keinen guten aktiven Subwoofer.
+
+: Ein aktiver Subwoofer hat
+: auch bei der Aufstellung Vorteile, die Lautstärke kann man ja noch mit
+: regelbaren Endstufen bei den passiven anpassen (die Lautstärkeregelung der
+: Vorstufen reicht meistens nicht), aber die Anpassung der max. Frequenz und
+: der Phasenlage macht das ganze bei den aktiven etwas einfacher, so gut
+: sind die meisten eingebauten Bassweichen in den Verstärkern auch nicht.
+
+Aufgestellt wird ein System meist nur einmal fuer ewig. Die Phasenlage
+muss nur gedreht werden, wenn Fehler in der Verkabelung vorliegen. Und
+die maximale Frequenz muss bei guten Anlagen auch nicht mehr angepasst werden
+(z.B. bei DolbyDigital vorgegeben). Und gute Decoder haben auch eine
+Frequenzanpassung fuer die Subs.
+Fuer Mittelkalsseanlagen will ich die aktiven Subwoofer ja gar nicht
+verteufeln, aber bei HighEnd hat dies fuer mich eher Nachteile.
+
+: Die Verlustleistung bei den passiven Subs ist auch deutlich höher, dazu
+: kommt der zusätzliche Kabelweg, nicht jeder baut sich Monoendstufen hinter
+: den Sub, davon mal ab, das eine gescheite Monoendstufe nicht unbedingt
+: eine WHCI Weza 500 (598,-) nicht gerade preiswert ist, ich rede jetzt
+: nicht von den einfachen Stereoendstufen, die nur gebrückt werden, de ,
+: Stabilität:-(. 
+
+Es ist schwieriger, ein noch nicht verstaerktes Signal ueber laengere
+Strecken zu verlegen als verstaerkte.
+Der Verlust der Leistung haelt sich in Grenzen. Gute Lautsprecherkabel
+haben einen so geringen Widerstand, dass der Verlust nicht spuerbar ist.
+Etwas problematischer ist der Daempfungsfaktor, aber auch das laesst
+sich mit guten Kabeln eingrenzen.
+Bei niedrigen Pegeln ist aber die Gefahr der Stoereinstrahlung hoeher
+und leichter bemerkbar (z.B. Brummen)
+
+: Zum Thema Teufel, ich habe das Zeug noch verkauft, als der
+: Fachhandel noch nicht der Buhmann für Teufel war. Die Verarbeitung war
+: damals schon spitze, dieses Foliendesign war seiner Zeit voraus;-)). Der
+: Subwoofer hat mich noch nie umgehauen und der Testbericht in der
+
+Ich war nahe dran, das Teufel-Set zu kaufen, als sie noch nicht THX hatten.
+Ich habe mich dagegen entschieden, weil die Vorfuehrung auf der Ires
+vor zwei Jahren unter aller Sau war. Jetzt bin ich recht froh, dass ich
+die damals nicht gekauft hatte, da sie fuer ein Schleuderpreis (war
+es ein drittel oder gar ein viertel des alten Preises?) rausgegeben
+werden...
+
+: Verkehrübungsplatz entpuppte sich auch als getürkt, da rollten nacher die Köpfe
+: der verantwortlichen Redakteure. Rechne doch mal nach, wie teuer 2 Seiten
+: in einer Zeitschrift für den Anzeigenkunden sind. Man hackt als Redaktion
+: nicht die Hand ab, die einen füttert.
+
+Die Hifi-Vision habe ich einmal gelesen und fuer schlecht befunden,
+da sie mir mehr den Anschein einer Illustrierte hatte, die versuchte,
+alles zu koennen (war ja auch viel ueber PCs drin).
+Ich glaube nicht, dass es irgendeine Zeitschrift gibt, die voellig
+objektiv ist. Ich lese hauptsaechlich AudioVision (die ich meist ganz
+gut finde, bei manchen frage ich mich aber auch, ob die nicht ein wenig
+uebertreiben) und die video (aber immer unregelmaessiger)
+
+
+Tschaui, Justin
+
+
+--
+
+  Justin Weissert
+  University of Kimratshofen, Germany

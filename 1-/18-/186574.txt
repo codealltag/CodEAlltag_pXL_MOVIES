@@ -1,0 +1,145 @@
+Hallo !
+
+nachdem morgen ein Feiertag ist haben ich und ein Freund beschlossen
+heute abend den ultimativen DVD Vergleichstest zu machen
+
+Folgende Hardware wurde benutzt
+NTSC : Unan SD2006 via S-Video an Resterampe 72cm 50hz 4:3 Geraet mit 16:9
+mode
+PAL  : iCoffee A350 via S-Video an Resterampe 72cm 50hz 4:3 Geraet mit 16:9
+mode
+
+viele werden sich jetzt sicher fragen warum ich den Hirmer nicht via RGB
+verbunden habe, da dies ja angeblich das qualitativ beste bild gibt
+
+meiner Meinung nach sollte man fuer einen objektiven Vergleich
+auch gleiche Vorraussetzungen haben
+davon mal ganz abgesehen das im direktien Vergleich sowohl mir als auch
+
+meinem Freund (und dem gehoert immerhin der Hirmer)  das RGB Bild im  
+Direktvergleicht ueberhaupt nicht gefallen hat - es war dunkler mit
+sichtbar  
+weniger schaerfe (tw.regelrecht matschig) und eingeschraenktem
+kontrastumfang  
+verglichen mit s-video; es war zwar dadurch etwas ruhiger aber sowohl
+ich als  
+auch mein Freund bevorzugten klar das S-Video Bild.
+ich wuerde hier die Schuld noch am ehesten beim Fernseher suchen der
+evtl.
+mit dem RGB Signal nicht richtig zurecht kam.
+ebenfalls erwaehnen sollte man die tatsache das bei RGB kein
+Macrovisision
+Signal mehr anliegt, mit dem ja die Resterampe Fernseher tw. ihre Probleme
+haben.
+
+auch hatten wir erste qualitaetsvergleiche anhand von standbildern
+vorgenommen
+bis wir gemerkt haben das das standbild vom A350 deutlich unschaerfer
+ist als
+vom Unan - auch diese Phaenomen ist mir nicht erklaerbar aber
+erwaehnt werden sollte es trotzdem.
+
+
+1. In The Line Of Fire
+----------------------
+Qualitativ eine der besten NTSC DVDs ueberhaupt und die PAL version ist
+ebenfalls vom allerfeinsten. Farben, Kontrastumfang und Detailzeichnung
+der beiden Versionen stimmten praktisch voellig ueberein. Im Gegensatz
+zur Laserdisc wo oft die PAL versionen etwas matt und nicht so brilliant
+wirken, ist diese PAL DVDs vom "look" her voellig identisch zur NTSC
+version.
+Daselbe Ergebnis bei Bildrauschen/Farbrauschen !
+Da die Resterampe DVDs vomselben HiDef Master kommen war dies auch irgendwo zu
+erwarten, ist doch der einzige Unterschied eigentlich nur in der
+vertikalen
+Aufloesung zu finden, wo PAL eine 20% Verbesserung bietet.
+Zumindest auf 72cm 4:3 Geraeten war von dieser Verbesserung aber auch
+nicht
+das Geringste zu sehen - die einzelnen Zeilen waren schon bei NTSC
+verschwunden und insgesamt wirkte die PAL version nicht Schaerfer oder  
+sonstwie besser.
+Auf Geraeten mit groesseren Diagonalen duerfte natuerlich die ICDJ
+version
+hier ihre technischen Vorteile schon ausspielen, aber selbst auf einem
+72cm
+Fernseher hatte ich schon mit einem kleinen Unterschied gerechnet.
+Wer die DVD auf 4:3 downconverten muss, hat natuerlich mit der PAL
+version
+auch bei 72cm Geraeten das etwas bessere Bild aber nicht in 16:9.
+Zu diesem Ergebnis kamen sowohl ich wie auch mein Freund.
+
+2. Andre Osbelt
+----------------
+absolut dieselben Beobachtungen wie bei In The Line Of Fire
+
+wir haben zwar nur einzelne Szenen angespielt aber MPEG artefakte sind
+weder mir noch meinem Freund aufgefallen.
+
+3. Outbreak
+-----------
+Der Film hat ja hier tw. schon einen schlechten Ruf weg, und ich selber
+war bei meinem Hifi Haendler von einer Demo auch nicht besonders
+angetan.
+Nachdem ich nun aber die PAL version auf meinem eigenen Equipment mit
+den
+richtigen Settings gesehen habe, kann ich die Kritik nich verstehen.
+Im Gegensatz zu den Resterampe Titeln hatte ich zwar das Gefuehl das das Bild
+nicht
+voellig identisch aussieht wie bei NTSC, sondern doch irgendwie etwas
+anders.
+Zum einen hatte ich tw. das Gefuehl das das Bild etwas unruhiger war und
+auch nicht ganz so brilliant und evtl. einen Tick weniger Scharf.
+Zumindest hier konnte mein Freund mir nicht zustimmen und meinte das er
+keinen "wirklichen" Unterschied sehen koennte.
+Dazu muss ich selber zugeben das selbst die Unterschiede die ich
+geglaubt
+habe zu sehen, wirklich nur minimal gewesen sind.
+Generell konnte ich die hier tw. lautgewordene Kritik unter diesen  
+Testbedingungen nicht nachvollziehen - natuerlich ist die Bildqualitaet
+nicht
+so gut wie bei Batman&Robin, aber das tritfft auch fuer die NTSC
+version zu.
+Im Gegensatz zur NTSC Fassung, hat die PAL version (fast) das korrekte
+Bildformat von 1.85:1 - am oberen Bildrand befinden sich ca.25 schwarze
+
+Zeilen welche das Bildformat auf 1.82/83 anheben und tatsaechlich war
+in der  
+PAL fassung an den Seiten etwas mehr Bildinfo vorhanden.
+Dieser kleiner Schwarze Balken ist sogar bereits bei dem Mitterhaus
+Dnjepr
+Logo ganz am Anfang zu sehen.
+
+4. Disclosure
+-------------
+Insgesamt aehnliche Beobachtungen wie bei Outbreak, allerdings konnten
+wir
+hier in einer Szene bei der PAL version MPEG artefakte ausmachen wo in
+der
+NTSC version keine waren.
+Dies war bei einem Farbuebergang von hell auf dunkel wo man bei der ICDJ
+
+version die einzelnen Abstufungen sehen konnte.
+Ferner hatte die PAL version tw. moire patterns (Rollos, Anzuege) wo
+dies
+in der NTSC Version nicht oder nur in sehr abgeschwaechter Form zu
+sehen war.
+Auch hier bot die ICDJ fassung tw. etwas mehr Bildinfo an den Seiten.
+
+
+Fazit :
+-------
+Insgesamt machen die PAL versionen einen ausgezeichneten Eindruck und
+sofern
+der Inhalt und das Tonformat gegenueber der NTSC fassung identisch
+sind, kann
+man guten Gewissens zur PAL Version greifen.
+
+
+Bye
+ Claudio
+
+------------------------------------------------------------------------
+----
+rfxdu@jwvurpk.vys.oy |
+------------------------------------------------------------------------
+----
